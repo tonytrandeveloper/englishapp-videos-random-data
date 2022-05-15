@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zUuc6Q1u0q0",
-            "title": "Trump focuses on immigration in State of the Union address",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "xmeuPlcMQko",
             "title": "‘Jeopardy!’ James surges back in gameshow showdown l ABC News",
             "secondDuration": 185,
@@ -61,8 +55,14 @@
             "title": "Person of the Week: Amanda Lewis",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "Va8VB90Rln8",
+            "title": "ABC News Prime: 3 mil. US COVID-19 infections; Reopening schools debate;  AG Barr interview",
+            "secondDuration": 3648,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

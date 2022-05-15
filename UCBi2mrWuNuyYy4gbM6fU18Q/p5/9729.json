@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X3vK5qVNOWw",
-            "title": "Malala Yousafzai Speaks Out",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "ot4jAIsA3YE",
             "title": "Navy SEAL Team 6 Member Killed in Parachute Accident",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "iPhone 6s and Apple TV at Apple Special Event 2015",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "XLYwav4dYfI",
+            "title": "Student arrested for an alleged mass shooting plot l WNT",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

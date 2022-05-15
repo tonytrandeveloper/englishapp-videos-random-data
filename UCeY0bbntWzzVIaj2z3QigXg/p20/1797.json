@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BqWga0JZqbs",
-            "title": "Emirates Flight With Multiple Sick Passengers And Crew Members Lands At JFK | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jt2pZWOmi80",
             "title": "Coronavirus: Inside Italy After Country Put On Nationwide Lockdown | NBC Nightly News",
             "secondDuration": 98,
@@ -121,8 +115,14 @@
             "title": "Spike In U.S. Mass Shootings 22 Years After Columbine High School Tragedy | NBC News NOW",
             "secondDuration": 538,
             "group": "group_7"
+        },
+        {
+            "videoId": "r7w3hENAnRs",
+            "title": "Trump Receives FEMA Briefing On Hurricane Laura | NBC News",
+            "secondDuration": 555,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

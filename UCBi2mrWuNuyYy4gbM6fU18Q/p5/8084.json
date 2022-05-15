@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "m0IJOfOZIZ0",
-            "title": "FBI Director James Comey has been fired",
-            "secondDuration": 780,
-            "group": "group_7"
-        },
-        {
             "videoId": "xIKqrD84Y_s",
             "title": "Utah Shooting Kills Cop, Wounds 5",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Officials Look at ISIS and Al-Shebab as Suspects in Plane Explosion",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "2Z6ecEeW2Ng",
+            "title": "Dr. Deborah Birx contradicts Trump about the virus",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

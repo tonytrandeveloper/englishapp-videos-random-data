@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LlwESPtPIzI",
-            "title": "Top health officials commit to more testing | WNT",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "V-xFXD63mXw",
             "title": "Putin’s possible next moves, explained",
             "secondDuration": 335,
@@ -61,8 +55,14 @@
             "title": "FDA set to authorize 4th COVID shot for people 50 and up l GMA",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "KthQ6HmxX8I",
+            "title": "Inside Joran Van der Sloot's Cell",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

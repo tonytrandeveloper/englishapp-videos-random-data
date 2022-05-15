@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Wb_V03B3Kgs",
-            "title": "New video shows plane failing to answer calls to abort landing",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "d5pG1PIYkBM",
             "title": "NYC’s Carnegie Deli Closes Its Doors",
             "secondDuration": 213,
@@ -31,8 +25,14 @@
             "title": "Angelina Jolie, senators announce path on Violence Against Women Act l ABC News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "uYFvE01SO0s",
+            "title": "4 dead, including cop and hospital workers after shooting in Chicago",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

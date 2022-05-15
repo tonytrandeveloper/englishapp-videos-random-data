@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "04-1q3fjDfY",
-            "title": "Morning News NOW Full Broadcast - Dec. 17",
-            "secondDuration": 3070,
-            "group": "group_7"
-        },
-        {
             "videoId": "rWfI72ZUy8A",
             "title": "California Man Under Arrest For Posing As Surgical Assistant, Stealing Identities | NBC Nightly News",
             "secondDuration": 103,
@@ -121,8 +115,14 @@
             "title": "Homeland Security Sec. Kirstjen Nielsen Leaving Post | NBC Nightly News",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "F8e5kXkmtJE",
+            "title": "Federal Prison Workers Warn Of Dangerous Staffing Crisis",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

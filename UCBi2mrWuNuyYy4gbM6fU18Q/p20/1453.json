@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gXu5GDXIw-Q",
-            "title": "Presidential candidates clash in latest Democratic debate",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "-u4iVRzLG0Q",
             "title": "Record High Temperatures Across the US",
             "secondDuration": 57,
@@ -121,8 +115,14 @@
             "title": "NASA's Apollo Engines Recovered from the Ocean",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "WH7LtabdhoI",
+            "title": "College Board Announces Big Changes in SAT Exam",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

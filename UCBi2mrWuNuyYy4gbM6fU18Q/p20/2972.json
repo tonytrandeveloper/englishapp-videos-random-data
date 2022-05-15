@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Us_Ds3b1rOg",
-            "title": "CDC: Half of US adults are fully vaccinated against COVID-19 | ABC News",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "NaYAOqHDORA",
             "title": "Kim Kardashian West Robbery in Paris: 17 Arrested Police Say",
             "secondDuration": 462,
@@ -121,8 +115,14 @@
             "title": "PARIS SHOOTING: Gunman in the street caught on tape",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "fHtV0i8W-b0",
+            "title": "Two Meteors Sighted Over the US",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

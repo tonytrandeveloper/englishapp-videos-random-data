@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Hmm0a8pnKlE",
-            "title": "Latest developments in Elizabeth Holmes’ criminal fraud trial | 20/20 ‘The Dropout’ Preview",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "DuOd7kFv0fw",
             "title": "Man Raises Nearly $250,000 for Teen",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Doctor helps deliver baby before the birth of her own daughter",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "sEnsl2puO-k",
+            "title": "Two-Legged Puppy Gets 3-D Printed Wheels",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

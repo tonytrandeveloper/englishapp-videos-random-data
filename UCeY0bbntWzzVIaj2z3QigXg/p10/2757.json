@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8Ut7xC62N7A",
-            "title": "Sculpture Destined For Space Sparks Debate Among Astronomers | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "JmQp3mPqYA8",
             "title": "Manchester In Mourning: Bombing Victims Remembered | NBC Nightly News",
             "secondDuration": 168,
@@ -61,8 +55,14 @@
             "title": "Watch Emotional Moments From George Floyd's Memorial In Minneapolis | NBC News NOW",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "maw54ngaVH8",
+            "title": "Trump Weighs War And Peace Over Iranian Response | Meet The Press | NBC News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

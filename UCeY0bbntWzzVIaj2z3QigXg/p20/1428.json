@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "h8TQ75dRalE",
-            "title": "What The Internet Looked Like In The 1990s | Flashback | NBC News",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "0umGA741a5w",
             "title": "The First Inside Look At Delta’s Biometric Screening Terminal At Atlanta Airport | NBC Nightly News",
             "secondDuration": 95,
@@ -121,8 +115,14 @@
             "title": "President Trump On Delayed Brett Kavanaugh Vote: 'I'd Like To See A Complete Process' | NBC News",
             "secondDuration": 204,
             "group": "group_7"
+        },
+        {
+            "videoId": "_uhhiZ8GVYE",
+            "title": "Sun And Suncreen Myths | Debunker | NBC News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

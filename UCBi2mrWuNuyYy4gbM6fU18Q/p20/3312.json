@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "M5XdW2O3tAY",
-            "title": "Grammy Weekend: Celebrity's Party Overnight",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "F13eqcAKAHk",
             "title": "Family demands answers for Tennessee driver killed by concrete dropped from overpass",
             "secondDuration": 134,
@@ -121,8 +115,14 @@
             "title": "Day of Mourning for Ted Kennedy",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "TTn6Cr8CHCM",
+            "title": "Chadwick Boseman's private struggle with colon cancer:  'A Tribute for a King' Part 3",
+            "secondDuration": 358,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

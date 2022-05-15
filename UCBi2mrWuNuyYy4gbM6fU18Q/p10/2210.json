@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "F72U5obykSc",
-            "title": "A Forgotten America: What really happened in Tulsa",
-            "secondDuration": 476,
-            "group": "group_7"
-        },
-        {
             "videoId": "PT3Ltl047LM",
             "title": "John Legend and Gillian Laub Team Up for an HBO Documentary",
             "secondDuration": 201,
@@ -61,8 +55,14 @@
             "title": "Shooting rampage unfolds in Maryland and Delaware",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "4qmG5uRFNf0",
+            "title": "President-elect Biden unveils $1.9 trillion economic rescue plan",
+            "secondDuration": 260,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

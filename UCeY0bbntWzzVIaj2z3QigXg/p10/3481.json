@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-HzOqZeX3Yk",
-            "title": "Alex Jones Of 'Infowars,' Conspiracy Theories, And Trump Campaign (Full) | Megyn Kelly | NBC News",
-            "secondDuration": 1056,
-            "group": "group_7"
-        },
-        {
             "videoId": "w8MytkrG3z8",
             "title": "‘10 Years of My Life Gone’ Rockport Business Owner Tells Lester Holt | NBC Nightly News",
             "secondDuration": 79,
@@ -61,8 +55,14 @@
             "title": "The Capitol Building's $60 Million Restoration | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "pIze0fzH4qc",
+            "title": "Should Planned Parenthood Be In The Politics Business? | Meet The Press |  NBC News",
+            "secondDuration": 488,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

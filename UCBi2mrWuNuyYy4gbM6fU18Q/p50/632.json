@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "1S9GuweEaFY",
-            "title": "Super Tuesday | Donald Trump Projected to Win Georgia",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "eOx3yUxjcWk",
             "title": "Barbara Mikulski, Longest-Serving Woman in Senate, Retiring",
             "secondDuration": 557,
@@ -301,8 +295,14 @@
             "title": "Obama Warns 'Hostile' Rhetoric Against Police Hurts Reform",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "WGNkQrwG3MM",
+            "title": "Blinis: Russia's Fast-Food Frenzy",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

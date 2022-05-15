@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lo7kFsYppoc",
-            "title": "Watch NBC News NOW Live - June  10",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "wBajZ1EgXQ8",
             "title": "Israeli Soldier Loses Three Friends In I.E.D. Attack | NBC News",
             "secondDuration": 64,
@@ -121,8 +115,14 @@
             "title": "'I’m Committed To The Rule Of Law': Barrett Discusses Decision To Accept Nomination | NBC News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZNTPbr3Rq0A",
+            "title": "Sterling K. Brown Calls For 'Looting To Stop' In Order To Enact 'Lasting Change' | NBC News",
+            "secondDuration": 391,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

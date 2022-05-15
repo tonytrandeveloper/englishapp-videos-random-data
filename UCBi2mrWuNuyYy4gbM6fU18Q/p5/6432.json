@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "A7BToSvzImM",
-            "title": "Nanny Burns Kid With Hot Curling Iron, Allegedly",
-            "secondDuration": 23,
-            "group": "group_7"
-        },
-        {
             "videoId": "FLL01sVuc7g",
             "title": "NASCAR driver Kyle Busch takes the wheel in new Mario Kart augmented reality game",
             "secondDuration": 254,
@@ -31,8 +25,14 @@
             "title": "Trump reacts to Cohen's explosive Hill testimony",
             "secondDuration": 408,
             "group": "group_7"
+        },
+        {
+            "videoId": "QvwcQbVqQCQ",
+            "title": "How to discuss the Jan. 6 attack on the Capitol",
+            "secondDuration": 444,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

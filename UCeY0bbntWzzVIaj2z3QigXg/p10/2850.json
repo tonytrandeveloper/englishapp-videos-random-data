@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MP0IlRcPyq0",
-            "title": "Cheetah 3 Is A Blind Robot That Doesn’t Need Sensors To Navigate | Mach | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "ccQ2uPqjiCQ",
             "title": "Biden Discusses Plan To Pull Out Troops From Afghanistan | NBC News",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Special Report: Texas Departure Ceremony For George H.W. Bush | NBC News",
             "secondDuration": 6179,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zo9bl8DMFfc",
+            "title": "DNA Helps Identify Killer In 1988 Murder Of San Diego Mom",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SA-2OU1th-k",
-            "title": "A Soldier's Sacrifice",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "1thtaiFQZgo",
             "title": "Ex-NFL player killed over a parking spot in Colorado",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "Teacher gives classroom pep talks to 3rd graders",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "c2vaAvqY_rA",
+            "title": "Deals and Steals for 'GAA' Viewers Only: Headbands, Charm Bracelets",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

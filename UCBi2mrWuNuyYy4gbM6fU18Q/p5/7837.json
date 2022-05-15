@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "m86CizWeUy8",
-            "title": "Attack on Fort Hood: 13 Dead",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "dtQwW_YZiYg",
             "title": "4-time Olympic luger will carry U.S. flag after winning coin toss",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "Tim Kaine on VP Debate: 'Dinged' for Interrupting Too Much",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "TlAlXIQDfj0",
+            "title": "Election Night's Top Moments From the Podium",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

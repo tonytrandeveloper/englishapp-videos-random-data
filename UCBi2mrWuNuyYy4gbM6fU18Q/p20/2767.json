@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "s_8xyDpuRFk",
-            "title": "Santa Cycles for Kids",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "-O3LlgG8wBo",
             "title": "Harrison Ford on \"Morning Glory\"",
             "secondDuration": 510,
@@ -121,8 +115,14 @@
             "title": "Obama vs. Romney on Job Promises",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "hbIKEgslzsw",
+            "title": "Watch LIVE: Derek Chauvin Trial for George Floyd Death -  Day 11 | ABC News Live Coverage",
+            "secondDuration": 36099,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

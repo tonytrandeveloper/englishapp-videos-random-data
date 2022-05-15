@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nsGkwFBByuQ",
-            "title": "Moammar Gadhafi Dead: Revisiting Libyan Leader's Final Moments in Sirte",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "kolGYU_dxOQ",
             "title": "More than 54% of US adults have been vaccinated for COVID-19",
             "secondDuration": 457,
@@ -61,8 +55,14 @@
             "title": "Are Smart Homes the Future of High-Tech Living?",
             "secondDuration": 490,
             "group": "group_7"
+        },
+        {
+            "videoId": "gJxH06MwhfI",
+            "title": "Military Base Toxic Water Investigation",
+            "secondDuration": 449,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uGprH6LgxRY",
-            "title": "President Donald Trump Responds To Pittsburgh Synagogue Shooting | NBC Nightly News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "l56PQ7Ya-Uo",
             "title": "Fact Check: The Conspiracy Theory Of Ukraine And The 2016 Election | NBC News NOW",
             "secondDuration": 252,
@@ -31,8 +25,14 @@
             "title": "Democrats Introduce Resolution Calling On Pence To Invoke 25th Amendment, Republicans Object",
             "secondDuration": 279,
             "group": "group_7"
+        },
+        {
+            "videoId": "-nx_IS0_Fb4",
+            "title": "President Donald Trump Denies He Ordered Micheal Cohen To Break The Law | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

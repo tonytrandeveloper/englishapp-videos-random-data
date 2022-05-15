@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WLomL4uD2GM",
-            "title": "Trump announces death of ISIS leader | ABC News",
-            "secondDuration": 2910,
-            "group": "group_7"
-        },
-        {
             "videoId": "1eXrGeEyLH8",
             "title": "Voting shifts to Southwest, where there’s more diversity",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Heidi Klum and Singer Seal Call It Quits?",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "zg5JANpzfTo",
+            "title": "ABC News Prime: Tracking Hurricane Elsa; Win for gay rights in SCOTUS decision; Olympics uproar",
+            "secondDuration": 3616,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

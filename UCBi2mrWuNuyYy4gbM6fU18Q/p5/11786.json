@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9q2vXUU_MWY",
-            "title": "Washington, D.C., COVID-19, and migrants: World in Photos, Jan. 18",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "Gr_rpyyGr5I",
             "title": "Signs of hope in Puerto Rico but more work to be done",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "7.5 million children impacted by war in Ukraine",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gq5paYFeD6A",
+            "title": "Interview with Michael Bloomberg",
+            "secondDuration": 445,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

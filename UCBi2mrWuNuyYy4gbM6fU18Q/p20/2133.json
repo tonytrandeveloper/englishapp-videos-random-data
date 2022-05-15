@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6CTfS9uu7xo",
-            "title": "Explosion at Reno's Discovery Museum Injures 13",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "ChNGte7iDnA",
             "title": "NTSB searches for answers on Denver plane incident",
             "secondDuration": 208,
@@ -121,8 +115,14 @@
             "title": "The Debrief: Wildfires ravage California, impeachment inquiry pushback, Cummings lies in state",
             "secondDuration": 1865,
             "group": "group_7"
+        },
+        {
+            "videoId": "Cw_hAev9Izg",
+            "title": "Italy Earthquake Death Toll Climbs",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

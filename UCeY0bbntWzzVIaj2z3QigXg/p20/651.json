@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DyqK3Iimtk4",
-            "title": "Israel Giving Third Dose of Pfizer Vaccine To Older Residents",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "3il3WYJ-FUw",
             "title": "Jeb Bush on Tough Gun Laws Following Mass Shooting: ‘Stuff Happens’ | NBC Nightly News",
             "secondDuration": 180,
@@ -121,8 +115,14 @@
             "title": "Jeb Bush: \"For student success, it takes...\"",
             "secondDuration": 15,
             "group": "group_7"
+        },
+        {
+            "videoId": "Znj_mSvSUr0",
+            "title": "North Korea Tests New Hypersonic Ballistic Missile",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "sPIAG5CftK8",
-            "title": "Alabama governor embroiled in alleged sex scandal",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "zGh1wE-pXck",
             "title": "Tim McGraw on CMA Awards, New Album 'Damn Country Music'",
             "secondDuration": 114,
@@ -301,8 +295,14 @@
             "title": "Washington Post's Dan Balz on 'Top Line'",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "jfBU8zyCByg",
+            "title": "Special needs families face back-to-school struggles",
+            "secondDuration": 449,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

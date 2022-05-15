@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "u1PfzaN8epE",
-            "title": "Los Angeles may see the same number of COVID-19 cases as New York City",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "qY3gJzzWvSc",
             "title": "Carly Fiorina on Past Ted Cruz Attacks: ‘Heat of a Political Campaign’",
             "secondDuration": 69,
@@ -61,8 +55,14 @@
             "title": "Lindsay Lohan Arrested in New York City: New Video 'Helps' Actress",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "iDc3jPkaR9E",
+            "title": "The List: Who Killed JonBenét?l 20/20 l PART 5",
+            "secondDuration": 456,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

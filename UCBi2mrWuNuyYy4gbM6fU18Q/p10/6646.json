@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VxabOkF051c",
-            "title": "Al Franken: Trump wiretap claims 'a distraction' from Russia investigations | ABC News",
-            "secondDuration": 475,
-            "group": "group_7"
-        },
-        {
             "videoId": "EiwNmAyPu4E",
             "title": "F-16 Crashes After Air Force Graduation Flyby",
             "secondDuration": 29,
@@ -61,8 +55,14 @@
             "title": "Bernie Sanders fires back at Hillary Clinton over new criticism l ABC News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "nl7416JVt7U",
+            "title": "Petraeus Sex Scandal: New Details",
+            "secondDuration": 344,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8atJbRDN4yI",
-            "title": "Trump Denies Recent Attack on Clinton was \"Vulgar” | ABC News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "8GZWcm2naLA",
             "title": "Parkland shooting suspect pleads guilty to all charges",
             "secondDuration": 319,
@@ -61,8 +55,14 @@
             "title": "Samsung Sends Fire-Resistant Packages to Turn In Note7s",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "K_UP2XlqdvY",
+            "title": "American Airlines jet makes emergency landing",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

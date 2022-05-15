@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Wtl8J75xwGk",
-            "title": "Jordan Spieth Takes PGA Tour by Storm, Wins Masters",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "cyBHzMQabOw",
             "title": "US attorney general fires back against Trump criticism",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Confirmation hearing on hold for Trump's VA pick",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "1sp7tSJ0KR8",
+            "title": "Super Tuesday Results: Newt Gingrich Wins Georgia Primary",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

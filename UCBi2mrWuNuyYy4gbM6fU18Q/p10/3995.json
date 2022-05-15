@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "n2sqZxIgPWo",
-            "title": "Trump threatening to shut down the government if he doesn't get border wall",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "mzDBJQgO_KM",
             "title": "The challenge facing summer camps as the coronavirus pandemic rolls on",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "MIX: Woman Calls 911 On Her Own Cat",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "pAmtZaLVLBQ",
+            "title": "Interview with Tim Pawlenty",
+            "secondDuration": 381,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

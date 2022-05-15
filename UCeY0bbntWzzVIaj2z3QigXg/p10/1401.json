@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sgQL-ckabuQ",
-            "title": "'Star Wars' At 40: A Look Back At The Film By Those Who Made It | NBC News",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "6mJ-uA8ue04",
             "title": "Getting To Know Presidential Candidate Tom Steyer | NBC News Now",
             "secondDuration": 334,
@@ -61,8 +55,14 @@
             "title": "The One Simple Exercise That Can Get You A Slimmer Waistline | Better | NBC News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "2ZZjwGGny0Y",
+            "title": "Watch Live: Trump holds campaign rally in Pensacola, Florida",
+            "secondDuration": 5160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

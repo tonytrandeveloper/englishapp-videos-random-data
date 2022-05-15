@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "gjnvSx-7O4A",
-            "title": "Who Really Needs College?",
-            "secondDuration": 410,
-            "group": "group_7"
-        },
-        {
             "videoId": "djM3u-qeqBI",
             "title": "Jesse Jackson Jr. Pleads Guilty, Apologizes to Famous Father",
             "secondDuration": 71,
@@ -301,8 +295,14 @@
             "title": "SpaceX successfully launches 4 astronauts into space on recycled rocket",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZxAQiD_DTmk",
+            "title": "'Man of Steel' Cast Talk Taking on Superman",
+            "secondDuration": 534,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

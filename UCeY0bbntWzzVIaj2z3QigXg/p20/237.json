@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4KCI6JXklZw",
-            "title": "New York Times Buys Game ‘Wordle’ In A Seven-Figure Deal",
-            "secondDuration": 457,
-            "group": "group_7"
-        },
-        {
             "videoId": "fkevCJ2NJok",
             "title": "President Donald Trump Praises Ted Cruz, Calls Beto O'Rourke 'Stone Cold Phony' At Rally | NBC News",
             "secondDuration": 149,
@@ -121,8 +115,14 @@
             "title": "Full Klobuchar: Bloomberg 'Just Can’t Hide Behind The Airwaves' | Meet The Press | NBC News",
             "secondDuration": 678,
             "group": "group_7"
+        },
+        {
+            "videoId": "aCKIJpBkxS8",
+            "title": "U.S. Military Bases Raise Security Level Over ISIS Threat | NBC Nightly News",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

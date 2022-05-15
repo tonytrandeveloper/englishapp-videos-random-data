@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "amtKiWjkuCQ",
-            "title": "5 Tips For Buying Your First House | NBC News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "MSFnS7Nn-EE",
             "title": "Insurance Hurdle For CA Homeowners Hoping To Rebuild After Devastating Wildfires | NBC Nightly News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "President Trump Nominates New FBI Director On Eve Of James Comey Testimony | NBC Nightly News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "PRP6JWjmhk4",
+            "title": "U.S. Intel: Strong Indications of Explosion on EgyptAir Flight | NBC Nightly News",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

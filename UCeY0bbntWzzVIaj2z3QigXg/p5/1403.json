@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PUV6VAzty_4",
-            "title": "Luke Bryan's Favorite Shower Song | NBC News Now",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "2C7RuWJkZSU",
             "title": "Trump Defense, Impeachment Managers Agree To Allow Statement Into Evidence And Proceed With Closing",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "Muslims Begin Scaled-Down Pilgrimage To Mecca Amid Pandemic | NBC News NOW",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "QMCH1q6WC50",
+            "title": "Biden Holds Campaign Rally In Minnesota | NBC News",
+            "secondDuration": 1356,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

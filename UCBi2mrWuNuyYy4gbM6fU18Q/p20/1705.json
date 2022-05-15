@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "62Ry21eX4q8",
-            "title": "Rep. Nikema Williams discusses gun control and Equal Pay Day",
-            "secondDuration": 398,
-            "group": "group_7"
-        },
-        {
             "videoId": "y-YlzhVi600",
             "title": "Deflate-Gate: Super Bowl Controversy Over Deflated Footballs Casts a Shadow Over the Big Game",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "Deadly Shooting Breaks Out at 2-Year-Old's Birthday Party",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "yspZ-_9XAgY",
+            "title": "Freddie Gray’s Police Van Trip: Undisclosed Fourth Stop Revealed",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

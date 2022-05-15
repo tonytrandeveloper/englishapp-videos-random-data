@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FDpD7CuEznU",
-            "title": "This $500 Mechanical Arm Could Bring Precision Surgery to the Masses",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "_AmlkfoIo6w",
             "title": "Full Osterholm: ‘The Surge Could Sustain Itself For Another 4 to 6 Weeks’",
             "secondDuration": 430,
@@ -61,8 +55,14 @@
             "title": "Senator Jeff Flake: 'We Ought To Be' Outraged By Political Behavior | Meet The Press | NBC News",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "c8Uw_m4TIfE",
+            "title": "Special Report: Trump Arrives In London For U.K. State Visit | NBC News",
+            "secondDuration": 2374,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

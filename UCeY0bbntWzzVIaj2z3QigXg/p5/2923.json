@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rNEPy0zs1gs",
-            "title": "Nightly News Full Broadcast  - Jan. 23",
-            "secondDuration": 939,
-            "group": "group_7"
-        },
-        {
             "videoId": "BrtYlgduuEw",
             "title": "A new way to experience Meet the Press with zeebox",
             "secondDuration": 15,
@@ -31,8 +25,14 @@
             "title": "'Cat In The Hat' Surprises Children In Need With Birthday Parties | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "ObNVpytRMLo",
+            "title": "Evidence Piles Up That Trump Seeks Foreign Election Interference | Meet The Press | NBC News",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

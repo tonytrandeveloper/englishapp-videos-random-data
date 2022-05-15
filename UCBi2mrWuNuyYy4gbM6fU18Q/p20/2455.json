@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ht7hESAjujI",
-            "title": "America’s growing hunger crisis",
-            "secondDuration": 436,
-            "group": "group_7"
-        },
-        {
             "videoId": "EDghG_KJDSQ",
             "title": "Brooklyn man found guilty in 2003 killing of student after house party: Part 1",
             "secondDuration": 440,
@@ -121,8 +115,14 @@
             "title": "Refugee Camp in Lebanon | Walk the Streets",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "O3qJuqM2B5M",
+            "title": "Sen. Marco Rubio: Assad and ISIS are 'two sides of the same coin'",
+            "secondDuration": 469,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

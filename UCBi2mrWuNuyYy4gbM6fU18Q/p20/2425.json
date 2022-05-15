@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ka80r1al5kc",
-            "title": "President Obama's Defining Moment on Syria",
-            "secondDuration": 426,
-            "group": "group_7"
-        },
-        {
             "videoId": "h0AKP0rjzP4",
             "title": "Hole Rips in Roof of Plane",
             "secondDuration": 369,
@@ -121,8 +115,14 @@
             "title": "Angelina Jolie Says Sometimes It's \"Fine to Get Dirty and Tough\"",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "FjRd0i6CsYg",
+            "title": "Son, Dad and Seahawks",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

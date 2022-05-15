@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7AzZlafH20g",
-            "title": "Houston is slowly fighting to recover from Hurricane Harvey",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "5mEbeKDzZQ0",
             "title": "'World News' Instant Index: Pilot's Odd Request; Google's 'Willy Wonka' HQ",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "El Chapo Raid | Sean Penn on His Interview",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "10HNtL0rhRE",
+            "title": "‘We need to have race-conscious laws’: Warren | ABC News",
+            "secondDuration": 650,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

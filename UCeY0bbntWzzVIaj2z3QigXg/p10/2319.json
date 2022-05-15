@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QcUWIhwwlDY",
-            "title": "Hurricane Irene coverage from Peter Alexander and Jim Cantore",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "cd-59-pW6Ck",
             "title": "White House Holds Press Briefing: May 15 | NBC News",
             "secondDuration": 2024,
@@ -61,8 +55,14 @@
             "title": "Republicans Attempting To Make Voting More Difficult With 165 Restriction Laws | NBC News NOW",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "bZv6tpvVqzE",
+            "title": "Humpback Whales In New York City’s Harbor | Nightly News Films",
+            "secondDuration": 324,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

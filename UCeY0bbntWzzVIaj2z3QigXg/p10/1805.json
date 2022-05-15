@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EGR-R2JTlnM",
-            "title": "See Aftermath of Hurricane-Ravage Island | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "rioq7tCfMjM",
             "title": "Hundreds Of ‘Families Belong Together’ Rallies Held Across The Country | NBC Nightly News",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "‘You Will Never Hear Me Mention His Name’: Ardern Condemns Christchurch Shooting Suspect | NBC News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "wc2TwOVFF7s",
+            "title": "Second NYPD Officer Dies After Domestic Disturbance Call",
+            "secondDuration": 291,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MtvPB-Roloo",
-            "title": "19-year-old trying to break record flying solo around the world l ABC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "HI3yTMYf5Bw",
             "title": "Winter Blast Could Impact States Across America",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Afghanistan, after the fall | Nightline",
             "secondDuration": 640,
             "group": "group_7"
+        },
+        {
+            "videoId": "lQXocTgfQPE",
+            "title": "Valet's Joyride Caught on Tape",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

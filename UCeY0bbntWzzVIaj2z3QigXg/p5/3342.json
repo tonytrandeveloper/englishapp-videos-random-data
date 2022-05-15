@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LBe7w9mRdMU",
-            "title": "U.S. Population Growth At Lowest Rate Since Nation's Founding",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zcpul6p3it8",
             "title": "Rep. Karen Bass: 'I Didn't Set Out In My Life To Run For President' | Meet The Press",
             "secondDuration": 637,
@@ -31,8 +25,14 @@
             "title": "Australia Pledges Another $50M In 'Defensive Support' To Ukraine",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "vaRo3C4llt4",
+            "title": "White House Covid-19 Response Briefing | NBC News",
+            "secondDuration": 1818,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

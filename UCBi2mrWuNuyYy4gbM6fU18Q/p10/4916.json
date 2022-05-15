@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "T6bjC8R2pUw",
-            "title": "State of emergency declared in New York City over coronavirus",
-            "secondDuration": 388,
-            "group": "group_7"
-        },
-        {
             "videoId": "OayJgkPH75I",
             "title": "Biden unveils COVID-19 vaccine pact",
             "secondDuration": 742,
@@ -61,8 +55,14 @@
             "title": "Keeping kids safe online",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "WhBnH7pW25A",
+            "title": "Dr. Anthony Fauci warns of post-holiday COVID-19 wave | WNT",
+            "secondDuration": 281,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

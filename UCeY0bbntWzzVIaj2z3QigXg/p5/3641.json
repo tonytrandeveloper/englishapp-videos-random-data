@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ACjO-zURM2U",
-            "title": "iPod Classic Worth Big Bucks | NBC News",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "jKk7syTWGdM",
             "title": "Border Patrol Stops Two Women In Montana For Speaking Spanish | NBC News",
             "secondDuration": 71,
@@ -31,8 +25,14 @@
             "title": "The Significance Of QAnon’s ‘True Inauguration Day’ Conspiracy On March 4 | NBC News NOW",
             "secondDuration": 216,
             "group": "group_7"
+        },
+        {
+            "videoId": "qCf8ZBTlFBM",
+            "title": "At Least One Child Dies From Mystery Illness Believed To Be Linked To COVID-19 | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

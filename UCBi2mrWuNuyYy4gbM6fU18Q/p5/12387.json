@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RfZBVUEQuK8",
-            "title": "Divers swim alongside famous Deep Blue shark",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "9CaW6ItL4pM",
             "title": "US and Russian high-ranking officials meet amid growing Ukraine tension l GMA",
             "secondDuration": 192,
@@ -31,8 +25,14 @@
             "title": "Chris Ruddy talks Paris accord, reports of divided White House",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "i50JiemL9h8",
+            "title": "Trayvon Martin Case: Congresswoman Frederica Wilson Demands Arrest of Suspect on House Floor",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

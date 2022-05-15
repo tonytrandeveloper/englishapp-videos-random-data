@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "O_dUAwXGK4E",
-            "title": "ABC News Prime: Johnson & Johnson vaccine hope; Will Tiger Woods golf again?; Anti-vaxxers in the EU",
-            "secondDuration": 3626,
-            "group": "group_7"
-        },
-        {
             "videoId": "I2ssGoIGqFw",
             "title": "New Fuel Standards: Clean and Green",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "House recommends Mark Meadows be criminally charged l WNT",
             "secondDuration": 244,
             "group": "group_7"
+        },
+        {
+            "videoId": "KS4mFRODdRU",
+            "title": "President Obama's Farewell Address to the Nation",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

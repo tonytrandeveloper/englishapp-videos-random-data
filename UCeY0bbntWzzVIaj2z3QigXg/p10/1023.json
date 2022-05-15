@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3fpyHEOkSbM",
-            "title": "A Better Way To Appreciate Your Mother | Better | NBC News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "sosDWzwU-Lo",
             "title": "Democratic Candidates Focused Attacks Against Donald Trump On The Second Night Of Debates | NBC News",
             "secondDuration": 232,
@@ -61,8 +55,14 @@
             "title": "Ken Cuccinelli Revises Statue Of Liberty Poem To Defend New Immigration Rule | NBC News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "sA6MAo5-jZQ",
+            "title": "GOP Tax Proposals Could Cause Billions In Losses To Charities | NBC Nightly News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

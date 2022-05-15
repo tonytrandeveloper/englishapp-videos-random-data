@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "peqDec3_ngY",
-            "title": "Trump Discusses a 'Softening' on Immigration",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "7TqNNP_yO0k",
             "title": "A Tesla car crash near Salt Lake City, Utah, is under investigation",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Project Runway Winner: Anya Ayoung Chee Wins Season 9 of Hit Fashion Reality Show",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "nMBv5uLvvlA",
+            "title": "The Future of Television",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S8mrRtRtSHA",
-            "title": "WEBCAST: Painting Grass Green",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ti83tpvPs_o",
             "title": "The Candidates Debate Live on the ABC News YouTube Channel",
             "secondDuration": 37,
@@ -31,8 +25,14 @@
             "title": "Michael Brown Shooting: President Urges Calm in Wake of Missouri Teenager's Death",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "uQZgIopMFIk",
+            "title": "Woman Found Dead at University of Texas at Austin",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

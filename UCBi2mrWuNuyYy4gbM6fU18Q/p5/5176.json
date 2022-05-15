@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9tWoNhGhfJk",
-            "title": "Florida highway confrontation turns deadly",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "NkgKJKL37tE",
             "title": "US sees spate of flash mob robberies",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "2012 Election Battle for Control Over the Senate: 'This Week' Roundtable Discussion",
             "secondDuration": 311,
             "group": "group_7"
+        },
+        {
+            "videoId": "FcLLUcNCDZw",
+            "title": "Trump in his first 100 days has struggled to seal the deal with Congress",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

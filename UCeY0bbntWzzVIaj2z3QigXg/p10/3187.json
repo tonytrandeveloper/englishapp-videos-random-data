@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rKKxDn84yg8",
-            "title": "Hillary Clinton Unleashes On One-Time Rival Bernie Sanders | NBC Nightly News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "wdq3IrMY6bE",
             "title": "'Lonely And Depressed': Senior Refugees Find New Life In Heartwarming Seattle Program | NBC News",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "Meet The Press Broadcast (FULL) - October 24th, 2021",
             "secondDuration": 2850,
             "group": "group_7"
+        },
+        {
+            "videoId": "DVUhgWPDmAk",
+            "title": "President Donald Trump Asks To 'Set Aside Our Differences' During State Of The Union | NBC News",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

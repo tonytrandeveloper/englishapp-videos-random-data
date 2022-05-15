@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ogq7YPy1ETQ",
-            "title": "Hong Kong's Complex Political History | Long Story Short | NBC News",
-            "secondDuration": 213,
-            "group": "group_7"
-        },
-        {
             "videoId": "o4hnOvuPx-g",
             "title": "Marijuana Issues On The Ballot In Multiple States On Election Day | NBC Nightly News",
             "secondDuration": 135,
@@ -121,8 +115,14 @@
             "title": "Space X Dragon Capsule Makes Historic Splashdown",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "lXp0lLkX7TY",
+            "title": "Young Pot Smokers React To Surgeon General’s Age Warning | NBC News Now",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

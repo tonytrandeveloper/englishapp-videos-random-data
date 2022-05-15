@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cnnBcjUiof8",
-            "title": "Your questions answered",
-            "secondDuration": 293,
-            "group": "group_7"
-        },
-        {
             "videoId": "PeRgmo_qGG0",
             "title": "Hillary Clinton Widens Her Lead Over Donald Trump",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "Washington Post's Dan Balz on 'Top Line'",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "jfBU8zyCByg",
+            "title": "Special needs families face back-to-school struggles",
+            "secondDuration": 449,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BT8SlPhhbbU",
-            "title": "World in Photos, June 7: Liverpool fans celebrate, D-Day Anniversary, Trump in Europe",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q04MxxBiEMA",
             "title": "'State of Pride' documentary peeks into the lives of LGBTQ youth in the US",
             "secondDuration": 427,
@@ -121,8 +115,14 @@
             "title": "Making candy and creating smiles at Tokyo candy shop",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "A93eljTAvE8",
+            "title": "LIRR Commuter Train Derails in Brooklyn",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

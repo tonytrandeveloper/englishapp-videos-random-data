@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "66mFAl9hK-8",
-            "title": "Gas Prices Jump Nationwide After Hurricane Harvey | NBC Nightly News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ynq25fku2oE",
             "title": "Trump Walks Away While Asked If He Has Been Tested For Coronavirus | NBC News NOW",
             "secondDuration": 132,
@@ -121,8 +115,14 @@
             "title": "Violent Clashes In Hong Kong Mar China’s National Day Celebrations | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "CXGR25neSEE",
+            "title": "Controversy After Fatal Police-Involved Shooting In Georgia | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NDbv9y6K8o0",
-            "title": "Trump, Clinton Polls Show Virtual Tie",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "mW2-HhFUWJE",
             "title": "Barbara Walters Introduces New Series 'American Scandals'",
             "secondDuration": 256,
@@ -31,8 +25,14 @@
             "title": "Pete Buttigieg sits in after the New Hampshire debate  | ABC News",
             "secondDuration": 389,
             "group": "group_7"
+        },
+        {
+            "videoId": "rhucUwjpKa4",
+            "title": "Reality check on COVID-19 variants and reopening schools",
+            "secondDuration": 350,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

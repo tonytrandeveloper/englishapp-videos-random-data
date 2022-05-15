@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BeGlcaHQFMI",
-            "title": "Ghislaine Maxwell’s Brother Claims She’s Mistreated In Prison",
-            "secondDuration": 298,
-            "group": "group_7"
-        },
-        {
             "videoId": "lrzJ389jSwU",
             "title": "Hoda Kotb: \"I have a dream that...\"",
             "secondDuration": 8,
@@ -61,8 +55,14 @@
             "title": "Pasco Washington Police Shooting: Eyewitness Video | NBC News",
             "secondDuration": 35,
             "group": "group_7"
+        },
+        {
+            "videoId": "m0ACAnWBmoE",
+            "title": "Pentagon Briefing On Strikes In Syria | NBC News",
+            "secondDuration": 1378,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

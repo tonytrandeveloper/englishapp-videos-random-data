@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Kk1suPRSqtg",
-            "title": "Wildfires Near Boulder, Colorado Force Thousands To Evacuate",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "r55a-z6rfmQ",
             "title": "Live: Nationwide Protests Over George Floyd's Death | NBC News",
             "secondDuration": 13203,
@@ -121,8 +115,14 @@
             "title": "Investigation Ongoing After 11 Killed In Mass Shooting At Pittsburgh Synagogue | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "3s97c7T54aY",
+            "title": "The Real-Life Dino Science Behind Jurassic World | Mach | NBC News",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

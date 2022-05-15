@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9TXBSgLrS3Q",
-            "title": "Jussie Smollett prosecutor speaks after 'Empire' star's hearing",
-            "secondDuration": 1281,
-            "group": "group_7"
-        },
-        {
             "videoId": "N7uW9j_WCXw",
             "title": "Donald Sterling Says He Is Not a Racist",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Robin Thicke Preemptively Fights Potential Copyright Claim",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "-3p8x70ytic",
+            "title": "What Year Was It?",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

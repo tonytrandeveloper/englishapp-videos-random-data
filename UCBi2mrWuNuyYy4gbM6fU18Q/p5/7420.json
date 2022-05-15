@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9Bcf8XrfnpY",
-            "title": "Thousands without power as turbulent weather hits on Thanksgiving",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "5EpwcLrnrsc",
             "title": "The Conversation: Social Media and North Korea",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "President Obama Spends 1st Night of DNC at WH Family Night",
             "secondDuration": 370,
             "group": "group_7"
+        },
+        {
+            "videoId": "hzpj1seflbI",
+            "title": "Simone Biles to compete in balance beam final as Team USA racks up medals",
+            "secondDuration": 405,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

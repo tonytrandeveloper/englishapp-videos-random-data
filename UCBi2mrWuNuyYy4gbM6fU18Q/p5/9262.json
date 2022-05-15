@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nxYrwRRc1PA",
-            "title": "High Risk Patients Await Flu Vaccines",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "C0rDPG4BCjU",
             "title": "Family of Journalist Slain by ISIS Speaks Out",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "Pope Holds a Virtual Audience With Americans Ahead of Visit to the US | David Muir Reports",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "0Vcq02YCi2w",
+            "title": "How Ghislaine Maxwell allegedly helped Jeffrey Epstein abuse young women | Nightline",
+            "secondDuration": 505,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

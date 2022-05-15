@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "y1LXqYv5qs8",
-            "title": "Ashley Greene Goes 'Rogue'",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "M6yG7BXxFPE",
             "title": "State of the Union 2011: McCain Applauds Earmark Vetoes 1/25/2011",
             "secondDuration": 37,
@@ -61,8 +55,14 @@
             "title": "Lowering Your Credit Card Interest Rate",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "0nGF-fEi3jI",
+            "title": "Deadly winter storm affects more than 200M Americans",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

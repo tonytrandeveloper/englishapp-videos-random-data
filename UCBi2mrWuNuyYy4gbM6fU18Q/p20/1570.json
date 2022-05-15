@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wswqfnEejKs",
-            "title": "Lights Illuminate Bay Bridge in San Francisco",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "AzZlymlpPmU",
             "title": "Caught in the Act: 5 Chinese Spies Indicted by the US Justice Department",
             "secondDuration": 164,
@@ -121,8 +115,14 @@
             "title": "Chinese rocket lands in Indian Ocean l GMA",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "I9t2ehU4IJY",
+            "title": "Spreading subvariant provides reality check on state of pandemic",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

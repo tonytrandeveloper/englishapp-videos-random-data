@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yXXPbNLsoak",
-            "title": "White House Holds Press Briefing: Nov. 9 | NBC News",
-            "secondDuration": 3525,
-            "group": "group_7"
-        },
-        {
             "videoId": "OCD42Zy6djA",
             "title": "How Does Zika Work? | NBC News",
             "secondDuration": 53,
@@ -31,8 +25,14 @@
             "title": "New CDC Data Finds Teens Faced Emotional Abuse During The Pandemic",
             "secondDuration": 255,
             "group": "group_7"
+        },
+        {
+            "videoId": "JbhoqsGatEU",
+            "title": "California Gov. Warns Residents To Brace For New Normal | NBC Nightly News",
+            "secondDuration": 596,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "hPc1f8Rgavw",
-            "title": "Lincoln: Daniel Day-Lewis, Steven Spielberg on Movie's Personal Impact",
-            "secondDuration": 357,
-            "group": "group_7"
-        },
-        {
             "videoId": "dJheerZWd4g",
             "title": "Todd Akin Refuses to Drop Out of Race",
             "secondDuration": 134,
@@ -301,8 +295,14 @@
             "title": "Deep Freeze",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "1oXUCPApv_w",
+            "title": "'Stand Up for Heroes': Disfigured Marine Finds New Hope",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

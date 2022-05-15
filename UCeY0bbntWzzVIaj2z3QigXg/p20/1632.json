@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GMPjZe8PAgA",
-            "title": "Mike Pence: ‘Now We Need To See Results’ On North Korea Denuclearization | NBC News",
-            "secondDuration": 784,
-            "group": "group_7"
-        },
-        {
             "videoId": "ucz6gqpaqCM",
             "title": "FDA Review Finds Pfizer’s Covid Vaccine Is Effective | NBC Nightly News",
             "secondDuration": 109,
@@ -121,8 +115,14 @@
             "title": "WH Press Secretary Sarah Sanders: 'I Am Into Fiction' So Maybe I'll Read Woodward Book | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "XBYokZ-MQHw",
+            "title": "Bill Clinton Blasts Bernie Sanders' View on Economy, Wall Street | NBC News",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

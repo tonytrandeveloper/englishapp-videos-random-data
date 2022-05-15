@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KNE0gMwem8g",
-            "title": "10-foot great white shark detected off New Jersey",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "sGuLV1rV2bA",
             "title": "Winter Olympics 2014 in Sochi: Team USA Ski Jumpers Talk Sochi Security Worries",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Republicans Take Control of the Senate",
             "secondDuration": 46,
             "group": "group_7"
+        },
+        {
+            "videoId": "1tKr3H4Z2kw",
+            "title": "Best in TV: Best Reality Show",
+            "secondDuration": 482,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

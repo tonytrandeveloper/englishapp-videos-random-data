@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Nl98FxsJ82o",
-            "title": "U.S. Braces For Omicron Variant With New Travel Restrictions",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "gvp-VgKbPPQ",
             "title": "Small Plane Makes Emergency Landing On Washington Highway | NBC Nightly News",
             "secondDuration": 65,
@@ -121,8 +115,14 @@
             "title": "Live: New York Governor Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3386,
             "group": "group_7"
+        },
+        {
+            "videoId": "z0pJcrIBsHU",
+            "title": "Don’t Eat Romaine Lettuce, CDC Cautions After E. Coli Outbreak | NBC Nightly News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

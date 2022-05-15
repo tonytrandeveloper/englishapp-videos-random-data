@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Hobo-RQsrxI",
-            "title": "Meet the Press - Exclusive Interview with President Obama - 12.30.12",
-            "secondDuration": 19,
-            "group": "group_7"
-        },
-        {
             "videoId": "vRuhseZTQco",
             "title": "Pope Francis Names Seven New Saints | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Indiana Governor To Rework Religious Freedom Law | NBC Nightly News",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "MFQsOk_W-HA",
+            "title": "New York City Public Schools Delay Opening Dates | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EmYdLP19Ob4",
-            "title": "Florida passes controversial 'Don’t Say Gay' bill",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "fHDifW4nqMw",
             "title": "Wells Fargo Fires About 5,300 Workers in Account Scandal",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "US finds itself off the list of countries allowed to enter Europe",
             "secondDuration": 325,
             "group": "group_7"
+        },
+        {
+            "videoId": "bu0vc7_rUnM",
+            "title": "Parents of Michigan school shooter charged with involuntary manslaughter",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

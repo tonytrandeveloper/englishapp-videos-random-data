@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_p3_k7IQx50",
-            "title": "Do Better",
-            "secondDuration": 21,
-            "group": "group_7"
-        },
-        {
             "videoId": "IzlQ1S32i1w",
             "title": "Dr. Fauci Weighs In On Covid Vaccine Mandates, Booster Shots And More",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Airlines Focus On Air Quality To Ensure Passengers’ Safety | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "koKAa9p0la0",
+            "title": "Coronavirus Survivor Speaks Out After 6-Week Hospitalization: ‘This Is Serious’ | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LpfW8Y2lvsk",
-            "title": "Trump faces backlash for refusing to call out hate groups for Charlottesville violence",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "1XW30jTMQk4",
             "title": "Las Vegas shooting suspect's brother says family is 'dumbstruck'",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton Tries to Put Email Scandal Behind Her",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "_cby8R3EjbU",
+            "title": "Are Your Allergies Real?",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

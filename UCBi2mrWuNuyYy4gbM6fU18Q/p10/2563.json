@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nUQTH5X4Vb4",
-            "title": "Taliban gains ground in Afghanistan as US troops withdraw l WNT",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "OzLIDqJMpNE",
             "title": "'This Week': Jeb Bush Interview - Former Florida Governor Discusses Education in America",
             "secondDuration": 247,
@@ -61,8 +55,14 @@
             "title": "Day four of victim testimonies against ex-USA gymnastics doctor",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "BzWvxv2UDFs",
+            "title": "OMAR MATEEN | ISIS Affiliated Shooter at Gay Orlando Nightclub",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

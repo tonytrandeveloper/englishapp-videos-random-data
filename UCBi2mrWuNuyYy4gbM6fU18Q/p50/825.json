@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "zogDqDcEGCc",
-            "title": "FEMA Gets Ready for Hurricane Earl",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "WTwnTUcLWwM",
             "title": "Vicki Gardner's Husband Shares How She Survived Virginia Shooting",
             "secondDuration": 191,
@@ -301,8 +295,14 @@
             "title": "Angelina Jolie Prevents Ovarian Cancer with Surgery",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "-4dkR-hNBIo",
+            "title": "This Week: 'On the Trail' in Delaware",
+            "secondDuration": 430,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

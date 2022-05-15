@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "99qXcPCVbr0",
-            "title": "Suspect In Synagogue Shooting Made Anti-Semitic Remarks | NBC News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "rzgaHoxPfWo",
             "title": "Golden State Killer Who Was An Ex-Cop Has Been Arrested | NBC News",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "IRS Warns Of Sophisticated Scams As Tax Day Draws Near | NBC Nightly News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "DJIbAefO_vE",
+            "title": "Digitally Altered ‘Deepfake’ Videos A Growing Threat As 2020 Election Approaches | NBC Nightly News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

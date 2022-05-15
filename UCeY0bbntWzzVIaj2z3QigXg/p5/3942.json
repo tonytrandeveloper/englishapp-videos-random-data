@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "c0TELBMW-00",
-            "title": "Illinois Gov. Pritzker Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3225,
-            "group": "group_7"
-        },
-        {
             "videoId": "iJxNHhdvFHs",
             "title": "Full Manchin Interview: Covid Relief 'Took A Little Longer Than Necessary, But We Got It Done'",
             "secondDuration": 496,
@@ -31,8 +25,14 @@
             "title": "Joint Chiefs Of Staff Chairman Apologizes For Role In Trump Photo Op | NBC Nightly News",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "ih5K3CjlwlA",
+            "title": "Renters Facing Price Increases In Hot Housing Market",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

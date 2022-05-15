@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eoW-jpPa8t8",
-            "title": "White House Holds Press Briefing: July 16 | NBC News",
-            "secondDuration": 3441,
-            "group": "group_7"
-        },
-        {
             "videoId": "grY0YC8a9G0",
             "title": "George W. Bush Slams Russia For Attempts To ‘Exploit Our Country’s Divisions’ | NBC News",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - May 18 | NBC News NOW",
             "secondDuration": 2773,
             "group": "group_7"
+        },
+        {
+            "videoId": "v9xeCn0rCCw",
+            "title": "Barack Obama Takes On President Donald Trump For First Time Since Leaving office | NBC Nightly News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

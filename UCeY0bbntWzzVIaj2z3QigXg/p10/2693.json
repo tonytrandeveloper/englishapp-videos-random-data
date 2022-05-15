@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "seZJsKs5e4E",
-            "title": "Full Panel: 'We're Still In The Depths Of This Crisis' | Meet The Press | NBC News",
-            "secondDuration": 490,
-            "group": "group_7"
-        },
-        {
             "videoId": "fmz6ungkMZI",
             "title": "Vladimir Putin To Megyn Kelly: Hackers Could Be Anywhere, Including The US | NBC Nightly News",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Meet The Queer POC Collective Building A Roller Skating Community",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "T0zW3Xe--Ls",
+            "title": "How A Fire Department Saved A 7-Year-Old’s Birthday | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

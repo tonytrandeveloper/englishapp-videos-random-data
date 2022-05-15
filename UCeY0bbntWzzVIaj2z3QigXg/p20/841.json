@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ry2UfqjwG6Y",
-            "title": "Nightly News Full Broadcast - Dec. 14",
-            "secondDuration": 1268,
-            "group": "group_7"
-        },
-        {
             "videoId": "vreIA-H3VAw",
             "title": "Duggar's Family Sex Scandal Triggers Passionate Response | NBC Nightly News",
             "secondDuration": 155,
@@ -121,8 +115,14 @@
             "title": "Jets Quarterback Surprises Waitress With Game Tickets",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "ELq4ZexuOIg",
+            "title": "Christina Distler: \"For student success it takes...\"",
+            "secondDuration": 15,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

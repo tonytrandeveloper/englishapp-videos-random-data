@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Hgx-AuAPv9o",
-            "title": "Police Conduct Welfare Check At R.Kelly’s Home | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "IUAi4BREJv4",
             "title": "Donald Trump Defends Immigration Plans At State Of Union: ‘Americans Are Dreamers, Too’ | NBC News",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "White House Covid Response Team Holds Briefing | NBC News",
             "secondDuration": 1505,
             "group": "group_7"
+        },
+        {
+            "videoId": "RH-TRQmflbY",
+            "title": "McConnell: Democrats Are Waiting For 'Mythical Leverage' In The Impeachment Trial | NBC News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wZhlEsUoXZI",
-            "title": "The Walking Dead Premiere | Who Died & Fan Reactions",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "BvqB_XT7cv4",
             "title": "Kim Davis on Her Time in Jail, Her Newfound Notoriety",
             "secondDuration": 482,
@@ -31,8 +25,14 @@
             "title": "NYC's Columbus Circle Shut Down, NYPD in Standoff With Suspect",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "kYFzpJHoeGk",
+            "title": "Jeff Bezos accuses National Enquirer of extortion",
+            "secondDuration": 361,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

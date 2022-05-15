@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4BRzxWe5YQo",
-            "title": "Venus Williams' Diagnosis More Than Fatigue",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "vPYA5monYj4",
             "title": "WEBCAST: EPIC HOCKEY FALL",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Missing Alabama woman trapped in car for five days",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "mpB1VhSfWoE",
+            "title": "Oscar Pistorius Returns to Court for Reeva Steenkamp Murder Trial",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

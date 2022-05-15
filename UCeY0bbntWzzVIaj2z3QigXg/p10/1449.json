@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HESpTnsd75I",
-            "title": "Yahoo Hack: Russian Spies Charged By U.S. Over Hack Of 500M Accounts | NBC Nightly News",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "jU6iQD_f7fM",
             "title": "NYPD Killings Shock New York City | NBC Nightly News",
             "secondDuration": 313,
@@ -61,8 +55,14 @@
             "title": "Sweden Drops Julian Assange Rape Investigation | NBC Nightly News",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "ireCq1ewlzs",
+            "title": "Group Helps Breast Cancer Survivors Find Adventure, Community And Inspiration",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

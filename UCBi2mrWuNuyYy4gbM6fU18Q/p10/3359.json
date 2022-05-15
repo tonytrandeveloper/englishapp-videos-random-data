@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s6L8vsj5Fsg",
-            "title": "Biden calls for impeachment of President Trump l ABC News",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "QQv_6bCOaXY",
             "title": "ABC News Live Update: Gulf Coast readying for Hurricane Sally",
             "secondDuration": 859,
@@ -61,8 +55,14 @@
             "title": "Paul Ryan Toasts Mike Pence as a 'Happy Warrior'",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "fAUQUZqHAog",
+            "title": "Bradley Cooper Details Life Through the Eyes of ‘The Elephant Man’",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

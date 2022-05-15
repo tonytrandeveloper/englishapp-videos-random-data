@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "oVeK2vyXyOU",
-            "title": "Why Red for Republicans and Blue for Democrats? | America 101",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "UxzhLV6cKNE",
             "title": "America Could Increase Role in Syrian Conflict",
             "secondDuration": 84,
@@ -301,8 +295,14 @@
             "title": "Top Line: Obama's State Dinner",
             "secondDuration": 596,
             "group": "group_7"
+        },
+        {
+            "videoId": "07WFnsag0Yg",
+            "title": "3.9 million acres burned in California wildfires",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

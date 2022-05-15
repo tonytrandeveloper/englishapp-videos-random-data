@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Nrdmarb7M_c",
-            "title": "John McAfee: Belize Police Searching for Antivirus Pioneer",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "kv-bOth9W8I",
             "title": "'Pussycat Dolls' Lead Singer Nicole Scherzinger's Battle With Bulimia, Solo Album",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Students trapped on brand new roller coaster",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "K3A-SO2YpGY",
+            "title": "Can anonymous tip apps help stop potential school shootings?",
+            "secondDuration": 282,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

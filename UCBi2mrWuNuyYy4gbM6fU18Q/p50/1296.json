@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "mTaXF2Ooufk",
-            "title": "Amazon Go | Checkout Free Grocery Store",
-            "secondDuration": 303,
-            "group": "group_7"
-        },
-        {
             "videoId": "IK4i2GIM8X0",
             "title": "ABC News Prime: Supreme Court Justice Ruth Bader Ginsburg dies at 87",
             "secondDuration": 7326,
@@ -301,8 +295,14 @@
             "title": "High Speed Chase With Family Inside",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "XZgkkI5kSzU",
+            "title": "What's at Stake on Primary Day?",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "il8P4jle3e8",
-            "title": "Figure Skater Alysa Liu, Colors Of Spring, Bald Buddies | NBC News For Universal Kids",
-            "secondDuration": 459,
-            "group": "group_7"
-        },
-        {
             "videoId": "O9bvSFzqfl0",
             "title": "New York Governor Cuomo Holds Briefing | NBC News",
             "secondDuration": 3043,
@@ -31,8 +25,14 @@
             "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3508,
             "group": "group_7"
+        },
+        {
+            "videoId": "o7ZiKFXNUek",
+            "title": "Police Officers Dying In The Line Of Duty Spiking Across America",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8Z0dgioJ058",
-            "title": "Deadly Rip Currents: How to Survive",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "BBvDloej9aU",
             "title": "Robert De Niro Delivers 'Tough Love' Graduation Speech",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Take Flight With Redbull",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "skr5g2FxfKE",
+            "title": "12-year-old survives being stabbed 19 times by her friends: 20/20 Part 2",
+            "secondDuration": 353,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

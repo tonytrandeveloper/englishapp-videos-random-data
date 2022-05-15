@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_juRYik8OjM",
-            "title": "'American Idol' Scott McCreery on Winning Title, Next Steps",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "oSyTXNxL6kc",
             "title": "The Conversation: LeBron James, Free Agent",
             "secondDuration": 219,
@@ -121,8 +115,14 @@
             "title": "Best Celebrity Mannequin Challenge, Andy's Coming Challenge",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "wmbTO3OqfKA",
+            "title": "Matt Lauer fights back against rape accusation l ABC News",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

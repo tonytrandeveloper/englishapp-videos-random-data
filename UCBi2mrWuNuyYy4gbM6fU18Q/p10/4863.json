@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jqcWxLg4L-0",
-            "title": "ABC News Live Update: Dr. Anthony Fauci receives Moderna’s COVID-19 vaccine",
-            "secondDuration": 825,
-            "group": "group_7"
-        },
-        {
             "videoId": "_FMLn1eRqkU",
             "title": "ABC News Prime: George Floyd remembered; Police reform bill negotiations; Ohio's vaccine incentives",
             "secondDuration": 5202,
@@ -61,8 +55,14 @@
             "title": "Mom on Crusade After Catching Nanny Shaking Her Daughter",
             "secondDuration": 352,
             "group": "group_7"
+        },
+        {
+            "videoId": "alN299fEQFI",
+            "title": "'GMA' Hot List: 'Scandal'-ous Secrets Spilled, $5 Dinner Challenge",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

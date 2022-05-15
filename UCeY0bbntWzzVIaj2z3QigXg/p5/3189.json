@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Nl5moVRUPfM",
-            "title": "Watch Live: Trump, India's Modi Deliver Joint Statements",
-            "secondDuration": 1791,
-            "group": "group_7"
-        },
-        {
             "videoId": "MI2F3ir0uek",
             "title": "Biden Defends Infrastructure Plan: ‘Inaction Simply Is Not An Option’ | NBC News NOW",
             "secondDuration": 209,
@@ -31,8 +25,14 @@
             "title": "In Puerto Rico, Finding FEMA Aid A Challenge 11 Days After Hurricane Maria | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "FmZ9CIb5TUM",
+            "title": "Student Town Hall Audience Response",
+            "secondDuration": 20,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

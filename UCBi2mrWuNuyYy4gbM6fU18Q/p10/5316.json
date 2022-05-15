@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "69_2QXgNFWc",
-            "title": "Organization helps seniors achieve what's left on their bucket list",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "yzO5ff_KRx0",
             "title": "Michele Bachmann Newsweek Cover Photo Sexist?",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "By the Numbers: Black Lives Matter nominated for Nobel Peace Prize",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "FeXf9K0wjx0",
+            "title": "LIVE: Dr. Anthony Fauci, CDC Dir. Dr. Robert Redfield Testify At Senate Hearing On Coronavirus",
+            "secondDuration": 15028,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

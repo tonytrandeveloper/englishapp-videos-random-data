@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ReOE8sWNJZM",
-            "title": "Morning News NOW Full Broadcast - April 1",
-            "secondDuration": 2445,
-            "group": "group_7"
-        },
-        {
             "videoId": "-so1y6Q7Ml4",
             "title": "Russian Invasion A Historic Test For World Leaders",
             "secondDuration": 278,
@@ -121,8 +115,14 @@
             "title": "North And South Korea To Begin High-Level Talks | NBC Nightly News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "9QDWbse4wFU",
+            "title": "Live: L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
+            "secondDuration": 3179,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

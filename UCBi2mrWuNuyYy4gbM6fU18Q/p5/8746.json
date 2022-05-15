@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "w6XvIMs03Vg",
-            "title": "The officer who was first on the scene",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "5s69HvsN4aE",
             "title": "Kellyanne Conway Full Interview on Trump Winning Presidency",
             "secondDuration": 292,
@@ -31,8 +25,14 @@
             "title": "Trump removes Steve Bannon from the National Security Council",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "erfm8mfFi0o",
+            "title": "US Open player speaks out after receiving 'sexist' code violation",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

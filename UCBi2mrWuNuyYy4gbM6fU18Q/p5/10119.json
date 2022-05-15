@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z4vC4-6uUVk",
-            "title": "Jennifer Aniston Has A Special Song for her Dog",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "RCcuFwPXlY8",
             "title": "Michelle Obama on Role in President's Campaign",
             "secondDuration": 446,
@@ -31,8 +25,14 @@
             "title": "Boston Strong:  Celeste Corcoran",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "T4xduooeCRw",
+            "title": "Kevin Costner and Chris Pine Interview: Costner Gets Second Chance at 'Jack Ryan' Movie",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

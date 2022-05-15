@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5pl9fqqfRwg",
-            "title": "Gael García Bernal Talks New Hit Show, \"Mozart In The Jungle\" | Cafecito | NBC News",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "8CpUIc-HH3w",
             "title": "Remembering The Life Of Justice Ruth Bader Ginsburg | NBC News",
             "secondDuration": 358,
@@ -121,8 +115,14 @@
             "title": "New ‘Gene Editing’ Cancer Treatment Saves Dying Baby Girl’s Life | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y-UIA9ja-h4",
+            "title": "FEMA Provides Update On Hurricane Florence | NBC News",
+            "secondDuration": 1519,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

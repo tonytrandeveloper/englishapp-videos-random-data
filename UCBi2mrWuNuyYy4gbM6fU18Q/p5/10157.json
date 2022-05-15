@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3B8UMTLL3OU",
-            "title": "Pelosi announces Trump impeachment inquiry l ABC News",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "s3hIxUedR8M",
             "title": "Video of Man Overboard: Rescued After Fall From Cruise Ship",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "Key lessons from the Ukraine conflict about conventional warfare",
             "secondDuration": 265,
             "group": "group_7"
+        },
+        {
+            "videoId": "QvkoifWS9lk",
+            "title": "By the Numbers: Republican election wins",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

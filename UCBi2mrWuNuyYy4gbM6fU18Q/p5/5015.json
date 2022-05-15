@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0n07iDVkhF0",
-            "title": "Behind the scenes of Mariah Carey's summer camp for underprivileged kids I Nightline",
-            "secondDuration": 440,
-            "group": "group_7"
-        },
-        {
             "videoId": "VLeBgWm-ioM",
             "title": "‘It’s not too late’: Carbon capture can fight climate change",
             "secondDuration": 402,
@@ -31,8 +25,14 @@
             "title": "7 potentially habitable exoplanets discovered",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "WV3Ek5iIbuo",
+            "title": "Anne Hathaway Ex and Celebrity Swindler Raffaello Follieri Speaks Out",
+            "secondDuration": 266,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

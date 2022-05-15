@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TKsG1gXjNhw",
-            "title": "NOW Tonight With Joshua Johnson Full Episode - Dec. 21 | NBC News NOW",
-            "secondDuration": 3100,
-            "group": "group_7"
-        },
-        {
             "videoId": "2-UBS8EEa1A",
             "title": "Road Rage On The Rise, Experts Say | NBC Nightly News",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Video Appears To Show Student With Autism Dragged By Teacher | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "GYc3kIke2LA",
+            "title": "Biden Gives 'Zero Tolerance' Warning to  Rogue Gun Dealers",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ismvJOnr10s",
-            "title": "Serena Williams advances to US Open finals l ABC News",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "Og7_QlYhWk8",
             "title": "Principal sings ‘I Will Always Love You’ in farewell to students | WNT",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "ABC News Prime: Memorial Day around the country",
             "secondDuration": 3418,
             "group": "group_7"
+        },
+        {
+            "videoId": "TFVS-FrIccg",
+            "title": "Superstorm Sandy: Power Outages, Gas Shortages Continue",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

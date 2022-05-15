@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BWClPm4fhCw",
-            "title": "Kamala Harris Says Health Care 'Should Be A Right' | NBC News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "6JTwULGBr3Y",
             "title": "Video Shows Starbucks Being Flattened as Tornado Hits Indiana Town | NBC Nightly News",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Watch: Semi-Truck Drives Into Crowd Of Protesters On I-35 Minneapolis | NBC News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "a76qN3drKjs",
+            "title": "What To Know About the N.Y.-N.J. Bombings Suspect | 101 | NBC News",
+            "secondDuration": 53,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

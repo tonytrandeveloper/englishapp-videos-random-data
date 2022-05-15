@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5LA3oiBToRg",
-            "title": "By the Numbers: NFL vaccination rates",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "TlDMcnKu3DQ",
             "title": "Police department launches high-tech effort to fight package thieves",
             "secondDuration": 200,
@@ -61,8 +55,14 @@
             "title": "Apple releases emergency software update",
             "secondDuration": 44,
             "group": "group_7"
+        },
+        {
+            "videoId": "r7q_wkJgXhg",
+            "title": "Chicago Police Shooting Unarmed 17-Year-Old | NEW VIDEO RELEASED",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

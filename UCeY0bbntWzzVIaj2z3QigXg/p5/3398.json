@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pbKLgOexSo4",
-            "title": "House Lawmakers Set Rules For Impeachment Vote | NBC News (Live Stream Recording)",
-            "secondDuration": 2124,
-            "group": "group_7"
-        },
-        {
             "videoId": "wEFqdkJG-QA",
             "title": "New York Implements ‘Containment Zone’ Around Coronavirus Cluster | NBC Nightly News",
             "secondDuration": 934,
@@ -31,8 +25,14 @@
             "title": "One-On-One With Michigan Secretary Of State As Vote Count Continues | NBC Nightly News",
             "secondDuration": 204,
             "group": "group_7"
+        },
+        {
+            "videoId": "JFTF3h-ISXQ",
+            "title": "Trump Says ‘I Get Along With’ Dr. Fauci But ‘Don’t Always Agree With Him’ | NBC News NOW",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RHqXB0ricjM",
-            "title": "Tracy Morgan Returns To Work Following Devastating Car Accident | ABC News",
-            "secondDuration": 248,
-            "group": "group_7"
-        },
-        {
             "videoId": "pZqeYYgR_qU",
             "title": "Acknowledging drone strike mistake was right: Former Joint Chiefs chairman | ABC News",
             "secondDuration": 474,
@@ -121,8 +115,14 @@
             "title": "Kenya Mall Attack: 59 Killed in Terrorist Assault",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "NicMtHXauZM",
+            "title": "Concerns of the effects of coronavirus on young Americans heightens",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

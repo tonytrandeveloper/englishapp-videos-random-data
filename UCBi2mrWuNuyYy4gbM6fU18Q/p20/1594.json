@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "kYcHiIk5dZ0",
-            "title": "A Fishing Trip to Remember",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "A42AqLyCO3Y",
             "title": "Ryan Seacrest Responds to Dick Clark's Death",
             "secondDuration": 32,
@@ -121,8 +115,14 @@
             "title": "A Note To Our Viewers",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "RKx1k438y50",
+            "title": "Mitt Romney Phone Call to Donors:  Bill Clinton Thought I Was Going to Win",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fPFSozXAjUg",
-            "title": "Mom and children rescued from Houston roof",
-            "secondDuration": 359,
-            "group": "group_7"
-        },
-        {
             "videoId": "JDDd2inBJLc",
             "title": "Deadly Capital Gazette shooting 'was a targeted attack': Police",
             "secondDuration": 237,
@@ -61,8 +55,14 @@
             "title": "ABC News Prime: Concerns of re-opening,  Colorado restaurant shutdown, 'Operation Warp Speed'",
             "secondDuration": 3633,
             "group": "group_7"
+        },
+        {
+            "videoId": "MHw8E08Tivs",
+            "title": "Living life as normal in Utah",
+            "secondDuration": 279,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

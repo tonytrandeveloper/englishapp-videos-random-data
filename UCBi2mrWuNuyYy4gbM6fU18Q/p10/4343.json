@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "465I1iiJOdA",
-            "title": "Chris Cuomo fired from CNN",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nrd_bu6mgQI",
             "title": "Inside Talon Air’s Private Jet",
             "secondDuration": 231,
@@ -61,8 +55,14 @@
             "title": "Lawmakers share video of women huddled in detention center",
             "secondDuration": 216,
             "group": "group_7"
+        },
+        {
+            "videoId": "I90OtQMJfzk",
+            "title": "Man recovering after grizzly bear attack",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

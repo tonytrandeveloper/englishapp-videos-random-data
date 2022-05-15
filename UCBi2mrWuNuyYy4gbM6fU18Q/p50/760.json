@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "jU7HAlp-XqI",
-            "title": "Putin's spokesman denies hacking allegations",
-            "secondDuration": 462,
-            "group": "group_7"
-        },
-        {
             "videoId": "8DdNUNiMIzw",
             "title": "\"Dancing With the Stars\" Finalist Rob Kardashian, Cheryl Burke Dance the Samba on \"GMA\"",
             "secondDuration": 98,
@@ -301,8 +295,14 @@
             "title": "Man jailed at age 11 for a murder he says he didn't commit speaks out",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "yPWGsghzNN0",
+            "title": "Suspect arrested after 3 killed, 5 injured in shooting on Dutch commuter train",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

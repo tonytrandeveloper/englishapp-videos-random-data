@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V3bqPG2wiVo",
-            "title": "White House Holds Press Briefing: May 5 | NBC News",
-            "secondDuration": 3155,
-            "group": "group_7"
-        },
-        {
             "videoId": "-n-bqPX936s",
             "title": "Misinformation, Disinformation: What To Expect From Election 2020 | Meet The Press | NBC News",
             "secondDuration": 602,
@@ -31,8 +25,14 @@
             "title": "Best Holiday Deals Are Not Over Yet | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "yWG9w1l_pXw",
+            "title": "Suspect Nikolas Cruz Charged With Premeditated Murder In Parkland Florida School Shooting | NBC News",
+            "secondDuration": 39,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HSsYUwY-ccQ",
-            "title": "Tiger Woods Prepares for Comeback",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "bojB0gV-4dw",
             "title": "Bernie Sanders Could Be on Track for Sixth Win in Seven Contests",
             "secondDuration": 234,
@@ -31,8 +25,14 @@
             "title": "Billionaire Backlash as Hedge Fund Investor Slams Working Moms",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "zLCLT2wTWUc",
+            "title": "Top House Intel Committee Dem: 'We can't accept anything Don Jr. says' about Russia meeting",
+            "secondDuration": 511,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

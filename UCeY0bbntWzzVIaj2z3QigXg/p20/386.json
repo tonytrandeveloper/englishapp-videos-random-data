@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6wo-qyrWx8I",
-            "title": "NBC News Signal - February 7th, 2019",
-            "secondDuration": 1749,
-            "group": "group_7"
-        },
-        {
             "videoId": "JLZjUz9ZTn0",
             "title": "Coronavirus Test Shortage Raises Alarm As Washington State Bans Mass Gatherings | NBC Nightly News",
             "secondDuration": 860,
@@ -121,8 +115,14 @@
             "title": "Watch Live: George H.W. Bush lies in repose at St. Martin's Episcopal Church",
             "secondDuration": 7341,
             "group": "group_7"
+        },
+        {
+            "videoId": "agk47wvrazI",
+            "title": "Lester Holt Pays A Virtual Visit To The San Diego Zoo | Nightly News: Kids Edition",
+            "secondDuration": 822,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

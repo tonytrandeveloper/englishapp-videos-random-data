@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TYYcWbQc5Ig",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 2693,
-            "group": "group_7"
-        },
-        {
             "videoId": "C3196OmSbBQ",
             "title": "Cristobal Highlights Need For Hurricane Preparedness Amid Pandemic | NBC News NOW",
             "secondDuration": 292,
@@ -31,8 +25,14 @@
             "title": "Nurses Speak Out About Toll Of Coronavirus Pandemic | NBC Nightly News",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "t4R0O4r4hkc",
+            "title": "Israeli Bombardments Strike At Gaza's Fragile Infrastructure",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GgSmNDXQd2E",
-            "title": "Lester Holt Goes Inside The NYPD's New Anti-Terror Unit | NBC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "_t2zbk1zudY",
             "title": "NASA Developing A New Way To Find Alien Life | Mach | NBC News",
             "secondDuration": 89,
@@ -121,8 +115,14 @@
             "title": "Newly-Surfaced Video Offers Glimpse Into Trump And Epstein's Past Relationship | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "hTdx98DfpEo",
+            "title": "Felicity Huffman Sentenced To 14 Days In Prison And Community Service | NBC News Now",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

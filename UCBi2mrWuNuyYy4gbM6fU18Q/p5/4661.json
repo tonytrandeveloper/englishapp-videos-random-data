@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2YUA5RrQ9eI",
-            "title": "Vita Coco | Real Biz with Rebecca Jarvis | ABC News",
-            "secondDuration": 289,
-            "group": "group_7"
-        },
-        {
             "videoId": "ezxN6mSW7vg",
             "title": "Rescue Mission Ends in Death of US Hostage",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Senate Democrats' push for new witnesses voted down",
             "secondDuration": 298,
             "group": "group_7"
+        },
+        {
+            "videoId": "QLdefaQ0Yd8",
+            "title": "Dennis Rodman Meets North Korea's Kim Jung Un",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

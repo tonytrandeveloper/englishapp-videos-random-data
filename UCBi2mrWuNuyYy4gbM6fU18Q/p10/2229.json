@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PRvOmB62YVM",
-            "title": "Trump Rally Postponed Amid Security Concerns",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "Og2w8gqcYI0",
             "title": "Mayor of Mayfield, Kentucky, discusses tornado damage",
             "secondDuration": 201,
@@ -61,8 +55,14 @@
             "title": "Arnold Schwarzenegger done with 'The Celebrity Apprentice'",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jjt2QQNpaIo",
+            "title": "Jurors Visit the Home of Aaron Hernandez and Other Key Locations in Trial",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

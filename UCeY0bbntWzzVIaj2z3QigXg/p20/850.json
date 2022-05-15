@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Uh0QhA-OzHQ",
-            "title": "President Donald Trump Presents Medal Of Honor | NBC News",
-            "secondDuration": 1309,
-            "group": "group_7"
-        },
-        {
             "videoId": "xLTTAmXkVYg",
             "title": "YouTube Bans Anti-Covid Vaccine Videos After Misinformation Spreads To Vaccines In General",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "Google’s Pixel Buds Let You Translate Up To 40 Languages In Real Time | Mach | NBC News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gb_5w-Iz12w",
+            "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3442,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

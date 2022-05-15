@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KgPAQFqhPec",
-            "title": "Las Vegas police frustrated in trying to find motive in shooting massacre",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "vNIT5UGR4Fc",
             "title": "Happily Ever After",
             "secondDuration": 267,
@@ -61,8 +55,14 @@
             "title": "Ashton Kutcher Breaks Silence on Demi Moore Split Rumors in Web Video",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "6lkY_mGfMyQ",
+            "title": "FBI’s New Strategy to Hunt Down Suspected Homegrown Terrorists",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

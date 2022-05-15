@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dwnAyrKHJG8",
-            "title": "Pamela Karlan delivers opening statement at impeachment hearing l ABC NEWS",
-            "secondDuration": 556,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZnzQqaj_wcI",
             "title": "Bloomberg continues to rise in polls",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Tom Hanks and Steven Spielberg Discuss 'Bridge of Spies'",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "jngC30tXRps",
+            "title": "President Trump's valet tests positive for COVID-19 | WNT",
+            "secondDuration": 291,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

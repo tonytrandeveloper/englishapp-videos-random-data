@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KSMPY_ZjQuA",
-            "title": "Temperature Extremes on Both Sides of the Country",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "ydPQ8tTK8ds",
             "title": "ABC News Prime: US COVID-19 death toll tops 150k; Protecting nursing homes, Roller skate resurgence",
             "secondDuration": 3659,
@@ -31,8 +25,14 @@
             "title": "'You're looking for fair process, you came to the wrong town': Sen. Lindsey Graham",
             "secondDuration": 285,
             "group": "group_7"
+        },
+        {
+            "videoId": "vcH3XyobtBw",
+            "title": "Modern Polygamy: One Husband, Chosen by Multiple Wives",
+            "secondDuration": 632,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

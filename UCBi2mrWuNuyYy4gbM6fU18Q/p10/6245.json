@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "b_7LVhGhtgI",
-            "title": "The Wicked l 20/20 l PART 5",
-            "secondDuration": 480,
-            "group": "group_7"
-        },
-        {
             "videoId": "m7bnveYQbB0",
             "title": "Drug Maker Mylan Standing Firm on EpiPen Price Hike",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Dubai rings in 2021 with elaborate fireworks display",
             "secondDuration": 286,
             "group": "group_7"
+        },
+        {
+            "videoId": "2QoQsEToJwY",
+            "title": "Is Clinton Ready for Trump's Attacks?",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

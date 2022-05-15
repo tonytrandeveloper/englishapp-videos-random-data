@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "vLxBWLk2Cec",
-            "title": "US journalist recounts attack while being treated at Kyiv hospital",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "QgJJ5Do-Jf0",
             "title": "How to stay safe while traveling during the pandemic",
             "secondDuration": 215,
@@ -301,8 +295,14 @@
             "title": "East Coast Braces for Hurricane Irene",
             "secondDuration": 399,
             "group": "group_7"
+        },
+        {
+            "videoId": "j6Ca4seNGfE",
+            "title": "'Queer Eye' cast talks impact of show and new season with Adam Rippon",
+            "secondDuration": 381,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

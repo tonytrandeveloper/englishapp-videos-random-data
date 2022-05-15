@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "HjyVsJfxXW0",
-            "title": "John Lewis laid to rest, Portland protests, Hurricane Hanna; World in Photos, July 27",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "UZJXhYGkf7c",
             "title": "Farmer Finds Wooly Mammoth Remains in Soy Field",
             "secondDuration": 103,
@@ -301,8 +295,14 @@
             "title": "Donald Trump Unleashes Attack on Paul Ryan",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "0hk06Z3cwEQ",
+            "title": "Magnitude 6.9 earthquake in Indonesia kills almost 100 | ABC News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

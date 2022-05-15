@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RfZBVUEQuK8",
-            "title": "Divers swim alongside famous Deep Blue shark",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "9CaW6ItL4pM",
             "title": "US and Russian high-ranking officials meet amid growing Ukraine tension l GMA",
             "secondDuration": 192,
@@ -61,8 +55,14 @@
             "title": "Benghazi, Libya Terror Attack: Mitch McConnell: White House Found Libya Terror Attack 'Inconvenient'",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "0JguBqtRaQ0",
+            "title": "Gabby Giffords' Progress: World Watches",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "k9A8deLpce8",
-            "title": "Professional Bowling Blooper",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "9EQuAabEpeE",
             "title": "'Putin and Trump are picking their opponent': Rahm Emanuel on Sanders | ABC News",
             "secondDuration": 992,
@@ -31,8 +25,14 @@
             "title": "Police officer cracks up after slipping on snow l ABC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "SM6Ztva9A94",
+            "title": "Freddie Gray Trial | All Charges Dropped Against Cops",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IzANCqaXGcU",
-            "title": "CDC: Half of US adults are fully vaccinated against COVID-19",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "hcDFhv0VsTA",
             "title": "How Dov Charney Is at War With American Apparel Company He Created",
             "secondDuration": 502,
@@ -61,8 +55,14 @@
             "title": "Inflating the magic",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "LIMnEa2C8gc",
+            "title": "Jerry Sandusky Appeals Child-Sex Abuse Conviction",
+            "secondDuration": 25,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

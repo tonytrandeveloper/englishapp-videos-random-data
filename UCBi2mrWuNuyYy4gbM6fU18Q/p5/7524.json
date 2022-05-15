@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6Uc8-neGTNE",
-            "title": "Heavy snow, thick ice hit parts of Midwest, Southeast US",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "OAB9-FqLvRA",
             "title": "Deadly Amusement Park Accident in Australia",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Teen Arrested for Impersonating a Doctor | EXCLUSIVE INTERVIEW",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "ewyVd2CBkQU",
+            "title": "Chadwick Boseman’s battle with colon cancer",
+            "secondDuration": 380,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QJXi0KJhj4E",
-            "title": "ISIS Coalition: What You Need To Know  | NBC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "CtFkOtqVJ5M",
             "title": "Biden Delivers Remarks About Ongoing Covid Pandemic | NBC News",
             "secondDuration": 791,
@@ -121,8 +115,14 @@
             "title": "Trump’s Historic Second Impeachment Trial Underway | NBC Nightly News",
             "secondDuration": 336,
             "group": "group_7"
+        },
+        {
+            "videoId": "NQwO3zKRqDQ",
+            "title": "How an Online Community Is Boosting Health in the Real World | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

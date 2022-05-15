@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qqFJd5I3Z4U",
-            "title": "Bill Cosby trial juror speaks out after verdict",
-            "secondDuration": 366,
-            "group": "group_7"
-        },
-        {
             "videoId": "nPOr1bEmS64",
             "title": "Jamie Lynn Spears breaks her silence",
             "secondDuration": 499,
@@ -61,8 +55,14 @@
             "title": "Rescued Circus Lions Get a Chance at a New Life",
             "secondDuration": 511,
             "group": "group_7"
+        },
+        {
+            "videoId": "6EW8nisnt-Y",
+            "title": "Amanda Knox: On Trial For Her Life",
+            "secondDuration": 543,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

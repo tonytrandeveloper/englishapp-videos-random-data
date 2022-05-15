@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EKg0FZi6j8c",
-            "title": "President Obama May Be One Giant Step Closer to Visiting Cuba",
-            "secondDuration": 299,
-            "group": "group_7"
-        },
-        {
             "videoId": "MXIv2o5OrkU",
             "title": "Penn State Student Dies After Fall in Fraternity House",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "Pelosi says White House declined $2T coronavirus deal",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "IB8op9jjCDA",
+            "title": "Bomb Scare on Plane at John Wayne Airport",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

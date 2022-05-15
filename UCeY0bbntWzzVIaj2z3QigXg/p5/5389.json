@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eFe7h_c0vUU",
-            "title": "Watch Live: President Donald Trump Signs Executive Order On Veteran Suicide Prevention | NBC News",
-            "secondDuration": 2504,
-            "group": "group_7"
-        },
-        {
             "videoId": "nmdzSvlWwWg",
             "title": "Jeffrey Epstein Settles Suit, Apologizes | NBC Nightly News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Moment Earthquake Shook Mexico Captured In Videos | NBC News",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "ca5AGMqVpgU",
+            "title": "Supreme Court Hears Challenges to Texas Abortion Law | NBC News",
+            "secondDuration": 10511,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

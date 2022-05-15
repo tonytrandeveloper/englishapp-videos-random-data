@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XRzHY-jxIrI",
-            "title": "Romney Challenges Obama on Foreign Policy",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "tXxCwteFXBs",
             "title": "Georgia congressman John Lewis dead at 80",
             "secondDuration": 285,
@@ -31,8 +25,14 @@
             "title": "Olympic Boxer Claressa Shields' Long Fight for Gold",
             "secondDuration": 392,
             "group": "group_7"
+        },
+        {
+            "videoId": "S85WMM_cKpg",
+            "title": "George Zimmerman's Bond Revoked: Must Surrender in 48 Hours",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

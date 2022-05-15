@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0TROrkILlIg",
-            "title": "ABC News Live Update: Major winter storm just in time for Christmas",
-            "secondDuration": 537,
-            "group": "group_7"
-        },
-        {
             "videoId": "G05H1trruEw",
             "title": "Hillary Clinton Is Back on the Campaign Trail",
             "secondDuration": 177,
@@ -31,8 +25,14 @@
             "title": "Craigslist Adult Service Ads Still Online",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yp4iiRd7IRs",
+            "title": "GOP Rivals Look to Capitalize Off Donald Trump 'Blood' Comments",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

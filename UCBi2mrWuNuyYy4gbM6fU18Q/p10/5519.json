@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Bj6CrZ7zlGM",
-            "title": "Hurricane Dorian effects being felt in Florida | ABC News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "xWKtfiPTIHU",
             "title": "The long-term impacts of Russia's invasion of Ukraine",
             "secondDuration": 257,
@@ -61,8 +55,14 @@
             "title": "Lawyer pleads guilty to lying in Russia probe",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "zzGdDCom3pQ",
+            "title": "SpaceX Launch Successful, 1st Commercial Rocket Heads to International Space Station",
+            "secondDuration": 27,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

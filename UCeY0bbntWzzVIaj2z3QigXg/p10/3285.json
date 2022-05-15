@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ij0u1kM3YC0",
-            "title": "Live: NBC News Special Report: The President Hospitalized",
-            "secondDuration": 3579,
-            "group": "group_7"
-        },
-        {
             "videoId": "MhWlXGJwlPM",
             "title": "Protests Leave Little Space For Social Distancing As Coronavirus Rages On | NBC Nightly News",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Reagan Shooter John Hinckley Granted Release From Court Supervision",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "h1E9Qc5hqzo",
+            "title": "Examining The State Of The Presidential Race Ahead Of The Vice Presidential Debate | NBC News NOW",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

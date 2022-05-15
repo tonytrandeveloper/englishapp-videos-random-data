@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JdXu_G92R-I",
-            "title": "9/11 survivor recounts harrowing tale of his escape from the South Tower",
-            "secondDuration": 651,
-            "group": "group_7"
-        },
-        {
             "videoId": "lFl8-8H0gW0",
             "title": "‘GMA’ Hot List: Mom Responds to Christmas Present Backlash | ABC News",
             "secondDuration": 80,
@@ -61,8 +55,14 @@
             "title": "Meet Opal Lee, the Juneteenth ‘grandmother of the movement’",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rtbyc3XhsNE",
+            "title": "'Black Hat Bandits' Strike Again in Virginia",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

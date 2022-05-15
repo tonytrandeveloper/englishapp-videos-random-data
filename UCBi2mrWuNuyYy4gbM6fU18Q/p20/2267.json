@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZRf0-1GPrig",
-            "title": "Meteor in Russia Captured on Video",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "RyE4Vk2FRWg",
             "title": "Trayvon Martin's Alleged Killer: 911 Calls",
             "secondDuration": 144,
@@ -121,8 +115,14 @@
             "title": "California residents describe loss, harrowing escapes from deadly wildfires",
             "secondDuration": 450,
             "group": "group_7"
+        },
+        {
+            "videoId": "lMZHbuafj8A",
+            "title": "'Jimmy Kimmel Live' Kids Get Halloween Revenge",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s7QXZNmRvnA",
-            "title": "Special Report: Trump Makes Announcement On Government Shutdown | NBC News",
-            "secondDuration": 4444,
-            "group": "group_7"
-        },
-        {
             "videoId": "jWQw1tIEdK4",
             "title": "Supreme Court Allows Donald Trump's Transgender Military Ban To Take Effect | NBC Nightly News",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Nightly News Full Broadcast - March 3",
             "secondDuration": 1344,
             "group": "group_7"
+        },
+        {
+            "videoId": "DMGYW2ZxiGQ",
+            "title": "Watch Live: Sheriff Press Conference After Missing Teen Jayme Closs Found Alive | NBC News",
+            "secondDuration": 1309,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

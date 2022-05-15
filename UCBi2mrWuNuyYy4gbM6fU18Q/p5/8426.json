@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0SJBOGbZpTY",
-            "title": "Donald Trump Addresses Not Releasing Tax Returns",
-            "secondDuration": 415,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZVXKkKkj8p0",
             "title": "Outrage over a deadly police shooting in Utah",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Are Smart Homes the Future of High-Tech Living?",
             "secondDuration": 490,
             "group": "group_7"
+        },
+        {
+            "videoId": "gJxH06MwhfI",
+            "title": "Military Base Toxic Water Investigation",
+            "secondDuration": 449,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

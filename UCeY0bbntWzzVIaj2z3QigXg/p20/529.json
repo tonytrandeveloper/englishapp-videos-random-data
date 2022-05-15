@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "P47P4ngVH_c",
-            "title": "Obama Discusses The ISIS Threat | NBC News",
-            "secondDuration": 365,
-            "group": "group_7"
-        },
-        {
             "videoId": "WDbrchrZDn4",
             "title": "Fact Checking The Mueller Hearings | NBC News Now",
             "secondDuration": 225,
@@ -121,8 +115,14 @@
             "title": "Senate Passes Measure To End Government Shutdown | NBC Nightly News",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "8tMHY2w9Kzs",
+            "title": "Father Mourns At Grave Of Baby Twins Killed In Suspected Gas Attack | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sANX94lzGmk",
-            "title": "Father and Son",
-            "secondDuration": 405,
-            "group": "group_7"
-        },
-        {
             "videoId": "-yQvu7KEjz8",
             "title": "Battle over ISIS prison break in Syria",
             "secondDuration": 299,
@@ -61,8 +55,14 @@
             "title": "Jessica Simpson Mimics Demi Moore Vanity Fair Pregnancy Photo in Elle",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "v7I8N2gHx_w",
+            "title": "WWE's Daniel Bryan, Brie Bella Speak Out on Concussions",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

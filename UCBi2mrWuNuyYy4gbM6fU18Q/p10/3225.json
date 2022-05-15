@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2DVw_BbVzCg",
-            "title": "Iowa caucuses voting results delayed | ABC News",
-            "secondDuration": 295,
-            "group": "group_7"
-        },
-        {
             "videoId": "dDIIc7Rz3X8",
             "title": "ABC News Live: John Deere workers on strike for 2nd day in a row",
             "secondDuration": 1582,
@@ -61,8 +55,14 @@
             "title": "Kim Potter is ‘the master of her own fate’: Legal expert on decision to testify",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "mMwype8XYnA",
+            "title": "Vladimir Putin’s rival remains in coma",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

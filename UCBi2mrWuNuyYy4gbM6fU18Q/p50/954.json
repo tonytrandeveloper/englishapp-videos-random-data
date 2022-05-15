@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "4Biw19-lo74",
-            "title": "Extreme weather on both U.S. coasts l On Location",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wbylb3rrmxI",
             "title": "FDA panel votes to recommend Moderna booster shot | WNT",
             "secondDuration": 277,
@@ -301,8 +295,14 @@
             "title": "The Debrief: Trump in Japan & North Korea, Hong Kong protests, 2020 presidential candidate roundup",
             "secondDuration": 1522,
             "group": "group_7"
+        },
+        {
+            "videoId": "GpA1kTncDM0",
+            "title": "Ben Affleck, Tony Mendez Interview on 'Argo': Director, Inspiration Discuss Film",
+            "secondDuration": 307,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

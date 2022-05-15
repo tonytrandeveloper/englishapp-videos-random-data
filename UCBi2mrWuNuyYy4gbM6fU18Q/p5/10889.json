@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8xtewUN_B_k",
-            "title": "Passengers are secretly being watched on the plane by TSA program",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "PJ9yaPtwD80",
             "title": "Teachers go on strike in Chicago l ABC News",
             "secondDuration": 76,
@@ -31,8 +25,14 @@
             "title": "Raging floodwaters push cars through streets of Spain | ABC News",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "mxjhS3zchrg",
+            "title": "SCOTUS’ unanimous decision on religious liberty in LGBTQ case",
+            "secondDuration": 305,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6cIv-ZpWl9Q",
-            "title": "Rudy Giuliani's Republican National Convention Speech (Full) | NBC News",
-            "secondDuration": 963,
-            "group": "group_7"
-        },
-        {
             "videoId": "2OirlAFQBIs",
             "title": "Sully Slams Boeing, Says 737 Max Crews Need New Training | NBC Nightly News",
             "secondDuration": 99,
@@ -121,8 +115,14 @@
             "title": "We Tried Working Out With 750 People On An Aircraft Carrier | Better | NBC News",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "yh4igs__UvA",
+            "title": "Inside Brazil Field Hospital Battling Coronavirus | NBC Nightly News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

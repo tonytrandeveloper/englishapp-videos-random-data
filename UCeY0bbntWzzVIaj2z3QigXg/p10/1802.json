@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vqIntHO1REU",
-            "title": "T-Mobile And Sprint Announce Merger Deal | NBC Nightly News",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "kt57aOwXHeU",
             "title": "Sen. Joe Manchin: Mueller's Investigation Is Not Compromised (Full) | Meet The Press | NBC News",
             "secondDuration": 512,
@@ -61,8 +55,14 @@
             "title": "Austin Mayor: He ‘Couldn’t Believe’ Texas Governor’s Decision To Lift Mask Mandate | NBC News NOW",
             "secondDuration": 290,
             "group": "group_7"
+        },
+        {
+            "videoId": "MGOPc6htOdw",
+            "title": "Iran’s Military, Firefighters Join Fight Against COVID-19 | NBC News",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

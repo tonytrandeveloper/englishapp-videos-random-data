@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0PEfO__QY84",
-            "title": "'Jeopardy's' Alex Trebek on stage 4 cancer diagnosis: 'I'm fighting through it'",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "T9Bt7wEW87M",
             "title": "Sergeant surprises family at State of the Union | ABC News",
             "secondDuration": 186,
@@ -121,8 +115,14 @@
             "title": "Teen who recorded George Floyd’s death could be key factor in Chauvin sentencing",
             "secondDuration": 272,
             "group": "group_7"
+        },
+        {
+            "videoId": "ugNymbjIQUY",
+            "title": "Unarmed Man Killed by Police: 911 Call Released",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

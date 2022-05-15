@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zuWV85jt8Wk",
-            "title": "Amplified: Superdrag",
-            "secondDuration": 236,
-            "group": "group_7"
-        },
-        {
             "videoId": "PrQxtNIVv1g",
             "title": "Stock Market Takes a Dramatic Dive",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "Where did the federal coronavirus aid to small businesses go? Tracking the money",
             "secondDuration": 536,
             "group": "group_7"
+        },
+        {
+            "videoId": "T63-CYZwbmo",
+            "title": "Bill Engvall and Emma Slater Booted From 'DWTS'",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

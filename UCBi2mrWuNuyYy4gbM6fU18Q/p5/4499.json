@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s1LL5MORB64",
-            "title": "Spy vs. Spy",
-            "secondDuration": 367,
-            "group": "group_7"
-        },
-        {
             "videoId": "CNPlmaiU-s4",
             "title": "Trump's tweet on CNN 'is an incitement to violence,' Ana Navarro says",
             "secondDuration": 248,
@@ -31,8 +25,14 @@
             "title": "'We're still sticking with the 8 months' for booster shots: Dr. Anthony Fauci | ABC News",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "iZB3sv0mRlY",
+            "title": "Snow, ice from massive winter storm makes travel dangerous",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

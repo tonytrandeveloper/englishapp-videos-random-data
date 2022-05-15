@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FCF6QW2xSXc",
-            "title": "FBI posts serial killer’s jailhouse confessions l ABC News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "yfK4u3Hg2H4",
             "title": "First Grader With Camping Utensils Suspended",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "2 men to be exonerated in Malcolm X assassination",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "QmPe_59i-t4",
+            "title": "What happened in the final days of the Trump presidency?",
+            "secondDuration": 653,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

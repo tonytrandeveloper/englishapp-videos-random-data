@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zOORWYzowGI",
-            "title": "Diane Sawyer: Female Soldiers in Afghanistan Warzones",
-            "secondDuration": 401,
-            "group": "group_7"
-        },
-        {
             "videoId": "S3JCIosrxew",
             "title": "U.S. Security Officials on Alert",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "'Gangster Squad' Star Ryan Gosling",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "NUYhIGLcl5k",
+            "title": "School gym torn apart by microburst l ABC News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

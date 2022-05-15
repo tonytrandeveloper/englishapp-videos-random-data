@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y8gxEv8CLqc",
-            "title": "6-year-old girl with cerebral palsy has the sweetest reaction to taking steps unaided | ABC News",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "83iPp1zQPlg",
             "title": "Police dashcam footage shows suspect allegedly assaulting an officer in Georgia",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Deadly terror attack on streets of Barcelona",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "OSYH_v3YLIo",
+            "title": "John Stossel's '20/20' Special",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DsmyTJkbsco",
-            "title": "FBI Investigated Deadly Oregon Standoff",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "E4Jy6ht8uso",
             "title": "Snooki Interview 2013: 'DWTS' Contestant Gets, Boot, Discusses on 'GMA'",
             "secondDuration": 357,
@@ -61,8 +55,14 @@
             "title": "Tropical Storm Headed Towards Gulf",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "SJlIAE0_Qbw",
+            "title": "Malaysia Flight 17: Families Mourn Victims at Amsterdam, Kuala Lumpur Airports",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

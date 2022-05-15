@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PJ9qJT-Zp9U",
-            "title": "Inside the GOP Spin Room - Undercard Debate",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "l755rYnUh0g",
             "title": "Kellyanne Conway Acknowledges \"We Are Behind\" | Meet The Press | NBC News",
             "secondDuration": 546,
@@ -31,8 +25,14 @@
             "title": "Germanwings Co-Pilot Andreas Lubitz Practice Run | NBC Nightly News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "ICuefgql6Kc",
+            "title": "First Female And African-American Librarian Of Congress 'Very Honored' By Confirmation | NBC News",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

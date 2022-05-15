@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TFunsNYmpNI",
-            "title": "Donald Trump Takes on Hillary Clinton, Miss Universe Error",
-            "secondDuration": 237,
-            "group": "group_7"
-        },
-        {
             "videoId": "HX6YvqemvhY",
             "title": "N. Korea Detains Another American for Spying",
             "secondDuration": 16,
@@ -61,8 +55,14 @@
             "title": "Woman Thanks Heroes Who Saved Her Children From Burning Minivan",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "v7v_GPLTN7Q",
+            "title": "Donald Trump on 'Speechgate,' Plans For His RNC Address",
+            "secondDuration": 266,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

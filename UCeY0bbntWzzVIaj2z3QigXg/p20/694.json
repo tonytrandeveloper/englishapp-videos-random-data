@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "P746hTO85XU",
-            "title": "President Donald Trump Reluctantly Agrees To Keep U.S. Troops In Syria | NBC Nightly News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "0rqiqhRQLxA",
             "title": "Republican Marsha Blackburn Celebrates Senate Win In Tennessee | NBC News",
             "secondDuration": 133,
@@ -121,8 +115,14 @@
             "title": "Trump Faces Questions Over Donation, Florida AG and Trump University | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "m2E_AIPl5tY",
+            "title": "Buttigieg, Sanders, Klobuchar React To Partial Iowa Caucus Results | NBC News",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

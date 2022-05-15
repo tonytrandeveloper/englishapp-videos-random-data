@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "i43nGCJBK6s",
-            "title": "Bernie Sanders, Mike Bloomberg Spar Over Who Has A Better Chance To Beat Trump | NBC News",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "Im2nMkaPfG0",
             "title": "11-Year-Olds Compose Music For The New York Philharmonic | NBC Nightly News",
             "secondDuration": 114,
@@ -301,8 +295,14 @@
             "title": "Father And Son Rescue Bald Eagle | Archives | NBC News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "edX_qqV9Fl8",
+            "title": "First Successful Transplant Of Pig Heart To Human Patient Performed In Maryland",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

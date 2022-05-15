@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3V4DoIDenWg",
-            "title": "ABC News Prime: Hurricane Sally strengthens; Western wildfires; COVID-19 cases rise in 11 states",
-            "secondDuration": 3620,
-            "group": "group_7"
-        },
-        {
             "videoId": "xEcomgfAA2k",
             "title": "Mike Pence Responds to 'Hamilton' Incident",
             "secondDuration": 179,
@@ -31,8 +25,14 @@
             "title": "By the Numbers: The history of PRIDE",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "3JtAiWUlFmQ",
+            "title": "'This Week' Roundtable: Second Term Slump",
+            "secondDuration": 697,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

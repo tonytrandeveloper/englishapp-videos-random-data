@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "N2MGFkpNqoI",
-            "title": "Arizona Department of Corrections releases video of prison hostage situation",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "uuS6K2pKanE",
             "title": "Dog and Cat Deaths May be Linked to Dog Treats",
             "secondDuration": 77,
@@ -121,8 +115,14 @@
             "title": "New book details societal challenges boys and men face",
             "secondDuration": 372,
             "group": "group_7"
+        },
+        {
+            "videoId": "APvOfUZ7eW0",
+            "title": "Rain, Rain Not Going Away",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

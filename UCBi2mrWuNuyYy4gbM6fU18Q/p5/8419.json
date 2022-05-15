@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AtAXKzKueC8",
-            "title": "Newt Gingrich Speaks Out on Donald Trump, GOP",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "3Y2d6lxqVHg",
             "title": "Snow Shuts Down D.C.",
             "secondDuration": 196,
@@ -31,8 +25,14 @@
             "title": "Caught on Tape: Gunman Takes School Board Hostage",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "R4HS8QYC3i8",
+            "title": "Top Line: Rep. Hodes on Bernanke: Supporting Him 'So Far'",
+            "secondDuration": 579,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6rgUp245nso",
-            "title": "How House Survived Surrounding Wildfire",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "tEmNJerPwyI",
             "title": "Paula Abdul Interview on 'GMA': Singer on Judging 'DWTS,' Controversial Rumba Scores",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "The Conversation: AIG Bonuses",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "SpzjS4wO__k",
+            "title": "Shanksville, Pa. 9/11 Memorial Service",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

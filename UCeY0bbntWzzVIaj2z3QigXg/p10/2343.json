@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0WksXT7jEWs",
-            "title": "Attorney In L.A. Weinstein Trial Calls New York Conviction ‘Monumental’ | NBC News NOW",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "LQyO2NZDb0g",
             "title": "Autistic Brothers Excel in Southern University Marching Band | NBC News",
             "secondDuration": 435,
@@ -61,8 +55,14 @@
             "title": "Hit HBO Show Driving Tourism Boom At Chernobyl Site | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "KYgAnCkx1U8",
+            "title": "Russia Begins Shooting At People Who Can't Shoot Back",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

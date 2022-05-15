@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ag4QvMtXK8w",
-            "title": "Updates on the growing humanitarian crisis in Puerto Rico",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "KuOXn55jTvc",
             "title": "Alleged Bullying in the NFL",
             "secondDuration": 172,
@@ -31,8 +25,14 @@
             "title": "Jordan Signals Possible Swap for ISIS Hostage",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZDhglMlIqCU",
+            "title": "Corey Lewandowski on the RNC, President Trump’s job performance",
+            "secondDuration": 438,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

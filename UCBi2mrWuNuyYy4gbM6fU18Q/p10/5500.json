@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BjCes2hqZrc",
-            "title": "Giganomics: Why Settle for One Employer?",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "xU6fBFZo0z4",
             "title": "'Thelma & Louise' 25th Reunion | 'GMA' Exclusive:",
             "secondDuration": 253,
@@ -61,8 +55,14 @@
             "title": "Trading temporarily halted as markets plummet despite Fed intervention  | ABC News",
             "secondDuration": 378,
             "group": "group_7"
+        },
+        {
+            "videoId": "DsgviNiXKso",
+            "title": "Ferguson Reacts After Police Officer Cleared of Civil Rights Violations",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

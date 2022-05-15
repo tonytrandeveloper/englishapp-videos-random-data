@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4XsGXaGhiKc",
-            "title": "White House Holds Press Briefing: March 17 | NBC News",
-            "secondDuration": 2905,
-            "group": "group_7"
-        },
-        {
             "videoId": "tOS31foSNVE",
             "title": "President Donald Trump Marks Passage Of Tax Bill (Full) | NBC News",
             "secondDuration": 2003,
@@ -31,8 +25,14 @@
             "title": "Coast Guard Denied Pay, Some Turn To Food Banks Amid Shutdown | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "mI_IJG7qlmw",
+            "title": "Matthew Whitaker To House Committee Chairman ‘Your Five Minutes Is Up’ | NBC News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

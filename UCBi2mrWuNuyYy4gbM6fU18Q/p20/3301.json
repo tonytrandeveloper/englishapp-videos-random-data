@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ISovw7GMfZg",
-            "title": "Prosecutors claim R. Kelly used his title to run ‘criminal enterprise’",
-            "secondDuration": 381,
-            "group": "group_7"
-        },
-        {
             "videoId": "D1GELHLuT4Q",
             "title": "Kansas Shootings | 4 Dead, 14 Wounded",
             "secondDuration": 86,
@@ -121,8 +115,14 @@
             "title": "Boeing's Dreamliner Jet Springs Second Fuel Leak",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "H2cyt52IdG4",
+            "title": "Olympics | Michael Phelps, Katie Ledecky Win Gold, Smash Records",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AySyPB1WlUo",
-            "title": "Government Shutdown Day Three",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "cJNc-7lQssg",
             "title": "Impact of the Ahmaud Arbery murder trial on the Black community",
             "secondDuration": 712,
@@ -121,8 +115,14 @@
             "title": "Snow, fire and Prince William: World in Photos, Nov. 30",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "AP-BEXZSRiA",
+            "title": "At least 11 injured in shooting at California bar",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

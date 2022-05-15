@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "054EPU-PiwM",
-            "title": "Jake Tapper on Obama's Notre Dame Speech",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "V6JDQlIQ1Nc",
             "title": "Tom Brady Tears Up After Boy's Question About Heroes | ABC News",
             "secondDuration": 29,
@@ -31,8 +25,14 @@
             "title": "'Elkhart 4' Arrested For Murder in Burglary Gone Wrong: Part 1",
             "secondDuration": 495,
             "group": "group_7"
+        },
+        {
+            "videoId": "DtOdVsneSns",
+            "title": "ABC News Live Update: New details in wave of cyberattacks targeting the US",
+            "secondDuration": 786,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

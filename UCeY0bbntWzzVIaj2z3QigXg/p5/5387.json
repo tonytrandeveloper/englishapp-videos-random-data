@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T0zW3Xe--Ls",
-            "title": "How A Fire Department Saved A 7-Year-Old’s Birthday | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "nPjXM3soQPo",
             "title": "Jeff Sessions Announces Lifted Restrictions On Military Gear For Police | NBC News",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Watch: Celebrations In The Streets as Biden Projected President-Elect | NBC News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "-ihGtMZ1VHM",
+            "title": "Two Of Trump’s Bedminster Undocumented Housekeepers Speak Out | NBC Nightly News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

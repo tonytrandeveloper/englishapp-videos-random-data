@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oavd3Xg2SV8",
-            "title": "Panda's Sit-Up Workout Is Abs-olutely Adorable",
-            "secondDuration": 42,
-            "group": "group_7"
-        },
-        {
             "videoId": "5829TWRQgY8",
             "title": "NASA to test planetary defense technique to avoid potential asteroid collisions",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Elizabeth Warren Questions Betsy Devos | ABC News",
             "secondDuration": 349,
             "group": "group_7"
+        },
+        {
+            "videoId": "E21BGZA4n-I",
+            "title": "Plane crashes in Las Vegas neighborhood",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

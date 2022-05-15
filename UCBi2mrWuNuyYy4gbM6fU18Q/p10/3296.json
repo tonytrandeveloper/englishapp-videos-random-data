@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "F-vbZJU-4Iw",
-            "title": "Ja Rule defends himself after Fyre backlash",
-            "secondDuration": 315,
-            "group": "group_7"
-        },
-        {
             "videoId": "ArZ-GRw4xDA",
             "title": "Hurricane Sandy 'Perfect Storm' East Coast Storm Track: Could Hurricane, Winter Storm Strike U.S.?",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Super Bowl 2012 Countdown: Eli Manning's New York Giants vs. Tom Brady's New England Patriots",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "e3DXNCkWTnc",
+            "title": "Bullied on the Bus: The Gift",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

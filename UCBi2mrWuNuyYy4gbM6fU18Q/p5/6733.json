@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GUIu0YC-Q5k",
-            "title": "By the Numbers: Colon cancer screenings should begin at age 45",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "SGjHMJsdcMA",
             "title": "Hurricane Zeta racing toward Gulf Coast",
             "secondDuration": 236,
@@ -31,8 +25,14 @@
             "title": "Accuser to Bill Cosby: ‘You know what you did’",
             "secondDuration": 377,
             "group": "group_7"
+        },
+        {
+            "videoId": "bwKCqyUwbEw",
+            "title": "Trump names his pick for new FBI director ahead of Comey testimony",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bvZtbMtmuLs",
-            "title": "Saturn’s Rings Might Be Younger Than We Thought | Mach | NBC News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "HK_uluw5V5Y",
             "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
             "secondDuration": 1839,
@@ -61,8 +55,14 @@
             "title": "Biden Expected To Announce Severe Sanctions On Russia",
             "secondDuration": 267,
             "group": "group_7"
+        },
+        {
+            "videoId": "PkqtEqjP8Yc",
+            "title": "Breakthrough Heart Surgery Gets FDA Approval | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IfoDJQFUveI",
-            "title": "Man Proposes in Crocodile Pit",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "ouT7DqfAd4M",
             "title": "Memorable ways to celebrate the Fourth of July holiday",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Admits to Mistakes Ahead of Wisconsin Primary",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "nJkS4E8pJac",
+            "title": "Republican National Convention | Benghazi Victim's Mother Speaks",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

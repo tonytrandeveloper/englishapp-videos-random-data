@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "v7v_GPLTN7Q",
-            "title": "Donald Trump on 'Speechgate,' Plans For His RNC Address",
-            "secondDuration": 266,
-            "group": "group_7"
-        },
-        {
             "videoId": "h5eFFdhVeQA",
             "title": "Behind the scenes of big business Super Bowl ads",
             "secondDuration": 180,
@@ -31,8 +25,14 @@
             "title": "Christie in Crisis:  Fighting Back",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "fKhZ9JFFotc",
+            "title": "NHL Faces Mumps Outbreak With Multiple Players, Referees Sick",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

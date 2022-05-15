@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jsvWw_44VUE",
-            "title": "Celebrating Andrea Mitchell’s 40th Anniversary At NBC News | Meet The Press | NBC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "HpucVWp9E3M",
             "title": "Holiday Gridlock Ensues As Thanksgiving Travelers Flock Roads And Airports | NBC Nightly News",
             "secondDuration": 86,
@@ -31,8 +25,14 @@
             "title": "California’s Farms Face Serious Labor Shortage",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "HA0NE5Ws18w",
+            "title": "Some Schools Are Already Flunking COVID-19 Safety Tests | NBC Nightly News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

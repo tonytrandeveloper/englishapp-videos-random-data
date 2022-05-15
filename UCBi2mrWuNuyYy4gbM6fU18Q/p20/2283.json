@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cnnBcjUiof8",
-            "title": "Your questions answered",
-            "secondDuration": 293,
-            "group": "group_7"
-        },
-        {
             "videoId": "PeRgmo_qGG0",
             "title": "Hillary Clinton Widens Her Lead Over Donald Trump",
             "secondDuration": 89,
@@ -121,8 +115,14 @@
             "title": "Confronting Internet Trolls: Part 2",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "NU_1SHkTkR8",
+            "title": "Tampa Bay Rays, Baltimore Orioles' Last-Minute Runs in 2 Games Stun Red Sox, Lose Playoff Spot",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

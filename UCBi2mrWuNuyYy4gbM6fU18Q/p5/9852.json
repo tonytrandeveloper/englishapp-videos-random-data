@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iuyywL32_Rw",
-            "title": "19-year-old aviator sets new solo world record",
-            "secondDuration": 320,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZlOxzXquDN4",
             "title": "Turmoil in USPS threatens to disenfranchise voters",
             "secondDuration": 172,
@@ -31,8 +25,14 @@
             "title": "Curious koala heads to school",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "77fZNgZQTVI",
+            "title": "Police Brutality Allegation Payouts",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

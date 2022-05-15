@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "d417ZnlPsTY",
-            "title": "Tampa Bay Lightning Celebrates Stanley Cup Win With Boat Parade",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "2bealUuH-XY",
             "title": "Legendary NCAA Basketball Coach Rick Pitino Ousted Amid Recruiting Scandal | NBC Nightly News",
             "secondDuration": 114,
@@ -301,8 +295,14 @@
             "title": "Beyond The Letter Of The Law: How Algorithms Are Changing The Legal World | Mach | NBC News",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "PccLJNVVpek",
+            "title": "Police Update On Shooting At Naval Air Station Pensacola | NBC News (Live Stream Recording)",
+            "secondDuration": 903,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

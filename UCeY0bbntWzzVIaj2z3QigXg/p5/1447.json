@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cN-iWQlSHiY",
-            "title": "Topps Baseball Cards Celebrates 70 Years Of A Sports Tradition",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "exwROZfgBeM",
             "title": "Unemployment Claims Rise To Nearly 50 Million Amid Coronavirus Pandemic | NBC News NOW",
             "secondDuration": 1100,
@@ -31,8 +25,14 @@
             "title": "Former Jihadist Works To Reform Charlottesville Extremist | NBC News NOW",
             "secondDuration": 403,
             "group": "group_7"
+        },
+        {
+            "videoId": "uUmERqsovwA",
+            "title": "Donald Trump Administration Shifts Accounts Of FBI Director James Comey’s Firing | NBC Nightly News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

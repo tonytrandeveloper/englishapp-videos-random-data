@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aJcTBnDIZeE",
-            "title": "ABC News' Coverage of Apollo 11 Moon Landing",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "ouo5L5IGWWE",
             "title": "Disney's Maleficent Full Trailer: 'GMA' Gives First Worldwide Look at Angelina Jolie's 'Maleficent'",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "J.Lo, Shakira reveal details of 12-minute halftime performance | ABC News",
             "secondDuration": 252,
             "group": "group_7"
+        },
+        {
+            "videoId": "_HdIYXyZ3d8",
+            "title": "Facebook continues suspension of Trump for 2 years",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

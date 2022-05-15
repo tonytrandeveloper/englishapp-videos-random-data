@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tyrh7Pgb4MU",
-            "title": "Raw: Truck Jumps Highway Barrier And Collides With Car | NBC News",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "GBgDgY8UaMg",
             "title": "Super Bowl LI Trumped By Politics With Controversial Ads, Lady Gaga, 'Sisterhood' | NBC News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "North Korea Claims It Has Tested New ‘Ultramodern’ Weapon | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "UZMa1eTRdEE",
+            "title": "Megyn Kelly Preview: Russian President Vladimir Putin Discusses Kushner & Flynn | NBC Nightly News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

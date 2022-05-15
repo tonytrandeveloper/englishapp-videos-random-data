@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zvqxT2jpW4Q",
-            "title": "NBC Nightly News Broadcast (Full) - May 28th, 2021",
-            "secondDuration": 1281,
-            "group": "group_7"
-        },
-        {
             "videoId": "pJNx1DUTYZk",
             "title": "Minneapolis Reaches $27 Million Settlement With George Floyd’s Family | NBC Nightly News",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Commuter Train Crashes In Hoboken, N.J. | NBC News",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "BRKuZ9tvytY",
+            "title": "Toyota Concert Series on TODAY: Susan Loves NKOTBSB",
+            "secondDuration": 22,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

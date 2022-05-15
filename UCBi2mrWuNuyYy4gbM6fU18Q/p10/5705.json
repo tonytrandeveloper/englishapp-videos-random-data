@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RHqXB0ricjM",
-            "title": "Tracy Morgan Returns To Work Following Devastating Car Accident | ABC News",
-            "secondDuration": 248,
-            "group": "group_7"
-        },
-        {
             "videoId": "pZqeYYgR_qU",
             "title": "Acknowledging drone strike mistake was right: Former Joint Chiefs chairman | ABC News",
             "secondDuration": 474,
@@ -61,8 +55,14 @@
             "title": "Katie Holmes, Tom Cruise to Divorce",
             "secondDuration": 335,
             "group": "group_7"
+        },
+        {
+            "videoId": "4LmyOvAgbg0",
+            "title": "Searching for Deals on Black Friday",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

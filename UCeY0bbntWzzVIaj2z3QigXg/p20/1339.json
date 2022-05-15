@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JgbpoPEg-To",
-            "title": "This Police Officer Has A 4-Year-Old Apprentice | NBC Nightly News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "HFpieJ95qeQ",
             "title": "Supreme Court Upholds President Donald Trump's Travel Ban In 5-4 Ruling | NBC News",
             "secondDuration": 202,
@@ -121,8 +115,14 @@
             "title": "Peter Shankman: What I Learned From Living With A Faster Brain | Better | NBC News",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "0XbHGcJqyrM",
+            "title": "See Footage Of New York City's Flash Flood Emergency",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

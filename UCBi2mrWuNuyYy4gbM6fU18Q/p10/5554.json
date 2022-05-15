@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yvTTBOeptwM",
-            "title": "Harvey Weinstein defense team presents closing arguments",
-            "secondDuration": 287,
-            "group": "group_7"
-        },
-        {
             "videoId": "dgJlntNgo2M",
             "title": "Airstrikes contradict Russia’s claims of reducing military operations  | ABC News",
             "secondDuration": 339,
@@ -61,8 +55,14 @@
             "title": "Zodiac Sign Switch Brings Horoscope Horrors",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "b0jD2KnA0gQ",
+            "title": "Tupac Alive at Coachella, Performs with Snoop Dogg",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

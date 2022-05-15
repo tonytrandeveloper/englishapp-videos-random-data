@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tfOZ0xH3vZE",
-            "title": "Keeping Soot Off Santa | Holiday Cycle",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "bU7pc7FujXY",
             "title": "Planes Nearly Crash Mid-Air 200ft Apart above NYC 2/7/2011",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Battle for the Senate",
             "secondDuration": 311,
             "group": "group_7"
+        },
+        {
+            "videoId": "40J8_C7AUvc",
+            "title": "Phone Scam Caught on Tape",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

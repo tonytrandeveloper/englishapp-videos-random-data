@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "sgQL-ckabuQ",
-            "title": "'Star Wars' At 40: A Look Back At The Film By Those Who Made It | NBC News",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "6mJ-uA8ue04",
             "title": "Getting To Know Presidential Candidate Tom Steyer | NBC News Now",
             "secondDuration": 334,
@@ -301,8 +295,14 @@
             "title": "Infrastructure Plan Inches Closer To A Deal",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "mkzbwHUP-n4",
+            "title": "Dr. Birx Warns Of Social Distancing Through Summer As States Begin To Reopen | NBC Nightly News",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

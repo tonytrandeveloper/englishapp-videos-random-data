@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tLwyAbcsjoA",
-            "title": "Supreme Court Justice Anthony Kennedy Announces Retirement | NBC New",
-            "secondDuration": 5106,
-            "group": "group_7"
-        },
-        {
             "videoId": "tOX5Ti0OcZo",
             "title": "President Trump Says He Feels 'Terribly' For Brett Kavanaugh, Doesn't Mention Accuser | NBC News",
             "secondDuration": 194,
@@ -31,8 +25,14 @@
             "title": "Quarantined Cruise Ship Passenger Describes Life On Board Grand Princess | NBC News",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZH5qtjcpNtQ",
+            "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 1637,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

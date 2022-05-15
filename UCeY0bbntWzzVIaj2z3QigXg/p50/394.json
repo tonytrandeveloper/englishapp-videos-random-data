@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "IOw_qT1ls6k",
-            "title": "Watch Joe Biden's Full Press Conference After Putin Summit | NBC News",
-            "secondDuration": 2910,
-            "group": "group_7"
-        },
-        {
             "videoId": "N6BCUCVeGZA",
             "title": "What Is The Defense Production Act? | NBC News NOW",
             "secondDuration": 243,
@@ -301,8 +295,14 @@
             "title": "How Do Waves Form In The Ocean? | Nightly News: Kids Edition",
             "secondDuration": 1369,
             "group": "group_7"
+        },
+        {
+            "videoId": "b1OdeUUevPc",
+            "title": "Britney Spears’ Father Suspended From Conservatorship",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

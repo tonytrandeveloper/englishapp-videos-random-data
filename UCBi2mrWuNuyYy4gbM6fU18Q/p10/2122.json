@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3cTIAkj7fKc",
-            "title": "Joan Rivers In Critical Condition at a New York Hospital",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "ndJLKlc4it0",
             "title": "Sen. John McCain diagnosed with brain tumor",
             "secondDuration": 195,
@@ -61,8 +55,14 @@
             "title": "White House Press briefing on House passing Trump, GOP's Tax plan | ABC News",
             "secondDuration": 2571,
             "group": "group_7"
+        },
+        {
+            "videoId": "z0y6B9724Eo",
+            "title": "Super Bowl 2014: 'Puppy Love' is Top TV Ad",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

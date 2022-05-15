@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xKIRYjLboKA",
-            "title": "Israel Launches a Ground Offensive in Gaza",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nm9REt3Pccs",
             "title": "New York Lockdown: Preparing for Hurricane Sandy",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Personalized Cancer Care",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "6BzJ7zXHGt4",
+            "title": "Clues to Getting the Best Shopping Deals",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

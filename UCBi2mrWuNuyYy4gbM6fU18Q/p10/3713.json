@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8h1tyCe8rBM",
-            "title": "George Floyd case: Former officer Thao's interview, body camera footage released | ABC News",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "pUQPOkV1L-Y",
             "title": "Puerto Rico battles state of darkness",
             "secondDuration": 294,
@@ -61,8 +55,14 @@
             "title": "Tactical Vehicle Swept Away by Floodwaters, Leaving 9 Dead",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "3ii4qTSBzEY",
+            "title": "ABC News Prime: CDC on the unvaccinated; Flooding in Europe; Bomb plot against Democratic HQ",
+            "secondDuration": 3630,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

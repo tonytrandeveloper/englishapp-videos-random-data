@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NiF2DrWjwxo",
-            "title": "Whales Invade California's Monterey Bay",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "gO9JzKuwd3A",
             "title": "GOP: The Party of No?",
             "secondDuration": 339,
@@ -31,8 +25,14 @@
             "title": "Germs in Gyms | ABC News",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "zUSfJm6qu5g",
+            "title": "Roger Stone insists he won't betray President Trump to Robert Mueller",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

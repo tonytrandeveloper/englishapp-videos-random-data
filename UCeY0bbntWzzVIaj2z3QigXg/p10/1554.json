@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Mx7fGcfDpR0",
-            "title": "Swedish Crown Jewels Stolen In Broad Daylight Heist | NBC Nightly News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q6FR_7w51Y4",
             "title": "Trump Attorney: Americans Should Feel ‘Better’ After Mueller Report Release | NBC News",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Did Owner Of Million-Dollar U.S. Home Help North Korea Evade Sanctions? | NBC Nightly News",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "3iO57V9apcY",
+            "title": "President Trump Selects Amy Coney Barrett As Supreme Court Nominee | NBC Nightly News",
+            "secondDuration": 266,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

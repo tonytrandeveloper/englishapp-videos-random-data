@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ewu4iWXTvRk",
-            "title": "Coronavirus, lemur twins and President Trump: World in Photos, March 30",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "3FpZR76e2fg",
             "title": "U.S. Commander Injured After Power Transfer",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Calls for Military Cuts to Be Lifted",
             "secondDuration": 347,
             "group": "group_7"
+        },
+        {
+            "videoId": "csp4Ea_EILU",
+            "title": "Interview With Senator-elect Rand Paul",
+            "secondDuration": 867,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

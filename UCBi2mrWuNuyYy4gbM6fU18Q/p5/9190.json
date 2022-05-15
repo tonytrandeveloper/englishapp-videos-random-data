@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mA9zuN_pfG8",
-            "title": "Tesla Autopilot Fatal Crash Raises Safety Questions",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "uRaqcMzr0AY",
             "title": "Capitol insurrection: 'It felt like a warzone' l ABC News",
             "secondDuration": 547,
@@ -31,8 +25,14 @@
             "title": "Israel, Hamas Escalating Tensions Over Gaza Strip; 'This Week' Roundtable Discussion",
             "secondDuration": 1238,
             "group": "group_7"
+        },
+        {
+            "videoId": "lbA5EJzeirA",
+            "title": "“Catch Me If You Can:” Real 17-Year-Old Doctor Imposter?",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

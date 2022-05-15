@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BzbCDgbGIKE",
-            "title": "Jamie Foxx Sings National Anthem, Receives Mixed Reviews",
-            "secondDuration": 237,
-            "group": "group_7"
-        },
-        {
             "videoId": "m6FPZb0oL9w",
             "title": "Authorities Search for Victims, Cause of Oakland Warehouse Fire",
             "secondDuration": 233,
@@ -31,8 +25,14 @@
             "title": "Large waves crash along California coast amid tsunami advisory",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "gyhRnN4HKXY",
+            "title": "Uber CEO apologizes for newly released video",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

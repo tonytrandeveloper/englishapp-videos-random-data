@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3gBcThCNcDI",
-            "title": "More alleged members of neo-Nazi group called 'The Base' arrested | ABC News",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "u4w4Ff731KY",
             "title": "Delta variant ‘may threaten the work we have done,’ expert says",
             "secondDuration": 349,
@@ -61,8 +55,14 @@
             "title": "Hollywood Hills Burglary Ring",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "KJSueklTwKs",
+            "title": "The Debrief: Syria-Turkey conflict, cop shoots woman in her own home, NOLA crane collapse | ABC News",
+            "secondDuration": 1726,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "f8qWQGedfOk",
-            "title": "NYC Jogger Murdered | Desperate Manhunt For a Killer",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "uR8x1t9GBj4",
             "title": "Bod4God: Get In Shape to Honor God?",
             "secondDuration": 354,
@@ -61,8 +55,14 @@
             "title": "Death toll climbs over 200 after flash flood in Colombia",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "3ChU-WGq7m8",
+            "title": "'This Week': Affirmative Action",
+            "secondDuration": 390,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

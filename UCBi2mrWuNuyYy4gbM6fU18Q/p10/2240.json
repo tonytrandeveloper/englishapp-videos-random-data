@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lK_SLmEwss8",
-            "title": "Thousands expected to attend Nipsey Hussle memorial",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "OP3SRqiaV2A",
             "title": "Microsoft Surface RT Video Review",
             "secondDuration": 206,
@@ -61,8 +55,14 @@
             "title": "Close Call on the Arctic's Melting Sea Ice",
             "secondDuration": 347,
             "group": "group_7"
+        },
+        {
+            "videoId": "BcglVtJT8U4",
+            "title": "Real Life 'Blind Side'",
+            "secondDuration": 408,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

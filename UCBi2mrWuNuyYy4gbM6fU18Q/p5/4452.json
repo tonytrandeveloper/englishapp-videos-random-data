@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jHCk5WHjvgs",
-            "title": "The Bachelorette | A Muscular Villain Emerges",
-            "secondDuration": 333,
-            "group": "group_7"
-        },
-        {
             "videoId": "GPukkWHC6WI",
             "title": "MLB Fan Hit by Foul Ball",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "'The Dropout: The Rise and Con of Elizabeth Holmes'",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "BqziQsXCqbU",
+            "title": "Becoming Beetlejuice - Behind the Scenes on Broadway",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

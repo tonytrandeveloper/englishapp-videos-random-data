@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HzI6YVl1PvM",
-            "title": "President Trump's 2019 State of the Union address: ANALYSIS",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "O4SJYSrlTnA",
             "title": "President Biden departs, storm in New York, wedding bliss: World in Photos, June 9",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "East braces for dangerous temperatures after nor'easter",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "MnjZj9oFXBQ",
+            "title": "Donald Trump one-on-one with George Stephanopoulos",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

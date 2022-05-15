@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gnmX_55Y4vY",
-            "title": "Trump faces 1st terror attack during time in office",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "GvFLXFCJvJA",
             "title": "Kennedy Mounts Ideological Attack on Bork",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Helicopter Drops Bombs Triggering Avalanche in Colorado | ABC News",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "2yttNK5qfN0",
+            "title": "Pence Responds on Whether Administration Should Repair Obamacare Instead of 'Repeal and Replace'",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

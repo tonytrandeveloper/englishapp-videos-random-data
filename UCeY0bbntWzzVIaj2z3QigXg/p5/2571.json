@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3NBT0uORreU",
-            "title": "This Morning’s Top Headlines – Nov. 19 | Morning News NOW",
-            "secondDuration": 1514,
-            "group": "group_7"
-        },
-        {
             "videoId": "W4mIn4G4-vw",
             "title": "Why You Should Eat More Protein at Breakfast | Better | NBC News",
             "secondDuration": 83,
@@ -31,8 +25,14 @@
             "title": "Pete Buttigieg: 'The Wealthy Corporations Are Not Paying Their Fair Share' | NBC News",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "MKGIKgLN_RQ",
+            "title": "President Donald Trump Signs Executive Order Halting Family Separation At Border | NBC News",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

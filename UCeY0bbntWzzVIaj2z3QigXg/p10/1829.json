@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z3VAh6NEbqE",
-            "title": "Chris Paul: \"For student success, it takes...\"",
-            "secondDuration": 6,
-            "group": "group_7"
-        },
-        {
             "videoId": "tF7BviIuBJ0",
             "title": "Boston Marathon Bombing Trial Goes To The Jury | NBC Nightly News",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "New Law Banning Surprise Medical Bills Comes Into Effect",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "uymwsgN9ikg",
+            "title": "Ex-Blackwater Guards Sentenced In 2007 Iraqi Killings | NBC Nightly News",
+            "secondDuration": 38,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

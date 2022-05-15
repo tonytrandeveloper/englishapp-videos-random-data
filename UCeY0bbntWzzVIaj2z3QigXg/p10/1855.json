@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9Z-Cvsmkmz4",
-            "title": "After COVID-19, Survivors Face Stigma | NBC Nightly News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "kQbFb0mmQFw",
             "title": "TSA’s ‘Quiet Skies’ Program Raises Privacy Concerns | NBC Nightly News",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Facebook Denounces Anti-Vaccination Content After Child’s Death | NBC News NOW",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "c2RlD853Dc8",
+            "title": "Attorney Describes 'Debtors' Prison' Scheme Targeting Poor Minorities | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

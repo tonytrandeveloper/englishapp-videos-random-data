@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fZssv1FcVLA",
-            "title": "Syria Violence Continues With Massacre of 32 Children",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "0dRwDmBtAtY",
             "title": "Coast Guard Rescue Video: 5 California Sailors Saved, 1 Dead After Boat Hits San Clemente Island",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Dramatic first day of Kim Potter trial",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "sLv8o383DwQ",
+            "title": "Steph Curry Schools Summer Camper",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

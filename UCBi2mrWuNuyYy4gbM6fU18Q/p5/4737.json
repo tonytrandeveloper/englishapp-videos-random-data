@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yVLBO9BscHA",
-            "title": "Indiana Republican Sen. Mike Braun discusses the 2020 election | ABC News",
-            "secondDuration": 403,
-            "group": "group_7"
-        },
-        {
             "videoId": "AsnugqU5QgU",
             "title": "Deadline for New York state health care workers to get vaccinated",
             "secondDuration": 503,
@@ -31,8 +25,14 @@
             "title": "Amanda Knox Case File Opened",
             "secondDuration": 302,
             "group": "group_7"
+        },
+        {
+            "videoId": "J0FPQs_MOko",
+            "title": "The Lower Calorie Doughnut, Egg and Bacon Sandwich: World News Instant Index",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Q9McdTRJfuQ",
-            "title": "Burning Cruise Ship Arrives Into Jamaican Port",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "HVqmWwaLSGc",
             "title": "FAA Investigating New Drone Incidents at JFK Airport",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "Clinton admitted to hospital with infection | WNT",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "JHE9hMjWhrQ",
+            "title": "Homegrown Terror in Rochester, NY",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

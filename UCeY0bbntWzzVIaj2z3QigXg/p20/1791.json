@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2BTZQ1sNanI",
-            "title": "Martin Shkreli Found Guilty Of Securities Fraud | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "QBsvo0-ARzY",
             "title": "President Donald Trump Defends Brett Kavanaugh During Campaign Rally | NBC News",
             "secondDuration": 103,
@@ -121,8 +115,14 @@
             "title": "Ceja Family Creates Labor Of Love At Latino Family-Owned Vineyard | NBC News",
             "secondDuration": 247,
             "group": "group_7"
+        },
+        {
+            "videoId": "6ixQMafvhLE",
+            "title": "Siblings Start Camp To Help Kids Cope With Loss Of Loved Ones Who Died By Suicide | NBC Nightly News",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jiCrCsvKyGU",
-            "title": "NBC News NOW Full Broadcast – August 23, 2021",
-            "secondDuration": 2885,
-            "group": "group_7"
-        },
-        {
             "videoId": "-OUdH6Hc5jA",
             "title": "The Oscars' Complicated History With Black Film | NBC News Signal",
             "secondDuration": 247,
@@ -31,8 +25,14 @@
             "title": "'Everything Gone:' Villager Surveys The Devastation Of Hurricane Maria In Dominica | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "IyCUb7bWnBw",
+            "title": "Aerials Show Heavy Flooding In North Carolina's Outer Banks | NBC News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

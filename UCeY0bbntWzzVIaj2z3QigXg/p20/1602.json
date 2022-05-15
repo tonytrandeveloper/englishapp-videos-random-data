@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pMBSEuPHfXk",
-            "title": "D.C. Police Department Faces Lawsuit From 10 Black Female Officers",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "BsE25zTUEZM",
             "title": "Helicopter In Kobe Bryant Crash Lacked Instrument Flight Certification | NBC Nightly News",
             "secondDuration": 94,
@@ -121,8 +115,14 @@
             "title": "David Letterman: What's With The Beard? | On Assignment | NBC News",
             "secondDuration": 36,
             "group": "group_7"
+        },
+        {
+            "videoId": "qikcfVJEvos",
+            "title": "Topics Both Vice Presidential Candidates Agreed On At The Debate | NBC News",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

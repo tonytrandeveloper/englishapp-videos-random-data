@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4X7utZFD9Dk",
-            "title": "Scottie Pippen on how Kobe Bryant compares to Michael Jordan l ABC News",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "KKH27ktSHcc",
             "title": "Lightning Video Accompanies Deadly Storms in Houston, New York; New Heat Wave Looms",
             "secondDuration": 180,
@@ -121,8 +115,14 @@
             "title": "Three Square Market becomes the 1st American company to implant employees with microchips | ABC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "v7LOJxrU53U",
+            "title": "Most Black McGruders can trace lineage back to slave in Alabama",
+            "secondDuration": 564,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

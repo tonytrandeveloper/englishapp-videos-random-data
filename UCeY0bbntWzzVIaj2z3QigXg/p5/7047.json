@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_gZKHUC9Onk",
-            "title": "Formal Investigation Launched In Deadly Niger Ambush Attack | NBC Nightly News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "btWcjFkn4E8",
             "title": "NBC News Special Report: Nationwide Protests Over Death Of George Floyd | NBC News",
             "secondDuration": 3628,
@@ -31,8 +25,14 @@
             "title": "U.K. Becomes First Country To Approve Pfizer, BioNTech Covid Vaccine | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "dOgS_6d6r-M",
+            "title": "Boston To Elect Woman As Mayor For The First Time",
+            "secondDuration": 204,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-hHRREHrKLU",
-            "title": "Inside Central Park’s emergency field hospital | NBC Nightly News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "WGu3-pd9lqA",
             "title": "Spanish-Language Disinformation Campaigns Target Latino Voters | NBC News",
             "secondDuration": 351,
@@ -31,8 +25,14 @@
             "title": "In Late Night Decision, Supreme Court Rules Texas Abortion Law Can Remain",
             "secondDuration": 318,
             "group": "group_7"
+        },
+        {
+            "videoId": "yf21YQBaSI4",
+            "title": "Chicago Police Officer Found Guilty Of Second-Degree Murder | NBC News",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

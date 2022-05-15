@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GD13tBzTcu4",
-            "title": "Ecuador Earthquake | Rescuers Continue Desperate Search for Survivors",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "kpKPmDevq1I",
             "title": "Former U.S. ambassador to S. Korea says N. Korea ‘more ambitious’ than just ‘regime survival’",
             "secondDuration": 345,
@@ -31,8 +25,14 @@
             "title": "VP Debate Full Highlights | Pence, Kaine on ISIS",
             "secondDuration": 718,
             "group": "group_7"
+        },
+        {
+            "videoId": "6CTfS9uu7xo",
+            "title": "Explosion at Reno's Discovery Museum Injures 13",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

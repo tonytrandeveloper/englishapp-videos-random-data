@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0J5gx_H-2Uc",
-            "title": "52% of Americans support impeachment process l ABC News",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "KxDWMXux6DI",
             "title": "Russia-Ukraine Crisis: February 24, 2022",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "New Hampshire Primary 2012: Now I Get It",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "l9sOfW92unc",
+            "title": "In Case You Missed It: 9/13/2013",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X5hW5q2E0V8",
-            "title": "Bernie Sanders Endorses Hillary Clinton for President | NBC Nightly News",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "d5Ufs9_O5ik",
             "title": "Black Students Allege Racism During Escape From Ukraine",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Two Million Ford F-150s Recalled Due To Seatbelt Defect And Fire Risk | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "mn7ttifenro",
+            "title": "North Korea Holds 70th Anniversary Parade With No Advanced Missiles On Display | NBC Nightly News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

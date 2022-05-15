@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "OJjLAaawkkE",
-            "title": "RAW: Malaysian Jet Wreckage In Ukraine | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "DwElpeJGA8Q",
             "title": "President Donald Trump Hits At James Comey In Sunday Tweets | NBC Nightly News",
             "secondDuration": 147,
@@ -301,8 +295,14 @@
             "title": "Migrant Caravan Seeking Asylum Faces Uncertain Future | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "7_KXqhI-PtU",
+            "title": "Lester Holt On His Personal Look At Climate Change In Alaska | NBC News Now",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

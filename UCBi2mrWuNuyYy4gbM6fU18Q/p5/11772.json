@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IjyE-WYZZsw",
-            "title": "Brian Kemp, Stacey Abrams make final push in tight Georgia governor's race",
-            "secondDuration": 496,
-            "group": "group_7"
-        },
-        {
             "videoId": "s2T74Y2Aw8U",
             "title": "DNC Chair Tom Perez discusses Iowa caucuses l ABC News",
             "secondDuration": 361,
@@ -31,8 +25,14 @@
             "title": "Massive evacuation underway due to fires in Australia l ABC News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "KCRIt47hpfE",
+            "title": "Nerves of Steel",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

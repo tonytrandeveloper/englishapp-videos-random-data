@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hX-MPjkefYo",
-            "title": "Daymond John: Worst Advice",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "JfaAPHP4FL0",
             "title": "EPA Administrator Scott Pruitt delivers remarks on new auto emissions rules | ABC News",
             "secondDuration": 1110,
@@ -31,8 +25,14 @@
             "title": "Amelia Earhart: Hillary Clinton on Solving Mystery",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "qBhNGD1hnDI",
+            "title": "Tackling a Tough Job",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "k0ZWyNVBU3I",
-            "title": "Rob Nelson Labor Pains",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "OrgzY5I_0Wk",
             "title": "Oversea Markets React to Wall Street's Financial Fiasco",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Abercrombie and Fitch Sizes Under Fire, Critics Say Normal, Plus Sizes Not Sold in Stores",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "MBbOabr_GX4",
+            "title": "'Bachelor' Bombshells: What Happened on Monday Night's Episode",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

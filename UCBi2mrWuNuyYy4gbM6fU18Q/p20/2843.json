@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RCghlyciP_Y",
-            "title": "Queen Elizabeth marks 70-year reign",
-            "secondDuration": 292,
-            "group": "group_7"
-        },
-        {
             "videoId": "T43Yu_QKFZQ",
             "title": "‘Nobody Is Helping Us,’ Says Nepali Man Searching Through Rubble",
             "secondDuration": 221,
@@ -121,8 +115,14 @@
             "title": "Warning Sign: Hasan Reached Out to al Qaeda",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "rTL-sRSD_l4",
+            "title": "Medical response underway during Hurricane Florence",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

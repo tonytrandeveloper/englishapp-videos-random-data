@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "E3py9UgM2bY",
-            "title": "American service member missing in Yemen",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "RS54MlOh9oc",
             "title": "Amanda Knox’s Murder Conviction Overturned",
             "secondDuration": 108,
@@ -121,8 +115,14 @@
             "title": "Four Injured After Jet Blue Flight Makes Emergency Landing",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "v4yDb3avN4g",
+            "title": "Prince Charles officially opens new hospital to provide care for 4,000 COVID-19 patients | ABC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

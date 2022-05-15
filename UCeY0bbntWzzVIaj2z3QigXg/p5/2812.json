@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_E0I3mtF1BQ",
-            "title": "Trump, White House Coronavirus Task Force Holds News Conference | NBC News (Live Stream Recording)",
-            "secondDuration": 9852,
-            "group": "group_7"
-        },
-        {
             "videoId": "1x0AggCyM-k",
             "title": "Gunman Opens Fire at Virginia Bus Station, Multiple Victims Injured | NBC Nightly News",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Top Story with Tom Llamas - Nov. 9 | NBC News NOW",
             "secondDuration": 3034,
             "group": "group_7"
+        },
+        {
+            "videoId": "w1qBra5fu1o",
+            "title": "Taiwan Plane Crash Leaves 31 Dead | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "f1Wcn_wyZVE",
-            "title": "Meet The Press Broadcast (Full) - May 2nd, 2021 | Meet The Press | NBC News",
-            "secondDuration": 3023,
-            "group": "group_7"
-        },
-        {
             "videoId": "XH8OqojDvCA",
             "title": "Italy Overtakes China In Coronavirus-Related Deaths | NBC Nightly News",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "Chuck Schumer: Coronavirus Aid Should Be 'Aimed At People, Not At Corporations' | NBC News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "gvGwHyQrBts",
+            "title": "Donald Trump Touts Small Business Action With Alibaba’s Jack Ma | NBC News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

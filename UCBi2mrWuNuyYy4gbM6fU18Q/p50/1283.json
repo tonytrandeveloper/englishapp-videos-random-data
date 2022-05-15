@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "V9xMIDZeevk",
-            "title": "Paul Ryan Says He Will Run For Speaker of the House But With Some Conditions",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "OvKgQOawEEY",
             "title": "'The Briefing Room': Trump and Rosenstein, Kavanaugh confirmed, UN climate report | ABC News",
             "secondDuration": 1148,
@@ -301,8 +295,14 @@
             "title": "Americans stranded overseas",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "FlpV5OuurT4",
+            "title": "Best Gadget Gifts This Holiday Season | ABC News",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZhmLcxyzc4s",
-            "title": "Tim McGraw Performs 'Shotgun Rider' Live",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "9s_W4zHZf5A",
             "title": "Painting Squirrel Winklehimer",
             "secondDuration": 177,
@@ -61,8 +55,14 @@
             "title": "Election Night 2012: What Results Mean",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "yVLBO9BscHA",
+            "title": "Indiana Republican Sen. Mike Braun discusses the 2020 election | ABC News",
+            "secondDuration": 403,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

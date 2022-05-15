@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DAZf8JA6U6E",
-            "title": "Live: NYC Mayor Bill de Blasio Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 4516,
-            "group": "group_7"
-        },
-        {
             "videoId": "op5Q5ny72lY",
             "title": "D.C. Attorney General Files Lawsuit Against Proud Boys, Oath Keepers Over Jan. 6 Capitol Riot",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Anti-Government Protests In Kazakhstan Turn Violent",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "o0UNwm4gaOQ",
+            "title": "FBI Director Wray Testifies At Senate Hearing On Capitol Riot | NBC News",
+            "secondDuration": 13111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

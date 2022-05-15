@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lNz5eZHkKKw",
-            "title": "Inside Funerals for Orlando Shooting Victims",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "gqNPtOQK7zc",
             "title": "Duo Attempting to Sail From Norway to Maine Speak Out",
             "secondDuration": 214,
@@ -61,8 +55,14 @@
             "title": "Trump urges Alabama voters to support GOP candidate",
             "secondDuration": 298,
             "group": "group_7"
+        },
+        {
+            "videoId": "zOoTG90Edng",
+            "title": "Man plays piano at Ukrainian-Polish border",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

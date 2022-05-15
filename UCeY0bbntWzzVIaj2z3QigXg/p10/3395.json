@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "76npaHULaBw",
-            "title": "Robot Performs Successful Surgery On Pig | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "CmJoUPwxu0o",
             "title": "Crash That Killed California Family May Have Been Intentional | NBC Nightly News",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "'We Will Ban Chokeholds': Houston Mayor Announces Executive Order | NBC News",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "zwDcR3dGgOY",
+            "title": "White House Holds Press Briefing: October 18 | NBC News",
+            "secondDuration": 2204,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

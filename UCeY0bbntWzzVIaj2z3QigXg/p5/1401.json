@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7lABh7eWgN8",
-            "title": "LIVE: Biden Delivers Remarks on October Jobs Report | NBC News",
-            "secondDuration": 715,
-            "group": "group_7"
-        },
-        {
             "videoId": "kprhcFVm5bc",
             "title": "Louisiana Flooding Disaster Grows, Millions in Texas Under Flood Watch | NBC Nightly News",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "High-Speed Police Chases Under Scrutiny In Florida | NBC Nightly News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "RvVcln2yJ7Y",
+            "title": "Full Brock Long: Puerto Rico Deaths ‘The Numbers Are All Over The Place’ | Meet The Press | NBC News",
+            "secondDuration": 641,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

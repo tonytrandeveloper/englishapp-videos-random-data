@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ov5a7LHFQBs",
-            "title": "JetBlue: All You Can Fly for $599",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "Squrm3nvV1g",
             "title": "The Debrief: Deadly shooting at Pensacola naval base, border death outrage and more | ABC News",
             "secondDuration": 1507,
@@ -121,8 +115,14 @@
             "title": "Yoga Instructor Accused of Murdering Her Identical Twin",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "lHtauASkebY",
+            "title": "Derrick Coleman Hopes to Inspire Kids to Overcome Obstacles",
+            "secondDuration": 266,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

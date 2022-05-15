@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tk7tJF9bT4Q",
-            "title": "Manhunt on in Tampa after 3 slayings in 11 days",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "YR6j3Skpuxk",
             "title": "Arizona Law Criticized as Racial Profiling",
             "secondDuration": 322,
@@ -121,8 +115,14 @@
             "title": "Faking It: Knockoff Luxury Goods",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "nAp77N628P4",
+            "title": "Mueller report: What we know about obstruction of justice, collusion",
+            "secondDuration": 523,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

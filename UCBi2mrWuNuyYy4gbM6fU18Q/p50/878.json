@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "eVOCSeytUxM",
-            "title": "Aurora, Colorado Gunman Kills Three in Hostage Standoff",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "ECBDNUW8rWE",
             "title": "Arctic Blast Spreads South to Alabama",
             "secondDuration": 144,
@@ -301,8 +295,14 @@
             "title": "Mother survives COVID-19, wakes up from a coma to newborn baby",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "X3h4COUcqxs",
+            "title": "Trump hosts lawmakers again at the White House",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

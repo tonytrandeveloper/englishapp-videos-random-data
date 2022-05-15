@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gG6ZfO5eoh0",
-            "title": "Wikipedia Blackout: Online Piracy Grows",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "UPngLPeIZQo",
             "title": "Flu Season 2013: Low Vaccine Supply",
             "secondDuration": 149,
@@ -121,8 +115,14 @@
             "title": "Soldier arrested on terror charges in Hawaii",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "ReEcE8ULSis",
+            "title": "Car strikes person riding scooter during California police chase",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

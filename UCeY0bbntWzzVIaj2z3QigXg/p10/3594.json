@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9ew7Nah7uss",
-            "title": "Heat Danger! How To Protect Your Pet This Summer | Better | NBC News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "ANjrHs0sGyA",
             "title": "Pete Buttigieg Responds To Iowa Voter Who Switched Support After Learning He Is Gay | NBC News",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Spike In U.S. Mass Shootings 22 Years After Columbine High School Tragedy | NBC News NOW",
             "secondDuration": 538,
             "group": "group_7"
+        },
+        {
+            "videoId": "r7w3hENAnRs",
+            "title": "Trump Receives FEMA Briefing On Hurricane Laura | NBC News",
+            "secondDuration": 555,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SVB6e8eLzBw",
-            "title": "17-Year-Old Isaiah Cooper, Youngest African American To Fly Across US | NBC BLK | NBC News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "IuPZrMSoquY",
             "title": "Virginia Drivers Stranded On Snow-Packed I-95",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Donald Trump: Bill Clinton Is 'An Abuser' | Meet The Press | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "MCN-jnshnXc",
+            "title": "Ohio Gov. Mike DeWine Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 5125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

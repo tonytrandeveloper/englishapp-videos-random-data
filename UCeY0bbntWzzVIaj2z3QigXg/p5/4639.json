@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bZv6tpvVqzE",
-            "title": "Humpback Whales In New York City’s Harbor | Nightly News Films",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "RqeIttLq8g4",
             "title": "Candlelit Vigil Held For Victims Of Bronx Apartment Fire",
             "secondDuration": 63,
@@ -31,8 +25,14 @@
             "title": "Shocking Video Shows The Death Of Migrant Child In Holding Cell | NBC Nightly News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "RLvVRc1unuw",
+            "title": "North Korea Crisis: What Will Kim Jong Un And Pres. Donald Trump Do? | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2uR7tKBuhfo",
-            "title": "Supreme Court to hear case on Obamacare",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "Eobu62GunzY",
             "title": "SpaceX crew answers questions from children at St. Jude",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Arizona Border Patrol Shooting Leaves Agent Dead",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "rMN_pHrD0ig",
+            "title": "Armed Oregon Militiamen Speak Out From Occupied Refuge",
+            "secondDuration": 311,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

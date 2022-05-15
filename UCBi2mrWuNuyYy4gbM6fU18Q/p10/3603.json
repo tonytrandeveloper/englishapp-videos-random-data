@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "th1k8_aZwK8",
-            "title": "Trump calls NBC's Peter Alexander a \"terrible reporter\" when asked message to Americans | ABC News",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "JncS3qvjOXc",
             "title": "Moore denies allegations in new TV interview",
             "secondDuration": 189,
@@ -61,8 +55,14 @@
             "title": "Doctors in Texas and Arkansas fight surge in cases fueled by delta variant",
             "secondDuration": 786,
             "group": "group_7"
+        },
+        {
+            "videoId": "iy_kkgqM4uo",
+            "title": "Keith Olbermann of MSNBC Takes Surprise Exit 1/24/2011",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

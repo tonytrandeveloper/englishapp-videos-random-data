@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "91l0pVFnPb8",
-            "title": "President Trump Accuses Democrats Of Trying To Derail Kavanaugh's Nomination | NBC Nightly News",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "4NeBZURAHps",
             "title": "Go Inside A Russian Fighter Jet Cockpit | NBC News",
             "secondDuration": 58,
@@ -61,8 +55,14 @@
             "title": "Two Million Ford F-150s Recalled Due To Seatbelt Defect And Fire Risk | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "mn7ttifenro",
+            "title": "North Korea Holds 70th Anniversary Parade With No Advanced Missiles On Display | NBC Nightly News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

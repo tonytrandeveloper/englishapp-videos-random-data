@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "gg-xchC7Vzg",
-            "title": "Tracking endangered lemurs in the heart of Madagascar",
-            "secondDuration": 365,
-            "group": "group_7"
-        },
-        {
             "videoId": "bL_ly0T0Dno",
             "title": "DOJ launches investigation into Minneapolis Police Department",
             "secondDuration": 126,
@@ -301,8 +295,14 @@
             "title": "Family of American tourist killed in London terror attack speaks out",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "DlrsBNnbdPE",
+            "title": "Election 2016 Recounts Gains Momentum",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

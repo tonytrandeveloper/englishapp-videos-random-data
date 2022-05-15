@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ujZuIZ4zJIM",
-            "title": "September Jobs Report: Unemployment Falls to 7.8, 114,000 Jobs Added",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "GV65iWFqxrc",
             "title": "Robin Roberts Bone Marrow PSA: 'GMA' Anchor's PSA for Be-the-Match",
             "secondDuration": 95,
@@ -121,8 +115,14 @@
             "title": "Large protests continue in Belarus after disputed reelection of Alexander Lukashenko",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "jAxe3Pfc73Y",
+            "title": "Amir Locke shooting reignites debate over no-knock warrants",
+            "secondDuration": 301,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

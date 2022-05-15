@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z1mwCe7Ul8c",
-            "title": "President Biden Holds Press Conference Following G-20 Summit",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Ad_ivPCkjo",
             "title": "Evolution Of Anger: The Tea Party In The Age Of President Donald Trump | NBC News",
             "secondDuration": 332,
@@ -31,8 +25,14 @@
             "title": "U.S. Blames North Korea For Massive Cyber Attack | NBC Nightly News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "ovov0epSuBg",
+            "title": "1/6 Committee Has Evidence Ivanka Trump Asked President To Intervene",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

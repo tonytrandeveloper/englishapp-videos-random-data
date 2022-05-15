@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tUtmZQrWZhM",
-            "title": "JFK Runway Becomes Turtle Crossing",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "U8QdFsEL-kQ",
             "title": "Massive explosion rocks apartment complex outside Atlanta",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Massive Snowstorm Shuts Down East Coast",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "MMLCxCSwJ44",
+            "title": "The Debrief: Oscars recap, Trump to meet Kim Jong Un in Hanoi, Venezuela crisis | ABC News",
+            "secondDuration": 1405,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

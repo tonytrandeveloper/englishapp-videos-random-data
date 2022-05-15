@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HKqeHUpZRl8",
-            "title": "Detectives investigate woman who they believe killed her first and second husbands",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "lALG8hwQ_iw",
             "title": "Nevada Caucus 2012 Full Victory Speech: Mitt Romney Targets President Obama's Economic Policies",
             "secondDuration": 888,
@@ -121,8 +115,14 @@
             "title": "SpaceX Mars Mission Simulation",
             "secondDuration": 266,
             "group": "group_7"
+        },
+        {
+            "videoId": "R6JNl3ljMy4",
+            "title": "Top Line: What's Motivating Independents This Year?",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

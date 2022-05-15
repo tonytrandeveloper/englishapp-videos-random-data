@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8WBP55X9lGc",
-            "title": "Amplified: X-Japan (extended)",
-            "secondDuration": 451,
-            "group": "group_7"
-        },
-        {
             "videoId": "4MDwMqnLYe8",
             "title": "COVID-19 cases on the rise in professional sports leagues",
             "secondDuration": 409,
@@ -31,8 +25,14 @@
             "title": "Johnny Manziel Domestic Assault | Surveillance Video Emerges",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "WcRcFeNiP6U",
+            "title": "CDC director talks new COVID isolation guidelines amid rise in cases",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

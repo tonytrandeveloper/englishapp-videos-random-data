@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XKAeEl8YSiA",
-            "title": "Into The Fallout: How First Responders Train For A Nuclear Attack | NBC News",
-            "secondDuration": 312,
-            "group": "group_7"
-        },
-        {
             "videoId": "WL4gsF0YX_w",
             "title": "Boeing Manager Says He Warned Company Of Problems Months Before 737 Max Crashes | NBC Nightly News",
             "secondDuration": 304,
@@ -31,8 +25,14 @@
             "title": "How Doctors Without Borders Is Providing Aid To Ukraine",
             "secondDuration": 625,
             "group": "group_7"
+        },
+        {
+            "videoId": "E4kfOHX4FeA",
+            "title": "K-Pop: Inside The Korean Music Craze | NBC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

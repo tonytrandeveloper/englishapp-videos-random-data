@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FijutZQTy5M",
-            "title": "Vice President Mike Pence visits Las Vegas",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "-AuuUBGRiOA",
             "title": "First lady Melania Trump unveils official policy platform: 'Be Best'",
             "secondDuration": 226,
@@ -61,8 +55,14 @@
             "title": "Nick Carter and Jordan Knight Discuss Their New Music Project",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sh32-AZwA58",
+            "title": "Mueller testifies on Capitol Hill about Russia, Trump",
+            "secondDuration": 515,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

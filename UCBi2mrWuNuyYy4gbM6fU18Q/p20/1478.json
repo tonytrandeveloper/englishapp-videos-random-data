@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fZ6JirtXQes",
-            "title": "Tornadoes Hit Kansas and Oklahoma",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "rejZbUHjqYc",
             "title": "Bear and boy jump for joy",
             "secondDuration": 47,
@@ -121,8 +115,14 @@
             "title": "Second Presidential Debate 2012: Obama: Secretary Clinton Works For Me",
             "secondDuration": 27,
             "group": "group_7"
+        },
+        {
+            "videoId": "oPqXwjt-Pmo",
+            "title": "SCOTUS expert: Trump appointee could upend decades-old legal precedents",
+            "secondDuration": 359,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

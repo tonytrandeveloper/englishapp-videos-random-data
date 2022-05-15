@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2lgRng8berQ",
-            "title": "Charleston Shooting: Confederate Flag Flies At Pastor's Viewing | NBC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "wUeY_fzyqb4",
             "title": "Biden Urges U.S. Senate To Not Act On Any Trump Supreme Court Nominee | NBC Nightly News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Full Alexander: 'Not Enough Money To Help Everybody Hurt' | Meet The Press | NBC News",
             "secondDuration": 432,
             "group": "group_7"
+        },
+        {
+            "videoId": "fKBudBXEJog",
+            "title": "New York Gov. Andrew Cuomo Holds Covid-19 Briefing | NBC News",
+            "secondDuration": 2477,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

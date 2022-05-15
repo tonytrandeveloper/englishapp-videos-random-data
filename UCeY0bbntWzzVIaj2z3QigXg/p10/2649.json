@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5WNxkxv6514",
-            "title": "Cargo Ship Carrying Luxury Cars Grounded | 3rd Block | NBC News",
-            "secondDuration": 39,
-            "group": "group_7"
-        },
-        {
             "videoId": "i7ZCHjYW2NE",
             "title": "Redskins Cheerleaders Reveal Disturbing Details Of 2013 Costa Rica Trip | NBC Nightly News",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Another Mexico Earthquake Sends Panicked People to Streets | NBC Nightly News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "qsUKq9dUoNo",
+            "title": "California’s New Data Privacy Law Goes Into Effect | NBC Nightly News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AjHQ5TgyPuc",
-            "title": "Simone Biles Speaks Out On Championing Mental Health",
-            "secondDuration": 629,
-            "group": "group_7"
-        },
-        {
             "videoId": "A-UMRU1rkC8",
             "title": "Investigation Launched After Georgia Primary Plagued By Voting Machine Errors | NBC Nightly News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Putin Claims Alexei Navalny 'Seliberatley Violated' Laws in Russia",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "8YPQuweHdxw",
+            "title": "Desperate Search For Survivors Buried In New Mexico Avalanche | NBC Nightly News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

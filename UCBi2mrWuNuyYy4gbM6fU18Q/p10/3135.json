@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aaVLJbfpxF4",
-            "title": "Oscars 2017: Secrets about Hollywood's biggest night",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "qLa6C8hrmLc",
             "title": "Death toll rises in Bahamas amid Dorian destruction | ABC News",
             "secondDuration": 167,
@@ -61,8 +55,14 @@
             "title": "President Trump announces national emergency",
             "secondDuration": 573,
             "group": "group_7"
+        },
+        {
+            "videoId": "pdH-vOjabw0",
+            "title": "Warning for millions of Americans using online dating apps",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nA8x4lYeYxs",
-            "title": "Thousands Of Migrants Shelter Under Bridge In Texas",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "ta9ohpykWWk",
             "title": "The Clock Is Ticking For A Deal To Avoid A Government Shutdown | NBC Nightly News",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Iceland Volcano Erupts For First Time in 6,000 Years | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dgn7V5BGs9Q",
+            "title": "Trump To Nominate Amy Coney Barrett For Supreme Court | NBC Nightly News",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

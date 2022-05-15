@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OPHzAqFKhkM",
-            "title": "People Magazine's Most Beautiful Woman Revealed",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "eAuTVHtIvZQ",
             "title": "Interview With Gen. Ray Odierno",
             "secondDuration": 582,
@@ -61,8 +55,14 @@
             "title": "Former NFL star claims he's living with CTE",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "4jsc82YbIDA",
+            "title": "Family of driver in limo crash speaks out",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

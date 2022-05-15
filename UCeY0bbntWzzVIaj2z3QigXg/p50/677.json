@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "WVdbMRgtv-g",
-            "title": "Morning News NOW Full Broadcast - October 20",
-            "secondDuration": 3163,
-            "group": "group_7"
-        },
-        {
             "videoId": "MZUp1ayvFmk",
             "title": "Biden Lays Out Economic Recovery Plan For Working Families | NBC News",
             "secondDuration": 1189,
@@ -301,8 +295,14 @@
             "title": "Three Dallas Firefighters Escape Condo Fire After Being Trapped Inside | NBC Nightly News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "xYpK4TzpI0E",
+            "title": "Bill Cosby Is Found Guilty On All Three Counts | NBC News",
+            "secondDuration": 721,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

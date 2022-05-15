@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dsXEM0q3C_Q",
-            "title": "Morning News NOW Full Broadcast - August 25",
-            "secondDuration": 2898,
-            "group": "group_7"
-        },
-        {
             "videoId": "7IZsIKtkgPI",
             "title": "Earliest Snowfall On Record Blankets Northern New Mexico | NBC News NOW",
             "secondDuration": 50,
@@ -121,8 +115,14 @@
             "title": "Jahana Hayes, CT Congressional Candidate: 'I Have A Voice And A Platform' | NBC News",
             "secondDuration": 272,
             "group": "group_7"
+        },
+        {
+            "videoId": "4fmvl7lB_ac",
+            "title": "Saudi Arabia Journalist Jamal Khashoggi Mystery Deepens | NBC Nightly News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

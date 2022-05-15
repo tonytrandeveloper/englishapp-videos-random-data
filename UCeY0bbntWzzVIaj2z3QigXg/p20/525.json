@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yInJcDvau4k",
-            "title": "Happy New Year from MSNBC",
-            "secondDuration": 233,
-            "group": "group_7"
-        },
-        {
             "videoId": "e-E5l2ouxeA",
             "title": "Global Protests: From Lebanon To Chile, Inside What Citizens Are Fighting For | NBC News Now",
             "secondDuration": 255,
@@ -121,8 +115,14 @@
             "title": "Nancy Pelosi On Impeachment Inquiry: Trump Is 'Now In My Wheelhouse' | NBC News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "UH-urZZA_fE",
+            "title": "NBC News' Jo Kent: A Day On The Campaign Trail",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

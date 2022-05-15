@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JYolEg4O8JM",
-            "title": "Simone Biles pulls out of Olympic team gymnastics final",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "0A4Hm_pIwJg",
             "title": "By the Numbers: Cryptocurrency crash",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "Avenatti says 'multiple tapes of Trump'; claims to know 'substance of some'",
             "secondDuration": 743,
             "group": "group_7"
+        },
+        {
+            "videoId": "pKRuJ_52N-g",
+            "title": "Mark Cuban | Worst Advice | Real Biz with Rebecca Jarvis",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

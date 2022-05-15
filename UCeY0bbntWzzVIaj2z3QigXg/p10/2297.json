@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6lSUk9zQCxM",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 2481,
-            "group": "group_7"
-        },
-        {
             "videoId": "RCf5KFjipso",
             "title": "Paralympic Swimmer Shatters World Record On Her Way to Tokyo Games",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Biden Tells Union Members ‘You Guys Built America’ | NBC News",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "UnfQPbc3SL8",
+            "title": "Sophia Bush And Former LRA Fighter Join Forces To Rescue Child Soldiers | NBC News Now",
+            "secondDuration": 349,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

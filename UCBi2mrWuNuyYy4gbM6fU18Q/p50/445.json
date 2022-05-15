@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "NI21xI7rKjQ",
-            "title": "Wounded Fort Hood Soldier Speaks Out",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "h35TTsjPfGo",
             "title": "Minneapolis holds celebration of George Floyd’s life",
             "secondDuration": 505,
@@ -301,8 +295,14 @@
             "title": "The Science of Dance and Mating",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "-zdU2FELlWY",
+            "title": "Kim Jong Un: In A Minute",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

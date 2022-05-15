@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xljSTBDhGG8",
-            "title": "Bill Clinton Criticizes Affordable Care Act | NBC News",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "tiM2IOdeQWU",
             "title": "Fake Cash Used In Hollywood Movies Could Be Making Its Way Into The Real World | NBC Nightly News",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "New Jersey Gov. Murphy Announces Mask Requirements For Schools",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "2ct5uqBZHlM",
+            "title": "Pres. Trump Considering Revoking Security Clearances For Former Intel Officials | NBC Nightly News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "3EYE49K0U4k",
-            "title": "FBI: 160 Case Files Opened Into Capitol Riot Probe | NBC News NOW",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "qDmcoNUvVpQ",
             "title": "How to Grow the Perfect Cranberry | NBC Nightly News",
             "secondDuration": 123,
@@ -301,8 +295,14 @@
             "title": "Mysterious Void Detected Inside Giza’s Great Pyramid | Mach | NBC News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "1YglMKMW9O4",
+            "title": "Donald Trump Discounts ‘Phony’ Polls: ‘I Believe We’re Actually Winning’ | NBC News",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

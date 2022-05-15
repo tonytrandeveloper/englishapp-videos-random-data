@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tHVuCjxNUm4",
-            "title": "How Fidget Spinners Seem To Spin Forever | Mach | NBC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "I4aEltdXhEA",
             "title": "Navy’s First Black Female Tactical Fighter Pilot Receives Wings of Gold | NBC Nightly News",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "How to Get Keith Morrison's Voice on the Waze App | Dateline | NBC News",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "lV5yhuHICFE",
+            "title": "Several Injured And Killed After German Vehicle Attack | NBC News",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

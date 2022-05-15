@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KVkAduoARb8",
-            "title": "Thousands of firefighters battle 6 major wildfires",
-            "secondDuration": 233,
-            "group": "group_7"
-        },
-        {
             "videoId": "ejJmglvB7yk",
             "title": "A family used DNA-matching technology to find the remains of a loved one lost in war",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "How 'The People vs. O.J. Simpson' Cast Prepared for Their Roles",
             "secondDuration": 504,
             "group": "group_7"
+        },
+        {
+            "videoId": "oSDeE4DbeJQ",
+            "title": "Thieves Dress Up as UPS Drivers Authorities Warn",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

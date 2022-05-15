@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lerkMgPRBxw",
-            "title": "Story of survival as tornadoes ripped through Kentucky",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "i-CVoXM8aUU",
             "title": "Trump's Phone Call With Taiwanese President Causes Diplomatic Controversy",
             "secondDuration": 163,
@@ -31,8 +25,14 @@
             "title": "State of emergency declared as Hurricane Michael strengthens",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "xcdTPoLSeR8",
+            "title": "Jay Carney on Spying Accusations: 'US Is Not Monitoring' Chancellor Merkel",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

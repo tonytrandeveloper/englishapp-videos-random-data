@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "XO3bFw3-tvM",
-            "title": "American health care workers risk lives in Ukraine",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "t3N0Fj3zfHo",
             "title": "Authorities search for motive behind shooting at doctor’s home | WNT",
             "secondDuration": 202,
@@ -301,8 +295,14 @@
             "title": "More than 62 million ballots have been cast",
             "secondDuration": 246,
             "group": "group_7"
+        },
+        {
+            "videoId": "8yPIelEBHt0",
+            "title": "Texas Wildfires Cause Shroud of Smoke in Parts of Houston",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

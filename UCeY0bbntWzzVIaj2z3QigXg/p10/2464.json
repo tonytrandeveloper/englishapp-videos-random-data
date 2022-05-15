@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Kt-XscUkG7Y",
-            "title": "Equifax, Software Company Blame Each Other For Security Breach | NBC Nightly News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "nVX3pRNq5Nw",
             "title": "NBC News NOW Full Broadcast - June 18th, 2021",
             "secondDuration": 3050,
@@ -61,8 +55,14 @@
             "title": "Live: Illinois Gov. Pritzker Holds Coronavirus Briefing | NBC News",
             "secondDuration": 1830,
             "group": "group_7"
+        },
+        {
+            "videoId": "tXuFCYFrdDw",
+            "title": "Super! Nintendo Games Coming To iOS In Time For Christmas | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

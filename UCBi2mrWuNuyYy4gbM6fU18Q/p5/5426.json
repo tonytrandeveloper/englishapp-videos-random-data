@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Yj-KpXam8q4",
-            "title": "Longest illegal underground tunnel found l ABC News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "BudGHqnzCRw",
             "title": "Osama Bin Laden Bounty Hunter Comes Home",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "Rudy Giuliani delivers remarks at 2020 RNC",
             "secondDuration": 386,
             "group": "group_7"
+        },
+        {
+            "videoId": "X0aBBGfsRhU",
+            "title": "Special Brotherly Bond Inspires a Community",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

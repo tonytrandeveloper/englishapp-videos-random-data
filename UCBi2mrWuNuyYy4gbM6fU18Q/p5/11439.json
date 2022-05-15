@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EXwr0e9rreE",
-            "title": "Bill Gates faces allegations of inappropriate behavior l GMA",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "SgUL7WbfjVM",
             "title": "South Korean President Impeached in Stunning Fall",
             "secondDuration": 36,
@@ -31,8 +25,14 @@
             "title": "President Joe Biden remarks on new jobs report",
             "secondDuration": 682,
             "group": "group_7"
+        },
+        {
+            "videoId": "-NK28iM41bw",
+            "title": "Sheryl Sandberg Book 'Lean In': Facebook COO on How Women 'Sabotage' Their Careers",
+            "secondDuration": 550,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

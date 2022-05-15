@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SHiRKyD8Um0",
-            "title": "Category 4 Hurricane Maria Takes Aim At Puerto Rico, Virgin Islands | NBC Nightly News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "RXAtAh-eLHM",
             "title": "Domino's Droid Robot Delivers Pizza Right To Your Doorstep | Mach | NBC News",
             "secondDuration": 60,
@@ -31,8 +25,14 @@
             "title": "Oil Train Explosion Sparks Safety Concerns | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "-fJvCqT11VU",
+            "title": "Queen Elizabeth's Platinum Jubilee Marked With Royal Gun Salutes",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

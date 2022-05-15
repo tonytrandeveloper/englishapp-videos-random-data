@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X8GM-TVtavA",
-            "title": "Tesla Model 3 Attracts Major Fanfare",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "WX-JZf-PhVM",
             "title": "Pope Francis to Meet With President Obama and Address Congress | David Muir Reporting",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "Black boxes in Ethiopian Airlines crash to be sent overseas",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "1S6nwCpO000",
+            "title": "State of the Union 2015: 'No More Campaigns to Run'",
+            "secondDuration": 40,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

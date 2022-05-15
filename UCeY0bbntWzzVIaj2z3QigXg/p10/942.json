@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wi5nX5KU_Qc",
-            "title": "Nurses Cared For NICU Babies During Hurricane Ida",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "4loJFkMoj8I",
             "title": "TSA: Record Number Of Guns Seized In U.S. Airports | NBC Nightly News",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Confederate Flag Removed From South Carolina’s Statehouse Grounds | NBC Nightly News",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "pbHVpZTV03k",
+            "title": "Life Stories: Chef Martin Yan | NBC Asian America",
+            "secondDuration": 323,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

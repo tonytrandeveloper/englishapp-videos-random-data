@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8QJMM_btpmM",
-            "title": "New Hampshire Republican Debate: Ron Paul Spars With Newt Gingrich Over Military Record",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "aCcoGndbYWI",
             "title": "Another Day of Extreme Heat Impacts Millions Across U.S.",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Chris Colfer Releases New Children's Book",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "unlgFwSotLk",
+            "title": "Ground Zero 'Mosque' Clears Final Hurdle",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

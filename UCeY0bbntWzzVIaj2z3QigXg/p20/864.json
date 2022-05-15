@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DNRNjMLeoLM",
-            "title": "Los Angeles Bomb Threat Closes All Public Schools | NBC News",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "nE_R1Pnv_Xw",
             "title": "Watch Highlights From Second Day Of Barrett's Confirmation Hearing | NBC News NOW",
             "secondDuration": 308,
@@ -121,8 +115,14 @@
             "title": "Dateline Google+ Hangout with Chris Hansen",
             "secondDuration": 1989,
             "group": "group_7"
+        },
+        {
+            "videoId": "2KgOoAS8Yhc",
+            "title": "National Guard Units Across The Country Join Puerto Rico Relief Effort | NBC Nightly News",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

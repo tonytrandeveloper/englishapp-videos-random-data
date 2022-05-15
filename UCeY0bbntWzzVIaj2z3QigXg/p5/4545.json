@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0IFxEV-TNBo",
-            "title": "How Far Into Space Is NASA's Voyager 2 Right Now? (Very, Very, Very Far) | Mach | NBC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "IN-VfCBbLlA",
             "title": "WATCH: Rescuers Save Woman From Rushing Oklahoma Flood Waters | NBC News",
             "secondDuration": 78,
@@ -31,8 +25,14 @@
             "title": "U.S. Records More Than 79,000 Covid-19 Cases In Single Day | NBC Nightly News",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "9wqHANMSq3w",
+            "title": "‘Bernie,’ ‘The Donald,’ And ‘Hillary Clinton’ Speak At Middle School Graduation | NBC News",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "X3h4COUcqxs",
-            "title": "Trump hosts lawmakers again at the White House",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "e1YO9B7Lzjg",
             "title": "Lady Gaga Tour Cancelled, Singer Has Surgery to Repair a Torn Labrum",
             "secondDuration": 120,
@@ -301,8 +295,14 @@
             "title": "Generation XXX: Teens Addicted to Porn?",
             "secondDuration": 352,
             "group": "group_7"
+        },
+        {
+            "videoId": "04eiOQJrTH4",
+            "title": "Abby Wambach Faces Fallout From DUI Arrest",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ytDNgpMhd-4",
-            "title": "French Interior Minister Gerard Collomb Gives Details On Trebes Terror Attack | NBC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "pEzg01kaj-M",
             "title": "President Donald Trump Meets With Abbas, Says Decision Made On Iran Deal | NBC News",
             "secondDuration": 83,
@@ -61,8 +55,14 @@
             "title": "Librarians On Front Lines Of Philadelphia’s Heroin Epidemic | NBC Nightly News",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "J8dnH_ahTWI",
+            "title": "New Report Warns Current Social Distancing Rules May No Longer Be Effective | NBC Nightly News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

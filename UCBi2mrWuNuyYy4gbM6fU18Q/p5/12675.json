@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GxDio6VLD3o",
-            "title": "New York sets up quarantine checkpoints to stop COVID-19 | ABC News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "vkVxZzLqoaM",
             "title": "Witness: Law enforcement response to San Jose shooting was 'immediate'",
             "secondDuration": 357,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Amanda Knox Returns to Court",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "N1D9xjSY5ns",
+            "title": "Kids suffer from debilitating episodes after recovering from strep throat (Nightline)",
+            "secondDuration": 558,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

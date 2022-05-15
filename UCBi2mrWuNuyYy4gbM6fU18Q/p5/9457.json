@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0HiNPZJV1J4",
-            "title": "Elon Musk offers to buy Twitter for $43 billion | ABCNL",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "jSy9HhMUurM",
             "title": "March Madness | Boy Sinks 2 Half-Court Shots to Win Championship",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Donald Trump and Hillary Clinton: A Tale of Two Campaigns",
             "secondDuration": 449,
             "group": "group_7"
+        },
+        {
+            "videoId": "KiTFYc1Uq8U",
+            "title": "Briefing Room: Impeachment Showdown, Bernie Sanders health scare, Ruling in Harvard admissions case",
+            "secondDuration": 1706,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

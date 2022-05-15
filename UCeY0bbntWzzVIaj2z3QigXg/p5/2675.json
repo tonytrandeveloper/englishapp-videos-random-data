@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pk9V0fOMTiQ",
-            "title": "Minneapolis School Explosion: Receptionist Killed, Other Injured | NBC Nightly News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "nxj7hgRAm5c",
             "title": "Animal-Assisted Therapy Program Helps Kids With Special Needs Find New Hope | NBC Nightly News",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Special Report: Donald Trump Announces Nominations For Attorney General, U.N. Ambassador | NBC News",
             "secondDuration": 442,
             "group": "group_7"
+        },
+        {
+            "videoId": "UxXo6voat1I",
+            "title": "What's With Trump’s ‘Space Force?’ And How Will It Affect The Future Of Warfare? | Think | NBC News",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

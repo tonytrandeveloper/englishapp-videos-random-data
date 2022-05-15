@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B5qYcit6EZg",
-            "title": "Vaccine Watch: Testing a vaccine for future pandemics",
-            "secondDuration": 315,
-            "group": "group_7"
-        },
-        {
             "videoId": "fT_Vv5AGg0k",
             "title": "Pfizer, US close to deal for more COVD-19 vaccine doses l GMA",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "LIVE: Supreme Court Confirmation Hearing For Judge Ketanji Brown Jackson: Day 3 l ABC News Live",
             "secondDuration": 35846,
             "group": "group_7"
+        },
+        {
+            "videoId": "O7_tK0iObF8",
+            "title": "It's Morning, America: Monday, May 20, 2019",
+            "secondDuration": 1439,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

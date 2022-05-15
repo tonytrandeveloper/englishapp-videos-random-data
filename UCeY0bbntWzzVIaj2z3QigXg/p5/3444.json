@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-GrcWcbp-70",
-            "title": "This Startup Sends Travelers on Vacation to Destinations Unknown | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "wRmlL0TlmLg",
             "title": "This Morning’s Top Headlines – October 12 | Morning News NOW",
             "secondDuration": 1393,
@@ -31,8 +25,14 @@
             "title": "Bill Cosby Faces Hecklers Before He Enters A Courthouse | NBC News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "TleqpEtDVI8",
+            "title": "The Controversy Behind Lil Nas X’s ‘Satan Shoes’ | NBC News NOW",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

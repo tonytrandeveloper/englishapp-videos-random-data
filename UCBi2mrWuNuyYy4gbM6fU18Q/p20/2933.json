@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IZcrQnnjkrQ",
-            "title": "New SARS-Like Virus With No Cure Kills at Least 27",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "O729ZiRwK50",
             "title": "Biden delivers remarks on Ukraine crisis from Warsaw | ABC News",
             "secondDuration": 1621,
@@ -121,8 +115,14 @@
             "title": "25 million under lockdown in Shanghai I ABCNL",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "L28RYPmcP0Q",
+            "title": "Chick-Fil-A Controversy: Gay Activist Plan Fast Food Protests",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dbDKzUWTCRE",
-            "title": "Day 4 of Derek Chauvin trial",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "aPZ9EI3hqlA",
             "title": "Trump silence on Jan 6 riot 'a dereliction of duty': Cheney | ABC News",
             "secondDuration": 369,
@@ -31,8 +25,14 @@
             "title": "'This Week': Search for Malaysia Air 370",
             "secondDuration": 226,
             "group": "group_7"
+        },
+        {
+            "videoId": "aap3STYL4Qs",
+            "title": "ABC News Prime: What’s in new COVID relief bill; new virus mutation; Churches pay down medical debt",
+            "secondDuration": 3596,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E8WIcPSBxTo",
-            "title": "Nightly News Full Broadcast - September 28th",
-            "secondDuration": 1150,
-            "group": "group_7"
-        },
-        {
             "videoId": "ABc8uwexAbs",
             "title": "Love Field Shooting Caught on Surveillance Camera | NBC Nightly News",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "An Inside Look At What Doctors And Nurses Are Facing On The Front Lines | NBC News NOW",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "wJ-3xzNQXr8",
+            "title": "LIVE: Biden Delivers Remarks on March Jobs Report | NBC News",
+            "secondDuration": 496,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

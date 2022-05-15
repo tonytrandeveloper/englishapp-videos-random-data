@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CdgpNBsn_hM",
-            "title": "'Star Wars' marks 'Life Day' with new special",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "lq9KO_rVmT4",
             "title": "Karachi, Pakistan Celebrates the Start of 2017",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "Justice department names Robert Mueller as special counsel in Russia investigation",
             "secondDuration": 283,
             "group": "group_7"
+        },
+        {
+            "videoId": "j1wVCjDNi7o",
+            "title": "Were Terror Attacks Planned Beyond San Bernardino?",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

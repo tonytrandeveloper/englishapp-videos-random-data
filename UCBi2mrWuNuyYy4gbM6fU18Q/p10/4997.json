@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kgqn73A-RPo",
-            "title": "Juju Juggles -- Family Secrets",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "5BjeKV64uto",
             "title": "Will Ferrell as 'Anchorman's' Ron Burgundy Sells Dodge Durango in New Ads",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "Republican National Convention: What You Need to Know",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "S1wxbzjPScQ",
+            "title": "The World Premiere Of “Fifty Shades Of Grey”",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

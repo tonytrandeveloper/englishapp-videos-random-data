@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AtVl2ZUP07Q",
-            "title": "Inside look at unprecedented Super Bowl security",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "wJtlPhsNY5w",
             "title": "Shanghai residents face food shortages, late-night testing in lockdown l ABCNL",
             "secondDuration": 348,
@@ -121,8 +115,14 @@
             "title": "Tensions continue to grow with North Korea",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "AEPTwYRD2HE",
+            "title": "CDC releases new guidelines for fully vaccinated people",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

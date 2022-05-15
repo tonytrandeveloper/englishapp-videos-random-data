@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vDEFPRxxRXc",
-            "title": "NBC News Projects Trump Will Win Florida | NBC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lu11Qkqzmvw",
             "title": "One Dead, 11 Wounded In Dallas Concert Shooting",
             "secondDuration": 78,
@@ -121,8 +115,14 @@
             "title": "Mass Shooting Averted At Indiana Middle School | NBC Nightly News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "0qtYlOjQbYc",
+            "title": "German Scientists Stage Packed Concert To Investigate COVID-19 Spread | NBC News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

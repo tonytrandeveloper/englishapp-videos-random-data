@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qXjMWBWU_fQ",
-            "title": "Oceanographer Dr. Sylvia Earle: 'We Are In Trouble As A Species'",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "-QC-7kYe3rI",
             "title": "NASA Makes History With Flight On Mars | NBC Nightly News",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Pence Holds Coronavirus Meeting With Cruise Line Companies | NBC News (Live Stream Recording)",
             "secondDuration": 1278,
             "group": "group_7"
+        },
+        {
+            "videoId": "jTOfJQjrVR8",
+            "title": "Inspiring America: Foundation Grants Sick Children Chance To Make Dreams Come True| NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

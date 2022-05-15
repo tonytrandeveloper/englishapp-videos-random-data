@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6dQUXYar_Os",
-            "title": "Vatican Launches Official Track Team | NBC Nightly News",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "wYsVM-gT6xY",
             "title": "ISIS Leader Killed in U.S. Military Raid in Syria",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "For The People Act Expected To Fail In Senate Vote",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "-ONi2Ntg-AM",
+            "title": "Biden Administration Secures 200 million More Vaccine Doses | NBC News NOW",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

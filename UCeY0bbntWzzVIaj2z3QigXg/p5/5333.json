@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xNVwflweNwA",
-            "title": "Tennessee Wildfire: Two Juveniles Arrested, Charged With Arson | NBC News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "unnM28tCVdM",
             "title": "Top Story with Tom Llamas - April 15 | NBC News NOW",
             "secondDuration": 2390,
@@ -31,8 +25,14 @@
             "title": "Former President Trump Takes Aim At Florida Governor DeSantis",
             "secondDuration": 269,
             "group": "group_7"
+        },
+        {
+            "videoId": "MPw1D0WFk3o",
+            "title": "Illinois Gov. Pritzker Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2090,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

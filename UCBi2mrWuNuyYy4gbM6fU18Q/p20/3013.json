@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "u-sxdZ6OHDw",
-            "title": "Fantasy Forecast: Week 8",
-            "secondDuration": 640,
-            "group": "group_7"
-        },
-        {
             "videoId": "-Y0IKgpUa70",
             "title": "Virginia Shooting Caught on Live TV | Suspect \"Bryce Williams\" Sends 'Suicide Notes\"",
             "secondDuration": 103,
@@ -121,8 +115,14 @@
             "title": "In Case You Missed It: 11/22/2013",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "4f3J_6fTshU",
+            "title": "Police-involved shooting on busy San Francisco street",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

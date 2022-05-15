@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "f9qLIEWsjbE",
-            "title": "U.S. Military Denies Killing Mosul Civilians with ‘Imprecise Bombing’ | NBC News",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "ShcXGWUaSMk",
             "title": "President Trump Selects Neil Gorsuch For Supreme Court | NBC News",
             "secondDuration": 1017,
@@ -61,8 +55,14 @@
             "title": "Empty Las Vegas Casinos At Center Of Clash Over Reopening | NBC Nightly News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "LURV7yqTo3w",
+            "title": "McConnell: '100 Percent Of Our Focus Is On Stopping This New Administration' | NBC News",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

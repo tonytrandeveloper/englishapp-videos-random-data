@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NZCXbJiZ__s",
-            "title": "This Sunday on MTP - Syria in Crisis",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "VMR48RjBWW0",
             "title": "Senators Mitch McConnell, John McCain, And More Say Senator Jeff Flake Will Be Missed | NBC News",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Investigators Search For Clues In Sante Fe High School Shooting | NBC Nightly News",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "YB-fv2aK8t4",
+            "title": "Test Of Steel Prototype For Border Wall Showed It Could Be Sawed Through | NBC Nightly News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

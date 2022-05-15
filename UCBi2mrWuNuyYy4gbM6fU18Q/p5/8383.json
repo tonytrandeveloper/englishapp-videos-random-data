@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KgyEO1CZnjc",
-            "title": "Kris Jenner On O.J. Simpson Murder Trial",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y85e_m4MX4g",
             "title": "5 Detained in Turkey New Year's Eve Terror Attack Investigation",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "'The X-Files' Returns, Mulder and Scully Are Back",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "hPftvv3CdzU",
+            "title": "US Women's Soccer Team Captain Is Ultimate Soccer Mom",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

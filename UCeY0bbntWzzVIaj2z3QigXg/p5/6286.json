@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z8T1tG4pTaI",
-            "title": "Dangerous Flooding Continues In The Carolinas | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "1QfFXjVt1MQ",
             "title": "Social Media Is Outing Charlottesville Protesters | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Nancy Pelosi Announces ‘Big Step To Lower Health Care Costs’ | NBC News",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "VJ2JF7b9-aU",
+            "title": "Biden Makes Announcement On Aid For Small Businesses | NBC News",
+            "secondDuration": 543,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

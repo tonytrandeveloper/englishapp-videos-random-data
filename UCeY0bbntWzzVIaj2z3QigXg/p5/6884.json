@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-AzLUlFXhkU",
-            "title": "Science Says Nice Guys Have More Sex | Better | NBC News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "cjSn4kSpXRs",
             "title": "Do Chimpanzees Have Accents? | NBC News",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Bloomberg Looks For Super Tuesday Breakout | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "oPyUK0f0sQo",
+            "title": "NYPD Cop's Chokehold Triggers Outrage | NBC News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

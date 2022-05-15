@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z2BkZ1cEhBU",
-            "title": "Students Protest White Nationalist's Speech at Texas A&M",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "MMJsl-XaYeU",
             "title": "Pilot shares story of survival after crash into Canadian wilderness l ABC News",
             "secondDuration": 159,
@@ -61,8 +55,14 @@
             "title": "Harrison Ford Returning as 'Indiana Jones'",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "rTvhtiV1mXQ",
+            "title": "Tucson Police Audio of Shooting Released",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

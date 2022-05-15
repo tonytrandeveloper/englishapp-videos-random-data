@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "f1tJ9z7yR60",
-            "title": "NBC Nightly News Broadcast (Full) - May 31st, 2021",
-            "secondDuration": 1143,
-            "group": "group_7"
-        },
-        {
             "videoId": "rTbjCG8xXEM",
             "title": "Police Announce Suspects In North Carolina Mayor Murder Investigation | NBC News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "UMD: Apologize To Football Star’s Family For ‘Mistakes’ That Led To His Death | NBC Nightly News",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "otTc17OgfKE",
+            "title": "Trump’s Tariff Proposal Brings Threats Of Retaliation Fears Potential Job Losses | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

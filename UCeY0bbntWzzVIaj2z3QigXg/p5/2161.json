@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uAyqz47qoh8",
-            "title": "CDC Reports Rise in Covid Cases As Delta Variant Spreads",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "HlFsIUDnS2k",
             "title": "NBC News Exclusive: Andrea Constand Speaks Out | NBC Nightly News",
             "secondDuration": 53,
@@ -31,8 +25,14 @@
             "title": "Remembering The Origin Of Pride Amid Nationwide Protests | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "uV4tFhFf7j4",
+            "title": "Rittenhouse Family Spokesperson Says Verdict Brought 'Sense Of Relief'",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

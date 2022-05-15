@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rMOvQR3yC1Q",
-            "title": "Significant development in the Harvey Weinstein case",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "_oXO1gDm5OE",
             "title": "Ellen Page Interview 2014: Actress Discusses Her Mutant Powers in 'X-Men: Days of Future Past'",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "Family of American tourist killed in London terror attack speaks out",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "DlrsBNnbdPE",
+            "title": "Election 2016 Recounts Gains Momentum",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

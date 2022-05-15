@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yNllJvjj9Mc",
-            "title": "McConnell Rails Against Sanders For Not Supporting AIPAC | NBC News",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "q_ML3HFoF3Q",
             "title": "Los Angeles Teachers Union, School District Discuss Concerns Ahead Of Strike | NBC News",
             "secondDuration": 302,
@@ -61,8 +55,14 @@
             "title": "How Hotels Aim To Adapt For The Coronavirus Crisis | NBC Nightly News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "dhfj8_GzBRA",
+            "title": "House Passes Bill To Decriminalize Marijuana | NBC Nightly News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

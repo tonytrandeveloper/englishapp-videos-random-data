@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "O-8lenVJlvo",
-            "title": "Frostbite Symptoms And How To Recover | NBC News",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "tOmZEpE-tfo",
             "title": "President Bush Remembers Rep. John Lewis As Someone Who 'Always Looked Outward' | NBC News",
             "secondDuration": 347,
@@ -31,8 +25,14 @@
             "title": "Why The Texas Hostage-Taker Demanded The Release Of Convicted Terrorist Aafia Siddiqui",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "cSiTN87r5N0",
+            "title": "Gabby Giffords: ‘We Can Let The Shooting Continue Or We Can Act’ | NBC News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

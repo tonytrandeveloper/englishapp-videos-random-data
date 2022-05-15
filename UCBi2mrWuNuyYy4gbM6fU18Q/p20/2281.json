@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sPIAG5CftK8",
-            "title": "Alabama governor embroiled in alleged sex scandal",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "zGh1wE-pXck",
             "title": "Tim McGraw on CMA Awards, New Album 'Damn Country Music'",
             "secondDuration": 114,
@@ -121,8 +115,14 @@
             "title": "The latest on Day 4 of Ahmaud Arbery murder trial",
             "secondDuration": 516,
             "group": "group_7"
+        },
+        {
+            "videoId": "7Loa3cFbjAk",
+            "title": "ABC News' Year in Review: Sports",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

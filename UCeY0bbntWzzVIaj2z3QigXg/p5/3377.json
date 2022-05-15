@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H1YuX5jJEQc",
-            "title": "U.S. Recovers Most Of Colonial Pipeline Hack Ransom Payment",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "4ooqhpT1aIk",
             "title": "Jury Deliberations Underway In ‘Unite the Right’ Trial",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "New Yorkers Sing 'Lean On Me' To Honor Workers On The Coronavirus Front Line | NBC News",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "IFJIX8vGSgg",
+            "title": "‘Star Trek’ Actor Anton Yelchin Killed By Jeep Under Recall | NBC Nightly News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

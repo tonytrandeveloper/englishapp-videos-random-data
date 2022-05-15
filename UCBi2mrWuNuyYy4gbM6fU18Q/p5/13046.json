@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9IGwaNN1hbw",
-            "title": "Tea Party's First Convention",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "9TNheL02Azg",
             "title": "Jerry Sandusky Trial: Wife to Testify?",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Pennsylvania lieutenant governor says every vote will be counted",
             "secondDuration": 359,
             "group": "group_7"
+        },
+        {
+            "videoId": "QGWRfuLZkuQ",
+            "title": "Full Interview: Donald Trump, Melania & Family with George Stephanopoulos",
+            "secondDuration": 2126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

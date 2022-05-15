@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JxggPKCIZSg",
-            "title": "ABC News Live Update: House to send Trump impeachment article to Senate on Monday",
-            "secondDuration": 531,
-            "group": "group_7"
-        },
-        {
             "videoId": "WnY07FA7gXU",
             "title": "Captain America the First Avenger: New Movie Follows the Super Solider of the Marvel Universe",
             "secondDuration": 466,
@@ -61,8 +55,14 @@
             "title": "Lighten the Mood with a Disco Party!",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "UnhyKAFenXc",
+            "title": "Documents suggest Cohen used WH connections for business",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

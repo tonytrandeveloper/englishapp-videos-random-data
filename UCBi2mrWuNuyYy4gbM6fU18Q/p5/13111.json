@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cTE4m4HqP3U",
-            "title": "Florida COVID ward nurse: ‘We’re back to where we were in December’",
-            "secondDuration": 343,
-            "group": "group_7"
-        },
-        {
             "videoId": "SjORUhBheBM",
             "title": "Teen found shot to death in New Orleans has been identified l ABC News",
             "secondDuration": 59,
@@ -31,8 +25,14 @@
             "title": "Drone Crashes During World Cup Race in Italy",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "-wORQ_moEjQ",
+            "title": "Donald Trump Continues 'Rigged' Election Message",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

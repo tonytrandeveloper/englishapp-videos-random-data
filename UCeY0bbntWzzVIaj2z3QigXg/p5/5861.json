@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j3eJI0x3BhQ",
-            "title": "Donald Trump is the Presumptive GOP Nominee | NBC Nightly News",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "SDozms4ng6Y",
             "title": "Busiest Travel Day Of The Year To Be Plagued By Winter Storm | NBC Nightly News",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Prime Minister Theresa May Pays Respects At Arlington National Cemetery | NBC news",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "QPn_IgXcBas",
+            "title": "Judge Rules Trump, Children Must Sit For Deposition In Civil Case Involving Business Practices",
+            "secondDuration": 235,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

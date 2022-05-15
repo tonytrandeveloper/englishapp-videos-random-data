@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mPUGYcPo0qQ",
-            "title": "President Biden is expected to announce a new plan to fight the surge of Omicron variant | ABC News",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "skRq-aJx8YU",
             "title": "Quebec Mosque Attack: New Details on Suspect Alexandre Bissonette | ABC News",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Virginia Holds Its Version of the 'Running of the Bulls'",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hz1wsmzPUI8",
+            "title": "Tim Kaine and Mike Pence Set to Face Off in Virginia",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

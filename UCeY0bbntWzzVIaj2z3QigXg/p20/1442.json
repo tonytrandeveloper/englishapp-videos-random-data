@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4mMP4gquXlE",
-            "title": "White House Covid Response Team Holds Briefing | NBC News",
-            "secondDuration": 2076,
-            "group": "group_7"
-        },
-        {
             "videoId": "6HRpR7wzN9Y",
             "title": "Pence Leads First White House Coronavirus Task Force Briefing In Months | NBC Nightly News",
             "secondDuration": 161,
@@ -121,8 +115,14 @@
             "title": "Sen. Rubio Prepares To Defend Florida Senate Seat",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "jdDxvramQuw",
+            "title": "Inside Happiness Guru Gretchen Rubin's Office | Better | NBC News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

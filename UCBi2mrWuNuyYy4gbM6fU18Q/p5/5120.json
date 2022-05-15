@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VUQAV4ZUkiY",
-            "title": "US Ambassador to the UN nominee Linda Thomas-Greenfield speaks",
-            "secondDuration": 204,
-            "group": "group_7"
-        },
-        {
             "videoId": "y-4pvfTH0jQ",
             "title": "Bahamas official describes damage after Dorian l ABC News",
             "secondDuration": 187,
@@ -31,8 +25,14 @@
             "title": "Democratic Presidential Candidates Remark on Calls for Muslim Ban",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "GuHduuMVMlQ",
+            "title": "Inside the break-up boot camp retreat designed to heal broken hearts",
+            "secondDuration": 465,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g47bPO-AiyA",
-            "title": "American Med Student Reappears In The U.S. After Being Kidnapped In Mexico | NBC Nightly News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qw8J_8hRvvY",
             "title": "ISIS Looking To Rebuild In Northern Iraq | NBC Nightly News",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Inspiring Kids: Guide Dog Helps One Teenage Girl Fulfill Her Dream | Nightly News: Kids Edition",
             "secondDuration": 560,
             "group": "group_7"
+        },
+        {
+            "videoId": "HMBHuU8SInU",
+            "title": "Trump Falsely Claims Fraud In Vote Counting | NBC Nightly News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

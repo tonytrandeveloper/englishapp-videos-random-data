@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cClCDXkBpBk",
-            "title": "Citizen journalism on the frontlines",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "mMNqYLyQqEg",
             "title": "Runaway Train on Boston's Red Line",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Go Naked for Clothes in California!",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "PzgQOraChEk",
+            "title": "Remembering Golden Girl Farrah Fawcett",
+            "secondDuration": 620,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

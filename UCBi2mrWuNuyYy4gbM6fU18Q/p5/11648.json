@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "n5mINmshSso",
-            "title": "Gas prices reach a staggering high",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "-u50d5anCgA",
             "title": "Cargo ship bursts into flames off the coast of Georgia",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "How much does a 'middle class' family of 5 earn? | A Hidden America with Diane Sawyer (Extra)",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "rd3xdP4QuME",
+            "title": "MIX: Stuck In Traffic",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

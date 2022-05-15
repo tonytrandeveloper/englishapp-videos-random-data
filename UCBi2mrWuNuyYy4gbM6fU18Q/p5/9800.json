@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BnTvcyyKUW8",
-            "title": "Dixie Fire causes massive destruction to California town l GMA",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "zWcKZm0EqKQ",
             "title": "What's next for the US after military strike in Syria?",
             "secondDuration": 214,
@@ -31,8 +25,14 @@
             "title": "Austrian Hotel Held Hostage by Electronic Hackers | ABC News",
             "secondDuration": 450,
             "group": "group_7"
+        },
+        {
+            "videoId": "efPodmsnP8o",
+            "title": "The Rundown: Top headlines today: April 16, 2021",
+            "secondDuration": 250,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7pn8RLkrVE0",
-            "title": "Trump suspends non-citizen travel to US from Brazil | ABC News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "mydta6NsXZo",
             "title": "Sarah Sanders' controversial legacy as press secretary",
             "secondDuration": 229,
@@ -31,8 +25,14 @@
             "title": "3 Puppies Rescued From Avalanche in Italy | ABC News",
             "secondDuration": 36,
             "group": "group_7"
+        },
+        {
+            "videoId": "g0Chtz850FU",
+            "title": "Powerful Typhoon Smashes Philippines",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

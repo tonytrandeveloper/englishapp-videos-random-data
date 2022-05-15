@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3sWErLiJA90",
-            "title": "YouTube Stars Interview President Obama",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "HzLbXozTVZI",
             "title": "Survivors of the Ohio State Fair deadly accident speak out",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Daunte Wright case follows history of fatal police incidents in Minnesota Twin Cities | Nightline",
             "secondDuration": 682,
             "group": "group_7"
+        },
+        {
+            "videoId": "gx-hgShRVL8",
+            "title": "California’s Bobcat fire explodes in size",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

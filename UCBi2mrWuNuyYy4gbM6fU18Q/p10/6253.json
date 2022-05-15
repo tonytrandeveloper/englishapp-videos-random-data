@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CS_Y1XCS3Vg",
-            "title": "In Chicago, Latinos struggle to find relief from devastation of COVID-19 | Nightline",
-            "secondDuration": 682,
-            "group": "group_7"
-        },
-        {
             "videoId": "KbSIq6yTtFc",
             "title": "Preparation and anticipation for total solar eclipse builds across the country",
             "secondDuration": 306,
@@ -61,8 +55,14 @@
             "title": "Ukraine Launches Anti-Terrorist Operation",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "ByEZpDu_jEQ",
+            "title": "Partners in Health in Lesotho",
+            "secondDuration": 377,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

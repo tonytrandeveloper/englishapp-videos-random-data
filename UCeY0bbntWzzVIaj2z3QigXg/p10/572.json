@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CUrwX2WAJ84",
-            "title": "Apple Sues Israeli Spyware Company For Selling iPhone Hacking Tools",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "hU1ZTbAHXoI",
             "title": "Video Shows Launch of SpaceX Falcon 9 Rocket Carrying Dragon Supply Ship | NBC News",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Woman’s Brain Surgery Broadcast Live To Thousands Of People | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "cO7QnwlyQfA",
+            "title": "Colorado Man Survives Bear And Shark Attack In One Year | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KthQ6HmxX8I",
-            "title": "Inside Joran Van der Sloot's Cell",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "IdgSH6SL2mg",
             "title": "USC suspends fraternity amid student protests",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "U.S. Sergeant Accused of 'Thrill Kill' in Afghanistan",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "rXSKUEnMJnE",
+            "title": "Elizabeth Warren pressed on Medicare-for-all plan during debate",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

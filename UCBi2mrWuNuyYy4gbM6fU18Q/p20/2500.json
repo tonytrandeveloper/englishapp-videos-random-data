@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Q9McdTRJfuQ",
-            "title": "Burning Cruise Ship Arrives Into Jamaican Port",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "HVqmWwaLSGc",
             "title": "FAA Investigating New Drone Incidents at JFK Airport",
             "secondDuration": 165,
@@ -121,8 +115,14 @@
             "title": "Deadly Plane Crash in Pakistan",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "6U3gwAlFs3g",
+            "title": "The role of church leaders in vaccination efforts",
+            "secondDuration": 712,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "a26w4v19wyM",
-            "title": "WATCH LIVE: ABC News Live Prime: 2020 race, Coronavirus updates, Trump pardons, Daytona crash",
-            "secondDuration": 3593,
-            "group": "group_7"
-        },
-        {
             "videoId": "kUyDv2uuX64",
             "title": "Drug Lord 'El Chapo' Shown on Video After Capture",
             "secondDuration": 38,
@@ -61,8 +55,14 @@
             "title": "Philadelphia Police Uncover Dungeon",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "5IGcMfsDVFg",
+            "title": "Call of Duty Infinite Warfare | Inside Look with Jamie Gray Hyder",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

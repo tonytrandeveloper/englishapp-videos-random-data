@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cs6m0UKNUsQ",
-            "title": "Man Plays Piano While Floating in the Arctic Ocean",
-            "secondDuration": 39,
-            "group": "group_7"
-        },
-        {
             "videoId": "A5ybTmGJcvc",
             "title": "Flood Water Test Results",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Concedes President Obama Born in US, Campaign Says",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "b7qq7Ku0BWA",
+            "title": "US Olympic ski jumper Sarah Hendrickson on overcoming injury to compete again",
+            "secondDuration": 383,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

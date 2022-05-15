@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DmKCjM6GAzo",
-            "title": "President Obama in Cuba: ‘This Is A New Day’ For Cuba-U.S. Relations | NBC News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "9-oNtpTPJa4",
             "title": "Oprah Winfrey Campaigns For Stacey Abrams In Georgia | NBC Nightly News",
             "secondDuration": 168,
@@ -121,8 +115,14 @@
             "title": "Autonomous Grocery Delivery Is Almost Here | Mach | NBC News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "GgSmNDXQd2E",
+            "title": "Lester Holt Goes Inside The NYPD's New Anti-Terror Unit | NBC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fI1hdmM5Rm4",
-            "title": "White House Covid Response Team Holds Briefing | NBC News",
-            "secondDuration": 1006,
-            "group": "group_7"
-        },
-        {
             "videoId": "hK346wmH4ng",
             "title": "Watch: Video Shows Man Asleep At Wheel Of Self-Driving Tesla On Massachusetts Turnpike | NBC News",
             "secondDuration": 76,
@@ -31,8 +25,14 @@
             "title": "Drones Pose Real Risk For Airplanes, New Study Finds | NBC Nightly News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "hTCdxlyGGgg",
+            "title": "White House Holds Press Briefing: February 22 | NBC News",
+            "secondDuration": 2684,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

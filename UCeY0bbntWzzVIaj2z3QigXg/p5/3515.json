@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VXzCVY5-zoE",
-            "title": "White House Holds Press Briefing: March 3 | NBC News",
-            "secondDuration": 3096,
-            "group": "group_7"
-        },
-        {
             "videoId": "sMlEuVm1DXw",
             "title": "If You Think About Kim Jong-Un As A CEO, He Might Not Look So Crazy | Think | NBC News",
             "secondDuration": 242,
@@ -31,8 +25,14 @@
             "title": "A Better Way To Cut An Avocado | Better | NBC News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "WA600SU4mLk",
+            "title": "Videos Show Moment Electricity Returns To Parts Of New York City After Power Outage | NBC News NOW",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

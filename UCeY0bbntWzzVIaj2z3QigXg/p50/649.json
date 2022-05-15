@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "dkBO_ZYS7i4",
-            "title": "Over 150 Companies Sign Letter Supporting John Lewis Voting Rights Advancement Act",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "RnrtqO-n2P4",
             "title": "Watch: SpaceX Falcon 9 Rocket Launches 60 Satellites Into Orbit | NBC News",
             "secondDuration": 123,
@@ -301,8 +295,14 @@
             "title": "9 Terrible Tech Products That Were Destined To Fail | NBC Left Field",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "vwfZXz87cYI",
+            "title": "LIVE: Nancy Pelosi Holds Weekly Press Conference | NBC News",
+            "secondDuration": 2536,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

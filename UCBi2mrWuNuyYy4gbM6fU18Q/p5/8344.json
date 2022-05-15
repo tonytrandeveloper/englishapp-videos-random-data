@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZeBYq4fejM4",
-            "title": "Famed Gambler Archie Karas Accused of Cheating",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "04fsjEQwvRI",
             "title": "Inflation rising at fastest rate in 40 years",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Obama Declares Emergency in Louisiana Floods",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "bRWNesooN-g",
+            "title": "CDC is expanding its booster recommendations due to the threat of the new COVID variant | ABC News",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

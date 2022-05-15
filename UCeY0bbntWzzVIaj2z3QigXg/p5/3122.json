@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3E81n3xZ-io",
-            "title": "Facebook CEO Mark Zuckerberg’s Senate Hearing: Everything You Need To See | NBC News",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "1RKT2DwnbTo",
             "title": "Prosecutor Drops Groping Charge Against Cuomo",
             "secondDuration": 44,
@@ -31,8 +25,14 @@
             "title": "Donald Trump: Bill Clinton Is 'An Abuser' | Meet The Press | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "MCN-jnshnXc",
+            "title": "Ohio Gov. Mike DeWine Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 5125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9Ug0C5G4fXw",
-            "title": "Osama bin Laden Killed 2011",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "1axaWqD6NyA",
             "title": "Baby Beyonce the World's Smallest Puppy? Dog Captures Web's Hearts, Video Goes Viral",
             "secondDuration": 86,
@@ -121,8 +115,14 @@
             "title": "By the Numbers: Black Lives Matter nominated for Nobel Peace Prize",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "FeXf9K0wjx0",
+            "title": "LIVE: Dr. Anthony Fauci, CDC Dir. Dr. Robert Redfield Testify At Senate Hearing On Coronavirus",
+            "secondDuration": 15028,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TcZNkx4w9KQ",
-            "title": "Taylor Swift Throws a Baby Shower for Jaime King",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "UIMgVR8C0Z4",
             "title": "2 US Swimmers Pulled From Flight in Rio",
             "secondDuration": 299,
@@ -121,8 +115,14 @@
             "title": "Jon Stewart Prepares to Signoff One Last Time",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "DL_dmN2Ck10",
+            "title": "Juju Juggles Halloween",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

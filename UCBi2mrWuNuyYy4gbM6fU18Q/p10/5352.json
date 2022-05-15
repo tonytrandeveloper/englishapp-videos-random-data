@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3h3jh-vpeiY",
-            "title": "Hillary Clinton Comments After Voting For Self",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "V91ZF_gFw2E",
             "title": "Price Matching Can Be Key to Bagging Bargains",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "Some Democrats pressure Rep. John Conyers to resign",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "z_BFL3msVY8",
+            "title": "9-year-old shot in the head in apparent road rage incident",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

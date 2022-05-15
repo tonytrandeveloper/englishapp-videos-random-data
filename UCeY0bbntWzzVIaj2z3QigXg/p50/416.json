@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "bqMs0rwYrA8",
-            "title": "New York City Begins Vaccinating Students At Schools",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "qj2nuIni7LE",
             "title": "Authorities Call Ongoing Hong Kong Protests Among Worst Crisis In Region’s History | NBC News Now",
             "secondDuration": 163,
@@ -301,8 +295,14 @@
             "title": "Royals In ‘Damage Control Mode’ After Prince Andrew Interview, Historian Says | NBC News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "tI5PlmpgsP8",
+            "title": "Biden To Host Senate Judiciary Democrats To Discuss Supreme Court Nominee Process",
+            "secondDuration": 259,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

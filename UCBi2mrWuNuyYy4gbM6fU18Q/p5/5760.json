@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xa7MY2_pmxU",
-            "title": "Watch LIVE President Trump campaign rally in Fayetteville, North Carolina | ABC News",
-            "secondDuration": 5396,
-            "group": "group_7"
-        },
-        {
             "videoId": "bfboIPfhkH4",
             "title": "Trayvon Martin Neighborhood-Watch Shooting: Is Police Chief Bill Lee's Job on the Line?",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "New developments in search for 2 missing Idaho children | ABC News Prime",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "TLlvX3K4oj8",
+            "title": "An exclusive look at the US withdrawal from Afghanistan",
+            "secondDuration": 510,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Wf1_wZtWctE",
-            "title": "Marriott accused of hidden fees",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "8JdwDZK0qEQ",
             "title": "Tim Kaine From Virginia Is on Hillary's Short List",
             "secondDuration": 98,
@@ -121,8 +115,14 @@
             "title": "Dangerous weather conditions impact parts of US ahead of NYE l GMA",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "gG6ZfO5eoh0",
+            "title": "Wikipedia Blackout: Online Piracy Grows",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

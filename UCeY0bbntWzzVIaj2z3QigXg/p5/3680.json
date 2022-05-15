@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6ToPQR2dURQ",
-            "title": "White House Press Briefing - March 15, 2018 | NBC News",
-            "secondDuration": 1214,
-            "group": "group_7"
-        },
-        {
             "videoId": "pzL3LE4zGe4",
             "title": "Senate Votes To Confirm Amy Coney Barrett To Supreme Court | NBC News",
             "secondDuration": 3956,
@@ -31,8 +25,14 @@
             "title": "House Democrats Expected To Vote on Biden’s Spending Bill",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "l8ihHutPJ0s",
+            "title": "Paul Manafort Pleads Guilty In Robert Mueller Probe | NBC Nightly News",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

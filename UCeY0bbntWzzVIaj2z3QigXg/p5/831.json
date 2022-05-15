@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E1UTfMCjwGA",
-            "title": "El Paso, Texas, Shooting: Witness Videos Capture Terrifying Scene | NBC News",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "cEZbDW-2yIs",
             "title": "Lucha Libre Wrestling’s Next Great Villian: A Donald Trump Supporter | NBC News",
             "secondDuration": 82,
@@ -31,8 +25,14 @@
             "title": "8 Things You Didn’t Know About Pope Francis | NBC News",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "XgMiHO7WVIk",
+            "title": "Experts Warn Of Election Disinformation Aimed At Black And Latino Voters | NBC Nightly News",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

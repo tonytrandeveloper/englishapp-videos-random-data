@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z3VAh6NEbqE",
-            "title": "Chris Paul: \"For student success, it takes...\"",
-            "secondDuration": 6,
-            "group": "group_7"
-        },
-        {
             "videoId": "tF7BviIuBJ0",
             "title": "Boston Marathon Bombing Trial Goes To The Jury | NBC Nightly News",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "Missouri Governor Admits Affair After Blackmail Accusations Surface | NBC Nightly News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "6XRD1T-YVc8",
+            "title": "Donald Trump: I See Parallel Between ‘Brexit’ And U.S. | NBC News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

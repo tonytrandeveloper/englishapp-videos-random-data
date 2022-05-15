@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "N9C63gYfCwo",
-            "title": "Biden Announces Humanitarian Aid, More Russian Sanctions Following NATO Summit",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "pPzFvM5OpmQ",
             "title": "NYC Mayor Bill De Blasio Holds Coronavirus Briefing - May 31 | NBC News",
             "secondDuration": 4167,
@@ -121,8 +115,14 @@
             "title": "Experts Warn Of Second Coronavirus Wave, Concerns Of Reopening Too Soon | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "DmKCjM6GAzo",
+            "title": "President Obama in Cuba: ‘This Is A New Day’ For Cuba-U.S. Relations | NBC News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

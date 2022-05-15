@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2EarGv-LLY8",
-            "title": "'Rust' production halted indefinitely after fatal shooting l GMA",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "CAadElha4s4",
             "title": "The Dancing Man Party",
             "secondDuration": 184,
@@ -121,8 +115,14 @@
             "title": "Amplified: The Flaming Lips",
             "secondDuration": 324,
             "group": "group_7"
+        },
+        {
+            "videoId": "6mG9l28oKyI",
+            "title": "Will Smith Raps 'Fresh Prince' After Dare from British TV Host",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

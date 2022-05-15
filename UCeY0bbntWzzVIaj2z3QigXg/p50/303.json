@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Ogq7YPy1ETQ",
-            "title": "Hong Kong's Complex Political History | Long Story Short | NBC News",
-            "secondDuration": 213,
-            "group": "group_7"
-        },
-        {
             "videoId": "o4hnOvuPx-g",
             "title": "Marijuana Issues On The Ballot In Multiple States On Election Day | NBC Nightly News",
             "secondDuration": 135,
@@ -301,8 +295,14 @@
             "title": "Joe Biden Fires Up During Super Tuesday Speech: 'This Campaign Is Taking Off!' | NBC News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "qU1GULAHl_w",
+            "title": "Impact Of Netanyahu's Flip-Flop On Palstinian State | Chuck's Take | NBC News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

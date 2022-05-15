@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Z3JZcNvLKl0",
-            "title": "Thousands of Americans scared and stuck abroad",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "8m4gunBUXU0",
             "title": "Emily Mann Describes Surviving Louisiana Movie Theater Shooting",
             "secondDuration": 210,
@@ -121,8 +115,14 @@
             "title": "Democratic 2020 candidates target Bloomberg | ABC News",
             "secondDuration": 232,
             "group": "group_7"
+        },
+        {
+            "videoId": "VKJIeWIcsHk",
+            "title": "Hurricane Earl Hits New England",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

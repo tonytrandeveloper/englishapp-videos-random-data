@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yaTZ0d5prG4",
-            "title": "High stress leading to ‘broken heart syndrome’",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "fNC_35gWemE",
             "title": "Black Friday Deals Kick Off the Holiday Shopping Season",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Zookeeper struck in stomach by rhino",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "sVXJlPSpcm4",
+            "title": "Supreme Court Battle Over BIrth Control",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

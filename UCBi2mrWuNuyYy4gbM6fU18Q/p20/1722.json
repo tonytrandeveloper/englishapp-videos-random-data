@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7r8N0GkEhbY",
-            "title": "Bacon Bliss",
-            "secondDuration": 277,
-            "group": "group_7"
-        },
-        {
             "videoId": "nGZbQqGfYgM",
             "title": "Vaccine Watch: Inside Johnson & Johnson",
             "secondDuration": 275,
@@ -121,8 +115,14 @@
             "title": "David Axelrod 'This Week' Interview: Mitt Romney's Taxes Manipulated, Tax Plan Flawed?",
             "secondDuration": 302,
             "group": "group_7"
+        },
+        {
+            "videoId": "NplTbSZihVw",
+            "title": "Paul Manafort Reacts to Trump Campaign Turmoil",
+            "secondDuration": 317,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

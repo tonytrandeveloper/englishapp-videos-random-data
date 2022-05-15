@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IeA8jYl77z0",
-            "title": "Women CEOs Turning the Tables",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "HgP6GZRC564",
             "title": "Pope Francis to Become First Pope to Address Congress | ABC News",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "'Music is my thing': Aretha Franklin, in her own words",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "LsmOp8ZbJ0U",
+            "title": "Michael Strahan on Who He Owes Part of His Success To",
+            "secondDuration": 425,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

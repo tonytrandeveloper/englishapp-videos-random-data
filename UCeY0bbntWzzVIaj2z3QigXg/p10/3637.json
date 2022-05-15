@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5veOrEQP1Qg",
-            "title": "Senator Jeff Merkley Holds Overnight Talk-A-Thon Protesting Neil Gorsuch Nomination | NBC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "z6Z-y0gQyHE",
             "title": "PetSmart Faces Another Dog Death | NBC Nightly News",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Authorities Claim ‘Crime Tourists’ Are Targeting High-End Homes Across U.S.",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "GmuDFggNFOE",
+            "title": "Doctor Sues Tulane University For Race And Gender Discrimination | NBC News NOW",
+            "secondDuration": 337,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

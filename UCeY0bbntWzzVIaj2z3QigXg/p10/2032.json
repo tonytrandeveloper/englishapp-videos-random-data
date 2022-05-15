@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HWtpDpEZNlY",
-            "title": "Mass Shooting In Sacramento Leaving Six Dead",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "C8PmvCK-jJg",
             "title": "President Donald Trump: Iran Should Have Thanked Barack Obama | NBC News",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "More Than A Dozen Children Of Fallen 9/11 Heroes Joining FDNY | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "cMheOtOPI-c",
+            "title": "Typhoon Hato Slams Hong Kong With 95 MPH Winds | NBC News",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

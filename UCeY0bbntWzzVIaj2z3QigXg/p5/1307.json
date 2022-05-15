@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iESIZyQLgCE",
-            "title": "Trump: Economy 'May Be' Heading Toward Recession Due To Coronavirus | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "oejZARORwHk",
             "title": "Female Astronaut Christina Koch Wants To Inspire Next Generation Of Explorers | NBC News NOW",
             "secondDuration": 226,
@@ -31,8 +25,14 @@
             "title": "Rocket Pack Shoots Man Up Nearly A Mile High In First Vertical Takeoff | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "1SndcUnnLj8",
+            "title": "WHO Reports Biggest One-Day Global Spike In COVID-19 Cases | NBC News NOW",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

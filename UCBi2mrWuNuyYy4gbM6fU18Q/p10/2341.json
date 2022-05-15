@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SaN5i0Ie5FM",
-            "title": "New York City Mayor Eric Adams tests positive for COVID-19",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "TTseZ1Jr8Ig",
             "title": "Medal of Honor Awarded to Afghanistan Vet",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Rio Olympics Latest Medal Count",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "qQmJiWM9NdY",
+            "title": "Siblings' Epic Prank Battle Caught on Tape",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

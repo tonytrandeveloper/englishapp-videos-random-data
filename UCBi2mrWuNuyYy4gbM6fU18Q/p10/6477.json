@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "O4_yzFTK3ME",
-            "title": "Star college basketball player collapses on court",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "lHzWEor3Y2w",
             "title": "Pres. Obama speaks at closing session of his foundation's summit",
             "secondDuration": 1221,
@@ -61,8 +55,14 @@
             "title": "Is the White House Concerned About Criticism?",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "OyQ7x2M_5SY",
+            "title": "COVID-19 rules ease across 49 states in US l WNT",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

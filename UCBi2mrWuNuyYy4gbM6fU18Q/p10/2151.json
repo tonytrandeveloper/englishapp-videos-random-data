@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-e4JdZZOzBE",
-            "title": "Matthew McConaughey Talks 'Interstellar'",
-            "secondDuration": 295,
-            "group": "group_7"
-        },
-        {
             "videoId": "vbxY7nLw1us",
             "title": "Saving sequoias from wildfires driven by climate change",
             "secondDuration": 377,
@@ -61,8 +55,14 @@
             "title": "Over 50 dead as US opens embassy in Jerusalem",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "nlBXMWBpxh4",
+            "title": "State Department spokesman on Ukraine: 'This is not a time for panic'",
+            "secondDuration": 327,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

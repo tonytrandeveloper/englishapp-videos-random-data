@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "38nR_pu4pGM",
-            "title": "Vote for Berman",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "I9x5QmPO8XA",
             "title": "Steve Aoki | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 1410,
@@ -31,8 +25,14 @@
             "title": "Ted Cruz Vows to Decline Donald Trump VP Position",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "KWfYVxF2KhA",
+            "title": "Marco Rubio Interview 2012: Vice President Pick?",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

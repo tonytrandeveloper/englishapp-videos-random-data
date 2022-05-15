@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2CQLBd5nIqA",
-            "title": "Mike Pence elaborates on Trump's joint address",
-            "secondDuration": 291,
-            "group": "group_7"
-        },
-        {
             "videoId": "fkozUzFX-tM",
             "title": "Karen Gillan and John Cho Shed Light on 'Selfie'",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "Inside the Fight to Drive ISIS from Iraq",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "opy5CP4qv2I",
+            "title": "FDA grants full approval to Pfizer COVID-19 vaccine",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

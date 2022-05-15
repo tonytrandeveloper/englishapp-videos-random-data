@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fgpG7cIACaA",
-            "title": "Italy on lockdown as thousands of new cases emerge overseas l ABC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "1Oz5ulp1tx8",
             "title": "UN: 2 million refugees have fled Ukraine l GMA",
             "secondDuration": 168,
@@ -31,8 +25,14 @@
             "title": "Cab Driver Returns $187,000 Left in Car",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "2DVw_BbVzCg",
+            "title": "Iowa caucuses voting results delayed | ABC News",
+            "secondDuration": 295,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

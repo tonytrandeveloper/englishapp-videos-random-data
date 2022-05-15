@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KZtCNLZnhO4",
-            "title": "CDC Director Dr. Robert Redfield Testifies Before House | NBC News (Live Stream Recording)",
-            "secondDuration": 10208,
-            "group": "group_7"
-        },
-        {
             "videoId": "AHEBKVwBCpI",
             "title": "Rehema Ellis: 'I have a dream that...'",
             "secondDuration": 20,
@@ -61,8 +55,14 @@
             "title": "Trump Announces Travel Restrictions From Europe Over Coronavirus | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "qWYRUCr8SUA",
+            "title": "Wingsuit Base Jumping: The New High of Extreme Sports | NBC Nightly News",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pVYVZ85V5FI",
-            "title": "White House press briefing on Trump's tweets about Sen. Kirsten Gillibrand, immigration | ABC News",
-            "secondDuration": 2752,
-            "group": "group_7"
-        },
-        {
             "videoId": "un0N-NL8aQM",
             "title": "Happy birthday, Betty White",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Wall Street on alert as markets continue to fall amid fears of trade war",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y3PREy6rAXE",
+            "title": "House passes $2T relief package l ABC News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

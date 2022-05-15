@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hBByPr9uS0Q",
-            "title": "Super Bowl 2013: New Orleans Prepares for the Big Game Between San Francisco 49ers, Baltimore Ravens",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "aq__bZryxsY",
             "title": "White House communications director Hope Hicks under increased scrutiny",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "Global economy takes hit as Russia attacks Ukraine l ABCNL",
             "secondDuration": 354,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q8rDGoYL-Xk",
+            "title": "Supreme Court  agrees to review President Trump's travel ban case",
+            "secondDuration": 366,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

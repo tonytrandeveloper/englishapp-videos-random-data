@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EGGa6lLGEoE",
-            "title": "Aid groups say more Syrian refugee children are getting chance to learn",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nqv_9Cg3Ls4",
             "title": "ABC News Update: Jeff Bezos, Blue Origin crew land safely after spaceflight",
             "secondDuration": 2444,
@@ -31,8 +25,14 @@
             "title": "American Airlines Reveals New Logo",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "weeWxHL7fjw",
+            "title": "'Duck Dynasty' Stars in Salary Standoff, Demand More Money",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

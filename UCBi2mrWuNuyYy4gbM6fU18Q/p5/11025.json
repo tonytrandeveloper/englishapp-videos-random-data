@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2KN_9CEVHSc",
-            "title": "Donald Trump Addresses GOP Debate Strategies and His Competitors",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "G7qBaM-v18A",
             "title": "New Holiday Food Flavors Around the Corner: Christmas Flavored Pringles",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Santa's Little Friend",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "oEIpqQDo1AU",
+            "title": "Alec Baldwin on meeting Halyna Hutchins’ family after her death",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

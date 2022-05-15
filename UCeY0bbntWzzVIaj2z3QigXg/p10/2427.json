@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "75NIWLi-fEg",
-            "title": "U.K. Airbus Plant Converted Into Coronavirus Ventilator Factory | NBC News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "JelSnQ_TJyE",
             "title": "North Korea Boasts Successful Missile Launch | NBC Nightly News",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "We Tried Becoming Morning People | Better | NBC News",
             "secondDuration": 326,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z8Ba6u8xEtU",
+            "title": "Facebook Announces Tools To Stem Fake News, Asks For Users' Help | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

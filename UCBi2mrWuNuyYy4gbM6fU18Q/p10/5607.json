@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cP8gCJjH0sg",
-            "title": "Obama Attacks Trump on Terrorism Views",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "4Pv2WSrkk2g",
             "title": "Trump takes on NBA and NFL stars",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "Toxic Florida Sinkhole Concerns Grow",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "04Q1J3E1bQE",
+            "title": "Trial Continues for the Father Whose Child Died in a Hot Car in Georgia",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

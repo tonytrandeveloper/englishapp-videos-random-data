@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "v4bJgwCfNPI",
-            "title": "Amplified: David Bazan",
-            "secondDuration": 435,
-            "group": "group_7"
-        },
-        {
             "videoId": "b2bSc0QJi_o",
             "title": "Nationwide US Customs computer system malfunction causes airport chaos",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Shirtless Vladimir Putin takes dip in icy Russian lake for the Epiphany",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "xVPGE_kH-QQ",
+            "title": "Children of 9/11 firefighter victims take oath to join FDNY",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

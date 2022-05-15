@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Gn1DS6DfACs",
-            "title": "‘God Bless Trump’: Israeli Residents Welcome Golan Heights Announcement | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "GOyZuCJAhyM",
             "title": "Covid Becomes The Leading Cause Of Death In The U.S. | Meet The Press | NBC News",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "Shortage Of Black Male Doctors Having A Public Health Impact | NBC Nightly News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "VvQbyqvAHAs",
+            "title": "Remembering ‘Everybody Loves Raymond’ Star Doris Roberts | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7LNt6KXLpw8",
-            "title": "Shark attack survivor describes how she escaped",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "QTwk-2fKT7o",
             "title": "Joe Paterno, President Fired by Board of Trustees, Penn State Students Riot in Video",
             "secondDuration": 192,
@@ -31,8 +25,14 @@
             "title": "Hans Zimmer Talks 'DKR' Music",
             "secondDuration": 226,
             "group": "group_7"
+        },
+        {
+            "videoId": "I0sI9agp2ZA",
+            "title": "How To Survive a Plane Crash",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

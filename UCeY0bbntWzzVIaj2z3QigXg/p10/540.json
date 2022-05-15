@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fq2hedfn69s",
-            "title": "Justice Department Announces Indictment Of 2 Chinese Hackers | NBC News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "WSuQrshVG1I",
             "title": "A New French President: A Look At Challenges Ahead | NBC Nightly News",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "Headphones Designed For Children May Not Be Safe For Their Ears | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "9tN91VWBi-A",
+            "title": "Hillary Clinton On Women's Health: 'How Could They Not Have Invited Any Women?' | NBC News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

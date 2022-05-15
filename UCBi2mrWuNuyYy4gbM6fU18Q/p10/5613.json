@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ed2RLK8vwF4",
-            "title": "Obama: Pastor's Koran Burning a 'Stunt'",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "2kBWm-ZSxJw",
             "title": "Webcast: Washington Roads Closed; 100-Year-Old Runner",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "Volcano Lava Spurs Hawaii's Governor to Seek Federal Help",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "6QzTaKgMmWk",
+            "title": "Trump doubles down on North Korea warnings",
+            "secondDuration": 361,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

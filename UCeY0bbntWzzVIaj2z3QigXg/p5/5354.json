@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VT_1rV8J780",
-            "title": "Senate Republicans Unveil Sweeping Rewrite Of Tax Code | NBC Nightly News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "oWMpBQH0qYc",
             "title": "This Ice Cream Man Charges Just a Dollar For Anything You Want | NBC Nightly News",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Joe Biden Launches 2020 Presidential Biden | NBC Nightly News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "4P3kYgZQsvo",
+            "title": "Watch Live: President Donald Trump Speaks At 2019 House Republican Retreat Dinner | NBC News",
+            "secondDuration": 4065,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

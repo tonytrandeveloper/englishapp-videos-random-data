@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "th1k8_aZwK8",
-            "title": "Trump calls NBC's Peter Alexander a \"terrible reporter\" when asked message to Americans | ABC News",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "JncS3qvjOXc",
             "title": "Moore denies allegations in new TV interview",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "Former Florida governor addresses Miami Beach closings, federal response",
             "secondDuration": 503,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qy9JPTcyHwU",
+            "title": "American Workers Adapt in Recession",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

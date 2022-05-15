@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hDw0kNREYpU",
-            "title": "White House Holds Press Briefing - Feb. 24 | NBC News",
-            "secondDuration": 3042,
-            "group": "group_7"
-        },
-        {
             "videoId": "vYZd-HTU_TA",
             "title": "Confederate Flag Merchandise Dropped By Top Retailers | NBC Nightly News",
             "secondDuration": 197,
@@ -31,8 +25,14 @@
             "title": "U.S. Stocks Again Plummet Over China Economy Fears | NBC Nightly News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "lF4RRwjJm_M",
+            "title": "Anti-Vaxxers Could Pose Public Health Risk When Coronavirus Vaccine Arrives | NBC News NOW",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

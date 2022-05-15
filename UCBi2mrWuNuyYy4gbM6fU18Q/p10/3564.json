@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UydQ0u97UgY",
-            "title": "Police Sergeant Killed and Another Officer Wounded in the Bronx",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "qI9jcRUTlbI",
             "title": "Donald Trump on Primary Wins, Facing Hillary Clinton",
             "secondDuration": 323,
@@ -61,8 +55,14 @@
             "title": "Meat Loaf Collapses During Concert",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ubx9CFLMf00",
+            "title": "Massive cruise ships collided in Mexico",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

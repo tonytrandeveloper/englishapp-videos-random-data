@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Kog_BZqq_l4",
-            "title": "North Korea fires intercontinental ballistic missile",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "jtjG4svJShA",
             "title": "Donald Trump Camp Says He's Skipping Next GOP Debate | ABC News",
             "secondDuration": 380,
@@ -61,8 +55,14 @@
             "title": "Prop specialist shares insight into how to avoid tragedies on set",
             "secondDuration": 481,
             "group": "group_7"
+        },
+        {
+            "videoId": "F72U5obykSc",
+            "title": "A Forgotten America: What really happened in Tulsa",
+            "secondDuration": 476,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

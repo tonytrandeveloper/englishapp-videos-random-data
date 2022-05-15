@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R4rpmVdpiOw",
-            "title": "Hillary Clinton's Opening Remarks in ABC News Democratic Debate",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "f_0lgLCSJv4",
             "title": "Is the Worst Christmas Tree Ever on Display in Pennsylvania?",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "The Debrief: 9/11 Memorial services, ISIS resurgence, Area 51 raid latest",
             "secondDuration": 1865,
             "group": "group_7"
+        },
+        {
+            "videoId": "ycI4QRy-NHg",
+            "title": "Superhero dog saves fawn desperately struggling to stay afloat off Long Island Sound",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

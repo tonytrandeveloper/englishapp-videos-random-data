@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fI1hdmM5Rm4",
-            "title": "White House Covid Response Team Holds Briefing | NBC News",
-            "secondDuration": 1006,
-            "group": "group_7"
-        },
-        {
             "videoId": "hK346wmH4ng",
             "title": "Watch: Video Shows Man Asleep At Wheel Of Self-Driving Tesla On Massachusetts Turnpike | NBC News",
             "secondDuration": 76,
@@ -121,8 +115,14 @@
             "title": "A Look At The Gaffes And Triumphs At VP Debates Through The Years | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "qeSnnQfpQ5A",
+            "title": "Live Performances Return To Broadway A Year After Covid Forced Theaters To Close | NBC News NOW",
+            "secondDuration": 425,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

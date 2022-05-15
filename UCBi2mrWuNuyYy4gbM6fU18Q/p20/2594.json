@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sCoMsiVrVUs",
-            "title": "Roundtable I: Karl Rove and Jim Messina",
-            "secondDuration": 1680,
-            "group": "group_7"
-        },
-        {
             "videoId": "KtwUTDTcOdg",
             "title": "Landmark Toyota Case Could Set Tone for Wrongful Death Suits",
             "secondDuration": 117,
@@ -121,8 +115,14 @@
             "title": "3 Washington police officers face criminal charges",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "KieB_Zi5TKI",
+            "title": "Race to evacuate Americans from China as virus spreads l ABC News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

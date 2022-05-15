@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j1bpnLUl8gs",
-            "title": "Derek Chauvin Indicted On Federal Civil Rights Charges | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "PxQ_3wEK1Xs",
             "title": "President Donald Trump Signs VA Mission Act Of 2018 | NBC News",
             "secondDuration": 2061,
@@ -31,8 +25,14 @@
             "title": "U.S. And South Korean Bombers Hold Drills Over Korean Peninsula | NBC News",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "yB6xxJSmx44",
+            "title": "Johnson & Johnson Vaccine Cleared For Use As U.S. Vaccinations Decline | NBC News NOW",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4UaAS0esvVQ",
-            "title": "California Redwood Trees Under Attack | NBC News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "yh9PjsUn5n8",
             "title": "Cardona Sworn In As Secretary Of Education | NBC News NOW",
             "secondDuration": 83,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump And British PM Theresa May Hold Joint Press Conference | NBC News",
             "secondDuration": 3406,
             "group": "group_7"
+        },
+        {
+            "videoId": "MoyZ_gEG81Q",
+            "title": "Biden Calls Fallen Soldiers ‘Best The Country Has To Offer’",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

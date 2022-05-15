@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Gb_5w-Iz12w",
-            "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3442,
-            "group": "group_7"
-        },
-        {
             "videoId": "2l6cKBf70pI",
             "title": "Live: Trump Holds Roundtable on Storm Preparedness, COVID-19 Response | NBC News",
             "secondDuration": 2238,
@@ -301,8 +295,14 @@
             "title": "Live: Body Of Rep. John Lewis Arrives In D.C. For Ceremony At U.S. Capitol | NBC News",
             "secondDuration": 10855,
             "group": "group_7"
+        },
+        {
+            "videoId": "LZ-9R1ElhLo",
+            "title": "NBC News Fact Checks Trump's False Election Fraud Claims As Battleground Vote Counts Continue",
+            "secondDuration": 674,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

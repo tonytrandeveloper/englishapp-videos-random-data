@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E093gSomC0I",
-            "title": "Tornado Damage Across Multiple States",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "BtEKedzuurQ",
             "title": "New Report Shows Overall Crime In The U.S. Decreased During 2020",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "RNC Highlights From Night 4 | NBC News",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "0XdxSbLfJzo",
+            "title": "Flooding Threats Continues In South And Midwest US | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

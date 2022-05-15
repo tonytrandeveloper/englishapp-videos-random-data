@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aFLZc9_rjjE",
-            "title": "Interview with David Plouffe",
-            "secondDuration": 675,
-            "group": "group_7"
-        },
-        {
             "videoId": "15xaC77FprQ",
             "title": "President Trump Remarks at First Inaugural Ball",
             "secondDuration": 206,
@@ -31,8 +25,14 @@
             "title": "Donald Trump: 'President Obama Was Born in the United States'",
             "secondDuration": 279,
             "group": "group_7"
+        },
+        {
+            "videoId": "sSHH_BnEtjM",
+            "title": "Biden doubles down on calling Putin a 'war criminal'",
+            "secondDuration": 612,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

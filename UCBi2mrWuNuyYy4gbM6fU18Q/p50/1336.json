@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "RMp8ujFYktM",
-            "title": "Snow Causes Thousands of Car Crashes",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "dkTNmbgOwnw",
             "title": "Rock Your Yard Sale",
             "secondDuration": 263,
@@ -301,8 +295,14 @@
             "title": "Rainn Wilson's Musical Side",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "0hlt_Em18Lg",
+            "title": "Investigation into sudden death of 27-year-old star MLB pitcher",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QvOg1EXKKBs",
-            "title": "Downed Malaysia Airlines Flight MH17:  The Disaster in the Sky",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "mMsg7nTr1NY",
             "title": "Final day of campaigning before South Carolina primary | WNT",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "Who won the 1st presidential debate?",
             "secondDuration": 746,
             "group": "group_7"
+        },
+        {
+            "videoId": "EPzhExsJ-0M",
+            "title": "Teens Land Plane on Golf Course After Engine Failure",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

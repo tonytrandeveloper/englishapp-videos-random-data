@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "kCO0rtMGsTs",
-            "title": "Russia Invasion Of Ukraine: Here's What Happened Overnight Thursday",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "hxUvXM_ZIx0",
             "title": "Coronavirus Surge In Montgomery, Alabama Reveals Health Inequalities | NBC Nightly News",
             "secondDuration": 129,
@@ -121,8 +115,14 @@
             "title": "Police Chase Armored Vehicle Stolen From Virginia Military Base | NBC Nightly News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "LP7d08-9lj0",
+            "title": "Protesters March In Houston, Paying Hometown Tribute To George Floyd | NBC News NOW",
+            "secondDuration": 681,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

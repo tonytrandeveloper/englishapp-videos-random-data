@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YUWNCaQHx00",
-            "title": "Coronavirus: New Technology Helps Keep Employees, Consumers Safe | NBC Nightly News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "ERk-3Zubebc",
             "title": "Biden To Impose Restrictions On Pollution To Protect Residents Of Color | NBC News",
             "secondDuration": 223,
@@ -31,8 +25,14 @@
             "title": "Hallie Jackson NOW - Jan. 20 | NBC News NOW",
             "secondDuration": 3286,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ep-Ir4ICpcI",
+            "title": "Massive Chemical Plant Explosion Forces Evacuations",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

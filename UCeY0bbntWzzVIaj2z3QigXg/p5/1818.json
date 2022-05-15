@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wBKu80H4LaE",
-            "title": "Tom Brokaw: If At First You Don't Succeed, Ask Barack Obama | NBC News",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "QtIKxqesxKI",
             "title": "How California Dock Workers Feel About The Trade War | NBC News Now",
             "secondDuration": 252,
@@ -31,8 +25,14 @@
             "title": "Newly Released Video May Help Recover $500 Million in Stolen Art | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "L1mwS39z1Tk",
+            "title": "Mourners Pay Tribute To lives Lost at Astroworld Festival with Flowers, Candles",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

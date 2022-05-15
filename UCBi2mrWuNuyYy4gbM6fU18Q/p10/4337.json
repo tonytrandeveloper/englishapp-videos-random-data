@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NNBioZM_ei8",
-            "title": "Saoirse Ronan: I'm Team Edward! Peter Jackson: Is that a soccer team?",
-            "secondDuration": 34,
-            "group": "group_7"
-        },
-        {
             "videoId": "eRc8lBN2w50",
             "title": "2 LA County sheriff’s deputies ambushed",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "One Student's Remarkable Accomplishments",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "w46a1voGahs",
+            "title": "Japan Devastated by Strong Earthquakes",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

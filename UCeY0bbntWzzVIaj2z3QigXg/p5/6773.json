@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hb1fiEvUaPg",
-            "title": "Congress Holds Hearing On Anti-Asian Discrimination | NBC Nightly News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "8lPdZQxtlag",
             "title": "Chrissy Teigen: \"I have a dream that...\"",
             "secondDuration": 14,
@@ -31,8 +25,14 @@
             "title": "Education Secretary Betsy DeVos: 'School Decision' To Report Undocumented Students | NBC News",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "iV7p5nllywM",
+            "title": "White House Holds Press Briefing | NBC News",
+            "secondDuration": 1695,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

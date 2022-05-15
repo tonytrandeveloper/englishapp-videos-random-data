@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xK4EzFH_aTw",
-            "title": "Tapes Expose Soldiers' Massacre",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "5EvtD6j58Yg",
             "title": "Maks Chmerkovskiy's Road to Mirror Ball Victory on 'Dancing With the Stars'",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "The Conversation: Baseball and Fatherhood",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "o9bR9tmPzjQ",
+            "title": "WEBCAST: ABC News Exclusive: Zimmerman Juror B-29",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

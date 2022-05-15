@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "2lWd_5otcNs",
-            "title": "‘Still hope’ on finding survivors in Surfside building rubble",
-            "secondDuration": 392,
-            "group": "group_7"
-        },
-        {
             "videoId": "y2uRTt0wycA",
             "title": "Man Builds Homemade Hover Bike| ABC News",
             "secondDuration": 183,
@@ -301,8 +295,14 @@
             "title": "Kasich Snubs Trump With Write-In Vote for McCain",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "zeiN_A-OSt8",
+            "title": "Lifesaving demonstration to safely escape a house fire l ABC News",
+            "secondDuration": 529,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

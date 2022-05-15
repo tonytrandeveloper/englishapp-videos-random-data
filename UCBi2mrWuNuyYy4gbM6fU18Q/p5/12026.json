@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9BxG6s-8qmQ",
-            "title": "New Orleans zoo introduces baby orangutan",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "RLmGMSIbN8w",
             "title": "Johnny Depp jokes about assassinating the president",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "Millions of kids head back to school amid COVID-19 fears",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "eC_4dZzOV5I",
+            "title": "Barber gets children excited to read",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

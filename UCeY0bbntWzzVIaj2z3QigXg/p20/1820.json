@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gvJ_7plWz7s",
-            "title": "Philadelphia Man Exonerated After Nearly Two Decades In Prison For Crime He Didn’t Commit",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "BawFHfpwhk8",
             "title": "White House Press Briefing - April 10, 2018 | NBC News",
             "secondDuration": 1114,
@@ -121,8 +115,14 @@
             "title": "Missouri Governor Eric Greitens Indicted For Invasion Of Privacy | NBC Nightly News",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "B9qi--dV6fE",
+            "title": "DOJ Launches Investigation Into Minneapolis Police Department | NBC Nightly News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

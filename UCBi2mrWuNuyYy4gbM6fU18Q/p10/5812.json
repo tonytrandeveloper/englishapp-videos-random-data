@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ni6stxODJAE",
-            "title": "Iran fired cruise missiles at Saudi oil facility l ABC News",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "JIcS_QOAhtU",
             "title": "Superintendent charged after lying to get care for a sick student",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "Presidential Candidates Debate Humanitarian Crisis in Aleppo | ABC News",
             "secondDuration": 669,
             "group": "group_7"
+        },
+        {
+            "videoId": "VTvY4yiaTh8",
+            "title": "Nor'easter brings whiteout conditions and thundersnow to Northeast",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

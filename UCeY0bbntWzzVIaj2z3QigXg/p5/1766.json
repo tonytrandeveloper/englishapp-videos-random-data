@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "P-LWNTggqs8",
-            "title": "Watch The Blood Moon Time-Lapse | NBC News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "YiqnyZalfxo",
             "title": "Presidents Putin And Xi Pledge To Stand Against 'External Forces' At Beijing Meeting",
             "secondDuration": 61,
@@ -31,8 +25,14 @@
             "title": "U.S. Soccer Champions Double Down: ‘Don't Want To Go To The White House’ | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "r2FeAUpCinA",
+            "title": "House Obtains New Evidence of Trump Pressing DOJ To Call Election 'Corrupt'",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

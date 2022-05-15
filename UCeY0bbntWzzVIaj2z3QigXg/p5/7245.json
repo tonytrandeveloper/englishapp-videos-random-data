@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EEfiyEQM3mU",
-            "title": "White House Press Briefing - November 27, 2017 | NBC News",
-            "secondDuration": 992,
-            "group": "group_7"
-        },
-        {
             "videoId": "m-2iSdUC6kU",
             "title": "White House: President Obama, Donald Trump Have Spoken Since Oval Office Meeting | NBC News",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Chinese Journalist Jailed After Covid Reporting",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "uKzt9SaafuA",
+            "title": "Looking Back At The Most Memorable DNC Speeches | NBC News NOW",
+            "secondDuration": 308,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

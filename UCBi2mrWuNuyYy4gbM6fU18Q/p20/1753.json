@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KFasRRxomjE",
-            "title": "All eyes on stock markets after worst week since 2008 l ABC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nl8CaK01DLY",
             "title": "ABC News Prime: Chauvin trial analysis; 3rd mass shooting in 3 weeks; Biden's first cabinet meeting",
             "secondDuration": 5268,
@@ -121,8 +115,14 @@
             "title": "Suspect in deadly swatting accident due in court",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "ysuHa4hagS0",
+            "title": "TV Chef Nigella Lawson on Fraud Trial: 'I Will Survive This'",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

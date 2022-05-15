@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mPuSFmRAL9I",
-            "title": "'This Week' Remembers George McGovern: Former Senator Passes Away at Age 90",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "YtCWOkadGTY",
             "title": "NYC Police Officer's Chivalrous Act Towards Homeless Man",
             "secondDuration": 103,
@@ -121,8 +115,14 @@
             "title": "North Carolina resident describes tree falling onto house",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "jiliMnZka9Q",
+            "title": "NYSE halts trading as stocks plummet on travel ban from Europe",
+            "secondDuration": 475,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nWFYvUENcas",
-            "title": "This Morning’s Top Headlines – Jan. 4 | Morning News NOW",
-            "secondDuration": 1531,
-            "group": "group_7"
-        },
-        {
             "videoId": "wRbItPozRAE",
             "title": "Fatal Collision: Four Killed After Duck Boat and Tour Bus Collide in Seattle | NBC Nightly News",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Blinken, Lavrov Agree That U.S. And Russia Could Work Together",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "8dolB8Ob4iw",
+            "title": "Is California Flattening The Coronavirus Curve? | NBC News NOW",
+            "secondDuration": 434,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

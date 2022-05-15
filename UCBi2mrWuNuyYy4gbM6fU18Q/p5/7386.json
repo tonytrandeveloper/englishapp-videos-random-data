@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "b2_cLMWzNxQ",
-            "title": "Monster Hurricane Patricia Nears Mexico",
-            "secondDuration": 306,
-            "group": "group_7"
-        },
-        {
             "videoId": "1dRWoQqY7y4",
             "title": "Military families face growing food insecurity",
             "secondDuration": 398,
@@ -31,8 +25,14 @@
             "title": "ISIS Fight | US to Send 200 Advisers to Iraq",
             "secondDuration": 23,
             "group": "group_7"
+        },
+        {
+            "videoId": "9PpZLgZUMOA",
+            "title": "Ball Girl at Dodger Stadium Saves Fan From Ball Traveling 108 MPH",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

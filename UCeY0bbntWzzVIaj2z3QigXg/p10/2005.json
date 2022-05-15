@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bLwUoYGU6sU",
-            "title": "Watch NBC News NOW Live - July 9",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "hjZOcPV7oLY",
             "title": "Inside Ford Automotive Factory Producing Medical Equipment To Fight COVID-19 | NBC News NOW",
             "secondDuration": 223,
@@ -61,8 +55,14 @@
             "title": "Stonewall Inn Riots Of 1969 | Flashback | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "fIqb5hoyfQ8",
+            "title": "Billionaire Eliminates Student Debt For Morehouse College Grads Of 2019 | NBC News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

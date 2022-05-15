@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NUjUOnArUrE",
-            "title": "LA Sheriff's Department Accidentally Releases a Suspected Murderer Awaiting Trial",
-            "secondDuration": 49,
-            "group": "group_7"
-        },
-        {
             "videoId": "a9hYAwKMZqI",
             "title": "A Special Visit With Wounded Warrior Dogs",
             "secondDuration": 290,
@@ -31,8 +25,14 @@
             "title": "President Joe Biden delivered a blunt message to both allies and adversaries | ABC News",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "6VrkWe8C0n0",
+            "title": "Ex-Trump adviser walks back explosive comments on Trump Jr.",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

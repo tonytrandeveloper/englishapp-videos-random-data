@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Yynow24_xK0",
-            "title": "U.S. Soldiers Mistakenly Raid Civilian Factory During Drill",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "MFwJrbZQjLI",
             "title": "Sen. Sheldon Whitehouse Has Made More Than 200 Speeches About Climate Change | NBC Nightly News",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "Gun Violence Took Their Children. This Baltimore Woman Shares The Burden With Them All. | NBC News",
             "secondDuration": 225,
             "group": "group_7"
+        },
+        {
+            "videoId": "tmEOPOwZ_Ys",
+            "title": "NXIVM Founder Keith Raniere Speaks Out From Prison Ahead Of Sentencing | NBC Nightly News",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

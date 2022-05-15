@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W8NkiGerjKs",
-            "title": "Live: NJ Gov. Phil Murphy Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 5199,
-            "group": "group_7"
-        },
-        {
             "videoId": "LakJRyezb60",
             "title": "Tony-Winner Ben Platt On Returning To Broadway One Day and All His Success By Age 27",
             "secondDuration": 533,
@@ -61,8 +55,14 @@
             "title": "The Best Memes From Biden’s Inauguration | NBC News NOW",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "31M_IEPV-UU",
+            "title": "Rebuilding Gaza Amid Peace Negotiations | NBC News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gjeDXEiVGbk",
-            "title": "COVID-19 cases rising in nearly half of US",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "Luy4hk_bXo8",
             "title": "Final Presidential Debate on Foreign Policy: Mitt Romney, President Obama to Address Iran",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "Queen Latifah: Learn to Love Yourself",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "6GWxgOOMg6Y",
+            "title": "Anna Kendrick Announces How ‘Pitch Perfect’ Fans Can Win Walk-On Role",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

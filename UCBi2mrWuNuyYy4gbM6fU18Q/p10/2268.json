@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aHk3zNaz1B8",
-            "title": "Jenni Rivera Dead: Singer Dies in Plane Crash",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "5MURcnmqgh0",
             "title": "Suspected shark attack reported off the coast of Cape Cod",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Fallout From Steele's Race Comments",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "nwwwqre28EQ",
+            "title": "Sean Penn’s COVID-19 testing mission",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

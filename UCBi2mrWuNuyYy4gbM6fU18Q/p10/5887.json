@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KCRIt47hpfE",
-            "title": "Nerves of Steel",
-            "secondDuration": 276,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y3_72kSnevM",
             "title": "Violence erupts at white nationalist rally in Charlottesville, Va.",
             "secondDuration": 208,
@@ -61,8 +55,14 @@
             "title": "Obama on Health Care: 'Open to New Ideas'",
             "secondDuration": 405,
             "group": "group_7"
+        },
+        {
+            "videoId": "T76954puOMQ",
+            "title": "Trump Full Speech at Boeing 787 Dreamliner Unveiling | ABC News",
+            "secondDuration": 3033,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

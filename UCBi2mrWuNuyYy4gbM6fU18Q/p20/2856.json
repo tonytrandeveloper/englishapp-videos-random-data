@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ROhEetzLT5w",
-            "title": "Restaurant Hosts “Magic Mike” Themed Brunch | ABC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "wM87KH18cjQ",
             "title": "Hackers Still Targeting Election Systems, FBI Director Warns",
             "secondDuration": 79,
@@ -121,8 +115,14 @@
             "title": "Biden meets with business leaders over bottlenecks | WNT",
             "secondDuration": 234,
             "group": "group_7"
+        },
+        {
+            "videoId": "VYGf4N_H_qo",
+            "title": "The Future of Self Driving Cars | Real Biz with Rebecca Jarvis | ABC News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-aN6i_wUelM",
-            "title": "Wall Street Sets Records As Dow Jones Hits 23,000 | NBC Nightly News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "i3fVogQbt-o",
             "title": "Wildfires Continue To Spread Across Southern California | NBC News",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Pennsylvania Democrat Explains Why He's Voting For Trump Again | NBC News",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "BzCrV5jOOSA",
+            "title": "Syrian Man Stuck In Kuala Lumpur Airport For More Than 150 Days | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

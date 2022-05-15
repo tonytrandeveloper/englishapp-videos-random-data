@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nD9cWJKB05U",
-            "title": "Lance Armstrong Breaks Down: Question Pushes Cyclist to Brink",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "fLeT_-ZfeAY",
             "title": "Arrests made in apparent assassination of Kim Jong Un's half brother",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Trump warns another shutdown could happen",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "B5F094yu380",
+            "title": "Trump cancels press conference at G20 as Michael Cohen asks for leniency",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

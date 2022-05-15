@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZDX9ewvqEio",
-            "title": "Obamas Observe a Moment of Silence",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "lGMRBnUqt3g",
             "title": "Trump expels 60 Russian diplomats from US",
             "secondDuration": 77,
@@ -31,8 +25,14 @@
             "title": "Armored-car robbery plot busted in dramatic highway takedown",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "AkVDYVnw4pw",
+            "title": "Are extended jobless benefits keeping Americans from returning to work?",
+            "secondDuration": 424,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

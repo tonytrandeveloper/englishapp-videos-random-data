@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AdbFWrJC7bg",
-            "title": "U.S. Postal Service Plans Holiday Shipping Price Hikes",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZuEtiLHA2w8",
             "title": "Hillary Clinton Shares Story Of 'Dreamer' Killed Serving In Iraq | NBC News",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "Zika, Lyme Drive Big Increase In Bug-Borne Disease In U.S. | NBC Nightly News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "dOvoKKuhI7U",
+            "title": "Record-Shattering Polar Vortex Cold Cripples Much Of The Nation | NBC Nightly News",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

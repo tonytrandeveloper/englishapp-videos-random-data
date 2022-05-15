@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZLjiHY3qMZc",
-            "title": "Watch live: President Trump makes announcement on E.U. trade",
-            "secondDuration": 2751,
-            "group": "group_7"
-        },
-        {
             "videoId": "aoGo8FX4DnY",
             "title": "President Donald Trump Mocks Sexual Assault Allegations Against Brett Kavanaugh | NBC News",
             "secondDuration": 245,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump On His Relationship With Vladimir Putin | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "wVD8k7jX-4s",
+            "title": "Watch Live: AG William Barr Testifies Before Senate Ahead Of Mueller Report Release | NBC News",
+            "secondDuration": 6672,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

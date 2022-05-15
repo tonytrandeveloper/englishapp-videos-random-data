@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E2Ct99OEWrA",
-            "title": "NYC doctors on COVID-19 this fall l ABC News",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "gMwCfk6I2vo",
             "title": "\"World News\" Portrait of a Candidate: Barack Obama Interview",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "St. Louis Airport Smashed by Tornado",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "CXNalSfww0I",
+            "title": "Academy Awards Announcing Major Changes",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

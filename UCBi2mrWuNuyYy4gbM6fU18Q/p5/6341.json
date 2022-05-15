@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0v6iA0ytpuo",
-            "title": "Baltimore highway shooter caught in high-speed chase",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "YS7KlHn_LxA",
             "title": "War in Iraq: Generals' Last Helicopter Ride",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Former inmate on solitary confinement: ‘Troubling to my soul’",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "N-N_KeowCaQ",
+            "title": "Former Lehigh University student allegedly poisoned black roommate",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

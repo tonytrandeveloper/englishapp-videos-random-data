@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MnjZj9oFXBQ",
-            "title": "Donald Trump one-on-one with George Stephanopoulos",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "C8jpMcWfZTA",
             "title": "'Hotel Rwanda' hero stands trial on terror-related charges",
             "secondDuration": 442,
@@ -61,8 +55,14 @@
             "title": "US soccer star Megan Rapinoe on staying focused for semifinal",
             "secondDuration": 317,
             "group": "group_7"
+        },
+        {
+            "videoId": "mWNLdxFrEMw",
+            "title": "Fires in Australia, penguins in China, floating Santas: World in Photos, Jan. 7",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

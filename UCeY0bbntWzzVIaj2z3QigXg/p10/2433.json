@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4FBuQU_mRzo",
-            "title": "Number Of COVID-19 Cases Likely Much Higher Than Tests Reveal | Meet The Press | NBC News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "U9Cv_PvfhhE",
             "title": "President Donald Trump: What's Happening To Brett Kavanaugh Is 'Totally Political' | NBC News",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "FEMA Chief Brock Long Fears 'Hurricane Amnesia' After Michael | NBC News",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "epSCX8L86UU",
+            "title": "Full Panel: Trump vs. Congress As President Promises To Fight Subpoenas | Meet The Press | NBC News",
+            "secondDuration": 481,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

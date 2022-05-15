@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mHEVaKMRhak",
-            "title": "Dems focus on health care in Barrett hearing, families share opposing views on ACA",
-            "secondDuration": 648,
-            "group": "group_7"
-        },
-        {
             "videoId": "OhvZzFVB4fM",
             "title": "Florida Boy Survives Alligator Attack With Only Scratches",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Mayor says Galveston dodged a 'big bullet'",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "jyqGuHwASiY",
+            "title": "Trump declares national emergency to build southern border wall",
+            "secondDuration": 377,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

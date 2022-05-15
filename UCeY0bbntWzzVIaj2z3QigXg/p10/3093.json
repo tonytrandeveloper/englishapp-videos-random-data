@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zLsDIYt8PGU",
-            "title": "Donald Trump's First Press Conference as President-Elect: Top Moments | NBC News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "2EeIjM1CTiE",
             "title": "Dayton Mass Shooting: Survivors Speak Out After Gunman Kills 9 Outside Ohio Bar | NBC Nightly News",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "This Couple Turned Their 'Gourmet By Mail' Idea Into An Indian Food Business | NBC Asian America",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "Mkv5irLqZhk",
+            "title": "Loretta Lynch Will Accept FBI Recommendations On Hillary Clinton Email Investigation | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

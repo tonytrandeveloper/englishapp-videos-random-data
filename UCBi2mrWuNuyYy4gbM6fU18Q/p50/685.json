@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "l30n7mE3AuQ",
-            "title": "Relief after guilty verdict in Ahmaud Arbery murder | GMA",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "KHv4B08tU8o",
             "title": "FAA, NTSB at Odds Over Hudson Crash",
             "secondDuration": 112,
@@ -301,8 +295,14 @@
             "title": "'Friends' Star Lisa Kudrow Sued For Nearly $2 Million",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z4BwYMNyJwE",
+            "title": "The history of Martin Luther King Jr. Day",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

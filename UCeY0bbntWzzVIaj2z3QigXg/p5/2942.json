@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "98ZCfvsJv1c",
-            "title": "Vladimir Putin: ‘The Main Task Is To Banish Militants’ From Idlib | NBC News",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "p4GXtevvBsg",
             "title": "A Robotics Set That Lets Kids Bring Their Lego Creations To Life | Mach | NBC News",
             "secondDuration": 82,
@@ -31,8 +25,14 @@
             "title": "New York AG Files Lawsuit To Dissolve NRA For Fraud | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "OirFgglL38w",
+            "title": "Donald Trump Postpones Pelosi’s Trip Abroad After She Calls To Delay His SOTUA | NBC Nightly News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SXepBWG3Hlo",
-            "title": "Bridge Collapse Kills Girl",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "QkUd8OtZZ90",
             "title": "WEBCAST: The Perfect Storm",
             "secondDuration": 197,
@@ -61,8 +55,14 @@
             "title": "Russia, Belarus conduct military drills amid Ukraine tensions I ABCNL",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "7cG5hJExWlY",
+            "title": "Diane Sawyer in the Gulf",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

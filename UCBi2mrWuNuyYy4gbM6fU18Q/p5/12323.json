@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s9L-r5D1zTc",
-            "title": "Chihuahua Runs From Police Across Bay Bridge",
-            "secondDuration": 38,
-            "group": "group_7"
-        },
-        {
             "videoId": "g4sVR73YZuo",
             "title": "Valerie Harper Goes to Capitol Hill",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "'Jeopardy!' announces Ken Jennings as 1st interim host l GMA",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "1-GuknfTdiQ",
+            "title": "Federal employees face missing paychecks amid shutdown",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

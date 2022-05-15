@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aEGEnbOndJk",
-            "title": "Feel-good Friday",
-            "secondDuration": 385,
-            "group": "group_7"
-        },
-        {
             "videoId": "xEkiyOyMjkQ",
             "title": "Second Presidential Debate Preview: Gov. Bob McDonnell: Romney's 'Warmth' Will Come Through",
             "secondDuration": 235,
@@ -61,8 +55,14 @@
             "title": "Johnson & Johnson ordered to pay $500M in opioid suit | ABC News",
             "secondDuration": 254,
             "group": "group_7"
+        },
+        {
+            "videoId": "bDO1nZDkjxg",
+            "title": "Key House Republican opposes health care bill",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

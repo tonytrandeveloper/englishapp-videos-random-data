@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y3PREy6rAXE",
-            "title": "House passes $2T relief package l ABC News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "xiXYyYxFlw4",
             "title": "Elizabeth Warren Campaigns Alongside Hillary Clinton",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Haircuts for Homeless: Celebrity Hairstylist Offers Free Cuts",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "JCb1uImewuk",
+            "title": "Analysis: A look into the FBI probe of Kavanaugh",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

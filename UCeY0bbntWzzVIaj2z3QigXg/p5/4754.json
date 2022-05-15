@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hxzHoIzW1_E",
-            "title": "Carly Fiorina On Being Donald Trump's VP | 360 Video | NBC News",
-            "secondDuration": 20,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qa6ADv-DW6c",
             "title": "LIVE: White House Holds Press Briefing | NBC News",
             "secondDuration": 2715,
@@ -31,8 +25,14 @@
             "title": "Four Former Police Officers Charged In Death Of Floyd Make Court Appearance | NBC Nightly News",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "1PKawLc0YuA",
+            "title": "Rod Blagojevich Holds Chicago Press Conference After Trump Pardon | NBC News (Live Stream Recording)",
+            "secondDuration": 3595,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "so5n6a-AHk0",
-            "title": "Governors In Coronavirus Hot Spots Urge Widespread Testing Before Reopening Economy | NBC",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "GA1qySuc3r8",
             "title": "Senator Corker Stands By Trump Criticisms After Charlottesville Response | Meet The Press | NBC News",
             "secondDuration": 130,
@@ -121,8 +115,14 @@
             "title": "Europe, Iran Attack President Donald Trump’s Iran Deal Withdrawal | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "CY-mhiUCPOk",
+            "title": "Watch: Republican National Convention Officially Nominates Trump | NBC News",
+            "secondDuration": 8837,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

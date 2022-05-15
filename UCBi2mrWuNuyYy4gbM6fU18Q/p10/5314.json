@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yftzZHHbtfg",
-            "title": "SpaceX Falcon 9 Rocket Crashes Into Drone Ship",
-            "secondDuration": 20,
-            "group": "group_7"
-        },
-        {
             "videoId": "6t1vE5YFlGk",
             "title": "Renewed calls for Justice Brett Kavanaugh to be impeached l ABC News",
             "secondDuration": 246,
@@ -61,8 +55,14 @@
             "title": "How a Song from Finding Nemo Helped Save These Teens' Lives",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "9Ug0C5G4fXw",
+            "title": "Osama bin Laden Killed 2011",
+            "secondDuration": 252,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

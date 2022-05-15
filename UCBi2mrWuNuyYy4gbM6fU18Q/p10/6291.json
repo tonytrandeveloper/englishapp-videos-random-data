@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-MHyGYrJsVE",
-            "title": "War in Ukraine: March 18, 2022",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "wYBehDBuF0o",
             "title": "Amazon: New headquarters to bring 25k jobs to each location",
             "secondDuration": 79,
@@ -61,8 +55,14 @@
             "title": "Taking on the world's greatest climate challenges | ABC News",
             "secondDuration": 362,
             "group": "group_7"
+        },
+        {
+            "videoId": "B7Y6ttPfYhY",
+            "title": "Heavy rain halts rescue operations after Haiti quake l WNT",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nUk2iHpugOM",
-            "title": "FRIDAY FUNNIES",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "dXp1THxLU3c",
             "title": "Biden hopes for COVID-19 relief bill compromise",
             "secondDuration": 237,
@@ -61,8 +55,14 @@
             "title": "Adele Recovers, Will Sing at Grammys",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "x7tyenuJQnk",
+            "title": "American Who Survived Brussels, Paris, & Boston Terror Attacks Speaks Out",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

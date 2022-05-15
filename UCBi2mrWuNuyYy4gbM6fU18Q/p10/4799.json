@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4LkXb9UvCOk",
-            "title": "Cairo, Egypt, Protests: Christians Under Attack",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "r8jMqg-NkhY",
             "title": "Trump Adviser Jeff Sessions Says Campaign 'Is Not Over'",
             "secondDuration": 493,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton Defends Her Health",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "_u5QO2ZENaY",
+            "title": "Joe Mangaiello Showcases Dance Moves In 'Magic Mike XXL'",
+            "secondDuration": 328,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

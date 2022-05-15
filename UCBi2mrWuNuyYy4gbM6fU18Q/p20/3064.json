@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VTH9hTderTY",
-            "title": "ABC News Prime: Progress made in pandemic; Heightened security at US Capitol; Papal visit to Iraq",
-            "secondDuration": 3579,
-            "group": "group_7"
-        },
-        {
             "videoId": "DTSSsSvNpj0",
             "title": "Earliest Flu Season in a Decade: 80 Percent of Country Reports Severe Symptoms",
             "secondDuration": 179,
@@ -121,8 +115,14 @@
             "title": "Asa Hutchinson 'This Week' Interview: NRA School Safety Plan, Other Efforts to Keep Children Safe",
             "secondDuration": 564,
             "group": "group_7"
+        },
+        {
+            "videoId": "PPX2fQxTcGs",
+            "title": "Extreme Weather: Teenager Swept Into Storm Drain After Flooding in Midwest",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

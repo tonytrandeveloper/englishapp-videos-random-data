@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s9L-r5D1zTc",
-            "title": "Chihuahua Runs From Police Across Bay Bridge",
-            "secondDuration": 38,
-            "group": "group_7"
-        },
-        {
             "videoId": "g4sVR73YZuo",
             "title": "Valerie Harper Goes to Capitol Hill",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Backlash Over President Obama's New Plan on Gun Control",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "TpWhoGfZa_E",
+            "title": "Late-Night Comics Joke About Latest News Headlines | ABC News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

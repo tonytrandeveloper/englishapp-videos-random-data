@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oJOoOW768BQ",
-            "title": "Wireless Device Built to See Through Walls | NerdWatch | NBC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "a9hmFcMXqFk",
             "title": "New Questions Over President Donald Trump’s Picks For Ambassadorships | NBC Nightly News",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Walmart Phasing Out Greeters, Sparking Fears Among Workers With Disabilities | NBC Nightly News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wm4vaVRNT64",
+            "title": "House Democrats Seek Vote To Create An Independent Commission | NBC News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

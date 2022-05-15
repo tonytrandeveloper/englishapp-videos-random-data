@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HAjC62wi-9E",
-            "title": "George Zimmerman's Wife, Shellie, Arrested on Perjury Charge",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZNMHy-iAWuY",
             "title": "Sanders and Warren spar ahead of debate, Astros cheating scandal and more | ABC News",
             "secondDuration": 1391,
@@ -61,8 +55,14 @@
             "title": "Deadly Flooding Does Damage Across Texas",
             "secondDuration": 306,
             "group": "group_7"
+        },
+        {
+            "videoId": "btahnJ5NNc0",
+            "title": "Vigil held for woman pushed in front of NYC train",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

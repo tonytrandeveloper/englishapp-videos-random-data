@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bfWX0ARAqxA",
-            "title": "Dr. John Torres Explains His 'Guide To Surviving Everything' | NBC News NOW",
-            "secondDuration": 373,
-            "group": "group_7"
-        },
-        {
             "videoId": "FirSjLcE8q8",
             "title": "President Obama Lays Wreath At Tomb Of The Unknown For Final Time As President | NBC News",
             "secondDuration": 147,
@@ -121,8 +115,14 @@
             "title": "British PM Theresa May: ‘Highly Likely’ Russia Behind Poisoning Of Ex-Spy | NBC Nightly News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "TX0GZHrj-zc",
+            "title": "Suez Canal Blockage Could Impact Prices, Shipping On Range Of Products | NBC News NOW",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

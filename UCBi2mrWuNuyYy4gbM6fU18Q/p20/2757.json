@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2KN_9CEVHSc",
-            "title": "Donald Trump Addresses GOP Debate Strategies and His Competitors",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "G7qBaM-v18A",
             "title": "New Holiday Food Flavors Around the Corner: Christmas Flavored Pringles",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "Special counsel says Paul Manafort broke cooperation deal",
             "secondDuration": 270,
             "group": "group_7"
+        },
+        {
+            "videoId": "ViSk0wZqyzw",
+            "title": "Simon Cowell to Leave 'American Idol'",
+            "secondDuration": 357,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

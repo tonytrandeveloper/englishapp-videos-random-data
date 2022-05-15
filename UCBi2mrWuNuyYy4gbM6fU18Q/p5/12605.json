@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MtvPB-Roloo",
-            "title": "19-year-old trying to break record flying solo around the world l ABC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "HI3yTMYf5Bw",
             "title": "Winter Blast Could Impact States Across America",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Consumer prices for everyday items rise l GMA",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "X4PSpXyY_Q8",
+            "title": "Top Line: Possible 2012 GOP Contender?",
+            "secondDuration": 629,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

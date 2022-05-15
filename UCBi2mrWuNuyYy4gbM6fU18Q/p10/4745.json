@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MTB3M4V4VaA",
-            "title": "US marks 15,000 COVID-19 deaths in a week",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "UPj6yk2URuQ",
             "title": "Tornado Engulfed by Fire Caught on Tape | Good Morning America | ABC News",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "2013 NRA Convention: 'Stand and Fight'",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "2GPEmniLL2c",
+            "title": "5 days from critical Georgia Senate runoff",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "P0LnHtiuL2c",
-            "title": "Afghans Facing Hunger Crisis After Taliban Takeover",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "jr4_JmksFhU",
             "title": "Senator Orrin Hatch Against Bill To Protect Robert Mueller But Warns Of Impeachment Risk | NBC News",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "UFC Star Conor McGregor Arrested And Charged With Assault, Criminal Mischief | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hb2yDoIKmFs",
+            "title": "FDA Expected To Give Pfizer Vaccine Full Approval",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

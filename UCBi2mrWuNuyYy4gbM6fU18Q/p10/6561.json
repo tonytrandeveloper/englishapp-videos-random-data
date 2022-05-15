@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m6L8rLi7kHU",
-            "title": "Ivanka Trump's brand in the spotlight over reported new trademarks",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "5LJBQeAp9k4",
             "title": "Father Confesses to Kidnapping His Son 14 Years Ago",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Alleged Craigslist Killer Commits Suicide",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "Pmsvd9kcW40",
+            "title": "The White House remains silent over staffer's disparaging comments about McCain's health",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

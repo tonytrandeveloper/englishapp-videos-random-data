@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Xlj7QlCOzdA",
-            "title": "President Donald Trump Speaks On Tax Cuts From White House | NBC News",
-            "secondDuration": 1678,
-            "group": "group_7"
-        },
-        {
             "videoId": "FEUsYAVIgqU",
             "title": "Jeff Sessions Denies Having Meeting with Russian Envoy at D.C. Hotel | NBC News",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Military Trucks Block Roads To U.S. Capitol In Stepped Up Security Measures Ahead Of Inauguration",
             "secondDuration": 232,
             "group": "group_7"
+        },
+        {
+            "videoId": "8qyDZQh1UR4",
+            "title": "Ryan Lochte, Three Other U.S. Swimmers Robbed At Gunpoint (Exclusive) | NBC News",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

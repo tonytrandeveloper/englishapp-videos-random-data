@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "W1gMzL0NPHQ",
-            "title": "Pope Francis Falls Down Before Mass in Poland",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "s4j72I9d6vw",
             "title": "New Year's Eve Times Square Celebration to Feature Justin Bieber, Lady Gaga, LMFAO",
             "secondDuration": 318,
@@ -31,8 +25,14 @@
             "title": "Five Including A Pregnant Woman Murdered in Alabama",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "HmsCBOT1bZQ",
+            "title": "In the Kitchen with Sunny Hostin",
+            "secondDuration": 1873,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

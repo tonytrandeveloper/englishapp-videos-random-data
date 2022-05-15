@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nSIm2rUPGn4",
-            "title": "Honoring the people keeping history alive",
-            "secondDuration": 327,
-            "group": "group_7"
-        },
-        {
             "videoId": "h2nNnmI6Axk",
             "title": "Weekend Window: Clayoquot Sound",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Weekend Window: Cedar Breaks",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "C_95XCrvz3s",
+            "title": "Twister Tears Through Mississippi",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

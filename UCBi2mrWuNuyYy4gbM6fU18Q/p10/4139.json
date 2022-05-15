@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BFDXmEnZbFg",
-            "title": "Trump: Mitt Romney ‘Irrelevant’, ‘Choke Artist’",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "2jZoy8B6YfU",
             "title": "Oregon governor: ‘We are taking action’ on climate change",
             "secondDuration": 359,
@@ -61,8 +55,14 @@
             "title": "Post-Mortem: Air Force One Photo Op",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "z0m4-ngZrSw",
+            "title": "People of the Decade",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

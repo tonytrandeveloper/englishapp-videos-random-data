@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wqteqNeUSmI",
-            "title": "NBC Nightly News Broadcast (Full) - June 24th, 2021",
-            "secondDuration": 1276,
-            "group": "group_7"
-        },
-        {
             "videoId": "7_4lMIOg2KI",
             "title": "CIA Chief Mike Pompeo: WikiLeaks Is A 'Hostile' Intelligence Service | NBC News",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Supreme Court Rules Existing Law Forbids Discrimination Based On Sexual Orientation | NBC News",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "btQ_l-S3T0c",
+            "title": "Felicity Huffman, Loughlin Among The 50 Charged In College Exam Cheating Scandal | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

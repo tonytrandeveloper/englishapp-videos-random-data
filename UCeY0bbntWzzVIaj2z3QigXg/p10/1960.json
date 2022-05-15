@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-C31LliYvos",
-            "title": "Morning News NOW Full Broadcast - November 18",
-            "secondDuration": 3118,
-            "group": "group_7"
-        },
-        {
             "videoId": "B3Z2p9VzgXM",
             "title": "Dr. Fauci, CDC Dir. Walensky Testify at Senate Hearing On Next Steps in Covid Response",
             "secondDuration": 75,
@@ -61,8 +55,14 @@
             "title": "Angela Merkel On President Trump: We Were Elected ‘To Find A Compromise’ | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "azuaVXcYJ84",
+            "title": "Trump Voters Review Presidency: ‘He’s Embarrassed Me By His Behavior’ | Meet The Press | NBC News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

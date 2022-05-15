@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PtVoyUPy1Qo",
-            "title": "Hurricane Danielle Stirs Things Up",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "6uNYXOcGGME",
             "title": "Hillary Clinton, Bernie Sanders Make Final New York Push",
             "secondDuration": 142,
@@ -121,8 +115,14 @@
             "title": "Lindsay Lohan Arrested in New York City: New Video 'Helps' Actress",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "iDc3jPkaR9E",
+            "title": "The List: Who Killed JonBenét?l 20/20 l PART 5",
+            "secondDuration": 456,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

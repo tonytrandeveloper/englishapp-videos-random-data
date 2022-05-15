@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cMheOtOPI-c",
-            "title": "Typhoon Hato Slams Hong Kong With 95 MPH Winds | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "OBFUfQzeGRs",
             "title": "Full Panel: Robert Mueller Writes That Roger Stone Remains A Convicted Felon | Meet The Press",
             "secondDuration": 516,
@@ -61,8 +55,14 @@
             "title": "White Nationalist Richard Spencer Reacts To Being Kicked Out Of CPAC | NBC News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "SP4hEnvKLlc",
+            "title": "Paul Ryan: 'Count Me Out' Of 2016 Race | NBC News",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

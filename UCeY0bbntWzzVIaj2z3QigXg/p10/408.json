@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ViK1W7suBBA",
-            "title": "Presidential Transition Meetings Through The Years | NBC News NOW",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "LA5Mzmgr6ws",
             "title": "Facebook Denies Allowing 150 Companies To Misuse Personal Data | NBC Nightly News",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Far-Right Group ‘QAnon’ Pushing False Conspiracy Theories | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "0OHC4z-eiZU",
+            "title": "Full Fauci: Most Covid Deaths In The U.S. Are Now 'Avoidable & Preventable'",
+            "secondDuration": 971,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

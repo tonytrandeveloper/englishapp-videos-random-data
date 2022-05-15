@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yBrcHuGrmYM",
-            "title": "Joe Biden To Announce VP Choice First Week Of August | NBC News NOW",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "zempfCY2FFM",
             "title": "Firefighter Saves American Flag From Massachusetts House Fire | NBC Nightly News",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "Heckler: Marco 'Rubio Stole My Girlfriend' | NBC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "VNbYvTRSv0A",
+            "title": "Vice President Mike Pence: 'Spurious Attacks By Political Leaders On ICE Must Stop' | NBC News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

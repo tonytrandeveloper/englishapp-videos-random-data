@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bXsdpSHskMo",
-            "title": "Bobby Flay: \"I have a dream that...\"",
-            "secondDuration": 9,
-            "group": "group_7"
-        },
-        {
             "videoId": "ItkL_5VfQRM",
             "title": "How May Jobs Report Affects Economic Recovery, Infrastructure Deal",
             "secondDuration": 210,
@@ -31,8 +25,14 @@
             "title": "Hear Why Black Millennials Are Key To The Democratic Nomination | NBC News Now",
             "secondDuration": 255,
             "group": "group_7"
+        },
+        {
+            "videoId": "EKak2ECFWCY",
+            "title": "Fauci: ‘Planning On Eight Months’ For Covid Booster",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

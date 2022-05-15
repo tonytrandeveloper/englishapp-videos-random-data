@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PFNJeS_m16o",
-            "title": "Gas Prices in America Expected to Plunge After Reaching Record Highs",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "DoRusWbtO7A",
             "title": "Deadly meningitis trial: Jury deliberating in tainted medicine case",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "Presidential fight for Florida: The Latino vote",
             "secondDuration": 236,
             "group": "group_7"
+        },
+        {
+            "videoId": "02opbu7tcHw",
+            "title": "Obama on Being a One-Term President, Solyndra",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

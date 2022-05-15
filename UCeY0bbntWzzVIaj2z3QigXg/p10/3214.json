@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DpnBEhxnjIg",
-            "title": "This Morning’s Top Headlines – Nov. 5 | Morning News NOW",
-            "secondDuration": 1091,
-            "group": "group_7"
-        },
-        {
             "videoId": "LsVvPonEq0U",
             "title": "Trump Signs Coronavirus Relief Bill To Help Small Businesses And Hospitals | NBC News NOW",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "Biden And Obama Deliver Remarks On The Affordable Care Act | NBC News",
             "secondDuration": 2374,
             "group": "group_7"
+        },
+        {
+            "videoId": "du_QaKYmd7I",
+            "title": "Teens Transform Liquor Store Into Food Market For Community In Need | NBC Nightly News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

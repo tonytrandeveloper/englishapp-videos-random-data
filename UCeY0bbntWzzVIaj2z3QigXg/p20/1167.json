@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lkUTvoqkAXQ",
-            "title": "CDC Dir. Walensky 'Cautiously Optimistic' As Omicron Cases Trend Downward",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "05YHmWJV44o",
             "title": "Investigators Searching For Clues In Pennsylvania Shooting Rampage | NBC Nightly News",
             "secondDuration": 85,
@@ -121,8 +115,14 @@
             "title": "Cuomo: NYC Restaurants Opening Indoor Dining To 25 Percent Friday Before Valentines Day | NBC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "y43SiJtAWNE",
+            "title": "Trump Holds Campaign Rally In Nevada  | NBC News",
+            "secondDuration": 5674,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

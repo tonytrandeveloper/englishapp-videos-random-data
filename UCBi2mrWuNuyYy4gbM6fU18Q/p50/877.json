@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "KhIb4k-YfOE",
-            "title": "Tornado outbreaks in the south | ABC News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "LGkcv98cWMc",
             "title": "Gold Star widow speaks about phone call with Trump",
             "secondDuration": 448,
@@ -301,8 +295,14 @@
             "title": "'Zero Dark Thirty' Screenwriter Responds to Film's Controversy",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "eVOCSeytUxM",
+            "title": "Aurora, Colorado Gunman Kills Three in Hostage Standoff",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

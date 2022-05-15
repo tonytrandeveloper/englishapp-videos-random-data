@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XlVgyVSBWxE",
-            "title": "Miami Beach Fire Station 2 Is A Lifeline During Hurricane Irma | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "GXTcuSJnJIY",
             "title": "CIA Intelligence Warned Of Rapid Afghanistan Collapse",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "NBC News NOW Full Broadcast - June 3rd, 2021",
             "secondDuration": 2978,
             "group": "group_7"
+        },
+        {
+            "videoId": "pa7NRznlfhw",
+            "title": "Live: Public Viewing For George Floyd In Houston | NBC News",
+            "secondDuration": 23368,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eOz-eASD4W0",
-            "title": "Young Latinos In The White House: Leah Katz-Hernandez | NBC News",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ub8go1dOaXM",
             "title": "IRS Warns Of New Email Phishing Tax Scam | NBC Nightly News",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "How Couple Saved Manchester Bomb Victim: ‘A Little Girl Staggering Out Of the Smoke' | NBC News",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "QgzwmBEaCwQ",
+            "title": "Tulsa Massacre’s Generational Impact On Black Residents",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

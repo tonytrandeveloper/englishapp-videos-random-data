@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OVDYMnuyUXY",
-            "title": "Las Vegas shooter's former co-worker speaks out",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "MJ3dkX-btmk",
             "title": "Tom Daschle on Health-Care Reform",
             "secondDuration": 218,
@@ -31,8 +25,14 @@
             "title": "'Mansome': Men Get Manicures, Murses",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "u1kuFsammyA",
+            "title": "Paramedic charged with vaccine scam in Florida | WNT",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

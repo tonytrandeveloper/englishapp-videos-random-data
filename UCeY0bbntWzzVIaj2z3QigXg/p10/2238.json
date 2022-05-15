@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "csnxVorNPXY",
-            "title": "Parkland Mass Shooting Suspect Allegedly Attacks Jail Guard | NBC Nightly News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "10WR4x8D1OY",
             "title": "Powerful Earthquake Strikes The Caribbean | NBC Nightly News",
             "secondDuration": 72,
@@ -61,8 +55,14 @@
             "title": "Driver Flees Scene After Plunging Pickup Into Backyard Pool | NBC News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "_ilre1DJNxw",
+            "title": "Speed Of Some Mail Delivery Would Decrease Under Proposal | NBC Nightly News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

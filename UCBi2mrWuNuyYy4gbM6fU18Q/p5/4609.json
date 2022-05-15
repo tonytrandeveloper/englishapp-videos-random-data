@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kYwiVn0wh1U",
-            "title": "James Holmes' Notebook Discovered?",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "3KsPz9r1bPA",
             "title": "'GMA' Hot List: Laila Ali Remembers Her Father",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "Obama's DNC Speech: What to Expect",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "HFDS7Mbst1o",
+            "title": "VA secretary isn't leaving quietly after Trump tweet",
+            "secondDuration": 334,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

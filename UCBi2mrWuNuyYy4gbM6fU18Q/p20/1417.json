@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ArDc27ZjNaQ",
-            "title": "Joe Biden's first state of the union addressed the war in Ukraine, COVID and the economy | ABCNL",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "8GNP7a1Fb3k",
             "title": "Hillary Clinton Campaigns With Joe Biden",
             "secondDuration": 150,
@@ -121,8 +115,14 @@
             "title": "2012 Presidential Election Newsroom Tour",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "EU7Z9FuSzaY",
+            "title": "Donald Trump Picks Exxon CEO Rex Tillerson to Be Secretary of State",
+            "secondDuration": 274,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

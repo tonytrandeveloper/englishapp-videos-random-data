@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "y43SiJtAWNE",
-            "title": "Trump Holds Campaign Rally In Nevada  | NBC News",
-            "secondDuration": 5674,
-            "group": "group_7"
-        },
-        {
             "videoId": "GG1LrhVnrZM",
             "title": "The Hunt For ISIS: In The Desert With Iraq's Fighter Pilots | NBC News",
             "secondDuration": 193,
@@ -61,8 +55,14 @@
             "title": "Ferguson Protests Explained | Long Story Short | NBC News",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "KVgRpqpxIuY",
+            "title": "Ken Buck Grills Jonathan Turley On Past Presidents' Abuse Of Power While In Office | NBC News",
+            "secondDuration": 292,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wJ-3xzNQXr8",
-            "title": "LIVE: Biden Delivers Remarks on March Jobs Report | NBC News",
-            "secondDuration": 496,
-            "group": "group_7"
-        },
-        {
             "videoId": "zQOEL-UB1Ew",
             "title": "Ukrainian President: ‘Russia Will Pay A Huge Price If They Attack Us’ | NBC Nightly News",
             "secondDuration": 91,
@@ -121,8 +115,14 @@
             "title": "Reince Priebus On Russia Hacking: There's 'No Conclusive Report' | Meet The Press | NBC News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "PX2Oxne-miI",
+            "title": "Morning News NOW Full Broadcast - Dec. 1",
+            "secondDuration": 2905,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

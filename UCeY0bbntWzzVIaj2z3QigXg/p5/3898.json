@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hl1IZ_mnJN0",
-            "title": "Lester Holt Reports ‘Across America’ Next Week | NBC Nightly News",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "oleEoXi21WY",
             "title": "Secretary Of Defense James Mattis Offers ‘Good News’ On North Korea Summit | NBC News",
             "secondDuration": 73,
@@ -31,8 +25,14 @@
             "title": "Jimmy Carter’s Cancer-Free Announcement Shows Power of New Drugs | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "rSt4kwJiJ14",
+            "title": "The Defining Images That Moved Us In 2018 | NBC News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

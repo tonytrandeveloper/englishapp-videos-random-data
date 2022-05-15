@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0VQqKQAbXz8",
-            "title": "People Text And Drive Despite Knowing Dangers | 3rd Block | NBC News",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "yeGrFmDpLfc",
             "title": "President Donald Trump Calls For A ‘Great Rebuilding Of America’ In Infrastructure Speech | NBC News",
             "secondDuration": 86,
@@ -31,8 +25,14 @@
             "title": "Exclusive: Biden Speaks on Potential SCOTUS Pick on Nightly News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "K8YEDXrElr4",
+            "title": "Arizona GOP Recounts 2020 Ballots Behind Closed Doors | NBC News NOW",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

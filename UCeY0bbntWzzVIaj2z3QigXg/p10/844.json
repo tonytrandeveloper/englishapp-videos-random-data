@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DZfZ6a8-GyE",
-            "title": "A Beginner’s Guide to Gender-Neutral Restrooms | Queer 2.0 | NBC Out",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "_vwOd5WbEtk",
             "title": "The Secret Behind Washington’s New 'Grocery Tax' Ban | NBC News Signal",
             "secondDuration": 185,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump: Syria Chemical Attack Is 'An Affront To Humanity' | NBC Nightly News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "YbvIeHC3ueU",
+            "title": "Donald Trump On Tim Kaine, Muslim Ban, Taxes, Roger Ailes (Full) | Meet The Press | NBC News",
+            "secondDuration": 1148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

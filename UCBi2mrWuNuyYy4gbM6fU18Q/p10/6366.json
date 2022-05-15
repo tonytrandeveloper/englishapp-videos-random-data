@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Fyz2U1aPVU0",
-            "title": "Al Smith Dinner 2012: Video Shows Barack Obama, Mitt Romney Cracking Jokes",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "XGYHLUYAojw",
             "title": "Race Against Time to Save a Toddler After an Amber Alert Is Issued",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "A closer look at the Americans who stormed the Capitol | Nightline",
             "secondDuration": 564,
             "group": "group_7"
+        },
+        {
+            "videoId": "55FjYu7XLYE",
+            "title": "Trump adviser says he can't guarantee middle class families won't see tax increase under new plan",
+            "secondDuration": 357,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "h242c18N1Sg",
-            "title": "USS John McCain Collision: Families Of Missing Sailors Speak Out | NBC Nightly News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "KeiPbv-EL6Y",
             "title": "SCOTUS Nominee Neil Gorsuch Pressed About Legality Of President Trump’s Travel Ban | NBC News",
             "secondDuration": 199,
@@ -301,8 +295,14 @@
             "title": "New Study Raises Hopes Of COVID-19 Survivor Immunity | NBC Nightly News",
             "secondDuration": 728,
             "group": "group_7"
+        },
+        {
+            "videoId": "T6xFxPNGuMo",
+            "title": "Joe Biden And Kamala Harris Hold First Event As Running Mates | NBC Nightly News",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

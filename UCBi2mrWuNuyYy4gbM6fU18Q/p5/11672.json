@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9O3Gdfb8utQ",
-            "title": "Eiffel Tower fireworks mark Bastille Day 2017 in Paris, France",
-            "secondDuration": 2245,
-            "group": "group_7"
-        },
-        {
             "videoId": "8VKAPB7xGmE",
             "title": "Alabama tornado, protests in Moscow, space bubble concert: Week in Photos, Jan. 29",
             "secondDuration": 180,
@@ -31,8 +25,14 @@
             "title": "British prime minister responds to London Underground terror attack",
             "secondDuration": 219,
             "group": "group_7"
+        },
+        {
+            "videoId": "oWsVRJaxFmc",
+            "title": "Super Bowl Sunday: Countdown to the Big Game",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Dv6y9eZ2LLk",
-            "title": "How the Clinton Campaign Won in the South",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "BskHiPoaI0E",
             "title": "Extreme Weather: 8 Tornadoes Reportedly Hit Missouri, Southern Iowa",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "New Jan. 6 revelations",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "i-F9J_mE50g",
+            "title": "Terror Alert",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

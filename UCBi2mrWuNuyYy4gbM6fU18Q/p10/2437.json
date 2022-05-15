@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0dWOZEVskvA",
-            "title": "The Palin Zone",
-            "secondDuration": 442,
-            "group": "group_7"
-        },
-        {
             "videoId": "T8y9kAJlAL8",
             "title": "Fed signals rate hikes coming 'soon' amid inflation concerns",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Tammy Baldwin on Wisconsin Budget Protests: 'People Want to be Heard' 2/18/2011",
             "secondDuration": 482,
             "group": "group_7"
+        },
+        {
+            "videoId": "g_5blBm_Y1s",
+            "title": "Inside President Obama's Secret White House Party",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

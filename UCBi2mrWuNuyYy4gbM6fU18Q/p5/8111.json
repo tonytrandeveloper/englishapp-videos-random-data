@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hTOX1l4UEtE",
-            "title": "Robert Redford Interview: \"The Conspirator\"",
-            "secondDuration": 328,
-            "group": "group_7"
-        },
-        {
             "videoId": "DDRaXdDxZOY",
             "title": "Suicide Pilot's Daughter: Dad's a Hero",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "Vice President Pence defends massive campaign rallies: 'We're in an election year'",
             "secondDuration": 883,
             "group": "group_7"
+        },
+        {
+            "videoId": "Er2tIOmMxQo",
+            "title": "Hurricane Dorian threatens Florida as Category 4 l ABC News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7R9fXVq_YPo",
-            "title": "West Virginia police seek escaped inmate",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z7Xuqdb20Ow",
             "title": "Team USA wins first medals at winter Olympics",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "GMA 40: Best Livestream Moments, Bloopers, and Performances",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "TRLuq3YGJXA",
+            "title": "Afghan translators fear Taliban’s return as they seek refuge in US",
+            "secondDuration": 341,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

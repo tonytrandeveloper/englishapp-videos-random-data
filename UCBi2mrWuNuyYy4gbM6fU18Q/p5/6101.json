@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "okE6aH-H2E4",
-            "title": "The Devil’s Triangle l 20/20 l PART 1",
-            "secondDuration": 466,
-            "group": "group_7"
-        },
-        {
             "videoId": "1P2RgyIQxWQ",
             "title": "Florida Senate Race",
             "secondDuration": 619,
@@ -31,8 +25,14 @@
             "title": "Hidden Life of the Orlando Shooter",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "fdFiip-UiaU",
+            "title": "OLD NEWS: 30th Anniversary of Cherry Coke",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

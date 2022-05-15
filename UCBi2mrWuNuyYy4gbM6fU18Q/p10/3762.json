@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zThFqgbmKkQ",
-            "title": "Baltimore Curfew in Effect After Nearly 100 Officers Injured",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "Iq-DHeKGkj0",
             "title": "Tracking killer whales off the coast of Norway",
             "secondDuration": 464,
@@ -61,8 +55,14 @@
             "title": "Teen Arrested for Impersonating a Doctor | EXCLUSIVE INTERVIEW",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "ewyVd2CBkQU",
+            "title": "Chadwick Boseman’s battle with colon cancer",
+            "secondDuration": 380,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

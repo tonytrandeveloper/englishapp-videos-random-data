@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GUIu0YC-Q5k",
-            "title": "By the Numbers: Colon cancer screenings should begin at age 45",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "SGjHMJsdcMA",
             "title": "Hurricane Zeta racing toward Gulf Coast",
             "secondDuration": 236,
@@ -61,8 +55,14 @@
             "title": "Tablet Talk: Steve Jobs' Big Day",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "9TXBSgLrS3Q",
+            "title": "Jussie Smollett prosecutor speaks after 'Empire' star's hearing",
+            "secondDuration": 1281,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6lkY_mGfMyQ",
-            "title": "FBI’s New Strategy to Hunt Down Suspected Homegrown Terrorists",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "fXjMK89y75I",
             "title": "Boeing 737 passenger jet crashes off Indonesia",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "JLo Fiat Commercial Body Double",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "NC7KkzgZYo4",
+            "title": "Madonna holds Impromptu Concert in Paris | ABC News",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

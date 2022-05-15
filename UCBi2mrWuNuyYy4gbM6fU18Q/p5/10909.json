@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WjekJPvQW6Q",
-            "title": "Whitney Houston and 'The Bodyguard'",
-            "secondDuration": 492,
-            "group": "group_7"
-        },
-        {
             "videoId": "gEhVBDAhZxI",
             "title": "Rising from the ruins of Hurricane Harvey",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "Obese Crash Test Dummies",
             "secondDuration": 365,
             "group": "group_7"
+        },
+        {
+            "videoId": "IeY9i3EhW6M",
+            "title": "Revenge Porn Site Owner Convicted of Extortion",
+            "secondDuration": 408,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

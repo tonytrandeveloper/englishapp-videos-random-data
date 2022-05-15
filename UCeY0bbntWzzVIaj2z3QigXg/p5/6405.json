@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pMBSEuPHfXk",
-            "title": "D.C. Police Department Faces Lawsuit From 10 Black Female Officers",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "BsE25zTUEZM",
             "title": "Helicopter In Kobe Bryant Crash Lacked Instrument Flight Certification | NBC Nightly News",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Coming up on Meet the Press - End of Stop and Frisk?",
             "secondDuration": 16,
             "group": "group_7"
+        },
+        {
+            "videoId": "ot8r6kyDB_M",
+            "title": "Students Return To Marjory Stoneman Douglas High School Since School Shooting | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

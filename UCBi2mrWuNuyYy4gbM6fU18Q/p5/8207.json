@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IC07eDWe1OU",
-            "title": "Massive winter storms heads into the Northeast",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "6dzjVsKmaNw",
             "title": "Apple iPhone 7 Announcement",
             "secondDuration": 60,
@@ -31,8 +25,14 @@
             "title": "SNL Season Premiere Highlights - Hillary Sings, New Trump Debuts",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "nnK__XXsDws",
+            "title": "North Korea launches another intercontinental ballistic missile",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GdYqAv8w2_E",
-            "title": "Widow of D.C. Metropolitan Police Officer Speaks Out",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "zKUU7serUXk",
             "title": "Mental Health Message From Family Of ER Doctor Who Died By Suicide | NBC Nightly News",
             "secondDuration": 164,
@@ -121,8 +115,14 @@
             "title": "This Flight Attendant Has Been On The Job For 60 Years | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "oNaPS0PaBHY",
+            "title": "Senate Votes To Advance Bipartisan Infrastructure Bill",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

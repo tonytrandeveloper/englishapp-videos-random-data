@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4_1FLr2Koko",
-            "title": "John McAfee Starts Blog While Still in Hiding",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "XFem1lV2Pq0",
             "title": "Top Trump aide expected to testify in Russia probe",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "David Blaine Zapped With One Million Volts of Electricity",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "WrzGsXdtUq8",
+            "title": "Cruise Ship Passenger Details Conditions",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

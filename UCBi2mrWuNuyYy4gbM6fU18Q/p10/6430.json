@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lpJRPH8Vo60",
-            "title": "10-Year Anniversary of the US Invasion of Iraq: Bob Woodruff Talks to War Vets",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "W0nUPyS3P1Q",
             "title": "Alex Trebek says he's in 'near remission' after cancer treatment",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Footage Appears to Show Cars Later Involved in Road Rage Incident",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "JoHbeyGw3GA",
+            "title": "Cardi B files for divorce",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

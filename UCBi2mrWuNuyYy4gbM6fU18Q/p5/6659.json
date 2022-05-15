@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JAVVmqhcR90",
-            "title": "President Obama's State of the Union Speech",
-            "secondDuration": 263,
-            "group": "group_7"
-        },
-        {
             "videoId": "8Lx6SDUy6z4",
             "title": "With American Ebola Patients' Recovery Comes New Hope",
             "secondDuration": 385,
@@ -31,8 +25,14 @@
             "title": "Tom Hanks Awarded Medal of Freedom",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "LKrGHGV7vng",
+            "title": "Fox News Director Speaks Out Against Roger Ailes",
+            "secondDuration": 237,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

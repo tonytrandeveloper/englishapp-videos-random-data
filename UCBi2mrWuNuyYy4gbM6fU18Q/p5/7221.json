@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CHUugTf9bLs",
-            "title": "CDC panel to decide on Johnson & Johnson vaccine | WNT",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ldl7OZHL6FU",
             "title": "Prisoner Swap Underway in Middle East",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "'The Simpsons' under fire over concerns about racism",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "dCRbsroHof4",
+            "title": "Boston Bombing Survivor Crosses Marathon Finish Line",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "xlxLZPzVwgI",
-            "title": "ABC News Live Update: Biden tells Israeli PM he expects ‘significant de-escalation’",
-            "secondDuration": 1579,
-            "group": "group_7"
-        },
-        {
             "videoId": "xoALCj0Kw6o",
             "title": "Could COVID-19 vaccinations become mandatory?",
             "secondDuration": 237,
@@ -301,8 +295,14 @@
             "title": "Several injured as suspect opens fire inside church at wedding | ABC News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "-hC6XcCnovo",
+            "title": "Dancers competing near Parkland, Florida, honor shooting victim Jaime Guttenberg",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

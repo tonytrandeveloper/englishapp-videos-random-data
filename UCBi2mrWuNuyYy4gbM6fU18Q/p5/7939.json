@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kUZd_mBUkrg",
-            "title": "Could Cell Phone Usage Be Affecting Your Mental Health?",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "nQJS62NFj40",
             "title": "Three Thousand Americans to Help Fight Ebola",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Schwarzenegger Focuses on Climate Talks",
             "secondDuration": 373,
             "group": "group_7"
+        },
+        {
+            "videoId": "FNqoBgyowJY",
+            "title": "Man attempts record-breaking swim across Pacific Ocean",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

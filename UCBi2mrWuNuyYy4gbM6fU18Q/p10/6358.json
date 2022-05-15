@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rTvhtiV1mXQ",
-            "title": "Tucson Police Audio of Shooting Released",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "fwgE9PagDHY",
             "title": "Republican National Convention: Romney's Long Climb to the Nomination",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "Paralyzed, Pregnant Woman Completes Half-Marathon Race Over 5 Days",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "YXMYK_5QT4c",
+            "title": "Jennifer Lawrence Explains Embarrassing Encounter With Harrison Ford",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

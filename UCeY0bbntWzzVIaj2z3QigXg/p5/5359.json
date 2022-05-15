@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wi9TVPA6k2s",
-            "title": "Live: New York Governor Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3368,
-            "group": "group_7"
-        },
-        {
             "videoId": "4A7I7-6snCs",
             "title": "Suspect Rene Boucher Attack On Senator Rand Paul Makes Court Appearance | NBC News",
             "secondDuration": 58,
@@ -31,8 +25,14 @@
             "title": "Hurricane Maria Pummels Caribbean Islands | NBC News",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "RPdMbHTRoKQ",
+            "title": "Jeff Sessions Announces Arrest Of Undocumented Immigrants Involved In Identity Theft | NBC News",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

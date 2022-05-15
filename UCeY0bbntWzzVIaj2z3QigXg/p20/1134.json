@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZlrfS_ipbxI",
-            "title": "Full Panel: Pelosi Calls Trump's Proposal 'Unacceptable' | Meet The Press| NBC News",
-            "secondDuration": 473,
-            "group": "group_7"
-        },
-        {
             "videoId": "NOlmPGlMeYk",
             "title": "Bill Clinton Addresses Bernie Sanders Win in Michigan | NBC News",
             "secondDuration": 63,
@@ -121,8 +115,14 @@
             "title": "Tesla Driver Is First Person To Be Charged In A Fatal Crash Involving Autopilot",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "nrbmUOeMn-4",
+            "title": "Marco Rubio On 9/11: 'Don't Blame Bush' | Meet The Press | NBC News",
+            "secondDuration": 360,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

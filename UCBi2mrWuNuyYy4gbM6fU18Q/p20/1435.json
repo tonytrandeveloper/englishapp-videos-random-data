@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0Vby6jtbAxE",
-            "title": "Trump's physician gives update from Walter Reed | ABC News",
-            "secondDuration": 1317,
-            "group": "group_7"
-        },
-        {
             "videoId": "pjKOYpEMvrM",
             "title": "Your Voice, Your Vote: Inside The Debate Prep Rooms",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "Alabama 5-year-old Hostage Taken from School Bus: Negotiations Continue",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "PeqJjg075DY",
+            "title": "Celebrity Lookalikes",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

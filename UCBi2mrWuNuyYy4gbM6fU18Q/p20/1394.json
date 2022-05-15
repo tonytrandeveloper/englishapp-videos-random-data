@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "D1Ciy8aLa_E",
-            "title": "Passenger jet slides off runway, breaks into pieces in Turkey",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "x9WFM53D1Hc",
             "title": "Trump withdraws US from Paris climate agreement",
             "secondDuration": 233,
@@ -121,8 +115,14 @@
             "title": "Residents in Southern Plains brace for potential twisters, baseball-sized hail",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "3FjZoImMWU0",
+            "title": "Vaccine offers hope for coronavirus crisis",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

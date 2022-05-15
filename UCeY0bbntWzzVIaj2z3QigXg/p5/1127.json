@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2eFdvWcK5JE",
-            "title": "Brett Kavanaugh Supreme Court Confirmation Hearing | NBC News",
-            "secondDuration": 42902,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZgOTLXPYsbg",
             "title": "Trump: Executive Order On Policing Will ‘Fairly,’ ‘Safely’ Ensure ‘Law And Order’ | NBC News NOW",
             "secondDuration": 197,
@@ -31,8 +25,14 @@
             "title": "Meet The Press Broadcast (Full) - November 15th, 2020 | Meet The Press | NBC News",
             "secondDuration": 2855,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZzA-6tIVK_A",
+            "title": "Gregory McMichael Withdraws Guilty Plea Ahead Of Federal Ahmaud Arbery Trial",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

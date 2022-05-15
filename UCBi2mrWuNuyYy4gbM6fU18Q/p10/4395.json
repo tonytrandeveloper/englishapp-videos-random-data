@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3pQx8EG1-Yk",
-            "title": "David Muir Reports: Win for New York Silverware Company",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "XlqfDOZam8k",
             "title": "Amplified: The Thermals",
             "secondDuration": 317,
@@ -61,8 +55,14 @@
             "title": "Generation XXX: Teens Addicted to Porn?",
             "secondDuration": 352,
             "group": "group_7"
+        },
+        {
+            "videoId": "04eiOQJrTH4",
+            "title": "Abby Wambach Faces Fallout From DUI Arrest",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

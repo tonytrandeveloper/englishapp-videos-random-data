@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XPmLIwUe924",
-            "title": "Putin orders Russia’s nuclear deterrent forces on alert l ABC News",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "7-kGF9IDoWU",
             "title": "Casey Anthony Trial: Defense Rests",
             "secondDuration": 301,
@@ -31,8 +25,14 @@
             "title": "Harriet Tubman To Replace Andrew Jackson on $20 Bill",
             "secondDuration": 25,
             "group": "group_7"
+        },
+        {
+            "videoId": "niOzDqWl268",
+            "title": "CDC reverse mask guidance for vaccinated people, schools l WNT",
+            "secondDuration": 392,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

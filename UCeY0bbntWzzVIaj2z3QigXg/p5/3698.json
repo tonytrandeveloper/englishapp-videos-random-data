@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6CJ7ulEY3uI",
-            "title": "Powerful Typhoon Slams Island Resort | Archives | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "gFh42RgFaBw",
             "title": "O.J. Simpson’s Life After Parole: What's Next? | NBC News",
             "secondDuration": 144,
@@ -31,8 +25,14 @@
             "title": "White House Holds Press Briefing: February 2 | NBC News",
             "secondDuration": 2860,
             "group": "group_7"
+        },
+        {
+            "videoId": "kBOBstJ-RrM",
+            "title": "Biden: U.S. Will Reach Vaccination Goal Of 100 Million Doses After 58 Days In Office | NBC News NOW",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

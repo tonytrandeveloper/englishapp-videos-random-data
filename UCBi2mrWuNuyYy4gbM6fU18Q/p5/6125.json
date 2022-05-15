@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AySyPB1WlUo",
-            "title": "Government Shutdown Day Three",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "cJNc-7lQssg",
             "title": "Impact of the Ahmaud Arbery murder trial on the Black community",
             "secondDuration": 712,
@@ -31,8 +25,14 @@
             "title": "Super Bowl Attracts A-List Celebrities",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "6fQoXHEmjFE",
+            "title": "Senators set to question Facebook whistleblower on Capitol Hill",
+            "secondDuration": 377,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

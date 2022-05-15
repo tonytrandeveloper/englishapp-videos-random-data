@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-aN6i_wUelM",
-            "title": "Wall Street Sets Records As Dow Jones Hits 23,000 | NBC Nightly News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "i3fVogQbt-o",
             "title": "Wildfires Continue To Spread Across Southern California | NBC News",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "Yelp To Cover U.S. Employees’ Out Of State Abortion Travel Costs",
             "secondDuration": 278,
             "group": "group_7"
+        },
+        {
+            "videoId": "fPiEn0LT2V0",
+            "title": "French Chef Aims To Bring Restaurant-Quality Food To Hospitals | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

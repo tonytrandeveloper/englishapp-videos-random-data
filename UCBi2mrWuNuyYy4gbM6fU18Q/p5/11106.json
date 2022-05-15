@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VJjoFXwa4X8",
-            "title": "Conjoined Twins Successfully Separated",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "JXjBhYvp_9w",
             "title": "Trump reverses position on health care subsidies",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "Suspect in Georgia Cop Killing is Dead, Investigators Say",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "yvTTBOeptwM",
+            "title": "Harvey Weinstein defense team presents closing arguments",
+            "secondDuration": 287,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

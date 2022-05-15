@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SOCyBq-hidU",
-            "title": "Rep. Barney Frank and Rep. Marsha Blackburn",
-            "secondDuration": 936,
-            "group": "group_7"
-        },
-        {
             "videoId": "3UvI2nv_R18",
             "title": "Woman Killed in Lion Attack at Cat Haven Animal Sanctuary",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Michael Cohen's secret recording of conversation with Trump",
             "secondDuration": 415,
             "group": "group_7"
+        },
+        {
+            "videoId": "_nsBAaI_Jp0",
+            "title": "Yahoo Cybersecurity Breach",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

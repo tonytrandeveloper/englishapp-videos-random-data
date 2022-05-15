@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BhL2XikD8vQ",
-            "title": "Blizzard Aftermath: Behind the Scenes with WNBC's Tracie Strahan",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "AHTsqIV6_-g",
             "title": "Hallie Jackson: Energy At White House ‘Very Positive’ As Election Results Come In | NBC News",
             "secondDuration": 164,
@@ -31,8 +25,14 @@
             "title": "Trial In Murder Of Ahmaud Arbery In Second Week, Criticism Over Mostly-White Jury Selection",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "PPJAMHaN3kk",
+            "title": "Trump Hits On Hot-Button Issues At Nevada Midterm Event | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

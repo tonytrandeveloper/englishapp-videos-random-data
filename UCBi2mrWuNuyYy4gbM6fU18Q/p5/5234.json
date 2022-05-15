@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7vWGgl4_TeE",
-            "title": "Confetti fills the sky in the NYC",
-            "secondDuration": 883,
-            "group": "group_7"
-        },
-        {
             "videoId": "jpGtABmMCUo",
             "title": "Secrets Behind Mariah Carey's Christmas Hit",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "Top Line: Obama's Bipartisan Pageantry",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "JSReXw158AE",
+            "title": "Portland mayor demands federal troops leave l ABC News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

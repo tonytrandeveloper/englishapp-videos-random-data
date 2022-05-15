@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7jIWDuQApRI",
-            "title": "Chelsea Bombing Investigation Focuses on 2 Men",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "bV2SVY9La5k",
             "title": "NFL faceoff",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Boston Mayor Addresses Harsh Winter Conditions",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "50bx_nlnM0Y",
+            "title": "COVID-19 task force member: White House ‘infusing equity’ into vaccine response",
+            "secondDuration": 533,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

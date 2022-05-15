@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RJS8UsRvXak",
-            "title": "Iran Attacks Iraqi Air Base Where U.S. Troops Are Based | NBC News",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "WzaDyKBWUq0",
             "title": "Sanders And Biden Address Coronavirus On The Campaign Trail | NBC Nightly News",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Space Station Astronauts Touch Down After Months Orbiting Earth | NBC News",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "neDUC0j-alg",
+            "title": "Young Latinos Of The White House: Mario Zepeda Takes On Drug Addiction | NBC News",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

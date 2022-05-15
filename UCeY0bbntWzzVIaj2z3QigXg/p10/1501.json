@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "S6Z6F3VOJDM",
-            "title": "Dramatic Landslide Sweeps Away Homes In Bolivia’s Capital | NBC News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "zVpuOHeeMiU",
             "title": "Full Sanford: Talk Of Presidential Challenge Began The Day I Lost My Primary | Meet The Press",
             "secondDuration": 398,
@@ -61,8 +55,14 @@
             "title": "Ballerina Misty Copeland’s Inspiring New Message For Kids | Nightly News: Kids Edition",
             "secondDuration": 941,
             "group": "group_7"
+        },
+        {
+            "videoId": "kd6TCXbk-GQ",
+            "title": "US Deploys ‘Sniffer’ Aircraft To Detect North Korea Nuclear Tests | NBC Nightly News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

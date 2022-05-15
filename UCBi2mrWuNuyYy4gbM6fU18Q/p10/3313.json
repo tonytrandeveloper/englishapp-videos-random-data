@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DSIqbUeSn-8",
-            "title": "Counselor Thwarts Plan for Massive Shooting at a School in Tennessee",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lk9mWTqXlV0",
             "title": "Robert Durst Murder Charges: New Details Emerge",
             "secondDuration": 278,
@@ -61,8 +55,14 @@
             "title": "Security Reacts Quickly as FIFA's Sepp Blatter Approached by Demonstrator",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "e4rwFwVKHuQ",
+            "title": "Severe storms expected across the US",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

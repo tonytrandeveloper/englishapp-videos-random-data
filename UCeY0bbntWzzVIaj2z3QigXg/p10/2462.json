@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-JZNT3VoeV8",
-            "title": "Who Showed Up To Storm Area 51 | NBC News Now",
-            "secondDuration": 162,
-            "group": "group_7"
-        },
-        {
             "videoId": "ekXzACNU0uY",
             "title": "Biden Delivers Remarks to Commemorate Pride Month | NBC News",
             "secondDuration": 10430,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Utters Comment That Delayed Sergeant Bowe Bergdahl's Sentencing | NBC News",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "mIFDzswcrMI",
+            "title": "NBC WSJ Poll: Democratic Favorability Highest Since 2008 | Meet The Press | NBC News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

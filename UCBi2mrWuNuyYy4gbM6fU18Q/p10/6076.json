@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NswM9qZ3xok",
-            "title": "Cancer Survivor Meets Life-Saving Donor on 'GMA': BeTheMatch.Org Finds a Match",
-            "secondDuration": 449,
-            "group": "group_7"
-        },
-        {
             "videoId": "T3DtiARaIFY",
             "title": "David Ortiz shot, Dems campaign in Iowa, crane collapse, Hong Kong protests",
             "secondDuration": 1552,
@@ -61,8 +55,14 @@
             "title": "Charlotte Protester Murder Suspect Arrested",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "cCADSljlRnw",
+            "title": "Markets React to Donald Trump Victory",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

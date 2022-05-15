@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "x407WbMO9x0",
-            "title": "Your Voice: COVID affects schooling",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "oD7gfKxKlPw",
             "title": "Bill Murray Crashes White House Press Briefing",
             "secondDuration": 38,
@@ -31,8 +25,14 @@
             "title": "Sylvester Stallone, Cast Talk 'The Expendables 3'",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "v4UFN8CDNw4",
+            "title": "The Conversation: Political Pulse",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wzM07tt6IDo",
-            "title": "Women's Equality Day: The Fight For Rights Then And Now | NBC News NOW",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "FJsnO3UaNyI",
             "title": "Mother Of Baby With Coronavirus Says She Is ‘Very Emotional Seeing Him So Sick’ | NBC News NOW",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "'Silence Breakers' React To Harvey Weinstein's Conviction | NBC News",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "5V5jUdiARvo",
+            "title": "Ukraine Continues To Fend Off Russian Invasion",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

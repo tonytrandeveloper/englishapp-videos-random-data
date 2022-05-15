@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cH6ILGivcJo",
-            "title": "Kimberly Guilfoyle touts Trump’s accomplishments",
-            "secondDuration": 383,
-            "group": "group_7"
-        },
-        {
             "videoId": "X1WLi1HF1Xc",
             "title": "Anthony Anderson, Tracee Ellis Ross Star in 'Black-ish'",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "Houston schools to keep kids in class despite COVID surge",
             "secondDuration": 384,
             "group": "group_7"
+        },
+        {
+            "videoId": "vEPmUzXZuXA",
+            "title": "Congress discusses removing Marjorie Taylor Greene from committees",
+            "secondDuration": 398,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

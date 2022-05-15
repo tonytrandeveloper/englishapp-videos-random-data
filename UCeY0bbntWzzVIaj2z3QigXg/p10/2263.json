@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ozc2KPURZ5g",
-            "title": "NBC Nightly News Broadcast (Full) - July 30th, 2021",
-            "secondDuration": 874,
-            "group": "group_7"
-        },
-        {
             "videoId": "QHZyheLJ3rU",
             "title": "Cuomo Defiant As Top Lawmakers Call For Him To Resign | NBC Nightly News",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "U.S. Warns Of ‘Serious Consequences’ If Maduro’s Government Harms Guaidó | NBC Nightly News",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "a_S-DyiwD0E",
+            "title": "Boy Thrown From Water Slide At California Water Park | NBC Nightly News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

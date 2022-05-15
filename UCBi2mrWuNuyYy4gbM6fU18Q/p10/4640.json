@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i1ZgnxnL6MY",
-            "title": "By the Numbers: The Forbes billionaires list",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "82CRSfXrNyo",
             "title": "Penn State Sex Abuse Scandal: Second Mother Speaks Out  Against Jerry Sandusky",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Toy Fair 2014 with Dick DeBartolo",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "SEIXlCJDuPs",
+            "title": "DOJ to investigate Minneapolis police after Chauvin verdict",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

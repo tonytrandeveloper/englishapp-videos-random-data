@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "98JMF7VfZmY",
-            "title": "Hurricane Michael rips roofs off buildings as it strikes Florida",
-            "secondDuration": 329,
-            "group": "group_7"
-        },
-        {
             "videoId": "_YTJpQuqDsA",
             "title": "'This Week' Web Extra: Maggie Haberman Answers Viewer Questions From Facebook, Twitter",
             "secondDuration": 175,
@@ -121,8 +115,14 @@
             "title": "Uber Self Driving Car Rolls Out in Pittsburgh",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "IozAW8en4fE",
+            "title": "Thousands of buried bones spark a new mystery at the Vatican",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

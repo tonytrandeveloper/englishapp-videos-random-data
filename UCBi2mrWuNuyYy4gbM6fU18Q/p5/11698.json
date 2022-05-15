@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Dj6mAw2-tVA",
-            "title": "Remembering legendary PBS news anchor Jim Lehrer",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "1fpiaH__EyM",
             "title": "Oscars: Countdown to Hollywood's Biggest Night",
             "secondDuration": 192,
@@ -31,8 +25,14 @@
             "title": "Cops Save Armed Suspect from Burning Car [DASH CAM VIDEO]",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "GgvBzv8536s",
+            "title": "Why are some parts of the US facing a PPE shortage?",
+            "secondDuration": 270,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

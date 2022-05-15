@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zMo4btooxCQ",
-            "title": "Pfizer data supports booster shots after 6 months",
-            "secondDuration": 332,
-            "group": "group_7"
-        },
-        {
             "videoId": "-ZGHEBZT_KQ",
             "title": "Biden to tap into Strategic Petroleum Reserve ahead of holidays l GMA",
             "secondDuration": 167,
@@ -61,8 +55,14 @@
             "title": "Cyberattack on fuel pipeline causes gas shortages in multiple states | ABC News",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "nsGkwFBByuQ",
+            "title": "Moammar Gadhafi Dead: Revisiting Libyan Leader's Final Moments in Sirte",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

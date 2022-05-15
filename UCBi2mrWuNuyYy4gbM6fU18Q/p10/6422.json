@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "itX1AI8Z-nM",
-            "title": "Newtown, Connecticut Family on Losing Child in Sandy Hook Elementary School Shooting",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "maFyP0jxEvg",
             "title": "Colorado's Legalization of Marijuana Could Generate Millions for the State, but at What Cost?",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "New Hampshire Republican Debate: Mitt Romney Says Contraception Is \"Working Just Fine\"",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "JfkGt5qe0bw",
+            "title": "Ukraine Crisis: Russia Launches Missiles",
+            "secondDuration": 237,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

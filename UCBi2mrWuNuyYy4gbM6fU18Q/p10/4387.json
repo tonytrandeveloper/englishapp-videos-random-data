@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JsRG2mFjuS0",
-            "title": "'GMA' Hot List:  Marco Rubio 'Not Going to Hyperventilate About Polls'",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "hfFkMMHPAmw",
             "title": "The Year 2018: Gun violence, hurricanes and other major news events",
             "secondDuration": 414,
@@ -61,8 +55,14 @@
             "title": "What the new CDC mask guidelines mean for returning to normal",
             "secondDuration": 475,
             "group": "group_7"
+        },
+        {
+            "videoId": "qm_u4otUW4s",
+            "title": "Indianapolis Colts draft former refugee | WNT",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

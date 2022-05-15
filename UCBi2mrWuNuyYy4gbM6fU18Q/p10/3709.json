@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "99MpQg2GVqM",
-            "title": "MIX: The Donut Selfie",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "rbir47eHwbM",
             "title": "Terminator Genisys Official Trailer (2015) Arnold Schwarzenegger Exclusive",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "Amanda Knox Wanted by Italian Court",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "HTglDrV9GBw",
+            "title": "Latest COVID-19 updates as omicron variant spreads during holiday season l ABCNL",
+            "secondDuration": 458,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

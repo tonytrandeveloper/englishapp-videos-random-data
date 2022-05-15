@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Lsh1IMrrGB4",
-            "title": "White House orders its former lawyer not to comply with congressional subpoena",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "QHvzenRLJrc",
             "title": "Paying tribute to brave Capitol Police officers who may have averted a mass shooting",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Closer Look at the Health of Hillary Clinton, Donald Trump",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "gADvQpFfDA8",
+            "title": "USC reveals preliminary results of antibody study | WNT",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

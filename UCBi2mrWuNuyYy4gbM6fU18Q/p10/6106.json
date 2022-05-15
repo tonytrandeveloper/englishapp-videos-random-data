@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6OFoLLNfMyU",
-            "title": "3 West Coast states issue travel advisories as COVID cases climb",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "amWmryKDXns",
             "title": "United Flight Crash Lands at San Antonio Airport",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Child Left Alone Near Pool Falls In and Nearly Drowns",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "1sEv-HrLQFo",
+            "title": "The Conversation: The History of White People",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

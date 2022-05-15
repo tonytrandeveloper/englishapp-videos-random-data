@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_Htr2TxZ6-o",
-            "title": "Pirate Joe's Resells Trader Joe's Popular Products",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "5tDepL0LyBA",
             "title": "James Holmes Claimed Mentally Ill by Defense",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Thanksgiving Games",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "egqgi16coPI",
+            "title": "Snowstorm Moves Through Midwest",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

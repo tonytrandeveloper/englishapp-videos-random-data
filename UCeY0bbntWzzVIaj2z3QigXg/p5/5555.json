@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L9QGRclrLr4",
-            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
-            "secondDuration": 1711,
-            "group": "group_7"
-        },
-        {
             "videoId": "O9o6Iwym1mk",
             "title": "Inside U.S. Mission To Counter Russian Aggression In Waters Off Syria: Exclusive | NBC Nightly News",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "Secrets From Behind the Scenes Of The Second Kennedy-Nixon Debate | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "iVYOf7lbHJ0",
+            "title": "Gov. Phil Murphy Announces Foreign-Licensed Physicians May Volunteer In New Jersey | NBC News NOW",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

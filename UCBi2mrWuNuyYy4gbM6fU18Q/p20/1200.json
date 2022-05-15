@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ETsCtPDMzoA",
-            "title": "HIV survivors reflect on 40 years of AIDS epidemic l ABC News",
-            "secondDuration": 465,
-            "group": "group_7"
-        },
-        {
             "videoId": "-9iI1TjbkzY",
             "title": "Balloon boy's dad stands by story 10 years after airborne hoax l ABC News",
             "secondDuration": 322,
@@ -121,8 +115,14 @@
             "title": "2 police officers injured at US Capitol",
             "secondDuration": 943,
             "group": "group_7"
+        },
+        {
+            "videoId": "xFa2h8yk9kw",
+            "title": "White House press briefing 7/19/17 with break down from 'The Briefing Room'",
+            "secondDuration": 2860,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

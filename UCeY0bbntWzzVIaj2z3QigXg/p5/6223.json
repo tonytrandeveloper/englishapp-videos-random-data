@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6TGghnNQXUA",
-            "title": "Tropical Depression Imelda Brings Heavy Rain, Flooding To Texas | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "1g5ddNLFtfE",
             "title": "Lawsuits Accuse Major Retailers Of Advertising Fake Sales | NBC Nightly News",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Cities Across U.S. Breaking All-time Records For Murder",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "FlFEmT67Quo",
+            "title": "Watch Live: Trump Delivers Remarks At Teen Student Action Summit | NBC News",
+            "secondDuration": 6876,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

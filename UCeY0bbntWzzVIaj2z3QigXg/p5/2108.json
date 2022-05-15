@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uZIPb1jehCY",
-            "title": "Police: Colorado Shooting Suspects ‘Got Deep Inside The School’ | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "wONRwEL-hVY",
             "title": "‘An Origin Story Of Poetry:’ Grandmother Carries Baby For Her Son And His Husband | Nightly News",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "'Silence Breakers' React To Harvey Weinstein's Conviction | NBC News",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "5V5jUdiARvo",
+            "title": "Ukraine Continues To Fend Off Russian Invasion",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

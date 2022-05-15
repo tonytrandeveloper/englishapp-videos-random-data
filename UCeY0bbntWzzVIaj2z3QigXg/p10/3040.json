@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "twonn34bH2Q",
-            "title": "UN Ambassador Linda Thomas-Greenfield: Russian Attack ‘Could Happen Any Day’",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "hZ0ieA5h-lo",
             "title": "Untamed California Fires Leave At Least 21 Dead | NBC Nightly News",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Continuing Volcanic Activity Prevents Recovery Of Bodies From White Island | NBC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "TcQG911CyDo",
+            "title": "NYC Healthcare Workers On The 'Overwhelming Sense Of Burnout'",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

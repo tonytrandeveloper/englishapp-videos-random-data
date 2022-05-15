@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BRRdCImGgTo",
-            "title": "Fatal Jet Crash | ABC News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "BVqqCckjH84",
             "title": "Police Predict Crimes as in 'Minority Report'",
             "secondDuration": 146,
@@ -121,8 +115,14 @@
             "title": "Missing with dissociative fugue: Hannah Upp's mystery disappearance",
             "secondDuration": 405,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fo9AlK9sv6w",
+            "title": "Senate debates DACA, immigration: Your questions answered | ABC News",
+            "secondDuration": 7355,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1JFVsY44hGA",
-            "title": "Virgin Galactic Engineers Anticipate Rollout of New SpaceShipTwo | NBC News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "hTUxQokQZ7E",
             "title": "White House Press Briefing - April 25, 2018 | NBC News",
             "secondDuration": 1995,
@@ -31,8 +25,14 @@
             "title": "Mike Pence Takes Oath of Office for Vice President of the United States | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "McLi0JmX7nw",
+            "title": "Water Cannons, Tear Gas Disperse First Hong Kong Protests Of 2020 | NBC News",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LIPLapea6Lw",
-            "title": "Zika Virus Concerns Grow",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "GJQWYA7LU94",
             "title": "Enhanced unemployment benefits begin to expire in 4 states",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "NFL and Facebook reexamine policies in the name of social justice | ABC News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "wzAU_rUBiR4",
+            "title": "Christian Bale, Colin Firth Win Big at Oscars (02.28.11)",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

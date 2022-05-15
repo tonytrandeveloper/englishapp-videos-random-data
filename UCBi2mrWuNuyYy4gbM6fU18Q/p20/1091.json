@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dBMn_smgEOg",
-            "title": "Mean Moms: A New Kind of Bully",
-            "secondDuration": 363,
-            "group": "group_7"
-        },
-        {
             "videoId": "qgxge2Bc2Wc",
             "title": "Mystery Virus Kills Little Boy in New Jersey",
             "secondDuration": 94,
@@ -121,8 +115,14 @@
             "title": "'GMA' Hot List: The Trump Factor, The Mississippi Roast and Sia",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "5mrRFAW_aGc",
+            "title": "Trump Gets Paul Ryan's Vote Despite Differences",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

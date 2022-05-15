@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fI1hdmM5Rm4",
-            "title": "White House Covid Response Team Holds Briefing | NBC News",
-            "secondDuration": 1006,
-            "group": "group_7"
-        },
-        {
             "videoId": "hK346wmH4ng",
             "title": "Watch: Video Shows Man Asleep At Wheel Of Self-Driving Tesla On Massachusetts Turnpike | NBC News",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "This Morning’s Top Headlines – July 13 | Morning News NOW",
             "secondDuration": 1342,
             "group": "group_7"
+        },
+        {
+            "videoId": "jzkFm-b6thU",
+            "title": "Watch: Huge Waterspout Appears Off The Italian Coast Near Rome",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

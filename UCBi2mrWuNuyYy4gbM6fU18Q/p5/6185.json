@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y96f6s_nxmo",
-            "title": "Lone Survivor of 1987 Plane Crash Breaks Silence",
-            "secondDuration": 437,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZL6clqbU9e0",
             "title": "‘Gentleman is not recognized’: Schiff | ABC News",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Remembering 9/11: The fighter pilot on a suicide mission to take down Flight 93",
             "secondDuration": 505,
             "group": "group_7"
+        },
+        {
+            "videoId": "VOA1UsWZyVA",
+            "title": "New York City subway shooter timeline l ABC News",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

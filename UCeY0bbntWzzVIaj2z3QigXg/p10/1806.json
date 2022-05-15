@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wc2TwOVFF7s",
-            "title": "Second NYPD Officer Dies After Domestic Disturbance Call",
-            "secondDuration": 291,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y68wB4dOWl4",
             "title": "Supreme Court Hears Arguments On Power Of Public Employee Unions | NBC Nightly News",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Robert Mueller Has Enough Evidence To Bring Charges In Flynn Investigation | NBC Nightly News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "WUZKwZ3Tw80",
+            "title": "Two-Year-Old Locked Inside A Daycare After Hours",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

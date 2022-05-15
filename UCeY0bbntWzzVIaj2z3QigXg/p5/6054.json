@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6dO-PRpDEPM",
-            "title": "Castro Claims Trump Has Been 'Intentionally Divisive' | NBC News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "KtPIya_LhOI",
             "title": "Pete Buttigieg Addresses #WhatMatters To 2020 Democratic Voters | NBC Nightly News",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Meet The People Getting $1,000 A Month From Andrew Yang’s Campaign | NBC News NOW",
             "secondDuration": 306,
             "group": "group_7"
+        },
+        {
+            "videoId": "LGfzhfjCy24",
+            "title": "Morning News NOW Full Broadcast - Sept. 2nd",
+            "secondDuration": 2837,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

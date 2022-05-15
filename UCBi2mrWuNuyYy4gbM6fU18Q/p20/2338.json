@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CrCDowZjphc",
-            "title": "Downpours across California continue to create hazardous travel conditions",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "kmU4QqMTErc",
             "title": "What Does Jared REALLY Eat?",
             "secondDuration": 170,
@@ -121,8 +115,14 @@
             "title": "Bernie Sanders' Campaign Under Fire Over DNC Data Breach",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "mNng8JxLbiI",
+            "title": "NFL wide receiver Tyreek Hill under fire for alleged child abuse",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

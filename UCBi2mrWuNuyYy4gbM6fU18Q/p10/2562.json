@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5TN139Ny4_I",
-            "title": "Justice Stephen Breyer announces his retirement",
-            "secondDuration": 1015,
-            "group": "group_7"
-        },
-        {
             "videoId": "m_xuDS3I54g",
             "title": "Helping kids cope with COVID-19",
             "secondDuration": 374,
@@ -61,8 +55,14 @@
             "title": "Massive sinkhole swallows two homes in Florida",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "nUQTH5X4Vb4",
+            "title": "Taliban gains ground in Afghanistan as US troops withdraw l WNT",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

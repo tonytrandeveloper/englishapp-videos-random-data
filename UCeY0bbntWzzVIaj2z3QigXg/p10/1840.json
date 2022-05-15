@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "T8UpMnOwY5Y",
-            "title": "Yosemite Ranger Discovers Park’s True Owners | NBC News",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "zuUj8zqLDBc",
             "title": "Houses Not Hotels: Venetians Angry At Mass Tourism | NBC News",
             "secondDuration": 57,
@@ -61,8 +55,14 @@
             "title": "House Democrats Expected To Vote on Biden’s Spending Bill",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "l8ihHutPJ0s",
+            "title": "Paul Manafort Pleads Guilty In Robert Mueller Probe | NBC Nightly News",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

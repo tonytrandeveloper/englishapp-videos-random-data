@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eAIREUYF4L4",
-            "title": "Severe Weather Causes Destruction Across The U.S. | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "NfG-SHSe2K0",
             "title": "Why The Brooklyn Subway Shooting Suspect Is Not Facing Terrorism Charges",
             "secondDuration": 237,
@@ -61,8 +55,14 @@
             "title": "This Morning’s Top Headlines – June 24 | Morning News NOW",
             "secondDuration": 1927,
             "group": "group_7"
+        },
+        {
+            "videoId": "QeuFl0FEZfk",
+            "title": "How Trump’s Trade War Has Impacted This Family-Run Manufacturing Business | NBC News NOW",
+            "secondDuration": 302,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "H3hjxJoDFs0",
-            "title": "The Briefing Room: Michael Cohen's tapes, Trump to invite Putin to White House",
-            "secondDuration": 1510,
-            "group": "group_7"
-        },
-        {
             "videoId": "5RFWD7DRkAs",
             "title": "Final 2012 Presidential Debate on Foreign Policy; 'This Week' Roundtable Discussion",
             "secondDuration": 1027,
@@ -61,8 +55,14 @@
             "title": "TSA Airport Security Breaches: Two Loaded Guns Sneak Past Check Point, Agent Caught With Stolen iPad",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "NqsN-4fjt0w",
+            "title": "Rally at NFL headquarters to support Colin Kaepernick",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

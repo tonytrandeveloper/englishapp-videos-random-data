@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4FBuQU_mRzo",
-            "title": "Number Of COVID-19 Cases Likely Much Higher Than Tests Reveal | Meet The Press | NBC News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "U9Cv_PvfhhE",
             "title": "President Donald Trump: What's Happening To Brett Kavanaugh Is 'Totally Political' | NBC News",
             "secondDuration": 85,
@@ -121,8 +115,14 @@
             "title": "Sondland: Security Aid Was 'Absolutely' Contingent On Investigation Announcement | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "a8MMgKhN_nI",
+            "title": "Missing Hawaii Helicopter Located, Authorities Searching For Survivors | NBC Nightly News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

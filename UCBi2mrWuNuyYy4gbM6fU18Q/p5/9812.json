@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s1QS_zwo-MI",
-            "title": "Ron Claiborne Teaches Journalism to Troubled Kids",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "zfMqgdOA5PM",
             "title": "Donald Trump: 'Putting a Wife to Work Is a Very Dangerous Thing' [FULL 1994 INTERVIEW]",
             "secondDuration": 708,
@@ -31,8 +25,14 @@
             "title": "Pfizer: COVID booster provides strong immune support in children ages 5-11 I ABCNL",
             "secondDuration": 204,
             "group": "group_7"
+        },
+        {
+            "videoId": "vmCmWXPaiZU",
+            "title": "Amanda Knox Interview 2013 on 'GMA': Prosecution Failed to Give Victim's Family Answers",
+            "secondDuration": 424,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

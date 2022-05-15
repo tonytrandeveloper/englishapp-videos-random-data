@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FwzEpSJNaLs",
-            "title": "John Boehner 'This Week' Exclusive Interview: House Speaker Discusses Government Shutdown",
-            "secondDuration": 845,
-            "group": "group_7"
-        },
-        {
             "videoId": "dKXPMMEU7sk",
             "title": "Breaking down Derek Chauvin’s choice to plead the Fifth",
             "secondDuration": 368,
@@ -61,8 +55,14 @@
             "title": "Prosecution recounts graphic stories of assault by Harvey Weinstein in criminal trial | Nightline",
             "secondDuration": 577,
             "group": "group_7"
+        },
+        {
+            "videoId": "JHPz68HmFBA",
+            "title": "Post-blizzard could bring colder temperatures",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BXRxtPyeXf4",
-            "title": "President's campaign trail blitz",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "8hCnGDDzaLU",
             "title": "'Real Housewives of New York' Dish on New Season",
             "secondDuration": 220,
@@ -31,8 +25,14 @@
             "title": "Turkey Failed Coup Leads to Chaos",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "ibaU2vRlpfY",
+            "title": "Democratic Frontrunners Square Off in Las Vegas | ABC News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

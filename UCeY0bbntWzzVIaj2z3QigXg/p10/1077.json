@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cTFhwU6xkXo",
-            "title": "Despite Warnings, Some U.S. Trains Still Running Without Life-Saving Tech | NBC Nightly News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "1HRlTeijbAA",
             "title": "Sean Spicer: ‘The President Understands This Is It’ For Health Care | NBC News",
             "secondDuration": 71,
@@ -61,8 +55,14 @@
             "title": "Prosecutor Drops Remaining Charges In Freddie Case, Citing Previous Acquittals | NBC News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "7Bryv3P_UFs",
+            "title": "ProPublica Reporter Explains How Ultra Wealthy Americans Avoid Taxes",
+            "secondDuration": 473,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

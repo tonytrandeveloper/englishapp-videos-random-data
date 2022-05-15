@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wH1bWTKC80Q",
-            "title": "Fall Movie Blockbusters and Busts",
-            "secondDuration": 632,
-            "group": "group_7"
-        },
-        {
             "videoId": "NWybEUvTtYw",
             "title": "Will upcoming Democratic debate be canceled because of strike? | ABC News",
             "secondDuration": 142,
@@ -121,8 +115,14 @@
             "title": "High School Students Raise $20K for Children's Hospital",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "x7y38ywP4TU",
+            "title": "Dealing With Your New Year's Hangover",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

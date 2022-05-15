@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tm4ux1i02TA",
-            "title": "COVID-19 cases rising",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "dSiY7Vy7suI",
             "title": "Ozzy and Sharon Osbourne Split | ABC News",
             "secondDuration": 296,
@@ -31,8 +25,14 @@
             "title": "David Petraeus Resigns from CIA Over Affair",
             "secondDuration": 399,
             "group": "group_7"
+        },
+        {
+            "videoId": "HU5f_nBLGRM",
+            "title": "John Wayne Bobbitt tells his side of notorious incident after 25 years",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

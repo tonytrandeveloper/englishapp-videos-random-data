@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XLMjFr47hc8",
-            "title": "Hurricane Isaias, Beirut explosion, El Paso attack: Week in Photos",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "GYlkVETW_eA",
             "title": "Tesla Model 3 Specs, Design Unveiled by Elon Musk",
             "secondDuration": 37,
@@ -31,8 +25,14 @@
             "title": "Sanders to Join Clinton at Campaign Rally",
             "secondDuration": 31,
             "group": "group_7"
+        },
+        {
+            "videoId": "Aobg_rWalvw",
+            "title": "CBS chairman Les Moonves faces allegations of sexual misconduct",
+            "secondDuration": 258,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

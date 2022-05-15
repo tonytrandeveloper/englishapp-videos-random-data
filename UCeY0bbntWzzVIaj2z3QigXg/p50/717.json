@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "2BTZQ1sNanI",
-            "title": "Martin Shkreli Found Guilty Of Securities Fraud | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "QBsvo0-ARzY",
             "title": "President Donald Trump Defends Brett Kavanaugh During Campaign Rally | NBC News",
             "secondDuration": 103,
@@ -301,8 +295,14 @@
             "title": "Zerlina Maxwell: 2020 Pres. Candidates Highlight The Media's Diversity Problem | Think | NBC News",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "uexTqJGzFtE",
+            "title": "Live: SpaceX, NASA Launch U.S. Astronauts To International Space Station | NBC News",
+            "secondDuration": 23897,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

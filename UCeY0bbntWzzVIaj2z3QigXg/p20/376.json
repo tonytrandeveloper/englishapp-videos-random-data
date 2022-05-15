@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WuGVtti10t4",
-            "title": "Chinese President Xi Jinping Declares Era of “National Rejuvenation” | NBC Nightly News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "H7eA1K4j8GU",
             "title": "Watch President Trump's Full Immigration Address And Response From Democrats | NBC News",
             "secondDuration": 5135,
@@ -121,8 +115,14 @@
             "title": "Some Florida Residents Wait More Than A Week To Get COVID-19 Test Results | NBC News NOW",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "E093gSomC0I",
+            "title": "Tornado Damage Across Multiple States",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

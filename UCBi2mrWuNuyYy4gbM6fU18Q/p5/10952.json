@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1M4dSaMDHAM",
-            "title": "ABC News Prime: 10/25/2021",
-            "secondDuration": 5296,
-            "group": "group_7"
-        },
-        {
             "videoId": "TxiTfia0FkU",
             "title": "TOP LINE: Obama Adviser Points to Dow Uptick on Jobs Report",
             "secondDuration": 566,
@@ -31,8 +25,14 @@
             "title": "Storm Impedes Cruise Ship From Reaching Australian Port",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "ookjWP7jcjE",
+            "title": "The Conversation: Netroots Nation Flexes Muscles",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

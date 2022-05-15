@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "sjLpcDPYnoY",
-            "title": "Zion Williamson emotional after becoming 1st pick",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "fdnR4LV4jMk",
             "title": "Former Taco Bell Exec to Face Civil Suit Over Uber Attack",
             "secondDuration": 141,
@@ -301,8 +295,14 @@
             "title": "New Ballpark Food: Chicken-Fried Bacon",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "ArFlTIRKIjY",
+            "title": "Dad Poses Son as US Olympian",
+            "secondDuration": 33,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

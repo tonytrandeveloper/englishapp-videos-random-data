@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "miCBa1Z58nk",
-            "title": "High School Football Team Welcomes Transgender Player",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "KeRmO7iYfqE",
             "title": "'This Week' Mass Shooting in Isla Vista",
             "secondDuration": 472,
@@ -31,8 +25,14 @@
             "title": "Embarrassing Interviews Part 2",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "c1ZdLfYzTvI",
+            "title": "Sean Spicer resigns as White House press secretary",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

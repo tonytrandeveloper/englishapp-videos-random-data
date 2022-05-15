@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CG6Gcw-2RCA",
-            "title": "US Tells Russia Not to Interfere With Election",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "pV4Flh8D9CI",
             "title": "Texas victim describes being in deadly shooting",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "Images of horror, atrocities in Ukraine",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "I-0PPL3ZMf4",
+            "title": "COVID-19 delta variant surges in areas with low vaccine rates l WNT",
+            "secondDuration": 316,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

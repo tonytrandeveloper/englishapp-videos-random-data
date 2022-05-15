@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kussikUTdSw",
-            "title": "Trump Speaks After Acquittal In Impeachment Trial | NBC News (Live Stream Recording)",
-            "secondDuration": 6414,
-            "group": "group_7"
-        },
-        {
             "videoId": "BTiFn1qRYuM",
             "title": "South Carolina Mall Shooting Leaves 12 Injured",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Toxic Fumes May Have Caused JetBlue Flight's Emergency Landing | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "DkIo1CZtBQk",
+            "title": "Ford Shifts Focus, Discontinues Most Passenger Cars | NBC Nightly News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

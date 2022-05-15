@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EVFhVAsYGfY",
-            "title": "This Morning’s Top Headlines – August 16 | Morning News NOW",
-            "secondDuration": 1520,
-            "group": "group_7"
-        },
-        {
             "videoId": "XfwmpgMcZJ8",
             "title": "Trump Supports For Saudi After Breaking With CIA Assessment On Khashoggi Murder | NBC Nightly News",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "How To Clean Your Couch And Other Furniture | Better | NBC News",
             "secondDuration": 43,
             "group": "group_7"
+        },
+        {
+            "videoId": "A12c4Rk5gFE",
+            "title": "Full Panel: Anger Erupts Over Death Of George Floyd | Meet The Press | NBC News",
+            "secondDuration": 435,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

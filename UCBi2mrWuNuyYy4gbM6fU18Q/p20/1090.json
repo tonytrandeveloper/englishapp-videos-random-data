@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qBDlpDQHPgY",
-            "title": "The Rundown: Top headlines today: Dec. 9, 2021",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "1tBfQi1OcyI",
             "title": "Protests Weaken Ayatollah's Grip",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "'Oh yeah, we can. Will we? I'm not sure': Rep. Clyburn on if Dems can beat Trump | ABC News",
             "secondDuration": 397,
             "group": "group_7"
+        },
+        {
+            "videoId": "dBMn_smgEOg",
+            "title": "Mean Moms: A New Kind of Bully",
+            "secondDuration": 363,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

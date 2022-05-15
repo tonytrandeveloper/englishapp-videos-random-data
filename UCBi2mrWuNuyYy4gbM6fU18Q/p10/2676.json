@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QZaLYKtlz4Y",
-            "title": "Robert Pattinson on 'Daily Show'; Sheen Back on Twitter",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "c9I-aXBfv2g",
             "title": "US Surgeon General: ‘We’re trying to learn the lessons’ from other countries",
             "secondDuration": 316,
@@ -61,8 +55,14 @@
             "title": "Assange defends WikiLeaks' publication of CIA hacking docs",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "Lfs-lqA8sps",
+            "title": "Firestorm as FBI investigation on Kavanaugh concludes",
+            "secondDuration": 328,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

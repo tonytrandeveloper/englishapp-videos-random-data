@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "B2EF-h8IUT0",
-            "title": "Fort Lauderdale Airport Shooting: Esteban Santiago Identified as Suspect",
-            "secondDuration": 351,
-            "group": "group_7"
-        },
-        {
             "videoId": "saLqFJOtdQk",
             "title": "'We're just trusting God’: Friend of kidnapped American missionaries in Haiti",
             "secondDuration": 324,
@@ -61,8 +55,14 @@
             "title": "Vindman and Williams grilled over Ukraine call",
             "secondDuration": 538,
             "group": "group_7"
+        },
+        {
+            "videoId": "PzydtzG7ptA",
+            "title": "Independence Day: Troops Come Home",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

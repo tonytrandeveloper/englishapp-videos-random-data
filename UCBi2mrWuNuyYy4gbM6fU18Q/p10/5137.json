@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UdzZHuqV1mw",
-            "title": "Amanda Knox Faces a Life Sentence",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "-jq62grrjB0",
             "title": "Andreas Lubitz: Details Revealed about Germanwings Co-Pilot",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "What's next after divisive Ford, Kavanaugh hearing",
             "secondDuration": 312,
             "group": "group_7"
+        },
+        {
+            "videoId": "DDJuFO-NsKU",
+            "title": "Capitol Police arrest suspected white supremacist",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

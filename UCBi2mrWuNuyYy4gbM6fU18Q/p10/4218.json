@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "H8TU9eMwT10",
-            "title": "What Makes the Perfect Holiday Ad?",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "VmXVlGIiyBc",
             "title": "Thanksgiving Recipes: Pumpkin and Pecan Pie Recipes, Unique Pie Recipes",
             "secondDuration": 176,
@@ -61,8 +55,14 @@
             "title": "'Fresh Off the Boat':  Fresh Take On American Dream",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "1LBkuSC4vOg",
+            "title": "Donald Trump arrives in Paris at the invitation of France's president, Emmanuel Macron",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

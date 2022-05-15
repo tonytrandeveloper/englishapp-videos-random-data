@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PuosJWUdQ_Q",
-            "title": "[Vietsub+Lyrics] deja vu - Olivia Rodrigo",
-            "secondDuration": 247,
-            "group": "group_4"
-        },
-        {
             "videoId": "RiT6ReKOrtw",
             "title": "[Vietsub+Lyrics] Ready Aim Fire - Imagine Dragons",
             "secondDuration": 265,
@@ -61,8 +55,14 @@
             "title": "[Vietsub+Lyrics] Are You With Me - Lost Frequencies",
             "secondDuration": 168,
             "group": "group_4"
+        },
+        {
+            "videoId": "YTxNiGLl9iA",
+            "title": "[Vietsub+Lyrics] Until You - Shayne Ward",
+            "secondDuration": 245,
+            "group": "group_4"
         }
     ],
     "nbPages": 36,
-    "nbResults": 357
+    "nbResults": 356
 }

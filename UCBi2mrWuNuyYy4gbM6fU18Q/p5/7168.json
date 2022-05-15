@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PXPcVG-yk9c",
-            "title": "Measles Outbreak in 13 States",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "uwNr3h7ySuU",
             "title": "How these parents turned their screen time into family time together",
             "secondDuration": 176,
@@ -31,8 +25,14 @@
             "title": "Bear beats the heat in family's pool",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "qhG3VYaUAI4",
+            "title": "Going Inside a Man's Mind With Steve Harvey",
+            "secondDuration": 490,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

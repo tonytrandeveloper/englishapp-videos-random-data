@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wUsa3yh7UUw",
-            "title": "ABC News Prime: Pediatric COVID-19 surge; Biden visits NJ, NY after Ida; Wait for justice after 9/11",
-            "secondDuration": 5266,
-            "group": "group_7"
-        },
-        {
             "videoId": "w2tXhzo2cfs",
             "title": "Jesse James on Sandra Bullock Marriage: 'I Wanted to Get Caught' (05.04.2011)",
             "secondDuration": 311,
@@ -121,8 +115,14 @@
             "title": "Bob McDonnell and Antonio Villaraigosa Debate",
             "secondDuration": 808,
             "group": "group_7"
+        },
+        {
+            "videoId": "FFXHRYRmF0o",
+            "title": "Iran launches missiles at US military facilities in Iraq",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

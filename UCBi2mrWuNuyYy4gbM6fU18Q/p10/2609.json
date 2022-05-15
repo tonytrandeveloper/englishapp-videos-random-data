@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "U4ilanREKlM",
-            "title": "Ruth Bader Ginsburg’s personal trainer honors her with pushups | WNT",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "EQzb4WFRV1E",
             "title": "Vladimir Putin Hails Donald Trump's Victory",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "When the Moon Photobombs Planet Earth",
             "secondDuration": 37,
             "group": "group_7"
+        },
+        {
+            "videoId": "MfLYPJohoh0",
+            "title": "A Tribute to Peter Jennings",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

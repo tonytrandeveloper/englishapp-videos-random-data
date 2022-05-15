@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sD6sSbEVz7A",
-            "title": "Weinstein found guilty on 2 counts, not guilty on 3 others",
-            "secondDuration": 630,
-            "group": "group_7"
-        },
-        {
             "videoId": "heWD_7VpAD4",
             "title": "Donald Trump Says Hillary Clinton Has a 'Major Problem'",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "Nation’s leading fruit provider pivots to survive",
             "secondDuration": 246,
             "group": "group_7"
+        },
+        {
+            "videoId": "BioWIYk9PPI",
+            "title": "US State Department expels 2 Cuban diplomats",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

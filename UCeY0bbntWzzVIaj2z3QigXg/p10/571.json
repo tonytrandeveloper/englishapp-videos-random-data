@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "M-divkoZBRs",
-            "title": "Satellite Photos Show Work On North Korean Site Linked To Long-Range Missiles | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "pTE0bvuUASQ",
             "title": "Eastern U.S. Slammed With Severe Weather | NBC Nightly News",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "Watch Live: President Donald Trump Delivers Remarks On U.S. 5G Deployment | NBC News",
             "secondDuration": 1303,
             "group": "group_7"
+        },
+        {
+            "videoId": "CUrwX2WAJ84",
+            "title": "Apple Sues Israeli Spyware Company For Selling iPhone Hacking Tools",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

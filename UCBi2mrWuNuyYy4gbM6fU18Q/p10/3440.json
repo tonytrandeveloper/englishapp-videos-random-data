@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "noDY9uZETac",
-            "title": "President Obama Takes Aim at Republicans",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "o2cmucT3UJU",
             "title": "Vice President Joe Biden Meets With National Rifle Association",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Trump Supporter Chased, Kicked by California Police Shooting Protesters",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "WqTMBM1XVwQ",
+            "title": "ABC News Prime: Hurricane Delta making landfall; Governor kidnapping plot; Pres. Trump’s rally plans",
+            "secondDuration": 3605,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

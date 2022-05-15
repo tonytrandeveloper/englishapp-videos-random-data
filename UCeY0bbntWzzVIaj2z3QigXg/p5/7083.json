@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2eRiTXmXpPY",
-            "title": "Biden Takes Immediate Action On First 100 Days Agenda | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "C_7zCmW6k1o",
             "title": "Live Coverage: Analysis As Redacted Mueller Report Is Released | NBC News",
             "secondDuration": 15453,
@@ -31,8 +25,14 @@
             "title": "Willie Robertson Of Duck Dynasty Gives Speech At RNC | NBC News",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "eOFDHLG55xA",
+            "title": "Senator James Lankford: 'I Am A No' On Taxes Unless Deficit Is Managed | Meet The Press | NBC News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

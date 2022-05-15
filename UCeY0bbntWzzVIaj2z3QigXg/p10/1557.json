@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JTFlw-gM9gY",
-            "title": "Iran Marks 39th Anniversary Of Islamic Revolution Amid Tension | NBC Nightly News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "UhFoJ4k9udk",
             "title": "Meteor Dazzles As It Plunges From The Night Sky | NBC News NOW",
             "secondDuration": 43,
@@ -61,8 +55,14 @@
             "title": "Roy Moore's Opponent Doug Jones Focused On Alabama Issues | NBC News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "2ZlZTj5Lh5Q",
+            "title": "Hackers Target CPA Computer Network | NBC Nightly News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

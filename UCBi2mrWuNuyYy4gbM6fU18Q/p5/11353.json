@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KysA5xwdDHU",
-            "title": "Families USA's Ron Pollack on 'Top Line'",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "x_X4rChiRoM",
             "title": "Trump Signs Order to Move Forward Keystone, Dakota Access Pipelines",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Russian journalist Marina Ovsyannikova continues to speak out",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "oYEoUtHOgeM",
+            "title": "Taylor Swift scheduled to testify in high-profile lawsuit",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

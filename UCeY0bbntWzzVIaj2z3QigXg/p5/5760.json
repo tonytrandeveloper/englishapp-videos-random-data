@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WC53yRhuGV4",
-            "title": "Louisiana On High Alert As Hurricane Ida Approaches",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "qhvtf1C8jcI",
             "title": "Kashmir Security Lockdown Results In 2,300 People Detained | NBC News Now",
             "secondDuration": 388,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - October 9th",
             "secondDuration": 1298,
             "group": "group_7"
+        },
+        {
+            "videoId": "qpL-rwoohXU",
+            "title": "Humans To Blame For The Coronavirus? How Deforestation Gives Rise To Pandemics | Think | NBC News",
+            "secondDuration": 461,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

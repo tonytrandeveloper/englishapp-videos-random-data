@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VLeFAeG9MzY",
-            "title": "Ecuador Earthquake | Rescuers Race to Find Survivors",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "a1U4RzK05pE",
             "title": "NFL Settles Concussion Lawsuit, Young Players Still at Risk",
             "secondDuration": 127,
@@ -121,8 +115,14 @@
             "title": "Activists say new election laws make it harder for people to vote",
             "secondDuration": 308,
             "group": "group_7"
+        },
+        {
+            "videoId": "PaENnyBMTe0",
+            "title": "Negotiations slow as government shutdown looms",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ehqh6_H-KJA",
-            "title": "Prison Inmates Allegedly Abused in Interrogations, NYT Finds | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZfLNeOlNCWg",
             "title": "Hear What President Donald Trump Said During Campaign Rally Attended By Bomb Suspect | NBC News",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "Growing Outrage Over Dozens Of Gas Explosions Near Boston | NBC Nightly News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "xICGGQNnt9g",
+            "title": "Gov. Andrew Cuomo Introduces NYS-Branded Hand Sanitizer To Help Combat Coronavirus | NBC News",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

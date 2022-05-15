@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eVlT9tzipLY",
-            "title": "Pacquiao vs Mayweather: Boxing's Richest Prize Fight | NBC Nightly News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "TSJNal_BSm8",
             "title": "Jake Gyllenhaal And Jeff Bauman On The Inspiring Message Of 'Stronger' | NBC News",
             "secondDuration": 636,
@@ -61,8 +55,14 @@
             "title": "Debate Major Opportunity For Hillary Clinton To Regain Lost Support | NBC Nightly News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "NuxcgxIsXpo",
+            "title": "'Hyperinflation': Concerns Rise Ahead Of Holidays, Economists Say It's Not Happening",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "3fKPXlgBV_Y",
-            "title": "'Duck Dynasty' Stars Cook Up Their Favorite Recipes",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "tbs0Ufy7NGg",
             "title": "Powerball Jackpot Winning Numbers: New Jersey Home to Winning Ticket, ID Still Unknown",
             "secondDuration": 143,
@@ -301,8 +295,14 @@
             "title": "Illinois man harasses a woman for wearing Puerto Rican shirt",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "n7HnVZHxHJ8",
+            "title": "Sam Smith Is Taking A Short Break From Music",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

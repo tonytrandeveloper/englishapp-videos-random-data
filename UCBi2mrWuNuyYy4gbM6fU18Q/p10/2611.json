@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dnviB3mWGos",
-            "title": "Trump: Election is 'Rigged'",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "QDIX6BNljWQ",
             "title": "US recognizes Indigenous Peoples' Day",
             "secondDuration": 342,
@@ -61,8 +55,14 @@
             "title": "Island of Puerto Rico 'destroyed' by Hurricane Maria",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "wETU8PwhnZo",
+            "title": "More than 20 dead, 100 injured after Las Vegas shooting: police | ABC News",
+            "secondDuration": 282,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

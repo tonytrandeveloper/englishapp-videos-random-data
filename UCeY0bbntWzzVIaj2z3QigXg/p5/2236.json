@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wH_ikmkpovk",
-            "title": "Compilation Of Nepal Earthquake's Most Dramatic Footage | NBC News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "E7a_AAtv4Wc",
             "title": "Joe Biden Discusses Health Care With Affordable Care Act Recipients At The 2020 DNC | NBC News",
             "secondDuration": 251,
@@ -31,8 +25,14 @@
             "title": "White House Responds To Donald Trump's Reaction Tweet On Obama Endorsement | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "VKZ1w3Ejs6M",
+            "title": "European Covid Restrictions Spark Protests As Omicron Spreads",
+            "secondDuration": 304,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

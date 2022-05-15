@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "WCkGKraStT0",
-            "title": "Susan Collins: 'We Still Have Questions' For CIA Nominee Haspell (Full) | Meet The Press | NBC News",
-            "secondDuration": 459,
-            "group": "group_7"
-        },
-        {
             "videoId": "b8R_CVz1fvA",
             "title": "If No Repeal And Replace, Can Obamacare Stand On Its Own? | NBC Nightly News",
             "secondDuration": 120,
@@ -301,8 +295,14 @@
             "title": "SpaceX’s Crew Dragon Capsule Heads Back To Earth | Mach | NBC News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "LAROLtEfzXs",
+            "title": "Michael Cohen Was Selling Access To Donald Trump, Stormy Daniels’ Lawyer Alleges | NBC Nightly News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

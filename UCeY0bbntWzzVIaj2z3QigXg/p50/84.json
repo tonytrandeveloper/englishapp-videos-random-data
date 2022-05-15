@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "E1UTfMCjwGA",
-            "title": "El Paso, Texas, Shooting: Witness Videos Capture Terrifying Scene | NBC News",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "cEZbDW-2yIs",
             "title": "Lucha Libre Wrestling’s Next Great Villian: A Donald Trump Supporter | NBC News",
             "secondDuration": 82,
@@ -301,8 +295,14 @@
             "title": "North Korea: Missiles Launches Were Drill For Striking U.S. Forces In Japan | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "5pCmb6i1tWk",
+            "title": "NBC News NOW Full Broadcast - June 4th, 2021",
+            "secondDuration": 2887,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

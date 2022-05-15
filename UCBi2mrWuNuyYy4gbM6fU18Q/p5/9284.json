@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LvwDojCd6vk",
-            "title": "Protect Yourself From Swine Flu",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "VroPBqHt-7w",
             "title": "What's Changed Since Lehman Collapsed?",
             "secondDuration": 264,
@@ -31,8 +25,14 @@
             "title": "Rescuers search for survivors after Mexico earthquake",
             "secondDuration": 306,
             "group": "group_7"
+        },
+        {
+            "videoId": "gRipjQZcY5c",
+            "title": "ISIS in the Crosshairs in Syria",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

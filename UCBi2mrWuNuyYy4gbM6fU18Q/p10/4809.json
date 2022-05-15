@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nJJc8ODT9to",
-            "title": "Teachers in Los Angeles strike for the first time in 30 years",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "i9vQBjImk4c",
             "title": "New developments in Wednesday’s terror attack in London",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "‘We are closer to civil war than any of us would like to believe’: Political scientist",
             "secondDuration": 404,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZyfW0mqpoxo",
+            "title": "Michael Cohen reports to prison",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oqAT74k9raI",
-            "title": "‘Star Wars’ stars talk about ending the legendary saga, ‘deep love’ between co-stars | Nightline",
-            "secondDuration": 412,
-            "group": "group_7"
-        },
-        {
             "videoId": "YON3WS-kxLA",
             "title": "Vaccine Watch: How a COVID-19 vaccine will be distributed",
             "secondDuration": 295,
@@ -121,8 +115,14 @@
             "title": "Swimmer dies from shark attack",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "9E6E-5G6APQ",
+            "title": "50-year-old mother’s hard-earned college diploma",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

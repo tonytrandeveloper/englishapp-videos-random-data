@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JDeZHOa1tiU",
-            "title": "Jussie Smollett Found Guilty Of Falsely Reporting Hate Crime",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "ra8qxW0SV1w",
             "title": "Biden Claims Jobs Numbers Are 'No Victory To Be Celebrated' Amid Coronavirus | NBC News NOW",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "Man Dies After Shark Attack On Cape Cod | NBC Nightly News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "QexKL3eWegk",
+            "title": "President Donald Trump Denies Being Interviewed by Michael Wolff | NBC News",
+            "secondDuration": 303,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

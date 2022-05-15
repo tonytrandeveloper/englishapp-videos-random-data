@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AW2L0_mSxoo",
-            "title": "Terror Probe of United Passengers",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "aCVO_fhumuE",
             "title": "Police Release Interrogation Tapes in Kayak Murder Mystery",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "TECH: Technology Talks Back",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "ax0BZmAExyA",
+            "title": "Drug lord El Chapo gets life in prison",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

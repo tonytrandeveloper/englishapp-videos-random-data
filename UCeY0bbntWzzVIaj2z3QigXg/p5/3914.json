@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ku3oyRs_uDk",
-            "title": "Trump Calls Woodward ‘Whack Job’ Over Coronavirus Revelations | NBC News NOW",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "RmR1S4_EuSE",
             "title": "Woman Who Penned Confidential Brett Kavanaugh Letter Speaks Out | NBC Nightly News",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Roger Ailes Resigns as Chairman and CEO of Fox News | NBC Nightly News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "kM0j7clHqTU",
+            "title": "Roger Stone Pleads Not Guilty To Charges Brought By Special Counsel | NBC News",
+            "secondDuration": 265,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

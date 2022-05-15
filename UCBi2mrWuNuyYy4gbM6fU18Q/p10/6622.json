@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SS6_71yI4EY",
-            "title": "'This Week': Countdown to Shutdown",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "BHrwVrBG7S0",
             "title": "Chicago Students Rebel for Healthier Food",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Manhunt underway after packages sent to CNN, Democrats",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "M5XdW2O3tAY",
+            "title": "Grammy Weekend: Celebrity's Party Overnight",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

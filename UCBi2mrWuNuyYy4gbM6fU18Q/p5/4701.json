@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qTCrIEXANLA",
-            "title": "Karzai Sworn In Despite Corruption Allegations",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "xmTdrHqkOes",
             "title": "Chris Christie Sounds Off on Presidential Race",
             "secondDuration": 224,
@@ -31,8 +25,14 @@
             "title": "Maria Sharapova Speaks Out Amid Doping Controversy",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "xI4ExcdHkjQ",
+            "title": "House Intel Chair Schiff holds news conference on impeachment | ABC News",
+            "secondDuration": 1469,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

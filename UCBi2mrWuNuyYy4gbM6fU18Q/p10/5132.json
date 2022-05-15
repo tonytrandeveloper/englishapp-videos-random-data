@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "y1nq2IGcQxI",
-            "title": "Washington, D.C., sees 1st major snow in years",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "pAbeiIsIWTw",
             "title": "Taiwan Plane Crash Survivor: 'I Felt Something Was Not Right'",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "World's Smallest Car Given Test Drive by 'Top Gear' Host Jeremy Clarkson",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "UNHgfkiSPF8",
+            "title": "Tricks and Treats for a Successful Football Party | ABC News",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

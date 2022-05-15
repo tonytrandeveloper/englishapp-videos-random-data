@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0vfmfc1skqk",
-            "title": "Watch: U.S. Mayors Discuss Race, Recession, Pandemic | NBC News",
-            "secondDuration": 4149,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ye5ktzCq6ww",
             "title": "Covid Surge Pushing California Hospitals To The Brink | NBC News NOW",
             "secondDuration": 876,
@@ -31,8 +25,14 @@
             "title": "ISIS Driven From Sulaiman Pek | NBC News",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "VEYckPNRreQ",
+            "title": "State of the Union: Reflecting On Historic, Viral Moments From Past Addresses",
+            "secondDuration": 295,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

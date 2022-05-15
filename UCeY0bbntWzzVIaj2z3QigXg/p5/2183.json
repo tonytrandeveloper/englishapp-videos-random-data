@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YtXPqESLu4Q",
-            "title": "Trump Speaks At Campaign Rally In Colorado | NBC News (Live Stream Recording)",
-            "secondDuration": 7100,
-            "group": "group_7"
-        },
-        {
             "videoId": "-KNkHqqLG08",
             "title": "Senators React Following Deputy AG Briefing On FBI, James Comey | NBC News",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Video Shows Park Ranger Using Taser On Native American Man | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "rRFoilWZWoI",
+            "title": "North Korean TV Says 'Millions Volunteer' To Join The Army | NBC News",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

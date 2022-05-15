@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B9vJ9A0asfs",
-            "title": "White House Press Briefing - March 1, 2018 | NBC News",
-            "secondDuration": 992,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ej98g-kCJ5I",
             "title": "Massive Storm System Devastates Southeast | NBC News",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Iranian Scientist Who Made Nuclear Deal with U.S. Speaks to NBC News | NBC Nightly News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "cRaNfNABJeQ",
+            "title": "Calif. Police To Determine If Man Arrested For DUI Was Using Tesla’s Autopilot | NBC Nightly News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

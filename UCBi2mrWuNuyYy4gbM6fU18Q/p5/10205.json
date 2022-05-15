@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PMGAgjxdV7k",
-            "title": "Trump Officials Admit 'Missed Opportunities' at First Debate Against Hillary Clinton",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "jQK1SIrc-Ds",
             "title": "Florida officials give update on Surfside tragedy | ABC News",
             "secondDuration": 2569,
@@ -31,8 +25,14 @@
             "title": "Wikileaks Fallout: Hillary Clinton Repairs Relations",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "z-AHTuUotLM",
+            "title": "Texas Officer Investigated After Shooting Unarmed Black Teen",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

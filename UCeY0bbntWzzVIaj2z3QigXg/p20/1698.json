@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "76npaHULaBw",
-            "title": "Robot Performs Successful Surgery On Pig | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "CmJoUPwxu0o",
             "title": "Crash That Killed California Family May Have Been Intentional | NBC Nightly News",
             "secondDuration": 98,
@@ -121,8 +115,14 @@
             "title": "Phoenix Serial Killer Now Linked to 9 Shootings, 7 Deaths | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "kJwmbsOuRsw",
+            "title": "FDA Advisory Committee Recommends Approval Of Pfizer Covid Vaccine | NBC News",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

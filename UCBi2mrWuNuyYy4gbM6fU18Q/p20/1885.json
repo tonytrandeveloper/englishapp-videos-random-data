@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EJ-3MMqd0gw",
-            "title": "Massive infernos devastate Colorado",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "P_CTh0tgWvI",
             "title": "Hawaii braces for volcano's explosive steam eruption",
             "secondDuration": 261,
@@ -121,8 +115,14 @@
             "title": "SpaceX successfully launches 4 astronauts into space on recycled rocket",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZxAQiD_DTmk",
+            "title": "'Man of Steel' Cast Talk Taking on Superman",
+            "secondDuration": 534,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

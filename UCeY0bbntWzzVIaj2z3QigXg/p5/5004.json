@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "O4RhjKohiTA",
-            "title": "Trump Campaign Files Lawsuit In Wisconsin Challenging Election Results | NBC News NOW",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "nViKwHBKMo4",
             "title": "Watch Jim Jordan's Full Speech At The 2020 RNC | NBC News",
             "secondDuration": 202,
@@ -31,8 +25,14 @@
             "title": "Watch: Moving Moments From Vindman’s Opening At Impeachment Hearing | NBC News",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "4D5wM0Hmaes",
+            "title": "Pentagon On Lockdown After Reports Of Gunshots Nearby",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EVl1VxNp_4Y",
-            "title": "About 1,000 people involved in search and rescue efforts",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "_FPpjFwYJ6o",
             "title": "Election day in Russia proves triumphant for Putin",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Donald Trump FULL SPEECH at FINAL Rally With Mike Pence",
             "secondDuration": 4055,
             "group": "group_7"
+        },
+        {
+            "videoId": "vjbGeQkE7aI",
+            "title": "ABC News Live Update: House to vote on whether to remove Rep. Marjorie Taylor Greene",
+            "secondDuration": 889,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

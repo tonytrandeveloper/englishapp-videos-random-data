@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "r0BuSu8Sex8",
-            "title": "First major snowfall blankets 20 states from Texas to New England",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "u13UBLBm2Uk",
             "title": "The Conversation: Chile Miners and Your Mind",
             "secondDuration": 84,
@@ -121,8 +115,14 @@
             "title": "Baby Lisa Irwin Search Enters 11th Day; Parents Cooperate With Police to Clear Names",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "TOyxCCCEeMo",
+            "title": "Plane Crashes in Florida Parking Lot",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

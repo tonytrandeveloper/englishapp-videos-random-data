@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "boYGul_BL90",
-            "title": "Breaking down Trump's 1st State of the Union",
-            "secondDuration": 712,
-            "group": "group_7"
-        },
-        {
             "videoId": "_mSx_RjJtgU",
             "title": "Could Michele Bachmann Be The Republican Nominee?",
             "secondDuration": 255,
@@ -31,8 +25,14 @@
             "title": "Senator Kerry and Lugar on START",
             "secondDuration": 663,
             "group": "group_7"
+        },
+        {
+            "videoId": "HJvR-n13Mls",
+            "title": "ABC News Live Update: Wildfires claim lives and raze thousands of homes in the West",
+            "secondDuration": 616,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

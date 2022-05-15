@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YnfN_9HEwYg",
-            "title": "France Intensifies Airstrikes in Syria",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "4Zv_7Jx9cQE",
             "title": "John Lennon's son performs 'Imagine' to support Ukraine | WNT",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "Attack at Fort Hood",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "62Ry21eX4q8",
+            "title": "Rep. Nikema Williams discusses gun control and Equal Pay Day",
+            "secondDuration": 398,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

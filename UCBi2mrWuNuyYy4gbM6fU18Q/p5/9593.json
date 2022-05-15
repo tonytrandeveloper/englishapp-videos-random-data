@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IJTazXVr9K8",
-            "title": "Honoring Cokie Roberts",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "_3Oq2Oe8pBQ",
             "title": "ABC News Prime: Pfizer seeks FDA booster approval; Aaron Rodgers on defense; New Jan. 6th subpoenas",
             "secondDuration": 5347,
@@ -31,8 +25,14 @@
             "title": "ABC News Prime: Trump impeached for 2nd time; US Capitol show of force; Search for mob suspects",
             "secondDuration": 3611,
             "group": "group_7"
+        },
+        {
+            "videoId": "ToC10kbvMR8",
+            "title": "Notre Dame Cathedral inferno: 'It was heartbreaking to watch'",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

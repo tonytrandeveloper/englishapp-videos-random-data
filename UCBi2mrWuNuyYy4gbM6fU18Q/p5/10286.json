@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dOETgXMMxu8",
-            "title": "What is next in Las Vegas shooting investigation",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "Psncewr3Zaw",
             "title": "Weird Al Yankovic Spoofs Lady Gaga: 'GMA' Pop Heat Index",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "'This Week': Crisis in Ukraine",
             "secondDuration": 385,
             "group": "group_7"
+        },
+        {
+            "videoId": "dxXQGVSv6kQ",
+            "title": "El Chapo Makes Court Appearance in New York",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

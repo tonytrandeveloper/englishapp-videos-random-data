@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mVr-8YJ5s-I",
-            "title": "WEBCAST: Hollywood Reacts To Sony Hacking Scandal",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "tg7caMpfJk0",
             "title": "Jackson Tribute Is Worldwide Sensation",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "1 person from Kennedy compound transported to hospital",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "7eyzgX1xK2c",
+            "title": "Trump's closest and longtime confidante resigns from post",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

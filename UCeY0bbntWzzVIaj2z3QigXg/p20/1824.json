@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4tb1FP3iw40",
-            "title": "Sources: Intel Has Drawn \"Direct Links\" To Russia In Election Hackings | NBC Nightly News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "GCkf-3f8w00",
             "title": "Schiff Slams Republicans: Trump Actions 'No Less Odious Because It Was Discovered' | NBC News",
             "secondDuration": 450,
@@ -121,8 +115,14 @@
             "title": "Two US Special Forces Killed In Anti-ISIS Raid In Afghanistan | NBC Nightly News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "AxvzI_3TuEU",
+            "title": "Live: Trump Speaks At Campaign Rally In North Carolina | NBC News",
+            "secondDuration": 4604,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

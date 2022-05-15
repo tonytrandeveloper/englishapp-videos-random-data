@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Yw4sbMiGl4o",
-            "title": "Trump proposes path to citizenship for 1.8M",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "w7sk2PYqzFE",
             "title": "Tim Kaine on the Final Presidential Debate",
             "secondDuration": 189,
@@ -61,8 +55,14 @@
             "title": "President Obama Believes Russian President Putin Behind DNC Hacked Emails",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "vq3jr8gF9CU",
+            "title": "Tad Cummins, who is accused of kidnapping his 15-year-old student remains jailed",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

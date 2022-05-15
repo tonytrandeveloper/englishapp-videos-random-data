@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cN-iWQlSHiY",
-            "title": "Topps Baseball Cards Celebrates 70 Years Of A Sports Tradition",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "exwROZfgBeM",
             "title": "Unemployment Claims Rise To Nearly 50 Million Amid Coronavirus Pandemic | NBC News NOW",
             "secondDuration": 1100,
@@ -61,8 +55,14 @@
             "title": "Bill Cosby’s Sexual Assault Sentencing To Begin On Monday | NBC Nightly News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "jFNpHX-xlYM",
+            "title": "Gene Wilder, Legendary Actor and ‘Willy Wonka’ Star, Dies at Age 83 | NBC Nightly News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

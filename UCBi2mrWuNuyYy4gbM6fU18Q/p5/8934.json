@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tcmGp9PcGik",
-            "title": "Stanford Swimmer Receives Lifetime Ban",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "kuM3Lr-bVBU",
             "title": "New warnings as COVID infections rise in the US",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Former Ebola czar speaks on testing and tracking COVID-19",
             "secondDuration": 444,
             "group": "group_7"
+        },
+        {
+            "videoId": "6Zwt4hno-vk",
+            "title": "UK prime minister: 'We are not afraid'",
+            "secondDuration": 347,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

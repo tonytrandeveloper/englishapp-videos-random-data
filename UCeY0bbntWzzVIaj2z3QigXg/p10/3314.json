@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "__GbLIXJibc",
-            "title": "Slowing Immigration Worsens Job Market Shortages",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "6D4S-ILHYSs",
             "title": "‘He Wasn’t Paying Attention To The Rules’: Voters React To Trump’s Covid-19 Diagnosis | NBC News NOW",
             "secondDuration": 730,
@@ -61,8 +55,14 @@
             "title": "Europe, Iran Attack President Donald Trump’s Iran Deal Withdrawal | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "CY-mhiUCPOk",
+            "title": "Watch: Republican National Convention Officially Nominates Trump | NBC News",
+            "secondDuration": 8837,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

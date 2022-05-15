@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "G2GJVFjxGRg",
-            "title": "Texas Gulf Coast area threatened by days of rain ahead",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "EYPWzOYs7I8",
             "title": "Spain Train Derailment Aftermath Video: Disaster Is Worst in 40 Years",
             "secondDuration": 72,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Delivers Fiery Immigration Speech",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "GTp9hoNnncY",
+            "title": "Alec Baldwin Testifies Against Alleged Stalker",
+            "secondDuration": 449,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

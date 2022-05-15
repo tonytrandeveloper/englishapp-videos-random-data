@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wR5YECD9pyk",
-            "title": "New vaccine recommendations for adults over 65 or with pre-existing conditions | WNT",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "wfBXlM7_fbg",
             "title": "Laura expected to make landfall as a Category 4 hurricane",
             "secondDuration": 124,
@@ -121,8 +115,14 @@
             "title": "Kerry Meets Putin in Moscow to Discuss Syria",
             "secondDuration": 22,
             "group": "group_7"
+        },
+        {
+            "videoId": "QXSUnGOJv24",
+            "title": "Surveillance Video: Pharmacy Robberies Increase",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

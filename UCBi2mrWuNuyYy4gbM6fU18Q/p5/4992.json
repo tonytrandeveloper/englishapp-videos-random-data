@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X2rd4PdXBf4",
-            "title": "Gas Prices: Nickel and Diming Americans",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "QAD9x4vZjkU",
             "title": "Federal judge criticizes attorney general’s handling of Mueller report",
             "secondDuration": 83,
@@ -31,8 +25,14 @@
             "title": "Storms sweep north as millions brace for possible tornadoes l GMA",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "NBDxGzBVkAU",
+            "title": "Boston’s rising COVID-19 fears as colleges begin to open",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

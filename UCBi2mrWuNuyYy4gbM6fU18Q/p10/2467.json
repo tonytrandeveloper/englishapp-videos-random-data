@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PxuhebqmwEs",
-            "title": "ABC exclusive: Biden on running for re-election l ABC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "S04hT-nGvR4",
             "title": "Amplified: The Love Language",
             "secondDuration": 349,
@@ -61,8 +55,14 @@
             "title": "Bellman claims hotel worker was not attempting to rob father",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "viJx5_ZH-1I",
+            "title": "The Briefing Room: Democratic debate, Trump rally, China, North Korea, Iran, Afghanistan",
+            "secondDuration": 1837,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

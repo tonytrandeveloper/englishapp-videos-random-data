@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kZfXGxnMnS4",
-            "title": "Suzanne Somers on her unconventional approach to aging: ‘I honestly love my age’ | Nightline",
-            "secondDuration": 442,
-            "group": "group_7"
-        },
-        {
             "videoId": "g1VvaP_HYTk",
             "title": "Australia floods, Asylum seekers, Boulder attack: Week in Photos",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "South Carolina sees spike in positive coronavirus cases",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "dtu16Fenibc",
+            "title": "SUV Cliff Rescue: Hero's Identity Revealed",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

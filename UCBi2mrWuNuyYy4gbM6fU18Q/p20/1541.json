@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VN3nSbdZhvw",
-            "title": "Snow Fort Dangers",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "i16FAne2Gso",
             "title": "Severe storms devastate Heartland states",
             "secondDuration": 166,
@@ -121,8 +115,14 @@
             "title": "Donald Trump, Alec Baldwin Tweet Over Continuing 'SNL' Skits",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zr4pRupLQGY",
+            "title": "WNBA star marries newly-free man",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

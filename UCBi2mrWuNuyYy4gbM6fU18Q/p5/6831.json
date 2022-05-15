@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sLv8o383DwQ",
-            "title": "Steph Curry Schools Summer Camper",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "gwNyu6Rq43w",
             "title": "White House press briefing  on Mueller subpoena of Trump organization, Russia Sanctions | ABC News",
             "secondDuration": 1941,
@@ -31,8 +25,14 @@
             "title": "Reuters' Jeff Mason on 'Top Line'",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "J5x1xMLvPJY",
+            "title": "Trump: 'I really believe I'd run in' Florida school during deadly shooting",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

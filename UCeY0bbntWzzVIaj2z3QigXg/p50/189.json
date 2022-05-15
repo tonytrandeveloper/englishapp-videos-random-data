@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "bSMogTE5m0Q",
-            "title": "NOW Tonight with Joshua Johnson - April 14 | NBC News NOW",
-            "secondDuration": 3107,
-            "group": "group_7"
-        },
-        {
             "videoId": "pxKqxcOPfG8",
             "title": "2 Students, 1 Teacher Injured In S.C. School Shooting, Teen In Custody | NBC Nightly News",
             "secondDuration": 120,
@@ -301,8 +295,14 @@
             "title": "Manchin Calls For Trump To Be Censured: 'His Behavior Cannot Go Unchecked By The Senate' | NBC News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "7qU9oMLDNqs",
+            "title": "Bernie Sanders On Democrats Being A United Party At The ‘She The People’ Forum | NBC News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

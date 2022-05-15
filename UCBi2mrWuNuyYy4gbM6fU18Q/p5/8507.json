@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gYaOZzbX3rg",
-            "title": "Donald Trump Meets Mexico's President",
-            "secondDuration": 238,
-            "group": "group_7"
-        },
-        {
             "videoId": "iZmvGl3EUm0",
             "title": "Chaos After Chile Quake",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "Women with Albinism Battle Ridicule",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "QF2UTZmJzPo",
+            "title": "CIA faces ‘shocking’ lack of diversity",
+            "secondDuration": 359,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

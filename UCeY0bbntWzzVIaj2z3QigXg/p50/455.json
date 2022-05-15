@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "TY_tHs286SU",
-            "title": "A Slow-Motion View of the Women's March | NBC News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "lPL-Wqrz56g",
             "title": "Honoring The Life Of Desmond Tutu",
             "secondDuration": 124,
@@ -301,8 +295,14 @@
             "title": "Who Is Behind The Saudi Oil Attack? | NBC News Now",
             "secondDuration": 396,
             "group": "group_7"
+        },
+        {
+            "videoId": "pU6AB9PQT_o",
+            "title": "Nevada Drops Mask Mandate Despite Vaccination Status As Covid Cases Decline",
+            "secondDuration": 261,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

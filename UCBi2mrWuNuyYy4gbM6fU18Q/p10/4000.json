@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zkH2rLIeU7A",
-            "title": "'Things will get worse before they get better': Dr. Anthony Fauci | ABC News",
-            "secondDuration": 689,
-            "group": "group_7"
-        },
-        {
             "videoId": "sDf9SGbup9M",
             "title": "How Will Jay Carney's First Day At The Podium Go? 2/18/2011",
             "secondDuration": 364,
@@ -61,8 +55,14 @@
             "title": "National Burger Day",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "AWwezekzlXA",
+            "title": "Anthony Weiner Scandal: Body Language Similarities to Bill Clinton, Tiger Woods, Elliot Spitzer",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

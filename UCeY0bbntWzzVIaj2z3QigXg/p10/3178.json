@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PJMr3cA-oNU",
-            "title": "For Colon Cancer Survivors, Following Simple Steps Can Be Life-Changing | NBC Nightly News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "H87wmahruVE",
             "title": "How People Decide To Abstain From Vaccines | NBC News Now",
             "secondDuration": 431,
@@ -61,8 +55,14 @@
             "title": "Funeral For Former First Lady Barbara Bush | NBC News",
             "secondDuration": 9710,
             "group": "group_7"
+        },
+        {
+            "videoId": "MCmdNi46qtg",
+            "title": "Norovirus Wreaking Havoc Across The Country | NBC Nightly News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

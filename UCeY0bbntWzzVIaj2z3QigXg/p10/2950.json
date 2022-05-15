@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "C7xHIT23T1o",
-            "title": "Kazakhstan Launches Deadly Crackdown Against Protesters",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "N-9XStUPtKg",
             "title": "US Marines Corps KC-130 Crashes In Mississippi | NBC Nightly News",
             "secondDuration": 43,
@@ -61,8 +55,14 @@
             "title": "Uncovering The Gay Icons: 'I Owe It To The People Who Came Before Me' | NBC OUT | NBC News",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "ICzOm95wl1E",
+            "title": "Activist Group Works To Combat Gun Violence In NYC",
+            "secondDuration": 351,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

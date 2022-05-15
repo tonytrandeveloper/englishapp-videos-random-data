@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z9S3K3Mrng0",
-            "title": "The accident on the moon that nearly sabotaged historic landing",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "xAGLGbcQAPU",
             "title": "President Trump touts unproven drug as ‘game changer’",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Microsoft CEO in Under Fire for Comments on Women Asking for A Raise",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "-dINNcIyWO0",
+            "title": "Minneapolis mayor calls for officer in George Floyd incident to be charged | ABC News",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

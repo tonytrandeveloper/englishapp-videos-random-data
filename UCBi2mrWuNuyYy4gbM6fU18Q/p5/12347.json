@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GDyGLxNB-D4",
-            "title": "Katy Perry, John Mayer Break-Up: People Magazine Suggests Stars Spending Time Apart",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "cnCLQGEYoIw",
             "title": "New York Gov. Andrew Cuomo announces his resignation",
             "secondDuration": 1377,
@@ -31,8 +25,14 @@
             "title": "Last VCR Manufacturer Is Stopping Production | ABC News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "cHPKwK-OUTE",
+            "title": "Student suspect in high school shooting scare identified",
+            "secondDuration": 335,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

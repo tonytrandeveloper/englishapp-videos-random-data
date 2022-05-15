@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9O7MnCIhj_o",
-            "title": "The Bridge: Coming to America | Jubilee Project | NBC Asian America",
-            "secondDuration": 253,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tyk7rPYK8jE",
             "title": "Trump Doctor Admits He Did Not Reveal Key Information On Trump’s Condition | NBC Nightly News",
             "secondDuration": 163,
@@ -31,8 +25,14 @@
             "title": "Suspected Gunman Killed After Shootout Outside Dallas Courthouse | NBC Nightly News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "n_QJBVKPkDg",
+            "title": "NBC Nightly News Broadcast (Full) - June 4th, 2021",
+            "secondDuration": 1278,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

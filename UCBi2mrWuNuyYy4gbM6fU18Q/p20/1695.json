@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LlKOY396Fcc",
-            "title": "Police Say Speed a Factor in Deadly Crash Involving Caitlyn Jenner",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "FZWbFFenES0",
             "title": "Storm brings heavy snow to the West l ABC News",
             "secondDuration": 152,
@@ -121,8 +115,14 @@
             "title": "How 'Siegfried and Roy' changed Las Vegas forever | Nightline",
             "secondDuration": 412,
             "group": "group_7"
+        },
+        {
+            "videoId": "gMVSNPzuMJs",
+            "title": "New documentary on the alt-right sheds light on the movement's beginnings",
+            "secondDuration": 430,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

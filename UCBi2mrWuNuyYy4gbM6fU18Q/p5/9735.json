@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vXA2uAFtRXk",
-            "title": "Apple CEO Tim Cook Stands Firm Against the FBI",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ia7pOFNdFkI",
             "title": "Winter Without End",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "Carville's Oil Outburst",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "WcY75c0Zueg",
+            "title": "ABC News Live Update: California declares state of emergency as wildfires rage",
+            "secondDuration": 538,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

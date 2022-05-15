@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KKcN74j3p90",
-            "title": "ABC News Exclusive:  Chris Christie Responds to the Bridge Scandal",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "6dofUUCwhvI",
             "title": "What are the telltale signs of heart disease?",
             "secondDuration": 315,
@@ -31,8 +25,14 @@
             "title": "Small businesses await relief from pandemic",
             "secondDuration": 374,
             "group": "group_7"
+        },
+        {
+            "videoId": "eqzTi9QYqDs",
+            "title": "Melissa McCarthy Called a 'Rhino' By Critic Rex Reed, Slams Actresses Weight in 'Identity Theft'",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

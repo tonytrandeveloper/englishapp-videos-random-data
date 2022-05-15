@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KEoB5liesUE",
-            "title": "Over a Barrel: U.S. Oil Addiction",
-            "secondDuration": 286,
-            "group": "group_7"
-        },
-        {
             "videoId": "bb5DeBftLPI",
             "title": "Portals: Humanizing Conflicts Around the World",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Sherrod: 'Worked Against Racism All of My Life'",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gf7GjM7HLRs",
+            "title": "Obama Pins Istanbul Attack on ISIS",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

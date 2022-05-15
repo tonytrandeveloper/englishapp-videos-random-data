@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pbFKg5ZOppo",
-            "title": "'This Week': Rep. Michael McCaul",
-            "secondDuration": 460,
-            "group": "group_7"
-        },
-        {
             "videoId": "hpGKU03Wvk8",
             "title": "First Look at Brad and Angelina's Wedding",
             "secondDuration": 184,
@@ -61,8 +55,14 @@
             "title": "Arson arrest made in connection with California wildfire",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "yfbV-Hn3-ew",
+            "title": "More than 4,500 people hospitalized in Britain for COVID-19 | WNT",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

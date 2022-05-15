@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wa5IP8HE-FA",
-            "title": "Vaccine watch: Where things stand in the race for a vaccine",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "OAGm0_FzpTc",
             "title": "The United States of Tax-mania",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Bikram Yoga Founder Accused of Sexual Assault",
             "secondDuration": 608,
             "group": "group_7"
+        },
+        {
+            "videoId": "CG6Gcw-2RCA",
+            "title": "US Tells Russia Not to Interfere With Election",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

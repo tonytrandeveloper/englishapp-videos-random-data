@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q-j4W_ZFsN0",
-            "title": "Rep. Maxine Waters remembers John Lewis | PRIME",
-            "secondDuration": 512,
-            "group": "group_7"
-        },
-        {
             "videoId": "znUB2ii-uTE",
             "title": "Biden flips on Hyde Amendment",
             "secondDuration": 293,
@@ -31,8 +25,14 @@
             "title": "Idaho Wildfires Continue to Burn, Reaching Level 5",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "J12jDIl2Plc",
+            "title": "Community evacuated following explosion at refinery",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

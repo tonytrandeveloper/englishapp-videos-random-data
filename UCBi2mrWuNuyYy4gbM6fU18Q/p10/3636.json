@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pJMa2IKxSSk",
-            "title": "Washington elite hit by COVID-19 resurgence",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "pcH24iIp5zQ",
             "title": "Nepal Earthquake: Urgent Search For 6 Marines on Military Helicopter",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Briefing Room: Israel bans reps Omar & Tlaib, Trump in New Hampshire, police suicides rising",
             "secondDuration": 1687,
             "group": "group_7"
+        },
+        {
+            "videoId": "pfyP7jyKJBo",
+            "title": "Utah Lt. Gov. Apologizes to LGBT Community",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

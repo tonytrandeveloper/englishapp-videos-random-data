@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CppKpbmj8cE",
-            "title": "Lucky Game Show Contestant Wins Twice on ‘Price Is Right’",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "HFqSqZ24_8M",
             "title": "'This Week' Web Extra: Chris Hughes Answers Viewer Questions",
             "secondDuration": 384,
@@ -61,8 +55,14 @@
             "title": "Flag Inspires Hope Amid the Rubble",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "Axg3ASWRgdU",
+            "title": "SKINNY: \"Wheel\" Host Loses His Cool",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SWu0GikVDiA",
-            "title": "WEBCAST: Wild Weather",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "48adj7l96sY",
             "title": "John Legend and Common Cozy Up with Oscar",
             "secondDuration": 202,
@@ -121,8 +115,14 @@
             "title": "The nation’s capital tells a tale of two cities",
             "secondDuration": 448,
             "group": "group_7"
+        },
+        {
+            "videoId": "8kT0bD6XozI",
+            "title": "Carjacker Drives Off With Kids Inside",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

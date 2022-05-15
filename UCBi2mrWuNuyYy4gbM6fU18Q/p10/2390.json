@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NVB1A5684K0",
-            "title": "Bruce Jenner's Transition: Family Gets Emotional on KUWTK Special | Nightline | ABC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "yQvMli2VQG8",
             "title": "Concerns raised about the Secret Service after recent security breaches",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "Trump: Air Force One Cost 'Totally Out of Control'",
             "secondDuration": 44,
             "group": "group_7"
+        },
+        {
+            "videoId": "DGe7ID5rDyg",
+            "title": "Wife of famed music executive murdered",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

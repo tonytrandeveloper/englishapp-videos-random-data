@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tm4ux1i02TA",
-            "title": "COVID-19 cases rising",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "dSiY7Vy7suI",
             "title": "Ozzy and Sharon Osbourne Split | ABC News",
             "secondDuration": 296,
@@ -61,8 +55,14 @@
             "title": "Alec Baldwin's Wife Describes Wedding in 1st Interview",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "HJy1LaUAEVA",
+            "title": "Before the US Border, Migrants Face Harrowing Journey in Mexico",
+            "secondDuration": 483,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

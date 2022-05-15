@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7OIJlqgUXoA",
-            "title": "Pope Francis Urges Catholics To ‘Tear Down Walls’ | NBC News",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "It_iKRg3lB4",
             "title": "LIVE: Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
             "secondDuration": 1166,
@@ -31,8 +25,14 @@
             "title": "Rival Football Teams Surprise High School Senior With Down Syndrome | Nightly News: Kids Edition",
             "secondDuration": 835,
             "group": "group_7"
+        },
+        {
+            "videoId": "1T4HAt0fs_c",
+            "title": "Live: President Donald Trump Delivers Remarks On Protecting Seniors With Diabetes | NBC News",
+            "secondDuration": 3190,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

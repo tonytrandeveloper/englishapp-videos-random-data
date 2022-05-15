@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NEIkNZvDFnU",
-            "title": "Alleged newsroom shooter sued Capital Gazette for defamation",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "2WaLIS9uIbE",
             "title": "Biden signs order to curb greenhouse gas emissions by transitioning to electric cars",
             "secondDuration": 435,
@@ -61,8 +55,14 @@
             "title": "'True Blood' Star Heats Up 2nd Season of 'Necessary Roughness'",
             "secondDuration": 365,
             "group": "group_7"
+        },
+        {
+            "videoId": "-vAeQ8-iPuk",
+            "title": "Vice President Pence criticized for not wearing mask",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

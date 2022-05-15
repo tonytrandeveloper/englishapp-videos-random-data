@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lt5SwIGsjss",
-            "title": "Third Woman Comes Forward With Allegation Against Brett Kavanaugh | NBC Nightly News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "wolUfDLP2Kw",
             "title": "Trump Speaks At Campaign Rally In Pennsylvania | NBC News",
             "secondDuration": 5277,
@@ -61,8 +55,14 @@
             "title": "White House Holds Press Briefing: April 20 | NBC News",
             "secondDuration": 2571,
             "group": "group_7"
+        },
+        {
+            "videoId": "9bHfSDCS6mQ",
+            "title": "Florida School Shooting Suspect Nikolas Cruz Makes Court Appearance | NBC News",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

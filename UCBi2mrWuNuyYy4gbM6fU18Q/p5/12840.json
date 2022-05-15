@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KoBBO5HCrk8",
-            "title": "Ady Barkan fights for healthcare for all amid struggle with ALS I Nightline",
-            "secondDuration": 552,
-            "group": "group_7"
-        },
-        {
             "videoId": "6WXiZ3wz2Zs",
             "title": "U.S. Army Green Beret returns to U.S. for Burial",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Stormy Daniels breaks silence on alleged Trump affair",
             "secondDuration": 306,
             "group": "group_7"
+        },
+        {
+            "videoId": "XO3bFw3-tvM",
+            "title": "American health care workers risk lives in Ukraine",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

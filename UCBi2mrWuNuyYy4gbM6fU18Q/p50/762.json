@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "N7DovtDp1GE",
-            "title": "A Taste of Victory",
-            "secondDuration": 400,
-            "group": "group_7"
-        },
-        {
             "videoId": "aPqApTte6VE",
             "title": "Sarah Palin CPAC 2013: Making Light of Bloomberg's Soda Ban",
             "secondDuration": 251,
@@ -301,8 +295,14 @@
             "title": "Osama Bin Laden Death Anniversary Hits as President Obama Visits Troops, Karzai in Afghanistan",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "XuwcdDRQUXw",
+            "title": "Seminary Sex Ed",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

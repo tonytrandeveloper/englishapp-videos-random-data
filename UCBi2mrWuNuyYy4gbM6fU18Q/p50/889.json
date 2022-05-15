@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ww5vKDkePS8",
-            "title": "Joe Biden hints at presidential run, telling fans, 'Careful what you wish for'",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "JPgIltNgoYY",
             "title": "Amtrak Crash Near Philadelphia Leaves 2 Dead",
             "secondDuration": 129,
@@ -301,8 +295,14 @@
             "title": "Bruce Jenner Interview Sparks Discussions on Social Media",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "ShMt_jiwo0w",
+            "title": "Fauci on low child vaccine rates: ‘We've got to do better than that’",
+            "secondDuration": 652,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eQgP9fq96vo",
-            "title": "Auschwitz Anniversary: Survivors Gather In Remembrance",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "GNPc8MX-1II",
             "title": "CDC launches COVID-19 wastewater surveillance dashboard",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Hurricane Katrina Survivor Clung to Trees as House Fell Apart: Part 2",
             "secondDuration": 513,
             "group": "group_7"
+        },
+        {
+            "videoId": "sn0Liau81kk",
+            "title": "Lance Armstrong Doping Charges: Secret Tapes",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

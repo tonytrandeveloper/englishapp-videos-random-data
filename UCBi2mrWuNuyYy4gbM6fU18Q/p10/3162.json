@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sWPxcKpydQU",
-            "title": "Trump faces health care loss, Puerto Rico backlash",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "5t3Bu2uBtyU",
             "title": "Pelosi considers inviting Republicans to join select committee after GOP pulls out",
             "secondDuration": 444,
@@ -61,8 +55,14 @@
             "title": "Virginia Holds Its Version of the 'Running of the Bulls'",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hz1wsmzPUI8",
+            "title": "Tim Kaine and Mike Pence Set to Face Off in Virginia",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

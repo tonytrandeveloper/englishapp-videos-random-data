@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hNsetw4mIJY",
-            "title": "Boston Bombing Suspect Allegedly Told Carjacking Victim 'I Will Kill You Right Now'",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "gzgAm2SnUWU",
             "title": "The Death of a Playmate l 20/20 l PART 3",
             "secondDuration": 476,
@@ -121,8 +115,14 @@
             "title": "Conan O’Brien airs Cuba Episode",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "rUs8Wk8mzug",
+            "title": "Bill Cosby Faces Rape Allegations",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

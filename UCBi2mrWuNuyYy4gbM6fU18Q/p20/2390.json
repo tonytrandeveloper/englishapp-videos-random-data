@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bo1DtQVdFnM",
-            "title": "Pentagon holds briefing amid Russia-Ukraine tension",
-            "secondDuration": 596,
-            "group": "group_7"
-        },
-        {
             "videoId": "0Jy-EQLirWQ",
             "title": "Trump, Clinton Debate Ways to Unite the Country as President of the United States | ABC News",
             "secondDuration": 619,
@@ -121,8 +115,14 @@
             "title": "India at global epicenter of COVID-19 pandemic | WNT",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "5aLOAK2HloE",
+            "title": "Amplified: Rogue Wave",
+            "secondDuration": 516,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

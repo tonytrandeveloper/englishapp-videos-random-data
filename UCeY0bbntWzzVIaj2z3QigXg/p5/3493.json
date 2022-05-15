@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fOEcUiZg7Tk",
-            "title": "Kellyanne Conway Defends Refugee Ban, Cites False ‘Bowling Green Massacre’ | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "1TfUreYrAPA",
             "title": "President Donald Trump Wants Health Care Bill 'That Has Heart in It' | NBC News",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Donald Trump To Address Nation On ‘Path Forward’ In Afghanistan | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "VCzzgewiOYw",
+            "title": "One Suspect Reported 'Down' After Shooting At Las Vegas Music Festival | NBC News",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

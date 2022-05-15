@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "F9_ZtoyVYD0",
-            "title": "Paul Ryan: Russia ‘Did Interfere In Our Elections… No Doubt’ | NBC News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZKhrEgQGVzI",
             "title": "John Kasich On GOP Primary, Brussels Attack (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 642,
@@ -31,8 +25,14 @@
             "title": "Pete Buttigieg Says His Campaign Is 'Absolutely Electrified' By Iowa Results | NBC News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "9s19ROv2NA4",
+            "title": "Trump Campaign Expects 36,000 Supporters at Today's Rally  | Short Take | NBC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

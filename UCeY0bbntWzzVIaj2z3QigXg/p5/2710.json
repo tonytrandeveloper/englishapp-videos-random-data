@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IvCow9PKVOU",
-            "title": "Climate Change: How We’re Accelerating Towards The Perilous 2 Degree Milestone | NBC News NOW",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "YBpjPEFgE14",
             "title": "Drone Captures Scenes Of Severe Flooding In Baton Rouge | NBC News",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "Did Snowden Vote For Obama? | NBC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZjlzspUPdY0",
+            "title": "14-Year-Old Helping Veterans One Yard At A Time",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

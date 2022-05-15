@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CSdKxDuFTS8",
-            "title": "Presidential Debate 2012: Mitt Romney, President Barack Obama Prepare - Behind the Scenes",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "DehiAw1cSz8",
             "title": "Mia Farrow's Son Thaddeus Found Dead in Car",
             "secondDuration": 40,
@@ -121,8 +115,14 @@
             "title": "'20/20': Three Siblings Abandoned at Birth Find Each Other Years Later",
             "secondDuration": 248,
             "group": "group_7"
+        },
+        {
+            "videoId": "sAMvdTHeTHU",
+            "title": "Trump criticized for congratulating Putin",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

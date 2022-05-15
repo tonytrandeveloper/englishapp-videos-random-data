@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vj5JXrpwsZs",
-            "title": "Outspoken conservative Ben Shapiro says political correctness breeds insanity",
-            "secondDuration": 555,
-            "group": "group_7"
-        },
-        {
             "videoId": "gH2fbhItZGI",
             "title": "The Return of Civility?",
             "secondDuration": 255,
@@ -61,8 +55,14 @@
             "title": "Ariz. Hammer Murder Trial Echoes Jodi Arias Case",
             "secondDuration": 413,
             "group": "group_7"
+        },
+        {
+            "videoId": "VfovgxJer5o",
+            "title": "Recovering From Hollywood Hack Attack",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

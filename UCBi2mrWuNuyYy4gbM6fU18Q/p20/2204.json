@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "J12jDIl2Plc",
-            "title": "Community evacuated following explosion at refinery",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "VaPKbvTjgh4",
             "title": "Serena Williams' Shocking Loss at US Open",
             "secondDuration": 144,
@@ -121,8 +115,14 @@
             "title": "Melissa McCarthy, Kristen Wiig Join All-Female Cast for ‘Ghostbusters’ Remake",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "hEl_7Q2tW2s",
+            "title": "O.J. and Nicole Brown Simpson's Relationship Before Tragic Murder",
+            "secondDuration": 561,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

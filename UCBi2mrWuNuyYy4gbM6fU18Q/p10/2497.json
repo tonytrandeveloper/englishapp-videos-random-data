@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NBDxGzBVkAU",
-            "title": "Boston’s rising COVID-19 fears as colleges begin to open",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "zDZYjnqNsEM",
             "title": "Video shows teen suspects in Canada walking around store",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "Ahmaud Arbery l 20/20 l PART 5",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "DsmyTJkbsco",
+            "title": "FBI Investigated Deadly Oregon Standoff",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

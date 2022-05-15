@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ahvnz2ijhgs",
-            "title": "From DJ To Artist: Alex Sensation On the Reggaeton Movement, First Album | NBC News",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "lRIslYE48XI",
             "title": "White House Orders Withdrawal Of Troops From Syria | NBC Nightly News",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "AP Projects Minneapolis Rejects Bid To Dissolve Police Department",
             "secondDuration": 376,
             "group": "group_7"
+        },
+        {
+            "videoId": "2bxi91ROulk",
+            "title": "'Still Alice' Brings New Attention to Alzheimer's | NBC Nightly News",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

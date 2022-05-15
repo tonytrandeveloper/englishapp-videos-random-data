@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EVCsRVQ4EXY",
-            "title": "Second Presidential Debate:  Fact vs. Fiction",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "NTOVcpUqh-U",
             "title": "ABC News Prime: Pres Trump's final days; International pardon fallout; COVID-19 crisis amid holidays",
             "secondDuration": 3555,
@@ -61,8 +55,14 @@
             "title": "Police Reopen Al Gore's Sexual Assault Case",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "L6mBZSQdGCE",
+            "title": "Lil Wayne on Black Lives Matter | FULL INTERVIEW | Nightline",
+            "secondDuration": 374,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

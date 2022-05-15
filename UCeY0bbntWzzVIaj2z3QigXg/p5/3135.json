@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1b9NCo98XNk",
-            "title": "Mystery Of The Moon’s Formation May Finally Be Solved | Mach | NBC News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "C9SZye3remM",
             "title": "Texas GOP Unveils Over Two Dozen Bills Targeting Early Voting Laws | NBC News NOW",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "Ted Cruz's Evangelical Edge | Chuck's Take | NBC News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "1JxGfz1Yg2g",
+            "title": "This Morning’s Top Headlines – August 27 | Morning News NOW",
+            "secondDuration": 1440,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

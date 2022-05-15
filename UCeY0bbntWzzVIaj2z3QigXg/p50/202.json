@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "s_qdd5JGbn8",
-            "title": "NYC Mayor De Blasio: 'Justice Is Being Served' In Bloomberg's Losses | NBC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "UY9-lwdRd2Y",
             "title": "Watch NBC News NOW Live - July 1",
             "secondDuration": 42901,
@@ -301,8 +295,14 @@
             "title": "NBC News Signal - November 1st, 2018",
             "secondDuration": 1587,
             "group": "group_7"
+        },
+        {
+            "videoId": "gawu24t2Lco",
+            "title": "Uber Says It’s Relaunching Self-Driving Cars With Major Safety Upgrades | NBC Nightly News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

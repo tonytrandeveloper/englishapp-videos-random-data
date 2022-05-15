@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xxeoHlhYtWs",
-            "title": "A look at Joe Biden's long road to the White House l GMA",
-            "secondDuration": 309,
-            "group": "group_7"
-        },
-        {
             "videoId": "pjWRHgNkOGk",
             "title": "Pastor plays salvaged piano from rubble of church after powerful storms | ABC News",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "Nuclear Disarmament",
             "secondDuration": 900,
             "group": "group_7"
+        },
+        {
+            "videoId": "MZEeTqA7hTE",
+            "title": "WATCH LIVE: Russian Pres. Putin intends to recognize separatist regions in Ukraine | Special Report",
+            "secondDuration": 2827,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

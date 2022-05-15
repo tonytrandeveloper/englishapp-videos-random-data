@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "93XW8KOReTo",
-            "title": "NFL Commissioner: ‘Everyone Should Stand For National Anthem’ | NBC Nightly News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "nRzveF0eIMs",
             "title": "Vietnam War Medic Receives Medal Of Honor | NBC Nightly News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "How A Government Shutdown Will Affect You | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "fhC7azb53ag",
+            "title": "Coronavirus Researchers Report Progress In Race For Vaccine | NBC Nightly News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

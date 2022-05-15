@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "F_JDOriwsQU",
-            "title": "AT&T Makes $43 Billion Deal To Merge Warnermedia With Discovery",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "CLHUqEnu1-c",
             "title": "Mitch McConnell: 'Neil Gorsuch Will Be Confirmed This Week' | Meet The Press | NBC News",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "Pompeo Urges World To ‘Pick A Side’ As Venezuela Crisis Escalates| NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Z8txKVtBlk",
+            "title": "Full Cummings Interview: 'We have to hit the ground flying' | Meet The Press | NBC News",
+            "secondDuration": 504,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

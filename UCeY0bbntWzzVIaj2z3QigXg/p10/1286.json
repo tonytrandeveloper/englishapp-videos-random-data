@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3NBT0uORreU",
-            "title": "This Morning’s Top Headlines – Nov. 19 | Morning News NOW",
-            "secondDuration": 1514,
-            "group": "group_7"
-        },
-        {
             "videoId": "W4mIn4G4-vw",
             "title": "Why You Should Eat More Protein at Breakfast | Better | NBC News",
             "secondDuration": 83,
@@ -61,8 +55,14 @@
             "title": "These Steps Can Turn Your Credit Around | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jn8Xs5kroPE",
+            "title": "White House Prepares To Roll Out Plan Addressing Opioid Crisis | NBC Nightly News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

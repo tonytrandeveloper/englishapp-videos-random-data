@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WUnsMKgA4ME",
-            "title": "El Chapo Transferred to a New Prison",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "ETd3uDQM01g",
             "title": "Angle: Harry Reid 'Responsible' for Economic Mess",
             "secondDuration": 693,
@@ -121,8 +115,14 @@
             "title": "Woman makes it onto plane without ID, boarding pass | ABC News",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "cFeiECoH_iY",
+            "title": "Paul Ryan on 'This Week'",
+            "secondDuration": 792,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

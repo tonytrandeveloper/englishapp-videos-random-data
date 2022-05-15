@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_MT6RiLub1E",
-            "title": "Conviction on Dateline",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "o0TQFw50hME",
             "title": "Chicago Blackhawks Pay Heartwarming Tribute To Kiss Cam Couple | NBC Nightly News",
             "secondDuration": 75,
@@ -31,8 +25,14 @@
             "title": "Kamala Harris Drops Out Of 2020 Presidential Race | NBC Nightly News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "x0ZWy5SiTVE",
+            "title": "U.S. Economy Lost 140,000 Jobs In December | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "N9xqiXqLIpA",
-            "title": "Kurt Warner's Last Cha Cha",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "cq9O8ob73iw",
             "title": "Bubba Wallace breaks barriers in NASCAR world",
             "secondDuration": 525,
@@ -31,8 +25,14 @@
             "title": "911 Call Reveals Hiker's Brown Bear Attack in Alaska",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "TDqETsQ5PHM",
+            "title": "UCLA Shooting | Student Told to Run by Police",
+            "secondDuration": 397,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

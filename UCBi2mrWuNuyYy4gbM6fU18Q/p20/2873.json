@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Gyu5CHiZq9s",
-            "title": "6.6 million file for unemployment: Historic job losses in the US | ABC News",
-            "secondDuration": 305,
-            "group": "group_7"
-        },
-        {
             "videoId": "UBY2kc56URg",
             "title": "Daryl Hannah Reveals Her Autism to Hollywood",
             "secondDuration": 134,
@@ -121,8 +115,14 @@
             "title": "Deadly crash with Tesla vehicle on auto pilot",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "03QeNefxryA",
+            "title": "Disparity in police response: Black Lives Matter protests and Capitol riot l ABC News",
+            "secondDuration": 552,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

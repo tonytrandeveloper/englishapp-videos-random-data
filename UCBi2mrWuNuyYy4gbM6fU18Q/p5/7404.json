@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LQwEyVf55C0",
-            "title": "President Trump meets with GOP leaders after address to joint session of Congress",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "y3BKTb4U-E4",
             "title": "Billionaire's Advice for Economic Survival",
             "secondDuration": 363,
@@ -31,8 +25,14 @@
             "title": "20 Arrested in IRS Scam",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "63xg0b8jmFg",
+            "title": "Surgery: Vertical Sleeve Gastrectomy",
+            "secondDuration": 468,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

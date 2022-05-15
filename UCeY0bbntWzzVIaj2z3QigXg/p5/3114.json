@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4bXY386EYNk",
-            "title": "Ukrainian Rebels Hand Over MH17 Black Boxes | NBC News",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZU-X9Uu58OU",
             "title": "How To Lose Weight Without Exercising | Better | NBC News",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Roy Moore's Opponent Doug Jones Focused On Alabama Issues | NBC News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "2ZlZTj5Lh5Q",
+            "title": "Hackers Target CPA Computer Network | NBC Nightly News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

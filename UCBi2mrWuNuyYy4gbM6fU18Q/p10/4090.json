@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2DAiPFmWU4w",
-            "title": "Standoff Ends in Oklahoma",
-            "secondDuration": 28,
-            "group": "group_7"
-        },
-        {
             "videoId": "0o4kBx1p9mU",
             "title": "The Conversation: What Did You Think of 'Avatar'?",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Ebola: 'Heroic' Nurse 1st to Contract the Virus in US",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "_s6PygG-k0A",
+            "title": "WEBCAST: Prom 70 Years Later!",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

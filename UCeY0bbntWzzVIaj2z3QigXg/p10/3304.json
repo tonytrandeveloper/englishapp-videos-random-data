@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XCUF5WMvuqw",
-            "title": "Top Story with Tom Llamas - Feb. 8 | NBC News NOW",
-            "secondDuration": 2036,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z9OmUxt8_Tc",
             "title": "Jeff Sessions Defends Donald Trump, Says NFL Players ‘Can Expect To Be Condemned’ | NBC News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Teeth Whitening On The Rise As Mask Mandates Are Lifted",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "91l0pVFnPb8",
+            "title": "President Trump Accuses Democrats Of Trying To Derail Kavanaugh's Nomination | NBC Nightly News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

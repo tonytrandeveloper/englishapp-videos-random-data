@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G2YN6Yz_jd8",
-            "title": "Trump Team Requests Security Clearance for Jared Kushner",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "T45lHuw9sCk",
             "title": "ISIS Claims Responsibility for Bangladesh Cafe Attack",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "House delays vote on infrastructure bill l GMA",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "u7GZ4C8fk9E",
+            "title": "Megyn Kelly on Trump, Election 2016 | Full Interview",
+            "secondDuration": 219,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

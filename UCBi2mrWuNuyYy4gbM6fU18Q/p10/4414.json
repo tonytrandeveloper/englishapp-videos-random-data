@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "c8tpOOInMzU",
-            "title": "Nice Attack | American Eyewitness Describes Chaos",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "OMtCc0GEECs",
             "title": "'Veronica Mars' Kickstarter Raises Over $5 Million for Movie",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Budget Cmte Freshman: 'Stop Worrying About Politics'",
             "secondDuration": 596,
             "group": "group_7"
+        },
+        {
+            "videoId": "wHH4dgqNOQQ",
+            "title": "'Star Wars: The Force Awakens': Gwendoline Christie Takes On New Role",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

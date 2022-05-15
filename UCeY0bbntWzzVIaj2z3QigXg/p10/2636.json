@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t-v_RokUocM",
-            "title": "Donald Trump Takes Aim at Former President Bill Clinton | NBC Nightly News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "WWNI6Vv65fQ",
             "title": "Man Who Sent Hawaii False Missile Alert Speaks Out | NBC Nightly News",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Meet The Press Broadcast (Full) - June 21st, 2020 | Meet The Press | NBC News",
             "secondDuration": 2859,
             "group": "group_7"
+        },
+        {
+            "videoId": "TNRwTj8mI9U",
+            "title": "Nancy Pelosi: President Donald Trump ‘Outing’ Afghanistan Trip Is Very Dangerous | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

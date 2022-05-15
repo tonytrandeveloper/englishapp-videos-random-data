@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MTB3M4V4VaA",
-            "title": "US marks 15,000 COVID-19 deaths in a week",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "UPj6yk2URuQ",
             "title": "Tornado Engulfed by Fire Caught on Tape | Good Morning America | ABC News",
             "secondDuration": 82,
@@ -121,8 +115,14 @@
             "title": "NSA vs. Snowden - 'This Further Strengthens the Center on National Security' 'This Week' Roundtable",
             "secondDuration": 405,
             "group": "group_7"
+        },
+        {
+            "videoId": "SA-2OU1th-k",
+            "title": "A Soldier's Sacrifice",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

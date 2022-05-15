@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_gobzEQt08A",
-            "title": "FDA Approves Video Game For Treating ADHD In Children | NBC Nightly News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "3GM7pWj6BzI",
             "title": "Morning News NOW Full Broadcast - April 13",
             "secondDuration": 3039,
@@ -31,8 +25,14 @@
             "title": "White House Holds Press Briefing: July 26 | NBC News",
             "secondDuration": 2505,
             "group": "group_7"
+        },
+        {
+            "videoId": "82Mf3JrCuLo",
+            "title": "Alabama Voters Face Dramatic Choice In Closely Watched Senate Race | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

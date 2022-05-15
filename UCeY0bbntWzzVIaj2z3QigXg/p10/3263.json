@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GMPjZe8PAgA",
-            "title": "Mike Pence: ‘Now We Need To See Results’ On North Korea Denuclearization | NBC News",
-            "secondDuration": 784,
-            "group": "group_7"
-        },
-        {
             "videoId": "ucz6gqpaqCM",
             "title": "FDA Review Finds Pfizer’s Covid Vaccine Is Effective | NBC Nightly News",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Party Crashers: A Political History With LEGOs | NBC News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "2dcBBZ-MOSI",
+            "title": "Los Angeles Ambulances Told Not To Transport Patients With Small Chance Of Survival Amid Covid Surge",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

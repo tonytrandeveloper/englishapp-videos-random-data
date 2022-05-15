@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8CqHhTKlfiA",
-            "title": "Trump Admin’s False Election Claims Could Result In Voter Suppression Efforts | NBC News NOW",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "sWibMqa0RGY",
             "title": "Pandemic Unemployment Aid Targeted By Fraud As 860K File For First-Time Unemployment | NBC News NOW",
             "secondDuration": 336,
@@ -31,8 +25,14 @@
             "title": "Trump Calls Gen. Flynn A 'Great Warrior' As DOJ Drops Case | NBC News",
             "secondDuration": 2002,
             "group": "group_7"
+        },
+        {
+            "videoId": "F6uiXdAiIig",
+            "title": "How Analysts Are Using TikTok To Track Russian Military Movement",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

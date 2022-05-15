@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Edmsnr-4YNA",
-            "title": "Arizona Wallow Wildfire 2011",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "-CZaWBkbVvg",
             "title": "Investigators Reveal a Computer Glitch Brought Down AirAsia Flight Off the Coast of Indonesia",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "ABC News Live: Michael Cohen speaks out, Supreme Court picks, daring prison escape | ABC News",
             "secondDuration": 1595,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z2BkZ1cEhBU",
+            "title": "Students Protest White Nationalist's Speech at Texas A&M",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

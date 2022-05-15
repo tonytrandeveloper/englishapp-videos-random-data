@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i1ojH_qHNG8",
-            "title": "NTSB Investigating Cause Of New Mexico Bus, Semi-Truck Crash | NBC Nightly News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "jNcmuYrfhFQ",
             "title": "The FAA Is Recruiting Gamers For Air Traffic Control Jobs",
             "secondDuration": 245,
@@ -61,8 +55,14 @@
             "title": "Who Is Behind The Saudi Oil Attack? | NBC News Now",
             "secondDuration": 396,
             "group": "group_7"
+        },
+        {
+            "videoId": "pU6AB9PQT_o",
+            "title": "Nevada Drops Mask Mandate Despite Vaccination Status As Covid Cases Decline",
+            "secondDuration": 261,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

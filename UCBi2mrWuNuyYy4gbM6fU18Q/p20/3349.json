@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "A-Dj16-vt0U",
-            "title": "Fall Fix-Up",
-            "secondDuration": 256,
-            "group": "group_7"
-        },
-        {
             "videoId": "kwaENiyFrDc",
             "title": "Unemployment claims hit another pandemic low as key industries hire more workers",
             "secondDuration": 284,
@@ -121,8 +115,14 @@
             "title": "Top Ten Toys of the Year",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "0PEfO__QY84",
+            "title": "'Jeopardy's' Alex Trebek on stage 4 cancer diagnosis: 'I'm fighting through it'",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

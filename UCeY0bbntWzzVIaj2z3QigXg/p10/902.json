@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dX5Nu9AVEnM",
-            "title": "Live: White House Holds Press Briefing: September 16 | NBC News",
-            "secondDuration": 1444,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kw84p22C6wg",
             "title": "Passengers Outraged, Frightened After Pressure Drop Aboard Ryanair Flight | NBC Nightly News",
             "secondDuration": 67,
@@ -61,8 +55,14 @@
             "title": "Ex-AG Sally Yates Details Meetings With White House On Michael Flynn, Russia | NBC News",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "kCO0rtMGsTs",
+            "title": "Russia Invasion Of Ukraine: Here's What Happened Overnight Thursday",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

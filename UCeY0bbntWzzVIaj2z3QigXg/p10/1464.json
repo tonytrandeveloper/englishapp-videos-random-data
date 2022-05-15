@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zzXlOW7iHRw",
-            "title": "What You Should Know About The COVID-19 | NBC News NOW",
-            "secondDuration": 309,
-            "group": "group_7"
-        },
-        {
             "videoId": "gNyG2yKBjCM",
             "title": "President Trump Says He's Considering Payroll Tax Cut To Boost Economy | NBC Nightly News",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Chelsea Clinton's New Daughter Greets World | NBC News",
             "secondDuration": 15,
             "group": "group_7"
+        },
+        {
+            "videoId": "eAcq6pCjJJs",
+            "title": "Plan To Send Ukraine Soviet-Era Fighter Jets Stalls",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

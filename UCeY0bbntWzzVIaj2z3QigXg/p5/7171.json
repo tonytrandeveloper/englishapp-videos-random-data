@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uexTqJGzFtE",
-            "title": "Live: SpaceX, NASA Launch U.S. Astronauts To International Space Station | NBC News",
-            "secondDuration": 23897,
-            "group": "group_7"
-        },
-        {
             "videoId": "O44H93C34wk",
             "title": "Black Fitness Stars Use Their Platforms To Amplify And Educate | NBC News NOW",
             "secondDuration": 271,
@@ -31,8 +25,14 @@
             "title": "For The First Time, Listen To The Sound Of Wind On Mars | NBC Nightly News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "LkcIyOMGtLc",
+            "title": "Judge Ketanji Brown Jackson Delivers Opening Statement At Confirmation Hearing",
+            "secondDuration": 760,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

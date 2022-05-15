@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tjn7AjvicFo",
-            "title": "Analyzing Ghislaine Maxwell’s guilty verdict l ABCNL",
-            "secondDuration": 258,
-            "group": "group_7"
-        },
-        {
             "videoId": "4_9EgkZKG7w",
             "title": "Middle School Students Accused of Plotting Columbine-Style Attack",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Aging Mother-In-Law Tests Marriage",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "CwpbZqSdzb4",
+            "title": "ABC News Exclusive: 'Baby Roe' breaks her silence",
+            "secondDuration": 796,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6gRsfgwZmpw",
-            "title": "Family of Fallen Solider Gets a New Home",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "iPN5FcTr8wc",
             "title": "State of the Union 2016: Looking into 2016 | ABC News",
             "secondDuration": 529,
@@ -61,8 +55,14 @@
             "title": "3 Designs for Robin's Oscar Gown",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "QYfr_MjpFFU",
+            "title": "Massive jailbreak in Alabama",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

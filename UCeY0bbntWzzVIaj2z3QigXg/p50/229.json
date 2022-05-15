@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "DxcwJfrv1_c",
-            "title": "Ivana Trump: ‘I'm First Lady, OK?’ | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "x8uKMXNs36U",
             "title": "Kamala Harris Receives Coronavirus Vaccine | NBC News",
             "secondDuration": 293,
@@ -301,8 +295,14 @@
             "title": "Vietnamese Pay Tribute To Former POW John McCain | NBC News",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "J3sqYQEj3Os",
+            "title": "3 Babies Test Positive for Potentially Deadly Bacteria at Maryland Hospital | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tKAo6RSGWws",
-            "title": "Girl Gets 3D Printed Prosthetic Arm From Local Library",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "CpIBKrXRYMk",
             "title": "The fight for Kyiv",
             "secondDuration": 289,
@@ -61,8 +55,14 @@
             "title": "Puerto Rico faces staggering COVID surge despite high vaccination rate",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "M3g1gbvnmc8",
+            "title": "Gulf Islands National Seashore",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

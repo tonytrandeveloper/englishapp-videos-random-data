@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-JcyZzXGymw",
-            "title": "Man Eats 10 Big Macs a Week, Says He's Healthy",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "McjR7KwimsM",
             "title": "Bells of Notre Dame remain silent on Easter",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "ABC News Live Update: AstraZeneca prepares to apply for emergency use authorization",
             "secondDuration": 1350,
             "group": "group_7"
+        },
+        {
+            "videoId": "b2_cLMWzNxQ",
+            "title": "Monster Hurricane Patricia Nears Mexico",
+            "secondDuration": 306,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

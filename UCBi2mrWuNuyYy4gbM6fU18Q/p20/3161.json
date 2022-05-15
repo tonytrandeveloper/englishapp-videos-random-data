@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-1_WusMd6R0",
-            "title": "'Dancing With the Stars' 2015: New Cast Answers Fan Questions",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "5ydsw3IbRQ8",
             "title": "ABC News Prime: Hurricane Sally’s epic deluge; Wall of flames fire fight; Trump ally takes leave",
             "secondDuration": 3614,
@@ -121,8 +115,14 @@
             "title": "Jake Tapper Travels With Obama",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "10TxVnkNISg",
+            "title": "104 Million People Feeling the Pain of a Treacherous Winter Storm",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

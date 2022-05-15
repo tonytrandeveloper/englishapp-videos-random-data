@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ULjpMXuaI7I",
-            "title": "Turkish Military Cause Chaos With Failed Coup Attempt",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "9_p7bqw5st0",
             "title": "Americans to watch at the 2022 Beijing Olympics",
             "secondDuration": 213,
@@ -61,8 +55,14 @@
             "title": "President Trump delivers his first State of the Union Address",
             "secondDuration": 485,
             "group": "group_7"
+        },
+        {
+            "videoId": "IC07eDWe1OU",
+            "title": "Massive winter storms heads into the Northeast",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

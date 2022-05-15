@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "XAhIQFLN2ok",
-            "title": "ABC News Prime: \"Baby Roe\" exclusive; California oil spill; Amtrak train shootout",
-            "secondDuration": 5354,
-            "group": "group_7"
-        },
-        {
             "videoId": "FEdeHclCyCQ",
             "title": "Biden meets virtually with Putin as tensions rise on Ukraine border",
             "secondDuration": 1110,
@@ -301,8 +295,14 @@
             "title": "Tehran explosion, Hong Kong security law, police protest: World in Photos, July 1",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "97vqCmkxDRY",
+            "title": "ABC News Prime: COVID-19 US surge; Virus’ effects on doctors; US troops level out overseas",
+            "secondDuration": 3615,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

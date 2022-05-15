@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NSS18cYLCxg",
-            "title": "Mayorkas: CDC Has Determined Title 42 To ‘Still Be Necessary’",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "36iGXbJYXRI",
             "title": "NASA Announces 2 Discovery Missions To Study Asteroids | NBC News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Dramatic Video Shows Australian Firefighters’ Truck Surrounded By Wildfire | NBC News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "75wmBiPX7cQ",
+            "title": "Pete Buttigieg On South Bend Shooting: 'We All Have To Be As Transparent As Possible' | NBC News",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "887mnf4X-Ao",
-            "title": "Ted Cruz on John Kasich: Staying In Race ‘Benefits Trump’ | NBC News",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "dYOqagZ1vP4",
             "title": "Tracking All The Congressional Investigations Of President Donald Trump | NBC News Now",
             "secondDuration": 299,
@@ -61,8 +55,14 @@
             "title": "Author Marianne Williamson Isn’t Your Run-Of-The-Mill Candidate | NBC News",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "CdoPVhGT8aE",
+            "title": "NBC Nightly News with Brian Williams: It's Personal (Covering Hurricane Sandy)",
+            "secondDuration": 21,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

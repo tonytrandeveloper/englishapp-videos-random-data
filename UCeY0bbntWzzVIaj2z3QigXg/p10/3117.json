@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eBWkWA_dVWA",
-            "title": "Harvey Weinstein Accusers Gather Outside Courthouse: 'He Put #MeToo On The Map' | NBC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "NJXjwwNLYcE",
             "title": "Biden Delivers Remarks On Health Care | NBC News",
             "secondDuration": 2055,
@@ -61,8 +55,14 @@
             "title": "New Layer Of Armed Security Added To Florida School | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "PPNUoF2ZqvI",
+            "title": "Vladmir Putin Is Inaugurated As President Of Russia, For The Fourth Time | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

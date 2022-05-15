@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yxSUVZWh2-A",
-            "title": "In Search of the Best Ballpark Hot Dog",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "YeFeckfKO6w",
             "title": "Independent audit reveals bad bookkeeping at Pentagon",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "MIX: Woman Lifts 200lbs With One Arm",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "iSAfNj_kUmk",
+            "title": "Suspect identified in LA rapper's murder",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iV1ycBdfbbo",
-            "title": "Damien Hirst Unveils ‘Unbelievable’ Exhibit Featuring Medusa, Mickey Mouse | NBC News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "ebbbqO8BTQE",
             "title": "Launch Of NASA's SpaceX To International Space Station | NBC News",
             "secondDuration": 9671,
@@ -61,8 +55,14 @@
             "title": "Astros Owner: 'We Broke The Rules,' But Doesn't Think Team Wins Should Be Taken Away | NBC News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "e0TXI8hcAOY",
+            "title": "Minneapolis Business Owner Starts Over After Store Is Burned To The Ground | NBC News",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YPZjQC5rYzU",
-            "title": "Whoopi Goldberg suspended",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "cv8OtHupghA",
             "title": "Trump defends Syria strike as Assad regime appears undeterred",
             "secondDuration": 227,
@@ -61,8 +55,14 @@
             "title": "Ex-NFL player on Flores' suit: 'I'm shocked it hasn't happened before'",
             "secondDuration": 428,
             "group": "group_7"
+        },
+        {
+            "videoId": "PRshw-V8wFk",
+            "title": "Arsenic in Apple Juice: Dr. Oz's Fears Revisited by New Study (11.30.2011)",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

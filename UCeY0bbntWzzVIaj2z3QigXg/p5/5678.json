@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AUpqFQrS5UI",
-            "title": "Top Story with Tom Llamas - Feb. 1 | NBC News NOW",
-            "secondDuration": 2520,
-            "group": "group_7"
-        },
-        {
             "videoId": "lh6jh0W-a9g",
             "title": "Full McMaster Interview: 'This War Ended In Self-Defeat'",
             "secondDuration": 442,
@@ -31,8 +25,14 @@
             "title": "The Anchor for America | NBC Nightly News with Lester Holt",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "yaOluJEqu3s",
+            "title": "It’s An Aviation Enthusiast’s Dream: Bringing A Piece Of An Airplane Home | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

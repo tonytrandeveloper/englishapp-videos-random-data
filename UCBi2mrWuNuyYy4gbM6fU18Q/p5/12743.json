@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "r1c2kHT351k",
-            "title": "Shark Attack in Cape Cod: Man Bitten at Crowded Beach",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "ixWqDg02ROE",
             "title": "New election ordered in NC after fraud allegations",
             "secondDuration": 175,
@@ -31,8 +25,14 @@
             "title": "U.S. Winter Weather Report 2012: Major Cities Brace for Giant Nor'Easter",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "VjgHYmhTNgs",
+            "title": "Church Excommunicates Nun",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

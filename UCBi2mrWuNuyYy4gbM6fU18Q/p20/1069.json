@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_qU8U9art6I",
-            "title": "Air Marshals Come Forward on Misconduct",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "G68pDlloGZI",
             "title": "Teen Uses CPR Skills to Save Baby's Life at Walmart Store",
             "secondDuration": 97,
@@ -121,8 +115,14 @@
             "title": "One Bishop's Battle",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "90I4PNOuHw0",
+            "title": "Chicago mayor pleads with residents amid gun violence",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

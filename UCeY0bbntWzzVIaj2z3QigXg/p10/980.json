@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lBUnASkeQ_o",
-            "title": "Frontline Covid Nurse Gets A Proposal | NBC News NOW",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "pfNJsaMylF0",
             "title": "Hillary Clinton Criticizes Donald Trump Over Tax Returns | NBC News",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "America In Crisis: Mellody Hobson On Diversifying The Workforce | NBC News NOW",
             "secondDuration": 478,
             "group": "group_7"
+        },
+        {
+            "videoId": "ehqh6_H-KJA",
+            "title": "Prison Inmates Allegedly Abused in Interrogations, NYT Finds | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

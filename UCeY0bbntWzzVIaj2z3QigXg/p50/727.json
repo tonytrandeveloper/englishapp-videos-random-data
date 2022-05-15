@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "KL9KCJB70vA",
-            "title": "Trial Begins For Four Men Who Plotted To Kidnap Michigan Governor",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "RI85dhHjPOg",
             "title": "CVS To Ban Retouched Photos From Their Advertisements | NBC Nightly News",
             "secondDuration": 94,
@@ -301,8 +295,14 @@
             "title": "The Great Resignation: Why So Many Folks Are Leaving Their Jobs",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "eA9eazyhUy0",
+            "title": "DOJ Slams China In Hacking Scheme For ‘Stealing Intellectual Property, Stifling Freedom’ | NBC News",
+            "secondDuration": 287,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

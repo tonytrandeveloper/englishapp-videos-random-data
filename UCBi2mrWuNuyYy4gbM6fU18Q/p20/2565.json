@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5sAImDmrtCI",
-            "title": "Hurricane Isaac Makes Landfall",
-            "secondDuration": 399,
-            "group": "group_7"
-        },
-        {
             "videoId": "0wgzOro44-g",
             "title": "Parents of missing college student speak out",
             "secondDuration": 148,
@@ -121,8 +115,14 @@
             "title": "'High' Fashion: Skydiving Supermodel Dons Wingsuit",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ops5tL7nPmE",
+            "title": "911 Calls Reveal Terrifying Moments in Phoenix After Cars Had Been Shot",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

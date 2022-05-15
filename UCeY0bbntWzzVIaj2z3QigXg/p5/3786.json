@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cxoWnIBBDao",
-            "title": "Trump Posts Video Saying ‘I Think I’m doing Very Well’ | NBC News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "IhXlGvnap78",
             "title": "Trump Administration Reveals Plan To Allow Drug Imports From Canada | NBC Nightly News",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "Trump: George Floyd's Family 'Is Entitled To Justice' | NBC News NOW",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "9qygiCsvAzY",
+            "title": "Fourth U.S. Soldier Killed In Niger | NBC Nightly News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

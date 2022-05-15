@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ERgRtbQ7Xk8",
-            "title": "Who Will Win Best Picture At The 2018 Oscars? This Algorithm Is A Great Predictor | Mach | NBC News",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "BU_RDxqTVPs",
             "title": "Former Pro Wrestling Star Chyna Found Dead At 46 | 101 | NBC News",
             "secondDuration": 81,
@@ -121,8 +115,14 @@
             "title": "Estimated One Million Uighur Muslims Vanish Into Chinese ‘Re-Education’ Camps | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "SEboWYXRqbE",
+            "title": "Residents In Mississippi Without Water For More Than Two Weeks After Storm | NBC News NOW",
+            "secondDuration": 466,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

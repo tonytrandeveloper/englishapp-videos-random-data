@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SbIbYXWo0gw",
-            "title": "Florida Man Dies After Hitting 11-Foot Alligator On Roadway",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "XM3em3pCPy8",
             "title": "Apple Introduces Red iPhone To Help In Fight Against AIDS | NBC News",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "Student Describes Colorado School Shooting: ‘I Started Hearing Screams’ | NBC News",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "C_7ftyiHJ08",
+            "title": "West Coast Ports Reopen Slowly | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

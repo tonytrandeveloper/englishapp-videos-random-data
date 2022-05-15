@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "8Z0dgioJ058",
-            "title": "Deadly Rip Currents: How to Survive",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "BBvDloej9aU",
             "title": "Robert De Niro Delivers 'Tough Love' Graduation Speech",
             "secondDuration": 131,
@@ -301,8 +295,14 @@
             "title": "Losing Everything: 19,000 People Displaced by Wildfires",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "desFepEX5Is",
+            "title": "Sen. Menendez: ‘Our democracy prevails’ with a ‘peaceful transfer of power’",
+            "secondDuration": 329,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

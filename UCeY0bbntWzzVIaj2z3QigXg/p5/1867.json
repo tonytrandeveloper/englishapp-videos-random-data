@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1MBjlelTSrQ",
-            "title": "White House Covid Team Announces 100 Million U.S. Adults Fully Vaccinated | NBC News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "VZ6rp2ypknI",
             "title": "Sunnis And Shiites: What’s The Difference? | 101 | NBC News",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Live: New Jersey Governor Phil Murphy Holds Coronavirus Briefing | NBC News",
             "secondDuration": 5835,
             "group": "group_7"
+        },
+        {
+            "videoId": "lpEudCbiPW8",
+            "title": "Lawmakers Share Personal Stories About Abortion At Hearing",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

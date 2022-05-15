@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s_5fpy_disY",
-            "title": "President Obama Responds to Muslim Family Murder",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "RvLNqCaQNvc",
             "title": "How the pandemic has effected the movie theater business",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "Supreme Court Justice Ruth Bader Ginsberg asks questions while hospitalized | ABC News",
             "secondDuration": 280,
             "group": "group_7"
+        },
+        {
+            "videoId": "s6T-HUB_D6A",
+            "title": "Supreme Court Bolsters Gay Marriage Rights",
+            "secondDuration": 302,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vIt1fzeBogE",
-            "title": "Scientists reverse brain damage in a toddler",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "6mnyfQ-oGPQ",
             "title": "Space Shuttle Atlantis Rockets Into History as NASA Ends U.S. Space Shuttle Program (07.08.11)",
             "secondDuration": 341,
@@ -31,8 +25,14 @@
             "title": "Concerns grow after Queen cancels summit trip",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "hF6YHFI9jm4",
+            "title": "Defense secretary, Rep. Matt Gaetz argue over military capability",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

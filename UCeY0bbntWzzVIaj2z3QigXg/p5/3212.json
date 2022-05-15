@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qNc20gfgHrY",
-            "title": "President Barack Obama Speaks On The Dangers Of Climate Change | NBC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "_yk_kNtQ638",
             "title": "Americans today must come together like the Greatest Generation before us | NBC Nightly News",
             "secondDuration": 76,
@@ -31,8 +25,14 @@
             "title": "SeaWorld Phasing Out ‘Shamu’ Killer Whale Show in San Diego | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "EEfFBl8s6vM",
+            "title": "State Legislators Vote To Repeal Gov. Cuomo’s Emergency Pandemic Powers | NBC Nightly News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

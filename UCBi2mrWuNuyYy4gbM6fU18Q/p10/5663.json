@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "puhbKdB1ceM",
-            "title": "Top Line: Fmr. Rep. Frost: Obama Must Focus on Jobs",
-            "secondDuration": 358,
-            "group": "group_7"
-        },
-        {
             "videoId": "FMThtOIN6jM",
             "title": "Club shooting survivor: Gunman 'knew what he was doing'",
             "secondDuration": 195,
@@ -61,8 +55,14 @@
             "title": "Obama on Controversial Iran Nuclear Deal",
             "secondDuration": 326,
             "group": "group_7"
+        },
+        {
+            "videoId": "fclPt8QcoTg",
+            "title": "DNA Results a Key Piece of Evidence in Amanda Knox Case",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

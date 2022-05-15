@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z4bw4dOtANo",
-            "title": "Rising Concerns For Safety Of Essential Workers | NBC Nightly News",
-            "secondDuration": 664,
-            "group": "group_7"
-        },
-        {
             "videoId": "KY0rD3UuCB4",
             "title": "Librarian Taken Hostage At Maximum Security Prison In Dramatic Encounter | NBC Nightly News",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "NASA Tracks Asteroids' Close Brush With Earth | Archives | NBC News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "XxvCMx2W6P0",
+            "title": "Researchers Explore Solutions For Covid Long Haulers",
+            "secondDuration": 390,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

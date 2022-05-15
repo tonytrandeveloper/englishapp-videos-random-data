@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZGLYe82dcbA",
-            "title": "US launches military strike on Syria",
-            "secondDuration": 288,
-            "group": "group_7"
-        },
-        {
             "videoId": "fgZ7X9x6bbw",
             "title": "Iowa Governor: 'Wide Open Race'",
             "secondDuration": 300,
@@ -31,8 +25,14 @@
             "title": "Trump tweets about president's 'complete power' to pardon",
             "secondDuration": 389,
             "group": "group_7"
+        },
+        {
+            "videoId": "6_LIjzEqWN4",
+            "title": "Dolce & Gabbana: 'Synthetic Baby' Comments Spark Boycott",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

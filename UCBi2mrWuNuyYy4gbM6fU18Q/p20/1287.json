@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sAXd6oK1Tn4",
-            "title": "Hostage Policy Change",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "V6nIdMxAf24",
             "title": "Sandwich, Hold the Needle",
             "secondDuration": 219,
@@ -121,8 +115,14 @@
             "title": "Are We Born to Cheat?",
             "secondDuration": 334,
             "group": "group_7"
+        },
+        {
+            "videoId": "hKsWlx5ko5U",
+            "title": "Weekend Window to Norway's Fjords",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

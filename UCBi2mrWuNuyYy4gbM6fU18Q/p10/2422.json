@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Xuz98u7vN9k",
-            "title": "ABC News Live Update: $600 stimulus checks roll out via direct deposit, mail",
-            "secondDuration": 743,
-            "group": "group_7"
-        },
-        {
             "videoId": "oJuFNHzRcNc",
             "title": "Family sets up Christmas tree lot to support small businesses | WNT",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "3 New Arrests Made in Oregon Standoff",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "uMX8vvoEdXM",
+            "title": "Paul Ryan Reviews Mitt Romney's Failed Bid For President in 2012 Election",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

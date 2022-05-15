@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "imcOeJDyOWA",
-            "title": "Mayweather vs. Pacquiao: Face Off in Vegas Match",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "fPIvNi7LdNs",
             "title": "New report links Matt Gaetz to alleged cash payments provided to women for sex l GMA",
             "secondDuration": 190,
@@ -31,8 +25,14 @@
             "title": "The Learning Womb",
             "secondDuration": 462,
             "group": "group_7"
+        },
+        {
+            "videoId": "tm4ux1i02TA",
+            "title": "COVID-19 cases rising",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

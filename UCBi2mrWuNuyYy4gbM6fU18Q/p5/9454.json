@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U8BqMLrWveI",
-            "title": "Lifelong Republican John Kasich appears at 2020 DNC",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "uamVAnaSEuk",
             "title": "Jeremy Lin, New York Knicks' New Star Point Guard, Offers Tips for Success",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Trump administration reacts to global cyberattack",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "ldnidDIXhbg",
+            "title": "Michigan Courthouse Shooting | 3 Dead [BREAKING NEWS]",
+            "secondDuration": 28,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

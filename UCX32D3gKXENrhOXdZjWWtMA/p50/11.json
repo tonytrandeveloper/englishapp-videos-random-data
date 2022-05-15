@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "6NhtpBoJgTI",
-            "title": "1 Hour Yoga for Hamstring Flexibility - Yoga for Splits",
-            "secondDuration": 3282,
-            "group": "group_13"
-        },
-        {
             "videoId": "2xQllBAKGFw",
             "title": "30 min Vinyasa Yoga for Core & Lower Body Strength",
             "secondDuration": 2084,
@@ -301,8 +295,14 @@
             "title": "30 min Beginner Yoga - Full Body Yoga for Strength and Flexibility",
             "secondDuration": 1844,
             "group": "group_13"
+        },
+        {
+            "videoId": "__BQRLVRitI",
+            "title": "5 min Home Morning Yoga Stretch",
+            "secondDuration": 188,
+            "group": "group_13"
         }
     ],
     "nbPages": 13,
-    "nbResults": 647
+    "nbResults": 646
 }

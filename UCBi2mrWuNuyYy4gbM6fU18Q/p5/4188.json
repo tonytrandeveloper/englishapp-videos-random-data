@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oC2PgFCPFiI",
-            "title": "Extreme Weather: Flash-Flooding Devastates Minnesota, Other Midwest States",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "9e3YxZKGjVg",
             "title": "Feed Frenzy: Ben Affleck as Batman?",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Orlando Nightclub Massacre: Who Was the Shooter?",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ds9tsJRupaw",
+            "title": "Chicago celebrates St. Patrick's Day by dyeing river green",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

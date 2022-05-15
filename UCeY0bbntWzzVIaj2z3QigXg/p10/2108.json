@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "q5e_gA1ENqA",
-            "title": "Holocaust Survivors Mark 75th Anniversary Of Auschwitz Liberation | NBC Nightly News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "EdtdhEROEGM",
             "title": "Alison Grimes' 'Ungracious' Concession Speech | NBC News",
             "secondDuration": 47,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump's First State Of The Union In 150 Seconds | NBC News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "XUIOkK0Lsqc",
+            "title": "Growing Concern As Covid Cases Rise Overseas",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

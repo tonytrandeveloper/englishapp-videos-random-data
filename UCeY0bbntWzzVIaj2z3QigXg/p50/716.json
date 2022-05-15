@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Cl25PeHjx34",
-            "title": "President Donald Trump Holds Joint Press Conference With Norwegian Leader | NBC News",
-            "secondDuration": 1659,
-            "group": "group_7"
-        },
-        {
             "videoId": "5H3k_CPuMXQ",
             "title": "Matt Lauer Plays Cards with Kim Kardashian",
             "secondDuration": 44,
@@ -301,8 +295,14 @@
             "title": "Digital Therapy Aims To Help Teens Fight Depression Through Smartphones",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "2BTZQ1sNanI",
+            "title": "Martin Shkreli Found Guilty Of Securities Fraud | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

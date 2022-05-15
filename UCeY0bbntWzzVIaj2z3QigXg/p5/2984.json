@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vgii6bZFmIs",
-            "title": "President Obama Speaks At ‘My Brother’s Keeper’ Summit | NBC News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "1v1_LsTAPek",
             "title": "White House On 2016 Tax Returns: President Donald Trump Still Under Audit | NBC News",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Rep. McCarthy Holds Weekly Briefing On Capitol Hill | NBC News",
             "secondDuration": 1045,
             "group": "group_7"
+        },
+        {
+            "videoId": "TDvmX4wyWag",
+            "title": "Morning News NOW Full Broadcast - March 21",
+            "secondDuration": 3168,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

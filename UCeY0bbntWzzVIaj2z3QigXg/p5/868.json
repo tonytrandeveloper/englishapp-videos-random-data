@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FLmwxIOge3k",
-            "title": "Chapel Hill Shooting Leaves 3 Muslims Dead | NBC Nightly News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "z66UeY90Dq8",
             "title": "Los Angeles County Officials Make Coronavirus Announcement | NBC News (Live Stream Recording)",
             "secondDuration": 2469,
@@ -31,8 +25,14 @@
             "title": "House Impeachment Managers Play Video Of Capitol Riot During Impeachment Trial | NBC News",
             "secondDuration": 842,
             "group": "group_7"
+        },
+        {
+            "videoId": "Co8Hu7nH3zk",
+            "title": "The Ohio Town That Has a Knack For Picking Presidents | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

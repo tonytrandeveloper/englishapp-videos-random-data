@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gyhRnN4HKXY",
-            "title": "Uber CEO apologizes for newly released video",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "FhwkBrJX1XI",
             "title": "Jodi Arias Testifies She Tried Wicca, Buddhism With Boyfriends",
             "secondDuration": 329,
@@ -61,8 +55,14 @@
             "title": "Nation’s leading fruit provider pivots to survive",
             "secondDuration": 246,
             "group": "group_7"
+        },
+        {
+            "videoId": "BioWIYk9PPI",
+            "title": "US State Department expels 2 Cuban diplomats",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

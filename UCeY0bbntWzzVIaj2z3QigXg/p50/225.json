@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Kk1suPRSqtg",
-            "title": "Wildfires Near Boulder, Colorado Force Thousands To Evacuate",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "r55a-z6rfmQ",
             "title": "Live: Nationwide Protests Over George Floyd's Death | NBC News",
             "secondDuration": 13203,
@@ -301,8 +295,14 @@
             "title": "Mother Shields Brock Turner As He Registers As Sex Offender In Ohio | NBC News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "JVxBe022VMc",
+            "title": "Video Appears To Show Stabbing Of Hong Kong Police Officer | NBC News NOW",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

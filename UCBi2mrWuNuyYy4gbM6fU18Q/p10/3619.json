@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YpIJrZ_zk8s",
-            "title": "Watch LIVE: Impeachment Trial of President Donald Trump day 7 - ABC News Live Coverage",
-            "secondDuration": 7666,
-            "group": "group_7"
-        },
-        {
             "videoId": "IN2p7M0EBj0",
             "title": "Specter vs. Hatch: Health Care Debate",
             "secondDuration": 785,
@@ -61,8 +55,14 @@
             "title": "The 2017 Toy Fair | ABC News",
             "secondDuration": 304,
             "group": "group_7"
+        },
+        {
+            "videoId": "xk0CAZ55sbE",
+            "title": "Austin mayor reacts to Texas lifting mask mandate",
+            "secondDuration": 283,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

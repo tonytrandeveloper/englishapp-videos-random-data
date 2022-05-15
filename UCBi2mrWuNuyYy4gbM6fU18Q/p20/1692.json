@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4RfJCMpl_dI",
-            "title": "Michelle Obama DNC Speech Highlights: FLOTUS Shines at Democratic National Convention 2012",
-            "secondDuration": 302,
-            "group": "group_7"
-        },
-        {
             "videoId": "nK3mgyDtMZA",
             "title": "Key West resident speaks out as Irma approaches",
             "secondDuration": 167,
@@ -121,8 +115,14 @@
             "title": "Sesame Street Parts Ways with 3 Longtime Cast Members",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "S-DXv8zG_E4",
+            "title": "ND Residents Stuck Indoors After Blizzard",
+            "secondDuration": 44,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

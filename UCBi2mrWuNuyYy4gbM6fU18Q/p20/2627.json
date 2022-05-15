@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KAI_W6hw_rA",
-            "title": "Kim Kardashian Robbed at Gunpoint | Kanye Stops Show",
-            "secondDuration": 339,
-            "group": "group_7"
-        },
-        {
             "videoId": "9lD5YuiD9Ck",
             "title": "Bernie Sanders Supporters Stage Walkout after Clinton Nomination",
             "secondDuration": 61,
@@ -121,8 +115,14 @@
             "title": "Boulder supermarket shooting investigation continues",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "XENafYfC4C8",
+            "title": "States nationwide on guard for Inauguration Day threats",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

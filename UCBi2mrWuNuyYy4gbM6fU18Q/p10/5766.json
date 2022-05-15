@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "J54jyx37dSc",
-            "title": "Breonna Taylor grand jury tapes released",
-            "secondDuration": 350,
-            "group": "group_7"
-        },
-        {
             "videoId": "DoBZiUBK8FY",
             "title": "GOP working to gather support for Senate health care bill",
             "secondDuration": 346,
@@ -61,8 +55,14 @@
             "title": "A Look at the Key Battleground States in the 2014 Midterm Election",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "gsj4K7V2-NM",
+            "title": "Rep. Giffords Shot at Grocery Store Event",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

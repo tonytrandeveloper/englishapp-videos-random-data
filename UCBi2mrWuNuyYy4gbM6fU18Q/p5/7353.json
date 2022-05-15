@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_q2VTQzt6wY",
-            "title": "Pakistan Plane Crash: No Survivors",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "eUCznRsf1-Y",
             "title": "Wal-Mart's Green Revolution",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Ahmaud Arbery murder trial",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "jWFgsIzswCM",
+            "title": "Kanye West Receives Doctorate Degree",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

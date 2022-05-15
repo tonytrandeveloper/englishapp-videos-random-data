@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xb_xBGIC8SA",
-            "title": "The world reacts to President Joe Biden",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "VWDTjYinOYk",
             "title": "New developments in killing of veteran New York City police officer",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Police Officer Appears to Manhandle Student",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "eG1LjqdaTwM",
+            "title": "Mass shooting at Indianapolis FedEx Ground operations center | Special Report",
+            "secondDuration": 872,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

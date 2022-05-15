@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X_xbF1118Aw",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 3546,
-            "group": "group_7"
-        },
-        {
             "videoId": "7wpXBy9Wpsw",
             "title": "Robotic Baby Penguin Helps Scientists | NBC News",
             "secondDuration": 27,
@@ -31,8 +25,14 @@
             "title": "Celiac: Disease Affecting Millions Of Americans Often Goes Undiagnosed | NBC Nightly News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "lp9ZiX3NYIk",
+            "title": "Nikki Haley To Russia: ‘You Are Isolating’ Yourselves By Supporting Assad | NBC News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

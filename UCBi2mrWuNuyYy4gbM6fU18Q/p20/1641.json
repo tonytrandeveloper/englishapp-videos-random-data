@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "De7rn4LHiJQ",
-            "title": "Vicky Kennedy Breaks Her Silence",
-            "secondDuration": 267,
-            "group": "group_7"
-        },
-        {
             "videoId": "oslMpVAxgXo",
             "title": "ABC News Live: Biden announces end of normal trade relations with Russia I ABCNL",
             "secondDuration": 1428,
@@ -121,8 +115,14 @@
             "title": "The Bible and the belt: Inside a camp for gay youth | ABC News",
             "secondDuration": 495,
             "group": "group_7"
+        },
+        {
+            "videoId": "iceLEHGMCko",
+            "title": "Can we maintain a ‘shred of national unity’?: McConnell",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

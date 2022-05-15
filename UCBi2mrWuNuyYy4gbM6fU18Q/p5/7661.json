@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Yn8j4XRxSck",
-            "title": "Adorable moment of father and toddler having conversation | ABC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "DWPImvnamlE",
             "title": "ABC News Prime: Elijah McClain's photo release, COVID-19 update, Trump visits Mount Rushmore",
             "secondDuration": 3605,
@@ -31,8 +25,14 @@
             "title": "ABC News Prime: States with record Covid cases; Pregnant in a pandemic; Tracking severe storms",
             "secondDuration": 3627,
             "group": "group_7"
+        },
+        {
+            "videoId": "XynSYwA1lOc",
+            "title": "Teen Hopes to Sail Into Record Books",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

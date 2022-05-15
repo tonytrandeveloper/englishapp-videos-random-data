@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W_sla_gC03w",
-            "title": "Treasury secretary on Trump administration's new tax plan",
-            "secondDuration": 889,
-            "group": "group_7"
-        },
-        {
             "videoId": "DVvkfOjTxWw",
             "title": "Adorable Kitten Rescued From Manhole in Arizona",
             "secondDuration": 53,
@@ -61,8 +55,14 @@
             "title": "Ryan Lochte Summoned to Give Testimony for Rio",
             "secondDuration": 35,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZxWez_IUnuI",
+            "title": "Kim Kardashian Goes Blond in Paris",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

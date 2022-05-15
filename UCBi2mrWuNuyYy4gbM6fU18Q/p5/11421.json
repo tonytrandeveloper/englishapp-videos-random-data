@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ROhEetzLT5w",
-            "title": "Restaurant Hosts “Magic Mike” Themed Brunch | ABC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "wM87KH18cjQ",
             "title": "Hackers Still Targeting Election Systems, FBI Director Warns",
             "secondDuration": 79,
@@ -31,8 +25,14 @@
             "title": "Parents of teen on the run with wrestling coach speak out",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "y8QMAxGjhgM",
+            "title": "Pilots perform risky honor lap stunt, alarming travelers in terminal",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

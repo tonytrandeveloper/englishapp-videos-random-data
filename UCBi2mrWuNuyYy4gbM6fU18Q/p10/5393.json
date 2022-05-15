@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3DeC0qZsaew",
-            "title": "Democratic candidates continue to create momentum after first round of debates",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "cpt1p6Dz2BY",
             "title": "Day 2 of the Derek Chauvin trial: What to expect",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "'The Bachelor' Ben Higgins Discusses 20th Season",
             "secondDuration": 254,
             "group": "group_7"
+        },
+        {
+            "videoId": "WMgiuQGf1Zg",
+            "title": "Cyber Bullying | New App Stops Mean Messages",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

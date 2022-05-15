@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hOF_YJrz0jM",
-            "title": "Famed Editor's Revealing New Video",
-            "secondDuration": 319,
-            "group": "group_7"
-        },
-        {
             "videoId": "V_wxsJiBsAg",
             "title": "War in Ukraine: March 13, 2022",
             "secondDuration": 125,
@@ -121,8 +115,14 @@
             "title": "WH calls late night comedian's Ivanka Trump comment 'vile and vicious'",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "0xT_Pb5ACXo",
+            "title": "US Mother's Heartbreaking Message on Terrorist Slaying of Son",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

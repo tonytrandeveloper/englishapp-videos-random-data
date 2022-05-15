@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XgI3pRID_bM",
-            "title": "President Donald Trump Administration Bans Bump Stocks | NBC Nightly News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xp0iq2cTDoY",
             "title": "Young Adults In NYC Describe How The Pandemic Has Impacted Their Mental Health | NBC News NOW",
             "secondDuration": 304,
@@ -121,8 +115,14 @@
             "title": "Oscars 2018: Celebrities Take A Stand, From #MeToo To Dreamers | NBC News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "SjsXtXftZhU",
+            "title": "President Donald Trump Holding Rally Amid Tensions With GOP | NBC Nightly News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

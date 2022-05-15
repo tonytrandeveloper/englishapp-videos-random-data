@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZgPXxL6Ibnk",
-            "title": "Minnesota Reports Highest Number of Covid Cases Since Vaccine Rollout Began",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jaozo0vfcsw",
             "title": "President Donald Trump Accuses Google Of ‘Rigged’ Search Results For News | NBC Nightly News",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Tips For Helping You Fall Asleep | Better | NBC News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "azdeweFgco4",
+            "title": "What The Constitution Says About Impeachment | NBC News NOW",
+            "secondDuration": 389,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

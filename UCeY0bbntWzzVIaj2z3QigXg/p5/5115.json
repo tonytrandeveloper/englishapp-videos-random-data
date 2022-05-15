@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Kric_kiaN6A",
-            "title": "‘Occupation Is Root Cause Of Violence,’ Palestinian Minister Tells UN",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "1YxqLEC0T0Y",
             "title": "Trading on New York Stock Exchange Resumes After Computer Glitch | NBC Nightly News",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Thousands Of California Residents Evacuate Amid Wind-Fueled Wildfires | NBC Nightly News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "tdx0XJTsPXA",
+            "title": "Meet the Press - Nancy Pelosi, Bobby Jindal & Howard Dean, Political Roundtable",
+            "secondDuration": 18,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

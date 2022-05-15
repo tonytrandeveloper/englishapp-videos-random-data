@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nz6OC79RNoc",
-            "title": "FDA Ban On Trans Fats Expected Soon | NBC Nightly News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "JngpxQ9kMUI",
             "title": "Americans Pay Tribute To Civil Rights Leader Rep. John Lewis | NBC Nightly News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "North Korea Claims It Has Tested New ‘Ultramodern’ Weapon | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "UZMa1eTRdEE",
+            "title": "Megyn Kelly Preview: Russian President Vladimir Putin Discusses Kushner & Flynn | NBC Nightly News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hSt4K6NV_LY",
-            "title": "Violent attacks against Asian-Americans on rise in US",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "j04JeHKDWL0",
             "title": "Tornado Skips Over Family's Home in Mississippi",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Monster Typhoon Slams the Coast of China",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "kbn3KUDd5z0",
+            "title": "Video shows two men fighting on flight from Japan to Los Angeles | ABC News",
+            "secondDuration": 466,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

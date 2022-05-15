@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ApP0NsR8TZM",
-            "title": "Philonese Floyd: ‘We have some type of accountability’",
-            "secondDuration": 443,
-            "group": "group_7"
-        },
-        {
             "videoId": "D6g9sktPd5A",
             "title": "Sonia Sotomayor Takes the Heat",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Duo building full-scale replica of Millennium Falcon cockpit",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "r6jE5JQjOFE",
+            "title": "Bill Cosby Charged With Assault, Accusers React | ABC News",
+            "secondDuration": 564,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

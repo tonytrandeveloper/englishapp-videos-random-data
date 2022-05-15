@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pDZD_czqP50",
-            "title": "Ben Kingsley: 'Prince of Persia' Has Heart",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "B_nmBhLtgi4",
             "title": "Verstappen wins Formula 1 championship in dramatic season finale l GMA",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Students Taunt Minority Classmates: 'Build The Wall'",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "PMGAgjxdV7k",
+            "title": "Trump Officials Admit 'Missed Opportunities' at First Debate Against Hillary Clinton",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

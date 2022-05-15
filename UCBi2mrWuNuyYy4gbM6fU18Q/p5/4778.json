@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PvCAw1sThgY",
-            "title": "The Briefing Room: Democratic Debate preview in Houston | ABC News",
-            "secondDuration": 3655,
-            "group": "group_7"
-        },
-        {
             "videoId": "XBOQsdK_pHk",
             "title": "Fox News Roger Ailes | New Sexual Harassment Allegations",
             "secondDuration": 245,
@@ -31,8 +25,14 @@
             "title": "Aaron Hernandez Now Being Investigated in 2012 Double Homicide",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "NVB1A5684K0",
+            "title": "Bruce Jenner's Transition: Family Gets Emotional on KUWTK Special | Nightline | ABC News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

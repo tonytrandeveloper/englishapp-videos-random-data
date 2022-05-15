@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tDEGejLVndY",
-            "title": "Bus Drivers Keep New York City Moving During Coronavirus Pandemic | NBC Nightly News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "Er8JPvdW7Zc",
             "title": "New Details On Rioter Accused Of Stealing Nancy Pelosi’s Laptop | NBC Nightly News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Uni. Of Washington Doctors Update Efforts Against Coronavirus | NBC News (Live Stream Recording)",
             "secondDuration": 2753,
             "group": "group_7"
+        },
+        {
+            "videoId": "Nl98FxsJ82o",
+            "title": "U.S. Braces For Omicron Variant With New Travel Restrictions",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

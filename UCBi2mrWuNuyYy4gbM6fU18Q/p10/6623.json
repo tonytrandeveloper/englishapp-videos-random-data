@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "M5XdW2O3tAY",
-            "title": "Grammy Weekend: Celebrity's Party Overnight",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "F13eqcAKAHk",
             "title": "Family demands answers for Tennessee driver killed by concrete dropped from overpass",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Mom of killed Iowa college student shares her story",
             "secondDuration": 255,
             "group": "group_7"
+        },
+        {
+            "videoId": "wAuJ5cJsGgA",
+            "title": "ABC News Investigates Controversial Diet Shake Company Herbalife",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

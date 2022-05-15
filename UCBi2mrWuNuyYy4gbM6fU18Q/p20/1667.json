@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3mU0yxsEgfQ",
-            "title": "UCLA Gymnast's Floor Routine Goes Viral",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "ttNuC89WWH4",
             "title": "'You have to look at who is going to win' over Trump, Dr. Jill Biden says",
             "secondDuration": 102,
@@ -121,8 +115,14 @@
             "title": "South Carolina sees spike in positive coronavirus cases",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "dtu16Fenibc",
+            "title": "SUV Cliff Rescue: Hero's Identity Revealed",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

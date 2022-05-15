@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dOZq2RriOQ0",
-            "title": "World News Now Says Farewell to Paula Faris",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZXJEOdHJyBI",
             "title": "NYC Ebola: Officials Try to Calm Public Fears After Ebola Diagnosis",
             "secondDuration": 284,
@@ -31,8 +25,14 @@
             "title": "Health Alert: Massive Meat Recall",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "gZBcCd3lUYQ",
+            "title": "Winningest Woman Goes for 'Jeopardy' Record",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

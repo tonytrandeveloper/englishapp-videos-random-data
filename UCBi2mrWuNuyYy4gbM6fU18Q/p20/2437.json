@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KXMyZv2lYwg",
-            "title": "US life expectancy suffers historic drop due to COVID-19",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "9gtq2ygr1-8",
             "title": "Hollywood icon Kirk Douglas dies at 103",
             "secondDuration": 201,
@@ -121,8 +115,14 @@
             "title": "NFL and Facebook reexamine policies in the name of social justice | ABC News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "wzAU_rUBiR4",
+            "title": "Christian Bale, Colin Firth Win Big at Oscars (02.28.11)",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

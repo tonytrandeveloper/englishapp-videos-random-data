@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vuLl0pPU-5o",
-            "title": "Rick Santorum Drops Out of 2012 Race, Cites Daughter's Illness, Trisomy 18, In Decision",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "unrK6cPoqog",
             "title": "ABC News Live Update: Florida governor signs controversial election bill into law",
             "secondDuration": 1140,
@@ -31,8 +25,14 @@
             "title": "Turmoil Continues in Tehran",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "D8MNvhpim4I",
+            "title": "White House press briefing day after NYC terror attack",
+            "secondDuration": 2202,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

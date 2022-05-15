@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rR1HGfj7y3Q",
-            "title": "GM Program Helps Those Who Took A Break From Their Careers To Get Back In The Workforce | NBC News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "zqzIQikuXWY",
             "title": "Family’s Mission To Provide Desks For Kids In Need | NBC Nightly News",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Live: Trump Delivers Remarks On Vaccine Development | NBC News",
             "secondDuration": 2171,
             "group": "group_7"
+        },
+        {
+            "videoId": "IDiI2pe6yE0",
+            "title": "Biden Standing By His Comments On Putin During Trip To Europe",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

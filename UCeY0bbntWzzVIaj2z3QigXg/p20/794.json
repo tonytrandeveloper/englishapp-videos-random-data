@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "G_RVCvIMTsQ",
-            "title": "Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3068,
-            "group": "group_7"
-        },
-        {
             "videoId": "3uvSlON04qc",
             "title": "President Donald Trump Speaks To U.S. Troops In Japan (Full) | NBC News",
             "secondDuration": 1245,
@@ -121,8 +115,14 @@
             "title": "Federal Judges Weigh Fate Of Obamacare | NBC News Now",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "YMoNLpihcfA",
+            "title": "Justice Trudeau Apologizes: I ‘Deeply Deeply Regret’ Racist Makeup Pictures | NBC News",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

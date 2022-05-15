@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EudkAGgSfak",
-            "title": "ABC News Prime: FB whistleblower hearing; Protecting drinking water; Documented dreamer struggles",
-            "secondDuration": 5344,
-            "group": "group_7"
-        },
-        {
             "videoId": "vqDD2qKkQ1g",
             "title": "Russian Jet Crash 2012: Moscow Plane Crash Kills 4",
             "secondDuration": 76,
@@ -31,8 +25,14 @@
             "title": "Anita Hill speaks out on Kavanaugh sexual assault allegation",
             "secondDuration": 463,
             "group": "group_7"
+        },
+        {
+            "videoId": "fjtRwI6W77s",
+            "title": "Jill Hansen At Attempted Murder Hearing: 'How Long is This Going to Take?'",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

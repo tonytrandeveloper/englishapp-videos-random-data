@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K_pc7g9GOJ8",
-            "title": "Eva Longoria: 'The Border Crossed Us' | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "wf_S1HZglXk",
             "title": "President Donald Trump’s Statement On Cancellation Of North Korea Summit (Full) | NBC News",
             "secondDuration": 276,
@@ -61,8 +55,14 @@
             "title": "Zika, Lyme Drive Big Increase In Bug-Borne Disease In U.S. | NBC Nightly News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "dOvoKKuhI7U",
+            "title": "Record-Shattering Polar Vortex Cold Cripples Much Of The Nation | NBC Nightly News",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "q-xZez28ibs",
-            "title": "White House Holds Press Briefing: Dec. 7 | NBC News",
-            "secondDuration": 3713,
-            "group": "group_7"
-        },
-        {
             "videoId": "F8IVHfgB7K8",
             "title": "Watch Live: Donald Trump, South Korean President Moon Jae-in Deliver Joint Statements | NBC News",
             "secondDuration": 2774,
@@ -31,8 +25,14 @@
             "title": "30 New Deep-Sea Creatures Discovered By Underwater Drone | NBC News",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "CU6lVvrTL5A",
+            "title": "Satellite Images, Before And After Dorian, Reveal Extent Of Destruction In Bahamas | NBC News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

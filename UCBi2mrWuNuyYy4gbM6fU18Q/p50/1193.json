@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "z6Ky6gOgsDk",
-            "title": "Some US states temporarily pause gas tax amid record-high prices",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "NvpEcsFln6o",
             "title": "Longest government shutdown in history hits 22-day mark",
             "secondDuration": 160,
@@ -301,8 +295,14 @@
             "title": "Tragedy at the University of Texas' Austin campus",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "WXb5xZL3zeQ",
+            "title": "India's Child Miners: Growing Up, Underground",
+            "secondDuration": 493,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

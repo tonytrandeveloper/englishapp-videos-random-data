@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S2A6pYruG3g",
-            "title": "Trump Pledges To Preserve DACA, Says U.S. Is Winning War Against COVID-19 | NBC Nightly News",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "4Tevmc4rMu4",
             "title": "R. Kelly Found Guilty On All Charges In Racketeering And Sex Trafficking Case | NBC News",
             "secondDuration": 1831,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Takes On Ted Cruz's 'New York Values' | NBC News",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "vf33t_TOdPo",
+            "title": "Nine Dead In Waco Biker Gang Shooting | NBC Nightly News",
+            "secondDuration": 34,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

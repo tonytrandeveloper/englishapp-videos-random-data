@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "D-56cAR6LM8",
-            "title": "7 Steps To A Better Life | Better | NBC News",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "HBvYBm2wJR0",
             "title": "Coronavirus: U.S. Death Toll Rises As More Cases Reported | NBC Nightly News",
             "secondDuration": 155,
@@ -301,8 +295,14 @@
             "title": "Russia And China Spread Coronavirus Conspiracies About US In Middle East | NBC News",
             "secondDuration": 318,
             "group": "group_7"
+        },
+        {
+            "videoId": "TLT6WkPFgGI",
+            "title": "Whitefish Energy Threatens San Juan Mayor Carmen Yulín Cruz, Then Apologizes | NBC Nightly News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

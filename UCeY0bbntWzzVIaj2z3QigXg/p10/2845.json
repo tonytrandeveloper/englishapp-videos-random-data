@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dGGIRDYGjwY",
-            "title": "Coverage of Hurricane Irma (Full) | NBC News",
-            "secondDuration": 25234,
-            "group": "group_7"
-        },
-        {
             "videoId": "707dZB-nVjU",
             "title": "Watch: Trump holds listening session on vaping",
             "secondDuration": 3462,
@@ -61,8 +55,14 @@
             "title": "LA Fire Station Shooting Leaves Firefighter Dead And Captain Injured",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "E_xzxp3iCdI",
+            "title": "Cold Lava Pews Out Of Volcano Mount Agung As Bali Braces For Eruption | NBC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

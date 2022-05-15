@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qxL8oMIOQhw",
-            "title": "Senate Votes To Confirm Amy Coney Barrett To Supreme Court | NBC News NOW",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "YLQXnIxOe6I",
             "title": "‘Lava Bomb’ Showers Hawaii Tour Boat With Molten Rock, Injuring More Than 20 | NBC News",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "The Milky Way Galaxy Is Probably Much Bigger Than We Thought | Mach | NBC News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "FuIFLvNBfcg",
+            "title": "Yemen Conflict Explained: Three Sides to a Story | NBC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

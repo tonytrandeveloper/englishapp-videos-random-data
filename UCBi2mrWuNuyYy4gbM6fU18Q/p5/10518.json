@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "a9RIj7fOE3Y",
-            "title": "New York Gov. Andrew Cuomo says now is 'no time for fight' amid Donald Trump attacks | ABC News",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "0k3wnXBE5S0",
             "title": "Chernobyl Nuclear Disaster: Gorbachev Speaks, May 14, 1986",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "Officer charged with murder in Andre Hill shooting | WNT",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "ITLsslJG8DM",
+            "title": "Police seeking man seen on video pummeling ride-share driver",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

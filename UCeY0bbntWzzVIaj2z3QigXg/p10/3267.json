@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5JmXG0mqVqo",
-            "title": "SpaceX Launches Car Into Orbit: Starman In The Sky | NBC News",
-            "secondDuration": 56,
-            "group": "group_7"
-        },
-        {
             "videoId": "tMPw1sEg81g",
             "title": "Gov. Phil Murphy Announces Executive Order To Extend Insurance Payment Grace Period  | NBC News",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Employers Ditch Cannabis Testing As States Legalize Marijuana",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "5zUxb0yY7BU",
+            "title": "Body Camera Shows Baltimore Police Officer Allegedly Planting Evidence | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

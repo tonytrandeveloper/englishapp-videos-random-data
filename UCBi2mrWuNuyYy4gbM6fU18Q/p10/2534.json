@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ttsHBS_jnTA",
-            "title": "Syria Violence: Rebels Move Into Aleppo for Battle",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "jvBvPKMkRqo",
             "title": "Hillary Clinton, Bernie Sanders Ramp up Campaigns Ahead of Primary",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Tunisia Terror Attack Impacts Security in U.S.",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "Byc98klCsSo",
+            "title": "Waterboy Scores Emotional Touchdown",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

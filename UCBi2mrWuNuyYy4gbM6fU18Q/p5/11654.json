@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8sJJEWyJlwI",
-            "title": "Cory Booker Testimony In Opposition of Sessions",
-            "secondDuration": 454,
-            "group": "group_7"
-        },
-        {
             "videoId": "ePaQ03WK76Q",
             "title": "Seniors going back to school",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Amtrak Train Derails in Pennsylvania",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "t0fI-rSJTis",
+            "title": "Carnival Cruise Ship Stranded off Yucatan Peninsula",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

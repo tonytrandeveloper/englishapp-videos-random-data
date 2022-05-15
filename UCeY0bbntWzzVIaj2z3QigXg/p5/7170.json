@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PVrSpPXwdZ4",
-            "title": "Inside Hospitals During COVID-19 Spikes | NBC News",
-            "secondDuration": 494,
-            "group": "group_7"
-        },
-        {
             "videoId": "wnGj5ESQlVM",
             "title": "Biden Delivers Remarks On Covid Vaccinations | NBC News",
             "secondDuration": 2201,
@@ -31,8 +25,14 @@
             "title": "Zerlina Maxwell: 2020 Pres. Candidates Highlight The Media's Diversity Problem | Think | NBC News",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "uexTqJGzFtE",
+            "title": "Live: SpaceX, NASA Launch U.S. Astronauts To International Space Station | NBC News",
+            "secondDuration": 23897,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

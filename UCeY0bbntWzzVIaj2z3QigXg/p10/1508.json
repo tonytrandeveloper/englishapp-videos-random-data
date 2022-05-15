@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rLB8d5D0Gfg",
-            "title": "Watch: Rescuers Evacuate People From Floods In Philippines",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZH2TzCf6h9U",
             "title": "Full Scott: 'Maybe Ask [Trump] Why He Did The Tweet' Attacking Cumming | Meet The Press | NBC News",
             "secondDuration": 542,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Speaks At Independent Business Forum | NBC News",
             "secondDuration": 3202,
             "group": "group_7"
+        },
+        {
+            "videoId": "69N20wn7lkI",
+            "title": "FDA Panel Recommends Emergency Use Authorization For Johnson & Johnson Vaccine | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

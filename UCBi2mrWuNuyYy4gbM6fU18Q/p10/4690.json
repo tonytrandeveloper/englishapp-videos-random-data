@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nuSaYxqYKC8",
-            "title": "Animal sanctuary founder injured by 2 bengal tigers she raised",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "FpcJcWi4cug",
             "title": "‘No reason to panic’ over the coronavirus: Trump",
             "secondDuration": 273,
@@ -61,8 +55,14 @@
             "title": "Minnesota Mall Attacker Likely a 'Lone Attacker'",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "LKjKqYqiFII",
+            "title": "Trial for officer accused of killing George Floyd set to begin",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "saCLLz9THuQ",
-            "title": "Joe Biden on Potential 2020 Presidential Run",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "4wRbmeYbShc",
             "title": "VA Secretary Made False Claims About Military Service",
             "secondDuration": 134,
@@ -121,8 +115,14 @@
             "title": "Ivanka Trump responds to personal email use questions, border crisis and her father",
             "secondDuration": 550,
             "group": "group_7"
+        },
+        {
+            "videoId": "lhKqNgHAvEw",
+            "title": "Fears for young Afghan women left behind",
+            "secondDuration": 417,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

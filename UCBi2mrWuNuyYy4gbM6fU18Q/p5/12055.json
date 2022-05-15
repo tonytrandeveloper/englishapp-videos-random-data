@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fzqnc41M6wI",
-            "title": "WEBCAST: Team USA Wins!",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "owW0BTrfbd0",
             "title": "Georgia elections official condemns violent rhetoric, calls on Trump to 'step up' | ABC News",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "Suspect in custody after robbery attempt at Bellagio",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "eGbGj82SQrE",
+            "title": "Black Lives Matter Protesters Clash With Police",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

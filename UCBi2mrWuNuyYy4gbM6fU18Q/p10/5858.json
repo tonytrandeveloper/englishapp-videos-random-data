@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sZUMvUs_sWs",
-            "title": "How Does Your Brain React to BBQ? | Real Biz with Rebecca Jarvis | ABC News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "zkHgA7p_SqI",
             "title": "President Obama Remarks on ISIS, Orlando Terror Attack",
             "secondDuration": 1898,
@@ -61,8 +55,14 @@
             "title": "NY Giants Release Kicker Amid Abuse Details Surfacing",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "AycjnH1FWA4",
+            "title": "'The Interview' Reportedly Pulled From Movie Theater Chain Amid Threats",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

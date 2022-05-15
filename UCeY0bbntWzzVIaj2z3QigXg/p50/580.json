@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "MNiQYIINwlo",
-            "title": "At Least 20 Dead in Historic West Virginia Flooding | NBC Nightly News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "LFUyoPYKhPY",
             "title": "Meet The Crew of Inspiration4, The First All-Civilian Space Mission | NBC Nightly News",
             "secondDuration": 236,
@@ -301,8 +295,14 @@
             "title": "Sandra Day O’Connor Announces Probable Alzheimer’s Diagnosis | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "taasWxX8NhE",
+            "title": "China Works To Contain Coronavirus Outbreak That Its Scientists Say Is An Old European Strain",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

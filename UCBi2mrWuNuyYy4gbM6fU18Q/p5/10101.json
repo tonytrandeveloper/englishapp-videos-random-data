@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4PVm9PKabYk",
-            "title": "Trump Nominates Neil Gorsuch to Supreme Court",
-            "secondDuration": 377,
-            "group": "group_7"
-        },
-        {
             "videoId": "vZ-e0Ah98Po",
             "title": "Remembering US statesman and war hero Bob Dole",
             "secondDuration": 236,
@@ -31,8 +25,14 @@
             "title": "Heartbreaking Story Behind Photo of Elderly Couple Crying",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "VGxsK20-LrY",
+            "title": "Kevin Durant Joins Golden State Warriors",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

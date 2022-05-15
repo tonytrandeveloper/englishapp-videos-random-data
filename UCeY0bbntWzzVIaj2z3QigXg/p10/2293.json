@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XvkK7gSsqjY",
-            "title": "America's Talks With Cuba Officially Begin | NBC Nightly News",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "M7bbaTE7Woo",
             "title": "Belgian Language Textbook Stereotypes Refugees As Terrorists | NBC News",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "Video Captures Pro Surfer Rescuing Woman Caught In Rough Waves | NBC Nightly News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "omVEdGyIoug",
+            "title": "CDC Relaxes Covid Guidance Allowing Most People To Remove Masks Indoors",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

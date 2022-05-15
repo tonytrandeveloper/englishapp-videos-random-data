@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g-suEOxkRCs",
-            "title": "Black Friday is here!",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "oGgYK22ymGY",
             "title": "US announces travel ban on most non-citizens from India | WNT",
             "secondDuration": 249,
@@ -61,8 +55,14 @@
             "title": "Tragedy at the University of Texas' Austin campus",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "WXb5xZL3zeQ",
+            "title": "India's Child Miners: Growing Up, Underground",
+            "secondDuration": 493,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

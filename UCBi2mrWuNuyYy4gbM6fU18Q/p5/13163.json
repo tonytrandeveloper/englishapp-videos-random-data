@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z1eBWHPq0So",
-            "title": "FBI Launches Spy Investigation on US Diplomat",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "SrYxnsgAHWw",
             "title": "Great White Shark Seal Attack in Cape Cod Caught On Camera",
             "secondDuration": 36,
@@ -31,8 +25,14 @@
             "title": "Thousands of Veterans Lose Their Monthly Benefits Due to Clerical Errors",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "Obsx8c5PQ5k",
+            "title": "Ron Paul on Job Creation",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

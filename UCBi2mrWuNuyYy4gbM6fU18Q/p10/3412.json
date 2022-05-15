@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tbTXShUPvLE",
-            "title": "Special graduation for 53-year-old mother",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "JIIix_5N46Q",
             "title": "Missouri College Student Suspected of Killing Her Fiance",
             "secondDuration": 226,
@@ -61,8 +55,14 @@
             "title": "Rick Santorum on the Economy",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "fpZ8_8_-nus",
+            "title": "NFL Giant's Josh Brown Admitted Abuse in Journal, Allegedly",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

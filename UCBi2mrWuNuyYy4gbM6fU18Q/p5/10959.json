@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "F-SoH_8WFFo",
-            "title": "'Making a Murderer' Subject Steven Avery Speaks Out From Prison",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "HsJrDWlegkk",
             "title": "Iran launches more than a dozen missiles at US military, coalition forces in Iraq | Nightline",
             "secondDuration": 618,
@@ -31,8 +25,14 @@
             "title": "What to watch as Warriors, Raptors face off",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "GqUtTuzo1q4",
+            "title": "Chris Coons on Delaware Politics",
+            "secondDuration": 595,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

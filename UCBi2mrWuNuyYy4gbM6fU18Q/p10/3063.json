@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AySyPB1WlUo",
-            "title": "Government Shutdown Day Three",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "cJNc-7lQssg",
             "title": "Impact of the Ahmaud Arbery murder trial on the Black community",
             "secondDuration": 712,
@@ -61,8 +55,14 @@
             "title": "Jamie Foxx Interview: 'White House Down' Actor on Obama's Request to See Film",
             "secondDuration": 324,
             "group": "group_7"
+        },
+        {
+            "videoId": "z8MUM5Vjx7w",
+            "title": "Key Mueller probe evidence to go to Congress",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

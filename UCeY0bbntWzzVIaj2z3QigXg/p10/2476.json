@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aahXFJRJQyY",
-            "title": "What 20 Years Of Improv Taught Actor Eugene Cordero | Break Shot | NBC Asian America",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "2qlVGlxskZ4",
             "title": "After Devastating Mudslides, Californians Search For The Missing | NBC Nightly News",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Inside The Unlikely Friendship Of Kim Jong Un And Dennis Rodman | NBC News",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "2PJHzcK3s_k",
+            "title": "Kansas City Withstands Massive Flooding | NBC News",
+            "secondDuration": 53,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

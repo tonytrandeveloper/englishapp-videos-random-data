@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "--fUPF5C4co",
-            "title": "Airlines Scramble With Unexpected Rush Of Passengers",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "6SR5ASKFUzQ",
             "title": "NBC News NOW Full Broadcast - March 3, 2021",
             "secondDuration": 3000,
@@ -31,8 +25,14 @@
             "title": "Deteriorating Border Conditions Bring Legal Challenges | Meet The Press | NBC News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "fM2ivqBpXH8",
+            "title": "Trump And Chinese Vice Premier Sign Initial Trade Deal After Economic Battle | NBC News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

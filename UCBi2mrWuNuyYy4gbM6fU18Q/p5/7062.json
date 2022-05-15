@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rls6Qy7y9CE",
-            "title": "Surviving 9/11 and COVID-19",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "JqA9cCpJUO4",
             "title": "3 abandoned rice cookers cause bomb scare in NYC subway",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "One step closer to war",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "JOMxVyMy36c",
+            "title": "Wildfires Raging in West: Caught on Tape",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "noqaqluGBgg",
-            "title": "Russia Barred From 2018 Winter Olympics Over Doping | NBC Nightly News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "CkAAUtT44gY",
             "title": "Uber Is An Example Of What Goes Wrong When Algorithms Become Our Bosses | Think | NBC News",
             "secondDuration": 222,
@@ -31,8 +25,14 @@
             "title": "Self-Driving 18-Wheelers Take To The Road",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "c8k4UbqaKRU",
+            "title": "Ambassador Bridge Reopens After Police Clear Protesters",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

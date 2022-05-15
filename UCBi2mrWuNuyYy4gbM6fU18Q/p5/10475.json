@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SfWbmQMdrRk",
-            "title": "ABC News Prime: Ukrainian families moving forward; Mariupol escape; Belarusians join the battle",
-            "secondDuration": 42900,
-            "group": "group_7"
-        },
-        {
             "videoId": "NOHY9refWfY",
             "title": "Ketanji Brown Jackson confirmed to Supreme Court in historic vote",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "West Nile Virus Detected in 43 States",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "1h7wu8OjcCQ",
+            "title": "Battle over voting rights in legislatures around the country",
+            "secondDuration": 477,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

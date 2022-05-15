@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HMlEpiTP0jU",
-            "title": "Second Presidential Debate 2012: Mitt Romney on Tax-Plan Numbers: 'They Add Up'",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "EiYmN9vk7ew",
             "title": "FBI Investigating Militia Standoff in Oregon",
             "secondDuration": 116,
@@ -121,8 +115,14 @@
             "title": "President Biden met with Pope Francis, ahead of climate summit with world leaders in Scotland",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "mb2AV-jmgGg",
+            "title": "'Neverwet' Spray Makes a Waterproof World",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

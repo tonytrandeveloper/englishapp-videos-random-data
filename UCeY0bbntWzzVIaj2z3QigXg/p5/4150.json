@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iH9Z1KJkMr4",
-            "title": "Inspiring America: Stuffed Toy Doctor Puts Children At Ease Before Surgery | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "x0UKoDCUnvc",
             "title": "Testifying While Black Can Have Dire Consequences In The Courtroom | Think | NBC News",
             "secondDuration": 275,
@@ -31,8 +25,14 @@
             "title": "Friends Search For California Woman Missing For 2 Weeks",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "bqMs0rwYrA8",
+            "title": "New York City Begins Vaccinating Students At Schools",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

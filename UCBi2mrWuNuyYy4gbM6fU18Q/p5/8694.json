@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4Azjt5pH-KQ",
-            "title": "Winter Storms 2014: Atlanta Prepares for Snow, Freezing Rain",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "43gCWPEQiwI",
             "title": "French President reacts to Notre Dame cathedral fire: 'We will rebuild it'",
             "secondDuration": 375,
@@ -31,8 +25,14 @@
             "title": "Colorado Flood Waters May Be Receding, But Danger Remains",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "MZNwmUModfo",
+            "title": "Brothers Osborne make their mark in the country music world",
+            "secondDuration": 484,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pVassWf8TFU",
-            "title": "Cirque du Soleil performance takes deadly turn",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "k05tOjoDPmA",
             "title": "Stock Market Takes Bite Out of Apple: Tech Giant Suffers Major Plunge",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "Vaping device may have blown up in a man's face",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "-02OubBWeRY",
+            "title": "Rogue Wave Pulls Onlookers Into Atlantic",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

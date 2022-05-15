@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "so1SdZmZuvc",
-            "title": "Hong Kong Protestor Beaten By Police | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "8alguMVNMMU",
             "title": "Schiff: Ukraine Aide Was 'Conditioned On What Trump Wanted' | NBC News",
             "secondDuration": 439,
@@ -31,8 +25,14 @@
             "title": "Ash Gushes From Philippines Volcano | NBC News (Live Stream Recording)",
             "secondDuration": 20532,
             "group": "group_7"
+        },
+        {
+            "videoId": "VKHQfqBX-aE",
+            "title": "Russian Foreign Minister Sergey Lavrov Rejects Election-Meddling Accusations As ‘Fantasy’ | NBC News",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

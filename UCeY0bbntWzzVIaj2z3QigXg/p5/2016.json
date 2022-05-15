@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Li1K6NU-k2s",
-            "title": "CDC Announces New Eviction Moratorium To Protect Renters",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZoLn2I7Wgnw",
             "title": "Why So Many Major Hurricanes In 2017? | NBC Nightly News",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "Chuck Todd: Donald Trump's Mike Pence Pick 'Pragmatic, Political' | NBC News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "P11wilPZPFk",
+            "title": "Democratic Debate: Watch Castro Go After Biden And Yang's 'Big' Surprise | NBC News",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

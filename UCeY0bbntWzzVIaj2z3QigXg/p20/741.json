@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AYJzzWKxPvA",
-            "title": "Robots Installed At Hotels Used To Treat Coronavirus Patients | NBC News",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "ll-MlEMK_Xo",
             "title": "NASA's 60th Anniversary: Some Of The Space Agency's Greatest Achievements | Mach | NBC News",
             "secondDuration": 184,
@@ -121,8 +115,14 @@
             "title": "Eli Lilly’s Covid-19 Antibody Treatment Faces Distribution Challenges | NBC Nightly News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "iapD0X-bfCA",
+            "title": "Trying To Forget An Ex? How Memory Manipulation From 'Eternal Sunshine' Might Work | Mach | NBC News",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "n7HnVZHxHJ8",
-            "title": "Sam Smith Is Taking A Short Break From Music",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "exqoyRK6LTA",
             "title": "Warren asks Fauci if COVID-19 is contained",
             "secondDuration": 370,
@@ -301,8 +295,14 @@
             "title": "US Fighter Jets Escort Plane Back to Toronto After Apparent Threat",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "YKIOAMcTuWI",
+            "title": "2016 Election Results: NY, KS, ND, SD, WY, NE, TX | ABC News",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

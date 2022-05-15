@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4APfcdQ4Olc",
-            "title": "Justin Bieber Crashes Prom in California",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "8yKLqzNCgzQ",
             "title": "NFL team drops controversial ‘Redskins’ name, logo | WNT",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Melania Trump's office responds to Giuliani's comments on adult actress",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "GLoweLbQZ3g",
+            "title": "Emily Maynard, Jef Holm Interview on Life After the 'Bachelorette'",
+            "secondDuration": 283,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

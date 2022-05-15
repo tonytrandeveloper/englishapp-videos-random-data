@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zLQSLNoOGU8",
-            "title": "How The Polar Vortex Works And Why | Mach | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "ix6d-9TBD_c",
             "title": "Brits React As Harry And Meghan Step Back From Royal Duties | NBC News",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Obama Arrives in Roseburg to Pro-Gun Protests, Grieving Families | NBC Nightly News",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "n0VA7c0eW74",
+            "title": "Facebook Bans 900 Pages And 1,500 Ads For Pro-Trump Conspiracy Theory Group QAnon | NBC News NOW",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

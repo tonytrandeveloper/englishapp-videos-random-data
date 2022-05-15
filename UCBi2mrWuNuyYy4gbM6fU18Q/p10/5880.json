@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VgjEDt-OQEs",
-            "title": "Makeover Your Hummus | ABC News",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "n7ICXwWL8lM",
             "title": "Surviving 48 Hours Until Rehab: Part 2",
             "secondDuration": 326,
@@ -61,8 +55,14 @@
             "title": "Dershowitz: If Trump does Mueller interview, 'he may be walking into a perjury trap'",
             "secondDuration": 333,
             "group": "group_7"
+        },
+        {
+            "videoId": "cIiSHuv3NGE",
+            "title": "Breaking down Ahmaud Arbery murder trial as the jury deliberates",
+            "secondDuration": 766,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

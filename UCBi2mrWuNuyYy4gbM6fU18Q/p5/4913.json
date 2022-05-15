@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QXSUnGOJv24",
-            "title": "Surveillance Video: Pharmacy Robberies Increase",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "bnfcg8I0xwQ",
             "title": "Derek Chauvin on trial for George Floyd’s killing | WNT",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Flubs Pronunciation of 'Tanzania'",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "ad4MmL4-7sc",
+            "title": "Minnesota Rivers Rising as Forecast Calls for More Drenching Rain",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nUQTH5X4Vb4",
-            "title": "Taliban gains ground in Afghanistan as US troops withdraw l WNT",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "OzLIDqJMpNE",
             "title": "'This Week': Jeb Bush Interview - Former Florida Governor Discusses Education in America",
             "secondDuration": 247,
@@ -121,8 +115,14 @@
             "title": "Tropical storm Claudette batters Gulf Coast",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "3epJWi9jAII",
+            "title": "Glickman: Public Said 'No' to 'Hyper-partisanship'",
+            "secondDuration": 694,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

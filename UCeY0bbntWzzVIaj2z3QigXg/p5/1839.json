@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vaKSSF0HRq8",
-            "title": "NBC Nightly News Broadcast (Full) - July 18th, 2021",
-            "secondDuration": 1089,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ybaw8A3jti0",
             "title": "Flashback: When Obama Announced He Was Running for President | NBC News",
             "secondDuration": 67,
@@ -31,8 +25,14 @@
             "title": "LA Police Shooting of Homeless Man Sparks Protests | NBC Nightly News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "aNgL3yi7x9g",
+            "title": "Seattle Police Make Arrests After Demonstration Leads To Damage | NBC News NOW",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

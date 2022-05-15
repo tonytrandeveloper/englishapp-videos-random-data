@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "evh7vn3g0jE",
-            "title": "Anthony Weiner Investigated for Alleged Relationship With Minor",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "7ZWWUqJqEHU",
             "title": "Search for missing 3-year-old reaches 1-month mark",
             "secondDuration": 70,
@@ -61,8 +55,14 @@
             "title": "Google Street View Shows Japanese Nuclear Zone",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "cRBmJKvFryk",
+            "title": "Paula Broadwell Affair Leads to David Petraeus Sentencing",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

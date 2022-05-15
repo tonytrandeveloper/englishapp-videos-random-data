@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KthQ6HmxX8I",
-            "title": "Inside Joran Van der Sloot's Cell",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "IdgSH6SL2mg",
             "title": "USC suspends fraternity amid student protests",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "'GMA' Hot List: Bernie Sanders, and Epic Selfie With 'The Boss'",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "vhuoinEjyF0",
+            "title": "ABC News Live: Heavy snow, freezing rain cause travel nightmare in the South",
+            "secondDuration": 1475,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

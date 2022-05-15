@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "F6jHwpR_7RQ",
-            "title": "'10% Happier': Mark Epstein | ABC News",
-            "secondDuration": 4350,
-            "group": "group_7"
-        },
-        {
             "videoId": "AJqFNnNoUHg",
             "title": "Ted Cruz on the Fight for Convention Delegates",
             "secondDuration": 298,
@@ -301,8 +295,14 @@
             "title": "Kim Potter is ‘the master of her own fate’: Legal expert on decision to testify",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "mMwype8XYnA",
+            "title": "Vladimir Putin’s rival remains in coma",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

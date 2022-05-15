@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fqjnM_tWkxI",
-            "title": "‘A Dark Day For Journalism’: Wikileaks Editor-In-Chief On Julian Assange Arrest | NBC News",
-            "secondDuration": 239,
-            "group": "group_7"
-        },
-        {
             "videoId": "RTfy88cl13o",
             "title": "Colorado Renters In Limbo Over Lost Wages | NBC News",
             "secondDuration": 274,
@@ -61,8 +55,14 @@
             "title": "West Coast Facing Extreme Weather | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "5LVUpFFvmCw",
+            "title": "Americans Collect And Ship Supplies Overseas For Ukrainian Refugees",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

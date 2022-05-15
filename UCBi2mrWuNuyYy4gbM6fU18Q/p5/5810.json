@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "e4mNkezEyD0",
-            "title": "Police Officers Join Kids in Soccer Game",
-            "secondDuration": 28,
-            "group": "group_7"
-        },
-        {
             "videoId": "vQlG3XvoMXo",
             "title": "Paris Jackson Interview on Ellen: Michael Jackson's Daughter Discusses Life After King of Pop",
             "secondDuration": 166,
@@ -31,8 +25,14 @@
             "title": "Bill Nye the Science Guy Takes Final Dance on 'DWTS'",
             "secondDuration": 274,
             "group": "group_7"
+        },
+        {
+            "videoId": "kVg_8mwcDEo",
+            "title": "ABC News’ Powerhouse Politics roundtable breaks down 1st presidential debate",
+            "secondDuration": 545,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

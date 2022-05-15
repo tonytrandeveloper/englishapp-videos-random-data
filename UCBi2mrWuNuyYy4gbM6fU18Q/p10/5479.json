@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KAC50ILgIxY",
-            "title": "Boy With Cerebral Palsy Competes in Triathlon",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "v3jiJUmzR84",
             "title": "Transition delay is a 'disservice' to the American public: Jeh Johnson | ABC News",
             "secondDuration": 350,
@@ -61,8 +55,14 @@
             "title": "Russian and Ukrainian officials are meeting in person after more than two weeks | ABC News",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "F-SoH_8WFFo",
+            "title": "'Making a Murderer' Subject Steven Avery Speaks Out From Prison",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

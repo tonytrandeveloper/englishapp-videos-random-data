@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "P0UjvgWS0zc",
-            "title": "Maryland Mall Shooting | Police Detail Scene, Suspect Remains on the Loose",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "qSI9K7cyl4g",
             "title": "Deadliest Day of Fighting in the Ukraine and America's Plan",
             "secondDuration": 211,
@@ -301,8 +295,14 @@
             "title": "Hillary Clinton Still Trying to Clinch Democratic Presidential Nomination",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "HdfuSDxApwE",
+            "title": "Latest updates on COVID-19: July 15, 2020",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

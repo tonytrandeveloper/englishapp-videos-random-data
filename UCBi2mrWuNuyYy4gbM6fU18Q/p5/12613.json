@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VKJIeWIcsHk",
-            "title": "Hurricane Earl Hits New England",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "E16monmJOwE",
             "title": "How Diana, Kate and Meghan created their own unique fashion statements",
             "secondDuration": 369,
@@ -31,8 +25,14 @@
             "title": "On the Town with Ed Sheeran",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "vnjA-Ihmckg",
+            "title": "'GMA' Loves It Mash-Up",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

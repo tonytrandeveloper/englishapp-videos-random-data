@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4f3J_6fTshU",
-            "title": "Police-involved shooting on busy San Francisco street",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "OkrCNHvRyJk",
             "title": "State of the Union 2016: Benefits and Protections for American Citizens",
             "secondDuration": 193,
@@ -61,8 +55,14 @@
             "title": "House Republicans vote to remove Cheney from leadership | WNT",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "fzqnc41M6wI",
+            "title": "WEBCAST: Team USA Wins!",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cYSYuUgknUA",
-            "title": "Linda McMahon: 'We Have Made Washington Listen'",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "aiOSUoKXIic",
             "title": "Briefing room: Mueller probe, Dems sue over Whitaker appointment, Fla. & Georgia elections settled",
             "secondDuration": 1277,
@@ -61,8 +55,14 @@
             "title": "Inside serial entrepreneur and social influencer Gary Vaynerchuk's empire",
             "secondDuration": 412,
             "group": "group_7"
+        },
+        {
+            "videoId": "0snPCxOO0IE",
+            "title": "Parrot steals family's GoPro",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

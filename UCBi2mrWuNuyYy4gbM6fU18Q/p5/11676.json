@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S0Ln6pRBLgQ",
-            "title": "Celebrity Mom Economics",
-            "secondDuration": 325,
-            "group": "group_7"
-        },
-        {
             "videoId": "YuXiHBuPnCw",
             "title": "Trump, Perdue announce $19 billion relief program for farmers",
             "secondDuration": 305,
@@ -31,8 +25,14 @@
             "title": "Onboard Cameras Highlight the Dangers of Bus Crashes",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "yzbiNN9iUbA",
+            "title": "New Information on Female Suspect in Paris Attacks",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

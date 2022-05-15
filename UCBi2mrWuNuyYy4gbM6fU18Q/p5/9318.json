@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LWCzcJC4Rfs",
-            "title": "By the Numbers: Tom Brady retires after record-breaking career",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "1-MSBIdQtmM",
             "title": "'This Week': Made in America",
             "secondDuration": 442,
@@ -31,8 +25,14 @@
             "title": "‘GMA,’ Macy’s, Make-A-Wish Help Make Dreams Come True",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "NpnfGw2Gx6k",
+            "title": "The Jinx: Robert Durst Murder Case Reopens as HBO Airs Series",
+            "secondDuration": 253,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

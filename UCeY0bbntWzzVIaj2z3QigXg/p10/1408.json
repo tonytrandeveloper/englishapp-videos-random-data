@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "h9r_I3w-sbs",
-            "title": "NBC Nightly News Full Broadcast - September 21st, 2021",
-            "secondDuration": 1268,
-            "group": "group_7"
-        },
-        {
             "videoId": "j1hAPobsH9c",
             "title": "Gov. McCrory: North Carolina’s Hurricane Death Toll Has Risen To 10 | NBC News",
             "secondDuration": 83,
@@ -61,8 +55,14 @@
             "title": "What Is A High Deductible Heath Care Plan? | NBC News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "ngST5tsEvJo",
+            "title": "Walk Along The Berlin Wall? Augmented Reality Makes It Happen | NBC News Now",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

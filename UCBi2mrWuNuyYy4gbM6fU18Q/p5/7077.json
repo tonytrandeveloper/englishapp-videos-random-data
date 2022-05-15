@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HKqeHUpZRl8",
-            "title": "Detectives investigate woman who they believe killed her first and second husbands",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "lALG8hwQ_iw",
             "title": "Nevada Caucus 2012 Full Victory Speech: Mitt Romney Targets President Obama's Economic Policies",
             "secondDuration": 888,
@@ -31,8 +25,14 @@
             "title": "Over My Dead Body l 20/20 l PART 4",
             "secondDuration": 358,
             "group": "group_7"
+        },
+        {
+            "videoId": "iNGnDBO8BrE",
+            "title": "Clinton Unleashes New Trump Attack",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

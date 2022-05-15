@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l22LiTcCn58",
-            "title": "Interview with Austan Goolsbee",
-            "secondDuration": 473,
-            "group": "group_7"
-        },
-        {
             "videoId": "bFfToW-ouNM",
             "title": "Saying goodbye to Bill Paxton",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Can France Bridge Cultural Divide Over Islam?",
             "secondDuration": 338,
             "group": "group_7"
+        },
+        {
+            "videoId": "htfhyg9rmAs",
+            "title": "Hostage situation unfolds at Synagogue near Fort Worth",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

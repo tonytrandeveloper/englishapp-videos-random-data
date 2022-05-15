@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6PKoF4GqFBA",
-            "title": "The Coronavirus Pandemic's Impact On Pollution And Climate Change | NBC News",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "eOhUkholpZE",
             "title": "Here’s Why You Hear A Lot Of Applause During The State Of The Union | NBC News",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Watch Total Solar Eclipse Over South America In 1 Minute | Mach | NBC News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "2ddyXRJ_N6I",
+            "title": "Dow Falls Nearly 800 Points Amid China Trade Uncertainty | NBC Nightly News",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

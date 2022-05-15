@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "u5Fa6gP7xPk",
-            "title": "'Panda'-Monium at the National Zoo",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "yTT-qKq0uW4",
             "title": "Instant Index: 'Twilight' Sweeps Razzie Awards",
             "secondDuration": 75,
@@ -31,8 +25,14 @@
             "title": "Freddie Gray Trial | First Police Officer Cleared of All Charges",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "VqPmU5aSwe4",
+            "title": "Unreleased CDC report details why Delta variant is dangerous than other COVID-19 variants | ABC News",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

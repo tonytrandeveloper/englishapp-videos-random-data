@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uzsptrGUFo8",
-            "title": "Bellingcat Unmasks Second Salisbury Poisoning Suspect | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "dYqduT3Ff8Y",
             "title": "Voting Rights Act Of 1965 Put To The Test In Supreme Court | NBC News NOW",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "COVID-19 Timeline: From Patient Zero To New York City As Virus Epicenter | News NOW",
             "secondDuration": 265,
             "group": "group_7"
+        },
+        {
+            "videoId": "m7aN4WY95zw",
+            "title": "Boris Johnson And Jeremy Hunt Clash During Britain’s Prime Minister Debate | NBC News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

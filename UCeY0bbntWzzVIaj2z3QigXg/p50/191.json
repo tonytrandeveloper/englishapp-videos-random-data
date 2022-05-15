@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "UeAkKjTWxXA",
-            "title": "Gunman Shot by Secret Service Near White House | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "UdhmPlLav6s",
             "title": "Watch NBC News NOW Live - October 1",
             "secondDuration": 42901,
@@ -301,8 +295,14 @@
             "title": "James Mattis Hails John McCain As True American 'Patriot' | NBC News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "D_tP87SrXd0",
+            "title": "Portland Tackles Opioid Epidemic With New Solutions | NBC Nightly News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

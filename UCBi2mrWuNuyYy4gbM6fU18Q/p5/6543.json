@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CbcDuVt_vsA",
-            "title": "Birds swarm parking lot in Texas",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "FNWm0OMxKTg",
             "title": "OSU Attack Suspect, Officer Involved Identified",
             "secondDuration": 48,
@@ -31,8 +25,14 @@
             "title": "US Job growth slows sharply | WNT",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "YMWS9MXQeZg",
+            "title": "Miss Florida Is In It To Win It",
+            "secondDuration": 549,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

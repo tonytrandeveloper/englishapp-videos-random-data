@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9W4W6mtSR38",
-            "title": "How journalists reconstructed 'Black Wall Street' online 100 years later",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "CAGE4-8Ykhk",
             "title": "Former NYPD detective on charges announced in Breonna Taylor’s murder",
             "secondDuration": 235,
@@ -121,8 +115,14 @@
             "title": "UK Prime Minister clarifies phased plan to ease England out of lockdown",
             "secondDuration": 246,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fp8xrBaGMIE",
+            "title": "ABC News’ Powerhouse Politics team breaks down the town hall with Joe Biden",
+            "secondDuration": 715,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

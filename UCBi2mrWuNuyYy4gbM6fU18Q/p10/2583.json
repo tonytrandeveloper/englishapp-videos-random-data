@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hDgY3w-nIFc",
-            "title": "Derek Chauvin addresses court with cryptic message",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "TpZnemdKUQ8",
             "title": "Tree falls onto home in Colorado Springs",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "Electing a New Pope: Secrets of Conclave",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "N8Zb2bS2OAI",
+            "title": "Lea Michele Interview 2014: 'Glee' Star on New Album Louder Says, 'Music Should Be Personal'",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

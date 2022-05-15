@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sOhsyIDbQxE",
-            "title": "Autism | A Better Understanding",
-            "secondDuration": 439,
-            "group": "group_7"
-        },
-        {
             "videoId": "xUdG1cs_NtE",
             "title": "Why is there mixed messaging on masks in schools?",
             "secondDuration": 281,
@@ -31,8 +25,14 @@
             "title": "President Barack Obama Victory Speech 2012: Election Remarks From Chicago Illinois",
             "secondDuration": 1262,
             "group": "group_7"
+        },
+        {
+            "videoId": "cvM1fxhjWw0",
+            "title": "Seoul: The World's Most Wired City",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

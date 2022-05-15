@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9NwZKd_wdBE",
-            "title": "Melanie Oudin: The Next Cold Warrior",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "h93Cf_AojYM",
             "title": "SCOTUS rules to block citizenship question in end-of-term decision",
             "secondDuration": 244,
@@ -31,8 +25,14 @@
             "title": "Violent threats over election results",
             "secondDuration": 427,
             "group": "group_7"
+        },
+        {
+            "videoId": "smNyJPve8Fg",
+            "title": "Making Earth a better place",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

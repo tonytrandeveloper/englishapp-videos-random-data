@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y64xbQOW85k",
-            "title": "14 more Americans test positive for coronavirus | ABC News",
-            "secondDuration": 239,
-            "group": "group_7"
-        },
-        {
             "videoId": "_9wQH_b5aKA",
             "title": "Shark Tank Daymond John | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 848,
@@ -31,8 +25,14 @@
             "title": "'This Week' Sunday Spotlight: John Kerry on Vietnam",
             "secondDuration": 275,
             "group": "group_7"
+        },
+        {
+            "videoId": "yUpQx78fWVE",
+            "title": "Groundhog's Day 2013: Punxsutawney Phil Faces Stiff Competition",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

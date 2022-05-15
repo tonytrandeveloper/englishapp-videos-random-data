@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "v4bJgwCfNPI",
-            "title": "Amplified: David Bazan",
-            "secondDuration": 435,
-            "group": "group_7"
-        },
-        {
             "videoId": "b2bSc0QJi_o",
             "title": "Nationwide US Customs computer system malfunction causes airport chaos",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Sharee Miller 'pursued' marriage to Bruce Miller | 20/20 ‘You’ve Got Jail’ Preview",
             "secondDuration": 292,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z01cotuXK9g",
+            "title": "Police Set Up Sting to Record Student Admitting to Sexual Assault",
+            "secondDuration": 501,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

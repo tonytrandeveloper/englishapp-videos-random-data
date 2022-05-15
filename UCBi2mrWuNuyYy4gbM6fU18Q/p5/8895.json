@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0RAS-rvxtuk",
-            "title": "Plane breaks in half after speeding off runway",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "s24wzlk4tCM",
             "title": "ABC News Live Update: States tighten COVID-19 restrictions as cases rise",
             "secondDuration": 1243,
@@ -31,8 +25,14 @@
             "title": "These Black-owned businesses are prevailing through the pandemic l ABC News",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "DHW1_f92DHE",
+            "title": "Amplified: Free Energy",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

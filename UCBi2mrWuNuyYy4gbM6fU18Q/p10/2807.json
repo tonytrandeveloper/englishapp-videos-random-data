@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kPK1eq9qv2M",
-            "title": "Gigantic Shark Caught During Reality-TV Shoot for 'Jim Shockey's The Professional'",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "uw1y1pEl0-o",
             "title": "Ukraine President Zelensky calls for ‘day of unity’ amid Russia threat",
             "secondDuration": 895,
@@ -61,8 +55,14 @@
             "title": "The Debrief: Trump on border separation, 2018 midterms, Google walkout | ABC News",
             "secondDuration": 1231,
             "group": "group_7"
+        },
+        {
+            "videoId": "aFgVgRvmSeM",
+            "title": "Free Range Children",
+            "secondDuration": 479,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

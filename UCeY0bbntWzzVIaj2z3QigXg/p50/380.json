@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "TNZgngsL64I",
-            "title": "Nightly News Full Broadcast - Nov. 14",
-            "secondDuration": 1310,
-            "group": "group_7"
-        },
-        {
             "videoId": "yCa23drV7Sc",
             "title": "Morning News NOW Full Broadcast - Oct. 14",
             "secondDuration": 2775,
@@ -301,8 +295,14 @@
             "title": "Three Gored During First Running Of The Bulls Of 2017 | NBC News",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "clqFSeSNKeM",
+            "title": "Struggling Airline Industry Hopes Covid Protocols Will Restore Customer Confidence | NBC News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

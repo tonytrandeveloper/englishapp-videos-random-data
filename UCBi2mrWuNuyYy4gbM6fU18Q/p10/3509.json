@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lLuzsp7giyY",
-            "title": "Gina Gershon on Matthew McConaughy, \"Killer Joe\"",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "45n3j2kkckc",
             "title": "Amanda Knox Speaks Out From Prison",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "Delayed 2022 MLB season begins",
             "secondDuration": 514,
             "group": "group_7"
+        },
+        {
+            "videoId": "rb4u46f9fS8",
+            "title": "Teen Pregnancy: After Baby Is Born",
+            "secondDuration": 409,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

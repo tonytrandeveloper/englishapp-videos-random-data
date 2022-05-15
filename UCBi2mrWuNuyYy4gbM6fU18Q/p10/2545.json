@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZrpO0rkzvHM",
-            "title": "Making Ezra Frech's Dream Come True",
-            "secondDuration": 348,
-            "group": "group_7"
-        },
-        {
             "videoId": "485CD8gOA2E",
             "title": "Video captures Atlanta police saving of a dog found during a building fire",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Tiger Woods in Car Crash",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "iusFkgnzskI",
+            "title": "One World, One Pandemic: How South America is fighting COVID-19",
+            "secondDuration": 340,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

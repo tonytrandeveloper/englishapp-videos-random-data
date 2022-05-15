@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dOvoKKuhI7U",
-            "title": "Record-Shattering Polar Vortex Cold Cripples Much Of The Nation | NBC Nightly News",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "qBJLMRiVMQY",
             "title": "Rayshard Brooks Vows To ‘Keep Going Until I Make It’ In Interview Before His Death | NBC News NOW",
             "secondDuration": 225,
@@ -61,8 +55,14 @@
             "title": "Inside Race To Save World’s Largest Tree From Wildfire",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "KipNwWo-ILw",
+            "title": "Man Rescued By Neighbor After Kentucky Tornado Destruction",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5CzIDvoR39w",
-            "title": "DOJ Launches Gun Trafficking Strike Forces In Five Cities",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qs23hD8QkIE",
             "title": "Federal Trade Commission Reportedly Probing Facebook | NBC Nightly News",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "Jared Kushner Greeted Warmly By Israeli PM | NBC News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "XGbHbAbC-l0",
+            "title": "The Hidden Cost of Sleep Deprivation | Better | NBC News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

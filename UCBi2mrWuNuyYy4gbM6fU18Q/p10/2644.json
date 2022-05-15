@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jeGPGHBKnpg",
-            "title": "Remembering Martin Luther King Jr's Dream: 'This Week' Roundtable",
-            "secondDuration": 381,
-            "group": "group_7"
-        },
-        {
             "videoId": "wbYk85I01lM",
             "title": "Space Shuttle Challenger Explosion, Teacher Christa McAuliffe Dies",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Republicans Jockey for Position",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "hEm5NC_8cT0",
+            "title": "Orlando Shooter Calls With Police Released",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TcQG911CyDo",
-            "title": "NYC Healthcare Workers On The 'Overwhelming Sense Of Burnout'",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "upPnfb0DumI",
             "title": "Full Fauci Interview: 'We Have To Be Careful' On Vaccines Like Johnson & Johnson | Meet The Press",
             "secondDuration": 625,
@@ -121,8 +115,14 @@
             "title": "Swing State Voters React To Kamala Harris Pick | NBC News NOW",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "8doGS6VkeyU",
+            "title": "Florida Gov. DeSantis: ‘It’s A Tragic Day’ And First Responders ‘Still Hard At Work’",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

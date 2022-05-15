@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xxdnMPStLIQ",
-            "title": "Boston Marathon Bombing Suspect Dzhokhar Tsarnaev Recovering",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "fTgrA2uBs5s",
             "title": "Katrina: 10 Years After the Storm",
             "secondDuration": 79,
@@ -31,8 +25,14 @@
             "title": "Hollywood Hack Job May Be Linked to North Korea",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "nZnvIvxH4dM",
+            "title": "American Tourist in France Breaks Finger Off of 600-Year-Old Statue of Virgin Mary",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

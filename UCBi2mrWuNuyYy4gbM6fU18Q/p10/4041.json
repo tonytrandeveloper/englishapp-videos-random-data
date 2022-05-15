@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s3zbU4aNQNQ",
-            "title": "20/20 - Your Biggest Fan - Part 2",
-            "secondDuration": 504,
-            "group": "group_7"
-        },
-        {
             "videoId": "fXcKedZ39M0",
             "title": "JetBlue Pilot Video Reveals Clayton Osbon's Apparent 'Panic Attack' Mid-Flight; Passengers Subdue",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Inside San Francisco's Bike Theft Epidemic | 20/20 | ABC News",
             "secondDuration": 600,
             "group": "group_7"
+        },
+        {
+            "videoId": "SVSrk-nrQNQ",
+            "title": "Manhunt underway for a suspect in the murder of Tessa Majors",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XFJhjbCWVuw",
-            "title": "Presidential Debate Fact Check",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "UbmmWPUmj10",
             "title": "ABC News Live Update: Falcon Rocket’s successful launch sends 4 astronauts to ISS",
             "secondDuration": 1665,
@@ -31,8 +25,14 @@
             "title": "Victory Day, Rayshard Brooks funeral, Ron Jeremy arrest: World in Photos, June 24",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "6gRsfgwZmpw",
+            "title": "Family of Fallen Solider Gets a New Home",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

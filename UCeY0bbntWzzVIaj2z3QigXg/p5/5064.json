@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RV6LR0eNFwM",
-            "title": "Inspiring America: Former NFL Player Finds Purpose Training Amputees | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "T-SzoGlxeMc",
             "title": "Watch: Grammys Highlights In 3 minutes | NBC News",
             "secondDuration": 210,
@@ -31,8 +25,14 @@
             "title": "Power Of The Dinner Table: Every Thursday Is Like Thanksgiving Here | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "c52BxQLsSUA",
+            "title": "New York Gov. Cuomo Requests Covid Vaccine Directly From Pfizer To Increase Supply | NBC News NOW",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

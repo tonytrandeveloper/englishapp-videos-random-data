@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AZVIvxQAZVg",
-            "title": "Mom Vows to Fight Billionaire Dad",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "UtnUYAIIjI0",
             "title": "‘The Bachelor’ Season 20 Week 8 Recap  | ABC News",
             "secondDuration": 255,
@@ -31,8 +25,14 @@
             "title": "Jessica Kingdon talks about Oscar-nominated documentary",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "ymAD88VeFTs",
+            "title": "President Trump delivers remarks at Arab Islamic American Summit",
+            "secondDuration": 2015,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

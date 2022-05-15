@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZdQOnHwo65g",
-            "title": "California Gov. Newsom Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3691,
-            "group": "group_7"
-        },
-        {
             "videoId": "3S8r7IGP0fo",
             "title": "Midterms 2018: Voters Battle Long Lines And Malfunctioning Machines | NBC Nightly News",
             "secondDuration": 77,
@@ -31,8 +25,14 @@
             "title": "Women Unite Behind #MeToo On International Women's Day | NBC News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "D-Ebw8HCte0",
+            "title": "Is It Common To Have So Many 'Acting' Department Heads In The White House? | NBC News Now",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

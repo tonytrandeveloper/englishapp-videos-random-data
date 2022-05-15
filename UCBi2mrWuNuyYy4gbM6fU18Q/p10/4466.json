@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SbHv5J-aSYo",
-            "title": "Obama vs. Romney: Debate Countdown",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "qQNCBBAcpzU",
             "title": "Deadly Bus Hijacking in Washington, DC",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Pork plant fears: CDC releases report on Smithfield plant",
             "secondDuration": 721,
             "group": "group_7"
+        },
+        {
+            "videoId": "xZIIY6jKILg",
+            "title": "Mother, Daughter Force Behind Viral Instagram 'Crazy Jewish Mom'",
+            "secondDuration": 410,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

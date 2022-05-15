@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0zi7evq0gHA",
-            "title": "Super-Detailed Black Hole Simulations Solved A Longstanding Mystery | Mach | NBC News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "yVL97WsXESM",
             "title": "Health Care Heroes Share Video Diaries From The Front Lines Of COVID-19 Fight | NBC News NOW",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "Happy Holidays from MSNBC Dayside",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "W3ZMGOYe99M",
+            "title": "NYC Mayor Bill de Blasio Holds Press Conference On Coronavirus | NBC News (Live Stream Recording)",
+            "secondDuration": 2674,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

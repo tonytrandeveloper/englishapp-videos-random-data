@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6Fk74e0LP7Q",
-            "title": "Record-Breaking Wildfires Ravaging California | NBC Nightly News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "UcVjNLSnleE",
             "title": "Exploring The Link Between Chinese Language And Modern Technology | NBC News",
             "secondDuration": 242,
@@ -31,8 +25,14 @@
             "title": "Cuomo Declares State Of Emergency In New York For Coronavirus Outbreak | NBC News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "9JmtYzGxzR0",
+            "title": "How A Small Blog From 2004 Is Keeping The Golden Age Of The Web Alive | Think | NBC News",
+            "secondDuration": 441,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

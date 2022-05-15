@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "aORAH0WSwGA",
-            "title": "High School’s First-Ever Girl Auto Mechanic Class Competes In Clunker Competition | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "B3HdRjS_ums",
             "title": "NASA Celebrates Another Historic Landing On Mars | NBC Nightly News",
             "secondDuration": 64,
@@ -301,8 +295,14 @@
             "title": "Delta Variant Becomes Dominant Covid Strain In The U.S.",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "eAMveJvAC90",
+            "title": "New York City Bicyclist Attacks Uber Driver, Jumps On Top Of Car | NBC News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

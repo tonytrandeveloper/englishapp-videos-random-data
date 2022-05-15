@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WpTpbtu57W0",
-            "title": "Survivors Pulled From Rubble Days After Nepal Quake | NBC Nightly News",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "ywqGeMEuOQQ",
             "title": "Competitors Tumble Downhill  During Historic English Cheese-Rolling Race | NBC News",
             "secondDuration": 65,
@@ -121,8 +115,14 @@
             "title": "Full Panel: 'Lack Of Clarity Is A Serious Problem' In Coronavirus Response | Meet The Press",
             "secondDuration": 498,
             "group": "group_7"
+        },
+        {
+            "videoId": "AYJzzWKxPvA",
+            "title": "Robots Installed At Hotels Used To Treat Coronavirus Patients | NBC News",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

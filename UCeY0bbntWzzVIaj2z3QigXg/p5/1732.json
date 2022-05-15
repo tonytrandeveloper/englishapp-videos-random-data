@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "W27ByB2_fJA",
-            "title": "Canadian Parliament Shooting Leaves Soldier Dead | NBC News",
-            "secondDuration": 315,
-            "group": "group_7"
-        },
-        {
             "videoId": "xQ6QTKoP0Qk",
             "title": "Inside White House’s Decision To Fire FBI Director Comey | NBC Nightly News",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "Democratic Lawmakers Tour Migrant Facility In Tornillo, Texas | NBC Nightly News",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "r5e6fP6zq4s",
+            "title": "Coronavirus: HHS National Disaster Medical Team Assisting Overwhelmed New Mexico Hospital",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

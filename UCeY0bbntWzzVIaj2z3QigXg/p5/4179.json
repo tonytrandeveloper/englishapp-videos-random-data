@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sxyxbKUHp7w",
-            "title": "Only on TODAY",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "_x0GZTDLCR4",
             "title": "Biden Describes The First Debate As A 'Clownish Undertaking' | NBC News",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "Google Claims Quantum Computing Breakthrough | NBC News Now",
             "secondDuration": 258,
             "group": "group_7"
+        },
+        {
+            "videoId": "dHSxHYRm8hY",
+            "title": "President Donald Trump Gives Remarks At San Diego Marine Base | NBC News",
+            "secondDuration": 1724,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

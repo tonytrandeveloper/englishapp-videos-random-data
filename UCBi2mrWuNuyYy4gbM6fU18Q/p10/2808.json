@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aFgVgRvmSeM",
-            "title": "Free Range Children",
-            "secondDuration": 479,
-            "group": "group_7"
-        },
-        {
             "videoId": "B5Xu2fcFLqA",
             "title": "ABC News Prime: Reports of shelling in Ukraine; Trumps ordered to testify; Situation at the border",
             "secondDuration": 5309,
@@ -61,8 +55,14 @@
             "title": "House adopts resolution condemning president after racist attacks",
             "secondDuration": 302,
             "group": "group_7"
+        },
+        {
+            "videoId": "JSCjEo7p6fA",
+            "title": "'Definitely and imminently' filing suit against Trump administration: Xavier Becerra",
+            "secondDuration": 266,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r-4sRo1wvEg",
-            "title": "The Conversation: Third World America",
-            "secondDuration": 282,
-            "group": "group_7"
-        },
-        {
             "videoId": "KDBVcmvrNn4",
             "title": "Rob Ford, Crack Smoking Toronto Mayor, Refuses to Step Down: 'I'm Not an Addict'",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "Eagle-Eyed Boy Finds Lost Wedding Band in River",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "B1sEEhdEhCQ",
+            "title": "AOC responds to GOP congressman in fiery speech",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RMOPjIrXpbs",
-            "title": "The Debrief: California wildfires, Trump in Paris, midterm recounts | ABC News",
-            "secondDuration": 1457,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZtWTl2qy-2E",
             "title": "New Weapon in Fight Against Lung Cancer",
             "secondDuration": 160,
@@ -121,8 +115,14 @@
             "title": "Chris Christie Takes on Donald Trump",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "jasaTY2qC10",
+            "title": "Global vaccine distribution",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

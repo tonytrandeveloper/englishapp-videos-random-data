@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YssEOzCYvog",
-            "title": "Teenage Game of Simon Says Gone Awry",
-            "secondDuration": 456,
-            "group": "group_7"
-        },
-        {
             "videoId": "HDpLz_nqR_Q",
             "title": "The Rundown: Top headlines today: Feb. 25, 2022",
             "secondDuration": 245,
@@ -61,8 +55,14 @@
             "title": "Jodie Foster Speech: Golden Globes 2013",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "oVN3ybq_kdo",
+            "title": "2010: A 'Referendum' on Obama",
+            "secondDuration": 639,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

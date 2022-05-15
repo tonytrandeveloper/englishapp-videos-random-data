@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zMLKuipqHUg",
-            "title": "President Donald Trump Calls International Space Station To Congratulate Astronaut | NBC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yy7KZJGyfzA",
             "title": "Second Night Of Unrest In Milwaukee | NBC News",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Crowds Attend Funeral For Vietnam Veteran With No Next Of Kin | NBC News",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "dOUSBLPQ5Sk",
+            "title": "Aging Isn't A Curse. But Ageism Is A Serious Global Problem. | Think | NBC News",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

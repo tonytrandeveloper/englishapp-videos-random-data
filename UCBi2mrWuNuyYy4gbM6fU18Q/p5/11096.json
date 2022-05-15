@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7d6MrYg8BBA",
-            "title": "Elizabeth Holmes convicted on 4 counts of fraud",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "xFIuiUIBPu4",
             "title": "FEMA administrator: Hurricane Irma 'worst-case scenario' for Florida's west coast",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "19-Year-Old Fights to Be Taken Off Sex Offender Registry",
             "secondDuration": 481,
             "group": "group_7"
+        },
+        {
+            "videoId": "8YIoJ_fqulw",
+            "title": "Bizarre teacher forcibly cuts student's hair while singing the national anthem",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

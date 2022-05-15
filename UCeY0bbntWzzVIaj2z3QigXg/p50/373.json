@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "NoSWLlVO6zM",
-            "title": "Federal Health Officials Say This Flu Season Is The Worst In Nearly A Decade | NBC Nightly News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "7Wd4KJmBmQQ",
             "title": "Obama Announces Historic Jobs Growth | NBC News",
             "secondDuration": 89,
@@ -301,8 +295,14 @@
             "title": "South By Southwest Canceled Over Coronavirus Fears | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "xA7cY0IG8EM",
+            "title": "Top Story with Tom Llamas - March 14 | NBC News NOW",
+            "secondDuration": 2642,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

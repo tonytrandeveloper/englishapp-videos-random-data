@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oz3tiQ94TKk",
-            "title": "Prince Philip’s royal legacy",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "eWZFSEi1t0Y",
             "title": "Ex-NFL star claims bankruptcy nearly led him to murder",
             "secondDuration": 278,
@@ -61,8 +55,14 @@
             "title": "Time Warner vs. Fox",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "ApP0NsR8TZM",
+            "title": "Philonese Floyd: ‘We have some type of accountability’",
+            "secondDuration": 443,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

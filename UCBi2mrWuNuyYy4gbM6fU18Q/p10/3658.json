@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Va8VB90Rln8",
-            "title": "ABC News Prime: 3 mil. US COVID-19 infections; Reopening schools debate;  AG Barr interview",
-            "secondDuration": 3648,
-            "group": "group_7"
-        },
-        {
             "videoId": "WLpNv1MxbG4",
             "title": "Texas lawmakers scuffle over sanctuary cities law",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Chicago Fog Cancels Flights",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "YwillqDvKFg",
+            "title": "Boy's Body Recovered after Disney Gator Attack",
+            "secondDuration": 449,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

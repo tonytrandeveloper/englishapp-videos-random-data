@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VDneqowrn60",
-            "title": "Jeff Sessions to Sally Yates in 2015: ‘You Need to Say No’ to the President | ABC News",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "3ArTnh2_VQ0",
             "title": "Celebrating civil rights hero John Lewis | WNT",
             "secondDuration": 321,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton Still Trying to Clinch Democratic Presidential Nomination",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "HdfuSDxApwE",
+            "title": "Latest updates on COVID-19: July 15, 2020",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QEyv4IApPws",
-            "title": "Secret Service Agent Competing In Boston Marathon With A Powerful Mission | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "YLkU7oeb4C0",
             "title": "Reflecting On Afghanistan 20 Years After 9/11",
             "secondDuration": 190,
@@ -61,8 +55,14 @@
             "title": "USNS Comfort Arrives In New York City Harbor For Coronavirus Assistance | NBC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "nXPivbhGDwA",
+            "title": "Richard Grenell On Global LGBT Decriminalization: I'm Supported By Both Parties | NBC News",
+            "secondDuration": 254,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

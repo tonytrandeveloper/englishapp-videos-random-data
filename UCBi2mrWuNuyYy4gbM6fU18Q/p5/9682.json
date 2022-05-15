@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "b6n8whw6XvU",
-            "title": "Oxford/AstraZeneca vaccine rolls out in UK l ABC News",
-            "secondDuration": 275,
-            "group": "group_7"
-        },
-        {
             "videoId": "qZ9aahzZMs4",
             "title": "8 dead in NYC after man mows down pedestrians, cyclists with truck",
             "secondDuration": 518,
@@ -31,8 +25,14 @@
             "title": "New details on Amtrak crash that killed 2 people",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "6Q9yvh3CgtM",
+            "title": "Major US Cities Ramp Up Security for July 4th",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

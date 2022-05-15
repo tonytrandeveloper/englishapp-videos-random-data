@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "u_ehI8i6Fik",
-            "title": "Climate change blamed for deadly, damaging floods in Italy l ABC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "ucK3hrsTodM",
             "title": "How the Heck Do These Christmas Gadgets Work?",
             "secondDuration": 129,
@@ -121,8 +115,14 @@
             "title": "Fake federal agent mystery deepens I ABCNL",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "JMlNis-GWq4",
+            "title": "US officials say Ukrainian missile sank Russian warship in Black Sea l GMA",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

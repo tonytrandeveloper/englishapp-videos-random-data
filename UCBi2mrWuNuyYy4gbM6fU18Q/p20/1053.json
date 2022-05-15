@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wvD6xb3QWG0",
-            "title": "UN reports hundreds of thousands displaced in Ukraine | WNT",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "ddbzKy5C6ZU",
             "title": "Millions without power in Texas, death toll rising | WNT",
             "secondDuration": 302,
@@ -121,8 +115,14 @@
             "title": "7 dead after driver plows into people on New York City bike path",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "7d30v1wfP7w",
+            "title": "State of the Union 2016: Obama Stresses the Importance of Voting",
+            "secondDuration": 348,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z8mpcZYD1-4",
-            "title": "Donald Trump Doubles Down on Claim He Saw Muslims Celebrating After 9/11",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "M7k5l6X4xoA",
             "title": "No Charges for NYC Officer Pantaleo in Eric Garner Death",
             "secondDuration": 289,
@@ -61,8 +55,14 @@
             "title": "Death toll expected to rise after partial building collapse near Miami Beach",
             "secondDuration": 707,
             "group": "group_7"
+        },
+        {
+            "videoId": "mLh19Wt1sDQ",
+            "title": "Sean Spicer Interview: Trump Won't 'Apologize For Putting Safety of This Country First' | This Week",
+            "secondDuration": 871,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

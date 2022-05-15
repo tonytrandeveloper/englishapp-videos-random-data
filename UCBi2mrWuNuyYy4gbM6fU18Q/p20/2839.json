@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KysA5xwdDHU",
-            "title": "Families USA's Ron Pollack on 'Top Line'",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "x_X4rChiRoM",
             "title": "Trump Signs Order to Move Forward Keystone, Dakota Access Pipelines",
             "secondDuration": 113,
@@ -121,8 +115,14 @@
             "title": "‘Every year there is an eternity’: Trevor Reed’s father on Russian detention",
             "secondDuration": 377,
             "group": "group_7"
+        },
+        {
+            "videoId": "LxN9IhaV0TE",
+            "title": "Danger hiding on your Android device",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3gfpFvL7Ijk",
-            "title": "Steven Spielberg Unveils Latest Biopic 'Obama'",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "_2Tei7UCA-M",
             "title": "Steve Bannon says media 'always wrong' about Trump",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "Actor John Hawkes:  \"It's Hard to be a Rebel When Everyone is Cool.\"",
             "secondDuration": 525,
             "group": "group_7"
+        },
+        {
+            "videoId": "HE4G_B44TLU",
+            "title": "Dr. Fauci set to testify before Congress today",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

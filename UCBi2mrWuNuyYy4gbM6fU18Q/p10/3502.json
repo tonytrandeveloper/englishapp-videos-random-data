@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SOCyBq-hidU",
-            "title": "Rep. Barney Frank and Rep. Marsha Blackburn",
-            "secondDuration": 936,
-            "group": "group_7"
-        },
-        {
             "videoId": "3UvI2nv_R18",
             "title": "Woman Killed in Lion Attack at Cat Haven Animal Sanctuary",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "CBS under fire over severance for ex-CEO",
             "secondDuration": 345,
             "group": "group_7"
+        },
+        {
+            "videoId": "40rzOXd3i3Q",
+            "title": "Adam Driver Teams With Snickers for Live Super Bowl Commercial",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

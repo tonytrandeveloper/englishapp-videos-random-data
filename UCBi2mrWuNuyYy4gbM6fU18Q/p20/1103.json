@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fv8ODsjtBYQ",
-            "title": "IRS ends use of facial recognition technology",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "tF-sk2OK8YA",
             "title": "Entertain with Tupperware! | ABC News",
             "secondDuration": 271,
@@ -121,8 +115,14 @@
             "title": "Americans Throw Out $190-Worth of Food Each Year",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "zLhOJ0KYRhE",
+            "title": "Katie Ledecky Makes Bryce Harper Hold Olympic Medals Before First Pitch",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

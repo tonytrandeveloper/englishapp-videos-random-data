@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "K7153PFyZxs",
-            "title": "New 'Godzilla' Trailer Stars Bryan Cranston",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "JhVg1RydMmI",
             "title": "Police in Kentucky found 5 dead bodies, including the suspected shooter",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Firefighter finishes half-marathon wearing full gear and tanks",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "y5kjvG_gzbM",
+            "title": "Donald Trump, the Making of a President",
+            "secondDuration": 479,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

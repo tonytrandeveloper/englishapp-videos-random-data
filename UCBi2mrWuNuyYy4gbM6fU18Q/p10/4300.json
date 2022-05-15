@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Y80X81bbZ7k",
-            "title": "Life as a Circus Animal Trainer",
-            "secondDuration": 345,
-            "group": "group_7"
-        },
-        {
             "videoId": "4EeeHfMO3gY",
             "title": "Pope Francis & the People | Moderated by David Muir | Español",
             "secondDuration": 2528,
@@ -61,8 +55,14 @@
             "title": "'Real Housewives of Beverly Hills' Nephew Austin Kelsoe Talks Russell Armstrong's Suicide (08.18.11)",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "bisAu_CoRNA",
+            "title": "Why attack now?",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

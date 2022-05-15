@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "X7bwhiK8iFM",
-            "title": "Amazon founder, wife announce they're divorcing after 25 years",
-            "secondDuration": 223,
-            "group": "group_7"
-        },
-        {
             "videoId": "nI0loqmVpio",
             "title": "20-year-old woman loses brakes on Ohio Interstate",
             "secondDuration": 93,
@@ -121,8 +115,14 @@
             "title": "U.S. Department of State facilitated evacuation of the 1st Americans to leave Afghanistan | ABC News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "UqnMWWrnmks",
+            "title": "Egyptian President Mohamed Morsi Forced Out of Power",
+            "secondDuration": 465,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

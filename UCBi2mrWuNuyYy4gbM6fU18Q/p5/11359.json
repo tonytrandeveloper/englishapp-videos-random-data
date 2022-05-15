@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6X99WtPjSwg",
-            "title": "Flames burn 460 acres an hour on the west coast",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "S3ykFe2fbZU",
             "title": "Combat Rescue: Saving Lives in Hard Situations",
             "secondDuration": 288,
@@ -31,8 +25,14 @@
             "title": "Is Scarlett Johansson Pregnant?",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "5Z-y4aySQhw",
+            "title": "Cardinal Timothy Dolan Reflects on Catholic Church's Future",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

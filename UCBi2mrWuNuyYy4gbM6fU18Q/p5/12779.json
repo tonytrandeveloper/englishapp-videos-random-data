@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VOD4Pg4DJiw",
-            "title": "'The Sports Gene': Author Tackles Controversial Aspect of Sports, Genes and Ethnicity",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "MwujOKpvK_Q",
             "title": "Mexico’s hidden death toll",
             "secondDuration": 365,
@@ -31,8 +25,14 @@
             "title": "Airline mechanic accused of sabotaging passenger flight | ABC News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "_vnuksElv6c",
+            "title": "Miss Universe 2015 is Crowned",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

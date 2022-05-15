@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "40p6dPJCJ38",
-            "title": "London Bridge attack | BREAKING NEWS on \" Terrorist incidents\"",
-            "secondDuration": 360,
-            "group": "group_7"
-        },
-        {
             "videoId": "ghPfJ0KQvo4",
             "title": "Benedict Cumberbatch Interview on Doctor Strange",
             "secondDuration": 311,
@@ -61,8 +55,14 @@
             "title": "Bubble Soccer",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "tk7tJF9bT4Q",
+            "title": "Manhunt on in Tampa after 3 slayings in 11 days",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

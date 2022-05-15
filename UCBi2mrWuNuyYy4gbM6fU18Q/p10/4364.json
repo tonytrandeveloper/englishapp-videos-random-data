@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SWNueCEyXt8",
-            "title": "Bill Clinton Steps Up His Criticisms of Donald Trump",
-            "secondDuration": 213,
-            "group": "group_7"
-        },
-        {
             "videoId": "5IKbgO9qnLs",
             "title": "Deadly shooting at Texas church",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Deep Freeze to Hit Half of the United States",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "coNga-9ToX0",
+            "title": "NY's soon-to-be governor, Kathy Hochul, delivers 1st address l GMA",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XvZk8OARqp4",
-            "title": "Nine Dead In South Dakota Plane Crash | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "GP9E3kBVyII",
             "title": "Fred Warmbier Speaks Out In South Korea, 8 Months After Son’s Death | NBC Nightly News",
             "secondDuration": 178,
@@ -121,8 +115,14 @@
             "title": "Guided By The Light – The Future Of The Internet Is Li-Fi | Mach | NBC News",
             "secondDuration": 204,
             "group": "group_7"
+        },
+        {
+            "videoId": "JfwfWRH2Vvs",
+            "title": "New Treatment Shows Hope For Younger Women With Advanced Breast Cancer | NBC Nightly News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

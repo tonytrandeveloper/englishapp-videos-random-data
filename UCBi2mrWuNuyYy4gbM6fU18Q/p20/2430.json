@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AeYwNjbKcbw",
-            "title": "Robert De Niro, Danny DeVito, Ben Stiller team up with Gov. Cuomo in COVID-19 message | ABC News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "WQZ50ODiF2E",
             "title": "Pence travels to Turkey in hopes of cease-fire l ABC News",
             "secondDuration": 165,
@@ -121,8 +115,14 @@
             "title": "Mariah Carey and Nick Cannon Interview: Couple Discusses Twins, Parenthood and their Relationship",
             "secondDuration": 264,
             "group": "group_7"
+        },
+        {
+            "videoId": "_lYjXsnHGoA",
+            "title": "Holiday parade disaster leaves 5 dead, over 40 injured l GMA",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

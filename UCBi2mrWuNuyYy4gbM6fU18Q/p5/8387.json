@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lKfDGcO-2MY",
-            "title": "Journalist reported killed shows up alive on TV",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "KnQ2obiWJVs",
             "title": "Top health officials warn that COVID-19 is now a \"pandemic of the unvaccinated\" | ABC News",
             "secondDuration": 196,
@@ -31,8 +25,14 @@
             "title": "Passengers React to ABC News TSA Theft Report",
             "secondDuration": 214,
             "group": "group_7"
+        },
+        {
+            "videoId": "TA6bvn9e8Oc",
+            "title": "11-year-old arrested for his pregnant soon-to-be stepmother's murder: 20/20 Oct 19 Pt 1",
+            "secondDuration": 453,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bIVQMZJZ7MI",
-            "title": "25 Years After LA Riots: The Verdict That Sparked Them | NBC Nightly News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "2gas9VQQz3Y",
             "title": "Urgent Need For Contact Tracers To Help Slow Coronavirus Spread | NBC Nightly News",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "Julie Ionescu: 'For student success, it takes...'",
             "secondDuration": 12,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y_8BUqJVxvI",
+            "title": "Supreme Court Lets Texas Abortion Law Stand",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

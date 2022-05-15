@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ih2DGM8Wry8",
-            "title": "OJ Simpson Prosecutors on Renewed Interest in 'Trial of the Century'",
-            "secondDuration": 329,
-            "group": "group_7"
-        },
-        {
             "videoId": "6JgXYzS37DU",
             "title": "Hillary Clinton, Tim Kaine Campaign in Battleground States",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "North Korea Says it Has Conducted a Nuclear Test",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "CPtxxWIzea0",
+            "title": "On The Frontlines",
+            "secondDuration": 363,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ums-VyWd_8k",
-            "title": "MSNBC's Chris Matthews: As Much an American",
-            "secondDuration": 21,
-            "group": "group_7"
-        },
-        {
             "videoId": "-f25H4ymTP0",
             "title": "Live: Trump Delivers Remarks On Protecting America's Seniors | NBC News",
             "secondDuration": 4370,
@@ -61,8 +55,14 @@
             "title": "Family Member Of Arizona Patient Speaks As Hospitals Pass 2,000 Deaths | NBC News NOW",
             "secondDuration": 391,
             "group": "group_7"
+        },
+        {
+            "videoId": "A1geU1Ei5LQ",
+            "title": "Team USA Surfer Carissa Moore Is Eyeing Her Sport’s First Olympic Gold Medal",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

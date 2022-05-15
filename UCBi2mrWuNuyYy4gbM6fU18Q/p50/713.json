@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "QK-3YZ3-yKE",
-            "title": "Police Target: Michael Jackson's Doctor",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "ENgEOvUCUMQ",
             "title": "New sanctions on Russia coming?",
             "secondDuration": 141,
@@ -301,8 +295,14 @@
             "title": "How Can You Cure a Mystery Malady?",
             "secondDuration": 424,
             "group": "group_7"
+        },
+        {
+            "videoId": "fl-OnTFHzG8",
+            "title": "Police body cameras capture aftermath of college party shooting: Part 2",
+            "secondDuration": 463,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

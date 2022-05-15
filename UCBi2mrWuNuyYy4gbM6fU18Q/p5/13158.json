@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5prP4NeZdiY",
-            "title": "At least 4 injured in shooting at YouTube offices; suspect dead",
-            "secondDuration": 288,
-            "group": "group_7"
-        },
-        {
             "videoId": "XfG9eTFcBAI",
             "title": "The Briefing Room: Election review, Assange charges, Vote 2020, Memorial Day",
             "secondDuration": 1670,
@@ -31,8 +25,14 @@
             "title": "Paws for a Cause: Dogs Help Kids Read",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "2xu3rfmG7cg",
+            "title": "'The Long Road Home' with the soldiers and families of Black Sunday",
+            "secondDuration": 375,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

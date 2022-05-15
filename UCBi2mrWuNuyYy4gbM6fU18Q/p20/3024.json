@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RpJFdXWCRTE",
-            "title": "'Angels' Reunited: Remembering Fawcett and Forsythe",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "CJS8ClzxhE4",
             "title": "WEBCAST: Fort Hood Rampage",
             "secondDuration": 115,
@@ -121,8 +115,14 @@
             "title": "Failed Terror Plot: A Link to al Qaeda?",
             "secondDuration": 353,
             "group": "group_7"
+        },
+        {
+            "videoId": "kkxR4Via6Fo",
+            "title": "US Launches Operation in Somalia to Target Al Qaeda",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

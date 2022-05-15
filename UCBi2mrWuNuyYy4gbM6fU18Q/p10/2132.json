@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XYcCjY3_IhA",
-            "title": "Hidden Calories: Are You Being Healthy?",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "zOQUzPlqa7w",
             "title": "ABC News Update: Naomi Osaka lights Olympic torch at opening ceremony",
             "secondDuration": 2089,
@@ -61,8 +55,14 @@
             "title": "How to safely escape a flash flood l ABC News",
             "secondDuration": 464,
             "group": "group_7"
+        },
+        {
+            "videoId": "9B331aFZRBE",
+            "title": "Fauci discusses need for vaccine booster shot",
+            "secondDuration": 329,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

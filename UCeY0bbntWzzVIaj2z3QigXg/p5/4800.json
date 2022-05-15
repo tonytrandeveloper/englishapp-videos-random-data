@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OYE42FXrZsg",
-            "title": "First Responders Scramble To Keep Up With Surging Covid Patients",
-            "secondDuration": 241,
-            "group": "group_7"
-        },
-        {
             "videoId": "nrmVGlEWOIk",
             "title": "China Vows Retaliation Against U.S. Over Hong Kong Sanctions | NBC News NOW",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Matt Lauer Responds Publicly To Misconduct Allegations | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "dgkiRQ22zLs",
+            "title": "A Race Against Time To Evacuate Bay City, Texas | NBC Nightly News",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

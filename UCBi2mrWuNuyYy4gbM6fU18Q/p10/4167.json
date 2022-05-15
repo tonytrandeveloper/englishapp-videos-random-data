@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6mG9l28oKyI",
-            "title": "Will Smith Raps 'Fresh Prince' After Dare from British TV Host",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "KcRZKlL3xf4",
             "title": "'The Debrief': California wildfires, Thousand Oaks shooting, midterms | ABC News",
             "secondDuration": 1496,
@@ -61,8 +55,14 @@
             "title": "SCOTUS Nominee Gorsuch: Trump's Comments 'Demoralizing' & 'Disheartening'",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "ywMtHq2E-Us",
+            "title": "Biden honors those lost to COVID-19",
+            "secondDuration": 1077,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

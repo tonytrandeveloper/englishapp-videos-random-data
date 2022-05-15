@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9QDWbse4wFU",
-            "title": "Live: L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
-            "secondDuration": 3179,
-            "group": "group_7"
-        },
-        {
             "videoId": "wQpqpmkIWPs",
             "title": "Two Parents Convicted In College Admissions Scandal Trial",
             "secondDuration": 128,
@@ -121,8 +115,14 @@
             "title": "Irish PM Enda Kenny Reminds U.S. St. Patrick 'Was An Immigrant' | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "lfxZ-glT9EM",
+            "title": "Trump And First Lady Melania Honor Fallen Soldiers During Dignified Transfer | NBC News",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

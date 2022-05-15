@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9qVBrFQAczI",
-            "title": "The Academy Expels Harvey Weinstein Amid Sexual Misconduct Claims | NBC Nightly News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "TPZY8gQUjLU",
             "title": "Ida Unleashes Tornadoes, Flooding in Maryland As Storm Hammers East Coast",
             "secondDuration": 178,
@@ -121,8 +115,14 @@
             "title": "Robin Leach Dead, Hosted 'Lifestyles Of The Rich And Famous' | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "8-lwxneQ2Ws",
+            "title": "An Aquaponic Vertical Farm Grows In Brooklyn | Mach | NBC News",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

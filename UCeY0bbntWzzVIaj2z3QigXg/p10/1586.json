@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Qi5RUj4qbYk",
-            "title": "This Is How One Company Is Bringing Down Costs of Generic Drugs | NBC Nightly News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "vpQs2ll8naM",
             "title": "'I've Been Deprived': Syesha Mercado And Partner Emotionally Plead For Custody Of Children",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Obama to Expand Overtime Pay for Millions of Workers | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "G_RVCvIMTsQ",
+            "title": "Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3068,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

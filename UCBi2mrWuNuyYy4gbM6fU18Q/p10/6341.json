@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LJ4ZuCPInrY",
-            "title": "One Night in Central Park l 20/20 l PART 4 | ABC News",
-            "secondDuration": 465,
-            "group": "group_7"
-        },
-        {
             "videoId": "8djd7v76Nfk",
             "title": "Taliban Claims Responsibility for Intercontinental Hotel Attack; 11 Killed in Afghanistan",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Protests ignite over Black man shot 7 times by police while family watches | WNT",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "m9kcU3u_0dw",
+            "title": "Cirque Du Soleil is studying audience members' brains to create new shows",
+            "secondDuration": 451,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

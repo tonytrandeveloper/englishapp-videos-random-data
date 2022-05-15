@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "BE6YP23CWHg",
-            "title": "Biden Delivers Remarks In Las Vegas | NBC News",
-            "secondDuration": 1739,
-            "group": "group_7"
-        },
-        {
             "videoId": "JQZd94xhUmI",
             "title": "Nearly 2,000 Flights Cancelled After Bomb Cyclone Blizzard | NBC Nightly News",
             "secondDuration": 156,
@@ -301,8 +295,14 @@
             "title": "Myanmar Military Takes Control Of Country, Detains Top Civilian Leaders | NBC News NOW",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "TrD0pmriF4k",
+            "title": "Missouri Lawmakers Pass Abortion Ban At 8 Weeks | NBC Nightly News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

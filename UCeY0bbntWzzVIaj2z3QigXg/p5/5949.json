@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HIJMNjI4wvQ",
-            "title": "2 Dead In Gruesome Florida Stabbing | NBC News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "V2mI9MrzUMk",
             "title": "U.S., Iranian Warship Showdown | NBC Nightly News",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Speculation Swirls Over Biden’s VP Pick After Meeting with Michigan Gov. Whitmer | NBC Nightly News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "gV-8SNCIAok",
+            "title": "U.S. Nuclear Arsenal: Pres. Donald Trump Says He Wants Build-Up | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DFJ9_qCfhCc",
-            "title": "What We Learned From Opportunity's Grand Journey Across Mars | Mach | NBC News",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "LR2M5SzJV6Y",
             "title": "N.C. Gov. Roy Cooper Gives Update On Tropical Storm Florence | NBC News",
             "secondDuration": 2089,
@@ -31,8 +25,14 @@
             "title": "Jared Kushner Under Scrutiny By FBI As Part Of Russia Investigation | NBC Nightly News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "rESU3yuTjrc",
+            "title": "Meet Chi Ossé: The Queer BLM Activist Running For New York City Council",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

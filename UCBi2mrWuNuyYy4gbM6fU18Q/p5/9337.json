@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DPusCaBqO78",
-            "title": "Flight canceled, pilot detained on alcohol-related charge: Source",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "6Yxu0V_J3x4",
             "title": "Boris Johnson apologizes after initial findings of 'partygate' investigation released l ABC News",
             "secondDuration": 335,
@@ -31,8 +25,14 @@
             "title": "Homeless man will receive GoFundMe funds",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "6tEwiImxaBo",
+            "title": "Terrorist Attack on American Embassy in Turkey",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

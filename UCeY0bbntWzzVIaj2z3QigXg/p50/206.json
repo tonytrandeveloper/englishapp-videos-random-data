@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "_97yv89fyxc",
-            "title": "Morning News NOW Full Broadcast - Jan. 17",
-            "secondDuration": 3043,
-            "group": "group_7"
-        },
-        {
             "videoId": "I5yKTzD8QZY",
             "title": "Odessa Orchestra Plays In Support Of No-Fly Zone For Ukraine",
             "secondDuration": 86,
@@ -301,8 +295,14 @@
             "title": "Artist Highlights Undocumented Essential Workers Taken By The Pandemic | NBC News NOW",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "afmDPkj6-f0",
+            "title": "Vintage Appeal: Etsy's $3 Billion Open | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cVA2wc8ni-M",
-            "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 1845,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lgw7B-iaMdM",
             "title": "Biden Looks To Begin Climate Policy With Executive Orders | NBC News NOW",
             "secondDuration": 272,
@@ -31,8 +25,14 @@
             "title": "Michael Brown's Father Addresses The U.N. | NBC News",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "MP0IlRcPyq0",
+            "title": "Cheetah 3 Is A Blind Robot That Doesn’t Need Sensors To Navigate | Mach | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

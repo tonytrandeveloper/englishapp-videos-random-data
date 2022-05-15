@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "p04PPlouyAA",
-            "title": "Saving Big Time on Dental Care",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "hKI_yRPR7uA",
             "title": "MIX: Hitched At The Rose Bowl",
             "secondDuration": 176,
@@ -61,8 +55,14 @@
             "title": "Kilauea volcano grows more explosive",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "bdsojhx6acU",
+            "title": "Sophia Vergara Fights Fiancée for Frozen Embryos",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

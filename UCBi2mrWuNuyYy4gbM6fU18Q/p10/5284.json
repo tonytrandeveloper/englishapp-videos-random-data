@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-3URa6tW2ig",
-            "title": "White House press briefing on Michael Wolff book, and Steve Bannon | ABC News",
-            "secondDuration": 2736,
-            "group": "group_7"
-        },
-        {
             "videoId": "Dvm2KZ1SMIk",
             "title": "Experts discuss the impact of the youth vote ahead of 2020 presidential election | Nightline",
             "secondDuration": 350,
@@ -61,8 +55,14 @@
             "title": "Person of the Week: Aimee Mullins, Advocate for Women",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "uuIeBDFuIQQ",
+            "title": "Security Officials Prepare for Holiday Terror Threat",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

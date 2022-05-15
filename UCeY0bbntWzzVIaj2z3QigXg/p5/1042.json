@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gW3Lt2FQapk",
-            "title": "Tom Brokaw: Ronald Reagan's Debate Challenge | NBC News",
-            "secondDuration": 283,
-            "group": "group_7"
-        },
-        {
             "videoId": "QBioH5_Xsy0",
             "title": "Castro’s Tense Exchange With Biden Puts The Age Question Front And Center | Meet The Press",
             "secondDuration": 178,
@@ -31,8 +25,14 @@
             "title": "Search Continues For Factory Worker Tornado Survivors",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "o43oJw1Wz_A",
+            "title": "Grandfather To Change Plea To Guilty In Toddler’s Cruise Ship Death | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

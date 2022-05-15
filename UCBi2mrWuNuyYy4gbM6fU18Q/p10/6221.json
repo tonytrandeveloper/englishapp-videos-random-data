@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iHB-Za6aFEs",
-            "title": "Panda spotted in the wild in China",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "zKVXOIZkKCY",
             "title": "Putin and Obama Meet After Tough Words at the United Nations",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "State of emergency declared as Hurricane Michael strengthens",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "xcdTPoLSeR8",
+            "title": "Jay Carney on Spying Accusations: 'US Is Not Monitoring' Chancellor Merkel",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "yQNer4SX1Rk",
-            "title": "James Maslow, Peta Murgatroyd Eliminated From 'Dancing With the Stars'",
-            "secondDuration": 318,
-            "group": "group_7"
-        },
-        {
             "videoId": "C-2LoGsawDY",
             "title": "WikiLeaks Offers $20K for DNC Staffer's Death Info",
             "secondDuration": 240,
@@ -301,8 +295,14 @@
             "title": "SKINNY: Taylor Takes Over GMA",
             "secondDuration": 254,
             "group": "group_7"
+        },
+        {
+            "videoId": "nARvabBzBh4",
+            "title": "Biden to announce vaccine requirements for federal workers",
+            "secondDuration": 319,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VDue2PImkIQ",
-            "title": "US surgeon general details spread of coronavirus and debate over masks l ABC News",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "JX1YyKnr4sw",
             "title": "Judge orders boy with cancer to get chemotherapy against parents' wishes",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Windy City Rubber Duck Derby",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "O_LV_pgSbbw",
+            "title": "9/11 Anniversary | NYPD Ramps Up Security in Times Square",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

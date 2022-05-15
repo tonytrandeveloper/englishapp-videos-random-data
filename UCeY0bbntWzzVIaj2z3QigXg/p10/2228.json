@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sMioKngrZiI",
-            "title": "Navigating The Trauma Of Mass Shooting Survivors | NBC News Now",
-            "secondDuration": 352,
-            "group": "group_7"
-        },
-        {
             "videoId": "qOD6HZyBSdA",
             "title": "Hundreds Arrested After Curfew Broken In Los Angeles | NBC News NOW",
             "secondDuration": 198,
@@ -61,8 +55,14 @@
             "title": "McCarthy Holds Press Conference | NBC News",
             "secondDuration": 1616,
             "group": "group_7"
+        },
+        {
+            "videoId": "s499QBfElcs",
+            "title": "Search Ongoing For Suspects After Shooting Of Two Los Angeles Deputies | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

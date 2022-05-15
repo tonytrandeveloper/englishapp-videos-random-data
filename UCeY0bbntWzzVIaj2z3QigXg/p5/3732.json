@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "v6ktfkgckSA",
-            "title": "How Third Party Candidates Will Affect The 2016 Election | NBC News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "TVsdORcQONo",
             "title": "LA Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
             "secondDuration": 3670,
@@ -31,8 +25,14 @@
             "title": "Florida Farmers Fight To Save Their Crops From A Deep Freeze",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "_HiuwYykSmM",
+            "title": "Overlap Of COVID-19 And Flu Season Could Have Devastating Consequences | NBC Nightly News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

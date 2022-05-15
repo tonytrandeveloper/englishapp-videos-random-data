@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uFanNYbhm2g",
-            "title": "2015 Grammy Awards",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "5AI12GGKVLc",
             "title": "Wildfire Strikes San Bernardino National Forest in Southern California",
             "secondDuration": 107,
@@ -121,8 +115,14 @@
             "title": "Donald Trump's Straight Talk About His 2016 Presidential Bid | ABC News Exclusive | ABC News",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "YDom6wNYb9w",
+            "title": "Trump says he doesn't particularly believe in UFOs",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

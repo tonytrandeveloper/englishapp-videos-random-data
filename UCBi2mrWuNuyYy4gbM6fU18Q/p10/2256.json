@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oE8jJsV6Iak",
-            "title": "Donald Trump Looks to Stop Ted Cruz's Winning Streak",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "7yN-ksOtv84",
             "title": "GWU Wants Your Old Cell Phone",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Train  Versus Tanker",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "wPn5n-05LdU",
+            "title": "War in Ukraine: March 5, 2022",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

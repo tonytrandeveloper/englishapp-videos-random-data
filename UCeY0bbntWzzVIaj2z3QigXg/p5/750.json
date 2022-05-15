@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-pJMYl1DLUw",
-            "title": "Dow Plunges Nearly 400 Points as Oil Prices Continue to Fall | NBC Nightly News",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "s0qzCbwAnI8",
             "title": "House Votes To Impeach Trump In Historic Vote | NBC Nightly News",
             "secondDuration": 270,
@@ -31,8 +25,14 @@
             "title": "Prime Minister Defends Involving U.K. Opposition Leader In Brexit Talks | NBC News",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "tA-nvkN7UaI",
+            "title": "Payne Stewart's Fatal Crash | Flashback | NBC News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

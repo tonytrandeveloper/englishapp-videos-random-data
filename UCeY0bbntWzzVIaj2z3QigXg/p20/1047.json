@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-Y8fBVYBt3Q",
-            "title": "Violent Weekend Across U.S. | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ae6-p9MF--E",
             "title": "Prostitution Ring In Coffee Shops Shut Down | Archives | NBC News",
             "secondDuration": 108,
@@ -121,8 +115,14 @@
             "title": "Irma: Tampa Facing First Direct Hit By Major Hurricane In Nearly A Century | NBC Nightly News",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "hSwwfIhMXU0",
+            "title": "White House Holds Press Briefing | NBC News",
+            "secondDuration": 1470,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rA3jfAjQYXU",
-            "title": "Meet the new champions from the Scripps National Spelling Bee",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "iXi8-LIsgWI",
             "title": "McCain's Problem With Timetables",
             "secondDuration": 224,
@@ -31,8 +25,14 @@
             "title": "High-stakes discussions between US and Russia l WNT",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "ITEFnTvZWO4",
+            "title": "Joe Biden Dropping Hints About Running For President",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "z1ggwQXmLCs",
-            "title": "Amber Guyger Found Guilty Of Murder In Neighbor’s Shooting Death | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "KR6NU5gqbm8",
             "title": "Meet The 86-Year-Old Soaring To Great Heights As The World’s Oldest Trapeze Artist | Nightly News",
             "secondDuration": 133,
@@ -301,8 +295,14 @@
             "title": "How Standing Desks Can Improve Your Memory | Better | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "77li4Xy8a_Q",
+            "title": "Watch Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3184,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

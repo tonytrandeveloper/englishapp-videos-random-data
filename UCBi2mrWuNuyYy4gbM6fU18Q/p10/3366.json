@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "j5CXSsWPkR0",
-            "title": "Hurricane Irene's Track",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "mEee0JPxdXM",
             "title": "Millions celebrate Diwali in India for first time since start of COVID-19 pandemic",
             "secondDuration": 178,
@@ -61,8 +55,14 @@
             "title": "What’s next for Afghanistan under the Taliban",
             "secondDuration": 850,
             "group": "group_7"
+        },
+        {
+            "videoId": "GUIu0YC-Q5k",
+            "title": "By the Numbers: Colon cancer screenings should begin at age 45",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

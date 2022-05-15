@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tWHlQHEMij4",
-            "title": "Watch NBC News NOW Live - September 9",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "eFk4JrIMkkk",
             "title": "‘Arlington Ladies’ Attend Every Funeral At The National Cemetery | NBC Nightly News",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Factory Of Lies: Disarming Disinformation | NBC News",
             "secondDuration": 311,
             "group": "group_7"
+        },
+        {
+            "videoId": "08qTKHI26Uc",
+            "title": "Betting Big On CBD: How To Start A Business Few People Understand | NBC News",
+            "secondDuration": 358,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-7-DDlpAMko",
-            "title": "Worst Advice: Tamera Mowry",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "mizPZWL3PZs",
             "title": "Real Deal: Future of American Fuel",
             "secondDuration": 500,
@@ -121,8 +115,14 @@
             "title": "‘Jeopardy!’ champ logs 19th straight win",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "vnJCDXvj_2w",
+            "title": "Coyotes Coming Out of the Wild and Into Neighborhoods",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

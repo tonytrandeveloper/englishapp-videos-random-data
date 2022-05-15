@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ibaU2vRlpfY",
-            "title": "Democratic Frontrunners Square Off in Las Vegas | ABC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "tkcd1LRD-uQ",
             "title": "COVID-19 continues wreaking havoc on US as Trump is released from hospital | Nightline",
             "secondDuration": 690,
@@ -121,8 +115,14 @@
             "title": "Botox Injections for the Father of the Bride",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "IDOouqQGZY4",
+            "title": "Jane Fonda on changing her lifestyle to combat climate change | Nightline",
+            "secondDuration": 562,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

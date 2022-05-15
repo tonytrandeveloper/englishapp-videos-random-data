@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B4BOP8-gyfE",
-            "title": "Manhunt Continues for Two Dangerous Criminals",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "kE7i-7sd3yg",
             "title": "The Tunnel People",
             "secondDuration": 390,
@@ -31,8 +25,14 @@
             "title": "Wildfire Spreads Through Colorado",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "-kof18HkBp0",
+            "title": "Zika Warning Issued for Miami Beach Area",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

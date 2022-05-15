@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7ljgniz_Nl8",
-            "title": "Time-Lapse: Costa Concordia Moves Upright | Archives | NBC News",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "rL2HcxNw-9o",
             "title": "Democrats Looking Ahead To 2020 As Heavyweights Mull Presidential Bids | NBC Nightly News",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Trump Supporter Detained After Waving Flag At Minnesota State Capitol",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "X0vvaYpUbMM",
+            "title": "NBC News: Nursing Home Chain Collapses Amid Allegation Of Unpaid Bills, Poor Care | NBC Nightly News",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

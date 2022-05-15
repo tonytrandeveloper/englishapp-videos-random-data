@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K7WCSwEWjdk",
-            "title": "Does Acetaminophen Cause Liver Damage?",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "CB1FIzk_ZSo",
             "title": "Ted Cruz Scores Victory Over Donald Trump in Wisconsin",
             "secondDuration": 184,
@@ -61,8 +55,14 @@
             "title": "Quick Fashion Fixes for Those 'Blah' Moments",
             "secondDuration": 283,
             "group": "group_7"
+        },
+        {
+            "videoId": "DlRtwWOnjbg",
+            "title": "WEBCAST: Robin Roberts Award",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

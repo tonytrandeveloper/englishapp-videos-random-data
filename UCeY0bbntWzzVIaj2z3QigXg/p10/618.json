@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "at_L6ZlAFd0",
-            "title": "Hurricane Irma's Aftermath: Millions Affected As Hurricane Batters Florida | NBC News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "WEBd_tNStOo",
             "title": "Family Members Of Man Shot In Minneapolis: 'We Came For Justice' | NBC News",
             "secondDuration": 81,
@@ -61,8 +55,14 @@
             "title": "What It's Like To Witness An Execution | NBC News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "5BcqEGDb2Nc",
+            "title": "Personal Development: The Art Of Asking For Help | NBC News",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

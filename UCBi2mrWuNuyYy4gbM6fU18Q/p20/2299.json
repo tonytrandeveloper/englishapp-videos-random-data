@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-X18e5BmhgE",
-            "title": "Omicron variant driving a national surge in COVID-19",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "tXJycI1UMYg",
             "title": "Boaters rescued after nearly 5 months lost at sea",
             "secondDuration": 146,
@@ -121,8 +115,14 @@
             "title": "Alleged 'Lost Gospel' Claims Jesus Had Wife, 2 Children",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "m25q2_RXyp8",
+            "title": "Road Rage Epidemic",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

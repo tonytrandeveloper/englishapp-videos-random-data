@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TFk42w_CGTc",
-            "title": "2012 Oscar Nominations Are Coming",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "MpDOP5pAqeI",
             "title": "Sweden drops Julian Assange rape investigation",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "Omar Mateen's Wife Investigated",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "sb5W9QgqhXU",
+            "title": "Mayor of Texas town tells evacuated residents not to return home at this time",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

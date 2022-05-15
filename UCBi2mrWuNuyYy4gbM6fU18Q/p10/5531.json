@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qH8o9YVvvAU",
-            "title": "Fitness Guru, C.J. Senter, 10, Has Six-Pack: Too Fit, Too Soon? | Nightline | ABC News",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "LmnTVN19oGM",
             "title": "Takata recalls 2.7 million vehicles because of safety risk",
             "secondDuration": 61,
@@ -61,8 +55,14 @@
             "title": "Watch Out, Your Laptop Could Burn You",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "vDbvFCPL01E",
+            "title": "Mali Hotel Attack: 170 Hostages Taken",
+            "secondDuration": 385,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

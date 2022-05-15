@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V5Nq15SxAcM",
-            "title": "Taylor Swift, Lady Gaga Shine on the Red Carpet at Grammy Awards",
-            "secondDuration": 292,
-            "group": "group_7"
-        },
-        {
             "videoId": "pYhE-j5vxL8",
             "title": "Beyonce Shares Intimate Family Photos; Miley Cyrus Cuts Her Hair",
             "secondDuration": 246,
@@ -31,8 +25,14 @@
             "title": "ABC News Live: President Biden addresses the nation on war in Ukraine l ABCNL",
             "secondDuration": 720,
             "group": "group_7"
+        },
+        {
+            "videoId": "TIaPpdRc0KI",
+            "title": "White House encouraged by cease-fire reports in Middle East",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

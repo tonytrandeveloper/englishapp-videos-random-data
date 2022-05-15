@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "k0zGNrA-LKQ",
-            "title": "Budget Cuts Could Leave Some First Responders Without Jobs | NBC Nightly News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "t3e0_jVJEzs",
             "title": "Trump: Ousted Vaccine Chief A 'Disgruntled Employee' | NBC Nightly News",
             "secondDuration": 729,
@@ -61,8 +55,14 @@
             "title": "Drone Video Shows The Devastated Compound Where Al-Baghdadi Died | NBC News",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "vomxR4TgGuY",
+            "title": "Trump Hosts U.S. Mayors At White House | NBC News (Live Stream)",
+            "secondDuration": 1409,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

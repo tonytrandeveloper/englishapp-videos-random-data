@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "DieEon-2C7M",
-            "title": "Frontline Workers Reflect On Fighting Pandemic, Becoming New Mothers | NBC News NOW",
-            "secondDuration": 297,
-            "group": "group_7"
-        },
-        {
             "videoId": "PN0bDiOcD8Q",
             "title": "Boos Heard During President Trump's Comments About Immigrants Bringing In Relatives | NBC News",
             "secondDuration": 72,
@@ -301,8 +295,14 @@
             "title": "Continued Coronavirus Outbreak Causes Slow Response For Passengers Still Stranded On Cruise Ship",
             "secondDuration": 454,
             "group": "group_7"
+        },
+        {
+            "videoId": "q8GTuTVWSik",
+            "title": "Gen. Milley Warns Russia Could Invade Ukraine With ‘Little Warning’",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

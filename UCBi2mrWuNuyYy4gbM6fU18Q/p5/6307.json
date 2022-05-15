@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EI8nmOzzMok",
-            "title": "George Clooney, Amal Alamuddin Shine at 2015 Golden Globes",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "lknrdFa02pk",
             "title": "Kushner testifies before Jan. 6 House Committee l WNT",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Fiance of suspect in ex-state senator's murder speaks out",
             "secondDuration": 302,
             "group": "group_7"
+        },
+        {
+            "videoId": "bxebgqFafkw",
+            "title": "Attorneys for man in suspected bomb case want more testing",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

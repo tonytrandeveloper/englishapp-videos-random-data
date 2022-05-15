@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Yn8j4XRxSck",
-            "title": "Adorable moment of father and toddler having conversation | ABC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "DWPImvnamlE",
             "title": "ABC News Prime: Elijah McClain's photo release, COVID-19 update, Trump visits Mount Rushmore",
             "secondDuration": 3605,
@@ -121,8 +115,14 @@
             "title": "New Britney Spears documentary brings attention to her conservatorship trial",
             "secondDuration": 500,
             "group": "group_7"
+        },
+        {
+            "videoId": "0vMMQhwjZRw",
+            "title": "Officials: Sophisticated Russian disinformation campaign targeted U.S. election",
+            "secondDuration": 584,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

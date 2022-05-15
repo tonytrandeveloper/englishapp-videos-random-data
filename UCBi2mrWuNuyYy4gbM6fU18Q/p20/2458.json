@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "egqgi16coPI",
-            "title": "Snowstorm Moves Through Midwest",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "3bHQUhuoh3w",
             "title": "Remembering Phil Everly",
             "secondDuration": 156,
@@ -121,8 +115,14 @@
             "title": "Keeping kids safe online",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "WhBnH7pW25A",
+            "title": "Dr. Anthony Fauci warns of post-holiday COVID-19 wave | WNT",
+            "secondDuration": 281,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

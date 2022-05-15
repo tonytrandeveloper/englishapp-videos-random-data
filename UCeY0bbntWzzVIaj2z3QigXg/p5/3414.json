@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Pj8rxThRv0E",
-            "title": "Hallie Jackson NOW - March 31 | NBC News NOW",
-            "secondDuration": 2842,
-            "group": "group_7"
-        },
-        {
             "videoId": "CAKkiQNiTn8",
             "title": "Homeland Security Sec. Kirstjen Nielsen On U.S. Election Meddling: 'It Was The Russians' | NBC News",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "DOJ: Ferguson Police Practiced Racial Discrimination | NBC Nightly News",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "L7HgZULKnuY",
+            "title": "Suing The Police Over Facial Recognition Tech | NBC News Now",
+            "secondDuration": 241,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jlPmvH4Z_7w",
-            "title": "Massive ‘Panama Papers’ Leak Reveals World Leaders’ Offshore Accounts | NBC Nightly News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "zQmGU-0Duxg",
             "title": "Great Blue Heron Caught On Camera Swallowing Baby Alligator In Florida | NBC News NOW",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "U.S. Covid Hospitalizations Over 100,000, Reaching All-Time High | NBC News NOW",
             "secondDuration": 1100,
             "group": "group_7"
+        },
+        {
+            "videoId": "3qP5ydTldIo",
+            "title": "California Town Scrambles For Drinking Water During Heatwave",
+            "secondDuration": 430,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

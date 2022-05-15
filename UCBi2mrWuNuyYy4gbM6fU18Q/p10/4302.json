@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0F6_CB8mmzs",
-            "title": "Michelle Carter sentenced in texting suicide case",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "RPzkcecJYv4",
             "title": "John Bolton says he’s prepared to testify in impeachment trial | ABC News",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "Briefing Room: Impeachment inquiry latest, time running out on ‘cease fire’ in Syria, opioid crisis",
             "secondDuration": 1609,
             "group": "group_7"
+        },
+        {
+            "videoId": "N2EylkcloAo",
+            "title": "Trump holds a 'campaign' rally a month into his presidency",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JEhkwnNGw5c",
-            "title": "Back-to-School Gadgets | ABC News",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "y30HC8qioCg",
             "title": "Severe storm threat across US l ABC News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "NYC mayor requests federal help to stop gun violence l GMA",
             "secondDuration": 433,
             "group": "group_7"
+        },
+        {
+            "videoId": "fIvV9BMJ8Vo",
+            "title": "Protesters demand answers over man killed in no-knock warrant raid I GMA",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

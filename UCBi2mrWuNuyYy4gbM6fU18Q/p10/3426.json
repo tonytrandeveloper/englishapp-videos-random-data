@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z4BwYMNyJwE",
-            "title": "The history of Martin Luther King Jr. Day",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "-_xfnI8dQ3M",
             "title": "2 young sisters survive 44 hours alone in California woods",
             "secondDuration": 190,
@@ -61,8 +55,14 @@
             "title": "Man exchanges dumbbells for dachshunds | ABC News",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "ALEtNKUmaVE",
+            "title": "Scientists Use King Richard III Skull to Make 3-D Model: World News Instant Index",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

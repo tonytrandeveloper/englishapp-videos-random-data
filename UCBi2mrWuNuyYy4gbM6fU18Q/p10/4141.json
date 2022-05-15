@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WrxAgkfIgkg",
-            "title": "The Briefing Room: US/Mexico border, Mueller report, Trump tax returns, climate change",
-            "secondDuration": 1356,
-            "group": "group_7"
-        },
-        {
             "videoId": "HMoF6bHFims",
             "title": "Christina Milian and Mark Ballas Get the Boot From 'DWTS'",
             "secondDuration": 298,
@@ -61,8 +55,14 @@
             "title": "Mother of 2 missing children held in Hawaii jail",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "llan8IGzpS8",
+            "title": "FDA investigates 127 cases of seizures after vaping l ABC News",
+            "secondDuration": 301,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

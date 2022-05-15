@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9iBoEooN8-c",
-            "title": "Insomniac Theater: A Sneak Peek A Two Films Hitting Theaters",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "-N-4MQKoDrM",
             "title": "Plane makes emergency landing at Myanmar airport",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "A$AP Rocky officially charged with assault in Sweden",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "BEGPnBT6F6c",
+            "title": "Florida Teen Recalls Escaping Bear Attack With Ralph's Help",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

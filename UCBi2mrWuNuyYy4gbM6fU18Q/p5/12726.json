@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kQDEpDEvX00",
-            "title": "Dominique Strauss-Kahn News: Rape Case Falling Apart?",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "-ZER2VGpI_4",
             "title": "Worries arise that weather will delay NASA and SpaceX’s historic launch",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Transracial Identity: Choose Your Race?",
             "secondDuration": 311,
             "group": "group_7"
+        },
+        {
+            "videoId": "-0ib-U4dZRM",
+            "title": "Neil Armstrong's Moon Memories",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L1zgcARNXk4",
-            "title": "Thousands of flights canceled as travel chaos continues | On Location",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "4I1vXnbV9GE",
             "title": "Former Vice President Joe Biden lays out plan to combat coronavirus | ABC News",
             "secondDuration": 241,
@@ -61,8 +55,14 @@
             "title": "Cops Save Armed Suspect from Burning Car [DASH CAM VIDEO]",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "GgvBzv8536s",
+            "title": "Why are some parts of the US facing a PPE shortage?",
+            "secondDuration": 270,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

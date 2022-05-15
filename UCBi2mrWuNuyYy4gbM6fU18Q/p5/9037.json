@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4H7QjUDI4bg",
-            "title": "Questions surround photo of police interrogation of American teens in Italy",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "fF9qnNVRWHs",
             "title": "2 Americans dead from coronavirus as global death toll reaches over 3,000 l ABC News",
             "secondDuration": 236,
@@ -31,8 +25,14 @@
             "title": "Paul Ryan 'This Week' Interview: Obama's 'Looking for Partisan Advantage, Not a Bipartisan Solution'",
             "secondDuration": 623,
             "group": "group_7"
+        },
+        {
+            "videoId": "WeDKVTk5IVM",
+            "title": "ABC News Prime: Tornado slams MS; US COVID-19 average below 50K; India travel ban",
+            "secondDuration": 5173,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

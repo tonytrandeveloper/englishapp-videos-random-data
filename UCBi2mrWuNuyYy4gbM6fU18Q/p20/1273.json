@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZrpO0rkzvHM",
-            "title": "Making Ezra Frech's Dream Come True",
-            "secondDuration": 348,
-            "group": "group_7"
-        },
-        {
             "videoId": "485CD8gOA2E",
             "title": "Video captures Atlanta police saving of a dog found during a building fire",
             "secondDuration": 84,
@@ -121,8 +115,14 @@
             "title": "Amanda Berry 911 Call - Cleveland Woman Freed",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "K3nSfJh1RyU",
+            "title": "Americans’ reaction to Ukraine invasion",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

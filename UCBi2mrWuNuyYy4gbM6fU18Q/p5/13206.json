@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ba5TqVqx-uE",
-            "title": "Elizabeth Warren reveals proof of Native American ancestry",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "JpQdPrMTuaw",
             "title": "Homeless Veteran's Extreme Makeover Goes Viral",
             "secondDuration": 182,
@@ -31,8 +25,14 @@
             "title": "Early voting breaks turnout records across the country",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "X_5rsbKo-GU",
+            "title": "\"EXCLUSIVE INTERVIEW:  Phylicia Rashad on the Bill Cosby Firestorm",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

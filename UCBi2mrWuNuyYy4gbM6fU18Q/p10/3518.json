@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7OgUf9BsHEk",
-            "title": "America's Budget Battle, Return From Government Shutdown: 'This Week' Powerhouse Roundtable",
-            "secondDuration": 610,
-            "group": "group_7"
-        },
-        {
             "videoId": "7F3KYwu2MNU",
             "title": "Clinton Responds to Trump's Economic Speech",
             "secondDuration": 187,
@@ -61,8 +55,14 @@
             "title": "Murder in the Church",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "4TPYxUxHmHI",
+            "title": "Homeland Security Secretary John Kelly Defends Travel Ban",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

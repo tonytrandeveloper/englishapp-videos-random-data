@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5t17QkizIxM",
-            "title": "LIVE: Biden Awards Medal of Honor to Three Soldiers | NBC News",
-            "secondDuration": 1765,
-            "group": "group_7"
-        },
-        {
             "videoId": "1BJrVBJjlPM",
             "title": "Harry Reid: 'We Have Never Held Up a Supreme Court Nomination' | Meet The Press | NBC News",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Army Orders Review Of Climate At Fort Hood After Death Of Vanessa Guillen | NBC Nightly News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "nPxvr-LWLoU",
+            "title": "President Donald Trump Calls Off Summit With North Korea’s Kim Jong Un | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

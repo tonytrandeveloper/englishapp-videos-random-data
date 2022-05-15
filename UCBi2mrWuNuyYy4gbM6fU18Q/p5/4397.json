@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GMcoIN_vlXw",
-            "title": "Mission: Saving Money on a Last-Minute Summer Vacation",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "ErHfLbcKFAY",
             "title": "'The Bully Project' Film Fights 'R' Rating With Help from Justin Bieber, Demi Lovato and Johnny Depp",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Biden speaks on vaccination effort in the US l ABC News",
             "secondDuration": 575,
             "group": "group_7"
+        },
+        {
+            "videoId": "03h3i43uGkw",
+            "title": "Amy Grant: Baby, Baby",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

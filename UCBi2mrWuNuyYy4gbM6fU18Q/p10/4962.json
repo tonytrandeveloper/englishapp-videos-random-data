@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2wuEU8XnG94",
-            "title": "Webcast: Mubarak Clinically Dead",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "hZhvz8JybZk",
             "title": "Instant Index: Beach Boys Invite Bride and Groom to Concert After Sound Check Interrupts Nuptials",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "Rescue Caught on Tape: Sailor Swept Overboard During Yacht Race",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "cwcjDjHdcM4",
+            "title": "Julian Castro joins ABC News Live to discuss debate performance l ABC News",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

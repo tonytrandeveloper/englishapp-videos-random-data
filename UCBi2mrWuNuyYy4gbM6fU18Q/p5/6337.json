@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zg5JANpzfTo",
-            "title": "ABC News Prime: Tracking Hurricane Elsa; Win for gay rights in SCOTUS decision; Olympics uproar",
-            "secondDuration": 3616,
-            "group": "group_7"
-        },
-        {
             "videoId": "0-IUR0mM5yc",
             "title": "Can your job require a COVID-19 vaccine?",
             "secondDuration": 320,
@@ -31,8 +25,14 @@
             "title": "PledgeMusic Helps Bands Fund Their Albums",
             "secondDuration": 318,
             "group": "group_7"
+        },
+        {
+            "videoId": "uKtbQ6fewrA",
+            "title": "Dr. Fauci responds to Trump’s comment about slowing coronavirus testing",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

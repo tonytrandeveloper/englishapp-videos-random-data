@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2qrSasGPEVM",
-            "title": "Dwyane Wade Interview on Gun Violence in Chicago",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "_cXdWcakLso",
             "title": "Vaccine Watch: Are coronavirus trials diverse enough?",
             "secondDuration": 272,
@@ -61,8 +55,14 @@
             "title": "Olympics | Simone Biles, Final Five Olympic Interview",
             "secondDuration": 397,
             "group": "group_7"
+        },
+        {
+            "videoId": "kgqn73A-RPo",
+            "title": "Juju Juggles -- Family Secrets",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

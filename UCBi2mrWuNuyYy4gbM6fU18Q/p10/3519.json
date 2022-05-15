@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4TPYxUxHmHI",
-            "title": "Homeland Security Secretary John Kelly Defends Travel Ban",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "NOY1crMNSA0",
             "title": "Evictions on the rise",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "ABC News Republican National Convention Live Stream, 08.28.12",
             "secondDuration": 658,
             "group": "group_7"
+        },
+        {
+            "videoId": "-3oeGX-O7ZA",
+            "title": "Will Smith banned from Oscars for 10 years",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

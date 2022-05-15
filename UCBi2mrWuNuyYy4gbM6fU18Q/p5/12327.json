@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NJ03A0bS1ms",
-            "title": "June 8, 1949: George Orwell's '1984'",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "KjSVnX8oQ40",
             "title": "Impeachment battle heats up as the president's defenders present his case | ABC News",
             "secondDuration": 256,
@@ -31,8 +25,14 @@
             "title": "Nike Olympic Ad: Mocking or Lauding 200-Pound Boy?",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "IR8ftNJrkuM",
+            "title": "Top ISIS Leader Killed in US Raid in Syria",
+            "secondDuration": 309,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

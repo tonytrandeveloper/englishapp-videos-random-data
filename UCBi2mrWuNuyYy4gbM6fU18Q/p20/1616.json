@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "b7G0acYVjSU",
-            "title": "Polyamory: 1 Mom, 2 Dads and a Baby",
-            "secondDuration": 390,
-            "group": "group_7"
-        },
-        {
             "videoId": "9HoYG-Y_iOU",
             "title": "California student dresses as KKK grand wizard for school project",
             "secondDuration": 104,
@@ -121,8 +115,14 @@
             "title": "Donald Trump's Final Inauguration Preparations",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "TZnH3nB7Q8w",
+            "title": "Senate impeachment trial of Trump officially begins",
+            "secondDuration": 317,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

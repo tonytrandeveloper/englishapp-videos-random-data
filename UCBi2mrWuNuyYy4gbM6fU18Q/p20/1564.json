@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dxMR7_MrXeo",
-            "title": "Trump returns to the White House after the holidays with tweets",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "RLCqWGDlOKM",
             "title": "11th annual Stand Up For Heroes benefit hosted by Bob Woodruff",
             "secondDuration": 141,
@@ -121,8 +115,14 @@
             "title": "Trump associate Roger Stone sentenced to 40 months in prison l ABC News",
             "secondDuration": 521,
             "group": "group_7"
+        },
+        {
+            "videoId": "-mkLEZRK7ZY",
+            "title": "Girls Gone Mild",
+            "secondDuration": 424,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

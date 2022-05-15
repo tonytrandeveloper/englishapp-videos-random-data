@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zC9GYxrBZ2Q",
-            "title": "Kids crash their parent's teleconference call",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vedq0Kayxs0",
             "title": "Texas lawmakers sound off on law banning abortions after 6 weeks",
             "secondDuration": 1203,
@@ -61,8 +55,14 @@
             "title": "Michele Bachmann on 2012 Race: Will There Be a Sarah Palin Showdown?",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "uQiMrNBkmTo",
+            "title": "Did Wordle get tougher after New York Times takeover?",
+            "secondDuration": 357,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

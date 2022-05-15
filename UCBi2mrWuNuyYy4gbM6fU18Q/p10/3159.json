@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "C0jcPXxFZUM",
-            "title": "5-Hour Energy Empire Under Scrutiny",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "mkM5iVGfBPM",
             "title": "Was Michael Ready to Perform?",
             "secondDuration": 435,
@@ -61,8 +55,14 @@
             "title": "Shooting rampage leaves 6 dead, at least a dozen injured",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "XWaD1AJBWYI",
+            "title": "New England Woman Describes Being Hit by Foul Ball at Fenway Park",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

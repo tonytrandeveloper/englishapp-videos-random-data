@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "K_htJxu28bY",
-            "title": "Grand Canyon Celebrating 100th Birthday | NBC Nightly News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "cAeL6o0G8LA",
             "title": "Mother Shares Story Of Son Being Drafted By ISIS | NBC News",
             "secondDuration": 294,
@@ -31,8 +25,14 @@
             "title": "William Shatner To Boldly Go To Space On Blue Origin Rocket",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "ajZtkIG9hCc",
+            "title": "Pence Says He And Trump May Never See 'Eye To Eye' On Jan. 6 Riot",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

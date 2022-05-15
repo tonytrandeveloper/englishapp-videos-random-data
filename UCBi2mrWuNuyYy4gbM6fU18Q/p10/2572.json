@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cOxpOYQ9NCY",
-            "title": "Study Reveals 1 in 50 Schoolchildren Have Autism",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "q4myf6nxKU4",
             "title": "Trump Thank You Tour  FULL SPEECH at North Carolina Rally | Full Event",
             "secondDuration": 2493,
@@ -61,8 +55,14 @@
             "title": "FBI press conference on Nashville explosion",
             "secondDuration": 670,
             "group": "group_7"
+        },
+        {
+            "videoId": "sAXd6oK1Tn4",
+            "title": "Hostage Policy Change",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

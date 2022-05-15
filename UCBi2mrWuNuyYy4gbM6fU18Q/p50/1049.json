@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "UN8rZ4rJBXs",
-            "title": "More than 2 million homes in Florida are without power",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "YlDv1u5qlIE",
             "title": "PA Attorney General Exposed Illicit Gov't Emails, Faces Own Scandal",
             "secondDuration": 515,
@@ -301,8 +295,14 @@
             "title": "Jodi Arias Murder Trial: Woman Facing Death Penalty Called Jealous by Prosecutors",
             "secondDuration": 286,
             "group": "group_7"
+        },
+        {
+            "videoId": "IG7Zj4wzBHQ",
+            "title": "Free after five years in captivity, American hostage mom speaks out",
+            "secondDuration": 555,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

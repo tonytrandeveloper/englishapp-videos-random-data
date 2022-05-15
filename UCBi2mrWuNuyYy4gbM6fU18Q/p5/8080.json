@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4qmHEJfprL4",
-            "title": "'The Briefing Room': Missing journalist, Pres. Trump's media blitz, countdown to midterms | ABC News",
-            "secondDuration": 4371,
-            "group": "group_7"
-        },
-        {
             "videoId": "FutHs-qCSlc",
             "title": "Zumba Studio Prostitution Scandal: Alexis Wright Speaks to Reporter",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Jake Tapper on Obama's Diplomatic Dance",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "s3zbU4aNQNQ",
+            "title": "20/20 - Your Biggest Fan - Part 2",
+            "secondDuration": 504,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

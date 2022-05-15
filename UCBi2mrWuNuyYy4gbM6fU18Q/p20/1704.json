@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nkq2QeUaygw",
-            "title": "Trump to announce gun safety proposals",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "dcqsiDQrnv0",
             "title": "Gabby Giffords DNC Pledge of Allegiance: Delegates Moved at Democratic National Convention",
             "secondDuration": 188,
@@ -121,8 +115,14 @@
             "title": "Attack at Fort Hood",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "62Ry21eX4q8",
+            "title": "Rep. Nikema Williams discusses gun control and Equal Pay Day",
+            "secondDuration": 398,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

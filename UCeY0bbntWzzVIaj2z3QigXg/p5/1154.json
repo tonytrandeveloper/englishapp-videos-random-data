@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3JBBC1mx0xQ",
-            "title": "Chauvin Trial: Use Of Force Expert Testifies, Body Camera Audio Debate | NBC Nightly News",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "LGrItQdh0WY",
             "title": "Bernie Sanders Debunks 'Brilliant Scientist' Trump's Climate Theory | NBC News",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Senate Report On Capitol Riot Released | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "cJSXKFx5jZ4",
+            "title": "Search And Rescue Efforts Underway After Hurricane Sally | NBC Nightly News",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

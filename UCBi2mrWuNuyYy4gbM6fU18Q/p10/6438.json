@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5xqJft-Km-8",
-            "title": "Washington Post's Dan Balz on 'Top Line'",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "W9y8z1hbv44",
             "title": "Baseball Diamonds Are This Girl's Best Friend",
             "secondDuration": 250,
@@ -61,8 +55,14 @@
             "title": "Olympics | Team USA Robbed, Rio Cops Search for Driver",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "9LbfSUnhnSQ",
+            "title": "America Strong: WWII veteran remembered",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

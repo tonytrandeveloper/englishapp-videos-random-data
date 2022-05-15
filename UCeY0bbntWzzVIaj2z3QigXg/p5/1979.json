@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EZ4-Q1coyQE",
-            "title": "Rick Perry Responds To Charges | NBC News",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "gnDiuUVKDAw",
             "title": "As Unemployment Grows, Americans Struggle To Get Food On The Table | NBC Nightly News",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "Number Of COVID-19 Cases Skyrockets In China | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "AvFxvh5MCu0",
+            "title": "White House Press Briefing - February 20, 2018 | NBC News",
+            "secondDuration": 1212,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

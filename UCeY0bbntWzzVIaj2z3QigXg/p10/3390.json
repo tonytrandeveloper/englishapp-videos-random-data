@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tVL9SP3cu8k",
-            "title": "Live: President Donald Trump Speaks At Texas Oil Rig On Restoring Energy Dominance | NBC News",
-            "secondDuration": 1719,
-            "group": "group_7"
-        },
-        {
             "videoId": "2TmiFO79dVE",
             "title": "What’s Next For Harry And Meghan After Split With Royal Family | NBC Nightly News",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Trump Calls Impeachment 'A Terrible Ordeal' At The National Prayer Breakfast | NBC News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "mBxIl1x7RH4",
+            "title": "Firefighters Battle Wildfires And Heat On West Coast | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

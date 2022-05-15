@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OrvKKQoyYec",
-            "title": "Growing COVID-19 concerns as outbreak spreads in DC I ABCNL",
-            "secondDuration": 257,
-            "group": "group_7"
-        },
-        {
             "videoId": "3JgKbqpWWa4",
             "title": "Priest leads 1st mass after surviving plane crash",
             "secondDuration": 143,
@@ -121,8 +115,14 @@
             "title": "Inflating the magic",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "LIMnEa2C8gc",
+            "title": "Jerry Sandusky Appeals Child-Sex Abuse Conviction",
+            "secondDuration": 25,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

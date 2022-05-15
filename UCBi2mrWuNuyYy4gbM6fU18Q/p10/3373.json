@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZZcVNHlMJzE",
-            "title": "Dual daring rescue attempts atop Mount Hood in Oregon",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "uA5sHVk5ljA",
             "title": "Drawings reveal glimpse into detention centers through children's eyes",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "'Semper Fi: Always Faithful' - A New Documentary",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "O7Z4TecKPPA",
+            "title": "Donald Sterling Scandal: The Tale of the Tape",
+            "secondDuration": 423,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

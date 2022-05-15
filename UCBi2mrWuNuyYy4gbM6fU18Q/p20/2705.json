@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qLF-eRdbvzc",
-            "title": "'Back to the Beginning' With Christiane Amanpour Part 1: Moses and the Burning Bush",
-            "secondDuration": 547,
-            "group": "group_7"
-        },
-        {
             "videoId": "cw0Z32uT4n8",
             "title": "WEBCAST: Extreme Weather Batters Both Coasts",
             "secondDuration": 80,
@@ -121,8 +115,14 @@
             "title": "Arizona police officers asked to leave Starbucks",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "7cA3JzCqEGY",
+            "title": "Lawmakers react to Trump comments about foreign governments offering political dirt",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Cc1rseMYmRg",
-            "title": "Zoe Saldana in Marvel's 'Guardians of the Galaxy'",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "s_CgPAzxF0g",
             "title": "Verdict reached in trial of Kim Potter",
             "secondDuration": 456,
@@ -31,8 +25,14 @@
             "title": "Bike Boy's 'Thumbs Up for Rock and Roll' Speech Turned into a Song",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "HjyVsJfxXW0",
+            "title": "John Lewis laid to rest, Portland protests, Hurricane Hanna; World in Photos, July 27",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

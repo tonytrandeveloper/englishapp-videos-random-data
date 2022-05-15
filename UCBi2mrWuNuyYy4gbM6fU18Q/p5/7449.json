@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MnjZj9oFXBQ",
-            "title": "Donald Trump one-on-one with George Stephanopoulos",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "C8jpMcWfZTA",
             "title": "'Hotel Rwanda' hero stands trial on terror-related charges",
             "secondDuration": 442,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton speaks to graduating students at her alma mater",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "PaWbqQpiu2U",
+            "title": "Sunny Hostin on Derek Chauvin verdict: ‘This is what justice finally looks like’",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

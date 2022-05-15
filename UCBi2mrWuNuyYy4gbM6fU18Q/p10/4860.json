@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "R07jTNExXsk",
-            "title": "Hillary Clinton Jokes About 'CP Time' With De Blasio",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "c7BYXVbl5Jc",
             "title": "'This is premature ... we have not finished counting votes': South Dakota governor | ABC News",
             "secondDuration": 245,
@@ -61,8 +55,14 @@
             "title": "Mariah Carey and Nick Cannon Interview: Couple Discusses Twins, Parenthood and their Relationship",
             "secondDuration": 264,
             "group": "group_7"
+        },
+        {
+            "videoId": "_lYjXsnHGoA",
+            "title": "Holiday parade disaster leaves 5 dead, over 40 injured l GMA",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TsuYJstAS4k",
-            "title": "Ukraine Timeline: From Giuliani's Outreach To Trump's Phone Call | Meet The Press | NBC News",
-            "secondDuration": 347,
-            "group": "group_7"
-        },
-        {
             "videoId": "lr2-c1nruw0",
             "title": "Federal Workers Speak Out About Financial Toll Of Government Shutdown | NBC Nightly News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "College Football Rolls On As Concerns Over Covid 'Super Spreader' Events Fade",
             "secondDuration": 445,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qagy107wf7g",
+            "title": "C-17 Crew Speaks Out After Afghanistan Evacuation",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

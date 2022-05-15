@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TFyjlEaXSsY",
-            "title": "Hallie Jackson NOW Full Episode – Jan. 7 | NBC News NOW",
-            "secondDuration": 3127,
-            "group": "group_7"
-        },
-        {
             "videoId": "ifMErYeLXP4",
             "title": "LIVE: White House Holds Press Briefing | NBC News",
             "secondDuration": 3326,
@@ -61,8 +55,14 @@
             "title": "Is NATO Still Relevant In Today’s World? | NBC News Signal",
             "secondDuration": 369,
             "group": "group_7"
+        },
+        {
+            "videoId": "v0Onl_PbWMc",
+            "title": "Hurricane Maria Knocks Out Power Across All Of Puerto Rico | NBC Nightly News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

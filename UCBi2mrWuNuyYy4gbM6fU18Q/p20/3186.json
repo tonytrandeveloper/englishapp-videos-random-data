@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5yZ5m3OM0BU",
-            "title": "President Obama Swipes at Donald Trump in Ramadan Statement",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "fZXSZJCdJPk",
             "title": "Deadly flooding, mudslides after storm in Brazil",
             "secondDuration": 84,
@@ -121,8 +115,14 @@
             "title": "Trump to take questions from uncommitted voters in ABC News town hall l GMA",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "aWxFVkSAo7A",
+            "title": "Rocket explodes near US embassy in Iraq",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

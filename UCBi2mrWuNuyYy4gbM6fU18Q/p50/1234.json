@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "vC5TaPzuMKg",
-            "title": "Jonah Mowry Interview: Explains 'Whats Goin On' Video - 'You Can Be Happy'",
-            "secondDuration": 309,
-            "group": "group_7"
-        },
-        {
             "videoId": "SOWqRBhxXiA",
             "title": "John Edwards Found Not Guilty",
             "secondDuration": 368,
@@ -301,8 +295,14 @@
             "title": "El Chapo Raid | Sean Penn on His Interview",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "10HNtL0rhRE",
+            "title": "‘We need to have race-conscious laws’: Warren | ABC News",
+            "secondDuration": 650,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

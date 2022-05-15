@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1T4HAt0fs_c",
-            "title": "Live: President Donald Trump Delivers Remarks On Protecting Seniors With Diabetes | NBC News",
-            "secondDuration": 3190,
-            "group": "group_7"
-        },
-        {
             "videoId": "JuIvfTQJIy8",
             "title": "Nearly Half Of All Imported Vegetables, 40% Of Imported Fruit Are Grown In Mexico | NBC Nightly News",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Why You Could Soon See Your Credit Score Go Up | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "rOI6Z2yX9oo",
+            "title": "Watch: Lava From La Palma’s Volcanic Eruption Leaves Landscape Smouldering",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

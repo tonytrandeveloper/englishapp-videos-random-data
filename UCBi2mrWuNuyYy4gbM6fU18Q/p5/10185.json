@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D2CMuUdBFfo",
-            "title": "Warren Buffett Speaks Out on Economy",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "uRsDtIsp3vI",
             "title": "Test Flights Land Safely Amid Ash Cloud",
             "secondDuration": 75,
@@ -31,8 +25,14 @@
             "title": "ABC News Prime: Winter storm on the move; US troops ordered to East Europe; What to teach students",
             "secondDuration": 5425,
             "group": "group_7"
+        },
+        {
+            "videoId": "H3lcCGIBqD0",
+            "title": "Ashley Judd sues Harvey Weinstein for allegedly getting her blacklisted",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AtVl2ZUP07Q",
-            "title": "Inside look at unprecedented Super Bowl security",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "wJtlPhsNY5w",
             "title": "Shanghai residents face food shortages, late-night testing in lockdown l ABCNL",
             "secondDuration": 348,
@@ -31,8 +25,14 @@
             "title": "'Roseanne' faces backlash for portrayal of Muslims",
             "secondDuration": 245,
             "group": "group_7"
+        },
+        {
+            "videoId": "OD0F28c7fAY",
+            "title": "Alligator attack victim describes his escape",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

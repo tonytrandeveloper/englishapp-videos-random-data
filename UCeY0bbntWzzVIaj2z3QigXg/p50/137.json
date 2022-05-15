@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "qOVXbTh_DLA",
-            "title": "President Donald Trump: We've Done 'A Great Job' In Puerto Rico | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "JTtiFdYHEME",
             "title": "Soccer Star Megan Rapinoe Speaks To Frontline Workers At DNC | NBC News",
             "secondDuration": 255,
@@ -301,8 +295,14 @@
             "title": "New Salt Labeling Law Shaking Up New York Menus | NBC Nightly News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "3Nldn93P4Ds",
+            "title": "Cortez Reintroduces Postal Banking, Shares Positives It Could Have On Americans | NBC News NOW",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

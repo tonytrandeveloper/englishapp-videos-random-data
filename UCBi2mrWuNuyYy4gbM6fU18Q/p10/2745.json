@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yqUJy_bLacQ",
-            "title": "Biden announces infrastructure deal l GMA",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "DjvSM77fJ3Q",
             "title": "Boston Terror Suspect Allegedly Planned to Behead Police",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Anita Hill speaks out on Kavanaugh sexual assault allegation",
             "secondDuration": 463,
             "group": "group_7"
+        },
+        {
+            "videoId": "fjtRwI6W77s",
+            "title": "Jill Hansen At Attempted Murder Hearing: 'How Long is This Going to Take?'",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

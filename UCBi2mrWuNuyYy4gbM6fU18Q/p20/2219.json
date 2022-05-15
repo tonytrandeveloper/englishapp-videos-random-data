@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9SZWIPMj-fo",
-            "title": "Red Bull's 'Wings for Life' World Run Kicks-Off",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "PJbMKef_Qwo",
             "title": "Texas lawmaker speaks out on voting rights battle",
             "secondDuration": 438,
@@ -121,8 +115,14 @@
             "title": "By the Numbers: How vaccines are stemming pandemic tide",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "8DNCrnCGBJ0",
+            "title": "Heroic teacher tackled middle-school shooter after running toward bullets",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

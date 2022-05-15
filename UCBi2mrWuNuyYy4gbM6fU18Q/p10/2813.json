@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N06NVR9jj90",
-            "title": "ABC News Prime: Pandemic ravages rural America; CDC travel warning; Future of movies",
-            "secondDuration": 3611,
-            "group": "group_7"
-        },
-        {
             "videoId": "S698l-1CJ4Q",
             "title": "Index: New Study Finds That Montana Has the Worst Drivers in America",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Christmas Story: Boy Married Mall Santa's Daughter Years After Photo",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "DJkDKB8sffY",
+            "title": "ABC News Prime: Explosion of US COVID cases; Fire state of emergency in CO; Biden-Putin phone call",
+            "secondDuration": 3630,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

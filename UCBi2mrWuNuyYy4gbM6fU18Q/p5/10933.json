@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VLeFAeG9MzY",
-            "title": "Ecuador Earthquake | Rescuers Race to Find Survivors",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "a1U4RzK05pE",
             "title": "NFL Settles Concussion Lawsuit, Young Players Still at Risk",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Haunting image triggers blame game for Trump, Democrats",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "PU_2uu5rNBs",
+            "title": "Key moments from final presidential debate",
+            "secondDuration": 576,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

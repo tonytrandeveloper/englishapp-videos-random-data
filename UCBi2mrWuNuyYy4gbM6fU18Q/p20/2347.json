@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "q5LykzHFgYM",
-            "title": "Your Voice: The 1st dose of the COVID-19 vaccine",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "vhjGX3IoAVs",
             "title": "Backlash over new 'popular film' Oscar category",
             "secondDuration": 240,
@@ -121,8 +115,14 @@
             "title": "'This Week': Congress on Concussions",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "g3O2Ss0t31k",
+            "title": "'I wouldn't cooperate with Adam Schiff': Giuliani | ABC News",
+            "secondDuration": 894,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

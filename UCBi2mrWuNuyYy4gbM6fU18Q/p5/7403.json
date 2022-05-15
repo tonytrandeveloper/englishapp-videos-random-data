@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xKvCV65-l5w",
-            "title": "The Conversation: Remembering John Lennon",
-            "secondDuration": 241,
-            "group": "group_7"
-        },
-        {
             "videoId": "4avKfz1zwRY",
             "title": "Dow Jones closes down over 1,000 points | ABC Radio Coverage",
             "secondDuration": 356,
@@ -31,8 +25,14 @@
             "title": "Backstreet Boys and 'NSYNC Members Are Fighting Zombies in New Film",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "LQwEyVf55C0",
+            "title": "President Trump meets with GOP leaders after address to joint session of Congress",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

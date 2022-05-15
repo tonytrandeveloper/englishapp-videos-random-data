@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RMqN59derpg",
-            "title": "Mayor discusses his biggest concerns for Key West",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "ddRNSW_G6po",
             "title": "Snooki Gets Skinny",
             "secondDuration": 237,
@@ -121,8 +115,14 @@
             "title": "Stimulus stalemate leaves economy on the brink | ABC News",
             "secondDuration": 346,
             "group": "group_7"
+        },
+        {
+            "videoId": "Run6UA8zn5I",
+            "title": "Politico's Alex Isenstadt on 'Top Line'",
+            "secondDuration": 430,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

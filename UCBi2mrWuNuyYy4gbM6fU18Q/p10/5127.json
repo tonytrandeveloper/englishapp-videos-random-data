@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OmqDyIHhToE",
-            "title": "Nightline Exclusive: The President",
-            "secondDuration": 425,
-            "group": "group_7"
-        },
-        {
             "videoId": "0JyIR0MAVMg",
             "title": "Bottom Line on 'Fat Cat Bankers'",
             "secondDuration": 269,
@@ -61,8 +55,14 @@
             "title": "Miami building collapse, Hong Kong newspaper closes, Pride in Germany: Week in Photos",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "M2VdATAVDZI",
+            "title": "Deep freeze extends from Midwest to East Coast",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

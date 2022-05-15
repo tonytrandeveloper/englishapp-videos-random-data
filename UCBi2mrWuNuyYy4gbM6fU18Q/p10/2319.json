@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GTgrAZbZKcg",
-            "title": "Memphis Tigers match up with SMU Mustangs | ABC News",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "YKIJJSTKlH8",
             "title": "Stunt Man Surfs on Ocean With Motorcycle",
             "secondDuration": 83,
@@ -61,8 +55,14 @@
             "title": "Ketanji Brown Jackson remarks on her nomination to the Supreme Court I ABCNL",
             "secondDuration": 793,
             "group": "group_7"
+        },
+        {
+            "videoId": "NMsOvpPhGn0",
+            "title": "Pope Francis & the People | Moderated by David Muir | FULL VERSION in English",
+            "secondDuration": 2529,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

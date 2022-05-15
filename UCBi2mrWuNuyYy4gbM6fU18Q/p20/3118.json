@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "C9z9qvUchcc",
-            "title": "WEBCAST: Fatal Colorado Fire!",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "wAbHPtNsQIY",
             "title": "The Debrief: California gunman at large, Rainforest fire, Taylor Swift mania | ABC News",
             "secondDuration": 1678,
@@ -121,8 +115,14 @@
             "title": "Oklahoma governor tests positive",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "_Px5trTz5dc",
+            "title": "Index: New Record for World's Longest Passenger Flight",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OX8EqNQVO88",
-            "title": "Al Gore: Businesses Are Already Turning Tide On Climate (Full) | Meet The Press | NBC News",
-            "secondDuration": 964,
-            "group": "group_7"
-        },
-        {
             "videoId": "MA5AJCtQRaY",
             "title": "Mother-Daughter Team Make History At Ironman Competition | NBC Nightly News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "New York State Hospitals Prepare For Rush Of Patients As Covid-19 Cases Surge | NBC News NOW",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "9h4D5hHeVI8",
+            "title": "Live Music And Live Sports Look To Outlast COVID-19 | NBC News NOW",
+            "secondDuration": 280,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

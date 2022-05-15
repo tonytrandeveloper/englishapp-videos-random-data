@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zOoTG90Edng",
-            "title": "Man plays piano at Ukrainian-Polish border",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "NRZTcPGfN_s",
             "title": "Trump adviser on ‘necessary precautions’ for Tulsa rally",
             "secondDuration": 471,
@@ -61,8 +55,14 @@
             "title": "Losing Everything: 19,000 People Displaced by Wildfires",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "desFepEX5Is",
+            "title": "Sen. Menendez: ‘Our democracy prevails’ with a ‘peaceful transfer of power’",
+            "secondDuration": 329,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

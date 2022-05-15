@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qn6WOI5fMIU",
-            "title": "Up Close and Personal with a Whale",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "hVANC3br42Y",
             "title": "'We have to defeat the virus…[it's] one of the contentious issues': Speaker Pelosi | ABC News",
             "secondDuration": 578,
@@ -31,8 +25,14 @@
             "title": "Supreme Court Strikes Down DOMA: What's Next?",
             "secondDuration": 494,
             "group": "group_7"
+        },
+        {
+            "videoId": "3Y8vpgmFxT8",
+            "title": "Biden to keep Fauci as top medical adviser l GMA",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

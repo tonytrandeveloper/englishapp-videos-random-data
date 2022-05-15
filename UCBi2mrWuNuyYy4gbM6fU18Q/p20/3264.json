@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XAHoF6JKdbQ",
-            "title": "2 Chicago officers fatally struck by train while pursuing suspect",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "eguCrGR1xbI",
             "title": "State of the Union 2016: President Obama Celebrates the American Spirit of Innovation",
             "secondDuration": 203,
@@ -121,8 +115,14 @@
             "title": "Satellite Images Could  Provide Clues to Missing Malaysian Air Lines Flight 370",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "_5eV1cXUKJI",
+            "title": "Is the Secret to Long Life Genetic?",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

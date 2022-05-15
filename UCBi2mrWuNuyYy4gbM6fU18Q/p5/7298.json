@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LtpXIlD8Kr8",
-            "title": "ABC News Prime: Senate fails to change filibuster rule; Biden on defense during press conference",
-            "secondDuration": 5317,
-            "group": "group_7"
-        },
-        {
             "videoId": "j6qjc0bl5JE",
             "title": "The Debrief: Michael Cohen interview, bomb threats reported across U.S., France shooting suspect",
             "secondDuration": 1536,
@@ -31,8 +25,14 @@
             "title": "Gabrielle Giffords Testifies at Senate Gun Control Hearing: 'You Must Act'",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "ptlp98yde2U",
+            "title": "Man who allegedly threw 5-year-old from mall balcony faces attempted murder charge",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

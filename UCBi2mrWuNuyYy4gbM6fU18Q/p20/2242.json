@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "e2KpCFyjPU0",
-            "title": "Kid Gets Same Haircut as His Neighbor",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "9gJEZaiG6k0",
             "title": "Comey sits down for first one-on-one interview since he was fired",
             "secondDuration": 190,
@@ -121,8 +115,14 @@
             "title": "Judge Ketanji Brown Jackson hours from historic confirmation l GMA",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "DG6WslGxH7k",
+            "title": "Traffic Stop Turns Deadly for 17-Year-Old",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

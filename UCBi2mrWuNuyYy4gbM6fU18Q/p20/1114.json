@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BqziQsXCqbU",
-            "title": "Becoming Beetlejuice - Behind the Scenes on Broadway",
-            "secondDuration": 276,
-            "group": "group_7"
-        },
-        {
             "videoId": "xvH3cOL6g_k",
             "title": "Kareem Abdul-Jabbar: Building ‘a bridge of understanding’ key to activism",
             "secondDuration": 481,
@@ -121,8 +115,14 @@
             "title": "The Debrief: Pittsburgh shooting, 'Whitey' Bulger killed, Indiana bus tragedy | ABC News",
             "secondDuration": 1065,
             "group": "group_7"
+        },
+        {
+            "videoId": "PRvOmB62YVM",
+            "title": "Trump Rally Postponed Amid Security Concerns",
+            "secondDuration": 35,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

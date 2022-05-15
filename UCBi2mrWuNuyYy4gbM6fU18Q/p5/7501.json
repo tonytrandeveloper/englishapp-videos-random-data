@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IziKz73D7IU",
-            "title": "Arrest made in murder of jogger in Massachusetts",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "JJJ_R73zlXs",
             "title": "Could Democrats Take Back the House?",
             "secondDuration": 283,
@@ -31,8 +25,14 @@
             "title": "New details on the coronavirus spread in Europe",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "DEg1buMdf30",
+            "title": "Morgan Freeman on the Trials of Race in Hollywood",
+            "secondDuration": 473,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DyCNf_nCth4",
-            "title": "Donald Trump Declares Opioid Epidemic A National Emergency | NBC Nightly News",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "_vbBJMl6xnA",
             "title": "McCarthy On Rep. Fortenberry: 'When Someone Is Convicted, It's Time To Resign'",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Inflation Rising At Fastest Pace In Nearly 13 Years",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "7I3uDmKoK-I",
+            "title": "Sen. Corker Calls White House ‘Adult Day Care Center’ After Donald Trump Attack | NBC Nightly News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

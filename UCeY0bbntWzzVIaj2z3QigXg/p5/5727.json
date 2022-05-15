@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HVRolvPvWbw",
-            "title": "9/11 Anniversary: Remembering the Victims 14 Years Later | NBC Nightly News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "8wh8BYO8lyg",
             "title": "‘Humbled, Horrified and Heartbroken’: WHO Responds To Congo Sex Abuse Report",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Joe Biden Holds A Virtual Briefing On COVID-19 | NBC News (Live Stream Recording)",
             "secondDuration": 5169,
             "group": "group_7"
+        },
+        {
+            "videoId": "4SBbgY7c-ik",
+            "title": "Sandy Hook Marks 9 Years Since Elementary School Shooting",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

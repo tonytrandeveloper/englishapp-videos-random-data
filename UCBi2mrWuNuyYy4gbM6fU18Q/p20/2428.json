@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5F5mBsxKCgc",
-            "title": "Signs of child abuse and how to spot it",
-            "secondDuration": 381,
-            "group": "group_7"
-        },
-        {
             "videoId": "TxcWeI9Ze7E",
             "title": "Gulf Coast Oil Rig Bursts Into Flames; 2 Workers Missing, 4 Injured",
             "secondDuration": 141,
@@ -121,8 +115,14 @@
             "title": "The Conversation: Tempers Flare as Oil Flows",
             "secondDuration": 289,
             "group": "group_7"
+        },
+        {
+            "videoId": "5qO6FEYItqw",
+            "title": "18 year old, accomplice being held on nearly 30 charges in deadly school shooting",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "252ATuO6IAU",
-            "title": "Pres. Donald Trump’s tensions with North Korea, Mitch McConnell and the latest political news",
-            "secondDuration": 1382,
-            "group": "group_7"
-        },
-        {
             "videoId": "U33VtE3lKlk",
             "title": "Jill Biden speaks to Waukesha's resilience after holiday parade tragedy",
             "secondDuration": 326,
@@ -31,8 +25,14 @@
             "title": "Family Fights Moving Company for Belongings",
             "secondDuration": 875,
             "group": "group_7"
+        },
+        {
+            "videoId": "OFlGHqXo4UI",
+            "title": "Man and Dog Narrowly Escape Black Bear Attack in Virginia State Park",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

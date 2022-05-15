@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AasWQ9jXEzI",
-            "title": "Violent protests in Paris continue for the third straight weekend",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "wO5wh5BErQs",
             "title": "Bob Woodward Book Exposes Obama-Boehner Cracks",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "Dancing With the Stars 2015: Final Rehearsal",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "DPusCaBqO78",
+            "title": "Flight canceled, pilot detained on alcohol-related charge: Source",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

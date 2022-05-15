@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bvBgdzW6UKQ",
-            "title": "Serena Williams Interview 2013: Tennis Star Wins at 2013 US Open; Discusses Fifth Championship",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "RgotTpW5Q6E",
             "title": "Accusations that officers tried to revise incident report in Daniel Prude case | WNT",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Dog Rescued From Italian Earthquake Rubble",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "tLnJYhKErqY",
+            "title": "Snowboarder Catches Avalanche on Camera",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

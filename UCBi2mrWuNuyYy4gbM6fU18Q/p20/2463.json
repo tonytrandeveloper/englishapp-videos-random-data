@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YyXPVtOe9rU",
-            "title": "Jon Stewart Hosts the 75th Anniversary U.S.O. Show",
-            "secondDuration": 267,
-            "group": "group_7"
-        },
-        {
             "videoId": "gv4SJN016hQ",
             "title": "Teen's Mysterious Amnesia",
             "secondDuration": 132,
@@ -121,8 +115,14 @@
             "title": "Curious koala heads to school",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "77fZNgZQTVI",
+            "title": "Police Brutality Allegation Payouts",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

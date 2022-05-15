@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9TXBSgLrS3Q",
-            "title": "Jussie Smollett prosecutor speaks after 'Empire' star's hearing",
-            "secondDuration": 1281,
-            "group": "group_7"
-        },
-        {
             "videoId": "N7uW9j_WCXw",
             "title": "Donald Sterling Says He Is Not a Racist",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Pelosi announces impeachment managers",
             "secondDuration": 621,
             "group": "group_7"
+        },
+        {
+            "videoId": "hXQL8s5V5cg",
+            "title": "'Hookers for health care' are fighting against Trumpcare",
+            "secondDuration": 561,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

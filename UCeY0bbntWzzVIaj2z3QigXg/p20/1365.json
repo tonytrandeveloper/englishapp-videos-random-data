@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-yNVAx68FB0",
-            "title": "Donald Trump Participates in Commander-In-Chief Forum (Full) | NBC News",
-            "secondDuration": 1560,
-            "group": "group_7"
-        },
-        {
             "videoId": "g8H1g9CIH4Y",
             "title": "Jan. 6 Committee Subpoenas Tech Giants For Roles In Spreading Misinformation",
             "secondDuration": 254,
@@ -121,8 +115,14 @@
             "title": "First Responders Attend Scene Of Stabbing Attack On U.K. Lawmaker",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "D72cCXxzuF8",
+            "title": "American Red Cross Fails To Pay Funds Promised To Many Hurricane Harvey Victims | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

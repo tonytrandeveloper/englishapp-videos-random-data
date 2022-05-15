@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mQb2S4DIcNc",
-            "title": "Donald Trump Appears to Invite the Russians to Hack Hillary's Emails",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "b1QRiHIvSl8",
             "title": "Family of UNC student who risked his life against gunman on campus speaks out",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "ABC News Prime: Memorial Day around the country",
             "secondDuration": 3418,
             "group": "group_7"
+        },
+        {
+            "videoId": "TFVS-FrIccg",
+            "title": "Superstorm Sandy: Power Outages, Gas Shortages Continue",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T1gkqbnXWfs",
-            "title": "Kim Pate: \"For student success it takes...\"",
-            "secondDuration": 7,
-            "group": "group_7"
-        },
-        {
             "videoId": "r1v0z0S72o4",
             "title": "Evan Marwell: \"For student success it takes...\"",
             "secondDuration": 15,
@@ -31,8 +25,14 @@
             "title": "White House Holds Press Briefing: April 20 | NBC News",
             "secondDuration": 2571,
             "group": "group_7"
+        },
+        {
+            "videoId": "9bHfSDCS6mQ",
+            "title": "Florida School Shooting Suspect Nikolas Cruz Makes Court Appearance | NBC News",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

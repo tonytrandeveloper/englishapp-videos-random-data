@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UDMinFONNpo",
-            "title": "Capitol under siege",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "8ZoWHZkK3gk",
             "title": "New video released in fatal car crash involving Venus Williams",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "Rachel Zoe Revealed | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 383,
             "group": "group_7"
+        },
+        {
+            "videoId": "m86CizWeUy8",
+            "title": "Attack on Fort Hood: 13 Dead",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

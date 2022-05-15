@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-9kbuAynSok",
-            "title": "Watch: Biden Announces Withdrawal of U.S. Troops From Afghanistan by Sept. 11 | NBC News",
-            "secondDuration": 1401,
-            "group": "group_7"
-        },
-        {
             "videoId": "S3ILzrxgA40",
             "title": "Lester Holt Reflects On The Election As Votes Continue To Be Tallied | NBC Nightly News",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "No Criminal Charges Filed In Prince Overdose Death | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "FQotxbzMv4A",
+            "title": "National Zoo Says ‘Bye Bye Bei Bei’ As Panda Leaves For China | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

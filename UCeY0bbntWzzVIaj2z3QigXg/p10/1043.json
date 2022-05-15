@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QJXi0KJhj4E",
-            "title": "ISIS Coalition: What You Need To Know  | NBC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "CtFkOtqVJ5M",
             "title": "Biden Delivers Remarks About Ongoing Covid Pandemic | NBC News",
             "secondDuration": 791,
@@ -61,8 +55,14 @@
             "title": "Morning News NOW Full Broadcast - March 8",
             "secondDuration": 3060,
             "group": "group_7"
+        },
+        {
+            "videoId": "IfdIrpn6HZs",
+            "title": "Trump Vows ‘Very Powerful’ Punishment If Saudi Arabia Killed Jamal Khashoggi | NBC Nightly News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

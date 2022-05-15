@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Qmc6dttQAh0",
-            "title": "Top Line: Obama's Nuclear Announcement",
-            "secondDuration": 495,
-            "group": "group_7"
-        },
-        {
             "videoId": "TGMKxm11ExQ",
             "title": "Taylor Swift Meets Her Godson, Sam Smith's Break From Music And More",
             "secondDuration": 197,
@@ -61,8 +55,14 @@
             "title": "The Rundown: Top headlines today: April 5, 2022",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "nV_PdCvbKkQ",
+            "title": "Cyber-Stalked College Student Speaks Out",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

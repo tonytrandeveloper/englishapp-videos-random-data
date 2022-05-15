@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NP9kBtlyLuc",
-            "title": "Senator says impeachment trial delay is ‘appropriate’",
-            "secondDuration": 382,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ypq-Ki9isxY",
             "title": "Jared Kushner Selected as Trump Senior Adviser",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Elizabeth Holmes convicted",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "fOdxG7zEk_E",
+            "title": "Virginia Tech Shooting 2011: University on Lockdown After Police Officer, 1 Other Killed",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

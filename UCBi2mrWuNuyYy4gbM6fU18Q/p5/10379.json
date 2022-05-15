@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "99_QT0k2pPo",
-            "title": "Team USA Soccer Stops by 'GMA'",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "Di5jU8i0DNk",
             "title": "Little Girl and Her Giant Dogs",
             "secondDuration": 75,
@@ -31,8 +25,14 @@
             "title": "Mariah Carey's New Album Channels Pain From Breakup",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZtDHMHLwIzc",
+            "title": "Suspected driver in Charlottesville ramming charged with murder",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

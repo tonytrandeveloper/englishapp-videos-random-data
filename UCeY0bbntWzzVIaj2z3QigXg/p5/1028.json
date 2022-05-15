@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oG0GChsidAU",
-            "title": "Rebecca McLelland Crawley: \"For student success it takes...\"",
-            "secondDuration": 22,
-            "group": "group_7"
-        },
-        {
             "videoId": "x2qInW2kr7U",
             "title": "Rent Prices Expected To Increase Another 10 Percent In Next Year",
             "secondDuration": 234,
@@ -31,8 +25,14 @@
             "title": "The Cost of Cancer Care Driving Patients To Bankruptcy | NBC Nightly News",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "BXo4qXFhyzE",
+            "title": "Five Reasons For A Crowded Republican Field | Chuck's Take | NBC News",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

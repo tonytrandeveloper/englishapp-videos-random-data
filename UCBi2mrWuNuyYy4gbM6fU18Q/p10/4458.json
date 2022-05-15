@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7LFJQP7IW_M",
-            "title": "Hack Linked to Michelle Obama's Passport",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "S4Sg0QAjRCM",
             "title": "Kaepernick's attorney talks country’s ‘monumental problem’ with race",
             "secondDuration": 375,
@@ -61,8 +55,14 @@
             "title": "White House Correspondent Helen Thomas Dies at 92",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "rYHPcKd3iRc",
+            "title": "Obama's Inaugural Speech: 'Our Time' for Changing Nation",
+            "secondDuration": 415,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

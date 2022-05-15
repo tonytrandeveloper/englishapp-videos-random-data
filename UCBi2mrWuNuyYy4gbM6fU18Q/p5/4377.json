@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NDmx92PVJpk",
-            "title": "Record wildfires rage in Amazon rain forest l ABC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "J-s0VE-ZTDA",
             "title": "Remembering an American Classic: Edith Bunker Beloved by All",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Texas and Louisiana brace for Tropical Storm Laura",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "ccopgXr6ZyU",
+            "title": "US ambassador to the UN describes her relationship to Trump as 'perfect'",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wi5nX5KU_Qc",
-            "title": "Nurses Cared For NICU Babies During Hurricane Ida",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "4loJFkMoj8I",
             "title": "TSA: Record Number Of Guns Seized In U.S. Airports | NBC Nightly News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - June 18 | NBC News NOW",
             "secondDuration": 2992,
             "group": "group_7"
+        },
+        {
+            "videoId": "mzjLMOv1lg4",
+            "title": "Top Story with Tom Llamas - March 1 | NBC News NOW",
+            "secondDuration": 3063,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

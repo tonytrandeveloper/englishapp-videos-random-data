@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "T5_2X85rNlQ",
-            "title": "Dallas Attack: How the Deadly Police Ambush Unfolded | NBC Nightly News",
-            "secondDuration": 253,
-            "group": "group_7"
-        },
-        {
             "videoId": "gUeNnCGd4TE",
             "title": "Full Panel: Who Is In Charge Of The Federal Response? | Meet The Press | NBC News",
             "secondDuration": 457,
@@ -61,8 +55,14 @@
             "title": "World Rings In New Year As Some Festivities Marked By Chaos And Violence | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "85Q551b0De8",
+            "title": "Election Count Fact Check: Debunking Baseless Claims Of Voter Fraud | NBC News NOW",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

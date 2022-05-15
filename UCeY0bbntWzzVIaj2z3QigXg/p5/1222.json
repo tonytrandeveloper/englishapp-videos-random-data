@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1NsmjgX5mok",
-            "title": "Tennessee Mayor: 4th Death In Gatlinburg Wildfire | NBC News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "EFhiZJ3jKf0",
             "title": "Southwest Airlines Cancels Dozens Of Flights For Inspections After Explosion | NBC Nightly News",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Over 90 Rattlesnakes Discovered Underneath California Home",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "S8mbPUR91vI",
+            "title": "Dozens Of Children Killed After Saudi-Led Airstrike In Yemen | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

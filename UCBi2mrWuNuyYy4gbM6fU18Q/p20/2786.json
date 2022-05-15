@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aEGEnbOndJk",
-            "title": "Feel-good Friday",
-            "secondDuration": 385,
-            "group": "group_7"
-        },
-        {
             "videoId": "xEkiyOyMjkQ",
             "title": "Second Presidential Debate Preview: Gov. Bob McDonnell: Romney's 'Warmth' Will Come Through",
             "secondDuration": 235,
@@ -121,8 +115,14 @@
             "title": "Chaos, complexities asylum seekers, border agents face in possible US border shutdown",
             "secondDuration": 476,
             "group": "group_7"
+        },
+        {
+            "videoId": "jCqZgghtm58",
+            "title": "Celine Dion's 1st Performance Since Husband's Death",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

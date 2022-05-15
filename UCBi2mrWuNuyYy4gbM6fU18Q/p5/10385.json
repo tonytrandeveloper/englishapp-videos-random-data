@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TW4Y80tU9cg",
-            "title": "Tropical Storm Elsa drenches Northeast on its way to New England",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "F076CdztHbY",
             "title": "Republicans Retain Majorities in US House, Senate",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Germany Soccer Stadium Evacuated After Threats",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "VGVb-sVwyXY",
+            "title": "Eclipse fever hits the nation",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

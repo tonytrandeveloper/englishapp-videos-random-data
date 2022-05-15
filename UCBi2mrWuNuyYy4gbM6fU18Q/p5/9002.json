@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "imZUjp9Up30",
-            "title": "Record cold and snow heading into weekend travel",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "StZJst49w6Q",
             "title": "What’s next for impeachment, foul play suspected in case of missing student | ABC News",
             "secondDuration": 1426,
@@ -31,8 +25,14 @@
             "title": "Fallout after DNI testifies on whistleblower report | ABC News",
             "secondDuration": 289,
             "group": "group_7"
+        },
+        {
+            "videoId": "E30bq7axzfw",
+            "title": "Andrew Yang at 2020 DNC: ‘Our future is now’",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

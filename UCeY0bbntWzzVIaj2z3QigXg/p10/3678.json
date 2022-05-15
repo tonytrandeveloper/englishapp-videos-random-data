@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tMgWfmBC4kw",
-            "title": "Watch: Day 4 Of Derek Chauvin's Trial | NBC News",
-            "secondDuration": 26571,
-            "group": "group_7"
-        },
-        {
             "videoId": "MlVpbFMfbjw",
             "title": "Florida Roller Coaster Derailment Raises Questions About Safety Regulations | NBC Nightly News",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "Americans React To CDC’s New Mask Guidance For Fully Vaccinated",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "ERgRtbQ7Xk8",
+            "title": "Who Will Win Best Picture At The 2018 Oscars? This Algorithm Is A Great Predictor | Mach | NBC News",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

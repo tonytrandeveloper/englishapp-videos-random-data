@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "opgZH18VtDc",
-            "title": "The Debrief: Puerto Rico protest, Boris Johnson is new UK PM, Mueller to testify before congress",
-            "secondDuration": 1462,
-            "group": "group_7"
-        },
-        {
             "videoId": "EpMHp0lcgXA",
             "title": "Murder trial begins for American teens accused of killing Italian cop",
             "secondDuration": 112,
@@ -121,8 +115,14 @@
             "title": "Trump beefs up team amid legal battles",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "P1iznicM7ZI",
+            "title": "4 major fires continue to burn and endanger residents in California",
+            "secondDuration": 267,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

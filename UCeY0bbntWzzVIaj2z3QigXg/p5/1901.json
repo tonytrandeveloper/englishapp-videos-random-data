@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UeAkKjTWxXA",
-            "title": "Gunman Shot by Secret Service Near White House | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "UdhmPlLav6s",
             "title": "Watch NBC News NOW Live - October 1",
             "secondDuration": 42901,
@@ -31,8 +25,14 @@
             "title": "This Morning’s Top Headlines – March 30 | Morning News NOW",
             "secondDuration": 1458,
             "group": "group_7"
+        },
+        {
+            "videoId": "FBOFMGIEVzQ",
+            "title": "Watch: President Donald Trump Holds Cabinet Meeting At White House | NBC News",
+            "secondDuration": 4339,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

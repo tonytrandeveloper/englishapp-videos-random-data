@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zKGAqPY-fvM",
-            "title": "NATO Secretary General Stoltenberg On Support For Ukraine",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "7S_erPiA7Kg",
             "title": "'Game Of Thrones' Finale: Where Does The Fantasy Genre Go From Here? | Think | NBC News",
             "secondDuration": 255,
@@ -61,8 +55,14 @@
             "title": "Tom Perez: Donald Trump Is A 'Fraud' | Meet The Press | NBC News",
             "secondDuration": 1386,
             "group": "group_7"
+        },
+        {
+            "videoId": "iUSUfCqA17w",
+            "title": "Sean Spicer Returns To Briefing Room, Avoids Specifics On Major Issues | NBC News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

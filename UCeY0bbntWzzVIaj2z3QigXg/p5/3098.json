@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-1AMssNPTSY",
-            "title": "Idaho Doctor Says Physicians Learning From Each Other To Battle COVID-19 | NBC News NOW",
-            "secondDuration": 399,
-            "group": "group_7"
-        },
-        {
             "videoId": "BMKqYsF3APU",
             "title": "NBC News Correspondents Read Election Confessions | NBC News",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - November 28th",
             "secondDuration": 1309,
             "group": "group_7"
+        },
+        {
+            "videoId": "B-SepfyX2Tw",
+            "title": "George Floyd’s Death, One Month Later: What Has Changed? | NBC News NOW",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

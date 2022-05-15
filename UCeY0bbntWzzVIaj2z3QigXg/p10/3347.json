@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DrbNPYsmcow",
-            "title": "Top Story with Tom Llamas – Jan. 12 | NBC News NOW",
-            "secondDuration": 3158,
-            "group": "group_7"
-        },
-        {
             "videoId": "3uQvmnEzTHc",
             "title": "WHO: ‘Europe Has Now Become The Epicenter Of The Pandemic’ | NBC News",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "NBC Nightly News Broadcast (Full) - July 12th, 2021",
             "secondDuration": 1277,
             "group": "group_7"
+        },
+        {
+            "videoId": "V-mhhMzDzzo",
+            "title": "Sam Gal: America needs a massive strike in Syria",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

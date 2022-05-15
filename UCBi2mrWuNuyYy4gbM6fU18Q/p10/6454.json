@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bL9zDTEDdtE",
-            "title": "Family of Martin Luther King Jr. make voting rights push",
-            "secondDuration": 437,
-            "group": "group_7"
-        },
-        {
             "videoId": "6LGYmG2pZzM",
             "title": "Woman With Shark Attached to Her Arm Taken To Hospital",
             "secondDuration": 32,
@@ -61,8 +55,14 @@
             "title": "Emotional Scene in San Bernardino",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "y--aEGN1SI4",
+            "title": "ABC News Prime: Trump ally indicted; Bezos launches into space; Breakthrough COVID-19 cases in DC",
+            "secondDuration": 5256,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

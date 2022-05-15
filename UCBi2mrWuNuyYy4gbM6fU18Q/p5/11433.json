@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wlo0mT0ECVQ",
-            "title": "Outbreak in America",
-            "secondDuration": 398,
-            "group": "group_7"
-        },
-        {
             "videoId": "iBi0kUUvpr8",
             "title": "Taliban retaking territory in Afghanistan amid troop withdrawal",
             "secondDuration": 218,
@@ -31,8 +25,14 @@
             "title": "Whitney Houston Family Plans Private Funeral for Late Singer",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "GA55aC8I-cA",
+            "title": "Trump again falsely asserts he won election | WNT",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

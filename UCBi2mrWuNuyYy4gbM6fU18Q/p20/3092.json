@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aGBalYvDrnA",
-            "title": "Sales of American-made Airstream RVs reach new heights",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZypttEbMx_s",
             "title": "Can Republicans Recover After Big Loss to President Obama?",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "Eagle-Eyed Boy Finds Lost Wedding Band in River",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "B1sEEhdEhCQ",
+            "title": "AOC responds to GOP congressman in fiery speech",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

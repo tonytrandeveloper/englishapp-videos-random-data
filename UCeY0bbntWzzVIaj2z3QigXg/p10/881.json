@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UKdc7Wnc7qI",
-            "title": "Britney Spears Fans React To Conservatorship Decision Outside Courthouse | NBC News",
-            "secondDuration": 2021,
-            "group": "group_7"
-        },
-        {
             "videoId": "ougE8_cvA0Q",
             "title": "Latino Voters In Florida React To Unexpected Donald Trump Win | NBC News",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "Trump Back On The Campaign Trail",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "snmxDeaxpT8",
+            "title": "Reality Check: What To Expect From The Tax Plan | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

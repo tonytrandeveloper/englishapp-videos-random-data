@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Amcj_WvXFqg",
-            "title": "Pres. Trump visits Saint John Paul II National Shrine | ABC News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "5aNAmqtlxH4",
             "title": "Blustery winter weather creates dangerous conditions across the country l GMA",
             "secondDuration": 207,
@@ -121,8 +115,14 @@
             "title": "By the Numbers: Spider-Man’s blockbuster weekend",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "GTgrAZbZKcg",
+            "title": "Memphis Tigers match up with SMU Mustangs | ABC News",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

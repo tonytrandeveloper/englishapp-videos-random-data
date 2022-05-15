@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lh2vOXRCbAs",
-            "title": "Experience Protests, Speeches, Donald's Big Entrance From RNC In Cleveland | 360 Video | NBC News",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "-smd585XKBA",
             "title": "President Donald Trump Says June 12 Summit With North Korea Is Start Of ‘Process’ | NBC Nightly News",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "SpaceX Just Sent a Supercomputer to the International Space Station | Mach | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "m5T4BurWtvk",
+            "title": "Experts: Boosting Vaccine Production Could Take Weeks | NBC Nightly News",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

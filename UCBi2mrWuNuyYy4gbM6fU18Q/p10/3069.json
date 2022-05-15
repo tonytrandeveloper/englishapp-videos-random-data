@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Vutxb1o4kC0",
-            "title": "The Conversation: Twitter's BP Satirist Revealed",
-            "secondDuration": 283,
-            "group": "group_7"
-        },
-        {
             "videoId": "6lO82Gy9Ukc",
             "title": "NFL Mascot Asks for $20,000 a Game | ABC News",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "North Korea launches ballistic missile over Japan",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "mdGydxUGFd8",
+            "title": "Sandra Bullock Confronted by Crazed Stalker Inside Her Home",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

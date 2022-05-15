@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TXUAQieVK6A",
-            "title": "What to know about reported 2nd booster for people over 50 l ABC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "nBvWy06lBf8",
             "title": "Budget deadline approaches to avert government shutdown | WNT",
             "secondDuration": 260,
@@ -31,8 +25,14 @@
             "title": "A Real Life Modern Family",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "5QOjtBMKIZA",
+            "title": "Gulf Coast prepares for tropical threat",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

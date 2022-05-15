@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QylAdiKalxo",
-            "title": "Las Vegas mass shooting is first under Trump's presidency",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "eYX46Ay9Fl4",
             "title": "Transformers 3 - Dark of the Moon Movie Review",
             "secondDuration": 178,
@@ -31,8 +25,14 @@
             "title": "103-year-old runner wins gold in 50 and 100-meter dash",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "7b6kRkhN7V8",
+            "title": "Edward Snowden Responds to 'Snowden' Movie Trailer",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

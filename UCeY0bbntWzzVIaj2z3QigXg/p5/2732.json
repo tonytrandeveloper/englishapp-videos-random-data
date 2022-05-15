@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5HiMIKyoY-c",
-            "title": "White House Holds Press Briefing: February 3 | NBC News",
-            "secondDuration": 2591,
-            "group": "group_7"
-        },
-        {
             "videoId": "XfN3HL5xD2U",
             "title": "Giuliani Hospitalized After Testing Positive For Covid-19 | NBC Nightly News",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "California Authorities Destroy Boats And Clear Floating Community",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ze4ra1Ns33g",
+            "title": "President Donald Trump: Nancy Pelosi ‘Hates All Of The People That Voted For Me’ | NBC Nightly News",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

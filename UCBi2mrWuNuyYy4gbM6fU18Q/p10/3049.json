@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "thF40EjhrtI",
-            "title": "Watch LIVE: Fourth of July Fireworks - Independence Day fireworks display over the National Mall",
-            "secondDuration": 12515,
-            "group": "group_7"
-        },
-        {
             "videoId": "oV09Df_TkIw",
             "title": "Dangerous road rage incidents from across the country",
             "secondDuration": 447,
@@ -61,8 +55,14 @@
             "title": "Re-Opening the Michael Skakel  Murder Case",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "kcu-N_4_tCU",
+            "title": "Ambassadors Discuss Libya",
+            "secondDuration": 352,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

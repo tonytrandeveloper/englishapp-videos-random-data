@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3jg__wz6x34",
-            "title": "Pence visits two migrant detention centers in Texas",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "HegYqQah7Y4",
             "title": "'Briefing Room': US-Saudi relations, US Pastor freed by Turkish court, Biden hits campaign trail",
             "secondDuration": 1272,
@@ -61,8 +55,14 @@
             "title": "By the Numbers: Georgia's college football championship win",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "XAvqyVDtuHM",
+            "title": "The Debrief: Impeachment hearings, Indiana Uni, Political ads | ABC News",
+            "secondDuration": 1362,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

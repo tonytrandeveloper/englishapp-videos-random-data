@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WAkAgtGsvhU",
-            "title": "Series Of Suspicious Deaths At VA Hospital Under Investigation | NBC Nightly News",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nmo5rVzS1gA",
             "title": "Ukrainian Residents Attempting To Flee Kyiv Amidst Russian Invasion",
             "secondDuration": 598,
@@ -31,8 +25,14 @@
             "title": "NBC News NOW Full Broadcast - March 23rd, 2021 | NBC News NOW",
             "secondDuration": 3229,
             "group": "group_7"
+        },
+        {
+            "videoId": "lLtaI9-3qfs",
+            "title": "New York Governor Cuomo makes announcement amid COVID-19 pandemic",
+            "secondDuration": 272,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fQKCGW0RvFM",
-            "title": "Desperate Search For Mudslide Survivors | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "G9Xa3FWUVig",
             "title": "California Police Beating Shifts to What Cops Said | NBC Nightly News",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "New Salt Labeling Law Shaking Up New York Menus | NBC Nightly News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "3Nldn93P4Ds",
+            "title": "Cortez Reintroduces Postal Banking, Shares Positives It Could Have On Americans | NBC News NOW",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

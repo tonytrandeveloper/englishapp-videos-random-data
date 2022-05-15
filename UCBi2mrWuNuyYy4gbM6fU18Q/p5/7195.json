@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NlgamJDgEgA",
-            "title": "Barack Obama Re-Elected President",
-            "secondDuration": 623,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bmoapwdd7rY",
             "title": "Kurt Cobain's Daughter Frances Seeks to Protect Inheritance in Divorce",
             "secondDuration": 163,
@@ -31,8 +25,14 @@
             "title": "The Life of Animal Hoarders",
             "secondDuration": 412,
             "group": "group_7"
+        },
+        {
+            "videoId": "gSdebby9fGc",
+            "title": "White House press briefing on Michael Cohen raid, future of Mueller investigation | ABC News",
+            "secondDuration": 4248,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

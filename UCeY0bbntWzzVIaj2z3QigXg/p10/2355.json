@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vQTXi-Tm-8g",
-            "title": "Lifelong Friends Discover They Are Biological Brothers | NBC Nightly News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "7GzWGnuzlwA",
             "title": "Take A Tour Of NASA's Full Size Mockup Of The ISS | Mach | NBC News",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "New Video Shows China’s ‘Wartime Controls’ To Fight Coronavirus Outbreak | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "aq5e_cc75N8",
+            "title": "LIVE: White House Holds Press Briefing | NBC News",
+            "secondDuration": 3200,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

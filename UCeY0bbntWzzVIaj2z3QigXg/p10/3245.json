@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5Csx0v-NiZM",
-            "title": "Meet The Voters Who Uphold New Hampshire’s Midnight Voting Tradition | NBC News NOW",
-            "secondDuration": 335,
-            "group": "group_7"
-        },
-        {
             "videoId": "mKtfK-wrur8",
             "title": "Richard Engel: People Fleeing 'War-Zone Dynamic' In Central America | Meet The Press | NBC News",
             "secondDuration": 357,
@@ -61,8 +55,14 @@
             "title": "9 Terrible Tech Products That Were Destined To Fail | NBC Left Field",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "vwfZXz87cYI",
+            "title": "LIVE: Nancy Pelosi Holds Weekly Press Conference | NBC News",
+            "secondDuration": 2536,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-Zs-KsnyvoU",
-            "title": "Harrison Ford Plane Crashes in California",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "VuvX0K8MaIA",
             "title": "The Flint Mom and the City Official Who Discovered Lead Contaminated Water",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "SpaceX Demo-2 astronauts wave goodbye to their families",
             "secondDuration": 234,
             "group": "group_7"
+        },
+        {
+            "videoId": "eBP9TYwEYHg",
+            "title": "New Year Setting Off Heated Debates Over Gun Laws",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

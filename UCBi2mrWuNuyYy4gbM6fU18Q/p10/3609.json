@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IozAW8en4fE",
-            "title": "Thousands of buried bones spark a new mystery at the Vatican",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "MjInDjpSkZs",
             "title": "Cuteness Cubed! Dogs With Square Haircuts Go Viral",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "Breaking down day 3 of impeachment arguments",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "CqTOXPqrOjI",
+            "title": "$13 Trillion and Counting",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

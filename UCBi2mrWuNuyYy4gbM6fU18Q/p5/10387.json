@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9vXwcOtwTPE",
-            "title": "Newt Gingrich Closes Gap in South Carolina",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "FilLac1NoAk",
             "title": "Stories of heroism after the London terror attack",
             "secondDuration": 144,
@@ -31,8 +25,14 @@
             "title": "ABC News Prime: COVID-19 cases jump, White House turns on Fauci, explosion on Navy ship in San Diego",
             "secondDuration": 3609,
             "group": "group_7"
+        },
+        {
+            "videoId": "JW9Wsbte5xU",
+            "title": "VP Debate Full Highlights | Kaine, Pence on Religion, Abortion",
+            "secondDuration": 539,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

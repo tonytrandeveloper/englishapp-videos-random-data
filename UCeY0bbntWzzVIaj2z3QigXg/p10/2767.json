@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "M3JjUUQTYgs",
-            "title": "How Does Experimental Covid-19 Treatment Trump Received Work? | NBC News",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "cNZIH8icyaA",
             "title": "Watch: Climate Change Marches Across The Globe | NBC News Now",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Red Sox Legend David Ortiz Undergoes Second Surgery In U.S. After Shooting | NBC Nightly News",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "-OgBayPOmsU",
+            "title": "Trudeau Invokes Emergency Powers Amid Trucker Protests Over Covid Restrictions",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "1Up1vwyfvyo",
-            "title": "How Impeachment Is Affecting The Campaign Trail | NBC News NOW",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "eIh65-xCH1Q",
             "title": "Watch Live: Acting Attorney General Whitaker Testifies At House Hearing | NBC News",
             "secondDuration": 24116,
@@ -301,8 +295,14 @@
             "title": "Open Mic Catches Senator Shouting Expletives During Hearing | NBC News NOW",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "_PljxyXFqp0",
+            "title": "Tesla Recall Has Self-Driving Features In The Spotlight",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

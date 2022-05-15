@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PTP1JU1aVEk",
-            "title": "The Conversation: U.S. Secret Soccer Weapon",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "9KQzYd_HVuM",
             "title": "Pro-democracy protests turn violent as Hong Kong airport cancels flights again | ABC News",
             "secondDuration": 199,
@@ -31,8 +25,14 @@
             "title": "Trump addresses US amid protests, George Floyd's brother reflects on his life | Nightline",
             "secondDuration": 605,
             "group": "group_7"
+        },
+        {
+            "videoId": "5kgergJ7Z1c",
+            "title": "Miss Kansas Helps Break Miss America Stereotypes",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

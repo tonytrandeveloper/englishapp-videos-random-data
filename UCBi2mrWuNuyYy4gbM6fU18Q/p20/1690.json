@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mdselZ-gB0A",
-            "title": "Russia is claiming that Ukraine carried out airstrikes on an oil depot in Belgorod | ABC News",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "W0_AfvjLJbE",
             "title": "What we're learning about new omicron variant l GMA",
             "secondDuration": 196,
@@ -121,8 +115,14 @@
             "title": "Biden signs executive orders to undo Trump immigration policies",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "peqDec3_ngY",
+            "title": "Trump Discusses a 'Softening' on Immigration",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

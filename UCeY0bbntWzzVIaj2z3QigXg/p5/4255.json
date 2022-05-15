@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Kxo6ftKehf8",
-            "title": "NBC News NOW Full Broadcast - May 21st, 2021",
-            "secondDuration": 3062,
-            "group": "group_7"
-        },
-        {
             "videoId": "dVFIrQ8CoCI",
             "title": "Huawei Executive Wanted By U.S. Dodges Reporters' Questions After Bail In Vancouver | NBC News",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "Xavier Becerra Testifies At Senate Confirmation Hearing To Be HHS Secretary | NBC News NOW",
             "secondDuration": 302,
             "group": "group_7"
+        },
+        {
+            "videoId": "7bqJyQsxgHk",
+            "title": "TikTok Bans Anti-LGBTQ Content After Updating Community Guidelines",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

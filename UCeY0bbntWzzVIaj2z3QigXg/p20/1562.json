@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CAcnSN-ObnM",
-            "title": "Celebrities Take To Social Media To Be Voices In Reason In COVID-19 Pandemic | NBC News",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "tC4D8OFDkO4",
             "title": "NASA Tracks Greenland Glaciers To Understand Climate Change | NBC Nightly News",
             "secondDuration": 107,
@@ -121,8 +115,14 @@
             "title": "British Join Airstrikes Against ISIS | NBC News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "BhWQer61sS8",
+            "title": "Coming up on Meet the Press - Terror in Boston - April 21, 2013",
+            "secondDuration": 16,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

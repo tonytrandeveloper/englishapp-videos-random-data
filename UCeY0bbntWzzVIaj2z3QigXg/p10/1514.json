@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kVt4xoiW40M",
-            "title": "Bill Nye Wants The Next Generation To Tackle Climate And Change The World | Mach | NBC News",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "2WvC1vz3cxk",
             "title": "Two Cruise Ships With Coronavirus Cases Dock In Florida | NBC Nightly News",
             "secondDuration": 58,
@@ -61,8 +55,14 @@
             "title": "‘The Irishman’: Robert De Niro Digitally De-Aged Shows How Far Tech Has Come | Mach | NBC News",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "vjqPzjGBuzI",
+            "title": "Aleppo Under Siege As Ceasefire Crumbles | 101 | NBC News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

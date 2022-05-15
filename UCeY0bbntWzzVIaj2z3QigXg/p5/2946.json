@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X4itWAx7rKQ",
-            "title": "Two Connecticut Officers Suspended For Allegedly Mishandling Investigations",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "HtOeBQ68-ic",
             "title": "Netflix Tests Plan To Crack Down On Customers Sharing Passwords | NBC News NOW",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Must See: Massive Underwater Explosions From Navy Aircraft Carrier Test",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "_ig9YR8VMOc",
+            "title": "White House Holds Press Briefing: April 14 | NBC News",
+            "secondDuration": 2741,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

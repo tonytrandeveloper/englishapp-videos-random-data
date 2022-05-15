@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PKv-wehVJ8Q",
-            "title": "ABC News Update: Death toll in Surfside collapse rises to 16 | ABC News",
-            "secondDuration": 1201,
-            "group": "group_7"
-        },
-        {
             "videoId": "KivVKIWOt9Q",
             "title": "Blue Bell Ice Cream Linked to Deadly Lysteria Outbreak",
             "secondDuration": 37,
@@ -31,8 +25,14 @@
             "title": "Critics wonder why one of the largest megachurches took so long to open its door to evacuees",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "BTi4268ZKUc",
+            "title": "Jury Finds Michael Jackson Promoter AEG Not Liable",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

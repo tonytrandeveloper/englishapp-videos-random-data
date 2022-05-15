@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4pTNlzl5hzo",
-            "title": "Trump Holds Campaign Rally In Iowa | NBC News",
-            "secondDuration": 4447,
-            "group": "group_7"
-        },
-        {
             "videoId": "nP6yLQK8wLQ",
             "title": "New York Gov. Cuomo Holds Briefing On Tropical Storm Henri | NBC News",
             "secondDuration": 2000,
@@ -31,8 +25,14 @@
             "title": "Canada To Spend $192 Million Towards Vaccine For COVID-19 | NBC News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "EZ4-Q1coyQE",
+            "title": "Rick Perry Responds To Charges | NBC News",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

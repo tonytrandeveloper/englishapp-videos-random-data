@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tiCZRfCMJ-s",
-            "title": "Coronavirus, the Great Wall, and world record: World in Photos, Feb. 23",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "LhLvBtaJSbA",
             "title": "Gold Star widow: Don’t forget sacrifice of soldiers in Afghanistan",
             "secondDuration": 284,
@@ -31,8 +25,14 @@
             "title": "15 U.S. Banks Downgraded",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "g_IAwC1H8mk",
+            "title": "GOP Debate: Who Came Out on Top?",
+            "secondDuration": 360,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

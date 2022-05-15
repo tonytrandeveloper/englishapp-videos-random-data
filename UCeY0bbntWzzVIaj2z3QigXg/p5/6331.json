@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s_aXOSmuXoY",
-            "title": "An Algorithm Can Solve A Rubik's Cube Faster Than Any Human | Mach | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "DvOT8-Z7rvs",
             "title": "Before Colin Kaepernick, Mahmoud Abdul-Rauf's Silent Protest | Flashback | NBC News",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Former Honduras President Arrested, Facing Drug Trafficking Charges In U.S.",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "fjm1Qg_HpwY",
+            "title": "New Film 'Only The Brave' A Tribute To Granite Mountain Hotshots | NBC News",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

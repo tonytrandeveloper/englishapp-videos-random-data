@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_97yv89fyxc",
-            "title": "Morning News NOW Full Broadcast - Jan. 17",
-            "secondDuration": 3043,
-            "group": "group_7"
-        },
-        {
             "videoId": "I5yKTzD8QZY",
             "title": "Odessa Orchestra Plays In Support Of No-Fly Zone For Ukraine",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Betsy DeVos Confirmed As Education Secretary, VP Mike Pence Casts Historic Vote | NBC Nightly News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "AEd5EpYsWlI",
+            "title": "Videos Capture Terrifying Scenes Inside Florida School Shooting | NBC News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

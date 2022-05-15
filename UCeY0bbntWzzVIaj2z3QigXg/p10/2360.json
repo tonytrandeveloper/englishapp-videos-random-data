@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nekUEB5eGCc",
-            "title": "Epic Pre-Human Discovery: Meet the Distant Cousins We Never Knew We Had | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "epzkx1uHvf0",
             "title": "Meet The 7-Year-Old Space Expert With Out-Of-This-World Dreams | NBC Nightly News",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Migrants Kept In Coronavirus Quarantine On Board Ferry Boat | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "--YgSGYlTNs",
+            "title": "Los Angeles County Gives Coronavirus Update | NBC News",
+            "secondDuration": 620,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

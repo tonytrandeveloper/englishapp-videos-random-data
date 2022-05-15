@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "_K1n9StmFIs",
-            "title": "Sen. Jeff Flake reacts to Sen. John McCain's brain tumor diagnosis",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "htGIP2_DT2c",
             "title": "Missing flock of sheep found in Spain",
             "secondDuration": 80,
@@ -301,8 +295,14 @@
             "title": "COVID-19 cases skyrocket nationwide with holidays approaching",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "2e0P9CIlnZE",
+            "title": "Hong Kong protesters call for US military help amid uproar over proposed China law | ABC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

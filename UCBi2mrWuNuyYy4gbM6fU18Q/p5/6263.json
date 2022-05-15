@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BEGPqpEGodI",
-            "title": "Twin Engine Plane Crashes Into Parking Lot",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "JK_Gnfq0XmE",
             "title": "ABC News Prime: Biden’s transition team; Possible COVID-19 vaccine update; Trump refuses to concede",
             "secondDuration": 3600,
@@ -31,8 +25,14 @@
             "title": "Generic Lipitor Alternative Contain Glass Particles, Ranbaxy Plant Closed After FDA Investigation",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "0BSy4xWwf6Y",
+            "title": "Joe Biden pressed whether he would take a COVID-19 vaccine l ABC News Town Hall",
+            "secondDuration": 352,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

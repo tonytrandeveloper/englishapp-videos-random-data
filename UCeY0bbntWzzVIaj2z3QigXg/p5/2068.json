@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mBzC9SlKO48",
-            "title": "American Woman Shot And Killed In Mexico City | NBC Nightly News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "lINnKaBUiKQ",
             "title": "'So Long': Alex Trebek Appears As Jeopardy! Host For The Last Time | NBC News",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Annual Memorial Day Tun Supports Fallen Service Members",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "3DH8WnLLT4I",
+            "title": "Senator Kamala Harris Grills Brett Kavanaugh On Robert Mueller Investigation | NBC News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

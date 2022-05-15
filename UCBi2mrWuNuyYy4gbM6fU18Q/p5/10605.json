@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ubEQCe5YOCQ",
-            "title": "Matt Gaetz rejects calls to resign",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "2irlfi0GB3c",
             "title": "Amazon deforestation, Hong Kong protests, zoo weigh-in: World in Photos, Aug. 22",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Webcast: Steve Jobs; Gabrielle Giffords; NYC Protests",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "qu7RvDWZkOQ",
+            "title": "Gulf storms gather strength, Acosta under fire, inside migrant children’s center | ABC News",
+            "secondDuration": 1441,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

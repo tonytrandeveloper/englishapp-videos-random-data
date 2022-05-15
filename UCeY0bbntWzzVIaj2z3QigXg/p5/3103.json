@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GyOq6FRjkr0",
-            "title": "Meet The Press Broadcast (Full) - June 6th, 2021",
-            "secondDuration": 2851,
-            "group": "group_7"
-        },
-        {
             "videoId": "VnSJVpbTMu4",
             "title": "Texas Primary Day: What To Expect As Voters Head To Polls For First Primary Of 2022",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "The Hidden Problems In U.S. Water Infrastructure | NBC News Now",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "qcUMVj2GeBM",
+            "title": "Trump Holds First Rally Since Leaving Office | NBC News NOW",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

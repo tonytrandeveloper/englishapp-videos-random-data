@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OmqDyIHhToE",
-            "title": "Nightline Exclusive: The President",
-            "secondDuration": 425,
-            "group": "group_7"
-        },
-        {
             "videoId": "0JyIR0MAVMg",
             "title": "Bottom Line on 'Fat Cat Bankers'",
             "secondDuration": 269,
@@ -121,8 +115,14 @@
             "title": "In Case You Missed It: 5/23/2014",
             "secondDuration": 356,
             "group": "group_7"
+        },
+        {
+            "videoId": "5sAImDmrtCI",
+            "title": "Hurricane Isaac Makes Landfall",
+            "secondDuration": 399,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

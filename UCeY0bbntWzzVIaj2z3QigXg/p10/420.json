@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XvNMCxxqk5A",
-            "title": "Donald Trump Doesn't Write Out His Own Tweets | Short Take | NBC News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "dIrchZhSLZY",
             "title": "Lester Visits Houston Home Of A Tex-Mex Obsession | NBC Nightly News",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "North Korea: Missiles Launches Were Drill For Striking U.S. Forces In Japan | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "5pCmb6i1tWk",
+            "title": "NBC News NOW Full Broadcast - June 4th, 2021",
+            "secondDuration": 2887,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

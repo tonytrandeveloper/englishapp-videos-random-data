@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4iZT6VTlcMQ",
-            "title": "Donald Trump | GOP Leaders Refuse to Support Presumptive Nominee",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "dX5A6zyUvdE",
             "title": "One Direction Breaks Billboard Record | ABC News",
             "secondDuration": 220,
@@ -121,8 +115,14 @@
             "title": "R. Kelly’s guilt for sexual abuse essentially a ‘done deal:’ Legal analyst",
             "secondDuration": 355,
             "group": "group_7"
+        },
+        {
+            "videoId": "k7xbdJ4vrfQ",
+            "title": "‘Right out of the Russian playbook’: Retired general on Russia’s strategy",
+            "secondDuration": 332,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

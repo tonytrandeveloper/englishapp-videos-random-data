@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qWFoRKPaTVU",
-            "title": "Bill Nye \"The Science Guy\" Refutes Bill Belichick's 'Deflate-Gate' Explanation",
-            "secondDuration": 308,
-            "group": "group_7"
-        },
-        {
             "videoId": "vq1BpqMB80s",
             "title": "2 Americans among 8 killed in NYC truck attack",
             "secondDuration": 585,
@@ -121,8 +115,14 @@
             "title": "National emergency declaration over border now facing court fights",
             "secondDuration": 403,
             "group": "group_7"
+        },
+        {
+            "videoId": "t2L3dTZ55XE",
+            "title": "Silent Strokes Linked to Lost Memory in Older Adults",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

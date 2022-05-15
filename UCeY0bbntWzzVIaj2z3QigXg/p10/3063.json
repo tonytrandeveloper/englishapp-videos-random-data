@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gziktjtlH0Y",
-            "title": "Halloween on TODAY",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "40boBrhgVyY",
             "title": "Senator Bob Menendez Briefly Breaks Down Following Mistrial | NBC News",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Annapolis Authorities: Five Dead, Shooting Suspect In Custody | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "OPq4P_sM9s4",
+            "title": "Live: Update In George Floyd Investigation | NBC News",
+            "secondDuration": 1373,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

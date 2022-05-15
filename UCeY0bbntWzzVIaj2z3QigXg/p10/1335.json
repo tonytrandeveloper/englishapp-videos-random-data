@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QlJ7865dI0s",
-            "title": "Joe Biden Pays Respects To Rep. John Lewis | NBC News NOW",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "GOLx0Y9hvxE",
             "title": "L.A. Mayor Eric Garcetti Outlines Eventual Steps For Beach Reopening | NBC News NOW",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Watch Tornadoes, Heavy Rains From Dorian Hit The Carolinas | NBC News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "fCOYuur9AHo",
+            "title": "Deserted Paris Streets Show The Full Effect Of Coronavirus Lockdown | NBC News",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

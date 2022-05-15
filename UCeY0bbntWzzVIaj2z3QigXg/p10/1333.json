@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wAmbqX0YUTc",
-            "title": "White House Press Briefing - April 4, 2018 | NBC News",
-            "secondDuration": 2606,
-            "group": "group_7"
-        },
-        {
             "videoId": "2mp-ECak0Rs",
             "title": "Nuns and Activists Join Together To Protect Chapel In Path Of Pipeline | NBC News",
             "secondDuration": 348,
@@ -61,8 +55,14 @@
             "title": "Passengers From Cruise Ship Start Journey Home After Testing Negative For Coronavirus | NBC News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "7c2hVmafW3E",
+            "title": "Jack Yates High School Holds Candlelight Vigil For George Floyd | NBC News",
+            "secondDuration": 1701,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "A1pWZ0UV27M",
-            "title": "California Fires Leave Behind Apocalyptic-Like Destruction",
-            "secondDuration": 420,
-            "group": "group_7"
-        },
-        {
             "videoId": "KUWs0K_2wIs",
             "title": "Biden orders 3,000 US troops to back up NATO in Eastern Europe",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "Pentagon spokesperson: 'Deeply concerned about escalation and violence'",
             "secondDuration": 331,
             "group": "group_7"
+        },
+        {
+            "videoId": "60tnvkpnSjM",
+            "title": "'Up' For The Challenge",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

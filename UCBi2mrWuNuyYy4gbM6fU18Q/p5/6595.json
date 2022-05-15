@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EU28Ty_IF1k",
-            "title": "Dramatic dog rescue",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "sxzjfT7KbMY",
             "title": "New Details About San Bernardino Mass Shooting Suspects",
             "secondDuration": 294,
@@ -31,8 +25,14 @@
             "title": "JetBlue Pilot Video: Hero Passenger David Gonzalez Explains Pilot Clayton Osbon's Mid-Air Meltdown",
             "secondDuration": 318,
             "group": "group_7"
+        },
+        {
+            "videoId": "N3KFKpKt6JM",
+            "title": "George Zimmerman Jury Selection Set to Begin",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

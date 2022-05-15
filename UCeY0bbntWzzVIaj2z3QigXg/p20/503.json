@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HmfMeEFMm8c",
-            "title": "Bernie Sanders Hits Joe Biden Over Support For Iraq War | NBC News",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "uufBZYJ5Lok",
             "title": "Chicago Officer Investigated After Video Shows Him Body-Slamming Man | NBC Nightly News",
             "secondDuration": 87,
@@ -121,8 +115,14 @@
             "title": "Morning News NOW Full Broadcast - May 13 | NBC News NOW",
             "secondDuration": 3112,
             "group": "group_7"
+        },
+        {
+            "videoId": "v48K9qj2zRc",
+            "title": "FAA Issues Safety Bulletin Over ‘Angle Of Attack’ Sensors On After Lion Air Crash | NBC Nightly News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

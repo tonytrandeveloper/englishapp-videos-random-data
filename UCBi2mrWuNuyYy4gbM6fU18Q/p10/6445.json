@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VLaBUCqNflw",
-            "title": "Amplified: Cee Lo",
-            "secondDuration": 519,
-            "group": "group_7"
-        },
-        {
             "videoId": "_ls7Ua_EHgw",
             "title": "Skiers enjoy aurora borealis in Finland",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Nancy Reagan, an Influential Force During the Reagan Administration",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "FJfG4AdJXuo",
+            "title": "Senate to vote in historic impeachment trial | ABC News",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

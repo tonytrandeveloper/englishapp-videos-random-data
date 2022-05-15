@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z4vC4-6uUVk",
-            "title": "Jennifer Aniston Has A Special Song for her Dog",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "RCcuFwPXlY8",
             "title": "Michelle Obama on Role in President's Campaign",
             "secondDuration": 446,
@@ -61,8 +55,14 @@
             "title": "2 former aides of Cuomo speak out on his behavior | WNT",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "NrjmUtHlUeU",
+            "title": "CEOs give presentations at Disney Accelerator Program's 5th Annual Demo Day",
+            "secondDuration": 1617,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

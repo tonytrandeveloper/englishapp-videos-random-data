@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "sSZN8EEXjHA",
-            "title": "Heroic 7-Year-Old Saves Dad’s Life After Medical Emergency",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "RYKcVlli3zg",
             "title": "Venus and Serena Williams; Game, Set Documentary",
             "secondDuration": 153,
@@ -301,8 +295,14 @@
             "title": "Homeless Man Finds $3,300 Cash, Returns It | Nightline | ABC News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "FCF6QW2xSXc",
+            "title": "FBI posts serial killer’s jailhouse confessions l ABC News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

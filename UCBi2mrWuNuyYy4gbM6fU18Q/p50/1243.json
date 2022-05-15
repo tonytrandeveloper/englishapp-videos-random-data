@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "WaCppPAcDTQ",
-            "title": "Harrison Ford on Playing Han Solo, Indiana Jones",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "wk7GagYswEM",
             "title": "Wounded Warrior Finds a New Way to Fight for His Country",
             "secondDuration": 111,
@@ -301,8 +295,14 @@
             "title": "Officer Daniel Hodges testifies on Jan. 6 insurrection",
             "secondDuration": 1079,
             "group": "group_7"
+        },
+        {
+            "videoId": "ddhTGqqY1xc",
+            "title": "Donald Trump Jr Interview on Inauguration Day",
+            "secondDuration": 318,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

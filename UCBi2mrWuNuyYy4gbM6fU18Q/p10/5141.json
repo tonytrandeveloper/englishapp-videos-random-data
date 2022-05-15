@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RailU176mLc",
-            "title": "Video of Dramatic El Chapo Raid  | ABC News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z9iF-qrj9kg",
             "title": "Judge berates former USA Gymnastics doctor Larry Nassar in court",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "A dramatic rescue after a car goes into a creek in Oklahoma",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "uGkJt3w791g",
+            "title": "Poisoned Russian opposition leader shares defiant warning",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

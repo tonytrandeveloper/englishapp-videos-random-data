@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dsXEM0q3C_Q",
-            "title": "Morning News NOW Full Broadcast - August 25",
-            "secondDuration": 2898,
-            "group": "group_7"
-        },
-        {
             "videoId": "7IZsIKtkgPI",
             "title": "Earliest Snowfall On Record Blankets Northern New Mexico | NBC News NOW",
             "secondDuration": 50,
@@ -31,8 +25,14 @@
             "title": "Chicago Cubs Manager Joe Maddon Describes His Childhood Baseball Days | Megyn Kelly | NBC News",
             "secondDuration": 44,
             "group": "group_7"
+        },
+        {
+            "videoId": "7J3TUV0Ztvk",
+            "title": "Bowe Bergdahl Sentencing: No Prison Time, Dishonorable Discharge | NBC Nightly News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "k2DQqdf-YdM",
-            "title": "Ethiopian investigators release raw black box data",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "wvfXwZIOuFM",
             "title": "Josh Brown Interview on Domestic Abuse Allegations | ABC News",
             "secondDuration": 359,
@@ -31,8 +25,14 @@
             "title": "New Research Shows Dangers of Distracted Driving",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "kPZPIH2p7F4",
+            "title": "ABC News Live Update: Early evidence of new variant spreading in NYC",
+            "secondDuration": 1508,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

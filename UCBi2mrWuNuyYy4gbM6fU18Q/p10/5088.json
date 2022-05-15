@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PLYy86lC6gA",
-            "title": "Sen. Menendez and Rep. Royce 'This Week' Interview",
-            "secondDuration": 358,
-            "group": "group_7"
-        },
-        {
             "videoId": "cdbxhj2ssQA",
             "title": "Muhammad Ali Interview with Barbara Walters [1978]",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "Kim Kardashian calls for Brendan Dassey’s release | ABC News",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "mPg5Jo7KswE",
+            "title": "Gen. Powell Discusses Grad Nation Campaign",
+            "secondDuration": 329,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

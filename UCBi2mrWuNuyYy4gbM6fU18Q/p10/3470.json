@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t_x2ey2IDDk",
-            "title": "Violence escalates between Palestinians, Israelis in Middle East l ABC News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "sq2tciGtsI4",
             "title": "Mobile Free Clinic Helps Thousands in a Weekend",
             "secondDuration": 340,
@@ -61,8 +55,14 @@
             "title": "Priest Missing | Florida Authorities Search for Father Rene Roberts",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "iq8zYoz03qE",
+            "title": "Trump's talk of immigration reform in State of the Union falls flat with Democrats",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

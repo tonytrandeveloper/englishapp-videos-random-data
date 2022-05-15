@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HU10H6Ktzd8",
-            "title": "School Shooting Reported In Florida | NBC News",
-            "secondDuration": 328,
-            "group": "group_7"
-        },
-        {
             "videoId": "gPNuS6BRynU",
             "title": "Navy Secretary Fired Amid Growing SEAL Controversy | NBC Nightly News",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "Sen. Amy Klobuchar On 2020: ‘I’m The One That Can Beat Donald Trump’ | NBC News NOW",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "uNbT21HZmdc",
+            "title": "Exclusive: Inside Look At World’s First 3D-Printed Rocket",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

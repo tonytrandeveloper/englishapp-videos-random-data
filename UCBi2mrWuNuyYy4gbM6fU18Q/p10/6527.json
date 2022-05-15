@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XAHoF6JKdbQ",
-            "title": "2 Chicago officers fatally struck by train while pursuing suspect",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "eguCrGR1xbI",
             "title": "State of the Union 2016: President Obama Celebrates the American Spirit of Innovation",
             "secondDuration": 203,
@@ -61,8 +55,14 @@
             "title": "Donald Trump's news conferences continues to echo across America",
             "secondDuration": 321,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q-W26SpbZcc",
+            "title": "Instant Index: 'SNL' Star Jason Sudeikis Engaged to Olivia Wilde",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

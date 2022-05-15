@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "xRJenm7GFJI",
-            "title": "Meet The Helicopter Pilot Who Saved Lives During Hurricane Maria | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "7ul0RGj-mGg",
             "title": "Worst Health Crisis For A President In Decades | NBC Nightly News",
             "secondDuration": 515,
@@ -301,8 +295,14 @@
             "title": "Boeing Fires Its CEO ‘To Restore Confidence’ Amid 737 Max Crisis | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "i0vkFKqxzGg",
+            "title": "Growing Concerns As Coronavirus Cases Surge In Reopening States | NBC Nightly News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

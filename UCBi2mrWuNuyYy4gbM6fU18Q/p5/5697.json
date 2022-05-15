@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SlALTKoUzBQ",
-            "title": "Washington Nationals' $15 Million Pitcher",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "lrNPi0jwV50",
             "title": "The US economy explained by Rebecca Jarvis | ABC News",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "Dog Pushes Cat in Baby Stroller, Rides Lawn-mower, Scooter: Caught on Tape",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "NyROdVdtqRQ",
+            "title": "Tornadoes leave trail of destruction in Texas l ABC News",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

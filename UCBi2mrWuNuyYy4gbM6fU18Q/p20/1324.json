@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "iTCr_gY_BtY",
-            "title": "Trump begins 17-day vacation as Russia investigation heats up",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "a7A9YJVipbk",
             "title": "Ted Cruz Touts His Endorsements at Indiana Stop",
             "secondDuration": 55,
@@ -121,8 +115,14 @@
             "title": "Atlanta, Houston Races Could See Firsts",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "S26NCogp08o",
+            "title": "Djokovic’s Australian visa canceled for a second time",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

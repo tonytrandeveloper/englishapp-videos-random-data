@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jNF2V29upvM",
-            "title": "Prosecutor Releases New Details on Pennsylvania Killing Spree | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "ByoeF1DgJ3c",
             "title": "One Last Time: President Obama’s Final State of the Union Address | NBC Nightly News",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Worldwide Adventurer, Mother Of Five Keeps Exploring While Fighting Cancer | NBC News NOW",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "XvkK7gSsqjY",
+            "title": "America's Talks With Cuba Officially Begin | NBC Nightly News",
+            "secondDuration": 235,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

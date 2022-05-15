@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xYGXHknKdVY",
-            "title": "Hollywood's Favorite Extra in GoDaddy Super Bowl Ad",
-            "secondDuration": 237,
-            "group": "group_7"
-        },
-        {
             "videoId": "G7UX-_M1Gqw",
             "title": "White House press briefing on Supreme Court pick, Michael Cohen, immigration | ABC News",
             "secondDuration": 2179,
@@ -31,8 +25,14 @@
             "title": "Jennifer Connelly Interview 2014: Actress Says 'Noah' Is 'True to the Spirit of the Bible'",
             "secondDuration": 285,
             "group": "group_7"
+        },
+        {
+            "videoId": "uZr7JKInt6g",
+            "title": "Former Ukrainian professional tennis player on front lines against Russia",
+            "secondDuration": 332,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

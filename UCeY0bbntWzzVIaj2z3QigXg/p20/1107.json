@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QKOlWygdf3c",
-            "title": "Protests Continue In Michigan After Deadly Police Shooting",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y44mudH3xx0",
             "title": "15 Million Johnson & Johnson Covid Vaccine Doses Destroyed By Ingredient Mix-Up | NBC Nightly News",
             "secondDuration": 125,
@@ -121,8 +115,14 @@
             "title": "At GOP Retreat, President Trump Claims Republicans Experiencing ‘A Great Coming Together’ | NBC News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "XdF0x-yw_vw",
+            "title": "Americans Living On Fixed Incomes Struggle With Increase In Cost Of Living",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

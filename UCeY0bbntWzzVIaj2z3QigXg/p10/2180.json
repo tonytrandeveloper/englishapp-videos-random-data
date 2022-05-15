@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vC76lAT87F0",
-            "title": "Nightly News Full Broadcast - November 4th",
-            "secondDuration": 1123,
-            "group": "group_7"
-        },
-        {
             "videoId": "8IU5cbNQjuc",
             "title": "White House To Wind Down Coronavirus Task Force | NBC Nightly News",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "House Passes Police Reform Bill Named After George Floyd | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yr_kdwca03g",
+            "title": "Trump impeached after historic vote | NBC News (Live Stream Recording)",
+            "secondDuration": 42901,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

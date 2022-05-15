@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "L1zgcARNXk4",
-            "title": "Thousands of flights canceled as travel chaos continues | On Location",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "4I1vXnbV9GE",
             "title": "Former Vice President Joe Biden lays out plan to combat coronavirus | ABC News",
             "secondDuration": 241,
@@ -121,8 +115,14 @@
             "title": "Ex-Penn State Coach in Abuse Scandal",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "7ezmjZevXnk",
+            "title": "'Back to the Beginning' Christiane Amanpour Part 5: Moses on Mount Sinai: The Ten Commandments",
+            "secondDuration": 516,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

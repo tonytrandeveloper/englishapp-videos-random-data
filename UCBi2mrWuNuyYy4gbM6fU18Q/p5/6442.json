@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jHkrwdoNIT8",
-            "title": "What is genocide and has the legal threshold been crossed in Ukraine?",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "vpXaYny2RQA",
             "title": "WEBCAST: JPMorgan Among Banks Hit with Cyberattack",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "ABC News Update: Death toll expected to rise after partial building collapse",
             "secondDuration": 1608,
             "group": "group_7"
+        },
+        {
+            "videoId": "3Ny9sYh12TA",
+            "title": "Poland, Pentagon at odds over fighter jets to Ukraine",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

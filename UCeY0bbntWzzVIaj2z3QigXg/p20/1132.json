@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ozc2KPURZ5g",
-            "title": "NBC Nightly News Broadcast (Full) - July 30th, 2021",
-            "secondDuration": 874,
-            "group": "group_7"
-        },
-        {
             "videoId": "QHZyheLJ3rU",
             "title": "Cuomo Defiant As Top Lawmakers Call For Him To Resign | NBC Nightly News",
             "secondDuration": 175,
@@ -121,8 +115,14 @@
             "title": "Mike Bloomberg Calls Bernie Sanders 'Dead Wrong' For Boycotting AIPAC | NBC News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "WG6cX9FkU1Y",
+            "title": "Kellyanne Conway: 'Nobody Likes' Immigration Policy Separating Families | Meet The Press | NBC News",
+            "secondDuration": 711,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

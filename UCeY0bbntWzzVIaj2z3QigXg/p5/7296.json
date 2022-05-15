@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "m5PzRJ2URc8",
-            "title": "Top Story with Tom Llamas - Jan. 6 | NBC News NOW",
-            "secondDuration": 3005,
-            "group": "group_7"
-        },
-        {
             "videoId": "wXVkIo8oCPM",
             "title": "U.S. Aid Organizations Pushed To Brink After Summer Of Natural Disasters | NBC Nightly News",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Two US Special Forces Killed In Anti-ISIS Raid In Afghanistan | NBC Nightly News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "AxvzI_3TuEU",
+            "title": "Live: Trump Speaks At Campaign Rally In North Carolina | NBC News",
+            "secondDuration": 4604,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

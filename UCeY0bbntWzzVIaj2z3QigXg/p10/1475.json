@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hs9GoTYAViQ",
-            "title": "Aleppo’s Children: On the Frontline With Syria’s White Helmets | NBC Nightly News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "rzj2mWU5NeM",
             "title": "Singing Protesters Interrupt Pete Buttigieg At New Hampshire Town Hall | NBC News",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Hurricane Laura Set To Strike Gulf Coast | NBC Nightly News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "ckX-45BgyIM",
+            "title": "Trump Reverses Course, Says ‘Of Course’ He Would Report Foreign Dirt To FBI | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7Pwc5h5ugPA",
-            "title": "WEBCAST: Anthony Weiner",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "BLa8o2WcVXQ",
             "title": "Isaias now a hurricane, heads toward Bahamas and US East Coast l GMA",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "Biden on 9/11: 'The World Goes On'",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "bhj0qoKv4ew",
+            "title": "Medical professionals dealing with COVID-19",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

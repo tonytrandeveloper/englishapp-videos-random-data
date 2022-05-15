@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KniWzz29pMs",
-            "title": "'Rawhide Down' Author on 'Top Line'",
-            "secondDuration": 388,
-            "group": "group_7"
-        },
-        {
             "videoId": "AUr5kfNCQ4s",
             "title": "Washington Post's Karen Tumulty on 'Top Line'",
             "secondDuration": 296,
@@ -31,8 +25,14 @@
             "title": "Broadway cast performances LIVE in New York City's Bryant Park | ABC News",
             "secondDuration": 4077,
             "group": "group_7"
+        },
+        {
+            "videoId": "bo1DtQVdFnM",
+            "title": "Pentagon holds briefing amid Russia-Ukraine tension",
+            "secondDuration": 596,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MwaK-SmcIx0",
-            "title": "Americans brace for possible approach of coronavirus peak l ABC News",
-            "secondDuration": 353,
-            "group": "group_7"
-        },
-        {
             "videoId": "y16e4T0VnEU",
             "title": "Katy Perry's 'Roar' Contest Winners Prepare for the Big Event",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "The Conversation: Twitter's Satirical BP Star",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "RFvRAGs9sSU",
+            "title": "Primetime Family Secrets: Teen Pregnancy",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

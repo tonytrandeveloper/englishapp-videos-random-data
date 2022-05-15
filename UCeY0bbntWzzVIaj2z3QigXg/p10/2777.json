@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-55YZCWzpAM",
-            "title": "Full Giror: 'It's Got To Be Science Driving The Policy' | Meet The Press | NBC News",
-            "secondDuration": 660,
-            "group": "group_7"
-        },
-        {
             "videoId": "7LP2X7H85Ss",
             "title": "Harris Criticizes Supreme Court Case Against The Affordable Care Act | NBC News",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Watch: Attorney General William Barr’s Full News Conference On Mueller Report | NBC News",
             "secondDuration": 1346,
             "group": "group_7"
+        },
+        {
+            "videoId": "L9QGRclrLr4",
+            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
+            "secondDuration": 1711,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LHvlUyQ3duQ",
-            "title": "Sen. Bernie Sanders addresses supporters on Super Tuesday | ABC News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "pyA6uc5SSgw",
             "title": "Hunt Still on for NY Terror Suspects",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "Video Shows NY Inmates' Escape Route",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "PJRCtlyJTR4",
+            "title": "White House monitoring San Jose shooting, points to 'epidemic of gun violence'",
+            "secondDuration": 643,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IuZAYexpEzs",
-            "title": "Democratic Witness Pamela Karlan: Trump’s Actions ‘Would Have Horrified’ Framers | NBC News",
-            "secondDuration": 549,
-            "group": "group_7"
-        },
-        {
             "videoId": "qI1nXKSi5RQ",
             "title": "Far-Right Protests In Germany Sparked By Fatal Stabbing | NBC News",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "Biden Delivers Remarks On Child Tax Credit Relief Payments | NBC News",
             "secondDuration": 995,
             "group": "group_7"
+        },
+        {
+            "videoId": "CmDl2rMrRKQ",
+            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
+            "secondDuration": 1525,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

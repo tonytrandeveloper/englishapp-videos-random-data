@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EDqsIFQqjqE",
-            "title": "Germanwings Pilot: Cockpit Entry Locked Before Crash",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "tTz0SjLS848",
             "title": "Nancy Pelosi says Trump needs 'an intervention'",
             "secondDuration": 50,
@@ -121,8 +115,14 @@
             "title": "'Shark Tank's' most memorable moments as it launches Season 10",
             "secondDuration": 387,
             "group": "group_7"
+        },
+        {
+            "videoId": "qxLcBQNLsoA",
+            "title": "The Briefing Room: Amber Guyger found guilty, Impeachment showdown, 2020 candidates latest",
+            "secondDuration": 1701,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

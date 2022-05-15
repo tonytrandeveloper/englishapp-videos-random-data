@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MQiayVb4_p4",
-            "title": "NBC News Upfront",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "j6nF891_thQ",
             "title": "Why The First Amendment Can't Protect Trump Ban on Facebook, Twitter",
             "secondDuration": 177,
@@ -61,8 +55,14 @@
             "title": "Family Of Teen Body-Slammed By School Officer Demands His Firing | NBC News NOW",
             "secondDuration": 378,
             "group": "group_7"
+        },
+        {
+            "videoId": "A9YlI9QOWww",
+            "title": "Remembering ‘The Miracle On The Hudson’ | NBC News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

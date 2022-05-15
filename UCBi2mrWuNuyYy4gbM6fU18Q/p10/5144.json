@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dxXQGVSv6kQ",
-            "title": "El Chapo Makes Court Appearance in New York",
-            "secondDuration": 42,
-            "group": "group_7"
-        },
-        {
             "videoId": "HBNmW4F6uPc",
             "title": "Soldier Surprises Daughter at Michigan Intermediate School",
             "secondDuration": 52,
@@ -61,8 +55,14 @@
             "title": "Angelina Jolie, senators announce path on Violence Against Women Act l ABC News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "uYFvE01SO0s",
+            "title": "4 dead, including cop and hospital workers after shooting in Chicago",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

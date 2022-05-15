@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5DtYufJ5Jtg",
-            "title": "LeBron James Faces Critics",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "RzNJxweGRmw",
             "title": "Recession Rebound?",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Jeb Bush Says He Misheard Iraq War Question",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "knmTAqJ-0w8",
+            "title": "Behind Trump's Plan to Move the US Embassy to Jerusalem",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

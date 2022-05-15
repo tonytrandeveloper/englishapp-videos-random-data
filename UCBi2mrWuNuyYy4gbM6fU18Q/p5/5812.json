@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "njVPfBZzfZs",
-            "title": "Disturbed Mind of Elliot Rodger",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "AuwayMjvuT0",
             "title": "Inside Visa: Preventing Card Fraud",
             "secondDuration": 374,
@@ -31,8 +25,14 @@
             "title": "NASA's Apollo Engines Recovered from the Ocean",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "WH7LtabdhoI",
+            "title": "College Board Announces Big Changes in SAT Exam",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VIS4ZcXmyiI",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 2606,
-            "group": "group_7"
-        },
-        {
             "videoId": "JaUcb8JQUrw",
             "title": "Three Families, Three Paths To Recovery | NBC News",
             "secondDuration": 379,
@@ -61,8 +55,14 @@
             "title": "Trump Grants Pardon To Ex-Felon At 2020 RNC | NBC News",
             "secondDuration": 290,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ij0u1kM3YC0",
+            "title": "Live: NBC News Special Report: The President Hospitalized",
+            "secondDuration": 3579,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

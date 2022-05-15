@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WrzGsXdtUq8",
-            "title": "Cruise Ship Passenger Details Conditions",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "or9SqQDoDw0",
             "title": "John Oliver on Making Current Events Funny",
             "secondDuration": 210,
@@ -61,8 +55,14 @@
             "title": "Andrew Pollack's speech at the 2020 RNC",
             "secondDuration": 354,
             "group": "group_7"
+        },
+        {
+            "videoId": "3B8UMTLL3OU",
+            "title": "Pelosi announces Trump impeachment inquiry l ABC News",
+            "secondDuration": 250,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

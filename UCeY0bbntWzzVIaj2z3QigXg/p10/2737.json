@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "U9Y40byg9mY",
-            "title": "5 Spectacular Celestial Events Of 2017 That Had Us Looking Up At The Skies | Mach | NBC News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "L4K0R9soGoM",
             "title": "Full Buttigieg: We Need 'To Stand Up For Human Rights' Around The World | Meet The Press | NBC News",
             "secondDuration": 988,
@@ -61,8 +55,14 @@
             "title": "Man Charged In Foiled Cleveland 4th Of July Bomb Plot | NBC Nightly News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "ReuJWkXlMs8",
+            "title": "Exclusive Look At Rocket Set To Take Richard Branson To Space",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cHO9fCzHeUA",
-            "title": "Ben Carson on Donald Trump: 'We Buried the Hatchet' [FULL SPEECH]",
-            "secondDuration": 226,
-            "group": "group_7"
-        },
-        {
             "videoId": "rcHYB1qLTg4",
             "title": "5 dead in shooting at Annapolis newspaper, shooter in custody | WJLA-TV coverage",
             "secondDuration": 9481,
@@ -61,8 +55,14 @@
             "title": "Prosecutors show jurors how Omar Mateen entered the Pulse nightclub",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ov5a7LHFQBs",
+            "title": "JetBlue: All You Can Fly for $599",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

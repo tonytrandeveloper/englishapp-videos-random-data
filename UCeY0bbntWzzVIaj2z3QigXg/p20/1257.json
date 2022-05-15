@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wWqDxIvIQEc",
-            "title": "Ed Sheeran Discusses 'Game Of Thrones' Appearance In The Lightning Round | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "DdKCbq0OivQ",
             "title": "What Caffeine Does To Your Brain And Why You Love It | Better | NBC News",
             "secondDuration": 149,
@@ -121,8 +115,14 @@
             "title": "New Study Shows More Kids Are Thinking About Suicide | NBC Nightly News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZV3nMj90yes",
+            "title": "Second Texas Health Worker Diagnosed With Ebola | NBC News",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CDrNcFedgUM",
-            "title": "Dozens Injured When Floor Collapses At South Carolina Party | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "QD40traBo8s",
             "title": "Witnesses Describe London Bridge Terrorist Attack | NBC News",
             "secondDuration": 114,
@@ -121,8 +115,14 @@
             "title": "Continued Coronavirus Outbreak Causes Slow Response For Passengers Still Stranded On Cruise Ship",
             "secondDuration": 454,
             "group": "group_7"
+        },
+        {
+            "videoId": "q8GTuTVWSik",
+            "title": "Gen. Milley Warns Russia Could Invade Ukraine With ‘Little Warning’",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

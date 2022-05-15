@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uAyqz47qoh8",
-            "title": "CDC Reports Rise in Covid Cases As Delta Variant Spreads",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "HlFsIUDnS2k",
             "title": "NBC News Exclusive: Andrea Constand Speaks Out | NBC Nightly News",
             "secondDuration": 53,
@@ -61,8 +55,14 @@
             "title": "A For Average, B For Bad: Behind The Model Minority Myth | NBC Asian America",
             "secondDuration": 453,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sl1cqJ2VBK8",
+            "title": "Raw: Kurdish Peshmerga Drive ISIS From Sinjar | NBC News",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

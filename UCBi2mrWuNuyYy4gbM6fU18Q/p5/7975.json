@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3tLG0KGh2Mg",
-            "title": "Aspiring pastor charged with murdering his wife",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "ucbqHN4Nyjc",
             "title": "Ron Johnson: No New Tax Cuts",
             "secondDuration": 374,
@@ -31,8 +25,14 @@
             "title": "Wildfires in California spread dangerously close to Hollywood | ABC News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "iGqgdCCLzdU",
+            "title": "Lost Massachusetts Boys Rescued in Swamp",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

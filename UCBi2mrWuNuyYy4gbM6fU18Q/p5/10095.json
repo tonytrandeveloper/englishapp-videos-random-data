@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ox-TjCORzMY",
-            "title": "GIF Helps Curb Anxiety",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "HBrLX_CcMpU",
             "title": "Fugitive Banker, Aubrey Lee Price, Allegedly Embezzles Over $21 Million",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "Christians around the world celebrate Easter",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "021xU7zaiR8",
+            "title": "At least 2 dead, 200 injured in Taiwan earthquake",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

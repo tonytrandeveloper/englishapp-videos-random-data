@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "d39DPyS4nq4",
-            "title": "Marc Ecko Complex Media | Real Biz with Rebecca Jarvis | ABC News",
-            "secondDuration": 572,
-            "group": "group_7"
-        },
-        {
             "videoId": "6EWR7fBanRI",
             "title": "Adnan Syed Granted a New Trial",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Kerry Kennedy Driving on Ambien",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "KYK5ANwnJ7M",
+            "title": "Hillary Clinton Remarks on Brussels Terror Attacks",
+            "secondDuration": 450,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

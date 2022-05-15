@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PpVbBhZPbKY",
-            "title": "Boston Health Centers Work To Vaccinate Massachusetts’ Most Vulnerable | NBC News NOW",
-            "secondDuration": 331,
-            "group": "group_7"
-        },
-        {
             "videoId": "X95hf5KB47o",
             "title": "Hurricane Eta Survivors Rescued By Army Helicopter In Guatemala | NBC News NOW",
             "secondDuration": 77,
@@ -61,8 +55,14 @@
             "title": "What Are The Recount Rules In The Closest Battleground States? | NBC News",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "LLQT1RFfkHY",
+            "title": "Empty Streets And Subways: Coronavirus Lockdown Hits Milan | NBC News",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

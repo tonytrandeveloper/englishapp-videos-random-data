@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-36ppZsistU",
-            "title": "Sen. Joe Manchin to vote to begin debate on updated voting rights bill",
-            "secondDuration": 358,
-            "group": "group_7"
-        },
-        {
             "videoId": "fUOMYeQ812c",
             "title": "Baggage Handler Describes Waking Up in Plane's Cargo Hold",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Questions over White House COVID protocols after recent resurgence",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "qzC5ptlCNbI",
+            "title": "Video of Michael Phelps Swerving in a Maryland Tunnel",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

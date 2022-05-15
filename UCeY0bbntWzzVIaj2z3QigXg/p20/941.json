@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "A06u46HW-v0",
-            "title": "Judge Terminates Conservatorship Over Britney Spears",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "lQGsr9HAQ2E",
             "title": "Texas Gov. Abbot Signs Controversial Elections Integrity Bill Into Law",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "Timelapse: Hawaii Lava Flow Scorches Earth | NBC News",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "WMYTaJBKUts",
+            "title": "MSU Athletic Director Resigns To Give Survivors And University A Chance 'To Heal' | NBC News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

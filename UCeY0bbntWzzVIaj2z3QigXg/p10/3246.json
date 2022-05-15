@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vwfZXz87cYI",
-            "title": "LIVE: Nancy Pelosi Holds Weekly Press Conference | NBC News",
-            "secondDuration": 2536,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wzd4jqgZk6U",
             "title": "Florida Building Collapse: Investigators Looking Into Potential Cause",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Coronavirus Outbreak: States Shutdown Restaurants And Bars To Slow Spread | NBC Nightly News",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "C2N7ObmgGbw",
+            "title": "'Now Is The Moment To Get Brexit Done': U.K. Prime Minister Hails E.U. Divorce Deal | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

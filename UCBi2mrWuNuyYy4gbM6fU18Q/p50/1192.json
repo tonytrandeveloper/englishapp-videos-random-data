@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "R7lnPgwCF-8",
-            "title": "United Airlines Flight Attendant Fired After Deploying Emergency Slide",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "lfsZuMJgJxA",
             "title": "Politico's Jonathan Martin on 'Top Line'",
             "secondDuration": 202,
@@ -301,8 +295,14 @@
             "title": "Ann Romney Gives Out Treats Before 2012 Republican Convention Speech",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "z6Ky6gOgsDk",
+            "title": "Some US states temporarily pause gas tax amid record-high prices",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

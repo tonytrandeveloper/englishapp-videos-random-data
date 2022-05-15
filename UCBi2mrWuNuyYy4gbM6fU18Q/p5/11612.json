@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9mT0zFR9us8",
-            "title": "World Health Organization declares coronavirus a pandemic | ABC News",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "GaQd7sXnask",
             "title": "Physician says declining numbers of coronavirus cases can be \"double-edged sword\" | ABC News",
             "secondDuration": 209,
@@ -31,8 +25,14 @@
             "title": "Experts predict more than 230,000 U.S. coronavirus deaths by November",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "dqAvWeo4fSU",
+            "title": "47 Years Since Dr. Martin Luther King Jr. Was Gunned Down",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xNVwflweNwA",
-            "title": "Tennessee Wildfire: Two Juveniles Arrested, Charged With Arson | NBC News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "unnM28tCVdM",
             "title": "Top Story with Tom Llamas - April 15 | NBC News NOW",
             "secondDuration": 2390,
@@ -61,8 +55,14 @@
             "title": "Kremlin Relies On Propaganda, Censorship To Shield Russians From Reality Of War",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "BcWVHkrDZMY",
+            "title": "U.S. And Denmark Face Allegations Of Spying On European Allies",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

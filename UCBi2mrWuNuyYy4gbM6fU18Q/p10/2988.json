@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9Fq-l19dCa4",
-            "title": "TrumpLand Documentary | Michael Moore's October Surprise",
-            "secondDuration": 387,
-            "group": "group_7"
-        },
-        {
             "videoId": "G7GDNhC1VF0",
             "title": "‘We’re dealing with a national emergency’: Sanders on coronavirus",
             "secondDuration": 389,
@@ -61,8 +55,14 @@
             "title": "Ron Bonjean: GOP Needs to 'Stick to Principles'",
             "secondDuration": 313,
             "group": "group_7"
+        },
+        {
+            "videoId": "-XTS3DHDfvU",
+            "title": "Flash flooding hits towns from Texas to Pennsylvania",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

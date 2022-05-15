@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g7URL0W1xwU",
-            "title": "Being Muslim In America | NBC News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "usiiEs_S4Pk",
             "title": "Full Speech: Biden Announces Measures To Combat Omicron Variant",
             "secondDuration": 1325,
@@ -61,8 +55,14 @@
             "title": "How A Government Shutdown Will Affect You | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "fhC7azb53ag",
+            "title": "Coronavirus Researchers Report Progress In Race For Vaccine | NBC Nightly News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

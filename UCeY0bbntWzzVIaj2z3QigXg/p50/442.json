@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "PiT6jL4YNP8",
-            "title": "This Morning’s Top Headlines – August 23 | Morning News NOW",
-            "secondDuration": 1254,
-            "group": "group_7"
-        },
-        {
             "videoId": "gpcTb5937L0",
             "title": "Ben Carson:  U.S. Should Not Elect a Muslim as President | NBC Nightly News",
             "secondDuration": 203,
@@ -301,8 +295,14 @@
             "title": "Oscars 2018: Celebrities Take A Stand, From #MeToo To Dreamers | NBC News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "SjsXtXftZhU",
+            "title": "President Donald Trump Holding Rally Amid Tensions With GOP | NBC Nightly News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

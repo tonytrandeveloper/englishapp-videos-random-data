@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "atMG2eCGQe4",
-            "title": "On Yosemite’s El Capitan, Climber Makes History With His Bare Hands | NBC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "nkjYzibGkk0",
             "title": "Shrinking Salmon, Fewer Clams: Climate Change Devastating Seafood Industry",
             "secondDuration": 327,
@@ -121,8 +115,14 @@
             "title": "One-Minute Meditation Routine To Start Or End Your Day | Better | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "uAyqz47qoh8",
+            "title": "CDC Reports Rise in Covid Cases As Delta Variant Spreads",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

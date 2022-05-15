@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0_XwqZ69SrI",
-            "title": "MTV's 'Slednecks' Portrays Living on the Edge in Alaska",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "coF6_Ct0LiM",
             "title": "Sarah Palin, Michelle Obama, Beyonce Hacked: Secret Service Involved",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "ABC News Prime: Search for survivors in FL; Chauvin sentenced to 22.5 years; AG on voting rights",
             "secondDuration": 3761,
             "group": "group_7"
+        },
+        {
+            "videoId": "E6_swIQvFEE",
+            "title": "Top Line: Rep. Levin: Political Tide 'Turning' on Health Care",
+            "secondDuration": 584,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

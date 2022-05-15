@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "J54jyx37dSc",
-            "title": "Breonna Taylor grand jury tapes released",
-            "secondDuration": 350,
-            "group": "group_7"
-        },
-        {
             "videoId": "DoBZiUBK8FY",
             "title": "GOP working to gather support for Senate health care bill",
             "secondDuration": 346,
@@ -31,8 +25,14 @@
             "title": "The Bottom Line on Tuesday's Elections",
             "secondDuration": 225,
             "group": "group_7"
+        },
+        {
+            "videoId": "-yx0bTPVob0",
+            "title": "Logan Paul interview: YouTube star speaks out after controversial video",
+            "secondDuration": 420,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

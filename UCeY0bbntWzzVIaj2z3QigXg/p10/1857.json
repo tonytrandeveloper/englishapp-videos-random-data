@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bs3PzbYnmzE",
-            "title": "Mayor Bill de Blasio: 'This Was An Act of Terror' | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "_DXxetVrW10",
             "title": "What ‘Cisgender' Means | Queer 2.0 | NBC Out",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Nancy Pelosi Proclaims 'Victory' After GOP Pulls Health Care Bill | NBC News",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "W-Ji3kZPsgY",
+            "title": "Live: Illinois Gov. Pritzker Gives Coronavirus Update | NBC News",
+            "secondDuration": 2227,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-t2zTQW6yis",
-            "title": "Deadly Pileup in Florida 'Superfog': 911 Calls",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "7YL6PdK1csw",
             "title": "Clinton Blasts Trump With Olympic Commercials",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "NASA releases new images from Mars",
             "secondDuration": 371,
             "group": "group_7"
+        },
+        {
+            "videoId": "rdpFhptl04Q",
+            "title": "All-New 20/20 Event Special | Friday at 9/8c on ABC | ABC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

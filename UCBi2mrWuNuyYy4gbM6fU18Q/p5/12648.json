@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wdpcg3QjzEA",
-            "title": "Vaccines Stored Improperly: Warning for Parents",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "ygcZmDFRnd0",
             "title": "Trump, Canadian PM Justin Trudeau Full Press Conference | ABC News",
             "secondDuration": 2044,
@@ -31,8 +25,14 @@
             "title": "LAPD releases bodycam footage after teen is killed",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "4UV0aTejRnk",
+            "title": "NYC on Edge After Powerful Explosion in Harlem Kills 3",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

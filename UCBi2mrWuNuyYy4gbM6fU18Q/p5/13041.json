@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Fqub0GF8-Ng",
-            "title": "Trump Plane Flies Over Ted Cruz Event",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "l0YgSQQgzuw",
             "title": "Russian forces get closer to Ukraine border as tensions rise l GMA",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Schumer, Cornyn and Health Care",
             "secondDuration": 789,
             "group": "group_7"
+        },
+        {
+            "videoId": "rcPetEnrjMU",
+            "title": "‘Miracle’ mountain rescue",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

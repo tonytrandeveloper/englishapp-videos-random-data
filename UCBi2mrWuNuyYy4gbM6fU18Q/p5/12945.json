@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Aj7dJEAZxKg",
-            "title": "Family Fitness Challenge",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "w629aHj_7Us",
             "title": "2nd major retailer announces action on gun control",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "Kim Kardashian on Robbery at Gunpoint",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "v8jAt5GSlsM",
+            "title": "At least 37 hurt after fire erupts at Exxon Mobile facility in Texas",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

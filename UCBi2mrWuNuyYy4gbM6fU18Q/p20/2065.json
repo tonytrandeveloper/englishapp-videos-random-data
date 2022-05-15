@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9Rb0R6qvZAo",
-            "title": "ABC News Prime: GOP takes aim at SCOTUS pledge; Parents struggle with COVID; Mayim Bialik convo.",
-            "secondDuration": 5496,
-            "group": "group_7"
-        },
-        {
             "videoId": "8tGvMRl2cBE",
             "title": "Taal Volcano, plane crash and Winter Youth Olympic Games: World in Photos, Jan. 13",
             "secondDuration": 116,
@@ -121,8 +115,14 @@
             "title": "Trump warns another shutdown could happen",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "B5F094yu380",
+            "title": "Trump cancels press conference at G20 as Michael Cohen asks for leniency",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

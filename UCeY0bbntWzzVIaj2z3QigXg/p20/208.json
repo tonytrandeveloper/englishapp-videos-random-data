@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JHPICNgsOtI",
-            "title": "Tracking Deadly Winter Storm As It Brings Severe Weather To Mid-South | NBC News NOW",
-            "secondDuration": 311,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sf0NM9m-T2E",
             "title": "Historian Jefferson Morley Shares Insight On The JFK Assassination Files | NBC News",
             "secondDuration": 192,
@@ -121,8 +115,14 @@
             "title": "The Boom is Over for North Dakota Oil Town As Prices Continue to Drop | NBC Nightly News",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "s6zIcVm2uto",
+            "title": "Wildfires Continue To Destroy Land, Force Evacuations In Western U.S. | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

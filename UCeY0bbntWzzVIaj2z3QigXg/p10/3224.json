@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hdrfQ-mzaK0",
-            "title": "Biden Administration Weighs Plans To Directly Send Masks To All Americans | NBC News NOW",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "uWn8PQwhcYg",
             "title": "White House Condemns Florida's 'Don't Say Gay' Bill As 'discriminatory'",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Israel Strikes Gaza After Hamas Launches Incendiary Balloons",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "79z22W4x4Ic",
+            "title": "Live: White House Holds Press Briefing | NBC News",
+            "secondDuration": 3471,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

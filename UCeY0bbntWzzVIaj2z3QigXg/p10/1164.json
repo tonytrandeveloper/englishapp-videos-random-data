@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hH1gEwT7hl0",
-            "title": "Deadly Plagues: Where Does Ebola Rank? | NBC News",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "tfbreIXsgIs",
             "title": "Trump On Rising Coronavirus Death Toll: ‘It Is What It Is’ | NBC Nightly News",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "Gloria Steinem: ‘We Must Put Our Bodies Where Our Beliefs Are’ | NBC News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "uz6C57Sv2I0",
+            "title": "Covid-19 Cases On The Rise In At Least 38 States | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

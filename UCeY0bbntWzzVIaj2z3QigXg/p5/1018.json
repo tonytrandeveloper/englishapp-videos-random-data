@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DDT4hxq9waY",
-            "title": "NASA's Artemis Program Will Give Us The First Female Moonwalker | Mach | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "9IID7-MSaas",
             "title": "Full Kennedy: Mueller Report Has 'No Indictment For Collusion, Conspiracy' | Meet The Press",
             "secondDuration": 590,
@@ -31,8 +25,14 @@
             "title": "The Best Political Ads Of 2018 | Meet The Press | NBC News",
             "secondDuration": 850,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kr5ZunP7ohM",
+            "title": "Live: Rayshard Brooks’ Family Speaks Out After Officers Charged | NBC News",
+            "secondDuration": 675,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

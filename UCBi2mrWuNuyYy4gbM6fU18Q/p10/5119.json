@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UT5-NPReDMY",
-            "title": "Hillary Clinton on Trump 'Crooked Hillary' Nickname",
-            "secondDuration": 711,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z5luNe3dr7g",
             "title": "Prophet Movie Rage Could Lead to Increased Violence",
             "secondDuration": 275,
@@ -61,8 +55,14 @@
             "title": "Kobe Bryant Final Game | Black Mamba Exclusive Retirement Interview",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "5pglWbAnysc",
+            "title": "California Governor Declares State of Emergency After Earthquake",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

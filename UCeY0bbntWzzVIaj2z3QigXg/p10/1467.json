@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "muT4c9SU2Pg",
-            "title": "French Train Attack Hero: ‘I’m Still Trying to Wrap My Head Around Whole Thing’ | NBC Nightly News",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "O7PqIhgSEWU",
             "title": "Mike Pompeo Says There's No Evidence Connecting Saudi Crown Prince To Khashoggi Murder | NBC News",
             "secondDuration": 63,
@@ -61,8 +55,14 @@
             "title": "Cuomo Announces Expansion Of Testing In Minority Communities | NBC News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "XtL1eLC230w",
+            "title": "A To Z 2018: Sophia Vuelo Is Minnesota's First Hmong-American Judge | NBC Asian America",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

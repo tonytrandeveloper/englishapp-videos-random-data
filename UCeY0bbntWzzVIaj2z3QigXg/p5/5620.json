@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "c-duisPicbY",
-            "title": "Suspects In Assassination Of Haitian President Paraded By Police",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "x-ioSQSkfec",
             "title": "Gov. Andrew Cuomo Holds Coronavirus Press Briefing | NBC News (Live Stream Recording)",
             "secondDuration": 2689,
@@ -31,8 +25,14 @@
             "title": "Mike Pence Says Donald Trump 'Standing Stronger Than Ever' | NBC News",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "5jsRa0dFJcE",
+            "title": "The Complicated Ethics Of Self-Driving Cars | Think | NBC News",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

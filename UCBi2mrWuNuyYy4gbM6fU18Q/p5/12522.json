@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "v_I5jHGD84c",
-            "title": "'This will become a battle of attrition': Military analyst",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "L-OflAkA0S0",
             "title": "An End of an Era: Jon Stewart Says Goodbye to the 'Daily Show'",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Top Line: Sen. Reed on Afghanistan and Health Care",
             "secondDuration": 627,
             "group": "group_7"
+        },
+        {
+            "videoId": "RXZIp87oISI",
+            "title": "'The Really Terrible Orchestra'",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

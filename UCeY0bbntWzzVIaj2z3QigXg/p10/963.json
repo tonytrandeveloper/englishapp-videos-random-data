@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "et0XW7i15Y4",
-            "title": "Justin Bieber and Ryan Seacrest Behind the Scenes on Rock Center",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mx5pkMqqs5s",
             "title": "Growing Outrage After Arizona Police Fatally Shoot Man In Parked Car | NBC Nightly News",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "President Trump Says He Will ‘Absolutely’ Bring Up Election Meddling With Vladimir Putin | NBC News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "XcVB6Fjo26w",
+            "title": "Fact Checking: Trump’s Attacks On Schiff’s Opening Statement At DNI Hearing | NBC News Now",
+            "secondDuration": 284,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

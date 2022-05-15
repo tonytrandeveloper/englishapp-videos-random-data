@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ebjy3bTSqNk",
-            "title": "Watch: Local News Catches Tornado Touch Down In New Orleans",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "j-YeEe55sKE",
             "title": "Free Speech And Berkeley: Threats Of Violence Cancel Another Speech | NBC Nightly News",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "How Intelligence Led U.S. Forces To ISIS Leader Abu Bakr al-Baghdadi | NBC Nightly News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "bsfG8IjxrMU",
+            "title": "Full Brown Interview: President Trump 'Is A Racist' | Meet The Press | NBC News",
+            "secondDuration": 536,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

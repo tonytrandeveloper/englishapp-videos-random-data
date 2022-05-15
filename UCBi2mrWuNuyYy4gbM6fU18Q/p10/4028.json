@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t12-UQGHosQ",
-            "title": "Hayley Atwell Sings ‘(They Long to Be) Close to You’",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "9ZIfiyUObug",
             "title": "Former CDC director reacts to coronavirus response",
             "secondDuration": 358,
@@ -61,8 +55,14 @@
             "title": "Transgender at 11: Listening to Jazz Jennings | 20/20 | ABC News",
             "secondDuration": 474,
             "group": "group_7"
+        },
+        {
+            "videoId": "CQ8BqNFZWgk",
+            "title": "Senate members debate voting rights legislation",
+            "secondDuration": 577,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

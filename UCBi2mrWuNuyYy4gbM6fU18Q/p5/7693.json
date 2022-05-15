@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GvySD6z8-wI",
-            "title": "Chris Dorner Manhunt: Fugitive Ex-Cop in Shootout With Police",
-            "secondDuration": 352,
-            "group": "group_7"
-        },
-        {
             "videoId": "BGOW0GBb2wo",
             "title": "30 staff members give birth to 31 babies at Minnesota hospital",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Manhunt Escalates for Escaped Mexican Drug Lord",
             "secondDuration": 247,
             "group": "group_7"
+        },
+        {
+            "videoId": "OOhtYFWeJBw",
+            "title": "WEBCAST: George Zimmerman's TV Interview",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

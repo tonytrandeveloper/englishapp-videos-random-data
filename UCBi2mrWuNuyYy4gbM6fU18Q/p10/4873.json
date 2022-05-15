@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KXMyZv2lYwg",
-            "title": "US life expectancy suffers historic drop due to COVID-19",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "9gtq2ygr1-8",
             "title": "Hollywood icon Kirk Douglas dies at 103",
             "secondDuration": 201,
@@ -61,8 +55,14 @@
             "title": "Special prosecutor to investigate MSU",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "LIPLapea6Lw",
+            "title": "Zika Virus Concerns Grow",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

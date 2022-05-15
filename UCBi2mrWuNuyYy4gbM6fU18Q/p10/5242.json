@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LVDM9M5hqRM",
-            "title": "How family life changed throughout the coronavirus pandemic: Part 1",
-            "secondDuration": 555,
-            "group": "group_7"
-        },
-        {
             "videoId": "eJSGCKzBT44",
             "title": "'Earth to Echo' Debuts 3 New Stars",
             "secondDuration": 213,
@@ -61,8 +55,14 @@
             "title": "Biden holds news conference at NATO summit",
             "secondDuration": 1525,
             "group": "group_7"
+        },
+        {
+            "videoId": "m5S5XN6JAmk",
+            "title": "Man Celebrates Bachelor Party Alone | ABC News",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

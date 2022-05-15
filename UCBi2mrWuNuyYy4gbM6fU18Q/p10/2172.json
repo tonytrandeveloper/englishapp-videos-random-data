@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "q_HDIx-HC3o",
-            "title": "Hurricane Sally makes landfall on the Gulf Coast l GMA",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "q5hmtR1f1lw",
             "title": "Jerry Sandusky to Face Accusers in Trial in Penn State Sex Abuse Scandal",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Delphi double murder suspect could be 'hiding in plain sight'",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "o71c_Q09bD8",
+            "title": "George Floyd: A Man, A Moment, America Changed l 20/20 l PART 2",
+            "secondDuration": 529,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

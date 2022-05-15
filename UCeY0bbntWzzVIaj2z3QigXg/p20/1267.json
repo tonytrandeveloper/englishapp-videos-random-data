@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "c52BxQLsSUA",
-            "title": "New York Gov. Cuomo Requests Covid Vaccine Directly From Pfizer To Increase Supply | NBC News NOW",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "W4fFUX7qbfw",
             "title": "Dance Debate: Compare 'Carlton' Dance To 'Fortnite' Dance | NBC News",
             "secondDuration": 81,
@@ -121,8 +115,14 @@
             "title": "Migrants Sent Back To Haiti Face Dire Conditions",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "81MzDiXKfMg",
+            "title": "Nightly News Full Broadcast - Jan. 27",
+            "secondDuration": 1281,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

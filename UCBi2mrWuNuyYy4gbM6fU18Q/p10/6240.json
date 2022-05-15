@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rWK23Y6SzJI",
-            "title": "Protests after Officer Betty Shelby was found not guilty of manslaughter",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "sk1kRxSZL4Y",
             "title": "Radiation and the Human Body",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "In Case You Missed It: 5/9/14",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "3rZYvLYUdks",
+            "title": "Arctic blast could make this Thanksgiving the coldest ever",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

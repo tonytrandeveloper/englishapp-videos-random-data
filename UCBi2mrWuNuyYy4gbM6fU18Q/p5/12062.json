@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "q4M7oZeUb5c",
-            "title": "Wind, reported tornadoes slam the Carolinas",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "2lNzFADN2B0",
             "title": "Shots fired near Capitol, suspect in custody",
             "secondDuration": 40,
@@ -31,8 +25,14 @@
             "title": "Top Line: Palin: Celebrity or Politician?",
             "secondDuration": 285,
             "group": "group_7"
+        },
+        {
+            "videoId": "DK20-QTvYmg",
+            "title": "Bruce Willis diagnosed with aphasia | ABCNL",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

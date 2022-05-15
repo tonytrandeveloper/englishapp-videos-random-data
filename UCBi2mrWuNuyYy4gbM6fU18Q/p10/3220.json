@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XBtZ3ZWAA74",
-            "title": "Arizona secretary of state blasts 'fake' election audit",
-            "secondDuration": 287,
-            "group": "group_7"
-        },
-        {
             "videoId": "ddhJ-QVLj7g",
             "title": "George Zimmerman's Wife on Their Marriage, Trayvon Martin",
             "secondDuration": 478,
@@ -61,8 +55,14 @@
             "title": "Fear of Copycat Terror Attacks Puts America on Edge",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "F6jHwpR_7RQ",
+            "title": "'10% Happier': Mark Epstein | ABC News",
+            "secondDuration": 4350,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

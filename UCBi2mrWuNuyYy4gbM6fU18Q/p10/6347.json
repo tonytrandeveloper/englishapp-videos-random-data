@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "usuF6iBfxo8",
-            "title": "George Zimmerman Won't Testify at Trial",
-            "secondDuration": 223,
-            "group": "group_7"
-        },
-        {
             "videoId": "JbTPbggaY1E",
             "title": "Tragedy at Sandy Hook: The Search for Solution - ABC News",
             "secondDuration": 720,
@@ -61,8 +55,14 @@
             "title": "Alton Sterling Shooting | Store Owner Files Lawsuit Against Police",
             "secondDuration": 30,
             "group": "group_7"
+        },
+        {
+            "videoId": "n0TiKE6u4wk",
+            "title": "Top prosecutor defends office's decision to drop Jussie Smollett's charges",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

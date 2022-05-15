@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YU67W0jRsIA",
-            "title": "McDonald’s Launches Big Mac Clothing Line",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Rkz4sNVX3A",
             "title": "Los Angeles Manhunt: Ex-Cop Christopher Dorner Sought for Killing Spree",
             "secondDuration": 197,
@@ -121,8 +115,14 @@
             "title": "Google Street View Shows Japanese Nuclear Zone",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "cRBmJKvFryk",
+            "title": "Paula Broadwell Affair Leads to David Petraeus Sentencing",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

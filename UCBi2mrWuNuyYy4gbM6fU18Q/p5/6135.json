@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7fBpgLJ8-zA",
-            "title": "The youngest and oldest astronauts yet to join billionaire Jeff Bezos in space",
-            "secondDuration": 390,
-            "group": "group_7"
-        },
-        {
             "videoId": "emDCiXuJ_yw",
             "title": "Husband of woman killed on Southwest flight speaks out",
             "secondDuration": 175,
@@ -31,8 +25,14 @@
             "title": "The states to watch as Trump, Biden continue final campaign stretch l GMA",
             "secondDuration": 312,
             "group": "group_7"
+        },
+        {
+            "videoId": "tpxsVhitlZ4",
+            "title": "Biden tackles immigration, gun control in presidential address | Nightline",
+            "secondDuration": 572,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

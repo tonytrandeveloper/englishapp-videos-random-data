@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7jP8q4IyjyA",
-            "title": "What is the Senate filibuster? l ABC News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "2drAlYdV4xM",
             "title": "US mulls banning Russian oil as Ukraine conflict continues | ABCNL",
             "secondDuration": 500,
@@ -31,8 +25,14 @@
             "title": "Kobe Bryant Final Game | Black Mamba Exclusive Retirement Interview",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "5pglWbAnysc",
+            "title": "California Governor Declares State of Emergency After Earthquake",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

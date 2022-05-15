@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5KF18Cqy53o",
-            "title": "Where Stereotypes About Asian-American Men Come From | Take Back | NBC Asian American",
-            "secondDuration": 254,
-            "group": "group_7"
-        },
-        {
             "videoId": "tXczs-cgEAQ",
             "title": "Missing National Guardsman Found Dead After Maryland Flooding | NBC Nightly News",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "NYC Bodegas Shut Down To Protest Immigration Ban | NBC News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "guqh3opgQPU",
+            "title": "Snow And Record Breaking Cold In The South | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

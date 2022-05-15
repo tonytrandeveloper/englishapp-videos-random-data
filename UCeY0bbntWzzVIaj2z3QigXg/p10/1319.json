@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zedH0hn7kmc",
-            "title": "Social Media Aids Hurricane Harvey Rescues | NBC Nightly News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "EIc1ZInU578",
             "title": "On The Ground In Greenland And Face To Face With The Reality Of Climate Change | Mach | NBC News",
             "secondDuration": 184,
@@ -61,8 +55,14 @@
             "title": "English Bulldog Zsa Zsa Wins World’s Ugliest Dog Competition In California | NBC News",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "gcpyNecYzaU",
+            "title": "FAA Orders Emergency Inspections After Southwest Engine Explosion | NBC Nightly News",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

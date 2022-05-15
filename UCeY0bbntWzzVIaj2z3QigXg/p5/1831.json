@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_Ia4dQtnks4",
-            "title": "Hurricane Ravaged Puerto Rico Begins Slow Recovery | NBC Nightly News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "PXtQ0Mt-I0Y",
             "title": "Quantum Dots Changing Medicine | Nerdwatch | NBC News",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "Afroman Punches Female Fan At Concert: Cell Phone Video | NBC News",
             "secondDuration": 30,
             "group": "group_7"
+        },
+        {
+            "videoId": "_dvV-b9a8Oo",
+            "title": "New York City Begins Reopening Monday After Weeks Of Coronavirus Lockdown | NBC Nightly News",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

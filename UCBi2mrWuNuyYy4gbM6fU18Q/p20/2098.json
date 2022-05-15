@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fXdJgfeO41k",
-            "title": "More than 1.5M sign petition to stop Rodney Reed's execution l ABC News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "quYPlwLTkUs",
             "title": "Jerry Sandusky's Crimes Covered Up: Report",
             "secondDuration": 227,
@@ -121,8 +115,14 @@
             "title": "ISIS Militants May Have Used Chemical Weapons",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Y78THXhJew",
+            "title": "White House to end DACA in 6 months",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

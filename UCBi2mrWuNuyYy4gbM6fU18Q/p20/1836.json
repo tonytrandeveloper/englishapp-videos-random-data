@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "iPqlk9u5oCw",
-            "title": "WHO: 10 things to know for novel coronavirus (COVID-19) | ABC News",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "n-bg2gct01I",
             "title": "More than 25 percent of gas stations in Miami-Dade are out of fuel",
             "secondDuration": 150,
@@ -121,8 +115,14 @@
             "title": "EBOLA IN AMERICA: NYC Doctor Tests Positive",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "J5PuSFgwUWM",
+            "title": "Limousine crash leaves 20 dead",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

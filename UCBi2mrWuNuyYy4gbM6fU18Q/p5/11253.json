@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fTAagrD0-dQ",
-            "title": "Return of Johnson & Johnson vaccine elicits mixed reactions",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "AcJYMddLhfE",
             "title": "Lena Dunham Is Not 'Not That Kind of Girl'",
             "secondDuration": 339,
@@ -31,8 +25,14 @@
             "title": "The Conversation: \"Fred\" - YouTube Sensation",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "CS3GMg4DHXQ",
+            "title": "Bill Cosby behind bars",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

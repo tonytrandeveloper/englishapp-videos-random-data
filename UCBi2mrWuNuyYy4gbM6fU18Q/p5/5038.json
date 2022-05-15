@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PhJzTkKv2x4",
-            "title": "Tropical Storm Elsa slams Florida Keys",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "GWk9EpViBVM",
             "title": "NYPD gathering evidence against Harvey Weinstein",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "Instant Index: Michelle Obama's Midlife Crisis; Burger King Hacked",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ivb579uIIDI",
+            "title": "Severe winter weather",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

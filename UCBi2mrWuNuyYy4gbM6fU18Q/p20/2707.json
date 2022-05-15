@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IB8op9jjCDA",
-            "title": "Bomb Scare on Plane at John Wayne Airport",
-            "secondDuration": 57,
-            "group": "group_7"
-        },
-        {
             "videoId": "ERvI6p9hd2E",
             "title": "Ghislaine Maxwell denies she knew of or participated in Epstein’s sex abuse scheme",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "New report finds brain disease in most football players studied | ABC News",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "lFyeF9d1Stc",
+            "title": "Weekend Window: North Cascades National Park",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

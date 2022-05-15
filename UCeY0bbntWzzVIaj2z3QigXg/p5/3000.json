@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ywu1pmM2C24",
-            "title": "The First Airbnb Guest | On Assignment | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "ADqWMq9wbF8",
             "title": "White House Seeks To Clarify Expectations For Trump’s Meeting With Kim Jong Un | NBC Nightly News",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Live: Special Report: April Jobs Report, Unemployment Numbers Released | NBC News",
             "secondDuration": 310,
             "group": "group_7"
+        },
+        {
+            "videoId": "S6Z6F3VOJDM",
+            "title": "Dramatic Landslide Sweeps Away Homes In Bolivia’s Capital | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

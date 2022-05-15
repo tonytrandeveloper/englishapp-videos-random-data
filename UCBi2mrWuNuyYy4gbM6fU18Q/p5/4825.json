@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iSajJwypYRE",
-            "title": "Americans Rush to Get the Best Holiday Deals",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "QOgsdJ30uss",
             "title": "Hero Father-Son Team Makes Isaac Rescue",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "Meta shares drop 20% after gloomy earnings report",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "Os_o3Jb2wts",
+            "title": "Democrats expected to pass COVID-19 relief package by end of week",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

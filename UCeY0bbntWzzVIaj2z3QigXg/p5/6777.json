@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7QB196h6uHk",
-            "title": "California Burn Zone Is The Size Of Chicago | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "NJ_oKYfBYTE",
             "title": "Prince Philip 'Helped To Steer The Royal Family': Prime Minister Pays Tribute | NBC News NOW",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "Thousands Told To Evacuate In Sydney As Floodwaters Rise",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "GoykiCSrtBU",
+            "title": "Sen. Cruz 'Headed Back To Texas' After Traveling With Family To Mexico | NBC News NOW",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

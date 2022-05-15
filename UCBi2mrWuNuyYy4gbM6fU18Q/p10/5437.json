@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z9Fo-djrjY0",
-            "title": "The Conversation: Supreme Ct. Nominee Elena Kagan",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hc7pMefwNwc",
             "title": "Aaron Appelhans becomes Wyoming’s 1st Black sheriff",
             "secondDuration": 322,
@@ -61,8 +55,14 @@
             "title": "How Ted Cruz, Beto O'Rourke are battling it out in heated Texas Senate race",
             "secondDuration": 504,
             "group": "group_7"
+        },
+        {
+            "videoId": "crK6-rE7P9k",
+            "title": "Double-Chin Injections: FDA Approves Treatment",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

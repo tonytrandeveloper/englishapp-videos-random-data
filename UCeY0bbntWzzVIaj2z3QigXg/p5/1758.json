@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xXV1OBm4QcA",
-            "title": "Edward Snowden Watches \"The Wire\" | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "AyzHF8FLIVM",
             "title": "Director Of National Intelligence Dan Coats At The Aspen Security Forum | NBC News",
             "secondDuration": 3439,
@@ -31,8 +25,14 @@
             "title": "Can Mass Shootings Really Catch On Like A Disease? | Think | NBC News",
             "secondDuration": 234,
             "group": "group_7"
+        },
+        {
+            "videoId": "p5DUa2l0YNM",
+            "title": "Dog Rescued From Inside Home 6 Days After Seattle Landslide",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

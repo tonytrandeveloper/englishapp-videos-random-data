@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ihSSu6X8lUk",
-            "title": "Submarine with 53 people aboard goes missing l GMA",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "cdfET_Xlwd8",
             "title": "ABC News Prime: AZ audit reaffirms Biden win; Booster shot rollout; BTS exclusive",
             "secondDuration": 5526,
@@ -121,8 +115,14 @@
             "title": "ISIS leader killed, California fire danger, Rep. Katie Hill resigns | ABC News",
             "secondDuration": 1528,
             "group": "group_7"
+        },
+        {
+            "videoId": "pEitKISjq1U",
+            "title": "Chris Harrison exits 'Bachelor' franchise",
+            "secondDuration": 424,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

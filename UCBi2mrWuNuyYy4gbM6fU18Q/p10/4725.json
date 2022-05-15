@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zOKoBVKCTcY",
-            "title": "Jury to decide fate of woman accused of impersonating socialite",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "d5R-g9Xk_5I",
             "title": "IKEA Faces New Wrongful Death Lawsuit",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Massive Hunt for Suspect in Fatal Road Rage Shooting",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "DGCC5Mlp9c8",
+            "title": "Tropical Storm Bill",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

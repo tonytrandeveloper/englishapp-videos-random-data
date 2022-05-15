@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-J-gsaPeMhw",
-            "title": "Trump Transition: Ben Carson Nominated for Cabinet Position",
-            "secondDuration": 258,
-            "group": "group_7"
-        },
-        {
             "videoId": "owcNVxoxavY",
             "title": "Sen. Kaine on anniversary of Jan. 6 riot",
             "secondDuration": 495,
@@ -121,8 +115,14 @@
             "title": "US Servicemen Help Rescue Children, Mother From Burning Building",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "NI21xI7rKjQ",
+            "title": "Wounded Fort Hood Soldier Speaks Out",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

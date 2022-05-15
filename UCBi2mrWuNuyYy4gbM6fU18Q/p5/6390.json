@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rX0f5dwUpHU",
-            "title": "Kirstie Alley's 'Dancing With the Stars' Journey",
-            "secondDuration": 382,
-            "group": "group_7"
-        },
-        {
             "videoId": "zdDToXwnJHU",
             "title": "Sen. John McCain to Hillary Clinton: American 'People Deserve to Know' Truth About Benghazi Attack",
             "secondDuration": 502,
@@ -31,8 +25,14 @@
             "title": "Meet the Vietnamese Singer Fighting for Social Justice",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "h_vdUVoRGa0",
+            "title": "Affordable Care Act Failure Gets Potential Bipartisan Fix",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

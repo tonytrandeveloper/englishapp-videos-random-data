@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_h3rWOw8Te0",
-            "title": "Doctors warn of spike in colon cancer rates among young adults",
-            "secondDuration": 364,
-            "group": "group_7"
-        },
-        {
             "videoId": "8W_yVZISjEg",
             "title": "Kevin Pollack on His Multitude of Celebrity Impressions",
             "secondDuration": 619,
@@ -61,8 +55,14 @@
             "title": "Robin Roberts' GMA Announcement Spurs Bone Marrow Donors",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "qNljd3x6ZkM",
+            "title": "'Old Dog' Robin Williams on Movies, Tour",
+            "secondDuration": 301,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

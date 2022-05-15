@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cl8HlK-0t5g",
-            "title": "218: The Race For The House | NBC News",
-            "secondDuration": 2465,
-            "group": "group_7"
-        },
-        {
             "videoId": "pTAg5DFyqfc",
             "title": "Watch Live: Scientists Expected To Unveil First Image Of A Black Hole | NBC News",
             "secondDuration": 4191,
@@ -31,8 +25,14 @@
             "title": "Gruesome Murder Leaves 2 Children, 2 Adults Dead | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "BVYXBGARSSo",
+            "title": "Trump Administration Declares COVID-19 A Public Health Emergency | NBC News",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

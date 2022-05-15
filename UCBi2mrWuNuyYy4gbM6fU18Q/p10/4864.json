@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "alN299fEQFI",
-            "title": "'GMA' Hot List: 'Scandal'-ous Secrets Spilled, $5 Dinner Challenge",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "xaBH4tZ--VM",
             "title": "Will Smith resigns from Academy | Nightline",
             "secondDuration": 647,
@@ -61,8 +55,14 @@
             "title": "17-year-old becomes youngest to reportedly die from vaping | ABC News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "X3vK5qVNOWw",
+            "title": "Malala Yousafzai Speaks Out",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

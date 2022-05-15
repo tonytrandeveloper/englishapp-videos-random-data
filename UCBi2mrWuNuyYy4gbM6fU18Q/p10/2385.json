@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TamM7b8ZEwA",
-            "title": "Former White House Homeland Security advisor on COVID crisis l GMA",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "CAqFkEAVWss",
             "title": "Rough Cut: Stars of 'The Artist' Get Silly",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Massive nor'easter bearing down on East Coast",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "ywXxxv-yHdw",
+            "title": "Coronavirus fears spur event cancellations",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T-5okZ0MjYs",
-            "title": "'Hashtag Lunchbag' Feeds The Homeless | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sc_CHRfy3rw",
             "title": "Johnson & Johnson Vaccine Pause Forces Vaccine Centers To Adapt | NBC News NOW",
             "secondDuration": 245,
@@ -31,8 +25,14 @@
             "title": "Marines Say One Of The Men In Iwo Jima Flag Raising Photo Was Misidentified | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "X7ERdQYlq8I",
+            "title": "Congress And Trump Admin. Scramble For Coronavirus Aid Deal As Pandemic Causes Panic | Nightly News",
+            "secondDuration": 658,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mTfMFHkPyyc",
-            "title": "Report Shows Ties Between Opioid Makers And Patient Groups | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "41hIJjf3IRc",
             "title": "Civil Rights Investigation Underway Into Death Of Ronald Greene",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Newly-Surfaced Video Offers Glimpse Into Trump And Epstein's Past Relationship | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "hTdx98DfpEo",
+            "title": "Felicity Huffman Sentenced To 14 Days In Prison And Community Service | NBC News Now",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

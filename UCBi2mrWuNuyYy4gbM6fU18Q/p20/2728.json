@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WjekJPvQW6Q",
-            "title": "Whitney Houston and 'The Bodyguard'",
-            "secondDuration": 492,
-            "group": "group_7"
-        },
-        {
             "videoId": "gEhVBDAhZxI",
             "title": "Rising from the ruins of Hurricane Harvey",
             "secondDuration": 85,
@@ -121,8 +115,14 @@
             "title": "A Mom's Fatal Mistake: Drunken Driving",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "aMyMSXxELEM",
+            "title": "Duchess Camilla tests positive for COVID l GMA",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

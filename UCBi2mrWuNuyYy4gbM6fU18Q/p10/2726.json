@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "voDCp6-j1FI",
-            "title": "Jacqueline Kennedy Tapes, Recorded After JFK Assassination, Reveal Intimate Secrets",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "RB3mQ6ex_ho",
             "title": "Kate del Castillo shares her side of what happened during 'El Chapo' meeting",
             "secondDuration": 440,
@@ -61,8 +55,14 @@
             "title": "Search for survivors after deadly tsunami hits Indonesia",
             "secondDuration": 363,
             "group": "group_7"
+        },
+        {
+            "videoId": "b7DSaZJHVaY",
+            "title": "Exclusive Interview: Melania Trump to speak out to ABC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DxcwJfrv1_c",
-            "title": "Ivana Trump: ‘I'm First Lady, OK?’ | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "x8uKMXNs36U",
             "title": "Kamala Harris Receives Coronavirus Vaccine | NBC News",
             "secondDuration": 293,
@@ -61,8 +55,14 @@
             "title": "Alabama State University’s Mighty Marching Band | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "PN37mWNKsEw",
+            "title": "How Florida Plans To Restore Voter Confidence In The Mail-in Ballot | NBC Nightly News",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "t-v_RokUocM",
-            "title": "Donald Trump Takes Aim at Former President Bill Clinton | NBC Nightly News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "WWNI6Vv65fQ",
             "title": "Man Who Sent Hawaii False Missile Alert Speaks Out | NBC Nightly News",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Jeffrey Epstein Denied Bail, Must Remain Behind Bars Until Sex Trafficking Trial | NBC Nightly News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "K8TIlsoFNjs",
+            "title": "Insecticides For Zika Mosquitoes Not Working as Hoped, Officials Say | NBC Nightly News",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

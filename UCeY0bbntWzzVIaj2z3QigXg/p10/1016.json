@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Wm4vaVRNT64",
-            "title": "House Democrats Seek Vote To Create An Independent Commission | NBC News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "n0ffQiwmJPg",
             "title": "Massachusetts Field Hospital Begins To Receive Covid Patients | NBC Nightly News",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "Listen: Drake Bell Victim Gives Emotional Court Statement",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "IlHUzDbt11k",
+            "title": "Biden Slams Trump Over Coronavirus Pandemic Response | NBC Nightly News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

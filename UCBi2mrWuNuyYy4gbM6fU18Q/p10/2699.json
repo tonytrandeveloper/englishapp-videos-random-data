@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "c1-PHj-QBHo",
-            "title": "WEBCAST: California Standoff Ends",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZdzippanOtY",
             "title": "James Cameron Dives to Deepest Part of the Ocean Inside the Mariana Trench",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "New push to defund police",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "7WFc9xKXpvU",
+            "title": "By the Numbers: The state of the economy",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "SOvcSBCyReI",
-            "title": "Mexico City Quake: Rescuers Desperate To Find Survivors | NBC Nightly News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "VmtyvsG66Nw",
             "title": "U.K. PM Wishes Recovery To Record-Breaking Tom Moore After Covid-19 Diagnosis | NBC News NOW",
             "secondDuration": 113,
@@ -301,8 +295,14 @@
             "title": "Blinken Says Talks Of Banning Russian Iil 'Very Actively' Discussed",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "pvvff396Rqg",
+            "title": "Ben Carson Answers Questions On His Past (Full Interview) | Meet The Press | NBC News",
+            "secondDuration": 1376,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

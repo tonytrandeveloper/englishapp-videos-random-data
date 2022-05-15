@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_ywmySoT-DQ",
-            "title": "Trump mocks witness during his testimony | ABC News",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "AugmVYqU4mQ",
             "title": "'The $100,000 Pyramid': Behind the scenes of the classic game show",
             "secondDuration": 381,
@@ -31,8 +25,14 @@
             "title": "Plane lands on Spanish road",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "-7JwcDeXqi8",
+            "title": "Elliot Rodger's Father Discusses His Son",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EjNb_AXG1cU",
-            "title": "Betty White's Back",
-            "secondDuration": 441,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qh8CmO64zU8",
             "title": "Mother's Day | 6 Stories That Will Make You Call Your Mom | ABC News Remix",
             "secondDuration": 198,
@@ -31,8 +25,14 @@
             "title": "Khan Academy: Learn Everything, Online",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "MylGfTNgrOI",
+            "title": "The Debrief: Record-breaking cold, 2020 Democratic challengers, Jussie Smollet investigation",
+            "secondDuration": 1221,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

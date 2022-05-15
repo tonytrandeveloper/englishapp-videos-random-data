@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cGNnU7ofAw8",
-            "title": "Chuck: Trump Is 'Sounding Increasingly Desperate' | Meet The Press | NBC News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "gUuGn9MVvzY",
             "title": "8 Minutes, 46 Seconds Of Silence For George Floyd At Memorial Service | NBC News",
             "secondDuration": 581,
@@ -61,8 +55,14 @@
             "title": "Doctors In India Race To Keep Up With Rising Coronavirus Cases, Deaths | NBC News NOW",
             "secondDuration": 638,
             "group": "group_7"
+        },
+        {
+            "videoId": "T3edsHlI8go",
+            "title": "Manhunt In Nashville For ‘Cold-Blooded’ Murderers | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

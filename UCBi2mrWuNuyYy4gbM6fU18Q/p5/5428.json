@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rdidtyeTcKU",
-            "title": "Will Smith, Gugu Mbatha-Raw on Starring in 'Concussion'",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "3vr20JUptKM",
             "title": "'Frozen's' Next Chapter: Anna, Elsa Take to the Ice",
             "secondDuration": 380,
@@ -31,8 +25,14 @@
             "title": "Extreme Weather: Dangerous Hail Hits Kansas",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "2tQ0bsaoOEs",
+            "title": "Trump Under Fire for African-American Comments",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "m2E_AIPl5tY",
-            "title": "Buttigieg, Sanders, Klobuchar React To Partial Iowa Caucus Results | NBC News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rr5OqqNsSuU",
             "title": "Prince Harry Interviews Former President Obama About Cybersecurity | NBC News",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Huge Cleanup Follows Night Of Violence At Hong Kong Government Headquarters | NBC News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "RMYZz3jFdzg",
+            "title": "Investigation Into Fatal Navy Collisions Reveals Failures In Repairs And Training | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

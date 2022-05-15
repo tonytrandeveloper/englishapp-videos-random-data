@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FZ5JUHCu6wE",
-            "title": "Watch Highlights Of The Democratic Debate In 5 Minutes | NBC News",
-            "secondDuration": 310,
-            "group": "group_7"
-        },
-        {
             "videoId": "WZrx7YYlLSg",
             "title": "Beto O’Rourke Announces 2020 Presidential Run | NBC Nightly News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Cute Toddler Emily Henson Steals Prince Harry's Popcorn At An Invictus Games Event | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "J-dr_KiUNBw",
+            "title": "Deadly Wildfire Rages In Hills North Of Los Angeles | NBC News",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

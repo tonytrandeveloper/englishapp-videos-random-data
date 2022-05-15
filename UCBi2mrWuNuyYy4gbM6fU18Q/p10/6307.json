@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VKJIeWIcsHk",
-            "title": "Hurricane Earl Hits New England",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "E16monmJOwE",
             "title": "How Diana, Kate and Meghan created their own unique fashion statements",
             "secondDuration": 369,
@@ -61,8 +55,14 @@
             "title": "Urgency grows to evacuate Americans, allies before deadline",
             "secondDuration": 425,
             "group": "group_7"
+        },
+        {
+            "videoId": "R9i-jIEAL1o",
+            "title": "Sen. Franken says he's 'embarassed' by groping claims, needs to 'rebuild' trust",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

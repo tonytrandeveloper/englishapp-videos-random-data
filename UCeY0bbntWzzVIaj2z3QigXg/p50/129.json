@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "8G0aWseOaXo",
-            "title": "Deadly Firefight At Kabul Airport Amid Evacuations",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "24t1U2RtY7c",
             "title": "Lawmakers Negotiating Pandemic Relief Bill As $600 Unemployment Benefit Set To Expire | Nightly News",
             "secondDuration": 136,
@@ -301,8 +295,14 @@
             "title": "A Day In The Life Of 'Badass And Blind' Musician Raul Midon | NBC BLK | NBC News",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "ej7BRM5RkzA",
+            "title": "Trump Tries To Replicate 2016 Win, But Virus Surge Undermines Public Trust | Meet The Press",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

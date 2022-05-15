@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6Q1xYXfYPgc",
-            "title": "Security Breach at the U.S. Capitol",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "tP26wc5u_7Y",
             "title": "Psaki provides update on war between Russia and Ukraine",
             "secondDuration": 306,
@@ -31,8 +25,14 @@
             "title": "Supreme Court Justice Anthony Kennedy retiring | ABC News Special Report",
             "secondDuration": 3064,
             "group": "group_7"
+        },
+        {
+            "videoId": "jeGPGHBKnpg",
+            "title": "Remembering Martin Luther King Jr's Dream: 'This Week' Roundtable",
+            "secondDuration": 381,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

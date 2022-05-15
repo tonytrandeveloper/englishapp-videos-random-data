@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9ci7egPF3XY",
-            "title": "It's back to school season despite the largest pediatric COVID-19 surge since start of the pandemic",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "0YNnmms5NiQ",
             "title": "7-year-old scores golden ticket to American Idol",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Eagles Fly Safely Near Wind Turbines Thanks to Radar",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "MwaK-SmcIx0",
+            "title": "Americans brace for possible approach of coronavirus peak l ABC News",
+            "secondDuration": 353,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

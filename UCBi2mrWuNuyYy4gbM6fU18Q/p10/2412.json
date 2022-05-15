@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EjCsK1NzuLc",
-            "title": "Martin Shkreli's fate in hands of the jury",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "qiMoTn74A78",
             "title": "'The Brady Bunch' house up for sale after 50 years",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "How NYC police's relationship with LGBTQ+ community changed after Stonewall Uprising",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "iSajJwypYRE",
+            "title": "Americans Rush to Get the Best Holiday Deals",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

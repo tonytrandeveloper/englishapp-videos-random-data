@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QcUWIhwwlDY",
-            "title": "Hurricane Irene coverage from Peter Alexander and Jim Cantore",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "cd-59-pW6Ck",
             "title": "White House Holds Press Briefing: May 15 | NBC News",
             "secondDuration": 2024,
@@ -121,8 +115,14 @@
             "title": "Sturgis Biker Rally Underway Despite Coronavirus | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "FPtrJOoZ-wg",
+            "title": "Does Bernie Sanders Have A Shot? | NBC News Signal",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

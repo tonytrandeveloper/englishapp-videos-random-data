@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L0IFuz3dM2g",
-            "title": "How Climate Change Is Impacting Immigration From Central America | NBC News Now",
-            "secondDuration": 384,
-            "group": "group_7"
-        },
-        {
             "videoId": "jITf2bRtns4",
             "title": "Nigerian Airliner Comes To An Abrupt Stop While Taxiing, Collapsing Plane’s Nose | NBC Nightly News",
             "secondDuration": 70,
@@ -61,8 +55,14 @@
             "title": "President Obama Marks 15th Anniversary of 9/11 | NBC News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "8FukmujpQ1w",
+            "title": "House GOP Leaders Hold Press Conference | NBC News",
+            "secondDuration": 2054,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

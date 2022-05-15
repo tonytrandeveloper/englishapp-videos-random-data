@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "N7daNxe7JJI",
-            "title": "The Giz Wiz: Computer Add-Ons",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "vjkXNcyDvQI",
             "title": "Facebook IPO: Social Network to Go Public",
             "secondDuration": 172,
@@ -121,8 +115,14 @@
             "title": "King Bach describes his rise from internet personality to touring entertainer",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "rouPhsG86dU",
+            "title": "Single mothers by choice: 'I am the CEO of my own operation'",
+            "secondDuration": 521,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

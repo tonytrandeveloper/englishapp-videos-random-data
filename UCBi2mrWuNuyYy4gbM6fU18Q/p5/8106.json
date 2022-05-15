@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BaSqQiR1fpA",
-            "title": "Index: NFL Rams Moving Back to L.A.",
-            "secondDuration": 57,
-            "group": "group_7"
-        },
-        {
             "videoId": "LfyGRJ7yapI",
             "title": "Dick Clark: Revisiting New Year's in Times Square",
             "secondDuration": 308,
@@ -31,8 +25,14 @@
             "title": "ABC News Prime: Impeachment trial gets underway; Hospital attack in MN; Searching for COVID source",
             "secondDuration": 3615,
             "group": "group_7"
+        },
+        {
+            "videoId": "N3kaLfyDgCA",
+            "title": "Peanut Butter Recall: Which Brands Are Linked?",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

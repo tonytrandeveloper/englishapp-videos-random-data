@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fAtsAwGreyE",
-            "title": "Martin Luther King, Jr. On NBC's Meet the Press (1965) | Archives | NBC News",
-            "secondDuration": 1520,
-            "group": "group_7"
-        },
-        {
             "videoId": "WGny3zlR8CI",
             "title": "Poland Border Crisis: Thousands Of Migrants Stranded In Belarus",
             "secondDuration": 214,
@@ -121,8 +115,14 @@
             "title": "Why Turkey Is Battling The Kurds Now | Short Take | NBC News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZGV_UaV45G4",
+            "title": "Looking Back At Myanmar's Military Coup One Year Later",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

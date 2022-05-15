@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aE9T_iSXP08",
-            "title": "President Obama: 'The World Needs a Strong America'",
-            "secondDuration": 580,
-            "group": "group_7"
-        },
-        {
             "videoId": "w2cML31AK3o",
             "title": "Bus Aide Arrested for Allegedly Bullying Disabled School Child",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Hunter Biden defends ethics of foreign ventures l ABC News",
             "secondDuration": 502,
             "group": "group_7"
+        },
+        {
+            "videoId": "_ucT__BeG1E",
+            "title": "Decision expected on second COVID-19 boosters for older Americans",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

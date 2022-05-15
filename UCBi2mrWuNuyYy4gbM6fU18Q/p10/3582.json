@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mInDy4asPWg",
-            "title": "How to protect yourself when someone in your family has the flu",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "x8kwhcnBD3A",
             "title": "Alleged gang member arrested in police officer's shooting",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Colorado School Shooting: Teen in Coma After Attack",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "s4P4CHzqRy4",
+            "title": "Rihanna and Chris Brown Back Together?",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

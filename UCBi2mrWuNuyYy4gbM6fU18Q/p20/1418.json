@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EU7Z9FuSzaY",
-            "title": "Donald Trump Picks Exxon CEO Rex Tillerson to Be Secretary of State",
-            "secondDuration": 274,
-            "group": "group_7"
-        },
-        {
             "videoId": "pHwyGesWzB0",
             "title": "Where Did Gadhafi Sleep?",
             "secondDuration": 174,
@@ -121,8 +115,14 @@
             "title": "5 dead after plane crashes into home",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "FgriiB9oJbM",
+            "title": "Video shows officer shoot suspect during struggle",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

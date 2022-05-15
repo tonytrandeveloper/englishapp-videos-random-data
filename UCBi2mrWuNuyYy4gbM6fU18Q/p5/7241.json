@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hESxXEm2vPg",
-            "title": "Americans stranded in South America | PRIME",
-            "secondDuration": 515,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZsLyiBugy_o",
             "title": "Refugee Crisis in Europe Intensifies",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "A look inside a Russian ‘troll factory’",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "cgWZl7HNHmg",
+            "title": "Watch LIVE: Derek Chauvin Trial for George Floyd Death -  Day 2 | ABC News Live Coverage",
+            "secondDuration": 35788,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

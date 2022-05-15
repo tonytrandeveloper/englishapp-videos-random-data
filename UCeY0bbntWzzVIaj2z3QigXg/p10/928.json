@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zuDfAv39HGg",
-            "title": "Coronavirus Spike In Oklahoma Ahead Of Trump Rally | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "N9-aNHEPQTo",
             "title": "Senators React To Roy Moore Allegations: ‘Appalling’ And ‘Disturbing’ | NBC News",
             "secondDuration": 60,
@@ -61,8 +55,14 @@
             "title": "Morning News NOW Full Broadcast - July 2 | NBC News NOW",
             "secondDuration": 3005,
             "group": "group_7"
+        },
+        {
+            "videoId": "OeOyRPxwTdM",
+            "title": "Manafort Lied About Sharing Polling Data With Russian Linked To Intelligence Services | NBC News",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

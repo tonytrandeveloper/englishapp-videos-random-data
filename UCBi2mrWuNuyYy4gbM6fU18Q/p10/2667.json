@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GqUzd8-1kdY",
-            "title": "Jihadi Forces in Iraq Close in on Baghdad",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "iAbc12Bq8-g",
             "title": "President Donald Trump remarks at National Association of Manufacturers",
             "secondDuration": 2835,
@@ -61,8 +55,14 @@
             "title": "Lunch Lady Says She Was Fired for Giving Away Food to Hungry Students",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "0ONGa7Oike0",
+            "title": "Wesley Snipes interview on novel ‘Talon of God’",
+            "secondDuration": 1283,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

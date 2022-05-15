@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LPtxkvPYdMk",
-            "title": "Bill O'Reilly fires back after New York Times report",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "5qqaSrWfPf4",
             "title": "UN reports over 2 million refugees have fled Ukraine",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Love Gurus Give 'GAA' Audience Relationship Advice",
             "secondDuration": 321,
             "group": "group_7"
+        },
+        {
+            "videoId": "BkZj1xbZ_KA",
+            "title": "Los Angeles Police Charge Man With 3 Murders",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

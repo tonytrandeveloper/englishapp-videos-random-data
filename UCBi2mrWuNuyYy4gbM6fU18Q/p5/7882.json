@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xoU4XpzYS-o",
-            "title": "Vicki Kennedy: The Anchor in Ted's Life",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "0JpW-zPrYwg",
             "title": "Steve Jobs Dead: Apple Co-Founder Dies After Battle with Rare Pancreatic Cancer; World Mourns",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "Cellphone Tracking Helps Woman Bust Carjacker",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "uUuuzgwI1tY",
+            "title": "Mother and Son on the Lam",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mTHBcbUgoD0",
-            "title": "The Debrief: Mueller memos, NC snow problems, volatile stock market | ABC News",
-            "secondDuration": 1700,
-            "group": "group_7"
-        },
-        {
             "videoId": "_OhB-RmoWjg",
             "title": "Deadly tornadoes strike the south, killing at least 8 people",
             "secondDuration": 232,
@@ -61,8 +55,14 @@
             "title": "Redskins face backlash for signing player accused of domestic assault",
             "secondDuration": 274,
             "group": "group_7"
+        },
+        {
+            "videoId": "1S_P0csTGTA",
+            "title": "Man dead after Las Vegas police officer uses stun gun and chokehold to detain him",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

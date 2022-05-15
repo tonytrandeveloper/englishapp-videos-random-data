@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "63xg0b8jmFg",
-            "title": "Surgery: Vertical Sleeve Gastrectomy",
-            "secondDuration": 468,
-            "group": "group_7"
-        },
-        {
             "videoId": "DZ9vIzVZjS4",
             "title": "Biden and Trump discuss their views on immigration policy",
             "secondDuration": 379,
@@ -121,8 +115,14 @@
             "title": "98-Year-Old Man Helps Clean Up After Hurricane Matthew",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZHyeGCewmj4",
+            "title": "Donald Trump Eyes General Election After New York Win",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

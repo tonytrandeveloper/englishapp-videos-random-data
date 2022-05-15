@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "4VtrozzJ2m4",
-            "title": "Unlikely porch pirate",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "mOVDGkQ7XLQ",
             "title": "Aleppo Hospital Airstrikes Cut Off Civilian Access to Care",
             "secondDuration": 64,
@@ -301,8 +295,14 @@
             "title": "Toy Fair 2014 with Dick DeBartolo",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "SEIXlCJDuPs",
+            "title": "DOJ to investigate Minneapolis police after Chauvin verdict",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

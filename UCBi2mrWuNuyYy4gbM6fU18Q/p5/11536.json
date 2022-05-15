@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FgxP-FcEZ6s",
-            "title": "Police detained a man who tried to breach airport security in Orlando",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "J8UNAULIdbo",
             "title": "Historic NASA launch",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Miami hit with extreme winds and heavy rain from Hurricane Irma",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ys90R1Sly1U",
+            "title": "Federal Reserve Takes Action; Markets Bounce Back",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

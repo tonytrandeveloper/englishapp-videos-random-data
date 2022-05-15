@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UaykGT4ADyQ",
-            "title": "Selfie in the Delivery Room | ABC News",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "1SXoMOGhpi4",
             "title": "COVID-19 in Tennessee schools",
             "secondDuration": 251,
@@ -31,8 +25,14 @@
             "title": "The latest on Day 4 of Ahmaud Arbery murder trial",
             "secondDuration": 516,
             "group": "group_7"
+        },
+        {
+            "videoId": "7Loa3cFbjAk",
+            "title": "ABC News' Year in Review: Sports",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

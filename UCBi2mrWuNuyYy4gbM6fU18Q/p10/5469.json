@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PaENnyBMTe0",
-            "title": "Negotiations slow as government shutdown looms",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "uGTpYJRTmCM",
             "title": "Houston looks to overcome high rates of adult illiteracy",
             "secondDuration": 491,
@@ -61,8 +55,14 @@
             "title": "Trump on Family Leave, Child Care",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "fdXlE2oldE8",
+            "title": "ABC News Prime: Booster shot for most; Pentagon's drone strike admission; R Kelly's assistant speaks",
+            "secondDuration": 5216,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

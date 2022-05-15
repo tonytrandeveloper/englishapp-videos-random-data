@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hbsVw7wJ3VU",
-            "title": "Live: Florida Gov. DeSantis Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 4105,
-            "group": "group_7"
-        },
-        {
             "videoId": "j2mJ32N7kdg",
             "title": "President Donald Trump Speaks At Fundraiser In Utica, New York | NBC News",
             "secondDuration": 2959,
@@ -31,8 +25,14 @@
             "title": "Bernie Sanders Challenges Clinton For 2016 Nomination | NBC Nightly News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "QAA3FZROYAI",
+            "title": "North Korea’s Kim Jong Un Lauds ‘Productive And Wonderful’ Talks With Mike Pompeo | NBC News",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

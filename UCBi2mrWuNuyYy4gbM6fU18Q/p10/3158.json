@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3F_ezpjrKIM",
-            "title": "Hurricane Irene 2011: Are People's Homes Ready to Survive the East Coast Storm?",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "O4GcmnRnsfc",
             "title": "‘National Plan For Vacation Day’",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "Early voters sound off about long lines",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "C0jcPXxFZUM",
+            "title": "5-Hour Energy Empire Under Scrutiny",
+            "secondDuration": 280,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

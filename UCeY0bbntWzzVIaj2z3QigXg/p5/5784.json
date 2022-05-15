@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eN4rDQLQblQ",
-            "title": "Into Bloomberg’s Legacy of Stop and Frisk | Into America Podcast - Ep 1 | NBC News and MSNBC",
-            "secondDuration": 1666,
-            "group": "group_7"
-        },
-        {
             "videoId": "b_fePCzrAJI",
             "title": "President Donald Trump To Sign Russia Sanctions ‘This Week,’ Mike Pence Says | NBC News",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "The Right Way To Do A Lunge | Better | NBC News",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "RkQtnmDJHaM",
+            "title": "College Students Blast Administrators Over COVID19 Outbreaks On Campus | NBC Nightly News",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

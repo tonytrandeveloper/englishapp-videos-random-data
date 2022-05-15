@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QUt8rcD9qLc",
-            "title": "Trump To Utah Governor: ‘How’s Mitt Romney? You Keep Him, We Don’t Want Him.’ | NBC News",
-            "secondDuration": 42,
-            "group": "group_7"
-        },
-        {
             "videoId": "nfTro7L4H8E",
             "title": "North Korea Warns President Donald Trump Summit Could Be Called Off | NBC Nightly News",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Sailors Missing, Injured After U.S. Warship Collides With Tanker | NBC News",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "TkOXu_gUx7Y",
+            "title": "Cruise Ship At Center Of Coronavirus Scare Sparks Anger After Docking At Mexican Resort | NBC News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

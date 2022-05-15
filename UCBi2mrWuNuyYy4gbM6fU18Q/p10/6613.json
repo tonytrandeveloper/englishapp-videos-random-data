@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HqI7NzwT4mQ",
-            "title": "The Bottom Line on Afghanistan",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "RckIQOPCS5U",
             "title": "'This Week Sunday Spotlight': Bono on World AIDS Day",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "Trump blasts 2 bombshell reports on Russia investigation",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "qlz4IxmpQcE",
+            "title": "Republican National Convention 2012: Diane Sawyer Discusses Trip Around Tampa, Florida",
+            "secondDuration": 546,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zZv9cUEhE1o",
-            "title": "Alleged highway sniper arrested in North Carolina",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "Cc5JwcGJ_Bk",
             "title": "Live Stream: Oscars 2017 Watch Party | ABC News",
             "secondDuration": 19140,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Erin Brady of Connecticut Is The New Miss USA",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "NVqZrB2w2kA",
+            "title": "Tour of New Flickr Site",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

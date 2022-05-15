@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "at8QzTGTM5I",
-            "title": "Freak Storm Batters Istanbul With Golf Ball-Sized Hail | NBC News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "L4fJzw6-mGg",
             "title": "Hyundai Unveils Its ‘Walking Car’ At CES | NBC News",
             "secondDuration": 84,
@@ -301,8 +295,14 @@
             "title": "Watch Tornadoes, Heavy Rains From Dorian Hit The Carolinas | NBC News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "fCOYuur9AHo",
+            "title": "Deserted Paris Streets Show The Full Effect Of Coronavirus Lockdown | NBC News",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

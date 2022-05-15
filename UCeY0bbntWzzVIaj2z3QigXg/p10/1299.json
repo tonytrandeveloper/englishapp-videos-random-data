@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "O8wdKlrYQ34",
-            "title": "New Whistleblower Raises Concerns About What Is Their ‘Firsthand’ Knowledge | NBC Nightly News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "reHNmYygVp8",
             "title": "College Budgeting: Fun, Food, Free Time | College Game Plan | NBC News",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "Prof. Feldman: Trump Was 'Corruptly Abusing The Office Of The Presidency' | NBC News",
             "secondDuration": 604,
             "group": "group_7"
+        },
+        {
+            "videoId": "GSOeMatUbGM",
+            "title": "Family Of Gabby Petito Holds News Conference",
+            "secondDuration": 1111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T3edsHlI8go",
-            "title": "Manhunt In Nashville For ‘Cold-Blooded’ Murderers | NBC Nightly News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "nMu_8h0elms",
             "title": "Biden Holds Rally With Klobuchar On Eve Of Super Tuesday | NBC News (Live Stream Recording)",
             "secondDuration": 4500,
@@ -31,8 +25,14 @@
             "title": "Texas Attacker Tweeted With Suspected ISIS Recruiter | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "uZ0YIIdw7qU",
+            "title": "Schumer On COVID-19: ‘It Doesn’t Look As Evil As It Is’ | NBC News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

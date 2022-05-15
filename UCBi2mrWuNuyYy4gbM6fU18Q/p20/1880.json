@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "c5bMpwkT2DM",
-            "title": "Murder of the Chief's Daughter",
-            "secondDuration": 424,
-            "group": "group_7"
-        },
-        {
             "videoId": "8uXVwfyVlSw",
             "title": "Extreme Weather: Record Cold From Maine to Florida",
             "secondDuration": 199,
@@ -121,8 +115,14 @@
             "title": "Russia, Belarus conduct military drills amid Ukraine tensions I ABCNL",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "7cG5hJExWlY",
+            "title": "Diane Sawyer in the Gulf",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

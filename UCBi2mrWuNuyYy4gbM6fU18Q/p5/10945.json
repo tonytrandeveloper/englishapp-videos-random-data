@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IbQ9LiR01-I",
-            "title": "Pilot of the Helicopter That crashed Into Water Speaks Out",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "VdPxwrPWonk",
             "title": "Doctor Accused of Misdiagnosing Cancer for Medicare Payments",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Jason Collins Interview 2013: First Gay Pro Athlete to Come Out Speaks With 'GMA'",
             "secondDuration": 349,
             "group": "group_7"
+        },
+        {
+            "videoId": "3gLYa0LmVfE",
+            "title": "ABC News Prime: 16 million Americans file for unemployment, NY death toll, food banks help Americans",
+            "secondDuration": 3621,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

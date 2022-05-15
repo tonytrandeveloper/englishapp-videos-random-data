@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4crIcBIU78I",
-            "title": "Swine Flu: How Bad Is It?",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "oafsFJwj5js",
             "title": "Cat Makes Millions for Famous Owner",
             "secondDuration": 38,
@@ -61,8 +55,14 @@
             "title": "Astronaut Christina Koch returns home after 1 year in space | ABC News Prime",
             "secondDuration": 308,
             "group": "group_7"
+        },
+        {
+            "videoId": "IEsp918Yelo",
+            "title": "Angelina Jolie Faces the Executive Who Criticized the Hollywood Star",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

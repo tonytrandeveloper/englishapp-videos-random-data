@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "e4rwFwVKHuQ",
-            "title": "Severe storms expected across the US",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wb3q5Lo7OvM",
             "title": "Los Angeles prepares for a public memorial service for Kobe Bryant | ABC News",
             "secondDuration": 159,
@@ -61,8 +55,14 @@
             "title": "Millions of people in Florida plan to ride out the storm at home",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "v4bJgwCfNPI",
+            "title": "Amplified: David Bazan",
+            "secondDuration": 435,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AzCXmqM6fBo",
-            "title": "FCC Regulator Imposing Record Fines For Those Annoying Robocalls | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "wyq33wJySOI",
             "title": "Disinformation, Conspiracy Theories Target Latino Voters In Florida Ahead Of Election | NBC News NOW",
             "secondDuration": 285,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump And First Lady Honor Military Mothers Ahead Of Mother’s Day | NBC News",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "fI1hdmM5Rm4",
+            "title": "White House Covid Response Team Holds Briefing | NBC News",
+            "secondDuration": 1006,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6znm7-jnWEc",
-            "title": "Virgin Galactic G-Force Training | NBC News",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "sHHDCluQxwY",
             "title": "Mike Pence Publicly Receives Covid Vaccine I NBC News",
             "secondDuration": 1494,
@@ -31,8 +25,14 @@
             "title": "Live: Trump Speaks To Reporters While Departing White House I NBC News",
             "secondDuration": 416,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z1nZVJXWjfI",
+            "title": "James Comey: Donald Trump’s Public Defamations Of FBI Were ‘Lies, Plain And Simple’ | NBC News",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

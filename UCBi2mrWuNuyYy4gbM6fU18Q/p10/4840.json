@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HYq66_Yo2qA",
-            "title": "Danger on Thin Ice: How to Survive Fall Into Icy Water",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "a4T-yGqaHR0",
             "title": "Sister Accused of Killing Her Twin in Hawaii",
             "secondDuration": 61,
@@ -61,8 +55,14 @@
             "title": "Jake Tapper on Obama's Speech to Wall Street",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "vZ6bixu3fIY",
+            "title": "Ted Cruz First GOP Candidate Set to Run in 2016 Presidential Race",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

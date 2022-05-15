@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "aFLZc9_rjjE",
-            "title": "Interview with David Plouffe",
-            "secondDuration": 675,
-            "group": "group_7"
-        },
-        {
             "videoId": "15xaC77FprQ",
             "title": "President Trump Remarks at First Inaugural Ball",
             "secondDuration": 206,
@@ -301,8 +295,14 @@
             "title": "Restaurants that are reopening must navigate a new normal",
             "secondDuration": 621,
             "group": "group_7"
+        },
+        {
+            "videoId": "TJBR68zIA6I",
+            "title": "Hospitalized Soldier, Thought to Be Unconscious, Surprises With Salute",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

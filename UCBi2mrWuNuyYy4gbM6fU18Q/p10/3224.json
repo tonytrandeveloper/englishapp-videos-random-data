@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m42xwwf-tps",
-            "title": "Black Friday Arriving Earlier This Year",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "9PGP_lnq6-M",
             "title": "Hillary Clinton talks about her four part docu-series, 'Hillary'",
             "secondDuration": 358,
@@ -61,8 +55,14 @@
             "title": "Cab Driver Returns $187,000 Left in Car",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "2DVw_BbVzCg",
+            "title": "Iowa caucuses voting results delayed | ABC News",
+            "secondDuration": 295,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

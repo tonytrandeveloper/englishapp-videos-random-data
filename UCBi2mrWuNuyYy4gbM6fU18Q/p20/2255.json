@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jasaTY2qC10",
-            "title": "Global vaccine distribution",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "z8zQzZD0axE",
             "title": "'Star Wars' cosplay makes you infinitely cooler, from a certain point of view",
             "secondDuration": 118,
@@ -121,8 +115,14 @@
             "title": "The town of Paradise celebrates 1st high school football game since wildfires",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "9445baaZ-rk",
+            "title": "MICHAEL JACKSON DOCUMENTARY | \"Journey From Motown to Off the Wall\" by Spike Lee",
+            "secondDuration": 410,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

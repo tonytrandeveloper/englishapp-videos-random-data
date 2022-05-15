@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1iav0Ucd2Xw",
-            "title": "Futuristic Reclining Workstation",
-            "secondDuration": 29,
-            "group": "group_7"
-        },
-        {
             "videoId": "ebtHfSP9nak",
             "title": "Threats Against the President",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton Delivers Message to Trump Supporter | ABC News",
             "secondDuration": 28,
             "group": "group_7"
+        },
+        {
+            "videoId": "UNuYdHzk3e4",
+            "title": "FSU Professor Murder | Woman Arrested in Slaying",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

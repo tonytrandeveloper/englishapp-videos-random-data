@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7ctxMS9hrus",
-            "title": "Why Americans Are Still Split On Impeachment After Public Hearings | NBC News Now",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "VuKNq7UM1v0",
             "title": "Security Camera Hacked In Mississippi Family’s Child’s Bedroom | NBC Nightly News",
             "secondDuration": 85,
@@ -121,8 +115,14 @@
             "title": "Eyewitnesses Recount Horror Of Texas Church Shooting | NBC Nightly News",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "qcsGwFZeXBk",
+            "title": "President Donald Trump Visits Southern Border To Push For Proposed Border Wall | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

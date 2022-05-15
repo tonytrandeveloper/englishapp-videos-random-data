@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PgPnbWg7TwM",
-            "title": "New Way Of Defining Alzheimer’s Aims To Find Disease Sooner | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "qG0rWUVsvSg",
             "title": "Girl Football Players In A 'League Of Their Own' | NBC Nightly News",
             "secondDuration": 168,
@@ -61,8 +55,14 @@
             "title": "This Flight Attendant Has Been On The Job For 60 Years | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "oNaPS0PaBHY",
+            "title": "Senate Votes To Advance Bipartisan Infrastructure Bill",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

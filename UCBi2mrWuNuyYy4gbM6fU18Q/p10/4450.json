@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qmaEYbQPCuk",
-            "title": "Grand jury declines to charge 3 officers involved in Breonna Taylor’s death",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "kHw2tGYd150",
             "title": "Washington Post's Karen Tumulty on 'Top Line'",
             "secondDuration": 273,
@@ -61,8 +55,14 @@
             "title": "The Epic Journey of NFL's Michael Oher",
             "secondDuration": 459,
             "group": "group_7"
+        },
+        {
+            "videoId": "lzXsuPEZuvc",
+            "title": "Can Afghan Army Fight Taliban Alone?",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

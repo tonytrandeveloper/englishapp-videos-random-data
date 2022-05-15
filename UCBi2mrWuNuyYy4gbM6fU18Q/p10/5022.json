@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-4alUZEoNik",
-            "title": "USWNT star Megan Rapinoe speaks at the team's World Cup victory celebration | ABC News",
-            "secondDuration": 429,
-            "group": "group_7"
-        },
-        {
             "videoId": "IC9s11MWHXg",
             "title": "Urgent search for survivors in deadly building collapse l ABC News",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Housing Market Meltdown",
             "secondDuration": 365,
             "group": "group_7"
+        },
+        {
+            "videoId": "ntDkvao58nY",
+            "title": "President Zelenskyy says that talks with Russia went 'pretty good' l ABCNL",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

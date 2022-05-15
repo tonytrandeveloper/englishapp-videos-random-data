@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_NxKFpvrLxs",
-            "title": "NOW Tonight with Joshua Johnson Full Episode - Dec. 16 | NBC News NOW",
-            "secondDuration": 3072,
-            "group": "group_7"
-        },
-        {
             "videoId": "c0lt0Cf2kQc",
             "title": "Live: Trump Delivers Remarks On The Environment | NBC News",
             "secondDuration": 1350,
@@ -31,8 +25,14 @@
             "title": "A.G. Loretta Lynch: Inappropriate To Comment On Hillary Clinton Email Decision | NBC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "BqDjZsnLE9M",
+            "title": "Hate Crimes Against Asian Americans On The Rise | NBC News NOW",
+            "secondDuration": 430,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

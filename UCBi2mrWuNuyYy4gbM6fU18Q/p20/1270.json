@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MelWEbMnPvI",
-            "title": "Homeland Security Preps For Zombie Apocalypse",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "U2lxIM8Oe3M",
             "title": "Biden’s $1.9 trillion pandemic relief bill expected to pass Wednesday morning",
             "secondDuration": 104,
@@ -121,8 +115,14 @@
             "title": "Former Speaker of the House Dennis Hastert Indicted",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "OPHzAqFKhkM",
+            "title": "People Magazine's Most Beautiful Woman Revealed",
+            "secondDuration": 218,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

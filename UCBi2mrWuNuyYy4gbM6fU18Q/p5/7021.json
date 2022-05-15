@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9JY56Ooijrw",
-            "title": "Inside the Eye of Hurricane Nicole [DRONE FOOTAGE]",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "rBYR3dWiwcI",
             "title": "The state of the race",
             "secondDuration": 254,
@@ -31,8 +25,14 @@
             "title": "Mixed messages over the threat in Ukraine",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "KeMSf_9cQbI",
+            "title": "Gunman opens fire at congressional baseball practice",
+            "secondDuration": 610,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

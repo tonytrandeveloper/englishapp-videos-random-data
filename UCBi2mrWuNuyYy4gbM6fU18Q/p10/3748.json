@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "C_MFHVHlRhs",
-            "title": "Pokemon Go's Impact on the Brain",
-            "secondDuration": 412,
-            "group": "group_7"
-        },
-        {
             "videoId": "z4hoVGSkzko",
             "title": "Unemployment benefits set to run out amid COVID-19 l GMA",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "Beyonce Postpones Formation Tour for 'Vocal Rest'",
             "secondDuration": 279,
             "group": "group_7"
+        },
+        {
+            "videoId": "X8GM-TVtavA",
+            "title": "Tesla Model 3 Attracts Major Fanfare",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

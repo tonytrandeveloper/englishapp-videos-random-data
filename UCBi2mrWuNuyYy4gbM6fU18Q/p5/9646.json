@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Pda2ifBGDWQ",
-            "title": "Charleston Church Shooting Is 'Heartbreaking,' President Obama Says",
-            "secondDuration": 782,
-            "group": "group_7"
-        },
-        {
             "videoId": "1Bif_mse0_0",
             "title": "Alleged kidnapper of college student appears in court",
             "secondDuration": 244,
@@ -31,8 +25,14 @@
             "title": "Americans evacuate virus epicenter in China l ABC News",
             "secondDuration": 1414,
             "group": "group_7"
+        },
+        {
+            "videoId": "R86a_ZkPV04",
+            "title": "CDC director testifies on COVID-19 response",
+            "secondDuration": 333,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

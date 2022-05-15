@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_4Pt7nCMICU",
-            "title": "Sun-Powered Plane Begins Journey to Cross Ocean",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qj0UmebUbvU",
             "title": "'Little Miss Flint' to Meet With Obama",
             "secondDuration": 31,
@@ -31,8 +25,14 @@
             "title": "Chandra Levy Murder's New Twist",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "kEzh71PGGvw",
+            "title": "By the Numbers: COVID-19 versus the flu",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

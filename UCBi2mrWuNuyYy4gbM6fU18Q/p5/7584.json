@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WQqfKiVwofo",
-            "title": "2020 Democratic candidates campaign in Iowa this weekend l ABC News",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "WBbFcZVO6fg",
             "title": "Harrison Ford, Carrie Fisher Talk 'Star Wars' Then and Now | ABC News",
             "secondDuration": 400,
@@ -31,8 +25,14 @@
             "title": "Authorities Release Training Videos on 'How to Spot Terror'",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "O07wE6j2Q-Q",
+            "title": "Sen. John Ensign Admits Cheating on Wife",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

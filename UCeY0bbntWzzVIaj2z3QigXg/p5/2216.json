@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "91CiHmrCA38",
-            "title": "Nightly News Full Broadcast - March 18",
-            "secondDuration": 1128,
-            "group": "group_7"
-        },
-        {
             "videoId": "F_7jvxxZy3E",
             "title": "Hurricane Willa Strengthens To Category 5 Storm | NBC Nightly News",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Watch: Bodycam Shows Ohio Police Pull Disabled Black Man From Car",
             "secondDuration": 219,
             "group": "group_7"
+        },
+        {
+            "videoId": "1HS6dOahr8M",
+            "title": "WHO Chief: ‘We Want Accountability More Than Anyone’ | NBC News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

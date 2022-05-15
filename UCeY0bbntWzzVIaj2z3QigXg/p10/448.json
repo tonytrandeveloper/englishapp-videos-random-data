@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yrHahfTB5cg",
-            "title": "Nightly News Full Broadcast - Jan. 6",
-            "secondDuration": 1142,
-            "group": "group_7"
-        },
-        {
             "videoId": "HYLcbHXHxIA",
             "title": "Bernie Sanders Supporters Protest the DNC | 360 Video | NBC News",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "RIP Headphone Jack? Apple May Do It Again | NBC News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "N-ROFqdDa_g",
+            "title": "Battle Of The Bagel: California Bakery Creates Bagel Room In Competition To New York | NBC News NOW",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

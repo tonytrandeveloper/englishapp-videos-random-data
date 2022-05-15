@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r7w3hENAnRs",
-            "title": "Trump Receives FEMA Briefing On Hurricane Laura | NBC News",
-            "secondDuration": 555,
-            "group": "group_7"
-        },
-        {
             "videoId": "lGalgUS1kC0",
             "title": "LIVE: Biden Delivers Remarks on U.S. Special Forces Raid That Killed ISIS Leader | NBC News",
             "secondDuration": 611,
@@ -61,8 +55,14 @@
             "title": "Thousands Of Flights Canceled As Covid Cases Lead To Staff Shortages",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "f9jrMZ7QvpE",
+            "title": "Watch Live: Trump At National Republican Congressional Committee Annual Spring Dinner | NBC News",
+            "secondDuration": 8159,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

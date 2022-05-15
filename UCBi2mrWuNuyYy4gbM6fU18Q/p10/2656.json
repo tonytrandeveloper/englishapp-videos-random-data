@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Q9U88SAclXg",
-            "title": "George W. Bush Says Wars Were 'Worth Fighting'; Discusses Working with Disabled Veterans",
-            "secondDuration": 206,
-            "group": "group_7"
-        },
-        {
             "videoId": "HRsfNkZ7Qi4",
             "title": "Birthday Bill: Parents Get Charged When Child Doesn’t Show",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "How Obama Won: Election 2012 Breakdown",
             "secondDuration": 355,
             "group": "group_7"
+        },
+        {
+            "videoId": "dMn5pxfVUUk",
+            "title": "Escaped South Carolina Inmate Captured by Police",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

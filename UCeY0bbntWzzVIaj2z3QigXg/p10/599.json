@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "b_vk74vwLU8",
-            "title": "After Trump Administration, Biden Faces Uncertain Foreign Relations | NBC News NOW",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "j5y6zohUlTc",
             "title": "Prosecutors Expect To Charge More Than 500 For Taking Part In Capitol Riot | NBC News NOW",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "NFL Suspends Tom Brady Four Games Over Deflate-Gate | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "DU-CG2NKv9Q",
+            "title": "How The West Was Lost: Climate Change | Meet The Press Reports",
+            "secondDuration": 1645,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

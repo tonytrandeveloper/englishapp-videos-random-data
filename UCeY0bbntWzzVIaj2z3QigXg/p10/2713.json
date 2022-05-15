@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YAwEcEgVEeA",
-            "title": "Lakers Players Return To Practice And ‘Grieved Together’ | NBC News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "wqzHrHTjfVg",
             "title": "Police Investigate Kenosha Bar Shooting That Left Three Dead, Two Injured | Meet The Press| NBC News",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "Rodney Floyd Reacts To Chauvin Verdict: 'I'm Feeling Tears Of Joy' | NBC News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "3GYICbqxfCo",
+            "title": "President Trump Has No Authority “To Give Away Jerusalem To An Occupying Power” | NBC Nightly News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

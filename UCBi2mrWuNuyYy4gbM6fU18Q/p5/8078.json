@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gCXsmFlYjzw",
-            "title": "Kevin McCarthy delivers remarks on Capitol breach",
-            "secondDuration": 501,
-            "group": "group_7"
-        },
-        {
             "videoId": "5IvmFZYlu3Q",
             "title": "Abandoned Places: A Haunting Photo Series",
             "secondDuration": 35,
@@ -31,8 +25,14 @@
             "title": "Government shutdown cost $8 billion in first quarter of 2019",
             "secondDuration": 942,
             "group": "group_7"
+        },
+        {
+            "videoId": "--xqFPcC_2Y",
+            "title": "New York state legislature votes to strip Cuomo of emergency powers | WNT",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

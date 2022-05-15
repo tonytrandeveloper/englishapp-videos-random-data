@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lqzvRBWanlY",
-            "title": "San Jose Transit Official To Families: 'We Are Here For You'",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "eiQOrYv1mR0",
             "title": "156 Women Have Testified Against Larry Nassar | NBC News",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Kirsten Gillibrand On GOP: 'I Don't Think They're Looking For The Truth' | NBC News",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "BYMFnB_HlZ8",
+            "title": "Cedella Marley: \"I have a dream that...\"",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZYaUHVbepAA",
-            "title": "This Year’s NBA Playoffs Are Providing Fans With Intense Action",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "gFmhDQmMmv8",
             "title": "Consumer prices continue to rise",
             "secondDuration": 150,
@@ -121,8 +115,14 @@
             "title": "The Class of 2020 in their own words | ABC NEWS PRIME",
             "secondDuration": 264,
             "group": "group_7"
+        },
+        {
+            "videoId": "CMW67IKvkmI",
+            "title": "Illinois Plane Crash: 7 Dead in Accident after Duke-Wisconsin Game",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

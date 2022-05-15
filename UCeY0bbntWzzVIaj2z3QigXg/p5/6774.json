@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iV7p5nllywM",
-            "title": "White House Holds Press Briefing | NBC News",
-            "secondDuration": 1695,
-            "group": "group_7"
-        },
-        {
             "videoId": "6o4ZnU-MU-0",
             "title": "Donald Trump Attacks V.P. Pick Tim Kaine In Home State | NBC News",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "LIVE: Biden Delivers Remarks on Infrastructure | NBC News",
             "secondDuration": 960,
             "group": "group_7"
+        },
+        {
+            "videoId": "HXM6qk_UQ9o",
+            "title": "Oscar Mayer Paying College Grads To Drive Cross-Country In The ‘Wienermobile’ | NBC Nightly News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

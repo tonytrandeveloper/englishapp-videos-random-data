@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gKzPX6Eu2Z4",
-            "title": "Violent brawl between teacher and student in California classroom",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "ULOCUPLCMhM",
             "title": "Suspect who confessed to Mollie Tibbetts' murder lied about employment",
             "secondDuration": 159,
@@ -121,8 +115,14 @@
             "title": "Hermine Heads up East Coast",
             "secondDuration": 363,
             "group": "group_7"
+        },
+        {
+            "videoId": "eRj8KyAeWSg",
+            "title": "T-Mobile Fined $48M for Slowing 'Unlimited' Data Plans",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

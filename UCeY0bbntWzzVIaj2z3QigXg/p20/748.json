@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sLB1acRogsk",
-            "title": "Morning News NOW Full Broadcast - Dec. 14",
-            "secondDuration": 2778,
-            "group": "group_7"
-        },
-        {
             "videoId": "AeR_UKlNAe0",
             "title": "Women Of Color Celebrate Ancestors Who Fought In Revolutionary War | NBC Nightly News",
             "secondDuration": 134,
@@ -121,8 +115,14 @@
             "title": "Obama Urges U.N. To Combat ISIS, Extremism | NBC News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "y10u84Be8e0",
+            "title": "Doctors On Work Visas Risk Deportation To Care For COVID-19 Patients | NBC News NOW",
+            "secondDuration": 596,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

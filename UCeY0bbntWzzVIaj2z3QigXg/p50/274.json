@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "VVHgcZRrrpc",
-            "title": "Joe Biden Under Pressure To Address Sexual Assault Accusation | NBC Nightly News",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uwrsnp5Ux10",
             "title": "Jewish Americans Turn To Virtual Seders To Connect With Loved Ones | NBC News NOW",
             "secondDuration": 233,
@@ -301,8 +295,14 @@
             "title": "President Donald Trump, Kim Jong-Un Sign Agreement In Historic Meeting | NBC Nightly News",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "fAtsAwGreyE",
+            "title": "Martin Luther King, Jr. On NBC's Meet the Press (1965) | Archives | NBC News",
+            "secondDuration": 1520,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

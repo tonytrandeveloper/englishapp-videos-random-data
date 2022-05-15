@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CYwD-iQkgGM",
-            "title": "New threats from Iran as U.S. troops arrive in the Middle East l ABC News",
-            "secondDuration": 1435,
-            "group": "group_7"
-        },
-        {
             "videoId": "kjKk4PVMEvA",
             "title": "3 paying customers dock at ISS",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "ABC News Prime: Impeachment trial gets underway; Hospital attack in MN; Searching for COVID source",
             "secondDuration": 3615,
             "group": "group_7"
+        },
+        {
+            "videoId": "N3kaLfyDgCA",
+            "title": "Peanut Butter Recall: Which Brands Are Linked?",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

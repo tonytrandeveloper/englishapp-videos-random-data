@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pHis1ls2k98",
-            "title": "Live: NYC Mayor Bill De Blasio Holds Press Conference Amid George Floyd Protests | NBC News",
-            "secondDuration": 5649,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yh-0lDaXwn0",
             "title": "President Donald Trump Makes Remarks On National Security | NBC News",
             "secondDuration": 1447,
@@ -31,8 +25,14 @@
             "title": "Dow Plunges Amid Fears Coronavirus Will Tank Global Economic Growth | NBC Nightly News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "aTZsJNj3sIE",
+            "title": "Inside Los Angeles’ Homeless Crisis",
+            "secondDuration": 296,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

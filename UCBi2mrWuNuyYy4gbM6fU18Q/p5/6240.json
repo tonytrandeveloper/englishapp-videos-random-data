@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B3p8apGVSGU",
-            "title": "Bobby Bones' journey to 'American Idol'",
-            "secondDuration": 440,
-            "group": "group_7"
-        },
-        {
             "videoId": "qXrW8PAiXUg",
             "title": "Trump’s comment ‘sounded like a threat’: Ex-ambassador to Ukraine | ABC News",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "East Coast Braces for Hurricane Irene",
             "secondDuration": 399,
             "group": "group_7"
+        },
+        {
+            "videoId": "j6Ca4seNGfE",
+            "title": "'Queer Eye' cast talks impact of show and new season with Adam Rippon",
+            "secondDuration": 381,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

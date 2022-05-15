@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1iav0Ucd2Xw",
-            "title": "Futuristic Reclining Workstation",
-            "secondDuration": 29,
-            "group": "group_7"
-        },
-        {
             "videoId": "ebtHfSP9nak",
             "title": "Threats Against the President",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "Weird State Laws | ABC News",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "S9_EBcn32tY",
+            "title": "Terror Flashpoint: How to Stop Radicalization",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

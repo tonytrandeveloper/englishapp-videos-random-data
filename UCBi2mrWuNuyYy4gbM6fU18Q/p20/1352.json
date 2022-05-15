@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tCVy2iFRl7o",
-            "title": "Police trying to figure out what sparked deadly Seattle shooting spree",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vx390qHaJGs",
             "title": "Battle of the Bite: Tricks to Tackling Mosquito Season",
             "secondDuration": 146,
@@ -121,8 +115,14 @@
             "title": "A Girl's Life, Interrupted by Tics",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "9W4W6mtSR38",
+            "title": "How journalists reconstructed 'Black Wall Street' online 100 years later",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

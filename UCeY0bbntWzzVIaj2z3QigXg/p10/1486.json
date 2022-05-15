@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G3l6Bp1lUrk",
-            "title": "Ukraine's Zelenskiy Says Investigations Could Start 'If The Law Was Broken' | NBC News",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "DYEFfd63AxY",
             "title": "Hundreds Test Positive For Coronavirus At Georgia Summer Camp | NBC Nightly News",
             "secondDuration": 171,
@@ -61,8 +55,14 @@
             "title": "Amazon Under Fire As QAnon Book Climbs Best-Seller List | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "f0x1A2M132k",
+            "title": "White House Holds Press Briefing: March 26 | NBC News",
+            "secondDuration": 2203,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

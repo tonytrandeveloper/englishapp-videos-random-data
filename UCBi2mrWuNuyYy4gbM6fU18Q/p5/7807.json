@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XaIWz176D5g",
-            "title": "Dashcam Captures Horrific Train Collision In New York",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "UJotLsUxj5Q",
             "title": "Sean Spicer Interview on Trump, Russia Hacking",
             "secondDuration": 236,
@@ -31,8 +25,14 @@
             "title": "Trump signs executive order ending family separation policy at US-Mexico border",
             "secondDuration": 885,
             "group": "group_7"
+        },
+        {
+            "videoId": "DvBylNZKe6U",
+            "title": "Latest updates on COVID-19: July 20, 2020",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

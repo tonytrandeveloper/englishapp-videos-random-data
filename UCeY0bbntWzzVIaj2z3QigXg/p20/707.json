@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zUekqUtTpxc",
-            "title": "President Donald Trump Warns North Korea: Do Not Try Us | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "7hrHZsCbXD8",
             "title": "Anti-Semitic Flyers Blanket Colleyville, Texas, Neighborhood Following Synagogue Hostage Crisis",
             "secondDuration": 140,
@@ -121,8 +115,14 @@
             "title": "Lady Gaga Opens Up About Mental Health | NBC Nightly News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "V9cmdykA3rM",
+            "title": "Coroner Speaks Out On Otto Warmbier’s Death | NBC Nightly News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

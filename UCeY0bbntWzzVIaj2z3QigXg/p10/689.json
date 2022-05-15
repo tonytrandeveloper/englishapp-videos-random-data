@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dhfj8_GzBRA",
-            "title": "House Passes Bill To Decriminalize Marijuana | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "B4m75rYE1aI",
             "title": "Hurricane Florence Brings High Flood Inland Risk Miles From The Coast | NBC Nightly News",
             "secondDuration": 80,
@@ -61,8 +55,14 @@
             "title": "FAA Warns Of Uptick In Unruly And Dangerous Passenger Behavior | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "eVlT9tzipLY",
+            "title": "Pacquiao vs Mayweather: Boxing's Richest Prize Fight | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

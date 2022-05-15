@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1b3PhfldHEw",
-            "title": "GOP 'Non-Candidate' Candidates Stay in Spotlight",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "ROQ13HsmcBI",
             "title": "Trump Nominted For President at Republican Convention",
             "secondDuration": 484,
@@ -31,8 +25,14 @@
             "title": "The Conversation: Haiti Progress Report",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "6ke2leudWEo",
+            "title": "Key moments from day 1 of the Derek Chauvin trial",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

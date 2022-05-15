@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g8uWAGs7rSM",
-            "title": "Dr. Anthony Fauci Discusses Covid Vaccinations For Children",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "tOb3qwuOKDo",
             "title": "LAPD Testing Knife Allegedly Found on OJ Simpson’s Former Property | NBC Nightly News",
             "secondDuration": 203,
@@ -31,8 +25,14 @@
             "title": "New York Orders Travelers From More States To Quarantine For Two Weeks | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "KMon21NlNq4",
+            "title": "Chicago Trauma: Psychological Wounds Go Beyond the Bloodshed | NBC News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

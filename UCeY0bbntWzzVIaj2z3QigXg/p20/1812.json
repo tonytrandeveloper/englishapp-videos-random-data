@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EEfiyEQM3mU",
-            "title": "White House Press Briefing - November 27, 2017 | NBC News",
-            "secondDuration": 992,
-            "group": "group_7"
-        },
-        {
             "videoId": "m-2iSdUC6kU",
             "title": "White House: President Obama, Donald Trump Have Spoken Since Oval Office Meeting | NBC News",
             "secondDuration": 66,
@@ -121,8 +115,14 @@
             "title": "Watch Live: House Speaker Pelosi Holds Weekly News Conference | NBC News",
             "secondDuration": 1916,
             "group": "group_7"
+        },
+        {
+            "videoId": "O37JSO_qOpA",
+            "title": "Juror Dismissed in Rittenhouse Trial Over Joke About Jacob Blake Shooting",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

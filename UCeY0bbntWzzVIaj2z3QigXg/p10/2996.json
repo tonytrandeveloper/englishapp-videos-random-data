@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z1ggwQXmLCs",
-            "title": "Amber Guyger Found Guilty Of Murder In Neighbor’s Shooting Death | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "KR6NU5gqbm8",
             "title": "Meet The 86-Year-Old Soaring To Great Heights As The World’s Oldest Trapeze Artist | Nightly News",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Dick’s Sporting Goods CEO On Mass Shooting: ‘Here We Go Again’ | NBC News Now",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "EDuALj7FhEk",
+            "title": "Bar Owner Who Called 911 On Bombing Suspect: 'I'm Not A Hero' | NBC News",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

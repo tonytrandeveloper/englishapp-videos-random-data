@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "07WFnsag0Yg",
-            "title": "3.9 million acres burned in California wildfires",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "8NbndGaDfUY",
             "title": "10 killed in supermarket shooting in Boulder, Colorado | WNT",
             "secondDuration": 498,
@@ -61,8 +55,14 @@
             "title": "Melania Trump Opens Up on Presidential Race",
             "secondDuration": 355,
             "group": "group_7"
+        },
+        {
+            "videoId": "m5yPp5maK8s",
+            "title": "Trump lobbies for health care at Boy Scout jamboree",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

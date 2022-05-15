@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VLx3kdNSmEw",
-            "title": "Las Vegas shooter's girlfriend could be central to investigation",
-            "secondDuration": 213,
-            "group": "group_7"
-        },
-        {
             "videoId": "S7VgoAfkxW0",
             "title": "Hurricane Michael survivor describes storm's strength",
             "secondDuration": 206,
@@ -31,8 +25,14 @@
             "title": "Kamiyah Mobley shares about learning from her mother she was stolen as a baby | Nightline",
             "secondDuration": 564,
             "group": "group_7"
+        },
+        {
+            "videoId": "oh2KcQc_PGM",
+            "title": "Teen rescued after 49 days at sea",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

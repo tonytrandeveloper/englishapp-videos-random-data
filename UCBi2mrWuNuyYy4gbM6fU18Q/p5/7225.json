@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xJhZza-Sv_M",
-            "title": "Felicity Huffman to plead guilty in college admissions cheating scandal",
-            "secondDuration": 330,
-            "group": "group_7"
-        },
-        {
             "videoId": "ti_Jr-sRaAs",
             "title": "Congressmen describe how the GOP baseball shooting unfolded",
             "secondDuration": 297,
@@ -31,8 +25,14 @@
             "title": "Classified GOP memo focuses on warrant to monitor Carter Page communications",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "hBRs0__Vj0k",
+            "title": "Trump Cabinet Nominees Waiting for Approval",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

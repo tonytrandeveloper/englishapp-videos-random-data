@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R9tS9DfHr6Q",
-            "title": "Thousands evacuate following volcanic eruption",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "207B0F2_dQU",
             "title": "Vanderbilt University Sexual Assualt Trial: Ex-Football Player Corey Batey Takes Stand",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "Are Those Infomercials Accurate?",
             "secondDuration": 380,
             "group": "group_7"
+        },
+        {
+            "videoId": "PY0B6nI4nu4",
+            "title": "Unrest Plagues Iran After Election",
+            "secondDuration": 459,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

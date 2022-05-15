@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1A3nmQ3bFtk",
-            "title": "'Shark Tank' sharks reveal their biggest deals made in the tank: Part 1",
-            "secondDuration": 382,
-            "group": "group_7"
-        },
-        {
             "videoId": "dsi8UWXkGl0",
             "title": "MH370 Wing Flap Believed to be Found",
             "secondDuration": 31,
@@ -31,8 +25,14 @@
             "title": "US Companies Look to 'Medical Tourism' to Cut Costs",
             "secondDuration": 542,
             "group": "group_7"
+        },
+        {
+            "videoId": "0m9sxhjruBE",
+            "title": "Klobuchar criticizes Trump for ‘siding with dictators over allies’ | ABC News",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

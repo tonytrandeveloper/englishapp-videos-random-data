@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QguEfBMhpyc",
-            "title": "Hawaii Plane Crash Caught on Tape | Good Morning America | ABC News",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "BcG-io6Hvis",
             "title": "Sandy Hook Shooting Investigation Report: Grim Details, No Motive",
             "secondDuration": 146,
@@ -121,8 +115,14 @@
             "title": "Police Officer Shot, Suspect Killed",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "_FZbgnnl2ks",
+            "title": "'Stand your ground' shooter charged with manslaughter",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

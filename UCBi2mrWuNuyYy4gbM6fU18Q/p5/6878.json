@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nxLbnPpnx0M",
-            "title": "Bahamas officials probing tour-boat blast that killed US woman",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "PlNYL9i_eKg",
             "title": "Donald Trump Calls Rick Perry 'Impressive' in Interview With George Stephanopoulos",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "Black Friday Mayhem: Fights Over Doorbuster Sales",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "noDY9uZETac",
+            "title": "President Obama Takes Aim at Republicans",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

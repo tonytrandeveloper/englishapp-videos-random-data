@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fZssv1FcVLA",
-            "title": "Syria Violence Continues With Massacre of 32 Children",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "0dRwDmBtAtY",
             "title": "Coast Guard Rescue Video: 5 California Sailors Saved, 1 Dead After Boat Hits San Clemente Island",
             "secondDuration": 127,
@@ -121,8 +115,14 @@
             "title": "Oprah on Oprah",
             "secondDuration": 543,
             "group": "group_7"
+        },
+        {
+            "videoId": "7UWMXjKyHdo",
+            "title": "Lion Lunges at Boy at Zoo in Japan",
+            "secondDuration": 34,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

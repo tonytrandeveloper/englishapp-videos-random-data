@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "apy9tL4ZhmQ",
-            "title": "Richard Engel, NBC Correspondent, Journalist, Freed After Kidnapping, Firefight in Syria",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y-Xv9CQ4f4A",
             "title": "NASCAR Driver Kurt Busch Says Girlfriend Was An Assassin",
             "secondDuration": 114,
@@ -121,8 +115,14 @@
             "title": "11 in Saudi Arabia face indictments for journalist's death",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "EJ-3MMqd0gw",
+            "title": "Massive infernos devastate Colorado",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

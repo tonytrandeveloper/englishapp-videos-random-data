@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "P1iznicM7ZI",
-            "title": "4 major fires continue to burn and endanger residents in California",
-            "secondDuration": 267,
-            "group": "group_7"
-        },
-        {
             "videoId": "vBUupBcfpDM",
             "title": "Drought Destroys Corn Crop: Global Ripple Effect",
             "secondDuration": 187,
@@ -121,8 +115,14 @@
             "title": "Jon Stewart Leaving ‘The Daily Show’",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "f8GZ3Wmm9Ps",
+            "title": "'Smart Bomb' Cancer Drug Announced at Chicago Conference",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

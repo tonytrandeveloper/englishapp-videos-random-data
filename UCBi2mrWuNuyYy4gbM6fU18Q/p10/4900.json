@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "I28_9eAwEW4",
-            "title": "Americans Struggling to Make Ends Meet | A Hidden America with Diane Sawyer (Nightline)",
-            "secondDuration": 571,
-            "group": "group_7"
-        },
-        {
             "videoId": "wHcEUnIWa-U",
             "title": "Oklahoma teen accused of threatening to gun down students at high school",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Austrian Hotel Held Hostage by Electronic Hackers | ABC News",
             "secondDuration": 450,
             "group": "group_7"
+        },
+        {
+            "videoId": "efPodmsnP8o",
+            "title": "The Rundown: Top headlines today: April 16, 2021",
+            "secondDuration": 250,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

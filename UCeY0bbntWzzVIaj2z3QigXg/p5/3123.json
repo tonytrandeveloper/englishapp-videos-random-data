@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MCN-jnshnXc",
-            "title": "Ohio Gov. Mike DeWine Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 5125,
-            "group": "group_7"
-        },
-        {
             "videoId": "9BVumxionvE",
             "title": "Equinox, Soul Cycle Face Backlash For Corporate Owner’s Donald Trump Fundraiser | NBC Nightly News",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Paris Shaken As Police And ‘Yellow Jackets’ Clash In Fourth Weekend Of Protests | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "FskTKqqL6jA",
+            "title": "‘Accidental Americans’ Push Back On Paying U.S. Taxes | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LJZKGBllIDA",
-            "title": "This Morning’s Top Headlines – March 3 | Morning News NOW",
-            "secondDuration": 1244,
-            "group": "group_7"
-        },
-        {
             "videoId": "jfapP7P3060",
             "title": "John Elway On Painful Hand Condition: The Disease Gets ‘Worse And Worse’ | NBC News Now",
             "secondDuration": 533,
@@ -121,8 +115,14 @@
             "title": "Trained Bumble Bees Are Like Tiny Soccer Players | Mach | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZfLjzRa1kL0",
+            "title": "What Would A Radically Democratic Approach To YouTube Moderation Look Like? | Think | NBC News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r9jdS8u_4UE",
-            "title": "Ukraine Asks For More Weapons as Russia Fails To Take Kyiv",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "k_vTX7DlGxk",
             "title": "Live: Andrea Mitchell Interviews China’s Ambassador To U.S. | NBC News",
             "secondDuration": 3476,
@@ -61,8 +55,14 @@
             "title": "Live: Fauci, Top Health Officials Testify At Senate Coronavirus Hearing | NBC News",
             "secondDuration": 12321,
             "group": "group_7"
+        },
+        {
+            "videoId": "abPOP5vjxT8",
+            "title": "California School Board Members Caught Criticizing Parents On Hot Mic | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

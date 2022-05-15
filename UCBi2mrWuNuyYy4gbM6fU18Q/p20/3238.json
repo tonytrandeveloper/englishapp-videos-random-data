@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "V80FG9K8L0M",
-            "title": "Hurricane Harvey raises concerns over toxic water",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "6w_WsEvRrFs",
             "title": "COVID cases rise in China days ahead of Olympic Winter Games l  ABCNL",
             "secondDuration": 188,
@@ -121,8 +115,14 @@
             "title": "Trump calls on Mexico to 'stop the caravans'",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "O4_yzFTK3ME",
+            "title": "Star college basketball player collapses on court",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

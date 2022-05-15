@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I0sI9agp2ZA",
-            "title": "How To Survive a Plane Crash",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "czVG8Ochmf8",
             "title": "Diane Sawyer Interview with Columbine Shooter's Mother Sue Klebold",
             "secondDuration": 33,
@@ -31,8 +25,14 @@
             "title": "Attack on a Norway mosque stopped",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "E47ml6hhUSg",
+            "title": "Rescue Backlash: Some Soldiers Call Bowe Bergdahl a Deserter",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

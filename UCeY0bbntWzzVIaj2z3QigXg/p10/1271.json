@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "isn64lDqJb0",
-            "title": "Jenna Bush Hager: \"I have a dream that...\"",
-            "secondDuration": 10,
-            "group": "group_7"
-        },
-        {
             "videoId": "nJAL9S92S4o",
             "title": "Elizabeth Warren On President Donald Trump: 'Talk Is Cheap' | NBC News",
             "secondDuration": 172,
@@ -61,8 +55,14 @@
             "title": "Watch: SpaceX Launches Resupply Mission to International Space Station",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "YaHNHfRO2GY",
+            "title": "Meet Peeqo, The Adorable, Sassy Robot That Speaks In GIFs | Mach | NBC News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

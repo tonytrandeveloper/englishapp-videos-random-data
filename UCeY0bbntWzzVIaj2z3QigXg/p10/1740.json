@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z6ZYuaWxF5A",
-            "title": "Meet The Press At 70: Civil Rights And Activism | Meet The Press | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "XxNi7u3QfbA",
             "title": "This Morning’s Top Headlines – July 19 | Morning News NOW",
             "secondDuration": 1365,
@@ -61,8 +55,14 @@
             "title": "Kabul Airport Attack: What To Know About ISIS-K",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "dYBSYreY3Ak",
+            "title": "Will A High Speed Rail Network Ever Be Built In The U.S.?",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

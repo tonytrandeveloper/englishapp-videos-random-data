@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D29hFECRLIM",
-            "title": "Tensions Boil Over In East Ukraine As Attacks Turn Deadly",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "Aamy_ouLkMU",
             "title": "Jeff Sessions Thanks Senate, Acknowledges ‘Heated Debate’ Over Confirmation | NBC News",
             "secondDuration": 213,
@@ -61,8 +55,14 @@
             "title": "Biden Is First U.S. President To Acknowledge Armenian Genocide | NBC News NOW",
             "secondDuration": 272,
             "group": "group_7"
+        },
+        {
+            "videoId": "2mGxuaKtWHo",
+            "title": "U.S. Officials Say Kim Jong Un May Be Incapacitated After Surgery | NBC Nightly News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

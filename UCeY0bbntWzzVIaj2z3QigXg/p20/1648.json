@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HSYm47lJQQ4",
-            "title": "SpaceX Successfully Launches A Re-Used Rocket For First Time | NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "X80h8b0g0CQ",
             "title": "Why We Crave The Thrill Of Danger And Surviving | Better | NBC News",
             "secondDuration": 147,
@@ -121,8 +115,14 @@
             "title": "Gruesome Murder Leaves 2 Children, 2 Adults Dead | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "BVYXBGARSSo",
+            "title": "Trump Administration Declares COVID-19 A Public Health Emergency | NBC News",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

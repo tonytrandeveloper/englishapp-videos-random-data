@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8Tyos9E3dpk",
-            "title": "Hawaii’s COVID-19 shutdown hits tourism hard",
-            "secondDuration": 331,
-            "group": "group_7"
-        },
-        {
             "videoId": "KmIBPfzAgfc",
             "title": "Venezuelan opposition leads new uprising against Maduro",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Republican Opponents Take Aim at Rick Perry",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "pWOXigXFQW8",
+            "title": "2nd Presidential Debate Fact Check",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

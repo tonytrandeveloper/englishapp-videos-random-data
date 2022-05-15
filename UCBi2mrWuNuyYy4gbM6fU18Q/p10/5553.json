@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HXRC5yCSkSs",
-            "title": "Bionic Suit Helps Paralyzed Patients Walk Again",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "DkR-0JkfGA4",
             "title": "Passengers and crew miraculously survive plane crash in Texas",
             "secondDuration": 242,
@@ -61,8 +55,14 @@
             "title": "Suspect in Georgia Cop Killing is Dead, Investigators Say",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "yvTTBOeptwM",
+            "title": "Harvey Weinstein defense team presents closing arguments",
+            "secondDuration": 287,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

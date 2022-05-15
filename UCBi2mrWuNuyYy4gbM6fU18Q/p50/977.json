@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Ov5a7LHFQBs",
-            "title": "JetBlue: All You Can Fly for $599",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "Squrm3nvV1g",
             "title": "The Debrief: Deadly shooting at Pensacola naval base, border death outrage and more | ABC News",
             "secondDuration": 1507,
@@ -301,8 +295,14 @@
             "title": "Reese in Pieces: Witherspoon's Arrest, Other Celeb Meltdowns",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "8LRDvmnFQn8",
+            "title": "Congressional Black Caucus Responds to Trump's Request",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

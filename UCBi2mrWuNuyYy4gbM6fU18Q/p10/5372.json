@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cy0hnn3pxpc",
-            "title": "Ostrich Chases Cyclists in South Africa",
-            "secondDuration": 42,
-            "group": "group_7"
-        },
-        {
             "videoId": "_QnBVmqwEHQ",
             "title": "Thai soccer players and coach together again after cave rescue with a new message",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Supreme Court battle continues as Kavanaugh hearings approach",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "I_-vLOlgC6A",
+            "title": "Death Threats Against Palin at Unprecedented Level",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

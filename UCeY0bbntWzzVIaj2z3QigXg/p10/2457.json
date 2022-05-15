@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vzj_SS-2opg",
-            "title": "More CountriesDetecting New Covid Variant | NBC Nightly News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "AZDkFadiKsk",
             "title": "President Donald Trump Looking Forward To ‘Friendly Negotiation’ With North Korea | NBC Nightly News",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Acquitted In Second Impeachment Trial | NBC Nightly News",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "H9Ba-rj7EVo",
+            "title": "Top Officials Pledge Allegiance To President Donald Trump After NY Times Op-Ed | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

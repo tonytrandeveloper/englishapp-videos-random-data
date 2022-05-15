@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eN-t2zURVmY",
-            "title": "Border Mayor on Immigration Crisis",
-            "secondDuration": 320,
-            "group": "group_7"
-        },
-        {
             "videoId": "ATRbrGwwHMU",
             "title": "Sleeping Man Trapped on Locked Plane",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Touring Los Angeles With Jeff Bridges",
             "secondDuration": 399,
             "group": "group_7"
+        },
+        {
+            "videoId": "aHk3zNaz1B8",
+            "title": "Jenni Rivera Dead: Singer Dies in Plane Crash",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

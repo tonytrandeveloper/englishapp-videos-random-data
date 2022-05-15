@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "_qaitg5bXDg",
-            "title": "Diane Sawyer's New Role at ABC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "GFn438K6904",
             "title": "NASA Shuttle Launch: Atlantis Blasts Off From Cape Canaveral",
             "secondDuration": 170,
@@ -301,8 +295,14 @@
             "title": "Same-Sex California Couples Exchange Vows Following Prop. 8 Ruling",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "ISC8q9-t4SU",
+            "title": "President Biden on Afghanistan withdrawal, Taliban takeover intelligence decisions l WNT",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

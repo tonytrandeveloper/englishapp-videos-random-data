@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nh7qWCrhusE",
-            "title": "Watch The 2020 Nobel Peace Prize Announcement | NBC News NOW",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "PVvij8G85t0",
             "title": "Watch This Son's Harrowing Account of Caring for a Mom With Sudden Dementia | NBC News",
             "secondDuration": 634,
@@ -31,8 +25,14 @@
             "title": "Memorable Moments Of The 2016 Presidential Campaign | NBC Nightly News",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "iIiw_WBfmPI",
+            "title": "Nightly News Full Broadcast - October 20th",
+            "secondDuration": 1286,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

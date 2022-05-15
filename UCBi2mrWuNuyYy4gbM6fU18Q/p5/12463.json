@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KcQOSAtM4_Q",
-            "title": "Blinken meets with Ukraine's president, denounces Russia’s 'aggressive' actions",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "bxCmgs7LqOo",
             "title": "WEBCAST: Big Day For Team USA",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Palm Sunday terror attacks rock Egypt",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "27b6jJL0e0M",
+            "title": "ABC News Update: CDC urges masks indoors even for vaccinated Americans",
+            "secondDuration": 1512,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

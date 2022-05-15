@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mbFGm8QQtc0",
-            "title": "How Summer Camps Aim To Keep Kids Safe Amid Coronavirus Concerns | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZgF9PYzIkdo",
             "title": "Democratic Candidates Outlined Their Top Priorities If Elected President | NBC News",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Sen. Chris Coons endorses Joe Biden | NBC News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "WWF8sUx8T9w",
+            "title": "NBC's Ali Weinberg: A day on the Herman Cain bus",
+            "secondDuration": 325,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

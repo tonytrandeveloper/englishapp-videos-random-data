@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z20EmTQNdUQ",
-            "title": "Summer Road Trip: Cut The Stress With These 5 Hacks | Better | NBC News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "-TVtUCfrMyA",
             "title": "Powerball Winners Give Back To Their New Jersey Community | NBC Nightly News",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Apple: Smartwatch Heart Health Tech, But Warns It’s Not Intended With Heart Con | NBC Nightly News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "f8lMoMux22w",
+            "title": "Biden Delivers Remarks on Covid Response And Vaccines | NBC News",
+            "secondDuration": 338,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8bafnjhcTzk",
-            "title": "A Look Back At Donald Trump’s Awkward Moments With World Leaders | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "mYtW_RuFLSY",
             "title": "Barber Brings Art To Baltimore Neighborhood | NBC News",
             "secondDuration": 201,
@@ -31,8 +25,14 @@
             "title": "California Issues Rollback On Reopening Measures As Coronavirus Cases Rise | NBC Nightly News",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "mLmXKlcrTtc",
+            "title": "NBC News NOW Full Broadcast - March 25th, 2021 | NBC News NOW",
+            "secondDuration": 2996,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

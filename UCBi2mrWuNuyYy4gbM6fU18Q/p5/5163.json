@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h3Z2PKBcCrw",
-            "title": "A close look at what life is like on the inside of an outbreak | ABC News Prime",
-            "secondDuration": 466,
-            "group": "group_7"
-        },
-        {
             "videoId": "ljviv4Bobeg",
             "title": "Oscars 2012: Christopher Plummer, Jean Dujardin Discuss Wins at 84th Annual Academy Awards",
             "secondDuration": 172,
@@ -31,8 +25,14 @@
             "title": "Kansas Man Under Arrest for Terror Plot",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "6NJGMUsG4Z0",
+            "title": "Chandra Levy Murder Trial Begins",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

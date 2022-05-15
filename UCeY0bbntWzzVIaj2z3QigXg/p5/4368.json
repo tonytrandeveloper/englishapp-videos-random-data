@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vpUyBa1_dzs",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 2576,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rsb034igTk0",
             "title": "Trump Holds Roundtable On Supporting Fishermen | NBC News",
             "secondDuration": 2631,
@@ -31,8 +25,14 @@
             "title": "Black Voters Debate Support For President Trump | NBC News NOW",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "bcaZTlqyMAI",
+            "title": "Branson Store Selling Confederate Merchandise Causes Controversy | NBC News NOW",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

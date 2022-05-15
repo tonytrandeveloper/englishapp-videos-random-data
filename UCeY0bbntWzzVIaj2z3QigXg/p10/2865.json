@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i5Gqw7PKSX4",
-            "title": "Inside The Fight To Ban Conversion Therapy | NBC News NOW",
-            "secondDuration": 432,
-            "group": "group_7"
-        },
-        {
             "videoId": "CMbx9tW1b7I",
             "title": "Arnold Schwarzenegger On Donald Trump, The Republican Party And 2016 | Meet The Press | NBC News",
             "secondDuration": 471,
@@ -61,8 +55,14 @@
             "title": "Taliban Sources: Suicide Attacks Kill At Least 13 People Outside Kabul Airport",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "hXFi1ydqBqs",
+            "title": "Milwaukee Mayor: ‘Multiple People Who Have Died’ At Molson Coors Shooting | NBC News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

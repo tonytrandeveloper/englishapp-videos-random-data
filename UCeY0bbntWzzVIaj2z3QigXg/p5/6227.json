@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Tt2_dLK2EPw",
-            "title": "VEEP's Take On The 2020 Race | NBC News NOW",
-            "secondDuration": 286,
-            "group": "group_7"
-        },
-        {
             "videoId": "UGhpQTZToUo",
             "title": "Tropical Storm Warnings Issued From Mid-Atlantic to New England",
             "secondDuration": 184,
@@ -31,8 +25,14 @@
             "title": "Michael Flynn Issues Statement: ‘I Accept Full Responsibility For My Actions’ | NBC News",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "uvLa2qrpd7k",
+            "title": "Five Dead In Florida Plane Crash On Christmas Eve | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PqJ5EBs8-s8",
-            "title": "President Donald Trump Delivers Remarks On National Security Strategy | NBC News",
-            "secondDuration": 3109,
-            "group": "group_7"
-        },
-        {
             "videoId": "pBllGPXNx_I",
             "title": "President Donald Trump On Muslims, Then And Now | NBC News",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "Biden Campaigns For Jon Ossoff And Rev. Raphael Warnock In Georgia | NBC News",
             "secondDuration": 1071,
             "group": "group_7"
+        },
+        {
+            "videoId": "kVXQJ6IFlnM",
+            "title": "The People Of Deal: Fighting For Survival Against Climate Change | NBC News",
+            "secondDuration": 358,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

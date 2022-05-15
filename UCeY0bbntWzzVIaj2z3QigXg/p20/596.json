@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "q8YXZlAS-c0",
-            "title": "Man Wearing 'MAGA' Hat Accused Of Attacking Media At Donald Trump's El Paso Rally. | NBC News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "9SGGLBbt3q4",
             "title": "World’s Longest Sea-Crossing Bridge Opens In Southern China | NBC News",
             "secondDuration": 85,
@@ -121,8 +115,14 @@
             "title": "Southern U.S. Experiences Winter Weather As Storm Moves Up The East Coast | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "k5m_-LxNBws",
+            "title": "Teen Survives 49 Days Adrift In Pacific Ocean | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

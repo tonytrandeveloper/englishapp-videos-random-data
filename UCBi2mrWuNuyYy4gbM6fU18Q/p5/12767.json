@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IuhGYFRtjgs",
-            "title": "UVA Murder: Missed Warning Signs?",
-            "secondDuration": 382,
-            "group": "group_7"
-        },
-        {
             "videoId": "nqQLHp1GQJs",
             "title": "'GMA' Halloween Scare-tacular Celebrity Guest Revealed",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Newtown School Massacre: 20 Children, 7 Adults Dead",
             "secondDuration": 430,
             "group": "group_7"
+        },
+        {
+            "videoId": "IrT-PK15phk",
+            "title": "2-year-old in critical condition after bounce-house accident",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

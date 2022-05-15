@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bKwc9N9ZmB8",
-            "title": "Scandal widens for Andrew Cuomo",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "xIqN-dRLTrM",
             "title": "Homeland Security chief John Kelly: There will be 'no mass deportations'",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Cancer Patient's Dad Pleads for Safe Return",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sbw27rl0Q98",
+            "title": "SC School Shooting | Teen Charged With Attempted Murder in",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

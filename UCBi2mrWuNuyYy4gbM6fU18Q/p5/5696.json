@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WttplLkQyfU",
-            "title": "American Retirees Stretch Their Dollars in Ecuador",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "W6BKzOsBWC8",
             "title": "North Korea's latest missile launch splashes down in the Sea of Japan",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Cop Shooting Suspect Barricaded in Home",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "SlALTKoUzBQ",
+            "title": "Washington Nationals' $15 Million Pitcher",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

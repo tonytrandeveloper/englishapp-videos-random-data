@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kQoMw2OFvAg",
-            "title": "'Mad Men' Says Goodbye",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "JYKT8tLSC-4",
             "title": "Trump Takes Heat From President Obama, GOP",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Top Roy Moore strategist: 'Highly doubt' there will be Senate ethics investigation if he wins",
             "secondDuration": 481,
             "group": "group_7"
+        },
+        {
+            "videoId": "buc8MqJM7Lw",
+            "title": "Trump announces pursuit of anti-viral therapies to fight COVID-19 | ABC News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

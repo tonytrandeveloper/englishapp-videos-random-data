@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KMhRPlgL1-U",
-            "title": "The Doomsday Clock Has Us At Two Minutes To Midnight | Mach | NBC News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "3rFQTqTC5yg",
             "title": "Obama on ISIS: No Strategy Yet | NBC News",
             "secondDuration": 31,
@@ -61,8 +55,14 @@
             "title": "WHO Warns Coronavirus Could Stay For A Long Time Until Vaccine Is Developed | NBC Nightly News",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "twonn34bH2Q",
+            "title": "UN Ambassador Linda Thomas-Greenfield: Russian Attack ‘Could Happen Any Day’",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

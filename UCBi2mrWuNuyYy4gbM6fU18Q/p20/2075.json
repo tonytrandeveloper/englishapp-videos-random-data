@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0s7bzOBjAPg",
-            "title": "Trump attends D-Day commemoration, Parkland ex-deputy arrested, “Republican revolt” on tariffs",
-            "secondDuration": 1113,
-            "group": "group_7"
-        },
-        {
             "videoId": "zCt9EdUfgOY",
             "title": "Democratic candidates spar over race, economy and foreign policy in latest debate l ABC News",
             "secondDuration": 209,
@@ -121,8 +115,14 @@
             "title": "Facebook CEO Mark Zuckerberg's Big Pledge",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "P42qqo10S10",
+            "title": "COVID-19 cases rising ahead of holiday weekend",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

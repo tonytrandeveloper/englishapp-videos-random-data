@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JHPz68HmFBA",
-            "title": "Post-blizzard could bring colder temperatures",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "5WWYcTsGQPw",
             "title": "Cell phone video shows police using stun gun on Chicago teen",
             "secondDuration": 149,
@@ -121,8 +115,14 @@
             "title": "Trump talks health care, economy in campaign-style rally",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "95DEJQWMVEg",
+            "title": "Investors wonder what will happen on Wall Street next?",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

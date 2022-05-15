@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VFUMoAjPcnA",
-            "title": "NOLA Cops Could Face Death Penalty",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "HjTW6HGJtLc",
             "title": "Gov. Rick Scott supports raising the minimum age to buy firearms",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "'Rebuilding Paradise' shows heroism, heartbreak after California Camp Fire: Part 1",
             "secondDuration": 434,
             "group": "group_7"
+        },
+        {
+            "videoId": "bqwLuMKcn8c",
+            "title": "Consumer Reports: Ground Turkey Warning",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

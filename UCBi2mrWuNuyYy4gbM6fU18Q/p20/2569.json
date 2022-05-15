@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UdzZHuqV1mw",
-            "title": "Amanda Knox Faces a Life Sentence",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "-jq62grrjB0",
             "title": "Andreas Lubitz: Details Revealed about Germanwings Co-Pilot",
             "secondDuration": 107,
@@ -121,8 +115,14 @@
             "title": "Queen Elizabeth II: Celebrating Her Majesty's 90th Birthday",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "y6Hik5pL_Ew",
+            "title": "Met Gala 2016: Fashion Highlights with Kerry Washington",
+            "secondDuration": 346,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

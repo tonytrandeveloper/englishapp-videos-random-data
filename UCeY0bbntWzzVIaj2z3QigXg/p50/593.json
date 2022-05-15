@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "D_5IPfLOvqE",
-            "title": "Unemployment Benefits Expire For Over 7.5 Million Americans",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "0-0MndmcWac",
             "title": "The Long-Term Effects of Covid",
             "secondDuration": 229,
@@ -301,8 +295,14 @@
             "title": "Jared Kushner Greeted Warmly By Israeli PM | NBC News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "XGbHbAbC-l0",
+            "title": "The Hidden Cost of Sleep Deprivation | Better | NBC News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

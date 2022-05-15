@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gyRzm5qVm2U",
-            "title": "How Passing Equality Act Would Change The Lives Of LGBTQ Americans | NBC News NOW",
-            "secondDuration": 287,
-            "group": "group_7"
-        },
-        {
             "videoId": "IgirZ_c7XEU",
             "title": "House Delivers Article Of Impeachment To Senate | NBC Nightly News",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "Sheriff Says Multiple Fatalities In Florida School Shooting | NBC Nightly News",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "s0gG6fEGTXg",
+            "title": "Alec Baldwin Says He Never Pulled Trigger in ‘Rust’ Movie Set Shooting",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

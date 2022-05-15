@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lN_0Ym6TTjE",
-            "title": "Carolinas Brace For Strong Winds, Rain As Tropical Storm Isaias Nears | NBC News NOW",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "BjQgpzMZbnE",
             "title": "US Considers Possible Strike To Stop North Korea Nuke Test (Exclusive) | NBC Nightly News",
             "secondDuration": 190,
@@ -61,8 +55,14 @@
             "title": "Fact Check: Is America Actually Getting Rich Off President Donald Trump's Tariffs? | NBC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "nLxq7E2Z41I",
+            "title": "Watch: Chauvin Declared Guilty On All Counts In Death Of George Floyd | NBC News",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

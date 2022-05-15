@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-0QEhbzf0GA",
-            "title": "El Paso Police Chief Chokes Up Confirming 20 Dead, 26 Wounded In Shooting | NBC News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "LQE1CtCtSe4",
             "title": "Statue Of British Slaver Removed After BLM Protests In London | NBC News",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Delivers Remarks On Trade Agreement At Michigan Event | NBC News (Live Stream)",
             "secondDuration": 2026,
             "group": "group_7"
+        },
+        {
+            "videoId": "MSKdcuzFw9E",
+            "title": "IDF Spokesperson Comments On Civilian Deaths | NBC News",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X3TNpBktPsI",
-            "title": "Will Ferrell’s Homerun",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "waFXKwv4fgg",
             "title": "Inside a Top Secret Anti-ISIS Command Center",
             "secondDuration": 212,
@@ -31,8 +25,14 @@
             "title": "Nurses in Texas Continue to Recover From Ebola as Treatment Procedures in US Improve",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "G6i8gk2qDIE",
+            "title": "Find Out How Two Little Boys Just Made a Million Dollars",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "l4LAzsu3agE",
-            "title": "Man dies trying to eat doughnut in shop's eating challenge",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "f_yIhW9sIag",
             "title": "Nate Silver: 3 things political betting markets tell us about Elizabeth Warren's 2020 chances",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Olympic COVID-19 protocols put to the test as athletes, officials test positive",
             "secondDuration": 400,
             "group": "group_7"
+        },
+        {
+            "videoId": "K4NEK3OUFa0",
+            "title": "President Kennedy Affair with Former White House Intern",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MFQ6WdfC2JM",
-            "title": "Baker Reveals 'GMA'-Inspired Thanksgiving Pies",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "yWF0iOQxAlI",
             "title": "Trump: Russian Hacking Investigation a ‘Political Witch Hunt’",
             "secondDuration": 185,
@@ -61,8 +55,14 @@
             "title": "Bike Boy's 'Thumbs Up for Rock and Roll' Speech Turned into a Song",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "HjyVsJfxXW0",
+            "title": "John Lewis laid to rest, Portland protests, Hurricane Hanna; World in Photos, July 27",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3DeC0qZsaew",
-            "title": "Democratic candidates continue to create momentum after first round of debates",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "cpt1p6Dz2BY",
             "title": "Day 2 of the Derek Chauvin trial: What to expect",
             "secondDuration": 98,
@@ -121,8 +115,14 @@
             "title": "Doctor in Pfizer trial talks distribution of COVID vaccine",
             "secondDuration": 257,
             "group": "group_7"
+        },
+        {
+            "videoId": "yHsLIbVzyGA",
+            "title": "Former first lady Barbara Bush suffering from congestive heart failure",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

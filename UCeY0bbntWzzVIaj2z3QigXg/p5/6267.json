@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dWh7khe8bbo",
-            "title": "Nightly News Full Broadcast - Nov. 12",
-            "secondDuration": 1288,
-            "group": "group_7"
-        },
-        {
             "videoId": "8ntSxT9n35Q",
             "title": "JLo, Shakira: Super Bowl Halftime 'Important Moment' For Latinos In U.S. | NBC News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "SCOTUS Nom Neil Gorsuch: President Trump’s Attacks On Judiciary ‘Demoralizing’ | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "JRn-xn6oty0",
+            "title": "Life Lessons: Dr. Travis Stork On Taking Risks | Better | NBC News",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

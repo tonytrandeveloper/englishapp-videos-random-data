@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4PVm9PKabYk",
-            "title": "Trump Nominates Neil Gorsuch to Supreme Court",
-            "secondDuration": 377,
-            "group": "group_7"
-        },
-        {
             "videoId": "vZ-e0Ah98Po",
             "title": "Remembering US statesman and war hero Bob Dole",
             "secondDuration": 236,
@@ -121,8 +115,14 @@
             "title": "Vampire Feeds on Donor's Blood",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "U1Vrbw9TJvA",
+            "title": "Attorney General William Barr clashes with lawmakers | WNT",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

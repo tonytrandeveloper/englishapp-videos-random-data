@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gziktjtlH0Y",
-            "title": "Halloween on TODAY",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "40boBrhgVyY",
             "title": "Senator Bob Menendez Briefly Breaks Down Following Mistrial | NBC News",
             "secondDuration": 129,
@@ -121,8 +115,14 @@
             "title": "Testosterone Treatment May Benefit Men With ‘Low T’: Study | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "6JZbF9zeMK8",
+            "title": "Dennis Walcott: \"For student success, it takes...\"",
+            "secondDuration": 13,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

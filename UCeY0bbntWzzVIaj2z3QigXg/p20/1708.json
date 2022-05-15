@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "l09ypOiOZVk",
-            "title": "Special Report: Roger Stone Arraigned On Charges In Russia Investigation | NBC News",
-            "secondDuration": 3766,
-            "group": "group_7"
-        },
-        {
             "videoId": "9esY21xOYTY",
             "title": "House GOP Memo Released With Donald Trump’s Approval | NBC Nightly News",
             "secondDuration": 146,
@@ -121,8 +115,14 @@
             "title": "Fact Checking President Donald Trump's Biggest Falsehoods And Lies of 2017 | NBC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "uJAT3B-NWD4",
+            "title": "Biden Teases 2020 Run: 'Mean Pettiness Has Overtaken Our Politics' | NBC News",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vXA2uAFtRXk",
-            "title": "Apple CEO Tim Cook Stands Firm Against the FBI",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ia7pOFNdFkI",
             "title": "Winter Without End",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "Defense Secretary on Iran: Response at ‘time and place of our own choosing’",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "WylaDp4qW6A",
+            "title": "Fyre Festival co-founder charged with wire fraud",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

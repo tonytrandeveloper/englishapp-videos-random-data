@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Pk7q1tRK73k",
-            "title": "Google Accused in Lawsuit of Silencing Employees",
-            "secondDuration": 291,
-            "group": "group_7"
-        },
-        {
             "videoId": "X2irMxtIC3s",
             "title": "Inside J.Lo's New $22 Million NYC Apartment",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "First lady responds to comment about her by 'Morning Joe' host",
             "secondDuration": 309,
             "group": "group_7"
+        },
+        {
+            "videoId": "NqebFzfLd7I",
+            "title": "The Debrief: Hurricane Dorian on course to make landfall",
+            "secondDuration": 1500,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

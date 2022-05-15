@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "b0jD2KnA0gQ",
-            "title": "Tupac Alive at Coachella, Performs with Snoop Dogg",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sy7Zm9FGAUw",
             "title": "Kevin Durant lifts Golden State to 3-0 lead in NBA Finals",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "George Mason University reckons with race",
             "secondDuration": 298,
             "group": "group_7"
+        },
+        {
+            "videoId": "AdqNXD2z4VA",
+            "title": "Police Chases at High Speeds With Sometimes Deadly Consequences",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

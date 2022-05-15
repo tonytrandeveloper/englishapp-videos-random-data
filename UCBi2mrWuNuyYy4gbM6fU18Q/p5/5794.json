@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "x7gaWYAQlGg",
-            "title": "Food banks on the edge",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "-g2GGoeZBO4",
             "title": "Grandmother, 83, Gets Breast Implants; Marie Kolstad On Decision to Get Cosmetic Surgery",
             "secondDuration": 278,
@@ -31,8 +25,14 @@
             "title": "Obama Adding US Troops in Syria",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "8LhTusg7XFY",
+            "title": "The world opens up for a 4-year-old who lost his hearing as a toddler",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

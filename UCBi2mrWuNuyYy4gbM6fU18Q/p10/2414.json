@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-0pX70guOP8",
-            "title": "Beach Boys Crash Ohio Couple's Wedding",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "pQhcQs23qvE",
             "title": "Kevin Hart Plays 'Spill It or Spin It' on 'GAA'",
             "secondDuration": 231,
@@ -61,8 +55,14 @@
             "title": "2021 Thanksgiving marks highest cost in holiday's history",
             "secondDuration": 348,
             "group": "group_7"
+        },
+        {
+            "videoId": "B6sajdWY8dc",
+            "title": "Jussie Smollett, Yazz From 'Empire' on 'GMA'",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

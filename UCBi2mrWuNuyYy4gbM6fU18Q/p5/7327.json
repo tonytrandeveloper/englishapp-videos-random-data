@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y4fIS4GQipM",
-            "title": "Ryan Seacrest Gets Stuck in Elevator in Times Square",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ru2Lc5cq9SI",
             "title": "Is the metaverse the future of the Internet?",
             "secondDuration": 481,
@@ -31,8 +25,14 @@
             "title": "Alleged Murder-For-Hire Target Speaks",
             "secondDuration": 334,
             "group": "group_7"
+        },
+        {
+            "videoId": "-I9tdENxrOs",
+            "title": "Biden delivers remarks on state of COVID-19 vaccinations",
+            "secondDuration": 599,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

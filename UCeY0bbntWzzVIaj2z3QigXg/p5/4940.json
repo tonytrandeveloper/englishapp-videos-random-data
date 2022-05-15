@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2mUOaCSNZWk",
-            "title": "NASA Releases Stunning New Images Of Jupiter | Mach | NBC News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "qZlSoeoldlE",
             "title": "McCarthy Criticizes Democrats For Contesting Results Of Iowa Election | NBC News NOW",
             "secondDuration": 67,
@@ -31,8 +25,14 @@
             "title": "Sober-Curious: Alcohol-Free Wine, Cocktails and Spirits Grow in Popularity",
             "secondDuration": 258,
             "group": "group_7"
+        },
+        {
+            "videoId": "1-pLwCGIC3I",
+            "title": "GA GOP Candidate Asks FBI To Investigate Democrats For Hacking Voter Database | NBC Nightly News",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

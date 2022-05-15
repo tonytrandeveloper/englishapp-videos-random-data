@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "U4ilanREKlM",
-            "title": "Ruth Bader Ginsburg’s personal trainer honors her with pushups | WNT",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "EQzb4WFRV1E",
             "title": "Vladimir Putin Hails Donald Trump's Victory",
             "secondDuration": 111,
@@ -121,8 +115,14 @@
             "title": "West Virginia senator speaks on concerns for Trump’s proposed stimulus plan",
             "secondDuration": 483,
             "group": "group_7"
+        },
+        {
+            "videoId": "dnviB3mWGos",
+            "title": "Trump: Election is 'Rigged'",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

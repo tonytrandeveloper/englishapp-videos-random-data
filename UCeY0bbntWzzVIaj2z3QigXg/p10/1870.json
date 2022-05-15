@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ni9NZN2e_Jo",
-            "title": "President Donald Trump Still Mum On Roy Moore | NBC Nightly News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "ruuDcoWtqAg",
             "title": "LA Apartment Is Engulfed In Flames | NBC News",
             "secondDuration": 62,
@@ -61,8 +55,14 @@
             "title": "Crystal Lavin: \"For student success it takes...\"",
             "secondDuration": 6,
             "group": "group_7"
+        },
+        {
+            "videoId": "a39BV6qiarU",
+            "title": "12 Killed In Mass Shooting In Thousand Oaks, California | NBC Nightly News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

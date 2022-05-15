@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PFNJeS_m16o",
-            "title": "Gas Prices in America Expected to Plunge After Reaching Record Highs",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "DoRusWbtO7A",
             "title": "Deadly meningitis trial: Jury deliberating in tainted medicine case",
             "secondDuration": 143,
@@ -121,8 +115,14 @@
             "title": "MTV's 'Buckwild': The 'Jersey Shore' of Appalachia",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "uirah9JRweI",
+            "title": "UPS Cargo Jet Crashes Near Birmingham International Airport",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Wv4Vr3QRUMs",
-            "title": "Tony Stewart Racecar Accident Kills Driver | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "-abomPSxhCk",
             "title": "Newly-Official GOP Nominee Donald Trump Rehashes Old Feud With Ted Cruz | NBC Nightly News",
             "secondDuration": 181,
@@ -61,8 +55,14 @@
             "title": "New Details On Second Migrant Child To Die In U.S. Custody This Month | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "rjqtDBiq1a8",
+            "title": "White House Greenlights FBI To Expand Brett Kavanaugh Investigation | NBC Nightly News",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

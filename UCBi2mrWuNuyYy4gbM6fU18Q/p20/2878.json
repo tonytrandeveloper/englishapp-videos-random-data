@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jp1EYAJ6TQc",
-            "title": "Beijing Olympics, Super Bowl, Valentine’s Day: Week in Photos",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "WFrojx2VuIk",
             "title": "Bipartisan infrastructure bill vote date unclear: Pelosi | ABC News",
             "secondDuration": 695,
@@ -121,8 +115,14 @@
             "title": "Town mourns student killed in train collision with school bus",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "ntfqHHK_cjA",
+            "title": "President Reagan Shooter John Hinckley Jr. to Be Released",
+            "secondDuration": 399,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KjL6Z7VpBLU",
-            "title": "Dr. Bernice King: 'We have to find common pathways forward as a nation'",
-            "secondDuration": 468,
-            "group": "group_7"
-        },
-        {
             "videoId": "a9YuIHe79Y0",
             "title": "Visiting the home of Dracula",
             "secondDuration": 279,
@@ -31,8 +25,14 @@
             "title": "Roundtable: This Week in Politics",
             "secondDuration": 1719,
             "group": "group_7"
+        },
+        {
+            "videoId": "dStyDTbSzcU",
+            "title": "Orphaned Puppy Adopted by Mother Cat",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

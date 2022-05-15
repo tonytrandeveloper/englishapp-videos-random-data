@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dhec1MOhOck",
-            "title": "Comparing Johnson & Johnson Vaccine to Pfizer And Moderna | NBC News NOW",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "rnBpAjtBD4I",
             "title": "Russian Warplanes Carry Out Bombing Drills In Baltic Sea | NBC News",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Astros Owner: 'We Broke The Rules,' But Doesn't Think Team Wins Should Be Taken Away | NBC News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "e0TXI8hcAOY",
+            "title": "Minneapolis Business Owner Starts Over After Store Is Burned To The Ground | NBC News",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hX-MPjkefYo",
-            "title": "Daymond John: Worst Advice",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "JfaAPHP4FL0",
             "title": "EPA Administrator Scott Pruitt delivers remarks on new auto emissions rules | ABC News",
             "secondDuration": 1110,
@@ -121,8 +115,14 @@
             "title": "North Korea Mourns Fallen Leader",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "EDqsIFQqjqE",
+            "title": "Germanwings Pilot: Cockpit Entry Locked Before Crash",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YRIdgTx5zPU",
-            "title": "New US coronavirus case puts officials on high alert l ABC News",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "eUMR_bBSiOo",
             "title": "Deadly shootings in Chicago spark action on guns",
             "secondDuration": 172,
@@ -31,8 +25,14 @@
             "title": "BREAKING NEWS - 7.1 magnitude earthquake reported near Los Angeles | KABC News Coverage",
             "secondDuration": 13399,
             "group": "group_7"
+        },
+        {
+            "videoId": "0nB9yUAd31s",
+            "title": "Ferguson Shooting: Two Police Shot, Suspect on the Run",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

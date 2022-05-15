@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yxSUVZWh2-A",
-            "title": "In Search of the Best Ballpark Hot Dog",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "YeFeckfKO6w",
             "title": "Independent audit reveals bad bookkeeping at Pentagon",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Hail and high winds wreak havoc on New Orleans l ABC News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yoyz8WxBl2g",
+            "title": "Diana Nyad's 48-Hour Charity Swim 'Was a Bear'",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

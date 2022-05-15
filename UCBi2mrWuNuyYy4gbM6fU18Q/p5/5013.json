@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3C5jY84j7BY",
-            "title": "Inside the battle for Mosul",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "4l4gCdhRXjY",
             "title": "The Debrief: Democratic debate preps, Gilroy shooting developments | ABC News",
             "secondDuration": 2322,
@@ -31,8 +25,14 @@
             "title": "Mona Lisa: an Earlier Version?",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "k3hmZNZL1bI",
+            "title": "Donald Trump Campaign Team Shake-Up",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YKIOAMcTuWI",
-            "title": "2016 Election Results: NY, KS, ND, SD, WY, NE, TX | ABC News",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "HqfbMjigtXw",
             "title": "Amanda Berry, Gina DeJesus, Michelle Knight Speak Out",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Trump Blasts His Republican Rivals | ABC News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "A-Dj16-vt0U",
+            "title": "Fall Fix-Up",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2t6D6ZlsnTk",
-            "title": "WEBCAST: Historic Powerful Typhoon",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "om8H9bfCzBQ",
             "title": "Lawmakers race to strike a $500B budget deal",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "11 Olympic Medals, No Disco Ball Trophy",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "k0YCNE1Ekzw",
+            "title": "Ohio Gunman Manhunt Widens",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

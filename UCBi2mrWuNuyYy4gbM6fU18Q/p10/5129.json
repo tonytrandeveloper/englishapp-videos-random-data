@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5sAImDmrtCI",
-            "title": "Hurricane Isaac Makes Landfall",
-            "secondDuration": 399,
-            "group": "group_7"
-        },
-        {
             "videoId": "0wgzOro44-g",
             "title": "Parents of missing college student speak out",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "Mars Rover NASA Images",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gx_bf8sb0IY",
+            "title": "Fidel Castro Dead at 90 | Former Cuban President Remembered",
+            "secondDuration": 1000,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

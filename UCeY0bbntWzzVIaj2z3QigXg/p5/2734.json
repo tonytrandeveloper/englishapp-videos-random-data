@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fCpaPBseK54",
-            "title": "Behind the Scenes with MSNBC's Thomas Roberts",
-            "secondDuration": 39,
-            "group": "group_7"
-        },
-        {
             "videoId": "OKf-n68URK8",
             "title": "Three Teens Dead In Apparent Murder-Suicide Inside Houston-Area Home",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Anthony Ramos & Jon M. Chu on How 'In The Heights' is Opening Doors",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "PQ9Vv6zE8zs",
+            "title": "President Donald Trump: ‘Both Sides’ Are To Blame For Charlottesville Violence | NBC Nightly News",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

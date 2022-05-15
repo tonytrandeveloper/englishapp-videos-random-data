@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GoJuYXwZDL4",
-            "title": "Return To Broadway | NBC News NOW",
-            "secondDuration": 1551,
-            "group": "group_7"
-        },
-        {
             "videoId": "hUrEetCRMec",
             "title": "This 7-Year-Old Pianist Is Lifting Spirits One Note At A Time | Nightly News: Kids Edition",
             "secondDuration": 987,
@@ -121,8 +115,14 @@
             "title": "Prince Harry And Meghan Markle Celebrate With Private Reception After Wedding | NBC Nightly News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "2xOy9cCQGm4",
+            "title": "Cruz Unloads On Trump: ‘This Man is Utterly Amoral’ | NBC Nightly News",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

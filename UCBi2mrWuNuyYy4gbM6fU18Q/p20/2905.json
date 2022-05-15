@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ih2DGM8Wry8",
-            "title": "OJ Simpson Prosecutors on Renewed Interest in 'Trial of the Century'",
-            "secondDuration": 329,
-            "group": "group_7"
-        },
-        {
             "videoId": "6JgXYzS37DU",
             "title": "Hillary Clinton, Tim Kaine Campaign in Battleground States",
             "secondDuration": 102,
@@ -121,8 +115,14 @@
             "title": "How will Kamala Harris VP selection impact Biden campaign?",
             "secondDuration": 400,
             "group": "group_7"
+        },
+        {
+            "videoId": "aLrMkihxePU",
+            "title": "Royal Baby Will Never Know Princess Diana",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

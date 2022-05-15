@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ir4J-91E_i0",
-            "title": "My Father BTK - 20/20 PT 2",
-            "secondDuration": 432,
-            "group": "group_7"
-        },
-        {
             "videoId": "x2_AH24yOSc",
             "title": "Former officers charged in death of George Floyd go on trial",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Reporter Tries Driving Simulator While on Ambien",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "mr8xWLCONmM",
+            "title": "Feed Frenzy: George Zimmerman and Rob Ford",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dHnzTKVWc_s",
-            "title": "Second Presidential Debate 2012: Obama Tells Romney, My Pension's 'Not As Big As Yours'",
-            "secondDuration": 33,
-            "group": "group_7"
-        },
-        {
             "videoId": "76m9K3KNOeA",
             "title": "Extreme Weather:  East Coast Storm Causes Hail in Manhattan",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "Massachusetts Mall Stabbing Suspect | New Details",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZUJwB1RiI4w",
+            "title": "Pierce Brosnan on Being Booted from Bond",
+            "secondDuration": 425,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

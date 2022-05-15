@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D6wfY6TXsLc",
-            "title": "Could Charlie Sheen Face Lawsuits for HIV Diagnosis?",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "PeNW96dPNPA",
             "title": "Olympic COVID-19 cases surge 155% in one week as opening ceremony nears",
             "secondDuration": 369,
@@ -61,8 +55,14 @@
             "title": "Johnson & Johnson: Booster shot could boost immunity",
             "secondDuration": 488,
             "group": "group_7"
+        },
+        {
+            "videoId": "tHbM7XJcFDs",
+            "title": "Stock Market Plunge: Worst Post-Election Day Loss Ever as Dow Loses 313 Points",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

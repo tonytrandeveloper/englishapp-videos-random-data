@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RvAWmKuruoM",
-            "title": "Severe storms move from Texas to Missouri",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "-fCyvpTqFAI",
             "title": "Sleepy fox plays on deck in snow in Colorado",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "President Trump leaves hospital | WNT",
             "secondDuration": 805,
             "group": "group_7"
+        },
+        {
+            "videoId": "M8PZFf894H4",
+            "title": "John Lewis mourned, Portland protest, outdoor movies: World in Photos, July 30",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

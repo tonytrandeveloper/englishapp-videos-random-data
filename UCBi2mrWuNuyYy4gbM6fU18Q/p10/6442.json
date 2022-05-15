@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Zvy9hCrS5z0",
-            "title": "'Cartel Land' Explores Deadly Consequences of Illegal Drug Trade",
-            "secondDuration": 468,
-            "group": "group_7"
-        },
-        {
             "videoId": "_4XTSivHYdI",
             "title": "Justin Bieber Turns 21",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Presidential election, Veterans Day, coronavirus pandemic: The Week in Pictures",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "j2kldNlvv9U",
+            "title": "'The Briefing Rom': Migrant caravan, Texas senate race, Khashoggi investigation | ABC News",
+            "secondDuration": 1685,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PK5TmXFVmt0",
-            "title": "Ben Affleck Talks Gone Girl, Batman And More | NBC News",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "nG-DkYZTHa8",
             "title": "President Donald Trump Fires National Security Adviser John Bolton In Tweet | NBC Nightly News",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "Covid Cases Rising As U.S. Begins To See Thanksgiving Spike | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "3y8dbXCoGPU",
+            "title": "At DMZ, Sec. Mattis Says ‘Our Goal Is Not War’ | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

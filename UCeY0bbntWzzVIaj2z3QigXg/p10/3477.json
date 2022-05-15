@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dq9LnZZEOW8",
-            "title": "NY Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2846,
-            "group": "group_7"
-        },
-        {
             "videoId": "CZn-5AHu4bY",
             "title": "Chanting Over Pics Of Donald Trump, Kim Jong-Un, Shamens Perform World Peace Ritual | NBC News",
             "secondDuration": 58,
@@ -61,8 +55,14 @@
             "title": "Ted Cruz Fires Back Over Donald Trump's 'Birther' Claim | NBC News",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "0vfmfc1skqk",
+            "title": "Watch: U.S. Mayors Discuss Race, Recession, Pandemic | NBC News",
+            "secondDuration": 4149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

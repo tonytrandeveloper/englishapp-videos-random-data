@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "umkgzCFnNEk",
-            "title": "The Apple Watch Knockoff",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "e98dgWY722Q",
             "title": "The first family welcomed children to the White House for the annual Easter Egg Roll",
             "secondDuration": 187,
@@ -61,8 +55,14 @@
             "title": "VP Debate Full Highlights | Pence, Kaine on ISIS",
             "secondDuration": 718,
             "group": "group_7"
+        },
+        {
+            "videoId": "6CTfS9uu7xo",
+            "title": "Explosion at Reno's Discovery Museum Injures 13",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

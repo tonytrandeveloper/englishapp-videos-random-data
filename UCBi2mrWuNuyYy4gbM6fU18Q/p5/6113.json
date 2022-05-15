@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AqyIWCT7_fM",
-            "title": "WH blasts Democrats' 'disgraceful' investigation",
-            "secondDuration": 275,
-            "group": "group_7"
-        },
-        {
             "videoId": "UhkQzRKX-mw",
             "title": "How Celebrities Survived Blizzard 2016 | ABC News",
             "secondDuration": 203,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: New Driverless Car",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "U5f622jWhpE",
+            "title": "Mitt Romney Attracts More Married Women in Poll",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "P1OCCjiyGC0",
-            "title": "Hillary Clinton Mocks Donald Trump in Debate",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "aBX5yZqepq0",
             "title": "At Least 1 American Killed in Paris Terror Attacks",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "USC's president steps down after sexual assault allegations against campus doctor",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kvmf1Y296OU",
+            "title": "Humanitarian group for Afghan women on evacuations: ‘Hope is dwindling’",
+            "secondDuration": 447,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

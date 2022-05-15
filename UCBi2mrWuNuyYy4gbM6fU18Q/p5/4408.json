@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-bC8tT5Qm_k",
-            "title": "Video shows officer being dragged by car onto busy highway",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "_SuXmNS8Hso",
             "title": "Arrests Made as Donald Trump's Rally Called off",
             "secondDuration": 576,
@@ -31,8 +25,14 @@
             "title": "Tiger Woods makes his comeback on the course | WNT",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "fv8ODsjtBYQ",
+            "title": "IRS ends use of facial recognition technology",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

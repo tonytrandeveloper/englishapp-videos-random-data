@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rZSWudhYINY",
-            "title": "Major Break in Case of Missing Madeleine McCann",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "3Tp--ISiKco",
             "title": "Former ambassador to Ukraine on tensions on Russian border",
             "secondDuration": 747,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Shark Sighting in Massachusetts",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "rskXAAF6_Jw",
+            "title": "Jake Tapper on the Journalists' Return",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

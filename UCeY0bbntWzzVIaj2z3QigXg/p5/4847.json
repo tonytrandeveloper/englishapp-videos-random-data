@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7-Ic2c69CRk",
-            "title": "Sheriff's Department Outlines Abuses Adopted Child Faced | NBC News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "14GsvRnFLfI",
             "title": "North Carolina Teachers Rally For Raises | NBC News",
             "secondDuration": 1464,
@@ -31,8 +25,14 @@
             "title": "President Trump Returns To White House, Takes Off Mask For Photos | NBC News",
             "secondDuration": 16016,
             "group": "group_7"
+        },
+        {
+            "videoId": "PFkWGFCt-c8",
+            "title": "President Donald Trump Threatens Another Shutdown Without 'Fair Deal' On Border Wall | NBC News",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

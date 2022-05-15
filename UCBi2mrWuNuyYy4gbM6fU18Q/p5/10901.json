@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oz3tiQ94TKk",
-            "title": "Prince Philip’s royal legacy",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "eWZFSEi1t0Y",
             "title": "Ex-NFL star claims bankruptcy nearly led him to murder",
             "secondDuration": 278,
@@ -31,8 +25,14 @@
             "title": "CDC revises mask guidance for fully vaccinated Americans l ABC News",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "tzLrTZR7uPM",
+            "title": "North Korea's second missile launch this week l GMA",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-U5uISn4f0k",
-            "title": "Military Vehicle Plows Into Protesters In Venezuela | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "A0AjvHYCAGA",
             "title": "4 Former Police Officers Charged In George Floyd’s Death Appear In Court | NBC Nightly News",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "President Trump Lawyer Michael Cohen Has Been Under Investigation For Months | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "ueSYXutMYaQ",
+            "title": "New Zealand PM: We Can’t Call For Climate Change Targets Unless We 'Demonstrate That Leadership'",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

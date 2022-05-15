@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZVK3nEoJSJ8",
-            "title": "Nightly News Full Broadcast - March 30",
-            "secondDuration": 1052,
-            "group": "group_7"
-        },
-        {
             "videoId": "SU1QEXZbEOg",
             "title": "Not Sure How To Teach Your Kids About Money? Go Back To The Basics | NBC News Now",
             "secondDuration": 187,
@@ -121,8 +115,14 @@
             "title": "How Short Bursts Of Exercise Could Help You Live A Healthier Life | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "JYsdTLaWlug",
+            "title": "Florida Students Return To School Amid Debate Over Masks In Classrooms",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

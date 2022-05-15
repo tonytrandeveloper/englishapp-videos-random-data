@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j7ZNHQF-RHM",
-            "title": "Davos summit indefinitely postponed",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "cPHkdugijko",
             "title": "Former White House COVID-19 adviser on successes, failures of virus response",
             "secondDuration": 460,
@@ -31,8 +25,14 @@
             "title": "GOP senator says bipartisan infrastructure talks ‘very productive’",
             "secondDuration": 491,
             "group": "group_7"
+        },
+        {
+            "videoId": "yr2YLrHqxgI",
+            "title": "NASCAR's Tony Stewart Confronts Apparent Heckler",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

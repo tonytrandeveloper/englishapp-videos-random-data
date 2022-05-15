@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "10TxVnkNISg",
-            "title": "104 Million People Feeling the Pain of a Treacherous Winter Storm",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "G1c64T29S0o",
             "title": "Free Wi-Fi Can Be a Trap for Thieves",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Sen. Lisa Murkowski breaks with GOP, votes 'no' on Kavanaugh",
             "secondDuration": 307,
             "group": "group_7"
+        },
+        {
+            "videoId": "HDHqrP3FdYs",
+            "title": "\"Scandal:\" Tony Goldwyn and Scott Foley Interview Each Other",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

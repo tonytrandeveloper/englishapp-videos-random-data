@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "O0rPwfY6utw",
-            "title": "Americans Hit With Surprise Fees After Getting COVID-19 Test | NBC News NOW",
-            "secondDuration": 265,
-            "group": "group_7"
-        },
-        {
             "videoId": "K3LGq9QsBIs",
             "title": "Experimental Surgery Offers New Hope For Children With Polio-Like Illness | NBC Nightly News",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "Camilla Makes First Public Appearance After Queen Elizabeth Expresses 'Sincere Wish'",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "i6OREy255Zw",
+            "title": "Humanitarian Crisis in Afghanistan As Dozens Of Americans Remain Trapped",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

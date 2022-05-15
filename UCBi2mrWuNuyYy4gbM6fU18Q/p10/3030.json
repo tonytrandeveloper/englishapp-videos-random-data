@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IPIOruQWAXY",
-            "title": "New surveillance video released in Phoenix family's viral police encounter",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "7s0tPC0PqH0",
             "title": "Beaches on Cape Cod Closed Due to Great White Shark Activity",
             "secondDuration": 56,
@@ -61,8 +55,14 @@
             "title": "How the education wars are expanding beyond critical race theory",
             "secondDuration": 568,
             "group": "group_7"
+        },
+        {
+            "videoId": "PmYT7kFWxrc",
+            "title": "Scam Artists Target Your Tax Refund",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

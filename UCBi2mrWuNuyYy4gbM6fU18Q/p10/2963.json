@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "p98KzAGG04Y",
-            "title": "DNC 2020: Night 1 key moments",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "AMIJUMF4F-o",
             "title": "Hillary Clinton's New Glasses Raise Debate During Benghazi Testimony",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Wal-Mart Plans to Build by Historic Site",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "e8Ae0sdNyJA",
+            "title": "Four-Year-Old Daliyah Marie Arana Hits 'A Thousand Books Before Kindergarten' Reading Goal",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

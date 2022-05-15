@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6ckLDOGuMHk",
-            "title": "Trump Having 'Best Week,' New Campaign Manager Kellyanne Conway Says",
-            "secondDuration": 518,
-            "group": "group_7"
-        },
-        {
             "videoId": "ylxz9wrAIuo",
             "title": "Is Obama Counting on Kandahar?",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "Super Tuesday: Ben Carson 'Not Ready to Quit'",
             "secondDuration": 1147,
             "group": "group_7"
+        },
+        {
+            "videoId": "SM0ehhz6mqU",
+            "title": "ABC News Prime: Dangerous weather in US; FEMA opens mass vaccination sites; Notre-Dame's restoration",
+            "secondDuration": 3535,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

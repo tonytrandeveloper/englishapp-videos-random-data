@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dxMR7_MrXeo",
-            "title": "Trump returns to the White House after the holidays with tweets",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "RLCqWGDlOKM",
             "title": "11th annual Stand Up For Heroes benefit hosted by Bob Woodruff",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Large boulder removed above road in Washington",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "V4sEDW815T8",
+            "title": "Olympics | Team USA Hidden Talents",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

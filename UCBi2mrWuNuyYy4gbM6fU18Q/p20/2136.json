@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6F9zcjy2rNY",
-            "title": "End of Christmas Brings Clearance-Hunting Season",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "eAU9ikl1jYY",
             "title": "ABC News Prime: VA election fallout; Child COVID vaccination; Underwater solution to climate change?",
             "secondDuration": 5068,
@@ -121,8 +115,14 @@
             "title": "Deadly Flooding Does Damage Across Texas",
             "secondDuration": 306,
             "group": "group_7"
+        },
+        {
+            "videoId": "btahnJ5NNc0",
+            "title": "Vigil held for woman pushed in front of NYC train",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "w1qBra5fu1o",
-            "title": "Taiwan Plane Crash Leaves 31 Dead | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "gY_sv7XCRFQ",
             "title": "Anger In Louisville After No Officers Charged With Breonna Taylor’s Death | NBC Nightly News",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "The Most Inspiring Speeches From Past Inaugurations | NBC News NOW",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "y_LSU18J5c4",
+            "title": "U.S. Inflation Hits Nearly 40-Year High",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

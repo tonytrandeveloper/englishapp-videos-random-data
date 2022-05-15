@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SKnBkvQcYGA",
-            "title": "Ivanka Trump Testifies Virtually Before Jan. 6 Committee",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "BOlznqUk85M",
             "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4646,
@@ -31,8 +25,14 @@
             "title": "Michael Cohen Claims President Donald Trump Repeatedly Made Racist Remarks | NBC Nightly News",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "L9H4ASFhjDU",
+            "title": "The Howard Dean Scream At 15: The First Political Meme | NBC News",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

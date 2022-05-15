@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5Tsrimtn6PI",
-            "title": "NASA Honors Famed African American Mathematician Katherine Johnson | NBC BLK | NBC News",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "vp_1gK9139E",
             "title": "‘Strongest Ever’ Hurricane Patricia Hits Mexico’s Pacific Coast | NBC Nightly News",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "These Library Book Sorters Battle to Win Fastest in Country | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "3WIdsZwkCeo",
+            "title": "First Cruise Ship Sets Sail In Mediterranean Since Pandemic’s Start | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

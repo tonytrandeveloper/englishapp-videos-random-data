@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UH-urZZA_fE",
-            "title": "NBC News' Jo Kent: A Day On The Campaign Trail",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "t45FVv9Z8jo",
             "title": "Thousands Forced To Evacuate Fort Lauderdale Airport Due To Bomb Threat",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Full NIH Director Interview: 'All Americans Need To Recognize, It's Up To Us' | Meet The Press",
             "secondDuration": 704,
             "group": "group_7"
+        },
+        {
+            "videoId": "IRuin3EkJNQ",
+            "title": "Andrew Yang Chokes Up Talking About Campaigning In Iowa Over Two Years | NBC News",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

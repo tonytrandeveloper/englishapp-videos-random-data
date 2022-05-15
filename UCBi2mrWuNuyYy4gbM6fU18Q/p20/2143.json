@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DfIEMnHUEbg",
-            "title": "Firefighters Attempt to Save Multi-Million Dollar Mansion",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "vCPvRkMRYWA",
             "title": "Sen. Rand Paul on health care bill: 'We never ran on a replacement of Obamacare Lite'",
             "secondDuration": 404,
@@ -121,8 +115,14 @@
             "title": "Tennessee man speaks out about his encounter with 2 dangerous escaped prisoners",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "6ks9ZU61Fpo",
+            "title": "Suspect Arrested in Erin Andrews Case",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

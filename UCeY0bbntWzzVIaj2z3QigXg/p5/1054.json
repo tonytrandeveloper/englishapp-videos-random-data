@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vplIgbd2Sp0",
-            "title": "Interest Rates Are Low. Here’s Why It Matters To You | NBC News Now",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "g555kCTdFsM",
             "title": "Bernie Sanders On Trump, Clinton, Fight For The Nomination | Meet The Press | NBC News",
             "secondDuration": 937,
@@ -31,8 +25,14 @@
             "title": "Hyde-Smith Thanks President Donald Trump After Apparent Senate Win | NBC News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "OxcWdPpjrsg",
+            "title": "From Obama To Trump: Inside The County That Flipped The Election In Pennsylvania | NBC News",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

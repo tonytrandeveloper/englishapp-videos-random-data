@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wl4ChnqMA1c",
-            "title": "First US to Cuba Flight Takes Off",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "_tyIjTXA0Z8",
             "title": "President Trump tweets support of FEMA's efforts during Hurricane Harvey",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Wait Begins for Owner of Winning Powerball Ticket",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "UKa8RfAwnMY",
+            "title": "Joseph I. Lieberman tribute to John McCain",
+            "secondDuration": 1320,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

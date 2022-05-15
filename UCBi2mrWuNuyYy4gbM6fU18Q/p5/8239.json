@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KYK5ANwnJ7M",
-            "title": "Hillary Clinton Remarks on Brussels Terror Attacks",
-            "secondDuration": 450,
-            "group": "group_7"
-        },
-        {
             "videoId": "mtmzq-ZgV_w",
             "title": "Thailand's Child Boxers Fight for Their Futures",
             "secondDuration": 422,
@@ -31,8 +25,14 @@
             "title": "Simone Biles will compete in balance beam final | WNT",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "Bgyzzn_9HBc",
+            "title": "Sochi Winter Olympics 2014: 'Dancing With the Stars' Choreographer Makes History With US Ice Dancers",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

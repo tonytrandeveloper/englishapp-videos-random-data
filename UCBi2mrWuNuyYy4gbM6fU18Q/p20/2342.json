@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "D81QbPR0scg",
-            "title": "Frontrunners for Supreme Court seat ahead of election l GMA",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "AIpUe0bRo1Y",
             "title": "The Rundown: Top headlines today: Dec. 15, 2021",
             "secondDuration": 255,
@@ -121,8 +115,14 @@
             "title": "Ryan Gosling Goes On Demand",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "l2hinCihnhI",
+            "title": "Webcast: George Huguely Sentenced to Prison",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

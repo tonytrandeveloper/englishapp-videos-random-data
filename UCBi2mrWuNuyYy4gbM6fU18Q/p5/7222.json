@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dCRbsroHof4",
-            "title": "Boston Bombing Survivor Crosses Marathon Finish Line",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "B8B63vj_t4s",
             "title": "Cloud Nothings Interview: Band's Darker Album",
             "secondDuration": 216,
@@ -31,8 +25,14 @@
             "title": "Terror Attacks in Denmark",
             "secondDuration": 370,
             "group": "group_7"
+        },
+        {
+            "videoId": "VbmZHJsGPOM",
+            "title": "Adm. William McRaven’s Inspirational Words",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

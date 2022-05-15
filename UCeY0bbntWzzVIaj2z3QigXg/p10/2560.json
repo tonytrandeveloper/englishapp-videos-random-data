@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Q9nyx9AxkLM",
-            "title": "‘When The Towers Began To Collapse, The Entire Country Shuddered’",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "3z_E3ICvFUQ",
             "title": "Chuck Todd: Biden Has ‘Lost His Political Identity’ As He Heads Into Second Year In Office",
             "secondDuration": 247,
@@ -61,8 +55,14 @@
             "title": "U.S. Secret Service Director Is Out, Latest Casualty In DHS Shakeup | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "DBzl9hTtZI4",
+            "title": "Growing Concern Over Coronavirus Testing Troubles Across The U.S. | NBC Nightly News",
+            "secondDuration": 766,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

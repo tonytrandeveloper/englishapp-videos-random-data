@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mWNLdxFrEMw",
-            "title": "Fires in Australia, penguins in China, floating Santas: World in Photos, Jan. 7",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "hcZ_IRKzJzE",
             "title": "Oct. 10, 2002: Sniper Terrorizes D.C.",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "Trump Administration's First Full Day of Business",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "OQLr3lBLPvg",
+            "title": "Pulitzer-winning playwright Sam Shepard dead at 73",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

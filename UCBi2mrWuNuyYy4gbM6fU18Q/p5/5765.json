@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KFKpcyDKLX4",
-            "title": "Malala Yousafzai Returns to School",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "lwLqShF8YAs",
             "title": "The World Mourns Nelson Mandela",
             "secondDuration": 281,
@@ -31,8 +25,14 @@
             "title": "Interview With Speaker Pelosi",
             "secondDuration": 729,
             "group": "group_7"
+        },
+        {
+            "videoId": "humbHN47pKQ",
+            "title": "How the Pacific Was Won",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

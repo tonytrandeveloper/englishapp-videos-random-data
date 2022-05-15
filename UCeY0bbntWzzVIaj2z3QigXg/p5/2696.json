@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RNBjkQ5x_p8",
-            "title": "Watch: Day 7 Of Derek Chauvin's Trial | NBC News",
-            "secondDuration": 21051,
-            "group": "group_7"
-        },
-        {
             "videoId": "eBr9MZcxOcQ",
             "title": "Officials Search For Capitol Riot Suspects, Warn Of New Threats | NBC Nightly News",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "Buckingham Palace Hot Mic Video Is ‘Complete Nonsense’, PM Johnson Says | NBC News",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "qEhBEZYB6ck",
+            "title": "Nelson Mandela's 1994 Inauguration | Flashback | NBC News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K7aZuCcbG64",
-            "title": "Frontier, Spirit Merge To Form Fifth Largest U.S. Airline",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "j_ymHtY94QQ",
             "title": "NBC Nightly News Full Broadcast - September 24th",
             "secondDuration": 1114,
@@ -61,8 +55,14 @@
             "title": "‘You Need Your Voting Power’: Florida’s Ex-Felons Fight For Their Voting Rights | NBC News",
             "secondDuration": 342,
             "group": "group_7"
+        },
+        {
+            "videoId": "msoMXVDQu1I",
+            "title": "A Look At Omicron Variant’s Spread In South Africa",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

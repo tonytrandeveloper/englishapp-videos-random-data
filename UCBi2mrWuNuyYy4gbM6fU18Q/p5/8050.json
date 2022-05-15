@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dyDSPPAzMJY",
-            "title": "Bernie Sanders turns up the heat before primary day",
-            "secondDuration": 295,
-            "group": "group_7"
-        },
-        {
             "videoId": "KFCwLtvO-N0",
             "title": "'Twilight: Breaking Dawn' Shooting Plot: Mother Turns in Son",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "'Putin's name will have a stain in history forever for this': Durbin | ABC News",
             "secondDuration": 327,
             "group": "group_7"
+        },
+        {
+            "videoId": "Pslpz1k5MTQ",
+            "title": "UFC fight spills out of the octagon",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

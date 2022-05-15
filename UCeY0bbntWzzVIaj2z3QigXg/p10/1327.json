@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "d2tHm6aB6io",
-            "title": "Boeing 737 Max Returns To Commercial Passenger Flying | NBC News NOW",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "kbrZb2XxF3I",
             "title": "Iowa Democratic Chair Defends Integrity Of Caucus Data: 'This Is Personal To Me' | NBC News",
             "secondDuration": 387,
@@ -61,8 +55,14 @@
             "title": "NOW Tonight With Joshua Johnson - Feb. 14 | NBC News NOW",
             "secondDuration": 2591,
             "group": "group_7"
+        },
+        {
+            "videoId": "rL-9bGLZVBQ",
+            "title": "Prosecutor: Cuomo Was 'Arrogant And Unapologetic' During Resignation Speech",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

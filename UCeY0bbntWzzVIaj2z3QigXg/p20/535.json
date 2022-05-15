@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "X10rUS1xod4",
-            "title": "Watch Live: President Donald Trump Speaks At A Keep America Great Rally In Louisiana | NBC News",
-            "secondDuration": 4584,
-            "group": "group_7"
-        },
-        {
             "videoId": "NJ54UNXwCJQ",
             "title": "United CEO Discusses Employee Covid Vaccine Mandate In Exclusive Interview",
             "secondDuration": 165,
@@ -121,8 +115,14 @@
             "title": "Residents Near Epicenter Of 7.1 Earthquake Without Power Or Water | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "t7gKYHKcoL8",
+            "title": "Taliban Hails ‘Emancipation’ Of Afghanistan In First Kabul News Conference",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

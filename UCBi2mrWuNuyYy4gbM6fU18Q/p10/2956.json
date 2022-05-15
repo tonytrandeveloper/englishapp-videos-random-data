@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tWIl4_5s1gs",
-            "title": "Trump on Clinton Emails, Melania Addresses Bully Culture",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "iGM-YeXvXW4",
             "title": "Neighborhoods struggle as water recedes post-Harvey",
             "secondDuration": 191,
@@ -61,8 +55,14 @@
             "title": "Second Presidential Debate 2012: Obama: Secretary Clinton Works For Me",
             "secondDuration": 27,
             "group": "group_7"
+        },
+        {
+            "videoId": "oPqXwjt-Pmo",
+            "title": "SCOTUS expert: Trump appointee could upend decades-old legal precedents",
+            "secondDuration": 359,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

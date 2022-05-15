@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4Wu6diOh_Xw",
-            "title": "North Korea stands down from launching missiles near Guam",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "YU0uqZ-Yn5g",
             "title": "Outrage over Boeing 737 MAX recertification",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "Osama bin Laden's Son-in-Law Faces NYC Trial",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "8S--DbQyHA4",
+            "title": "'GMA' Halloween Scare-tacular: 'DWTS' Secret Audition Tapes",
+            "secondDuration": 250,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

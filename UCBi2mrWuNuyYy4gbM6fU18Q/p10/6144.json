@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bMgVFHl0pDc",
-            "title": "Trump Picks EPA Critic Scott Pruitt to Head EPA",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "SNj_dPmrh9c",
             "title": "Plane from Dubai quarantined at JFK due to sick passengers",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "$50K reward to help solve the murders of two teen girls who went missing on a hike in Indiana",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "k0ZWyNVBU3I",
+            "title": "Rob Nelson Labor Pains",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

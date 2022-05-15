@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OcLZf52b-mw",
-            "title": "Driver survives after car plunges 7 floors in parking garage",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "egoVH7TYdKs",
             "title": "Charlottesville suspect denied bail",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "Bella Thorne Interview 2014: Model Gets 'Blended' with Adam Sandler, Drew Barrymore",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "QYUG6yfJJM4",
+            "title": "Women Only Car Service Sparks Controversy",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CwFC_-czUgY",
-            "title": "Roger Stone out on $250,000 bond with travel restricted by judge",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "zcnR2WEPw5c",
             "title": "Nelson Mandela Health: South African Leader Treated for Lung Infection",
             "secondDuration": 60,
@@ -31,8 +25,14 @@
             "title": "President Trump's 'America First' spending blueprint released",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "9AdwvyEg86o",
+            "title": "Ferguson Police Shooting: Jeffrey Williams Arrested",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

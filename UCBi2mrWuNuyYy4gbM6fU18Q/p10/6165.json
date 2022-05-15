@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JJoaKERFQ-0",
-            "title": "San Diego Zoo Performs C-Section on Gorilla",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "-T_xobEly_0",
             "title": "Amazon pulls plug on building Queens HQ",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Tropical depression hampers search and rescue efforts after Haiti earthquake",
             "secondDuration": 397,
             "group": "group_7"
+        },
+        {
+            "videoId": "vC5TaPzuMKg",
+            "title": "Jonah Mowry Interview: Explains 'Whats Goin On' Video - 'You Can Be Happy'",
+            "secondDuration": 309,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

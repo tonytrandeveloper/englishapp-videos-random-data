@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kVT27w1-AJQ",
-            "title": "Police officer takes on phone scammer: 'Can I send a check?'",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "UgsiNzcLUhk",
             "title": "Trump Claims Clinton is 'Anti-Second Amendment' at NRA Convention",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Olympic Boxer Claressa Shields' Long Fight for Gold",
             "secondDuration": 392,
             "group": "group_7"
+        },
+        {
+            "videoId": "S85WMM_cKpg",
+            "title": "George Zimmerman's Bond Revoked: Must Surrender in 48 Hours",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bHfxE6r_AVc",
-            "title": "Russia Escalates Assault On Kyiv As Civilians Try To Escape",
-            "secondDuration": 259,
-            "group": "group_7"
-        },
-        {
             "videoId": "yDwPQ3_t0pY",
             "title": "Trump Praises Decision To Dismiss Case Against Flynn: 'He Was Treated Horribly' | NBC News",
             "secondDuration": 66,
@@ -121,8 +115,14 @@
             "title": "How Trump Talks About Women, From the Campaign Trail To The White House | NBC News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "J1hQflKTvcY",
+            "title": "Donald Trump On Immigration: On The Trail And As President-Elect | NBC News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-TUOPmXYdUY",
-            "title": "Meghan Markle's father breaks silence after royal wedding",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "dQp43Y9k0OU",
             "title": "Middle East conflict escalates as neither side backs down",
             "secondDuration": 322,
@@ -61,8 +55,14 @@
             "title": "DOJ charges 6 individuals in plot to kidnap Michigan Gov. Gretchen Whitmer",
             "secondDuration": 462,
             "group": "group_7"
+        },
+        {
+            "videoId": "IHCV0tqd1Sk",
+            "title": "Scientists in New York focused on popular heartburn drug for treatment of COVID-19 | WNT",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

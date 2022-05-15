@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_SY7K77DnmI",
-            "title": "Arizona Shooting Suspect Captured After Deadly Spree | NBC Nightly News",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "_QPEqDXqHPI",
             "title": "Alex Murdaugh Surrenders To Authorities After Hitman Plot",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Measles Scare: Theatre Possibly Exposed, Cruise Ship Quarantined In Caribbean | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "wBKu80H4LaE",
+            "title": "Tom Brokaw: If At First You Don't Succeed, Ask Barack Obama | NBC News",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

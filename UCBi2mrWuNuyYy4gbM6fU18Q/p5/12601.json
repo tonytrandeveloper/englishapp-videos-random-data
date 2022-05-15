@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oquezUAknmM",
-            "title": "'I Am' Meditating",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "eevkJAsfwj8",
             "title": "State Of The Union",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "Sean “Diddy” Combs Arrested",
             "secondDuration": 299,
             "group": "group_7"
+        },
+        {
+            "videoId": "vAzuCnY9YY8",
+            "title": "NASA discovers traces of water on the moon",
+            "secondDuration": 47,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

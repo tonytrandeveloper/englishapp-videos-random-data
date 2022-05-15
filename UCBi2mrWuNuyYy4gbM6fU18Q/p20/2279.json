@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Sm4NpfTdWqg",
-            "title": "Top Line: Dan Balz on the Busy Week in Washington",
-            "secondDuration": 317,
-            "group": "group_7"
-        },
-        {
             "videoId": "fDrYNsgd_Nc",
             "title": "Beth Holloway reunites with man who helped her search for Natalee in Aruba | ABC News",
             "secondDuration": 127,
@@ -121,8 +115,14 @@
             "title": "'Homeless' American Girl Doll",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "SFTgVnDcmY8",
+            "title": "CDC expands wastewater surveillance to battle future COVID outbreaks",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Z4BwYMNyJwE",
-            "title": "The history of Martin Luther King Jr. Day",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "-_xfnI8dQ3M",
             "title": "2 young sisters survive 44 hours alone in California woods",
             "secondDuration": 190,
@@ -301,8 +295,14 @@
             "title": "Trump on Border Wall Discussion With Mexican President",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "lBO4eUMpWyg",
+            "title": "Amplified: Girl Talk",
+            "secondDuration": 796,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

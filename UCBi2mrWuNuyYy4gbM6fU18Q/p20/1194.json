@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2omQ_zNVeIA",
-            "title": "Ted Cruz: My Wife Is 'Way Out of' Trump's League",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "YMF6oG5s4RM",
             "title": "Dylann Roof Found Guilty on All 33 Charges in Federal Trial",
             "secondDuration": 145,
@@ -121,8 +115,14 @@
             "title": "Millions leave Venezuela to keep their families alive: Part 1",
             "secondDuration": 411,
             "group": "group_7"
+        },
+        {
+            "videoId": "4xkacfbl2H0",
+            "title": "'The Briefing Room': Manafort trial, Trump removes security clearances, military parade postponed",
+            "secondDuration": 972,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

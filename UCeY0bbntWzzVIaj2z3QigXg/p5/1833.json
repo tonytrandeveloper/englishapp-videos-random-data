@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5idsjtnfLVU",
-            "title": "White House Holds Press Briefing - Feb. 25 | NBC News",
-            "secondDuration": 2996,
-            "group": "group_7"
-        },
-        {
             "videoId": "VAx_6UkO2k4",
             "title": "NBC News NOW Full Broadcast - May 18th, 2021",
             "secondDuration": 2734,
@@ -31,8 +25,14 @@
             "title": "SpaceX’s Falcon Heavy Rocket Launch | NBC News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "zTROhmMYzak",
+            "title": "New NAFTA Deal Stalled As President Trump Suggests Canada Could Be Left Out | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

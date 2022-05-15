@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "We4RK6-rDdM",
-            "title": "WEBCAST:Economic Boost",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "lEJA9Ecfeq8",
             "title": "Family of man convicted of killing Queens jogger insists he's been framed",
             "secondDuration": 505,
@@ -31,8 +25,14 @@
             "title": "Police shooting mistrial ignites nationwide protests",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "gcz-E7iQ_y4",
+            "title": "Astroworld victim recounts scary stampede: 'There was no oxygen left to breathe'",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

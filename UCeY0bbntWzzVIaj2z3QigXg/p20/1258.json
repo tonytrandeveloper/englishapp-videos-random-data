@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZV3nMj90yes",
-            "title": "Second Texas Health Worker Diagnosed With Ebola | NBC News",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "MgbYcU98xwc",
             "title": "Facing A Dwindling Population, Vermont Recruits Millennials | NBC Nightly News",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump: AG Sessions Should Never Have Recused Himself | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "wE-SjHoBP9Y",
+            "title": "After Coal Mines Shut Down, Communities Are Hoping For A Prison | NBC News",
+            "secondDuration": 361,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

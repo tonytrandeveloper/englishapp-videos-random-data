@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B6a96QY1fdo",
-            "title": "Former President George H.W. Bush Hospitalized",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "gvelBsnijBc",
             "title": "A second student from Marjory Stoneman Douglas High has died in apparent suicide",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Simon Cowell, Lauren Silverman Affair: New Photos Emerge",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "RAH1eZRxrow",
+            "title": "New details emerge on origins of COVID-19 | ABC News",
+            "secondDuration": 442,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

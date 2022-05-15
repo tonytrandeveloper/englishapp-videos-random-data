@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "D5dnLyfYNyY",
-            "title": "Democratic congressman on supporting Trump",
-            "secondDuration": 465,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z_nRkK27oLk",
             "title": "New video of Philadelphia shootout shows how suspect ambushed police",
             "secondDuration": 165,
@@ -121,8 +115,14 @@
             "title": "Hillary Clinton Becomes First Woman Nominated as Presidential Candidate",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "9Y0oNDtkBJo",
+            "title": "Clinton, Trump Will Support Election Outcome",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

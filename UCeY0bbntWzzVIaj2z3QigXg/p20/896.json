@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_MT6RiLub1E",
-            "title": "Conviction on Dateline",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "o0TQFw50hME",
             "title": "Chicago Blackhawks Pay Heartwarming Tribute To Kiss Cam Couple | NBC Nightly News",
             "secondDuration": 75,
@@ -121,8 +115,14 @@
             "title": "Yelp To Cover U.S. Employees’ Out Of State Abortion Travel Costs",
             "secondDuration": 278,
             "group": "group_7"
+        },
+        {
+            "videoId": "fPiEn0LT2V0",
+            "title": "French Chef Aims To Bring Restaurant-Quality Food To Hospitals | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

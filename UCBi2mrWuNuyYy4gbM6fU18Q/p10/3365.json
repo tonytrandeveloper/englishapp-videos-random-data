@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pg_-JOqW4XM",
-            "title": "Guilty verdict in 1st Jan. 6 trial",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "gpNxY1rLmwc",
             "title": "World Series champs, California fires, Medal of Honor: World in Photos, Oct. 31, 2019",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Middle East Violence: Taliban Kills Two American Marines in Afghanistan",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "j5CXSsWPkR0",
+            "title": "Hurricane Irene's Track",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

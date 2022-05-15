@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FgxquuGHv3o",
-            "title": "The Royals Down Under",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "Whi8BBPzdYA",
             "title": "Women's March in Washington D.C.",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "The Conversation:The Mom Behind 'Mila's Daydreams'",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "5xSvE1GdXgk",
+            "title": "Clinton Vows Criminal Justice Reform at NAACP Conference",
+            "secondDuration": 390,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

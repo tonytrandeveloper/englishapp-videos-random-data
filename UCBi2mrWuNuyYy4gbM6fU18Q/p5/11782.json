@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mo9ARl3QAfA",
-            "title": "Democrats, Pence differ on shutdown-meeting details",
-            "secondDuration": 265,
-            "group": "group_7"
-        },
-        {
             "videoId": "RuGQKwbExo8",
             "title": "52 Shot in Violent Chicago Weekend",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "Trump Slams Milwaukee Protests, Appeals to Black Voters",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "TFk42w_CGTc",
+            "title": "2012 Oscar Nominations Are Coming",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

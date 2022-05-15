@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9dRPK-03AVY",
-            "title": "Killer Bees Swarm California Town",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "wyFXERNBwcg",
             "title": "Police and protesters clash in Paris after demonstrations supporting health care workers | ABC News",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "President Trump insists America’s mass shootings are a result of mental illness",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "XvOjaSqKMv0",
+            "title": "Missing Malaysia Plane: Radar Hits of 'Significant Size' in Indian Ocean",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

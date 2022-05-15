@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eQgP9fq96vo",
-            "title": "Auschwitz Anniversary: Survivors Gather In Remembrance",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "GNPc8MX-1II",
             "title": "CDC launches COVID-19 wastewater surveillance dashboard",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Amplified: The Flaming Lips",
             "secondDuration": 324,
             "group": "group_7"
+        },
+        {
+            "videoId": "6mG9l28oKyI",
+            "title": "Will Smith Raps 'Fresh Prince' After Dare from British TV Host",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

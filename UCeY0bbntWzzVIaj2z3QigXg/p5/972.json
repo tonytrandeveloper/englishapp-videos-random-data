@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3kPLL4KnKTc",
-            "title": "White House Holds Press Briefing: September 30 | NBC News",
-            "secondDuration": 2752,
-            "group": "group_7"
-        },
-        {
             "videoId": "k-MHXL0fKZU",
             "title": "President Donald Trump Announces 'Incredible, New' NAFTA Replacement Deal At WH Event | NBC News",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Merkel On Trump's ‘Go Back:' ‘This Is Something That Contradicts The Strength Of America’ | NBC News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gc4OvkivjLk",
+            "title": "President Donald Trump: No Deal Reached Yet With Democrats To Extend DACA | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

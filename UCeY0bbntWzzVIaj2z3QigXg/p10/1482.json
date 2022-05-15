@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PMEeLHil2kw",
-            "title": "Julius Emerson: We're still talking about possibly hundreds of millions of dollars",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "eECl7nF3qw4",
             "title": "Portland Protesters, Local Officials Say Federal Presence Is Making Tensions Worse | NBC News NOW",
             "secondDuration": 685,
@@ -61,8 +55,14 @@
             "title": "Eli Lilly’s Covid-19 Antibody Treatment Faces Distribution Challenges | NBC Nightly News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "iapD0X-bfCA",
+            "title": "Trying To Forget An Ex? How Memory Manipulation From 'Eternal Sunshine' Might Work | Mach | NBC News",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

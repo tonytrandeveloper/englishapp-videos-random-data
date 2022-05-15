@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Hg7ELSX5QcA",
-            "title": "Donald Trump Wins US Presidential Election",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "boqKRGNz9bM",
             "title": "Louisville Basketball Coach Speaks Out",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "The Long Debate Over Arizona's Immigration Law",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "okYrUwdNpos",
+            "title": "President Obama Confidant 'Assad's Days are Numbered'",
+            "secondDuration": 459,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

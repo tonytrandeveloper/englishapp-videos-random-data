@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X3MfDQUnXp0",
-            "title": "NBC Nightly News Broadcast (Full) - June 22nd, 2021",
-            "secondDuration": 1027,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zb8hvjaemck",
             "title": "Lindsey Graham Threatens To Stall Senate Votes Without CIA Briefing On Khashoggi | NBC News",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Who Killed Their Children? These Mothers Are Fighting To Break A Culture Of Silence | NBC News",
             "secondDuration": 397,
             "group": "group_7"
+        },
+        {
+            "videoId": "kxRS6qUiDDM",
+            "title": "Israel Adds Covid Restrictions As Delta Variant Fuels Surge",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

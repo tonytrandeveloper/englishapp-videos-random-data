@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lH9Ta_kwgLQ",
-            "title": "Donald Trump Appears With Paul Ryan on 'Thank You' Tour",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "kGNrKnCQm1I",
             "title": "Law and Order: 'This Week' Panel",
             "secondDuration": 345,
@@ -121,8 +115,14 @@
             "title": "Search for survivors after deadly tsunami hits Indonesia",
             "secondDuration": 363,
             "group": "group_7"
+        },
+        {
+            "videoId": "b7DSaZJHVaY",
+            "title": "Exclusive Interview: Melania Trump to speak out to ABC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

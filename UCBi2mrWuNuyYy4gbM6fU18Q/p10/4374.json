@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "erfm8mfFi0o",
-            "title": "US Open player speaks out after receiving 'sexist' code violation",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "teSkiLGeX6E",
             "title": "Rep. John Lewis on 'Dream' Anniversary: 'A Change Has Come'",
             "secondDuration": 615,
@@ -61,8 +55,14 @@
             "title": "Day care workers accused of encouraging 'toddler fight club'",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "MZ0fzwt0f_c",
+            "title": "Central American drought creates climate change refugees",
+            "secondDuration": 460,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

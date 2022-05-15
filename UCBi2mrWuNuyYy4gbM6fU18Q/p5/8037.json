@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pEitKISjq1U",
-            "title": "Chris Harrison exits 'Bachelor' franchise",
-            "secondDuration": 424,
-            "group": "group_7"
-        },
-        {
             "videoId": "sFjkaz003-U",
             "title": "Sleep apnea ruled as a cause of Carrie Fisher's death",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "7-Year-Old Killed in Detroit Police Raid",
             "secondDuration": 319,
             "group": "group_7"
+        },
+        {
+            "videoId": "CohsOWI7alM",
+            "title": "Former Trump adviser lied to FBI about dealings with Russians",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

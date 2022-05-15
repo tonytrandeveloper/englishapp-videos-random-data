@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QUhFoSY-DHA",
-            "title": "History of Love in 3 Minutes",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "81MPU-s_dBI",
             "title": "Manhunt Launched for Shooter in Istanbul Nightclub Massacre",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "Prince William and Kate Arrive in New York City",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qer-32dWL5Q",
+            "title": "Taylor Swift takes the stand in former radio DJ groping trial",
+            "secondDuration": 519,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

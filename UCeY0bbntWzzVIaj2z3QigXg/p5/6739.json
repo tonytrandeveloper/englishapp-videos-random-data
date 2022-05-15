@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "w2xyxJnFdTE",
-            "title": "A Japanese Robotics Company Just Unveiled A Real-Life Transformer | Mach | NBC News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rice2OjDZh4",
             "title": "See 6-Year-Old's Inspiring Rap On The ABC's Of Career Possibilities | Nightly News: Kids Edition",
             "secondDuration": 1192,
@@ -31,8 +25,14 @@
             "title": "Anthony Fauci Says Coronavirus Vaccine Will Be Proven Effective Or Not By 2021 | NBC News NOW",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "kCjC58jnAQw",
+            "title": "Rand Paul's Presidential Campaign Scouting Report | NBC News",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

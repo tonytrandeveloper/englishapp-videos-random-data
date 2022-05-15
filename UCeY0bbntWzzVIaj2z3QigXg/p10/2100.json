@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DaYYDsur8YA",
-            "title": "European Countries Report Cases of Omicron Covid Variant",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "x0sS2UfN7FA",
             "title": "Biden: GOP Efforts To Restrict Voting Is Worse Than 'Jim Crow' | NBC News",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Taking A Look Back: Trump's Lafayette Square Photo-Op One Year Later",
             "secondDuration": 329,
             "group": "group_7"
+        },
+        {
+            "videoId": "5jKqyMa87No",
+            "title": "Trump Says He Hasn’t Seen COVID-Positive National Security Adviser Robert O'Brien | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

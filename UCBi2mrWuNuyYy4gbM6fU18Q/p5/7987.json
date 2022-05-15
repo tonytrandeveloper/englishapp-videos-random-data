@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "M3B9yhsOXpY",
-            "title": "'I feel very confident about the decision we made' on vaccine: FDA commissioner | ABC News",
-            "secondDuration": 461,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bavx-OAD4io",
             "title": "'I would welcome the appointment of a Black female to the Court': Sen. Collins | ABC News",
             "secondDuration": 403,
@@ -31,8 +25,14 @@
             "title": "2022 midterms kick off in Texas I ABCNL",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "HPxE3-tUAnQ",
+            "title": "Winter weather slows delivery of vaccine doses across US | WNT",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

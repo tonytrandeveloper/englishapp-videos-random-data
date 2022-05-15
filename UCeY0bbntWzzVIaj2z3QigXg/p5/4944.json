@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s2AvBk1M9hk",
-            "title": "Katie Hill Delivers Fiery Final Speech On House Floor | NBC Nightly News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "yVyu4z0bFuA",
             "title": "Lou Gehrig's Impact On ALS 75 Years Later | 101 | NBC News",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "Hong Kong Protestors Create Democracy Wall | NBC News",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "so1SdZmZuvc",
+            "title": "Hong Kong Protestor Beaten By Police | NBC News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

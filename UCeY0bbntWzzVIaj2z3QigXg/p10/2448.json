@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8_aNYpQhCBw",
-            "title": "NBC Nightly News Broadcast (Full) - July 7th, 2021",
-            "secondDuration": 1285,
-            "group": "group_7"
-        },
-        {
             "videoId": "bMcpLuFOFbw",
             "title": "Bernie Sanders: ‘We Have A New Vision For America’ | NBC News",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Welcomes Gen. John Kelly On First Day As Chief Of Staff | NBC News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "pKiDLT5vt5E",
+            "title": "Lightning Round: What Foreign Relationship Would You Reset? | NBC News",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

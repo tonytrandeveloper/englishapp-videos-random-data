@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ey8R_pugu3Y",
-            "title": "United Airlines Passengers Stuck in Canada After Flight Was Diverted",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "u353eSlOlOc",
             "title": "Alex Trebek marks 1 year in pancreatic-cancer fight | WNT",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "2 suicide bombings end 3 days of peace in Afghanistan",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "p98KzAGG04Y",
+            "title": "DNC 2020: Night 1 key moments",
+            "secondDuration": 301,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

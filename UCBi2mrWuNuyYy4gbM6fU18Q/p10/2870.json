@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2R0aHTpdX1I",
-            "title": "Extent of Destruction in Japan Grows Clearer",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "cs7hWzVSEME",
             "title": "Oklahoma Tornadoes Devastate Residents",
             "secondDuration": 469,
@@ -61,8 +55,14 @@
             "title": "Alabama 5-year-old Hostage Taken from School Bus: Negotiations Continue",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "PeqJjg075DY",
+            "title": "Celebrity Lookalikes",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vmCmWXPaiZU",
-            "title": "Amanda Knox Interview 2013 on 'GMA': Prosecution Failed to Give Victim's Family Answers",
-            "secondDuration": 424,
-            "group": "group_7"
-        },
-        {
             "videoId": "VskgTwAOvFw",
             "title": "Tijuana mayor declares humanitarian crisis as 5,000 migrants enter town",
             "secondDuration": 302,
@@ -61,8 +55,14 @@
             "title": "Wedding Planner Accused of Stealing Money From Couples",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "rC2rblUXDUg",
+            "title": "Missouri hospital official discusses low vaccination rates, rising cases",
+            "secondDuration": 347,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

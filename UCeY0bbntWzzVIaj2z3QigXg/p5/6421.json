@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j7l9kFbw_zY",
-            "title": "Florida Sheriff David Shoar: Flooding Is 'Worst-Case Scenario' | NBC News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "8lLKc6rHKpM",
             "title": "California Wildfire Traps Hundreds In National Forest | NBC Nightly News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Texas Realtor Speaks On Role In Jan. 6 Attack",
             "secondDuration": 258,
             "group": "group_7"
+        },
+        {
+            "videoId": "qq-EZ1t5NCU",
+            "title": "Cubans Forcefully Reject Blame For U.S. Diplomats’ Mystery Ailments | NBC Nightly News",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

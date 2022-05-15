@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jSJMkCgJoEg",
-            "title": "'We are failing' to contain delta variant surge: NIH director | ABC News",
-            "secondDuration": 526,
-            "group": "group_7"
-        },
-        {
             "videoId": "s19eFX5gYcE",
             "title": "First Spinal-Cord Surgery With Stem Cells",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "'Mrs. Doubtfire' Movie Teaches Young Girl to Save Lives",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "T6bjC8R2pUw",
+            "title": "State of emergency declared in New York City over coronavirus",
+            "secondDuration": 388,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

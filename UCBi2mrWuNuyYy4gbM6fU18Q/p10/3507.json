@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ysuHa4hagS0",
-            "title": "TV Chef Nigella Lawson on Fraud Trial: 'I Will Survive This'",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jp1Tc1dfOaI",
             "title": "Innocent Man Framed?",
             "secondDuration": 535,
@@ -61,8 +55,14 @@
             "title": "Beavers play in the snow at Washington zoo l ABC News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZvuIcQTTwmw",
+            "title": "ABC News Live: At least 60 dead in Surfside as rescue effort shifts to recovery",
+            "secondDuration": 1182,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

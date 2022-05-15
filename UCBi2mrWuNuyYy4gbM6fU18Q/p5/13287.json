@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0nDzr6RGyrE",
-            "title": "New video shows abandoned vehicles, equipment at Kabul airport",
-            "secondDuration": 573,
-            "group": "group_7"
-        },
-        {
             "videoId": "eKhBfppYK7Y",
             "title": "Bill Belichick Denies Deflate Gate Knowledge in 8 Ways",
             "secondDuration": 39,
@@ -31,8 +25,14 @@
             "title": "George W. Bush remembers Rep. John Lewis at funeral",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "y5G3suPwLpI",
+            "title": "At least 16 shot in Sacramento mass shooting",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

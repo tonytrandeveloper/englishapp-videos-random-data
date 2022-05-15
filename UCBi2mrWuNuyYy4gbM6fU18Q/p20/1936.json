@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZW9NgaENjCI",
-            "title": "Vanessa Williams on Returning to Miss America After Scandal",
-            "secondDuration": 374,
-            "group": "group_7"
-        },
-        {
             "videoId": "_aS9oqDtABU",
             "title": "New details from video evidence in Ahmaud Arbery case | WNT",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "Philadelphia Lawyer Involved in Trump Vandalism",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "PTP1JU1aVEk",
+            "title": "The Conversation: U.S. Secret Soccer Weapon",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

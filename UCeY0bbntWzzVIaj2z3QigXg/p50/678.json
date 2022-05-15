@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "xYpK4TzpI0E",
-            "title": "Bill Cosby Is Found Guilty On All Three Counts | NBC News",
-            "secondDuration": 721,
-            "group": "group_7"
-        },
-        {
             "videoId": "zDuYGY7T5og",
             "title": "Full Beto: 'There's No One person' Who Can Solve All Problems | Meet The Press | NBC News",
             "secondDuration": 565,
@@ -301,8 +295,14 @@
             "title": "Trump Calls Impeachment 'A Terrible Ordeal' At The National Prayer Breakfast | NBC News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "mBxIl1x7RH4",
+            "title": "Firefighters Battle Wildfires And Heat On West Coast | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

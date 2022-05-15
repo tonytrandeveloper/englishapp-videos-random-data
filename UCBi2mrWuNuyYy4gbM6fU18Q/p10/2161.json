@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TOAQ2luxPWo",
-            "title": "M.J.'s Death: Family Fears Foul Play",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZecBKEprK5Y",
             "title": "Joe Paterno to Retire From Penn State",
             "secondDuration": 294,
@@ -61,8 +55,14 @@
             "title": "New Harry Potter Book Excites Fans",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "7Hn-4cT3HdA",
+            "title": "Unorthodox 'Jeopardy' Star Talks Strategy",
+            "secondDuration": 272,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

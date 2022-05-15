@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GEXCvGw-cBY",
-            "title": "US, Russia spar over Ukraine at UN Security Council meeting",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "eX65h3Hhbps",
             "title": "France and Allies Target ISIS With Airstrikes in Syria",
             "secondDuration": 163,
@@ -121,8 +115,14 @@
             "title": "Prosecutors catch Robert Durst's lies in court: 20/20 ‘The Devil You Know’ Preview",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "y9hjoRyDQVM",
+            "title": "Tapper on G-8's Lack of Progress",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

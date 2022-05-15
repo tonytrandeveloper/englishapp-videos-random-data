@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4ButcmFpeUs",
-            "title": "Survivors share the truth of horrific 1921 Tulsa massacre: Part 1",
-            "secondDuration": 390,
-            "group": "group_7"
-        },
-        {
             "videoId": "KB8eVQoaHbk",
             "title": "Matthew McConaughey on \"The Lincoln Lawyer\"",
             "secondDuration": 425,
@@ -31,8 +25,14 @@
             "title": "Aziz Ansari Discusses the Digital Age in 'Modern Romance'",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "U5ONP2CunVI",
+            "title": "Orlando Nightclub Survivors On Facing the Gunman",
+            "secondDuration": 546,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

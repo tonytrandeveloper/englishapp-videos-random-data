@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R7lnPgwCF-8",
-            "title": "United Airlines Flight Attendant Fired After Deploying Emergency Slide",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "lfsZuMJgJxA",
             "title": "Politico's Jonathan Martin on 'Top Line'",
             "secondDuration": 202,
@@ -31,8 +25,14 @@
             "title": "Tornadoes in America's Heartland",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "LE2Fu8kI6xM",
+            "title": "Thousands of Haitian migrants are set to be deported after showing up on the U.S.-Mexico border",
+            "secondDuration": 204,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

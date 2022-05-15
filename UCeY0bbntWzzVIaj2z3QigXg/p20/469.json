@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mcZS6zmDKnM",
-            "title": "Kalamazoo Shooting Suspect Dragged Out After Outburst | NBC News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "puB3Vtx6TdU",
             "title": "President Trump Tweets He’ll Be Announcing ‘Decision On Iran Deal’ On Tuesday | NBC Nightly News",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "Dallas Police Used Bomb Robot to Take Down Gunman Who Shot Cops | NBC News",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "DfuslPl8CcA",
+            "title": "Nearly 300 Rohingya Muslim Refugees Land In Indonesia After Six Months At Sea | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

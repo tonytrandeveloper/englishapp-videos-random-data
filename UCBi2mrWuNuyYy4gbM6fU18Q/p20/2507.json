@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "E2Ct99OEWrA",
-            "title": "NYC doctors on COVID-19 this fall l ABC News",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "gMwCfk6I2vo",
             "title": "\"World News\" Portrait of a Candidate: Barack Obama Interview",
             "secondDuration": 193,
@@ -121,8 +115,14 @@
             "title": "'Karmin' Interview on 'GMA': Stars Nick Noonan and Amy Heidemann Discuss Covers, New Album",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "9oLaC1VYoTM",
+            "title": "NASA Mars Rover Landing: Curiosity Lands, Beams Back Pictures of Mars Surface",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

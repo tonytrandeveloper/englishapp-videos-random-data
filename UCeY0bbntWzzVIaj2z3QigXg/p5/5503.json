@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mqa-FiEKLcI",
-            "title": "Youth Poet Amanda Gorman Recites Poem At Presidential Inauguration | NBC News",
-            "secondDuration": 353,
-            "group": "group_7"
-        },
-        {
             "videoId": "q8nrsHiTZeU",
             "title": "Could U.S. Withdrawal In Syria Lead To An ISIS Resurgence? | NBC News Now",
             "secondDuration": 332,
@@ -31,8 +25,14 @@
             "title": "Biden Holds Virtual Roundtable With Frontline Health Care Workers | NBC News",
             "secondDuration": 1941,
             "group": "group_7"
+        },
+        {
+            "videoId": "KePkvCU1_GM",
+            "title": "Covid And The Holidays: What Should You Do?",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

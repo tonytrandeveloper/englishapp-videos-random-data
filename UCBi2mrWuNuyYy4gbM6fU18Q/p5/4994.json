@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Pq1tv-y41SI",
-            "title": "Eclipse brings rare darkness to Antarctica",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "wIiVKd3nqtE",
             "title": "WNBA star Renee Montgomery on leaving basketball to fight for social change | Nightline",
             "secondDuration": 483,
@@ -31,8 +25,14 @@
             "title": "Ahmaud Arbery l 20/20 l PART 5",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "DsmyTJkbsco",
+            "title": "FBI Investigated Deadly Oregon Standoff",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "c7bKS8uq2hY",
-            "title": "Joaquin 'El Chapo' Guzman convicted on 10 federal charges",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "5e5Gx-ypFXU",
             "title": "GOP’s Susan Collins breaks ranks with Mitch McConnell",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "Clark Gregg Returns From the Dead in Marvel's 'Agents of Shield'",
             "secondDuration": 316,
             "group": "group_7"
+        },
+        {
+            "videoId": "8INVU_dJM4k",
+            "title": "Deadly Shooting in Israel | ABC News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

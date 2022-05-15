@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zZ_JqI8daWI",
-            "title": "EPA Administrator Scott Pruitt resigns amid scandals: Special Report",
-            "secondDuration": 638,
-            "group": "group_7"
-        },
-        {
             "videoId": "RLFxf8slXMw",
             "title": "Anaheim Riot Video 2012: Protests Turn Violent After Protesters Turned Away from City Hall",
             "secondDuration": 55,
@@ -61,8 +55,14 @@
             "title": "Officials to oversee police probe into officers' shooting of unarmed black man",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "2t6D6ZlsnTk",
+            "title": "WEBCAST: Historic Powerful Typhoon",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

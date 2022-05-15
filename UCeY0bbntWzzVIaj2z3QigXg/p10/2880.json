@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8IMV6TxjgrY",
-            "title": "The End Of Ringling Bros. And Barnum & Bailey Circus | NBC Nightly News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "DNjKC8qWDCA",
             "title": "How Our Criminal Justice System Is Almost Entirely Negotiated Behind Closed Doors | Think | NBC News",
             "secondDuration": 213,
@@ -61,8 +55,14 @@
             "title": "Nightly News Full Broadcast - October 9th",
             "secondDuration": 1298,
             "group": "group_7"
+        },
+        {
+            "videoId": "qpL-rwoohXU",
+            "title": "Humans To Blame For The Coronavirus? How Deforestation Gives Rise To Pandemics | Think | NBC News",
+            "secondDuration": 461,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

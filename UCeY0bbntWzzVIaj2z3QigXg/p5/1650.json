@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mLW8LFqfGzk",
-            "title": "Minneapolis Police Lieutenant Testifies That Kneeling On Someone's Neck Is 'Deadly Force' | NBC News",
-            "secondDuration": 310,
-            "group": "group_7"
-        },
-        {
             "videoId": "pIjt_z4JHGM",
             "title": "Nightly News Full Broadcast - March 23",
             "secondDuration": 1284,
@@ -31,8 +25,14 @@
             "title": "Full Interview: Jamie Dimon On The Ties Between Inner City Education, COVID-19, And The Economy",
             "secondDuration": 1356,
             "group": "group_7"
+        },
+        {
+            "videoId": "OWtJ05tDkn8",
+            "title": "Delta Covid-19 Variant Cases Now Confirmed In All 50 States",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ske9LerkhUc",
-            "title": "Donald Trump Tells Protester 'Go Home To Mommy' | NBC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "YwR4UnGzLhQ",
             "title": "The Toll Of Racism On Black Americans' Physical And Mental Health | NBC Nightly News",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "How New Car Tech Aims To Prevent Drunk Driving Deaths",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "LB3DlzNSr9g",
+            "title": "New Patient In Chicago Isolated Amid Fears Of Deadly COVID-19 | NBC Nightly News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

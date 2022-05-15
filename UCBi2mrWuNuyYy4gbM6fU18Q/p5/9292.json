@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YO3AXFaCFkQ",
-            "title": "Ben Higgins | Best Bachelor?",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "FVA7Ws6CchE",
             "title": "Native American tribes plea for help as Colorado River dries up",
             "secondDuration": 425,
@@ -31,8 +25,14 @@
             "title": "North Korea remains defiant after its failed missile launch over the weekend",
             "secondDuration": 282,
             "group": "group_7"
+        },
+        {
+            "videoId": "FbH1zy9pLL0",
+            "title": "State Department warns Americans to avoid all international travel",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

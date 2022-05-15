@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EI8nmOzzMok",
-            "title": "George Clooney, Amal Alamuddin Shine at 2015 Golden Globes",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "lknrdFa02pk",
             "title": "Kushner testifies before Jan. 6 House Committee l WNT",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Guarding the Capitol, battling COVID, impeachment: World in Photos, Jan. 14",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "vvlYFIKKMlM",
+            "title": "Sessions recuses himself from Russia investigation",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

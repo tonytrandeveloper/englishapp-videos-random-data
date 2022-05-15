@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YsLFLF4jcuI",
-            "title": "‘Dancing with the Stars’ Season 22 Premiere",
-            "secondDuration": 289,
-            "group": "group_7"
-        },
-        {
             "videoId": "T9fez33V5Qs",
             "title": "Oldest park ranger in the US turns 100 l WNT",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Turkey Failed Coup Leads to Chaos",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "ibaU2vRlpfY",
+            "title": "Democratic Frontrunners Square Off in Las Vegas | ABC News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

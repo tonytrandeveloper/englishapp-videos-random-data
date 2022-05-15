@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bX_4aIlRFnw",
-            "title": "Elizabeth Warren Draws Largest Crowd Yet At NYC Rally | NBC News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "obsoRO96IOM",
             "title": "U.S. Continues Sanctions On Russia's Central Bank As Putin Escalates Ukraine Invasion",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "The Vice-Presidential Debate: Tim Kaine And Mike Pence (Full Debate) | NBC News",
             "secondDuration": 5573,
             "group": "group_7"
+        },
+        {
+            "videoId": "kV90vvVmAfY",
+            "title": "What Is The Background To Conflict Between Russia And Ukraine?",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

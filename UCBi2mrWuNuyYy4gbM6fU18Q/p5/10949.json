@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6t-Ts61kEKc",
-            "title": "Memorial Day Weekend to See Rain in Parts of US",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "2JTa3zRGxZw",
             "title": "Former NASA mathematician Katherine Johnson dies | WNT",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "‘We are all Americans’: George Takei on attacks on Asian Americans",
             "secondDuration": 415,
             "group": "group_7"
+        },
+        {
+            "videoId": "7czZuoavjpM",
+            "title": "Jury selection underway in Derek Chauvin trial",
+            "secondDuration": 364,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

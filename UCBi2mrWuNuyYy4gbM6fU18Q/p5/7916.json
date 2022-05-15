@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HU4yQZjJ8Wc",
-            "title": "BuzzFeed Gives Real Women the Cover Model Treatment",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "UWjwgKLERcg",
             "title": "Behind Enemy Lines in Afghanistan",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "New 911 calls underscore devastation at Florida nursing home",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "WoUke3MXWPg",
+            "title": "Hundreds dead in earthquake near Iran-Iraq border",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

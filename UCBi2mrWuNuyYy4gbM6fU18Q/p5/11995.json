@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MezbzwNsGdE",
-            "title": "Robin Williams, Beloved Actor, Comedian, Dead at 63",
-            "secondDuration": 533,
-            "group": "group_7"
-        },
-        {
             "videoId": "JvEDoGpdaYI",
             "title": "Stormy Daniels' attorney arrested in Los Angeles: Police",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "All-New 20/20 True Crime Special | Friday at 9/8c on ABC",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "oeVle4WlcrE",
+            "title": "Passenger from fatal Colorado River boat crash says she's 'lucky to be alive'",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

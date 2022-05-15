@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "h30tGcrtdk8",
-            "title": "FACEBOOK WEBCAST 06-01-12.mov",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "zVwlHlqeeWM",
             "title": "Hugh Jackman Discusses Playing Against Type",
             "secondDuration": 288,
@@ -121,8 +115,14 @@
             "title": "New Year's in Times Square",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "XKH_PUlyamg",
+            "title": "TECH REPORT: New App Modernizes Homes",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

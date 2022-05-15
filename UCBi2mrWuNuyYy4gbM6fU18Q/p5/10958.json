@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MkASjzHXEXM",
-            "title": "Jujimufu Is Instagram's Acrobatic, Bodybuilding Star",
-            "secondDuration": 396,
-            "group": "group_7"
-        },
-        {
             "videoId": "RYZ3snTI6jA",
             "title": "Sony unveils OLED TVs at 2022 CES",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Russian and Ukrainian officials are meeting in person after more than two weeks | ABC News",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "F-SoH_8WFFo",
+            "title": "'Making a Murderer' Subject Steven Avery Speaks Out From Prison",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

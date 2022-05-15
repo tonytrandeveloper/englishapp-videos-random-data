@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "F8rqONyyoqw",
-            "title": "Special Needs Patients Forced to Spar",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "jmM7JUbnJhU",
             "title": "J.Lo Shares Fashion Secrets, Gives Sneak Peek Into Closet",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "New Year's in Times Square",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "XKH_PUlyamg",
+            "title": "TECH REPORT: New App Modernizes Homes",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

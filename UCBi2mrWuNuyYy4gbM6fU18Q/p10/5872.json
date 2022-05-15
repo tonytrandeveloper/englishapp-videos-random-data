@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Bu9ZN44J-x0",
-            "title": "Texas hit with power outages, ice as winter storm moves north",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "r9KikrYFhf0",
             "title": "Vin Diesel Reveals Plans for ‘Fast & Furious’ Trilogy  | ABC News",
             "secondDuration": 200,
@@ -61,8 +55,14 @@
             "title": "Catch Me If You Can l 20/20 l PART 3",
             "secondDuration": 466,
             "group": "group_7"
+        },
+        {
+            "videoId": "4jeuvVK0pgM",
+            "title": "Coronavirus, Songkran celebrations, pack of jackals: World in Photos, April 14",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

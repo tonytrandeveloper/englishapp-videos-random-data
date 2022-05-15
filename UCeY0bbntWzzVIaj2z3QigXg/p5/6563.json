@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KtB9QtCjaYk",
-            "title": "Full Stavridis and Hill: In Russian Conflict, ‘The Biggest Weapon We Have Is Truth’",
-            "secondDuration": 445,
-            "group": "group_7"
-        },
-        {
             "videoId": "VGFEhqYoLpY",
             "title": "Biden Delivers Remarks On The May Jobs Report | NBC News",
             "secondDuration": 551,
@@ -31,8 +25,14 @@
             "title": "Replay: Derek Chauvin Found Guilty On All Charges In Murder Of George Floyd | NBC News",
             "secondDuration": 20935,
             "group": "group_7"
+        },
+        {
+            "videoId": "FOfuSGIZv8w",
+            "title": "Concerns In Newark Over Lead Contamination In The Drinking Water | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

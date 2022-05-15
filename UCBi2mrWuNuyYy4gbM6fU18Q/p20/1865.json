@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Q_68saKcUSw",
-            "title": "The Debrief: Saudi tensions with Iran, Israel elections, Lewandowski on Capitol Hill | ABC News",
-            "secondDuration": 1928,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZjcMIG0J9jA",
             "title": "East Village Explosion Possibly Caused by Gas Leak",
             "secondDuration": 92,
@@ -121,8 +115,14 @@
             "title": "Donald Trump Discusses Plan for China",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "mHEVaKMRhak",
+            "title": "Dems focus on health care in Barrett hearing, families share opposing views on ACA",
+            "secondDuration": 648,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

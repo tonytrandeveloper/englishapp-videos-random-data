@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DJkDKB8sffY",
-            "title": "ABC News Prime: Explosion of US COVID cases; Fire state of emergency in CO; Biden-Putin phone call",
-            "secondDuration": 3630,
-            "group": "group_7"
-        },
-        {
             "videoId": "5Kk9vTCOpsY",
             "title": "Nearly 1 Million People Expected for Inauguration Day Celebration",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Credit Card Fee Limits",
             "secondDuration": 269,
             "group": "group_7"
+        },
+        {
+            "videoId": "U9vlTgSH5JE",
+            "title": "US 'ceasefire' with Turkey appears to fall apart l ABC News",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VLeFAeG9MzY",
-            "title": "Ecuador Earthquake | Rescuers Race to Find Survivors",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "a1U4RzK05pE",
             "title": "NFL Settles Concussion Lawsuit, Young Players Still at Risk",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Israel Strikes Syrian Trucks Heading for Lebanon",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "HxI7vpHPs-I",
+            "title": "Biden speaks after meeting with Senate Democrats on voting rights",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

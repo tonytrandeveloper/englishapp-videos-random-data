@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9SZWIPMj-fo",
-            "title": "Red Bull's 'Wings for Life' World Run Kicks-Off",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "PJbMKef_Qwo",
             "title": "Texas lawmaker speaks out on voting rights battle",
             "secondDuration": 438,
@@ -61,8 +55,14 @@
             "title": "Oil rig explodes near New Orleans",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "NStHx6mW8Ik",
+            "title": "Justin Bieber Roast: Stars Hurl Insults at Pop Star",
+            "secondDuration": 254,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

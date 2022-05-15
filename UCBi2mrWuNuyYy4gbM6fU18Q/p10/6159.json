@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0gmAcD2Tp_8",
-            "title": "Former Lakers general manager Jerry West remembers Kobe Bryant l ABC News",
-            "secondDuration": 421,
-            "group": "group_7"
-        },
-        {
             "videoId": "BwikSZnKx70",
             "title": "ABC News Prime: CDC mask guidance confusion; Cheney on battle for GOP soul; Jan. 6th commission deal",
             "secondDuration": 3646,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton Poised to Become First Woman Presidential Nominee for a Major Party",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "pb_RIcH3Cb0",
+            "title": "Navy Sailors Released by Iran",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

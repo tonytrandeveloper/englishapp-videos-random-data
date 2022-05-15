@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aTDAysrYqlM",
-            "title": "Hurricane Leslie, Tornadoes in Wake of Isaac",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "G-Y2k-TsYKA",
             "title": "Mars 2020 mission set for launch Thursday",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "Massive storm causes flooding rains and water rescues in Dallas, Texas",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "XaAj2cd2R4Q",
+            "title": "Ross and Rachel Happy Ending May Not Have Been; Ellen DeGeneres Wins Mark Twain Prize",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

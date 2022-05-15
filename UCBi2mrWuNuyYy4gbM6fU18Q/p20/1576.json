@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "x3KFmerq6q8",
-            "title": "Spying at Rutgers: Hate Crime?",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "5aRnxab8on0",
             "title": "By the Numbers: Single women losing ground in economy",
             "secondDuration": 95,
@@ -121,8 +115,14 @@
             "title": "Russia-backed separatist forces in Donetsk deny using chemical weapons",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "EDQ2Lft2mQA",
+            "title": "Zelenskyy like ‘Churchill during the blitz’: Congressman on Ukrainian president",
+            "secondDuration": 309,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

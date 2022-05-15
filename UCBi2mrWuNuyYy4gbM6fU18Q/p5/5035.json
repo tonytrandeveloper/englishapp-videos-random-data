@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LCVdgWEZH8g",
-            "title": "The battle over abortion l ABC News",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "LZ09ge2eXVg",
             "title": "President Trump addresses government shutdown and Democratic Response",
             "secondDuration": 2583,
@@ -31,8 +25,14 @@
             "title": "Beloved host of Jeopardy! Alex Trebek remembered | WNT",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "aOjqWIWQ5-k",
+            "title": "State of the Union 2014: President Obama Pushes Immigration Reform",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

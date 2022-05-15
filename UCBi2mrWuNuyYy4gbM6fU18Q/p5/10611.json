@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TFSjczz-s-o",
-            "title": "Inside the vote-counting process",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "EU_rAFiTNxU",
             "title": "House panel grills oil company CEOs amid skyrocketing gas prices",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "Dr. Sean Conley gives update on President Trump's condition at Walter Reed hospital: Special Report",
             "secondDuration": 1950,
             "group": "group_7"
+        },
+        {
+            "videoId": "QTHpD5u5nOo",
+            "title": "Breaking down the trial of the officer charged in Breonna Taylor raid",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

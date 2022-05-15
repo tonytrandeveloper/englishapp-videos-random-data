@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LBzCHgLFdCg",
-            "title": "Biden Leads Before Debate: Up in Michigan, Wisconsin | Meet The Press | NBC News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ok5BvN8nHeQ",
             "title": "'Hot Money' Is Issuing Dire Warning On Climate Change, Financial System | NBC News NOW",
             "secondDuration": 268,
@@ -31,8 +25,14 @@
             "title": "North And South Korea To Begin High-Level Talks | NBC Nightly News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "9QDWbse4wFU",
+            "title": "Live: L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
+            "secondDuration": 3179,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

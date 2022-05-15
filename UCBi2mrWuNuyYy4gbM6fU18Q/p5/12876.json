@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Pj581eyNsa8",
-            "title": "Marvel Editor-in-chief Axel Alonso, writer Nick Spencer on Captain America’s betrayal",
-            "secondDuration": 1721,
-            "group": "group_7"
-        },
-        {
             "videoId": "SvmpQbOsZSE",
             "title": "NYC subway shootings: Multiple shot, suspect at large",
             "secondDuration": 235,
@@ -31,8 +25,14 @@
             "title": "Olympics | Team USA Robbed, Rio Cops Search for Driver",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "9LbfSUnhnSQ",
+            "title": "America Strong: WWII veteran remembered",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

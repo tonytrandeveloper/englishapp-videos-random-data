@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lBB7STF08x8",
-            "title": "Why Reworking The Electoral College Might Not Change The Results | Meet The Press | NBC News",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "yqdBz-dVmnQ",
             "title": "Museum Of The Bible Opens In Washington D.C. | NBC Nightly News",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Mitch McConnell: Senate Tax Reform Efforts Likely To Be Republican-Only | NBC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kk1suPRSqtg",
+            "title": "Wildfires Near Boulder, Colorado Force Thousands To Evacuate",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

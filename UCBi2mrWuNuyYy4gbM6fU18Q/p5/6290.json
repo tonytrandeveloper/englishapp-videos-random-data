@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8eEKE7XOjUo",
-            "title": "Kobe Bryant, daughter among 9 dead in helicopter crash | ABC News",
-            "secondDuration": 496,
-            "group": "group_7"
-        },
-        {
             "videoId": "96jSV4i2LEU",
             "title": "Republicans Face off at Las Vegas GOP Presidential Debate | ABC News",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Red Sox Win World Series 2013",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "b-m0sjzVe3g",
+            "title": "Alabama health official: ‘We need trusted voices’ to reduce mistrust in vaccines",
+            "secondDuration": 392,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

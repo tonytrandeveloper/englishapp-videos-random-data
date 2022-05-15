@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LrV0Wy2Ij-4",
-            "title": "Death toll climbs in Greyhound bus crash",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "KWKC4j8-BXs",
             "title": "Trump celebrates after the Senate passes a tax bill",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "Thanksgiving Games",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "egqgi16coPI",
+            "title": "Snowstorm Moves Through Midwest",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

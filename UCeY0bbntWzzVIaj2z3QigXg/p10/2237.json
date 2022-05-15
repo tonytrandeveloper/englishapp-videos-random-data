@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LMYZ89mcly8",
-            "title": "Martin Luther King III Visits Donald Trump At Trump Tower | NBC News",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "yocTj3Ua0j4",
             "title": "Navy Orders ‘Operational Pause’ After USS John S. McCain Collides With Tanker | NBC Nightly News",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Madeleine Albright Questions Bernie Sanders' Foreign Policy Experience | NBC News",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "csnxVorNPXY",
+            "title": "Parkland Mass Shooting Suspect Allegedly Attacks Jail Guard | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

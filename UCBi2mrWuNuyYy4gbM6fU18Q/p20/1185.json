@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yVLBO9BscHA",
-            "title": "Indiana Republican Sen. Mike Braun discusses the 2020 election | ABC News",
-            "secondDuration": 403,
-            "group": "group_7"
-        },
-        {
             "videoId": "AsnugqU5QgU",
             "title": "Deadline for New York state health care workers to get vaccinated",
             "secondDuration": 503,
@@ -121,8 +115,14 @@
             "title": "Trump's personal lawyer likely to work with federal prosecutors: Sources",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dkcmfh2dIr0",
+            "title": "CDC investigating heart issues among some teens after COVID-19 vaccine l GMA",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

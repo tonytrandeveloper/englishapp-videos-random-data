@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "V54Gx6Hg2qo",
-            "title": "‘Swatting’ Suspect Has A Record Of Fake Calls | NBC Nightly News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "AUxlOYDYnyU",
             "title": "Bennet: No One Should Be As 'Cynical Or Malevolent' As McConnell | NBC News",
             "secondDuration": 240,
@@ -61,8 +55,14 @@
             "title": "High-Ranking Vatican Cardinal Charged With Historical Sexual Offenses | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "JXpLeCcOaXc",
+            "title": "Watch Protests Across The U.S. Over The Death Of George Floyd | NBC News NOW",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

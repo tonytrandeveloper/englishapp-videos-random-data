@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Rcj8ZZAn7EQ",
-            "title": "Santa Claus makes special visit to Kentucky l ABC News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "sc2_nr-HCmY",
             "title": "Thai people not giving up hope",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "The Lowdown on Lobby's Health Reform Pull",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "0vLuOXN8c_w",
+            "title": "Voting is underway in all 50 states, showing record-breaking turnout",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

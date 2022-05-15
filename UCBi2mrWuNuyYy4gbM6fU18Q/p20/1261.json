@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jnADDjf1zlQ",
-            "title": "Freddie Gray's Family Calls for End to Baltimore Chaos",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "if9YbpISP2o",
             "title": "Trump Announces Neil Gorsuch as Supreme Court Nominee | ABC News",
             "secondDuration": 809,
@@ -121,8 +115,14 @@
             "title": "Paul Ryan Blasts John Roberts On Supreme Court Health Care Decision",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gdm4zhpBWak",
+            "title": "Mississippi hits record single-day spike in coronavirus cases",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jOvoxl7Qmjk",
-            "title": "President Obama Greets Former Presidents on Inauguration Stage | NBC News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "KkUWhHdD84Q",
             "title": "7-Year-Old Forms Unlikely Friendship With Pen Pal Amid Coronavirus Pandemic | NBC Nightly News",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "Flint Coffee Shop Owner Extremely Cautious With Water Use | NBC News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "tgN9-HiHNlw",
+            "title": "Trump Denies Posing as His Own Spokesman, Including in 1991 Interview | NBC Nightly News",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

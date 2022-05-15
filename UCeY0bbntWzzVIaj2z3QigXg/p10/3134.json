@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dWh7khe8bbo",
-            "title": "Nightly News Full Broadcast - Nov. 12",
-            "secondDuration": 1288,
-            "group": "group_7"
-        },
-        {
             "videoId": "8ntSxT9n35Q",
             "title": "JLo, Shakira: Super Bowl Halftime 'Important Moment' For Latinos In U.S. | NBC News",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "All Passengers, Crew Safe After Plane Crashes In Texas Field",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "QzeJlOmamMU",
+            "title": "Fourth Journalist Killed in Mexico this Year on Heels of Nationwide Protests Over Press Protections",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

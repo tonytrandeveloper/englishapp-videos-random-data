@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5pglWbAnysc",
-            "title": "California Governor Declares State of Emergency After Earthquake",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "17j8NRRndu8",
             "title": "Who is potential Supreme Court justice Michelle Childs?",
             "secondDuration": 73,
@@ -31,8 +25,14 @@
             "title": "Some charges dropped for former Theranos CEO Elizabeth Holmes l ABC News",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Donv6ntV6c",
+            "title": "Deep freeze moves east after slamming Midwest",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

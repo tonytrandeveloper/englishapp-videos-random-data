@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RoFagYQEh1A",
-            "title": "Startling Image of Flooded Texas Nursing Home Prompts Rescue | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "CUyDdNbkBhs",
             "title": "Live: Coroner Holds Press Conference on Gabby Petito Autopsy | NBC News",
             "secondDuration": 1396,
@@ -61,8 +55,14 @@
             "title": "'Yesterday': Music's Power Over Us Isn't Magic, It's Science | Mach | NBC News",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "bqKXdBtJXV8",
+            "title": "Impeachment Trial Looms Over Trump’s Final Days In Office | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

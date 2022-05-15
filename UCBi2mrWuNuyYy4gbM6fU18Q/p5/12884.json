@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "evh8oHO8KKU",
-            "title": "Hospital Errors: The High Risk of Medical Mistakes",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "xc2D78BYW7o",
             "title": "Donald Trump Will Host SNL | ABC News",
             "secondDuration": 217,
@@ -31,8 +25,14 @@
             "title": "Presidential election, Veterans Day, coronavirus pandemic: The Week in Pictures",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "j2kldNlvv9U",
+            "title": "'The Briefing Rom': Migrant caravan, Texas senate race, Khashoggi investigation | ABC News",
+            "secondDuration": 1685,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

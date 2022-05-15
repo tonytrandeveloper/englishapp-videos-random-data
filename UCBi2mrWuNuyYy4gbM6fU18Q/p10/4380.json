@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RMFld73QPGw",
-            "title": "How Do You Stop Texting and Driving?",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "feC-ogS7hUI",
             "title": "Stock Market Skyrockets After Fiscal Deal",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "New Year’s fireworks in the United Arab Emirates",
             "secondDuration": 318,
             "group": "group_7"
+        },
+        {
+            "videoId": "KhIb4k-YfOE",
+            "title": "Tornado outbreaks in the south | ABC News",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

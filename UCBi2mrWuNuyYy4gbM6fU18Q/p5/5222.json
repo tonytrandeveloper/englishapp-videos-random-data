@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6GGYdWKk8Eg",
-            "title": "Plane Skids Off Runway During Landing at Buffalo Niagara Int'l Airport",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "iqM1FZx_0gs",
             "title": "LIVE: Trump Full Speech to Senior U.S. Commanders | ABC News",
             "secondDuration": 914,
@@ -31,8 +25,14 @@
             "title": "Island of Puerto Rico 'destroyed' by Hurricane Maria",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "wETU8PwhnZo",
+            "title": "More than 20 dead, 100 injured after Las Vegas shooting: police | ABC News",
+            "secondDuration": 282,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

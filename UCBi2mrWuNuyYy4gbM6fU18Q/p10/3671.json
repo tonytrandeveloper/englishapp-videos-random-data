@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iPqlk9u5oCw",
-            "title": "WHO: 10 things to know for novel coronavirus (COVID-19) | ABC News",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "n-bg2gct01I",
             "title": "More than 25 percent of gas stations in Miami-Dade are out of fuel",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "Lois Goodman Released: Charges of Murdering Husband Dropped",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "mGYmDAzrt10",
+            "title": "Michelle Obama Tweets About New Portrait: World News Instant Index",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i6G8FhQm5XI",
-            "title": "Buying American",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "oU82CjqAPlQ",
             "title": "Police Open Criminal Investigation Amid Cincinnati Zoo Gorilla Incident",
             "secondDuration": 164,
@@ -31,8 +25,14 @@
             "title": "Sen. Bob Menendez 'This Week' Intervew",
             "secondDuration": 240,
             "group": "group_7"
+        },
+        {
+            "videoId": "d_CDAamnwxU",
+            "title": "The Rundown: Top headlines today: March 17, 2021",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

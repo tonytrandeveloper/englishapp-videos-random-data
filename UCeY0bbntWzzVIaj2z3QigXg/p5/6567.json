@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VIS4ZcXmyiI",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 2606,
-            "group": "group_7"
-        },
-        {
             "videoId": "JaUcb8JQUrw",
             "title": "Three Families, Three Paths To Recovery | NBC News",
             "secondDuration": 379,
@@ -31,8 +25,14 @@
             "title": "Service Dog Receives College Diploma Alongside Owner | NBC Nightly News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "QVWg9elKfqo",
+            "title": "HHS Secretary Tom Price Resigns Over Private Plane Scandal | NBC Nightly News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

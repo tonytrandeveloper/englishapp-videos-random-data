@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mZWOwBWj58o",
-            "title": "'The Iron Nun'",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pyi4ewxVBVo",
             "title": "Hillary Clinton Concussion, Fall: Doctor Orders Rest, Sec'y of State Will Not Testify on Benghazi",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Josh Powell Explosion: Nancy Grace Discusses Tragedy That Kills Susan Powell's 2 Sons, Husband",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "l05_oGzcNJQ",
+            "title": "Yovanovitch responds to Trump tweets during hearing | ABC News",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

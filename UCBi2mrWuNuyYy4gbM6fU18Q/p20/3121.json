@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3rZYvLYUdks",
-            "title": "Arctic blast could make this Thanksgiving the coldest ever",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "wvMPuS_A1aA",
             "title": "Georgia fans party in streets as Bulldogs claim national title l ABC News",
             "secondDuration": 67,
@@ -121,8 +115,14 @@
             "title": "Venus Williams Defeated at Australian Open by Teen Player",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "nQqsIbwJrYY",
+            "title": "Hillary Clinton Wins in Nevada, Looks Towards the Future",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

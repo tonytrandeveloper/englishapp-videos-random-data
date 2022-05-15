@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eoW-jpPa8t8",
-            "title": "White House Holds Press Briefing: July 16 | NBC News",
-            "secondDuration": 3441,
-            "group": "group_7"
-        },
-        {
             "videoId": "grY0YC8a9G0",
             "title": "George W. Bush Slams Russia For Attempts To ‘Exploit Our Country’s Divisions’ | NBC News",
             "secondDuration": 69,
@@ -61,8 +55,14 @@
             "title": "Bill Cosby Trial: Day Two Of Jury Deliberations | NBC Nightly News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "gAOePWR6vMI",
+            "title": "Crime Reporter Becomes A Cop In Order To Give Back | NBC Nightly News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

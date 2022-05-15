@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mLmXKlcrTtc",
-            "title": "NBC News NOW Full Broadcast - March 25th, 2021 | NBC News NOW",
-            "secondDuration": 2996,
-            "group": "group_7"
-        },
-        {
             "videoId": "MV4zPejYvq4",
             "title": "Washing Feet In Support Of Immigration Reform | NBC News",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "This Morning’s Top Headlines – November 3 | Morning News NOW",
             "secondDuration": 1486,
             "group": "group_7"
+        },
+        {
+            "videoId": "W3E2tbQaKk4",
+            "title": "President Donald Trump: 'This Is Our New American Moment' | NBC News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

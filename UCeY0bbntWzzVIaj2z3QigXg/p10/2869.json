@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7OIJlqgUXoA",
-            "title": "Pope Francis Urges Catholics To ‘Tear Down Walls’ | NBC News",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "It_iKRg3lB4",
             "title": "LIVE: Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
             "secondDuration": 1166,
@@ -61,8 +55,14 @@
             "title": "Why You Could Soon See Your Credit Score Go Up | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "rOI6Z2yX9oo",
+            "title": "Watch: Lava From La Palma’s Volcanic Eruption Leaves Landscape Smouldering",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

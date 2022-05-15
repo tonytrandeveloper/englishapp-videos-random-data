@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tFcePpHtZUI",
-            "title": "White House Holds Press Briefing: February 9 | NBC News",
-            "secondDuration": 2086,
-            "group": "group_7"
-        },
-        {
             "videoId": "KVhKg3eclUY",
             "title": "Secretary Sarah Sanders Insists President Donald Trump Didn't Commit Any Crimes | NBC News",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "Does Huawei’s 5G Pose A National Security Threat? | NBC Nightly News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "u42KWHF0m1g",
+            "title": "School Shooting Survivors Say ‘We Call BS!’ Hundreds Rally Against Gun Lobby | NBC News",
+            "secondDuration": 162,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

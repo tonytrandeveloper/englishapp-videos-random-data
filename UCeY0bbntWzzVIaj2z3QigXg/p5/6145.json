@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R9NtXjh_lAE",
-            "title": "Tom Cotton On Donald Trump, Hillary Clinton, ISIS, And Terrorism | Meet The Press | NBC News",
-            "secondDuration": 923,
-            "group": "group_7"
-        },
-        {
             "videoId": "V4RRHkXXtlk",
             "title": "New York Prison Escape: 12 Prison Staffers Suspended | NBC Nightly News",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "Sen. Chris Coons Says Every Vote Needs To Be Counted Before Election Is Called | NBC News",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "RicNZkslurc",
+            "title": "BREAKING: Betty White Dies At Age 99",
+            "secondDuration": 292,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bEU9s5xQvlw",
-            "title": "Pennsylvania voters, their children reflect on Trump's first 100 days | ABC News",
-            "secondDuration": 598,
-            "group": "group_7"
-        },
-        {
             "videoId": "IJcGg4bY1aA",
             "title": "Is jury in blockbuster trial of Harvey Weinstein deadlocked on some of the charges? | ABC News",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "Washington Post's Dan Balz on 'Top Line'",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "jfBU8zyCByg",
+            "title": "Special needs families face back-to-school struggles",
+            "secondDuration": 449,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HjyVsJfxXW0",
-            "title": "John Lewis laid to rest, Portland protests, Hurricane Hanna; World in Photos, July 27",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "UZJXhYGkf7c",
             "title": "Farmer Finds Wooly Mammoth Remains in Soy Field",
             "secondDuration": 103,
@@ -121,8 +115,14 @@
             "title": "ABC News Prime: Fighting Russian troops; Drunk pilot taken off flight; DOJ targets Russian oligarchs",
             "secondDuration": 5602,
             "group": "group_7"
+        },
+        {
+            "videoId": "xC6FbL0VSKo",
+            "title": "By the Numbers: War in Ukraine driving up wheat, corn prices",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

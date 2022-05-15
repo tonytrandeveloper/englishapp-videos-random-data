@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zrALcUK6hrc",
-            "title": "A Call for Justice in Ferguson, Missouri",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "sgMzWcbR73I",
             "title": "July 4th earthquake in Southern California | KABC Live Coverage",
             "secondDuration": 16160,
@@ -61,8 +55,14 @@
             "title": "Dancing With the Stars 2015: Final Rehearsal",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "DPusCaBqO78",
+            "title": "Flight canceled, pilot detained on alcohol-related charge: Source",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

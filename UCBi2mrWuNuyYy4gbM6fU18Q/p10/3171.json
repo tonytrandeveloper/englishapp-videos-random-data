@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0v6iA0ytpuo",
-            "title": "Baltimore highway shooter caught in high-speed chase",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "YS7KlHn_LxA",
             "title": "War in Iraq: Generals' Last Helicopter Ride",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Amazon raises price for Prime yearly subscription",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "kEwoVbdcPjM",
+            "title": "Streets of Tel Aviv empty as death toll grows from conflict in Israel",
+            "secondDuration": 521,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

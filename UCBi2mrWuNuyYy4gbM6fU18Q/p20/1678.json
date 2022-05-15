@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FgVUys4uHDE",
-            "title": "WH Correspondents' dinner comedian sparks backlash",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "BKswm8XjCNU",
             "title": "Donald Trump Ignites Firestorm Within Republican Party",
             "secondDuration": 126,
@@ -121,8 +115,14 @@
             "title": "Marco Rubio Talks American Dream in Miami",
             "secondDuration": 969,
             "group": "group_7"
+        },
+        {
+            "videoId": "ihZBgQYMrBM",
+            "title": "Trump's top White House economic adviser resigns",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

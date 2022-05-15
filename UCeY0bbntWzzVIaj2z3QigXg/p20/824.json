@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4l5T4JiqAhs",
-            "title": "Biden Slams Trump For Coronavirus Strategy In Final Presidential Debate | NBC News",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "31gOiBXET_w",
             "title": "House Speaker Paul Ryan Cracks Jokes About President Donald Trump At Al Smith Dinner | NBC News",
             "secondDuration": 152,
@@ -121,8 +115,14 @@
             "title": "White House Holds Press Briefing: May 24 | NBC News",
             "secondDuration": 3382,
             "group": "group_7"
+        },
+        {
+            "videoId": "on7BRMxznxo",
+            "title": "A Better Way To Cut A Pineapple | Better | NBC News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "28V0OueOmuU",
-            "title": "Florida State Running Back Turns Himself Over to Police",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "hUJYWEpIwJg",
             "title": "President Biden announces new COVID-19 vaccine mandates",
             "secondDuration": 1902,
@@ -31,8 +25,14 @@
             "title": "Sen. Coons on Trump’s COVID response: ‘The president doesn't get it’",
             "secondDuration": 482,
             "group": "group_7"
+        },
+        {
+            "videoId": "mDMp40kUTkw",
+            "title": "Parasailing Alert: New Guidelines to Stay Safe and Avoid Tragedy",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

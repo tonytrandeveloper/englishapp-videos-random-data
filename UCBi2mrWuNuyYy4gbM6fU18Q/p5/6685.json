@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "r906ikuszjA",
-            "title": "Deadly California fire burns over 90,000 acres",
-            "secondDuration": 299,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZNkiqxUr8to",
             "title": "The World Reacts to Star Wars Opening Night | ABC News",
             "secondDuration": 215,
@@ -31,8 +25,14 @@
             "title": "State of emergency in Miami due to Spring Break crowds | ABC News",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "2zrT6ZuJvmE",
+            "title": "Exotic Animals On the Loose in Ohio; Police Shoot to Kill",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

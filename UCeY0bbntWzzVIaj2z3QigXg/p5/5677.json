@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ailGvF2n_OY",
-            "title": "Biden Holds Drive-In Rally In Florida | NBC News",
-            "secondDuration": 1440,
-            "group": "group_7"
-        },
-        {
             "videoId": "kLs3WWTlFgk",
             "title": "Hurricane Irma: Mass Evacuations Underway In South Florida | NBC Nightly News",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "U.S. and Russia Again Agree to Syria Cease-Fire, but Doubt Looms Large | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "AUpqFQrS5UI",
+            "title": "Top Story with Tom Llamas - Feb. 1 | NBC News NOW",
+            "secondDuration": 2520,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

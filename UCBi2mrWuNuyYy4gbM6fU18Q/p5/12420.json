@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eAvww9jaqIc",
-            "title": "Preview of Ahmaud Arbery murder trial",
-            "secondDuration": 590,
-            "group": "group_7"
-        },
-        {
             "videoId": "WAkGkc9g3ig",
             "title": "Rahm Emanuel 'This Week' Interview: Chicago Mayor on Romney, Obama's Final Debate Before Election",
             "secondDuration": 645,
@@ -31,8 +25,14 @@
             "title": "Boston Marathon Bombing Update: Alleged Bomber Dzhokhar Tsarnaev Reveals Details of Attack",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "WaCppPAcDTQ",
+            "title": "Harrison Ford on Playing Han Solo, Indiana Jones",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

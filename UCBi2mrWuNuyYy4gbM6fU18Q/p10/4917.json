@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WhBnH7pW25A",
-            "title": "Dr. Anthony Fauci warns of post-holiday COVID-19 wave | WNT",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "0zkisUTpris",
             "title": "Ohio shooting results in at least four people rushed to the hospital",
             "secondDuration": 72,
@@ -61,8 +55,14 @@
             "title": "Assault Weapon Ban Standoff",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "lBMVucssnWY",
+            "title": "Mom Saves Son From Cougar Attack",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

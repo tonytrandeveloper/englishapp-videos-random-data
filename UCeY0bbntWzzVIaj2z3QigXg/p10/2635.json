@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SZqvlP4Y4Co",
-            "title": "Get Healthy: Exercise | NBC Learn",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "bOssEPTViP4",
             "title": "First Human Embryo Editing Experiment In U.S.; Possible Future ‘Designer Babies’? | Mach | NBC News",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Meryl Streep, Jimmy Fallon, Hugh Laurie Get Political At Golden Globes | NBC News",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "t-v_RokUocM",
+            "title": "Donald Trump Takes Aim at Former President Bill Clinton | NBC Nightly News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

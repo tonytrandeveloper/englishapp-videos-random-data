@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rC2KRBZtPZY",
-            "title": "Suspected Houston Serial Killer Spotted By News Crews, Captured By Police | NBC Nightly News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "decV3KCOfDk",
             "title": "New York Gov. Cuomo updates on coronavirus| NBC News",
             "secondDuration": 3368,
@@ -61,8 +55,14 @@
             "title": "Bloomberg Looks For Super Tuesday Breakout | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "oPyUK0f0sQo",
+            "title": "NYPD Cop's Chokehold Triggers Outrage | NBC News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

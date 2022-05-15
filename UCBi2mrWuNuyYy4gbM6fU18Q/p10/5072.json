@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qW_ZkeivoMQ",
-            "title": "Heidi Heitkamp says she has 'no regrets' voting against Kavanaugh",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "aGxPT45YyCc",
             "title": "Experts break down the biggest moments of Trump, Biden’s final presidential debate | Nightline",
             "secondDuration": 428,
@@ -61,8 +55,14 @@
             "title": "Car Falls Into Expanding Sinkhole",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "qcP_YaVZ_ME",
+            "title": "Puerto Rico calls state of emergency after pre-dawn earthquake",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

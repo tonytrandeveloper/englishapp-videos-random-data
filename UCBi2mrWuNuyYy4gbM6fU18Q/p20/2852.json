@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pbFKg5ZOppo",
-            "title": "'This Week': Rep. Michael McCaul",
-            "secondDuration": 460,
-            "group": "group_7"
-        },
-        {
             "videoId": "hpGKU03Wvk8",
             "title": "First Look at Brad and Angelina's Wedding",
             "secondDuration": 184,
@@ -121,8 +115,14 @@
             "title": "Half the Country Under Threat of Floods",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "RHqXB0ricjM",
+            "title": "Tracy Morgan Returns To Work Following Devastating Car Accident | ABC News",
+            "secondDuration": 248,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

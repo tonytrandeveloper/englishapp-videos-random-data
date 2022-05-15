@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "belQTdoL0fA",
-            "title": "U.S. Records Nearly 200,000 Coronavirus Infections In Single Day | NBC Nightly News",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "dQeqRgjrnY4",
             "title": "NBC News NOW Full Broadcast - March 4th, 2021 | NBC News NOW",
             "secondDuration": 3140,
@@ -31,8 +25,14 @@
             "title": "Florida Governor On Hurricane Hermine: 'This Is Life-Threatening' | NBC News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "-KodLuzD0Qc",
+            "title": "Florida Student Recounts School Shooting | NBC News",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

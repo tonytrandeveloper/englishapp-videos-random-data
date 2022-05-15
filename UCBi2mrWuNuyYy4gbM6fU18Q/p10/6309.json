@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_ayXiSSkbYM",
-            "title": "'20/20': Astor Aura Tinged by Court Drama",
-            "secondDuration": 549,
-            "group": "group_7"
-        },
-        {
             "videoId": "bQfaX9Q9RRo",
             "title": "Sen. Al Franken to resign from Senate amid sexual misconduct allegations",
             "secondDuration": 189,
@@ -61,8 +55,14 @@
             "title": "Protest leader sees campaign surge in Kentucky l ABC News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "2Vmp2CX2Pyg",
+            "title": "Tornadoes, Hail and High Winds Sweep East Through Plains States",
+            "secondDuration": 364,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DMGYW2ZxiGQ",
-            "title": "Watch Live: Sheriff Press Conference After Missing Teen Jayme Closs Found Alive | NBC News",
-            "secondDuration": 1309,
-            "group": "group_7"
-        },
-        {
             "videoId": "DK-Ua2TlCHw",
             "title": "Minnesota Governor Holds News Conference on George Floyd Protests - May 31 | NBC News",
             "secondDuration": 2945,
@@ -121,8 +115,14 @@
             "title": "Caught On Camera: Northern Lights Illuminate The Lapland Night | NBC News NOW",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "q6b4x5U7U9g",
+            "title": "First Coronavirus Deaths Among Evacuees From Cruise Ship | NBC Nightly News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

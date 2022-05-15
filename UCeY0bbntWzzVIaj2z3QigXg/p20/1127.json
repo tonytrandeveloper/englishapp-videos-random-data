@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4JbP5ApKOtg",
-            "title": "One Dead After Southwest Airlines Emergency Landing In Philadelphia | NBC News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y5OjAlomZnc",
             "title": "Retired Principal Teaches Graduate Course On How To Make The Classroom More Fun | NBC Nightly News",
             "secondDuration": 143,
@@ -121,8 +115,14 @@
             "title": "Former U.S. Gymnastics Coach Found Dead On Day Of Arraignment | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "xvqt9poNuUc",
+            "title": "Biden's Special Presidential Envoy For Climate John Kerry Delivers Remarks | NBC News",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

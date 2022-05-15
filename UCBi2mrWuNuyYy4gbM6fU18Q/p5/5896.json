@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lanQAATeouA",
-            "title": "Benghazi Parents Blame Clinton in Lawsuit",
-            "secondDuration": 33,
-            "group": "group_7"
-        },
-        {
             "videoId": "JVzRqRo83cU",
             "title": "Coast Guard Officials End Search for US Cargo Ship| ABC News",
             "secondDuration": 149,
@@ -31,8 +25,14 @@
             "title": "Harrison Ford Plane Crash: New Images Released",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "67i73RHnGP8",
+            "title": "Bernie Sanders is back home in Vermont",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "puF1WBx_7tI",
-            "title": "Volunteers answer the call in Texas | WNT",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "SMey0YLGnpw",
             "title": "New video of North Carolina prisoner before his death | WNT",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Transgender Tween Enters Dating World, Faces New Host of Problems - Barbara Walters Update",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "wCLU9fZLJG0",
+            "title": "Emotional return to court for LA Lakers after Kobe Bryant's death",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

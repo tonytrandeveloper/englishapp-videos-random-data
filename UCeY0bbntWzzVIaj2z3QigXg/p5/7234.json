@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "e2kQbSjp96M",
-            "title": "Morning News NOW Full Broadcast - Jan. 26",
-            "secondDuration": 3042,
-            "group": "group_7"
-        },
-        {
             "videoId": "gyYLikKVpns",
             "title": "Philadelphia Streets Flooded After Water Main Break",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Former NASA Astronaut Mike Massimino On Perseverance Rover Mars Landing | NBC News NOW",
             "secondDuration": 484,
             "group": "group_7"
+        },
+        {
+            "videoId": "yXXPbNLsoak",
+            "title": "White House Holds Press Briefing: Nov. 9 | NBC News",
+            "secondDuration": 3525,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

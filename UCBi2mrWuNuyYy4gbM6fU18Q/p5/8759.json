@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RMFld73QPGw",
-            "title": "How Do You Stop Texting and Driving?",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "feC-ogS7hUI",
             "title": "Stock Market Skyrockets After Fiscal Deal",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Sarah Silverman: Potty Mouth",
             "secondDuration": 400,
             "group": "group_7"
+        },
+        {
+            "videoId": "wjMwC4wE4wE",
+            "title": "Italy Earthquake Causes Cathedral to Collapse",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qra1QL3RI7Q",
-            "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 5051,
-            "group": "group_7"
-        },
-        {
             "videoId": "St9Y1587oKk",
             "title": "Dashcam Video Shows Orange County Deputy Repeatedly Punching Intoxicated Man | NBC News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Mocks Biden During NRCC Speech | NBC News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "XvZk8OARqp4",
+            "title": "Nine Dead In South Dakota Plane Crash | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

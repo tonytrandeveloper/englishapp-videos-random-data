@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rA3jfAjQYXU",
-            "title": "Meet the new champions from the Scripps National Spelling Bee",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "iXi8-LIsgWI",
             "title": "McCain's Problem With Timetables",
             "secondDuration": 224,
@@ -61,8 +55,14 @@
             "title": "Duke Beats Wisconsin for NCAA Championship",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "3h3jh-vpeiY",
+            "title": "Hillary Clinton Comments After Voting For Self",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

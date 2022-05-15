@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZgqsecnXJMY",
-            "title": "At least 6 killed and 7 still missing as Carr fire scorches miles of land | ABC News",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "pPB3gG6xfTY",
             "title": "2nd Presidential Debate's Impact on Undecided Voters",
             "secondDuration": 275,
@@ -61,8 +55,14 @@
             "title": "Inauguration 2013: Obamas Attend Church Service",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "4XrhLtF0204",
+            "title": "Trump meets D-Day vets on last day of UK visit",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1RCoH68BnqM",
-            "title": "4 Zika Cases in U.S. Likely Caused By ‘Homegrown’ Mosquitoes | NBC Nightly News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "4VfRkKnjM4k",
             "title": "Cancer Rates Are Rising Among Firefighters, Research Shows | NBC Nightly News",
             "secondDuration": 125,
@@ -121,8 +115,14 @@
             "title": "NYC Mayor Bill de Blasio Holds Coronavirus Briefing | NBC News",
             "secondDuration": 5517,
             "group": "group_7"
+        },
+        {
+            "videoId": "FzG1Dor22Yg",
+            "title": "As Thousands March, Women’s Reproductive Rights Divide The Nation",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

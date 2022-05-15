@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0u1JcMxE8hY",
-            "title": "Jeeps Face Greater Risk of Catching Fire When Gas Tank is Hit",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "KAVz-bAPLsY",
             "title": "Astronauts float above a pandemic",
             "secondDuration": 292,
@@ -121,8 +115,14 @@
             "title": "Tony Green thought COVID was a hoax, until family died",
             "secondDuration": 645,
             "group": "group_7"
+        },
+        {
+            "videoId": "aTDAysrYqlM",
+            "title": "Hurricane Leslie, Tornadoes in Wake of Isaac",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

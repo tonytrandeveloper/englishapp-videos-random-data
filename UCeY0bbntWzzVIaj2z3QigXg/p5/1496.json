@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-weHkSMmYJc",
-            "title": "Hallie Jackson NOW Full Episode – Dec. 23 | NBC News NOW",
-            "secondDuration": 3230,
-            "group": "group_7"
-        },
-        {
             "videoId": "-GwG1_TkhQI",
             "title": "Donald Trump On Immigration, Hillary Clinton (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 2258,
@@ -31,8 +25,14 @@
             "title": "Live: New York Governor Andrew Cuomo Holds Briefing | NBC News",
             "secondDuration": 2760,
             "group": "group_7"
+        },
+        {
+            "videoId": "nhtZfs6QQpc",
+            "title": "Astronauts Aboard International Space Station Welcome SpaceX 2 Crew | NBC News",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

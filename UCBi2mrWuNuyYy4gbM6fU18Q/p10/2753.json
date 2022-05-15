@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4NXpkNSiuYY",
-            "title": "Russia holds military drills on Ukraine border: What does it mean?",
-            "secondDuration": 499,
-            "group": "group_7"
-        },
-        {
             "videoId": "gI50L8onWys",
             "title": "Breaking down the 1st day of Jan. 6 select committee testimony",
             "secondDuration": 281,
@@ -61,8 +55,14 @@
             "title": "Suspected suicide bomber sets off explosion in Tunisia",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "66Png873F6Y",
+            "title": "'This Week': Powerhouse Roundtable",
+            "secondDuration": 540,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

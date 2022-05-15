@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8INVU_dJM4k",
-            "title": "Deadly Shooting in Israel | ABC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "N7HPNXPemq8",
             "title": "Finding Kelsie l 20/20 l PART 5",
             "secondDuration": 417,
@@ -61,8 +55,14 @@
             "title": "'Briefing Room': Mueller probe, Manafort trial, Space Force, Melania's parents get citizenship",
             "secondDuration": 835,
             "group": "group_7"
+        },
+        {
+            "videoId": "jrqheSUs6wI",
+            "title": "Spy Nation",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

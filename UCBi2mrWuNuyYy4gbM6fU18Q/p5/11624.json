@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2xQf8FOrBT4",
-            "title": "'This Week': Extreme Weather Panel",
-            "secondDuration": 468,
-            "group": "group_7"
-        },
-        {
             "videoId": "j4stD1wDmaw",
             "title": "Medical Breakthrough: Restoring Sight to the Blind",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Presidential Candidates Debate Humanitarian Crisis in Aleppo | ABC News",
             "secondDuration": 669,
             "group": "group_7"
+        },
+        {
+            "videoId": "VTvY4yiaTh8",
+            "title": "Nor'easter brings whiteout conditions and thundersnow to Northeast",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

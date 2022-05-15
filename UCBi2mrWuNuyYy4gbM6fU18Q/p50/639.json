@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "BD5GmxAY0Og",
-            "title": "Milwaukee Police Shooting Riots Turn Violent",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "hvHgL5BnjXA",
             "title": "Lou Pearlman forms two iconic boy bands, Backstreet Boys and *NSYNC | Nightline",
             "secondDuration": 560,
@@ -301,8 +295,14 @@
             "title": "Meet the Vietnamese Singer Fighting for Social Justice",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "h_vdUVoRGa0",
+            "title": "Affordable Care Act Failure Gets Potential Bipartisan Fix",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

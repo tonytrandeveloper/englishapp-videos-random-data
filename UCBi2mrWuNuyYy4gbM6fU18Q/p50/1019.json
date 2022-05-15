@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "sdtrMzm3URk",
-            "title": "John Rood resigns at Trump’s request",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "uw13gu7t-tw",
             "title": "Sir Paul McCartney Hospitalized in Tokyo",
             "secondDuration": 102,
@@ -301,8 +295,14 @@
             "title": "Scream Painting Sells for Almost $120 Million",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "2G9xsBDxYAA",
+            "title": "7 sailors remain missing off the coast of Japan after Navy destroyer collides with a tanker",
+            "secondDuration": 233,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

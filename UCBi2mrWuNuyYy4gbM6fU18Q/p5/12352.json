@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j7gR4nUSX5A",
-            "title": "Stark warning as Congress considers $3T relief package l ABC News",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "FSxDFSZh8fQ",
             "title": "Wedding Party Gets Stuck in an Elevator",
             "secondDuration": 227,
@@ -31,8 +25,14 @@
             "title": "Kerry and Hatch: CIA Interrogation Tactics",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "qWFoRKPaTVU",
+            "title": "Bill Nye \"The Science Guy\" Refutes Bill Belichick's 'Deflate-Gate' Explanation",
+            "secondDuration": 308,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

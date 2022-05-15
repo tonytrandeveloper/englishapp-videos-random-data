@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XhxUGhjXCyw",
-            "title": "President Biden Is Expected to Impose More Severe Sanctions on Russia l On Location",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "JAqjULMLb5M",
             "title": "LIVE: Supreme Court Confirmation Hearing For Judge Ketanji Brown Jackson l ABC News Live",
             "secondDuration": 34210,
@@ -61,8 +55,14 @@
             "title": "Trump's Plans First 100 Days in Office",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "kALI2Dan1dU",
+            "title": "Florida sees record hospitalizations as CDC sheds light on delta variant",
+            "secondDuration": 541,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

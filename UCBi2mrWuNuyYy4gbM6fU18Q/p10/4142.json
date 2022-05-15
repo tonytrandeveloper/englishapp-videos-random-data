@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "llan8IGzpS8",
-            "title": "FDA investigates 127 cases of seizures after vaping l ABC News",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "gxwpO1_ZimE",
             "title": "Costa Rica rafting tragedy survivors, victims families warn of lax regulations",
             "secondDuration": 564,
@@ -61,8 +55,14 @@
             "title": "Who's in Charge in Ferguson?",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "HMlEpiTP0jU",
+            "title": "Second Presidential Debate 2012: Mitt Romney on Tax-Plan Numbers: 'They Add Up'",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

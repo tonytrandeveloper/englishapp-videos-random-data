@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vsMpsZkbXow",
-            "title": "New York could set trend with ranked-choice voting in mayoral election",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "2G2V0V1wvwM",
             "title": "450,000 ballots left to count in Arizona",
             "secondDuration": 421,
@@ -61,8 +55,14 @@
             "title": "Florida pastor urges vaccinations after losing 7 to COVID",
             "secondDuration": 445,
             "group": "group_7"
+        },
+        {
+            "videoId": "g1PFqFVbBfQ",
+            "title": "Thanksgiving COVID-19 warning",
+            "secondDuration": 326,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

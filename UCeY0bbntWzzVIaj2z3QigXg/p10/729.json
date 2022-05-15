@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "10l7ECnrCNI",
-            "title": "Millennials Join Forces WithFriends To Buy Homes, Start Mortgages Together",
-            "secondDuration": 308,
-            "group": "group_7"
-        },
-        {
             "videoId": "Krgnp3wTt3c",
             "title": "Oscar-Winning Filmmaker Captures Vanishing World in ‘Racing Extinction’ | NBC Nightly News",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "Severe Weather Causes Rush Hour Chaos Along The East Coast | NBC Nightly News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "JsOqPS98sXA",
+            "title": "John Kasich On Foreign Policy, Supreme Court | Meet The Press | NBC News",
+            "secondDuration": 333,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JrA9vioyM1U",
-            "title": "Violence Escalates Between Israel And Gaza As Death Toll Rises",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "mw5BnkPXzIk",
             "title": "New Research Shows COVID-19 Patients Who Test Positive Second Time May Not Be Infectious | NBC News",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Prosecutor: No Charges For Mother In Gorilla Zoo Incident | NBC News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "zGzzEGCrals",
+            "title": "Louisiana Teacher Removed From Meeting In Handcuffs | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

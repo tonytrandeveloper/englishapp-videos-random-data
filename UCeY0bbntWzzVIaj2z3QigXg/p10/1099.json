@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LcnQeX0JauM",
-            "title": "Boris Johnson Announces Public Inquiry Into U.K.'s Covid Response",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "94u1NTNYSrU",
             "title": "Family Of Andrew Brown Jr. View Footage Of Fatal Shooting | NBC News",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump, Vladimir Putin Meet At G20 Summit | NBC News",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "u4dMVzNltU4",
+            "title": "NOW Tonight with Joshua Johnson - April 6 | NBC News NOW",
+            "secondDuration": 3149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

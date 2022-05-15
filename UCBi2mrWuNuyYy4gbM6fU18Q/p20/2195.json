@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZS0Mu_KOK7I",
-            "title": "Insomniac Theater: “Burnt”  | ABC News",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "EJA42aQb3eM",
             "title": "Gunfire sends shoppers running in busy New Jersey mall",
             "secondDuration": 112,
@@ -121,8 +115,14 @@
             "title": "Mother survives COVID-19, wakes up from a coma to newborn baby",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "X3h4COUcqxs",
+            "title": "Trump hosts lawmakers again at the White House",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

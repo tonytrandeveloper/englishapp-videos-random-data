@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aS9Xmag5fPY",
-            "title": "Biden plans 10-day blitz of executive actions upon Inauguration Day",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "fLPBKuj2rMg",
             "title": "The United States and Iran Working on a Nuclear Deal",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Prosecutors catch Robert Durst's lies in court: 20/20 ‘The Devil You Know’ Preview",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "y9hjoRyDQVM",
+            "title": "Tapper on G-8's Lack of Progress",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7r0IPbFxngc",
-            "title": "Minnesota officer fatally shoots 20-year-old Daunte Wright",
-            "secondDuration": 304,
-            "group": "group_7"
-        },
-        {
             "videoId": "aRzrYNVXF28",
             "title": "Scientists Create First Synthetic Cell",
             "secondDuration": 151,
@@ -121,8 +115,14 @@
             "title": "Kobe remembered, tornado hits Alabama, bubble concert; World in Photos, Jan. 26",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dij2eO-8Oqo",
+            "title": "President Trump claims vindication after new indictments in Russia probe",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

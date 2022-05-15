@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "k3AoaInfwgo",
-            "title": "Car Vending Machine Newest Gimmick For Buying A New Car | NBC News",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "FDW2wsu7GGc",
             "title": "Pope Francis, Patriarch Bartholomew Unite Against ISIS | NBC News",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "RAW: Iraqi Forces Battle ISIS In Tikrit | NBC News",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "jY5fj9xSlNU",
+            "title": "Remembering Elijah Cummings: Remarks From His First Speech On The House Floor | NBC Nightly News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

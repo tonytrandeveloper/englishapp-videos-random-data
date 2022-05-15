@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rKXOXtPD9k0",
-            "title": "Supreme Court Justice Ruth Bader Ginsburg Dies At 87 | NBC Nightly News",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "gJtxgHShn94",
             "title": "Crowds Flock To Miami Beach For Memorial Day Weekend",
             "secondDuration": 305,
@@ -31,8 +25,14 @@
             "title": "LIVE: White House Holds Press Briefing | NBC News",
             "secondDuration": 3571,
             "group": "group_7"
+        },
+        {
+            "videoId": "WedZ2SCjBKg",
+            "title": "Watch Live: Collapsed Hard Rock Hotel Is Demolished In New Orleans | NBC News",
+            "secondDuration": 3336,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

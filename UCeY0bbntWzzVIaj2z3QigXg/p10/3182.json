@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Qp8rM9dWX-g",
-            "title": "RNC Will Require GOP Candidates To Abstain From Official Presidential Debates",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "wsgrLsWYwp8",
             "title": "Open Air Classrooms: A Social-Distancing Experiment In Education | NBC News",
             "secondDuration": 354,
@@ -61,8 +55,14 @@
             "title": "Vladimir Putin’s On Allegations President Trump Shared Secrets: 'Political Schizophrenia’ | NBC News",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "S_QYCtt8pPE",
+            "title": "President Trump Holds News Conference | NBC News",
+            "secondDuration": 1816,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

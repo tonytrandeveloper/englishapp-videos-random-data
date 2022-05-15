@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hJ7SMgRR_Z8",
-            "title": "Nationwide manhunt underway for those involved in Capitol breach",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "nv9jlUHzohU",
             "title": "Met Gala Punk Theme Fuels Daring Fashion Choices, Sarah Jessica Parker Mohawk Draws Buzz",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Roundtable I: WSJ Peggy Noonan on Historic Marriage Equality Case: \"An Emotionally Charged Decision\"",
             "secondDuration": 619,
             "group": "group_7"
+        },
+        {
+            "videoId": "SWNueCEyXt8",
+            "title": "Bill Clinton Steps Up His Criticisms of Donald Trump",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cipy43ilbC0",
-            "title": "The California Girl Who Can’t Go Out In The Sun Named Homecoming Queen | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "GpdWtbT0Gpk",
             "title": "'The Senate Is Doing Its Duty': Graham Opens Amy Coney Barrett's Confirmation Hearings | NBC News",
             "secondDuration": 340,
@@ -31,8 +25,14 @@
             "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
             "secondDuration": 1969,
             "group": "group_7"
+        },
+        {
+            "videoId": "A3msFRaCqT0",
+            "title": "Texas Teen Raises $30,000 For Hospital That Treated Her Cancer",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

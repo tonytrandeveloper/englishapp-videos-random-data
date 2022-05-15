@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KHQlgm5VWjo",
-            "title": "FDA Grants Full Approval To Pfizer Vaccine",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "-EgqyA53k7k",
             "title": "Facebook Experiences Biggest Loss In Stock Market History | NBC Nightly News",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "Watch John Kerry’s Full Speech At The 2020 DNC | NBC News",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "XGcDbo9xMaA",
+            "title": "Closing Arguments In Derek Chauvin's Trial On George Floyd's Death | NBC News",
+            "secondDuration": 26874,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

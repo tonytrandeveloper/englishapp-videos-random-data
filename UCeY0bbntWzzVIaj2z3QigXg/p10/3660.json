@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mSg6xiFbbRs",
-            "title": "Ron Allen: \"I have a dream that...\"",
-            "secondDuration": 20,
-            "group": "group_7"
-        },
-        {
             "videoId": "mK4O5nxudZI",
             "title": "Empty Streets Around The Moulin Rouge In Paris After COVID Lockdown | NBC News",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "Authorities Work To Slow Major California Oil Spill",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "3z5_fsCo0Wc",
+            "title": "President Donald Trump Presents The Congressional Medal Of Honor | NBC News",
+            "secondDuration": 1396,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

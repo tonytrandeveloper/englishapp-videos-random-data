@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PuH8COugcmA",
-            "title": "Parkland school shooter suspect to plead guilty | WNT",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "vEbZZd55UK4",
             "title": "Gas Prices: Blumenauer Says No Change Soon",
             "secondDuration": 431,
@@ -121,8 +115,14 @@
             "title": "Josh Duggar Admits Being 'Unfaithful'",
             "secondDuration": 415,
             "group": "group_7"
+        },
+        {
+            "videoId": "P7o1mJetpyg",
+            "title": "Stunning Video in ‘American Sniper’ Trial",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

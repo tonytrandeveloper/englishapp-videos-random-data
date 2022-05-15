@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mUshnizODL8",
-            "title": "President Donald Trump Awards Medal Of Honor | NBC News",
-            "secondDuration": 1328,
-            "group": "group_7"
-        },
-        {
             "videoId": "hZGdBimEze4",
             "title": "Chicago’s Joffrey Ballet Strives For Inclusion On Stage",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Obama Urges U.N. To Combat ISIS, Extremism | NBC News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "y10u84Be8e0",
+            "title": "Doctors On Work Visas Risk Deportation To Care For COVID-19 Patients | NBC News NOW",
+            "secondDuration": 596,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

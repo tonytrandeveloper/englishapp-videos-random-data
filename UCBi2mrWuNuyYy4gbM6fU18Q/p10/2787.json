@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D1Ciy8aLa_E",
-            "title": "Passenger jet slides off runway, breaks into pieces in Turkey",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "x9WFM53D1Hc",
             "title": "Trump withdraws US from Paris climate agreement",
             "secondDuration": 233,
@@ -61,8 +55,14 @@
             "title": "Rep. Jordan: Upper echelon of FBI had 'failure of leadership' l ABC NEWS",
             "secondDuration": 320,
             "group": "group_7"
+        },
+        {
+            "videoId": "KNE0gMwem8g",
+            "title": "10-foot great white shark detected off New Jersey",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

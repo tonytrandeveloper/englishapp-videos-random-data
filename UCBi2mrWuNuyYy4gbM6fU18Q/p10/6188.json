@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nPNjfnD3T5E",
-            "title": "Withdrawal of US troops in Syria underway l ABC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "lF1H4UqavaI",
             "title": "Cohen raids put 'Access Hollywood' tape in spotlight",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "‘Live in front of a studio audience’",
             "secondDuration": 312,
             "group": "group_7"
+        },
+        {
+            "videoId": "zrzEYJ32clg",
+            "title": "High School Sports Bus Crash Caught on Video",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

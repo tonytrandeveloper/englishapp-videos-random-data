@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QX6oUAtCePg",
-            "title": "WEBCAST: Black Friday 2012 Begins",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "U8wqSyZz8cU",
             "title": "Kaiser Permanente nurses union votes to authorize strike",
             "secondDuration": 396,
@@ -31,8 +25,14 @@
             "title": "Student heroes helped save lives in Colorado shooting",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "DzDulMNd5z4",
+            "title": "Vanessa Hudgens Makes Broadway Debut",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

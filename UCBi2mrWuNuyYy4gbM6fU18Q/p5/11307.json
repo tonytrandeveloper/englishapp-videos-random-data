@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XqGQjDDo4X8",
-            "title": "Texas Authorities Search for Gunman Who Killed Deputy",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "cEDSr3rs_sY",
             "title": "United Airlines' Pilot Has Heart Attack: Prompts Emergency Landing in Idaho",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Breakdown of Apollo 11",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "GV0xs48Ke7Y",
+            "title": "Trump attempts to shift the focus of Russia investigation onto Hillary Clinton",
+            "secondDuration": 280,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

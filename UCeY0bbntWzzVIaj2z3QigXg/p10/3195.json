@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "k6ZR7Cao8r8",
-            "title": "Live: Trump Meets With Leaders Of Kosovo, Serbia At White House | NBC News",
-            "secondDuration": 331,
-            "group": "group_7"
-        },
-        {
             "videoId": "Glq5eq-nTx0",
             "title": "Jay Inslee, Beto O’Rourke, Julian Castro Share Plans To Combat Climate Change | NBC News",
             "secondDuration": 302,
@@ -61,8 +55,14 @@
             "title": "Father And Son Rescue Bald Eagle | Archives | NBC News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "edX_qqV9Fl8",
+            "title": "First Successful Transplant Of Pig Heart To Human Patient Performed In Maryland",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

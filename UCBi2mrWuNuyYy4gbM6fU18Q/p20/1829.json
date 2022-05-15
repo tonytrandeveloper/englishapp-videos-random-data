@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zUuc6Q1u0q0",
-            "title": "Trump focuses on immigration in State of the Union address",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "xmeuPlcMQko",
             "title": "‘Jeopardy!’ James surges back in gameshow showdown l ABC News",
             "secondDuration": 185,
@@ -121,8 +115,14 @@
             "title": "Chicago Fog Cancels Flights",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "YwillqDvKFg",
+            "title": "Boy's Body Recovered after Disney Gator Attack",
+            "secondDuration": 449,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

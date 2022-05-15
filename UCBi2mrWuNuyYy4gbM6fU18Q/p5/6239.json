@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DArcDAMPESk",
-            "title": "2016 Oscar Nominations and Snubs | ABC News",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xcui_MVfO98",
             "title": "Former President George W. Bush Recovering After Heart Surgery",
             "secondDuration": 182,
@@ -31,8 +25,14 @@
             "title": "Warren Buffett, Secretary Debbie Bosanek Discuss Tax Rate Inequality in Interview",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "B3p8apGVSGU",
+            "title": "Bobby Bones' journey to 'American Idol'",
+            "secondDuration": 440,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

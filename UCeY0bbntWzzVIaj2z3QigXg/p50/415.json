@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "EN1IhUMndDk",
-            "title": "Fauci Speaks Out On Covid Vaccine Guidelines And Flu Comparison In New Interview | NBC Nightly News",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "97GvZaFzvEs",
             "title": "Michael Flynn: 'We Are Officially Putting Iran On Notice' For Missile Launch | NBC News",
             "secondDuration": 115,
@@ -301,8 +295,14 @@
             "title": "Friends Search For California Woman Missing For 2 Weeks",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "bqMs0rwYrA8",
+            "title": "New York City Begins Vaccinating Students At Schools",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

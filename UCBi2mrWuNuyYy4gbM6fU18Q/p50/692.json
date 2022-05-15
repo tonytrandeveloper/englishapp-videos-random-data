@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "VnxmQMLzbpc",
-            "title": "Dr. Geoffrey Tabin Helps Blind Ethiopians Gain Sight",
-            "secondDuration": 258,
-            "group": "group_7"
-        },
-        {
             "videoId": "ydzS3u32piY",
             "title": "North Carolina governor says he's prioritizing public health over politics",
             "secondDuration": 166,
@@ -301,8 +295,14 @@
             "title": "Navy Seal's wife and brother discuss murder charges",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "EBagjTPOx-o",
+            "title": "Boy Snatched By Gator Shown Just Before Attack",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

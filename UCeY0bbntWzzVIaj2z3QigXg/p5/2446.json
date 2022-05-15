@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DBDsomhfzEE",
-            "title": "Morning News NOW Full Broadcast - May 11 | NBC News NOW",
-            "secondDuration": 3134,
-            "group": "group_7"
-        },
-        {
             "videoId": "zp2GwgHeipM",
             "title": "New York City On Alert After Additional Suspicious Package Found | NBC Nightly News",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Computers Teach Themselves to Play Pac-Man | Nerdwatch | NBC News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "UXRXi_MwRcc",
+            "title": "7.1-Magnitude Earthquake Rattles Mexico City | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

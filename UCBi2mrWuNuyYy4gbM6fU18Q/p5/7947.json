@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HJvR-n13Mls",
-            "title": "ABC News Live Update: Wildfires claim lives and raze thousands of homes in the West",
-            "secondDuration": 616,
-            "group": "group_7"
-        },
-        {
             "videoId": "cJZwt2tNHq4",
             "title": "Rick Perry on Family Values",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "Joe Biden: Obama's Plan 'Is Going to Work'",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "mkF8VLlHSfQ",
+            "title": "Katie Holmes Files for Divorce From Tom Cruise",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

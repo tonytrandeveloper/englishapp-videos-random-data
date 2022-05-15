@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "t2L3dTZ55XE",
-            "title": "Silent Strokes Linked to Lost Memory in Older Adults",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "1otcO8hhEhw",
             "title": "High School Football Player Dies From Blow to Spleen",
             "secondDuration": 112,
@@ -121,8 +115,14 @@
             "title": "F-16 Jets Collide in Mid-Air Over Georgia, Pilots Eject Safely",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "44c0YXGYiK8",
+            "title": "‘The worst is over if we continue to be smart’: Gov. Cuomo",
+            "secondDuration": 478,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

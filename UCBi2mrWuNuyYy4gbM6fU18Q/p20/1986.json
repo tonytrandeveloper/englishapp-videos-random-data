@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ff9s43PidRM",
-            "title": "New Rutgers Athletic Director Faces Abuse Allegations",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "saxAKIDUeYU",
             "title": "U.S. Diplomat Anne Smedinghoff Killed in Afghanistan",
             "secondDuration": 138,
@@ -121,8 +115,14 @@
             "title": "United Airlines Passengers Stuck on Plane for Nearly 6 Hours",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "M84azTAfPK0",
+            "title": "Biden race comments 'obviously (influence) the vice presidential selection': Emanuel | ABC News",
+            "secondDuration": 522,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

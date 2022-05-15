@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zZbPOtXnSPY",
-            "title": "Long stream of lava flows from Galapagos volcano",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "yb2-czNMXRI",
             "title": "Mitt Romney Takes on Newt Gingrich in Florida Debate",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "Town Hall Debate: Setting Up the Debate",
             "secondDuration": 385,
             "group": "group_7"
+        },
+        {
+            "videoId": "J54jyx37dSc",
+            "title": "Breonna Taylor grand jury tapes released",
+            "secondDuration": 350,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

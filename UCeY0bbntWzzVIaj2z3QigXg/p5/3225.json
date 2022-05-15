@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vDEFPRxxRXc",
-            "title": "NBC News Projects Trump Will Win Florida | NBC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lu11Qkqzmvw",
             "title": "One Dead, 11 Wounded In Dallas Concert Shooting",
             "secondDuration": 78,
@@ -31,8 +25,14 @@
             "title": "Zainab Arain: Why the U.S. should NOT intervene in Syria",
             "secondDuration": 31,
             "group": "group_7"
+        },
+        {
+            "videoId": "OMS_6n_yhxI",
+            "title": "What To Know On Eve Of California’s Gubernatorial Recall Election",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

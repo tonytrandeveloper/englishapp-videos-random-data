@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y9dlE-X_8rY",
-            "title": "Donald Trump Calls for a Ban of Muslims Entering the US  | CLIP",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "y68OOQ_A6eY",
             "title": "The Conversation: Eyewitness to Chile Quake",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "Americans Feel Pain From Automatic Sequester Cuts",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "ezpl8Z9OUZs",
+            "title": "Breast Cancer Survivor Credits Amy Robach for Saving Her Life",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

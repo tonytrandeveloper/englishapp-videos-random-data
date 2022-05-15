@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ZgdGvqOVkeY",
-            "title": "NOW Tonight with Joshua Johnson - Mar. 18 | NBC News NOW",
-            "secondDuration": 3202,
-            "group": "group_7"
-        },
-        {
             "videoId": "6wWcvqEHTqY",
             "title": "North Dakota High School Senior Takes 92-Year-Old Great-Grandma To Prom",
             "secondDuration": 81,
@@ -301,8 +295,14 @@
             "title": "What Lebron James’ Salary Says About The Value Of Labor In America | Think | NBC News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "493gCCs-BeE",
+            "title": "Inside Portland Clashes Between Protesters And Federal Agents | NBC Nightly News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

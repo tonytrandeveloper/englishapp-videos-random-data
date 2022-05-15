@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qcsGwFZeXBk",
-            "title": "President Donald Trump Visits Southern Border To Push For Proposed Border Wall | NBC Nightly News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "0T0e_PSPwfA",
             "title": "This Morning’s Top Headlines – Nov. 18 | Morning News NOW",
             "secondDuration": 1654,
@@ -31,8 +25,14 @@
             "title": "Full Bennet: GOP Practicing ‘Fiscal Hypocrisy’ | Meet The Press | NBC News",
             "secondDuration": 455,
             "group": "group_7"
+        },
+        {
+            "videoId": "cv2OTE-cemE",
+            "title": "Full DeWine: 'We're Going The Wrong Way' On COVID Infections | Meet The Press | NBC News",
+            "secondDuration": 454,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

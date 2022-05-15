@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xIo9a5578g0",
-            "title": "Blinken says action against Ukraine will prompt 'swift, severe' response",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "wgLop5bHI0M",
             "title": "'Life at Vet U' Shows Vet Students Tackling Animal ER Challenges",
             "secondDuration": 407,
@@ -121,8 +115,14 @@
             "title": "Bill Kristol: 'I'm Finished with Donald Trump'",
             "secondDuration": 536,
             "group": "group_7"
+        },
+        {
+            "videoId": "BRRdCImGgTo",
+            "title": "Fatal Jet Crash | ABC News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

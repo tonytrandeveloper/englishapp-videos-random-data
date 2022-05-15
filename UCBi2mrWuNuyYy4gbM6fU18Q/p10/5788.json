@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KQhqsFqxX9E",
-            "title": "Jack Hanna and His Menagerie",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "2ihovAla_ys",
             "title": "FBI is still searching for answers in Jelani Day’s final movements",
             "secondDuration": 449,
@@ -61,8 +55,14 @@
             "title": "Minnesota Players Threaten to Boycott Bowl Game Over Player Suspensions",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "HVUza9oMUqo",
+            "title": "Russia lights up the night for the New Year",
+            "secondDuration": 325,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

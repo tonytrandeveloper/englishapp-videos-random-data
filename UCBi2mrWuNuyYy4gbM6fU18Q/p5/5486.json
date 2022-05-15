@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-S9SyvRnN9A",
-            "title": "Whats in a Name?",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "LuAImaP2JI0",
             "title": "'This Week' In Memoriam: Remembering Lousiana Congresswoman Lindy Boggs",
             "secondDuration": 174,
@@ -31,8 +25,14 @@
             "title": "Manti T'eo Girlfriend Hoax: Alleged Scammer Roanaiah Tuiasosopo Speaks",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "GzvHdQt5fBU",
+            "title": "Kate Middleton Pregnant: Prince William, Duchess of Cambridge Announce Pregnancy in Royal Statement",
+            "secondDuration": 29,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

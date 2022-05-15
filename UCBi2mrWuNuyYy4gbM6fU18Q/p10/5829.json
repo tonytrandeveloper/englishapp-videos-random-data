@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iS34ch_qv-g",
-            "title": "The Jubilee Queen: Elizabeth, The Early Years",
-            "secondDuration": 366,
-            "group": "group_7"
-        },
-        {
             "videoId": "OpinJbNVCnA",
             "title": "9-Year-Old Boy Describes Fighting Off Gator",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "RNC Night 3: Mike Pence takes the stage, experts discuss third night of RNC",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "8oU1vIFk-kA",
+            "title": "Bishop Richard Malone of Buffalo defends his handling of sexual abuse crisis I Nightline",
+            "secondDuration": 660,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5dXSIJTbh1Y",
-            "title": "President Donald Trump Revokes Former CIA Director Brennan's Security Clearance | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "yKU_ELSI994",
             "title": "Inside Alabama Distillery That Shifted Its Entire Supply Chain To Make Hand Sanitizer | NBC News NOW",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "Hong Kong Suspends Controversial Extradition Bill | NBC News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ubyc-Wh5YIk",
+            "title": "Facebook Blocks News Posts In Australia Over Government's Payment Rules | NBC News NOW",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YpnkxDz5JUs",
-            "title": "20 children across the US have died from the flu this winter: CDC",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "obKdFC8a2-s",
             "title": "The Inaugural Speech: A History | ABC News",
             "secondDuration": 218,
@@ -121,8 +115,14 @@
             "title": "Hidden camera captures a Michigan nursing home employee allegedly abusing a resident",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "-Kmvm0ZvjGQ",
+            "title": "Latest in Ukraine: At least 50 people killed in train station rocket attack l ABCNL",
+            "secondDuration": 409,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

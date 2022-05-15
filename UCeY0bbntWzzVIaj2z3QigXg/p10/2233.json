@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HlA1ipvVr08",
-            "title": "Hillary Clinton's Biggest Challenge In Libya Isn't Benghazi | NBC News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "gYUs-djLCzo",
             "title": "Zelenskyy Urges Importances Of Leaders Visiting Ukraine During Meeting With Austrian Chancellor",
             "secondDuration": 70,
@@ -61,8 +55,14 @@
             "title": "'Hypertransmissible' Delta Variant Spreading As Covid Cases Rise 10%",
             "secondDuration": 247,
             "group": "group_7"
+        },
+        {
+            "videoId": "WOwl57AI3vo",
+            "title": "Recent Royal Births: A Look Back | NBC News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

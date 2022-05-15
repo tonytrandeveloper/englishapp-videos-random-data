@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZatVk94JZrI",
-            "title": "Solomeo, Italy: Where the King of Cashmere Rules with a Gentle Hand | Think | NBC News",
-            "secondDuration": 256,
-            "group": "group_7"
-        },
-        {
             "videoId": "7XDGTVmzDUg",
             "title": "Fashionista Compares Brexit To A Wardrobe Malfunction: ‘It’s A Pretty Bad Thing’ | NBC News",
             "secondDuration": 83,
@@ -61,8 +55,14 @@
             "title": "Safety Concerns Rise As Visitors Flock To See Lava Flow In Hawaii | NBC News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "at8QzTGTM5I",
+            "title": "Freak Storm Batters Istanbul With Golf Ball-Sized Hail | NBC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

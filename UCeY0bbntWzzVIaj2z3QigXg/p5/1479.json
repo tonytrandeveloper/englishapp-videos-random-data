@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "G9xc2kLOyuU",
-            "title": "Hillary Clinton Cheered For ‘Alternative Reality’ Kellyanne Conway Jab | NBC news",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "NfwzO8Aax8U",
             "title": "Powerful California Storm Triggers Mudslides, Flash Flooding, River Rescues | NBC Nightly News",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "Four People Dead In New Jersey Fire Mystery | NBC Nightly News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "qBN0UkZQxmY",
+            "title": "Anonymous Official: Cluster Of Top Aides Working Against Parts Of Trump Agenda | NBC Nightly News",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

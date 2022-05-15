@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oT5NEW1zOso",
-            "title": "Bill Clinton Makes Political History in Role Reversal at DNC | NBC Nightly News",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "kEEpNRcPYOo",
             "title": "Hillary Clinton Jokes Pneumonia Provoked GOP Interest In Women’s Health | NBC News",
             "secondDuration": 64,
@@ -121,8 +115,14 @@
             "title": "Netflix 'Making A Murderer' Prompts Petitions For Pres. Obama To Pardon | NBC Nightly News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "X8PKOCBW4KI",
+            "title": "See How This 7-Year-Old Is Moving Others With His Dance Moves | Nightly News: Kids Edition",
+            "secondDuration": 813,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

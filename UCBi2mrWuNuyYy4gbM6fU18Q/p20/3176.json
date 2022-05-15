@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LoZDEVzN09M",
-            "title": "Bolshoi Ballet Acid Attack Leaves Sergei Filin Scarred, Nearly Blind",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZUiA3uXYLKQ",
             "title": "Mother in Dispute with Energy Drink Company",
             "secondDuration": 136,
@@ -121,8 +115,14 @@
             "title": "Colorado man clawed by bear inside his own home",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZzInScX3MrU",
+            "title": "New Star Wars: The Force Awakens Teaser",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

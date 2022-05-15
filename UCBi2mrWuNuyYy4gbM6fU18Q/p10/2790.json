@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sBxNVgRE4-Y",
-            "title": "House Speaker Pelosi holds weekly news briefing",
-            "secondDuration": 1108,
-            "group": "group_7"
-        },
-        {
             "videoId": "FHcjoh1s9pc",
             "title": "House Judiciary Committee approves articles of impeachment",
             "secondDuration": 225,
@@ -61,8 +55,14 @@
             "title": "ABC News Prime: UN climate report; Cuomo aide resigns; Alleged Epstein victim sues Prince Andrew",
             "secondDuration": 5359,
             "group": "group_7"
+        },
+        {
+            "videoId": "DKSKwCqHAnI",
+            "title": "'Smokey and the Bandit's' Burt Reynolds dies at the age of 82",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

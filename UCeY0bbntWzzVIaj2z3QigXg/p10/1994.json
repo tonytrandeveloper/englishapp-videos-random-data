@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JhLcdz1Ietg",
-            "title": "How The #MeToo Movement Exposes The Failure Of HR | Think | NBC News",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "7rBTaF4PYlw",
             "title": "Megyn Kelly Interviews Russian President Vladimir Putin (Exclusive) Sunday June, 4 @ 7/6c | NBC News",
             "secondDuration": 30,
@@ -61,8 +55,14 @@
             "title": "Watch Closing Statements Of The Democratic Debate’s Second Night | NBC News",
             "secondDuration": 569,
             "group": "group_7"
+        },
+        {
+            "videoId": "rWi3T9okyvA",
+            "title": "President Putin Calls Russians Against Invasion ‘Scum And Traitors’",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

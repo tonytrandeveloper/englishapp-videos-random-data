@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Yoyz8WxBl2g",
-            "title": "Diana Nyad's 48-Hour Charity Swim 'Was a Bear'",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q_xDg16vSLo",
             "title": "Major brawl erupts inside the cabin of passenger plane",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Imagining the future of artificial intelligence and its potential impact",
             "secondDuration": 455,
             "group": "group_7"
+        },
+        {
+            "videoId": "ww5B6A_ca3Q",
+            "title": "More than just a tourist destination: Bolivia's salt flats are key to its future",
+            "secondDuration": 450,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

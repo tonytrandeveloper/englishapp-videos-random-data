@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "10TxVnkNISg",
-            "title": "104 Million People Feeling the Pain of a Treacherous Winter Storm",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "G1c64T29S0o",
             "title": "Free Wi-Fi Can Be a Trap for Thieves",
             "secondDuration": 156,
@@ -121,8 +115,14 @@
             "title": "LAPD releases bodycam footage after teen is killed",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "4UV0aTejRnk",
+            "title": "NYC on Edge After Powerful Explosion in Harlem Kills 3",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

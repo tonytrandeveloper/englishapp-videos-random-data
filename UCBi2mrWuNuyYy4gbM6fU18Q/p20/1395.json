@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3FjZoImMWU0",
-            "title": "Vaccine offers hope for coronavirus crisis",
-            "secondDuration": 339,
-            "group": "group_7"
-        },
-        {
             "videoId": "GPFSVRGwMcs",
             "title": "Never-before-heard tapes of alleged Russian agent",
             "secondDuration": 207,
@@ -121,8 +115,14 @@
             "title": "ABC News Prime: UN climate report; Cuomo aide resigns; Alleged Epstein victim sues Prince Andrew",
             "secondDuration": 5359,
             "group": "group_7"
+        },
+        {
+            "videoId": "DKSKwCqHAnI",
+            "title": "'Smokey and the Bandit's' Burt Reynolds dies at the age of 82",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

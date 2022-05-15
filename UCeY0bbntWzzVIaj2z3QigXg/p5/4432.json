@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I1eZ-MZ4PkY",
-            "title": "Why New York Attorney General Did Not Bring Charges Against Cuomo",
-            "secondDuration": 289,
-            "group": "group_7"
-        },
-        {
             "videoId": "CUIzVPH9G6M",
             "title": "Solar City: Dawn of Solar in the Sunshine State (Part 1) | NBC Nightly News",
             "secondDuration": 649,
@@ -31,8 +25,14 @@
             "title": "Paris Terror Attack Inspired By Al-Qaeda | NBC Nightly News",
             "secondDuration": 244,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZMpHLW6zu1o",
+            "title": "Mine Cleanup Crew Releases Toxic Wastewater Into a Colorado River | NBC Nightly News",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Nw7aaoFUZss",
-            "title": "More states to reopen economies l ABC News",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "bhfWsHKt0fs",
             "title": "People of color dealing with not receiving treatment needed for heart disease",
             "secondDuration": 314,
@@ -61,8 +55,14 @@
             "title": "The Fallout From the CIA Report Detailing Gruesome Torture",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "mIWv0Jcqzog",
+            "title": "ABC News Prime: Extreme weather in the US; State of siege in Haiti; Push for voting rights",
+            "secondDuration": 5239,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

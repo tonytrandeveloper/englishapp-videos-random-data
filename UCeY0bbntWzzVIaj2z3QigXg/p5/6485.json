@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rXQfgUA7RBQ",
-            "title": "Morning News NOW Full Broadcast - Feb. 28",
-            "secondDuration": 2919,
-            "group": "group_7"
-        },
-        {
             "videoId": "LyQme1cRKBs",
             "title": "Despite Disastrous Fire, Chef Bruno Continues Mission To Feed Children | NBC Nightly News",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Full Nikole Hannah-Jones: 'We Should Be Uncomfortable With The Hard Parts Of Our Past'",
             "secondDuration": 1032,
             "group": "group_7"
+        },
+        {
+            "videoId": "3U2DJH_pC24",
+            "title": "CVS Pharmacy To Limit Opioid Prescriptions | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

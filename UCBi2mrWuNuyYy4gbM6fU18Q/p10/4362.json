@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "d-mp0jh8XWI",
-            "title": "Trump campaign ad pulled from airwaves",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "da4S3AvgjUc",
             "title": "Al Sharpton: Jackson Was a Trailblazer",
             "secondDuration": 259,
@@ -61,8 +55,14 @@
             "title": "Marco Rubio Pledges To Reopen Gitmo As President If Obama Closes Prison",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "hJ7SMgRR_Z8",
+            "title": "Nationwide manhunt underway for those involved in Capitol breach",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

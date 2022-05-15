@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6vEwFbR86hY",
-            "title": "Watch SpaceX Live: Second Launch America - Mission To Space from the Kennedy Space Center",
-            "secondDuration": 3597,
-            "group": "group_7"
-        },
-        {
             "videoId": "pttbU0rJCXQ",
             "title": "ABC NEWS LIVE: Former President Trump sues Jan. 6 investigative committee",
             "secondDuration": 1433,
@@ -61,8 +55,14 @@
             "title": "'Zero Dark Thirty' Screenwriter Responds to Film's Controversy",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "eVOCSeytUxM",
+            "title": "Aurora, Colorado Gunman Kills Three in Hostage Standoff",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

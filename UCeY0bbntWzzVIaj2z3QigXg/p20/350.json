@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Nrbft6MWPBw",
-            "title": "Mortgage Refinancing Applications Surge Thanks To Low Interest Rates | NBC Nightly News",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "5BfvF89BUQE",
             "title": "Police Release Video of Baby Playing With Handgun | NBC News",
             "secondDuration": 34,
@@ -121,8 +115,14 @@
             "title": "Sync And Swim: Tech Improving Synchronized Swimming In The Olympic Pool | NBC News",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "7lABh7eWgN8",
+            "title": "LIVE: Biden Delivers Remarks on October Jobs Report | NBC News",
+            "secondDuration": 715,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

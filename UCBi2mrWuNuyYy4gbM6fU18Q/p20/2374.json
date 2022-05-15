@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SA-2OU1th-k",
-            "title": "A Soldier's Sacrifice",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "1thtaiFQZgo",
             "title": "Ex-NFL player killed over a parking spot in Colorado",
             "secondDuration": 85,
@@ -121,8 +115,14 @@
             "title": "By the Numbers: Georgia's college football championship win",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "XAvqyVDtuHM",
+            "title": "The Debrief: Impeachment hearings, Indiana Uni, Political ads | ABC News",
+            "secondDuration": 1362,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KGKn3fmWiFo",
-            "title": "Pope Francis' Historic Visit with Fidel Castro | ABC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "e4erXntBmVw",
             "title": "Violence erupts in Nigeria as protesters demand reform",
             "secondDuration": 219,
@@ -31,8 +25,14 @@
             "title": "Severe weather causes flooding in several Midwest states",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "xcAYT5KVSh4",
+            "title": "Tensions mount between the US and North Korea",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

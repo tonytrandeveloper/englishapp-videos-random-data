@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gXu5GDXIw-Q",
-            "title": "Presidential candidates clash in latest Democratic debate",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "-u4iVRzLG0Q",
             "title": "Record High Temperatures Across the US",
             "secondDuration": 57,
@@ -31,8 +25,14 @@
             "title": "A Look Back At The Best Of April Fools’ Day 2014",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "e4mNkezEyD0",
+            "title": "Police Officers Join Kids in Soccer Game",
+            "secondDuration": 28,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

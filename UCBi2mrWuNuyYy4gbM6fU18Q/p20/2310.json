@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DVRNcRQ38YU",
-            "title": "Instagram Account Shows Miserable Men Shopping | ABC News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "dCwvUPeCjbs",
             "title": "Ohio State University Active Shooter Reported",
             "secondDuration": 80,
@@ -121,8 +115,14 @@
             "title": "Murderer Stabs 11-Year-Old | Police Turn to Citizens to Help",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "tUtmZQrWZhM",
+            "title": "JFK Runway Becomes Turtle Crossing",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

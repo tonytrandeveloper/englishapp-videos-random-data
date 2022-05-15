@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EdX87m-rIQU",
-            "title": "New Year's Eve 2011 Food & Drink Party Ideas",
-            "secondDuration": 354,
-            "group": "group_7"
-        },
-        {
             "videoId": "RtkLOGC-68U",
             "title": "Campaigns court Florida’s Puerto Rican vote",
             "secondDuration": 372,
@@ -61,8 +55,14 @@
             "title": "Juul announces it will stop selling mint-flavored pods l ABC News",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "_B1iAjAh1xM",
+            "title": "Coronavirus crisis: Vaccine rollout grows amid travel ban and variant concerns",
+            "secondDuration": 584,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

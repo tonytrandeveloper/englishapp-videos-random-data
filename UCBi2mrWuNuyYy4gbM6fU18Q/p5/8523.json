@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WozXSKtPca8",
-            "title": "The Year 2018: What were they thinking?",
-            "secondDuration": 309,
-            "group": "group_7"
-        },
-        {
             "videoId": "mNqE7h-p4j8",
             "title": "Bus driver delivers meals to children amid the coronavirus pandemic | ABC News",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Republican National Convention | Cleveland Mayor Discusses Community's Role",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "GRc8bHoc_Is",
+            "title": "Bottom Line: Election Results and Liars",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

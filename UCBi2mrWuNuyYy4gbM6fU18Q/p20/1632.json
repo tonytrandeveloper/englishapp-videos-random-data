@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sIAkB7JUwRY",
-            "title": "Fast-moving brush fire causes evacuations in Burbank, California",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "vYT4xg_kQCg",
             "title": "Signs of strength during COVID-19 pandemic | ABC NEWS PRIME",
             "secondDuration": 290,
@@ -121,8 +115,14 @@
             "title": "Total solar eclipse visible in remote parts of the world",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "nuRywf5kp9g",
+            "title": "California governor declares state of emergency after earthquakes",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

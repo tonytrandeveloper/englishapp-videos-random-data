@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mI252xphRXY",
-            "title": "Biden delivers New Hampshire speech via livestream l ABC News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "O82k0KTeMzA",
             "title": "South Korean Ferry Emergency Transcripts Released",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Invisible Man",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "kAcwlVCcI-k",
+            "title": "Chuck Schumer Responds to Trump's address to Congress",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

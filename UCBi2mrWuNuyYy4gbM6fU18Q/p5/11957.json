@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7SolwKGDibQ",
-            "title": "Donald Trump Says Miss USA Contestant Sheena Monnin Has 'Loser's Remorse' After 'Rigged' Allegations",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "gPhQoz5uCxM",
             "title": "Professor unveils lickable TV screen",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Teacher arrested after cutting student's hair",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "kjvxtdJeFwQ",
+            "title": "ABC News Live Update: US reinstating travel ban to fight spread of COVID-19 variants",
+            "secondDuration": 848,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

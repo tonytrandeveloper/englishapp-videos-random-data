@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8xtewUN_B_k",
-            "title": "Passengers are secretly being watched on the plane by TSA program",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "PJ9yaPtwD80",
             "title": "Teachers go on strike in Chicago l ABC News",
             "secondDuration": 76,
@@ -121,8 +115,14 @@
             "title": "Neutrogena recalls popular acne mask",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "-41StQ679WA",
+            "title": "Trump and senate Republicans predict tax bill will pass",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

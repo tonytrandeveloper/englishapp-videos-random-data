@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_gZKHUC9Onk",
-            "title": "Formal Investigation Launched In Deadly Niger Ambush Attack | NBC Nightly News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "btWcjFkn4E8",
             "title": "NBC News Special Report: Nationwide Protests Over Death Of George Floyd | NBC News",
             "secondDuration": 3628,
@@ -61,8 +55,14 @@
             "title": "Waffle House Shooting Suspect Wearing 'Suicide Smock' In Custody | NBC News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "WF4_we8f0SU",
+            "title": "FDA Is Seeking to Redefine ‘Healthy’ and ‘Natural’ Foods | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

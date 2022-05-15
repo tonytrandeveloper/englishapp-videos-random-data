@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IHNtfrz4e60",
-            "title": "Top Story with Tom Llamas - March 22 | NBC News NOW",
-            "secondDuration": 3060,
-            "group": "group_7"
-        },
-        {
             "videoId": "kpZVkQ56eb4",
             "title": "Storms Bring Dangerous Conditions To U.S. | NBC Nightly News",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "President Trump campaigns at rally in Illinois following synagogue shooting",
             "secondDuration": 4262,
             "group": "group_7"
+        },
+        {
+            "videoId": "gvDrorDlKD0",
+            "title": "North Korea Missile Launch: Why Did It ‘Immediately’ Blow Up? | NBC Nightly News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

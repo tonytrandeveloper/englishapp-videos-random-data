@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6FtLuPwgwvg",
-            "title": "A$AP Rocky appears in Sweden court l ABC News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "soYWAmera1I",
             "title": "Voters demand more transparency in Iowa caucuses | ABC News",
             "secondDuration": 227,
@@ -61,8 +55,14 @@
             "title": "California COVID-19 shutdowns",
             "secondDuration": 383,
             "group": "group_7"
+        },
+        {
+            "videoId": "WWBHxrBsKgM",
+            "title": "Officer, suspect die in traffic stop shootout l ABC News",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

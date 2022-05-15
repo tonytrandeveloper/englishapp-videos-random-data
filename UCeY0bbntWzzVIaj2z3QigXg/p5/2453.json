@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4akFLFq3b-g",
-            "title": "President Donald Trump Holds Press Conference After Summit With Kim Jong Un | NBC News",
-            "secondDuration": 5028,
-            "group": "group_7"
-        },
-        {
             "videoId": "quhgEVYHCLQ",
             "title": "Full Panel: Over 66,000 Deaths Reported In The U.S. | Meet The Press | NBC News",
             "secondDuration": 500,
@@ -31,8 +25,14 @@
             "title": "Rev. Jesse Jackson: \"I have a dream that...\"",
             "secondDuration": 26,
             "group": "group_7"
+        },
+        {
+            "videoId": "gNgoC3aQkmA",
+            "title": "‘I Haven’t Felt This Free In A While:’ Talks About Life-Saving Transplant | NBC Nightly News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

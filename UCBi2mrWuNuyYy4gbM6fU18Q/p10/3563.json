@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cZHkxfy0low",
-            "title": "LinkedIn Data Breach From 2012 Comes Back to Haunt Users",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zx8eg_dWmUo",
             "title": "Donald Trump Accuser Speaks Out",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "Oscar Predictions from Hollywood Insiders",
             "secondDuration": 665,
             "group": "group_7"
+        },
+        {
+            "videoId": "UydQ0u97UgY",
+            "title": "Police Sergeant Killed and Another Officer Wounded in the Bronx",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

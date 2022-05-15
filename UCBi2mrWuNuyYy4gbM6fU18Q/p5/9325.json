@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vygxwCtuX0c",
-            "title": "President Trump: 'I need 11,000 votes'",
-            "secondDuration": 483,
-            "group": "group_7"
-        },
-        {
             "videoId": "PXvKK0CSeco",
             "title": "Joe Biden takes the lead in Pennsylvania l ABC News",
             "secondDuration": 232,
@@ -31,8 +25,14 @@
             "title": "Christian Bale Interview 2013: 'Dark Knight' Star Heats Up the Screen in 'Out of the Furnace'",
             "secondDuration": 275,
             "group": "group_7"
+        },
+        {
+            "videoId": "l-YS25LFBMI",
+            "title": "Obama Makes Historic Call to Iran, Talks Shutdown Showdown",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

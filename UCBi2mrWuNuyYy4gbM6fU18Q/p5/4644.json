@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tGQ47KC8h18",
-            "title": "Minnesota students walk out in protest",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "t6Xeo5fa4aY",
             "title": "Jason Bateman on Star-Studded New Film 'This Is Where I Leave You'",
             "secondDuration": 238,
@@ -31,8 +25,14 @@
             "title": "Derek Jeter Wins Last Game at Yankee Stadium",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "yhSdTBNSVC0",
+            "title": "Can Hillary Clinton Avoid 2008 Mistakes?",
+            "secondDuration": 338,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

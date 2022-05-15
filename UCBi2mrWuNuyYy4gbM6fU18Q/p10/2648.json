@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XVUTtRrmPOI",
-            "title": "Trump and Biden to square off in tonight’s final presidential debate",
-            "secondDuration": 254,
-            "group": "group_7"
-        },
-        {
             "videoId": "AqmR0fVPsrM",
             "title": "U.S. vs ISIS: By The Numbers",
             "secondDuration": 71,
@@ -61,8 +55,14 @@
             "title": "Atlanta, Houston Races Could See Firsts",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "S26NCogp08o",
+            "title": "Djokovic’s Australian visa canceled for a second time",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UN8rZ4rJBXs",
-            "title": "More than 2 million homes in Florida are without power",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "YlDv1u5qlIE",
             "title": "PA Attorney General Exposed Illicit Gov't Emails, Faces Own Scandal",
             "secondDuration": 515,
@@ -61,8 +55,14 @@
             "title": "Lauren Scruggs, Who Walked Into Plane Propeller, Speaks For First Time Since Accident",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "LVDM9M5hqRM",
+            "title": "How family life changed throughout the coronavirus pandemic: Part 1",
+            "secondDuration": 555,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

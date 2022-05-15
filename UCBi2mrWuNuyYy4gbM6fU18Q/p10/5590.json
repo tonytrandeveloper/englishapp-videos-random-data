@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PFCIpcK0Izs",
-            "title": "Newtown School Massacre: Mourning Sandy Hook Elementary",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZYtSpZddqk0",
             "title": "How Albertsons kept supermarkets safe and stocked during pandemic",
             "secondDuration": 220,
@@ -61,8 +55,14 @@
             "title": "Prince Harry and Meghan Markle visit Bondi Beach",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "yQNer4SX1Rk",
+            "title": "James Maslow, Peta Murgatroyd Eliminated From 'Dancing With the Stars'",
+            "secondDuration": 318,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

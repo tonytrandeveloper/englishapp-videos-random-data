@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FHvka98QKaw",
-            "title": "Latest updates on COVID-19: July 14, 2020",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "U_WETvX2Cwk",
             "title": "'This Week' 'Sunday Spotlight': Rob Lowe on 'Killing Kennedy'",
             "secondDuration": 260,
@@ -121,8 +115,14 @@
             "title": "Couple Faces Jail Over Lost Dr. Seuss Library Book",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "AhVNiF0cZmY",
+            "title": "3 dead in shooting at Pearl Harbor Naval Shipyard",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

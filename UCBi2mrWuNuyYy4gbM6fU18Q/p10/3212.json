@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eXQOnoXIoRY",
-            "title": "What is Juneteenth?",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "3CCRshmY2Ho",
             "title": "Rand Paul: 'It's a Tea Party Tidal Wave'",
             "secondDuration": 257,
@@ -61,8 +55,14 @@
             "title": "New York Gov. Andrew Cuomo says \"worst is over\" amid coronavirus outbreak | ABC News",
             "secondDuration": 280,
             "group": "group_7"
+        },
+        {
+            "videoId": "8tj2Z3w_7b8",
+            "title": "Orlando Shooter's Father | 'Didn't See Anything Irregular'",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

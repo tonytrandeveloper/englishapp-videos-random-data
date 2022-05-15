@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IFJIX8vGSgg",
-            "title": "‘Star Trek’ Actor Anton Yelchin Killed By Jeep Under Recall | NBC Nightly News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "AV9s3wcMMKY",
             "title": "U.S. Coronavirus Deaths Top 150,000 | NBC News NOW",
             "secondDuration": 406,
@@ -31,8 +25,14 @@
             "title": "Senator Lindsey Graham: Sessions Likely Out After Midterms | NBC News",
             "secondDuration": 390,
             "group": "group_7"
+        },
+        {
+            "videoId": "vJA5iuaLCRE",
+            "title": "Chauvin Trial Judge Criticizes Rep. Maxine Waters Comments On Trial | NBC News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

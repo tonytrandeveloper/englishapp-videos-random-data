@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D72Hp3lJFBA",
-            "title": "Hallie Jackson NOW - March 9 | NBC News NOW",
-            "secondDuration": 3234,
-            "group": "group_7"
-        },
-        {
             "videoId": "lDZ53ASM-zQ",
             "title": "Don Blankenship Faces Off In West Virginia Primary | NBC Nightly News",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Arizona Governor Sends National Guard To Southern Border | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "uNI1VNpdzN8",
+            "title": "Trump: 'We Will Be Terminating The Payroll Tax After I Hopefully Get Elected’ | NBC News NOW",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

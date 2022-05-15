@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jiliMnZka9Q",
-            "title": "NYSE halts trading as stocks plummet on travel ban from Europe",
-            "secondDuration": 475,
-            "group": "group_7"
-        },
-        {
             "videoId": "r7ZFMiXP1PM",
             "title": "9/11 Anniversary: Behind the 19 Hijackers",
             "secondDuration": 140,
@@ -121,8 +115,14 @@
             "title": "Trump, Mnuchin ask big companies to return SBA loans",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "HDDgJPKuSf0",
+            "title": "Beluga Whale Sounds Like a Human",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qRcy3GBMTrk",
-            "title": "Tenth NYPD Officer Dies By Suicide | NBC Nightly News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "OxUzNldZbt8",
             "title": "Former President Barack Obama Endorses Joe Biden | NBC Nightly News",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "White House Holds Press Briefing: April 9 | NBC News",
             "secondDuration": 3868,
             "group": "group_7"
+        },
+        {
+            "videoId": "VrfrV6lnIao",
+            "title": "Hurricane Elsa Is First of The season, Could Impact Florida Next Week",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "th1k8_aZwK8",
-            "title": "Trump calls NBC's Peter Alexander a \"terrible reporter\" when asked message to Americans | ABC News",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "JncS3qvjOXc",
             "title": "Moore denies allegations in new TV interview",
             "secondDuration": 189,
@@ -121,8 +115,14 @@
             "title": "1 dead, 22 injured in car crash in Times Square",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "CzueRky2Rvk",
+            "title": "Health workers vote to strike demanding borders with mainland China be closed",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

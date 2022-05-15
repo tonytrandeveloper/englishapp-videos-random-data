@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uhoBcqResOQ",
-            "title": "The Federal Death Penalty | 101 | NBC News",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "fSjpTletCpc",
             "title": "NBC News Projects Biden As Apparent Winner In Wisconsin | NBC News",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Putin Recognizes Two Russian Enclaves In Ukraine As Independent",
             "secondDuration": 274,
             "group": "group_7"
+        },
+        {
+            "videoId": "On0F_4DwwgE",
+            "title": "Supreme Court Rejects Maine Church's Request To Block Covid Restrictions",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

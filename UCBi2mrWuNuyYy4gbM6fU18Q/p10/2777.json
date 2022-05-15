@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1WtNvu9rEa4",
-            "title": "ABC News Live: Manafort guilty, Cohen plea deal and Mollie Tibbitts' body found",
-            "secondDuration": 1423,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z_mMQ_j_8Ww",
             "title": "Olympic gymnast files lawsuit over alleged sex abuse",
             "secondDuration": 203,
@@ -61,8 +55,14 @@
             "title": "How did we get here? Americans' response to coronavirus in March",
             "secondDuration": 294,
             "group": "group_7"
+        },
+        {
+            "videoId": "ETzwljdLAXg",
+            "title": "Obama on Trump Relationship",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

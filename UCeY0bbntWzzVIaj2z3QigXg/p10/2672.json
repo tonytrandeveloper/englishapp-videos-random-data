@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i9GpIDZIg5A",
-            "title": "Bill Nye On Helping Kids Understand How Covid Vaccines Work | NBC News NOW",
-            "secondDuration": 481,
-            "group": "group_7"
-        },
-        {
             "videoId": "TLClu1R4ImA",
             "title": "Angry Suspect Chasing And Beating Sheriff's Deputy Is Caught On Camera | NBC News",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "‘They Like Me Very Much’: Trump Discusses The QAnon Conspiracy Theory Movement | NBC News NOW",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "LLpCju9XaBM",
+            "title": "Live: Pentagon Holds Press Briefing Following U.S. Drone Strike In Afghanistan | NBC News",
+            "secondDuration": 1956,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JkmSui5ex9Y",
-            "title": "The Rundown: Top headlines Wednesday: Dec. 9, 2020",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "JuLgqbDg_Yo",
             "title": "Pope speaks of abuse, ignores call to resign",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Black police union chief on Minnesota death: 'This is not new for us'",
             "secondDuration": 302,
             "group": "group_7"
+        },
+        {
+            "videoId": "4pLu87adGVw",
+            "title": "New acting FBI chief pushes back on WH assertion that rank and file had lost confidence in Comey",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

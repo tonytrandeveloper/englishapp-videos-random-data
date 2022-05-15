@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LkPK1lNdB8Q",
-            "title": "Homeless student finishes 500-mile walk to raise funds to end homelessness",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "gwJwoVDJU9A",
             "title": "Oscars Diversity Controversy Grows as Stars Debate Boycott",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "President Obama Loosens Deportation Law for Young Immigrants, Heckler Interrupts Speech",
             "secondDuration": 765,
             "group": "group_7"
+        },
+        {
+            "videoId": "QlPPBt85a7g",
+            "title": "Ring device in family’s bedroom hacked by stranger",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

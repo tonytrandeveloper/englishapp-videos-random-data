@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SmwMZOMt0FY",
-            "title": "CDC authorizes Pfizer booster for 16- and 17-year-olds l ABC News",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "yfdKAyY-cDU",
             "title": "ABC News Live Update: Capitol Police Officer Sicknick to lie in honor on Capitol Hill",
             "secondDuration": 1221,
@@ -61,8 +55,14 @@
             "title": "Swimmer dies from shark attack",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "9E6E-5G6APQ",
+            "title": "50-year-old mother’s hard-earned college diploma",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

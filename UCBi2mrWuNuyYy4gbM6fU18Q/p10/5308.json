@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zDCB4a37gmc",
-            "title": "Consumer Electronics Show (CES) 2013 Recap, Highlights: Sony 4K",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "2EbIk95RqpQ",
             "title": "Obama Pulls Ahead of Romney in New Poll",
             "secondDuration": 172,
@@ -61,8 +55,14 @@
             "title": "Prince William, Kate Middleton Set to Wrap Up Canada Visit",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "k6Q2u_mrFn4",
+            "title": "President Donald Trump holds joint news conference with emir of Kuwait",
+            "secondDuration": 3085,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

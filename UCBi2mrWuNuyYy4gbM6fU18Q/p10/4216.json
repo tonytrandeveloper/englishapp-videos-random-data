@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kIm3cnSqOWw",
-            "title": "Edina Police Release Video of Controversial Incident",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "TPTJSFk0Uo8",
             "title": "School shooting survivors announce march on Washington",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "The Conversation: Happy Birthday New Coke!",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "SaSdTGrCt6w",
+            "title": "Scandal Over Rolling Stone Article Detailing an Alleged Rape at UVA",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

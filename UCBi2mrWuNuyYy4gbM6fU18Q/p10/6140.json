@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E1MX2AySXvQ",
-            "title": "Trump set to make 1st address to UN General Assembly",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "OR4Qx5qDJYA",
             "title": "900,000 children getting COVID vaccines: White House",
             "secondDuration": 167,
@@ -61,8 +55,14 @@
             "title": "Elizabeth Vargas Back Home",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "H3hjxJoDFs0",
+            "title": "The Briefing Room: Michael Cohen's tapes, Trump to invite Putin to White House",
+            "secondDuration": 1510,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3o8-N2e8Vyk",
-            "title": "This Morning’s Top Headlines – June 29 | Morning News NOW",
-            "secondDuration": 986,
-            "group": "group_7"
-        },
-        {
             "videoId": "7vXLN8gSZ9k",
             "title": "U.S. Citizen Among The Dead In Beirut Explosion | NBC Nightly News",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "How An Algorithm Is Fighting The Opioid Epidemic | Mach | NBC News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "j3eJI0x3BhQ",
+            "title": "Donald Trump is the Presumptive GOP Nominee | NBC Nightly News",
+            "secondDuration": 219,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

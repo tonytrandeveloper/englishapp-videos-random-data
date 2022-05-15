@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "452iQ8ttIcc",
-            "title": "Watch Live: President-Elect Joe Biden Addresses The Nation I ABC News",
-            "secondDuration": 1995,
-            "group": "group_7"
-        },
-        {
             "videoId": "CEoQAVNhcJw",
             "title": "Video shows 'Island Lady' casino shuttle boat engulfed in flames",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "Tapper on Rahm Emanuel's Departure",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "PLYy86lC6gA",
+            "title": "Sen. Menendez and Rep. Royce 'This Week' Interview",
+            "secondDuration": 358,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

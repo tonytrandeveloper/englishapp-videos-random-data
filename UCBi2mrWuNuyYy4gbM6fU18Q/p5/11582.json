@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HaqD2PXay7k",
-            "title": "WEBCAST: Kitty Wants A Snack!",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "qfpfUCW9uc4",
             "title": "United joins 2 airlines in canceling Boeing 737 flights",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "The Breakdown: UN urges global action as Taliban takes control of Afghanistan",
             "secondDuration": 2145,
             "group": "group_7"
+        },
+        {
+            "videoId": "pSeLE5wsr2M",
+            "title": "Subway, Jared Fogle Suspend Ties After Raid Tied to Child Porn",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

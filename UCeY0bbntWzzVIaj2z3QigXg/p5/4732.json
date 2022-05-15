@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sXallbsWwpc",
-            "title": "Western Michigan University Students Help Crack 35-Year-Old Cold Case",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "51FDgODqZyE",
             "title": "President Donald Trump Arrives In Singapore For Historic Summit With Kim Jung Un | NBC Nightly News",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "U.S Cases near 13,000, More Than Half In 10 counties  | NBC Nightly News",
             "secondDuration": 724,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vs35nzwvaz8",
+            "title": "Survivor From Capsized Ship Rescued After Two Days At Sea | NBC News NOW",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

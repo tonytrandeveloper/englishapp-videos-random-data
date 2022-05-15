@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SG4TPXbgBn8",
-            "title": "School Clerk Helps Shooting Suspect Surrender",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "5AOyCWB-Jn4",
             "title": "Demonstrators march to protest police shooting of unarmed man",
             "secondDuration": 152,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Americans Head to the Polls",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "tvyfndVckNI",
+            "title": "How Cops Caught Alleged Hit Men in FSU Professor Murder Case",
+            "secondDuration": 473,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

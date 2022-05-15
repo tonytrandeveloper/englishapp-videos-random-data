@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VKJIeWIcsHk",
-            "title": "Hurricane Earl Hits New England",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "E16monmJOwE",
             "title": "How Diana, Kate and Meghan created their own unique fashion statements",
             "secondDuration": 369,
@@ -121,8 +115,14 @@
             "title": "Egypt Elections 2012: Voting to Choose Hosni Mubarak Successor",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "_ayXiSSkbYM",
+            "title": "'20/20': Astor Aura Tinged by Court Drama",
+            "secondDuration": 549,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

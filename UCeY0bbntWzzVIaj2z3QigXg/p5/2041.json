@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VeAUlumaoeY",
-            "title": "Police Clash Violently With Protesters At Hong Kong University Blockade | NBC News",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "VsGySrPpsv8",
             "title": "President Donald Trump Hosts Rally On Eve Of Super Tuesday | NBC News (Live Stream Recording)",
             "secondDuration": 4234,
@@ -31,8 +25,14 @@
             "title": "House Meets As Democrats Consider Impeachment | NBC News",
             "secondDuration": 976,
             "group": "group_7"
+        },
+        {
+            "videoId": "RFf9X-gm8gs",
+            "title": "Live: FBI Holds Presser Regarding Missing N.Y. Woman Gabby Petito | NBC News",
+            "secondDuration": 1175,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

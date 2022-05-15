@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BFDXmEnZbFg",
-            "title": "Trump: Mitt Romney ‘Irrelevant’, ‘Choke Artist’",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "2jZoy8B6YfU",
             "title": "Oregon governor: ‘We are taking action’ on climate change",
             "secondDuration": 359,
@@ -121,8 +115,14 @@
             "title": "Abandoned as babies, adults find clues in search for birth parents: Part 2",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "WrxAgkfIgkg",
+            "title": "The Briefing Room: US/Mexico border, Mueller report, Trump tax returns, climate change",
+            "secondDuration": 1356,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JgbpoPEg-To",
-            "title": "This Police Officer Has A 4-Year-Old Apprentice | NBC Nightly News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "HFpieJ95qeQ",
             "title": "Supreme Court Upholds President Donald Trump's Travel Ban In 5-4 Ruling | NBC News",
             "secondDuration": 202,
@@ -31,8 +25,14 @@
             "title": "Why Do Old People Have Big Ears | 30 STK | NBC News",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "VT_1rV8J780",
+            "title": "Senate Republicans Unveil Sweeping Rewrite Of Tax Code | NBC Nightly News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

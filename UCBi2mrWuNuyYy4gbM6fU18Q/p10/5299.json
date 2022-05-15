@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-xr4k6QFXnQ",
-            "title": "Sen. Portman: 'Encouraged' by Gang of 6 Work",
-            "secondDuration": 442,
-            "group": "group_7"
-        },
-        {
             "videoId": "1qM2R8sF2F0",
             "title": "Biden to impose new travel bans as alarm of new COVID-19 variants grow l GMA",
             "secondDuration": 243,
@@ -61,8 +55,14 @@
             "title": "Battleground Virginia: What the Voters Think",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "ed3jOLPiDuw",
+            "title": "ABC News Live: Trial of Theranos founder Elizabeth Holmes to begin",
+            "secondDuration": 1510,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

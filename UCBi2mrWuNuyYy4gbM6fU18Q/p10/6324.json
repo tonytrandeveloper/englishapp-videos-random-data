@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HDHqrP3FdYs",
-            "title": "\"Scandal:\" Tony Goldwyn and Scott Foley Interview Each Other",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "3y4h0anfk3I",
             "title": "Rescue crews search tornado debris for missing people",
             "secondDuration": 203,
@@ -61,8 +55,14 @@
             "title": "LAPD releases bodycam footage after teen is killed",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "4UV0aTejRnk",
+            "title": "NYC on Edge After Powerful Explosion in Harlem Kills 3",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IAnQGjYvIdA",
-            "title": "Carrie Underwood's Baby, Dogs Saved After Being Locked in Car",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "sSnfZFNJQ1o",
             "title": "Indonesian volcano, a skiing Grinch, Antarctic eclipse: Week in Photos",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Sen. Bob Menendez 'This Week' Intervew",
             "secondDuration": 240,
             "group": "group_7"
+        },
+        {
+            "videoId": "d_CDAamnwxU",
+            "title": "The Rundown: Top headlines today: March 17, 2021",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

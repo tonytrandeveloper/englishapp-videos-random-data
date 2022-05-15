@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zI8ZY7PouNk",
-            "title": "James Holmes Offers Guilty Plea",
-            "secondDuration": 29,
-            "group": "group_7"
-        },
-        {
             "videoId": "kl6s3JEyPIM",
             "title": "Zayn Malik Rips One Direction, Simon Cowell Responds",
             "secondDuration": 42,
@@ -121,8 +115,14 @@
             "title": "Meet the pastor mentoring Justin Bieber, Kyrie Irving",
             "secondDuration": 264,
             "group": "group_7"
+        },
+        {
+            "videoId": "rmSJsLb4zIk",
+            "title": "Who Is the Homeless Man Who Accepted Miley's VMA?",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

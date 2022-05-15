@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_RodRIZEXj8",
-            "title": "Full Fauci Interview: 'A Virus Will Not Mutate Unless You Allow It To Replicate'",
-            "secondDuration": 1012,
-            "group": "group_7"
-        },
-        {
             "videoId": "k-SkZeRJ8AY",
             "title": "Zelenskyy Addresses Possible Chemical Weapons Used In Mariupol",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Inside A Major Medical Center’s Covid Vaccine Distribution Drill | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "rYxP60ZD0Rg",
+            "title": "Can A President Add More Justices To The Supreme Court? | NBC News NOW",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

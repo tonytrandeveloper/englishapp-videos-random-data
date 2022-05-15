@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PTEpvQ1trp4",
-            "title": "Why US officials say Ukraine invasion ‘could happen at any time’",
-            "secondDuration": 402,
-            "group": "group_7"
-        },
-        {
             "videoId": "xln7PdTJESY",
             "title": "Libya Attack: Terror Link?",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "North Korea remains defiant after its failed missile launch over the weekend",
             "secondDuration": 282,
             "group": "group_7"
+        },
+        {
+            "videoId": "FbH1zy9pLL0",
+            "title": "State Department warns Americans to avoid all international travel",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

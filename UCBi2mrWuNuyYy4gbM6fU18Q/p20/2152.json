@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "N2EylkcloAo",
-            "title": "Trump holds a 'campaign' rally a month into his presidency",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "kUC_VLUCXxU",
             "title": "Environmental impact of continuous fires in the West",
             "secondDuration": 198,
@@ -121,8 +115,14 @@
             "title": "Ohio State VS. Oregon: First-Ever College Football Championship",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "a37dnFtnSqM",
+            "title": "The Conversation: World Cup, Digital Edition",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

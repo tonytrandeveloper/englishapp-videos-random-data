@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2trHbtzWAGg",
-            "title": "Rudy Giuliani Defends Donald Trump",
-            "secondDuration": 485,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZcfsgDFMXEs",
             "title": "President Donald Trump delivers remarks on GOP tax bill| ABC News",
             "secondDuration": 2774,
@@ -31,8 +25,14 @@
             "title": "US Navy aircraft crashes into sea near Japan",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "BV1VHKhg124",
+            "title": "'Top Line': O'Donnell, Woodward and Archie Comics",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aBglxa6K8gc",
-            "title": "President Trump's Full, Unedited Interview With Meet The Press  | NBC News",
-            "secondDuration": 2100,
-            "group": "group_7"
-        },
-        {
             "videoId": "9hR2g0-rFiM",
             "title": "California School Shooting: 8-Year-Old, Teacher And Gunman Killed | NBC Nightly News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "At Least 17 Dead In Burkina Faso Terror Attack | NBC News",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "14xkvwQhhAo",
+            "title": "House To Hold Hearings On Bill Requiring Background Checks For Private Gun Sales | NBC Nightly News",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HjyVsJfxXW0",
-            "title": "John Lewis laid to rest, Portland protests, Hurricane Hanna; World in Photos, July 27",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "UZJXhYGkf7c",
             "title": "Farmer Finds Wooly Mammoth Remains in Soy Field",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Fallout after DNI testifies on whistleblower report | ABC News",
             "secondDuration": 289,
             "group": "group_7"
+        },
+        {
+            "videoId": "E30bq7axzfw",
+            "title": "Andrew Yang at 2020 DNC: ‘Our future is now’",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

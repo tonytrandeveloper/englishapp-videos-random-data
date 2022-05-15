@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "97u95CjzJ34",
-            "title": "Heroes Triumphing at the Invictus Games | America Strong",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "fwujErNemic",
             "title": "WEBCAST: Dozens Killed in Mexico Storms",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "Donald Trump, Mike Pence Hit the Campaign Trail",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "zsEKdYgnhxA",
+            "title": "Trump's lawyers call for new investigation of Robert Mueller's Russia probe",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

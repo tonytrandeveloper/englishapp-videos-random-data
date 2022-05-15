@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "shEV62Iyer0",
-            "title": "The 850 Year History That Went Up In Flames In The Notre Dame Fire | NBC Nightly News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "dll5lBRCCUU",
             "title": "Facing Deportation, One Woman Finds Sanctuary In A Church | NBC News",
             "secondDuration": 216,
@@ -61,8 +55,14 @@
             "title": "Do Sanctions Actually Work? | NBC News Signal",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "D7iMDhKNHyM",
+            "title": "MTP At 70: From Martha Rountree To Chuck Todd | Meet The Press | NBC News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

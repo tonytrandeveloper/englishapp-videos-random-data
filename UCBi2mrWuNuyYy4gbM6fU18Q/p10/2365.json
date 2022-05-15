@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "S2b1ckTCCJY",
-            "title": "Instant Index: John Oliver Fills in as Temporary 'Daily Show' Host",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "UPykHPedqoU",
             "title": "New GM CEO Mary Barra: 'I Stayed Focused'",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "US may expand electronics ban on flights from Europe",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "2vdrMjZyuo4",
+            "title": "Still time for Americans to evacuate Afghanistan before tomorrow’s deadline: Pentagon",
+            "secondDuration": 504,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

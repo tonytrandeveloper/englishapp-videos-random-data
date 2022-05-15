@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "xiLR4sCgvnc",
-            "title": "Joe Biden's full speech after becoming president-elect",
-            "secondDuration": 995,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xh52m4GAToQ",
             "title": "Tapper on Cheney's White House Attacks",
             "secondDuration": 149,
@@ -301,8 +295,14 @@
             "title": "Inside Gadhafi's Weird and Eccentric World 2/27/2011",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "7WQ1dZx8Uqk",
+            "title": "Romney's Nomination Marred By Low Popularity Poll",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

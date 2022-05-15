@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "905lWZKQ33Q",
-            "title": "Chicago Cubs Visit Disney World | 2016 World Series Champs",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "HvfLZo5jtIs",
             "title": "Disaster At Sea: Finding Survivors",
             "secondDuration": 339,
@@ -31,8 +25,14 @@
             "title": "Faking It: Knockoff Luxury Goods",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "nAp77N628P4",
+            "title": "Mueller report: What we know about obstruction of justice, collusion",
+            "secondDuration": 523,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

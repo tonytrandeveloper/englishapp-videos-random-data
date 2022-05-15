@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lb7vHpD165Q",
-            "title": "White House announces new regulations on ‘ghost guns’ l ABCNL",
-            "secondDuration": 335,
-            "group": "group_7"
-        },
-        {
             "videoId": "1e1T6iM9UbA",
             "title": "New video shows dramatic high-wire fall",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "SpaceX successfully launches 4 astronauts into space on recycled rocket",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZxAQiD_DTmk",
+            "title": "'Man of Steel' Cast Talk Taking on Superman",
+            "secondDuration": 534,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

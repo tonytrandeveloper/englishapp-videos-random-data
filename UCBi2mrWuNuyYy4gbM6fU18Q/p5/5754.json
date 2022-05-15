@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Nzd7hAchrNA",
-            "title": "Sea lion saved from San Diego highway",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "Fdv7uY7n_rg",
             "title": "Man bungee jumps off highest tower in Macau",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "American hostage released in Afghanistan after 3 years in captivity l ABC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "NQX60KG0xZ8",
+            "title": "All-civilian crew completes 1st full day in space",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

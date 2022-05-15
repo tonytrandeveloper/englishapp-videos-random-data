@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r0q6Kab4zUY",
-            "title": "Live: Minnesota Governor Holds News Conference on George Floyd Protests | NBC News",
-            "secondDuration": 4453,
-            "group": "group_7"
-        },
-        {
             "videoId": "B_9CIjIZTLY",
             "title": "Devin Nunes Calls The Public Impeachment Hearings A 'Show Trial' In His Closing Statement | NBC News",
             "secondDuration": 516,
@@ -61,8 +55,14 @@
             "title": "Full Buttigieg Interview: 'There Are Some X-factors' On Supply Chain Slowdown",
             "secondDuration": 607,
             "group": "group_7"
+        },
+        {
+            "videoId": "yCxq4LcuiJY",
+            "title": "Senate Impeachment Trial Of President Trump | Day 4 | NBC News (Live Stream Recording)",
+            "secondDuration": 33200,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

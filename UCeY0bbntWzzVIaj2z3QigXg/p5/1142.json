@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "K1_qWGTCn6k",
-            "title": "Trump Speaks At Mount Rushmore Event | NBC News",
-            "secondDuration": 7200,
-            "group": "group_7"
-        },
-        {
             "videoId": "JZNuJ-ZpgHc",
             "title": "Oatly Expected To File IPO",
             "secondDuration": 232,
@@ -31,8 +25,14 @@
             "title": "Watch Live: President Donald Trump Delivers Remarks On U.S. 5G Deployment | NBC News",
             "secondDuration": 1303,
             "group": "group_7"
+        },
+        {
+            "videoId": "CUrwX2WAJ84",
+            "title": "Apple Sues Israeli Spyware Company For Selling iPhone Hacking Tools",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

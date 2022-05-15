@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "77fZNgZQTVI",
-            "title": "Police Brutality Allegation Payouts",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "19q1ad29gpg",
             "title": "Former NFL cheerleaders are suing Houston Texans alleging harassment, unfair pay",
             "secondDuration": 511,
@@ -61,8 +55,14 @@
             "title": "TSA Seizes Record Numbers of Guns",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "7jBYVvbiMNY",
+            "title": "Lea Porter | Mom Desperately Searching for Missing Daughter: Part 1",
+            "secondDuration": 402,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

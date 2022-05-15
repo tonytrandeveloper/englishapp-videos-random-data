@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6wo-qyrWx8I",
-            "title": "NBC News Signal - February 7th, 2019",
-            "secondDuration": 1749,
-            "group": "group_7"
-        },
-        {
             "videoId": "JLZjUz9ZTn0",
             "title": "Coronavirus Test Shortage Raises Alarm As Washington State Bans Mass Gatherings | NBC Nightly News",
             "secondDuration": 860,
@@ -61,8 +55,14 @@
             "title": "ISIS Beheads 21, Egypt Retaliates | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "J6VXbK4Gnyw",
+            "title": "This Adorable Jumping Robot Will Lear Right Into Your Heart | Mach | NBC News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

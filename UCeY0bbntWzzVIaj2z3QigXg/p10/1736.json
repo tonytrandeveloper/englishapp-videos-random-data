@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hcBnZykDcAA",
-            "title": "A Grayer Blagojevich Thanks Trump For Commuting Prison Sentence | NBC News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "qvnJNqeKcRk",
             "title": "Houston Astros World Series Victory Parade | NBC News",
             "secondDuration": 8459,
@@ -61,8 +55,14 @@
             "title": "Sen. Toomey: 'Very Skeptical' Over Raising Age For Gun Purchases (Full) | Meet The Press | NBC News",
             "secondDuration": 501,
             "group": "group_7"
+        },
+        {
+            "videoId": "UJTVnbyNXYU",
+            "title": "Texas Anti-Abortion Law Faces Backlash From Texans, Neighboring States",
+            "secondDuration": 209,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CDNGXGuDLmE",
-            "title": "Brett Kavanaugh Supreme Court Confirmation Hearings (Full) | NBC News",
-            "secondDuration": 26788,
-            "group": "group_7"
-        },
-        {
             "videoId": "VWKxtnM4vh4",
             "title": "David Cameron: ISIS Plotting Against UK | NBC News",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "7 Of The Oddest Job Interview Questions | Better | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "x1fQD_HR-FA",
+            "title": "Ballot Counting Underway In Key Battleground State Of Arizona | NBC News NOW",
+            "secondDuration": 260,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

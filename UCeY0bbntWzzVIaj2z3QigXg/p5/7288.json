@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mIH7q7KH9ew",
-            "title": "Trump Invited To House Judiciary Committee’s Impeachment Hearing | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "4fN6uEtYGAE",
             "title": "Julian Assange Addresses Sweden Dropping Rape Charges Against Him | NBC News",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "Biden Announces Release Of One Million Barrels Of Oil Per Day From Strategic Reserve",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "r75qeESkGJQ",
+            "title": "Laura Cooper Recounts Timeline Of Events In Opening Statement At Impeachment Hearing | NBC News",
+            "secondDuration": 793,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

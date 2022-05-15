@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8LyY0zWXh4k",
-            "title": "Taylor Swift Shakes Off Ambush by Rabid Fan",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "TJJ0ay1SiQk",
             "title": "Driver allegedly sleeps on the highway in self-driving Tesla",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "Are We Over-Diagnosing Mental Disorders?",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "brdrFrU-3O0",
+            "title": "Manhunt for smash-and-grab robbers",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

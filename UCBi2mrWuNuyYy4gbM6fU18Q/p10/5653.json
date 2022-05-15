@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "28V0OueOmuU",
-            "title": "Florida State Running Back Turns Himself Over to Police",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "hUJYWEpIwJg",
             "title": "President Biden announces new COVID-19 vaccine mandates",
             "secondDuration": 1902,
@@ -61,8 +55,14 @@
             "title": "NYC Bomb Suspect Pleads Not Guilty to Attempted Murder",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "XqGQjDDo4X8",
+            "title": "Texas Authorities Search for Gunman Who Killed Deputy",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

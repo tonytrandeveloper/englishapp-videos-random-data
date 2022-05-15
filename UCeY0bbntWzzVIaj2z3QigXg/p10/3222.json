@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vdfBMjnqZqM",
-            "title": "Nightly News Full Broadcast - Dec. 19",
-            "secondDuration": 1254,
-            "group": "group_7"
-        },
-        {
             "videoId": "cBNeDUmsSOA",
             "title": "'Say It Ain't Snow!' Roker Forecasts Wintery Weather In May | NBC News NOW",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "Deadly Storms Bringing Severe Flooding to Parts of the South | NBC Nightly News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "Edgn-XIV7EY",
+            "title": "President Trump Demands Sources Be Named For News Stories: ‘Let Them Say It To My Face’ | NBC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

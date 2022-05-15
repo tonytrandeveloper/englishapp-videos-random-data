@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "7ouKamSAdtk",
-            "title": "Louisiana Residents Brace For Hurricane Delta | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "jsVjKnU5QOc",
             "title": "Midterm Elections: Can You Tell Democrats From Republicans? | NBC News",
             "secondDuration": 149,
@@ -301,8 +295,14 @@
             "title": "Donald Trump Fires Back At Hillary Clinton's Critical Speech | NBC News",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "3EYE49K0U4k",
+            "title": "FBI: 160 Case Files Opened Into Capitol Riot Probe | NBC News NOW",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

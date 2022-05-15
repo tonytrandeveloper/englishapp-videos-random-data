@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_q2VTQzt6wY",
-            "title": "Pakistan Plane Crash: No Survivors",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "eUCznRsf1-Y",
             "title": "Wal-Mart's Green Revolution",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Hugh Jackman Rescues Son & Others From Riptide",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "ITRK6hkpEno",
+            "title": "Penn State Punished With Fines for Sexual Abuse Scandal",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

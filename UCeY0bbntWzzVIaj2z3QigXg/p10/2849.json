@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BjMstRTUdtU",
-            "title": "Peaceful Protests Turn Violent In Ferguson | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zph7YXfjMhg",
             "title": "Watch: Trump Dances To ‘YMCA’ At His Campaign Rallies | NBC News NOW",
             "secondDuration": 72,
@@ -61,8 +55,14 @@
             "title": "Michael Brown's Father Addresses The U.N. | NBC News",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "MP0IlRcPyq0",
+            "title": "Cheetah 3 Is A Blind Robot That Doesn’t Need Sensors To Navigate | Mach | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

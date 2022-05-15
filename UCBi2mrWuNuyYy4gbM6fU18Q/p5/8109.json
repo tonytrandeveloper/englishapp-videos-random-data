@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GCeAuO8njJI",
-            "title": "'Black-ish' Is a Sitcom Mixing Comedy with Controversy | ABC News",
-            "secondDuration": 404,
-            "group": "group_7"
-        },
-        {
             "videoId": "2nwZoV7dqoQ",
             "title": "Danger of Wildfires Increases in the West",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Kyrie Irving makes surprise NBA season debut, despite refusing vaccine",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "CtoUrGLCfpk",
+            "title": "Rescued Dog Wins 26th Annual 'World's Ugliest Dog' Competition",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

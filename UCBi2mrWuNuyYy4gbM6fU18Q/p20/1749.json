@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gRP1pvxrWxE",
-            "title": "Deep Freeze Chills Parts of the Northeast",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "LTR-FLp3Gto",
             "title": "Trump faces swift backlash on Syria decision l ABC News",
             "secondDuration": 236,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: 10-Year-Old Driver Crashes",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "mApl3uKPUNk",
+            "title": "4 People Killed When Car Slams Into Crowd at Homecoming Parade",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

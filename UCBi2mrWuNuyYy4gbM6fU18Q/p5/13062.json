@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tqrDWqPMwwc",
-            "title": "Donald Trump Declares War on Apple",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "o9PXacSqY5g",
             "title": "President Obama Campaigns Hard for Hillary Clinton",
             "secondDuration": 176,
@@ -31,8 +25,14 @@
             "title": "Finding Kelsie l 20/20 l PART 1",
             "secondDuration": 366,
             "group": "group_7"
+        },
+        {
+            "videoId": "RDl69Z93YmQ",
+            "title": "4 dead, 1 in critical condition after 'targeted ambush' at LA-area home l ABC News",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

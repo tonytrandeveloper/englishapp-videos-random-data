@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5j9o2N-qNNs",
-            "title": "Most School Shootings Are Preventable According To New U.S. Secret Service Report | NBC Nightly News",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "O4lFyezK4yU",
             "title": "Wisconsin Grapples With Surge In Coronavirus Cases | NBC Nightly News",
             "secondDuration": 138,
@@ -121,8 +115,14 @@
             "title": "Late Night Host Jimmy Kimmel Vs Judge Roy Moore: A Twitter Feud | NBC News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "ftd87dQ3gU0",
+            "title": "Live: Arizona Governor Gives Coronavirus Updates | NBC News",
+            "secondDuration": 4288,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

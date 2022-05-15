@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uV9E1n1q0t0",
-            "title": "NatGeo docu-series ‘Welcome to Earth’ delivers a closer look at the force of nature l NTL",
-            "secondDuration": 481,
-            "group": "group_7"
-        },
-        {
             "videoId": "e37OF9KMSpk",
             "title": "NTSB report released in Kobe Bryant crash l ABC News",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "'20/20': Three Siblings Abandoned at Birth Find Each Other Years Later",
             "secondDuration": 248,
             "group": "group_7"
+        },
+        {
+            "videoId": "sAMvdTHeTHU",
+            "title": "Trump criticized for congratulating Putin",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

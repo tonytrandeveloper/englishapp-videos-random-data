@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cI3oViGiTWU",
-            "title": "East Village Explosion: Two Bodies Recovered",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "FXWvo9_52Ik",
             "title": "Superstorm Sandy: Status of Returning Electricity, Gas Shortages",
             "secondDuration": 237,
@@ -61,8 +55,14 @@
             "title": "Sheriff's Deputy Helps Save 15-Month-Old Baby's Life",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "N7daNxe7JJI",
+            "title": "The Giz Wiz: Computer Add-Ons",
+            "secondDuration": 281,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qYanlvTS6G4",
-            "title": "Winter storm alerts from coast to coast",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "ogyKE-ZwQu0",
             "title": "New Image Released of Drug Kingpin \"El Chapo\"",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "Joseph R. Biden sworn in as 46th president l ABC News",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "WjVAksyQwYE",
+            "title": "Parents settle lawsuit with dentist over death of their daughter",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

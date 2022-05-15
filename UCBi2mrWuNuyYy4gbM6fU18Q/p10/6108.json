@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eWMcDsGXP_8",
-            "title": "Disapproval Rating for President Obama at Record High",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "QSzN0i7TaiE",
             "title": "Deadly California mudslides swallow lives, homes, cars",
             "secondDuration": 372,
@@ -61,8 +55,14 @@
             "title": "Anand Jon: Daring Designer or Predator?",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "25kFVkwTs_M",
+            "title": "16-Year-Old Becomes Fourth Known Person to Survive Brain Amoeba in 50 Years | ABC News",
+            "secondDuration": 465,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

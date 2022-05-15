@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3G7EJYrSKf8",
-            "title": "Remembering the Savopoulos Family Killed in DC Mansion Murder",
-            "secondDuration": 625,
-            "group": "group_7"
-        },
-        {
             "videoId": "hjMyZIZl9CQ",
             "title": "Woman says she was stopped, questioned by Border Patrol after speaking Spanish",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "What It Feels Like to Be a Gamergate Target",
             "secondDuration": 498,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jp10vqY9mNw",
+            "title": "State of the race: Where do the campaigns go from here?",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

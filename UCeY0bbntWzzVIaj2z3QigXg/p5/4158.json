@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JgsG7KvJUT4",
-            "title": "Nightly News Full Broadcast - March 2",
-            "secondDuration": 1377,
-            "group": "group_7"
-        },
-        {
             "videoId": "CPY00aCeruk",
             "title": "Long Lines Form At Food Banks Ahead Of Thanksgiving | NBC Nightly News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Trump Lashes Out at Pence Over Critical Speech",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "QF9hbyu-hYo",
+            "title": "United Airlines Reviewing Flight That Left Passengers Stranded On Ground For Hrs | NBC Nightly News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

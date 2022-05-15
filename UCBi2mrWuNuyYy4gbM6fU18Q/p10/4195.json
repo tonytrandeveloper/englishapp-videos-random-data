@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fXdJgfeO41k",
-            "title": "More than 1.5M sign petition to stop Rodney Reed's execution l ABC News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "quYPlwLTkUs",
             "title": "Jerry Sandusky's Crimes Covered Up: Report",
             "secondDuration": 227,
@@ -61,8 +55,14 @@
             "title": "Louisiana reporting more than 5,000 COVID-19 cases a day l ABC News",
             "secondDuration": 469,
             "group": "group_7"
+        },
+        {
+            "videoId": "fGScAEC9vTw",
+            "title": "American Band Opens Up on Paris Concert Hall Attack",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oXpFq335_sQ",
-            "title": "Pentagon Weighing Options in Syria",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "aVypQ7bDQYQ",
             "title": "‘Jeopardy’ showdown: James faces Emma the librarian",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "America Strong: The Women of CMA",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "s-rQ3r-Q4Kg",
+            "title": "Michelle Obama, Daughters Travel to Morocco",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

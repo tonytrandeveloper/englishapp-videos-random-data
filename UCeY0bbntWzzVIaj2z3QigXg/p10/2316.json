@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5Z31XqGWKFU",
-            "title": "New Warnings About Sleep Aid Side Effects | NBC Nightly News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "4su19B_jWLE",
             "title": "Gender-Bending Halloween Dos & Don'ts | Queer 2.0 | NBC Out",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "U.K. Lawmakers Vote For Brexit Delay | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "V2csqRdafoA",
+            "title": "Anatomy Of A (Big) Lie:  Trump Had Been Laying The Groundwork For His Entire Political Career",
+            "secondDuration": 320,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

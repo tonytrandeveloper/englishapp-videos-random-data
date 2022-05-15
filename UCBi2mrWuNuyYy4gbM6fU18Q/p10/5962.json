@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "a9XO1CEXlvI",
-            "title": "Trump defends Roy Moore",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "-0XBUGUw_Os",
             "title": "Leon Russell Dies at 74",
             "secondDuration": 38,
@@ -61,8 +55,14 @@
             "title": "Trump's chief of staff defends 'candid and strong' relationship with president",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "-eSzhzgDn-s",
+            "title": "Making the Vote",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

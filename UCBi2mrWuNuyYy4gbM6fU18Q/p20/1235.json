@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LPtxkvPYdMk",
-            "title": "Bill O'Reilly fires back after New York Times report",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "5qqaSrWfPf4",
             "title": "UN reports over 2 million refugees have fled Ukraine",
             "secondDuration": 152,
@@ -121,8 +115,14 @@
             "title": "Amy Coney Barrett hearings underway, 2 women take opposing sides on her confirmation",
             "secondDuration": 677,
             "group": "group_7"
+        },
+        {
+            "videoId": "RvpIySenwfk",
+            "title": "Obese Girl Loses 66 Pounds, Maintains Healthy Weight and Diet | Good Morning America | ABC News",
+            "secondDuration": 286,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

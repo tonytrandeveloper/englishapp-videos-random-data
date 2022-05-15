@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "d_CDAamnwxU",
-            "title": "The Rundown: Top headlines today: March 17, 2021",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "kXTcn15U9jg",
             "title": "3 adult bald eagles watch over 3 eaglets in nest along Mississippi River",
             "secondDuration": 83,
@@ -61,8 +55,14 @@
             "title": "Angelina Jolie Prevents Ovarian Cancer with Surgery",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "-4dkR-hNBIo",
+            "title": "This Week: 'On the Trail' in Delaware",
+            "secondDuration": 430,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

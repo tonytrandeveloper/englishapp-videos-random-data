@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ftd87dQ3gU0",
-            "title": "Live: Arizona Governor Gives Coronavirus Updates | NBC News",
-            "secondDuration": 4288,
-            "group": "group_7"
-        },
-        {
             "videoId": "FxKQWPDsAv8",
             "title": "Cindy McCain Honors Friendship Between Joe Biden And John McCain At The 2020 DNC | NBC News",
             "secondDuration": 198,
@@ -61,8 +55,14 @@
             "title": "Counting Calories Is A Ridiculous Way To Try And Lose Weight | Think | NBC News",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "h2QJnv2qggI",
+            "title": "The Pentagon Prepares Pre-Emptive Strike Plan For North Korea | NBC Nightly News",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

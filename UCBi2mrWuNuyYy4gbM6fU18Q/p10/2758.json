@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rl9QJ3gdEm8",
-            "title": "Fauci tries to clarify his answer to a 'hypothetical question' about 'saved lives'",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "T2KVb5KDkJg",
             "title": "Tom Brady Breaks Silence About 'Deflategate'",
             "secondDuration": 260,
@@ -61,8 +55,14 @@
             "title": "Officer Shot Outside a Police Station in Maryland",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "mWu8WicCGrY",
+            "title": "Top Line: $247 Billion Medicare 'Fix",
+            "secondDuration": 557,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

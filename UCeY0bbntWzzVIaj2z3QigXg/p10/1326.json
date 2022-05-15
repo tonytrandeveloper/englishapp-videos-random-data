@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8-KVXH_iOv8",
-            "title": "Meet The Press Broadcast (Full) - August 16th, 2020 | Meet The Press | NBC News",
-            "secondDuration": 2854,
-            "group": "group_7"
-        },
-        {
             "videoId": "ozyjivDaLWc",
             "title": "Biden Unveils Infrastructure Plan: 'It's Big, Yes. It's Bold, Yes' | NBC News NOW",
             "secondDuration": 312,
@@ -61,8 +55,14 @@
             "title": "Full Speech: Biden Gives Update On Rising Tensions Between Russia And Ukraine",
             "secondDuration": 671,
             "group": "group_7"
+        },
+        {
+            "videoId": "d2tHm6aB6io",
+            "title": "Boeing 737 Max Returns To Commercial Passenger Flying | NBC News NOW",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

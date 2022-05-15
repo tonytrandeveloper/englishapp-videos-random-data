@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MkvX_lzeNzo",
-            "title": "It’s UFO Day! Here’s What We Know So Far | Mach | NBC News",
-            "secondDuration": 304,
-            "group": "group_7"
-        },
-        {
             "videoId": "FqeROJjkiwY",
             "title": "Los Angeles Mayor Warns City Could Be Out Of Hospital Beds By Christmas | NBC News NOW",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "One Killed, Six Wounded In Nashville Church Shooting | NBC Nightly News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZmUTJKmk1K8",
+            "title": "Lynn Haven, Fla. Comes Together After Being Devastated By Hurricane Michael | NBC Nightly News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

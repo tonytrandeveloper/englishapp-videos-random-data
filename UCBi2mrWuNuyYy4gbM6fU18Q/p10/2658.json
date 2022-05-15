@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gG7V0ITNnb0",
-            "title": "Feel Good Friday: Family starts ice cream truck to employ special-needs children",
-            "secondDuration": 340,
-            "group": "group_7"
-        },
-        {
             "videoId": "VXz7R-I6sxg",
             "title": "Edward Snowden NSA Leaker: Will Whistleblower Find Asylum?",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "Too Close to God: Susan Schessler's Story",
             "secondDuration": 345,
             "group": "group_7"
+        },
+        {
+            "videoId": "zpVrlNUtM1Y",
+            "title": "Cantor: 'Republicans Do Have A Jobs Plan'",
+            "secondDuration": 612,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

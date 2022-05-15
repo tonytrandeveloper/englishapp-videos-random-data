@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "A08miNxmGL0",
-            "title": "US House of Representatives votes on Hurricane Harvey relief",
-            "secondDuration": 3342,
-            "group": "group_7"
-        },
-        {
             "videoId": "axVkDYPQOsM",
             "title": "Kenya Mall Attack: Terrorists Still Hold Hostages in Westgate Mall",
             "secondDuration": 215,
@@ -31,8 +25,14 @@
             "title": "Julianne Hough Is Engaged, Prince Harry Heads to America and More in Pop News",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "PigKT_Nu-Mk",
+            "title": "Obama Final Speech Before Departing Washington (FULL) | ABC News",
+            "secondDuration": 460,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8LRDvmnFQn8",
-            "title": "Congressional Black Caucus Responds to Trump's Request",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y9uwdp6xJ6Y",
             "title": "The Briefing Room: Iowa & NH, Trump HBCU visit, Syria/Turkey, Katie Hill, Elijah Cummings",
             "secondDuration": 1683,
@@ -61,8 +55,14 @@
             "title": "Pittsburgh Bishop: 'We have followed every step' in responding to abuse victims",
             "secondDuration": 413,
             "group": "group_7"
+        },
+        {
+            "videoId": "8rpVCbFcKlU",
+            "title": "Pluto Close-Up Shows Most Detailed View Yet",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

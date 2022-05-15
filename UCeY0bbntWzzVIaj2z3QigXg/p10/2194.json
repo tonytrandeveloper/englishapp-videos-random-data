@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N4yOIBubHa4",
-            "title": "Police Arrest Suspect Involved In Sacramento Mass Shooting",
-            "secondDuration": 243,
-            "group": "group_7"
-        },
-        {
             "videoId": "9hBZUIvrC7o",
             "title": "Puerto Rican Voters Tie With Cubans For Largest Latino Voting Bloc In Florida | NBC News NOW",
             "secondDuration": 984,
@@ -61,8 +55,14 @@
             "title": "Full Speech: Biden Honors Heroes After Kabul Airport Blast Kills U.S. Service Members",
             "secondDuration": 1701,
             "group": "group_7"
+        },
+        {
+            "videoId": "6siwXaX61iM",
+            "title": "‘The Upcoming Baby:’ Expectant Father Prince Harry Gets Tongue-Tied In Australia | NBC News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

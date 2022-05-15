@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5b1VOXfOR_s",
-            "title": "White House Holds Press Briefing: February 5 | NBC News",
-            "secondDuration": 3731,
-            "group": "group_7"
-        },
-        {
             "videoId": "JTtLImu_YMs",
             "title": "Obama, Pence Hold Dueling Georgia Rallies As Runoff Election Nears | NBC News NOW",
             "secondDuration": 314,
@@ -61,8 +55,14 @@
             "title": "This Morning’s Top Headlines – October 18 | Morning News NOW",
             "secondDuration": 1380,
             "group": "group_7"
+        },
+        {
+            "videoId": "S22yTxxe-KA",
+            "title": "Paul Ryan, Bernie Sanders React To President Donald Trump’s Voter Fraud Claims | NBC News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

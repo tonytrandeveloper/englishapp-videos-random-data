@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GnjaI_N7ejM",
-            "title": "Woman at center of adoption scandal speaks out | ABC News",
-            "secondDuration": 398,
-            "group": "group_7"
-        },
-        {
             "videoId": "atRHAE8Hwow",
             "title": "Best of Jimmy Kimmel, Conan O' Brien, Seth Meyers and More!",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "Coronavirus cases surge in Texas",
             "secondDuration": 444,
             "group": "group_7"
+        },
+        {
+            "videoId": "qqFJd5I3Z4U",
+            "title": "Bill Cosby trial juror speaks out after verdict",
+            "secondDuration": 366,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

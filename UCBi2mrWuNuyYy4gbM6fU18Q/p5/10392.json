@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HlU1uOuFyII",
-            "title": "New PBS Documentary examines why the Confederacy remains controversial",
-            "secondDuration": 582,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZwSVQK7nY8I",
             "title": "Amanda Knox Takes the Stand",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "Couple Faces Jail Over Lost Dr. Seuss Library Book",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "AhVNiF0cZmY",
+            "title": "3 dead in shooting at Pearl Harbor Naval Shipyard",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "x9fNAQGsyWM",
-            "title": "U.S. Businesses Caught In Crossfire Of Trade War | NBC Nightly News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "b8CccpbIdNI",
             "title": "President Donald Trump Hosts Prison Reform Roundtable | NBC News",
             "secondDuration": 1480,
@@ -31,8 +25,14 @@
             "title": "An Alien Object Was Recently Detected In Our Solar System | Mach | NBC News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "UxbKMD2ob9w",
+            "title": "Ebola Containment Assessed By U.S. Ambassador | NBC News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

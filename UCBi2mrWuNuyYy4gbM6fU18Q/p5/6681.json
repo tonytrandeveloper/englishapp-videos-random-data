@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1zn9BOnuid8",
-            "title": "Biden declares that Putin 'cannot remain in power' | ABCNL",
-            "secondDuration": 303,
-            "group": "group_7"
-        },
-        {
             "videoId": "6KAxLZesS48",
             "title": "High gas prices continue to rise across nation l ABCNL",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "Thousands of blood drives canceled because of social distancing",
             "secondDuration": 317,
             "group": "group_7"
+        },
+        {
+            "videoId": "lRB4WsZZBiY",
+            "title": "Officers in George Floyd case appear in court | WNT",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

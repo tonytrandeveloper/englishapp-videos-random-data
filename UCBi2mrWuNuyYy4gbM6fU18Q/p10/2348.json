@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_NaaT3KFjac",
-            "title": "Why Sisters 'Diamond and Silk' Stump for Trump | ABC News",
-            "secondDuration": 550,
-            "group": "group_7"
-        },
-        {
             "videoId": "V0jPyKlLb30",
             "title": "Maryland Shooting Spree | Former Police Officer Allegedly Behind Attacks",
             "secondDuration": 201,
@@ -61,8 +55,14 @@
             "title": "Crippled Woman Becomes Face of Unrest",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "cg4eJy7qgzE",
+            "title": "Security guard arrested in death of US tourist in Costa Rica: Police",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

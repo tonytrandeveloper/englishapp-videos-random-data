@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "WWBHxrBsKgM",
-            "title": "Officer, suspect die in traffic stop shootout l ABC News",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "608lsQfxQk8",
             "title": "Travis Scott faces lawsuits after deadly Astroworld concert l GMA",
             "secondDuration": 300,
@@ -301,8 +295,14 @@
             "title": "‘Xonerated: The Murder of Malcolm X and 55 Years to Justice’",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "W7NNOfkcKRg",
+            "title": "White House press briefing 7/17/17: Breaking down the latest on 'The Briefing Room'",
+            "secondDuration": 3184,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

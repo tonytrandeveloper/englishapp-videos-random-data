@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XZgkkI5kSzU",
-            "title": "What's at Stake on Primary Day?",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "4SZwwc9mlQA",
             "title": "Jim Clyburn takes the stage at the 2020 DNC",
             "secondDuration": 194,
@@ -31,8 +25,14 @@
             "title": "Footage revealed of chilling deadly inmate escape in Iowa",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "A_ot_hfzW3M",
+            "title": "More Democratic candidates announce for 2020",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

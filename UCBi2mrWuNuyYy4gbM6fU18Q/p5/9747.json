@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LIPLapea6Lw",
-            "title": "Zika Virus Concerns Grow",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "GJQWYA7LU94",
             "title": "Enhanced unemployment benefits begin to expire in 4 states",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Growing outrage over Russian atrocities",
             "secondDuration": 397,
             "group": "group_7"
+        },
+        {
+            "videoId": "OPRzWdAt9fk",
+            "title": "Brett Kavanaugh and Christine Blasey Ford testify in Supreme Court hearing",
+            "secondDuration": 36504,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

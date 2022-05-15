@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "a7iKk7fBiUE",
-            "title": "Cory Booker Talks Child Care Costs And ‘What Matters’ Most To Democratic Voters | NBC Nightly News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "1fjFSJEd0WE",
             "title": "This Green Skyscraper Could Help Feed 5,000 People A Year | Mach | NBC News",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "John Kasich On Donald Trump, GOP Race (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 313,
             "group": "group_7"
+        },
+        {
+            "videoId": "wgVm8xW2CDA",
+            "title": "‘Saved In America’ On A Mission To Find Missing Children | NBC Nightly News",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

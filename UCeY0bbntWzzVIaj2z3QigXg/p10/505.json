@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mJ1lzc5EDhw",
-            "title": "President Donald Trump Blasts NATO Ahead Of European Visit | NBC Nightly News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "vzHhcah_bng",
             "title": "Global Markets Drop, Oil Prices Surge In Response To Russia's Attack On Ukraine",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "Measles Outbreak: CDC Confirms At Least 101 Cases | NBC Nightly News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ki_CWFIdcxg",
+            "title": "Yankee Stadium Honors Yogi Berra | Short Take | NBC News",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

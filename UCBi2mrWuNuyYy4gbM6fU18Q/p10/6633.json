@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GgrVwzxUvVA",
-            "title": "Gwyneth Paltrow Reveals Juicy Personal Details",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "vYXocfGNtXk",
             "title": "Mark Zuckerberg Future in Politics?",
             "secondDuration": 275,
@@ -61,8 +55,14 @@
             "title": "'Captain America' star reaches out to 6-year-old who saved his sister",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "IRPpiKofSsc",
+            "title": "Coast Guard rescues 2 missing hikers",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

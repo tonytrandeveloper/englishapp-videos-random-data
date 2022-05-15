@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XJTgnqN_BoA",
-            "title": "US companies help Ukraine l WNT",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "JF0N9rL4WXQ",
             "title": "Chinese military accused in 2017 Equifax breach",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "LA Motorist Pulled From Burning Vehicle",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "lJ_tpeJ8bPI",
+            "title": "Amazon's Voice-Activated Echo Dot One of the Best-Selling Devices Over the Holidays",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

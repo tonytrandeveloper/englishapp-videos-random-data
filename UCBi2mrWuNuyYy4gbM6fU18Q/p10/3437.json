@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gjeDXEiVGbk",
-            "title": "COVID-19 cases rising in nearly half of US",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "Luy4hk_bXo8",
             "title": "Final Presidential Debate on Foreign Policy: Mitt Romney, President Obama to Address Iran",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Rob Ford, Crack Smoking Toronto Mayor, Stars in TV Show Debuting Amid Scandal",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "s0zmGkkNwBw",
+            "title": "At least 1 died, 4 injured in shooting at Virginia hookah bar",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

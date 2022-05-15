@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nYyfnilmcgA",
-            "title": "Hillary Clinton Blasts Brexit As ‘Self-Inflicted Wound’ | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "KW8gSQZMOkU",
             "title": "Which McDonalds Burger Got Axed From The Menu? | NBC News",
             "secondDuration": 42,
@@ -61,8 +55,14 @@
             "title": "On The Record: Jeff Sessions On Russia | NBC News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "PxA3j4OfSEo",
+            "title": "Robert E. Lee Descendant Calls For Removal Of Confederate Statues | NBC News NOW",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

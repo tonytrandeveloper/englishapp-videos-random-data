@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "f9saAkzoIhA",
-            "title": "Why Is This Flu Season So Bad? | NBC Nightly News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "h6F_uleSnMU",
             "title": "Border Patrol Agents Struggle As Migrant Crossings Surge",
             "secondDuration": 293,
@@ -61,8 +55,14 @@
             "title": "Mandatory Evacuations In Louisiana As Storm System Along Gulf Coast Intensifies | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "BgKHpBz72tA",
+            "title": "Blasio: High School Seniors To Be Celebrated With Virtual Graduation Ceremony | NBC News NOW",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

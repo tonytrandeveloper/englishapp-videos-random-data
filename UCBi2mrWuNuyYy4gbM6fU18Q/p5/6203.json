@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X71j641GjHQ",
-            "title": "FDA Approves Contrave Weight Control Drug",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nieiu8tmLIM",
             "title": "Trump Presidential Inauguration 2017 (FULL EVENT) | ABC News",
             "secondDuration": 30785,
@@ -31,8 +25,14 @@
             "title": "London Helicopter Crash: Eyewitness Interview of Crash that Leaves 2 Dead, At Least 13 Injured",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "biorRAQJhH8",
+            "title": "NY Gov. Cuomo: 'You want to go to work? Go take a job as an essential worker.' | ABC News",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

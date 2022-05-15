@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "C6q6nmLlnOY",
-            "title": "'The Briefing Room: Mueller investigation, Stone meeting, Vote 2020, job numbers, Super Bowl",
-            "secondDuration": 1597,
-            "group": "group_7"
-        },
-        {
             "videoId": "1ZAqD4rkSIs",
             "title": "Betty White's 100th birthday",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Former Dem and GOP prosecutors lash out at Trump",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "fM46_Xh5Z50",
+            "title": "Chris Christie's Personal Weight Loss Decision to Get Lap Band",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

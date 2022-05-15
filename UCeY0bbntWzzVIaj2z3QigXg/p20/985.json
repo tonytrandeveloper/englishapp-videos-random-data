@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "j2goPEaCBgc",
-            "title": "NOW Tonight with Joshua Johnson - Apr. 5 | NBC News NOW",
-            "secondDuration": 3224,
-            "group": "group_7"
-        },
-        {
             "videoId": "DYmyWPba3Jg",
             "title": "White House Press Briefing - April 13, 2018 | NBC News",
             "secondDuration": 1226,
@@ -121,8 +115,14 @@
             "title": "How Do Waves Form In The Ocean? | Nightly News: Kids Edition",
             "secondDuration": 1369,
             "group": "group_7"
+        },
+        {
+            "videoId": "b1OdeUUevPc",
+            "title": "Britney Spears’ Father Suspended From Conservatorship",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

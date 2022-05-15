@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SpNZ8AsgLdY",
-            "title": "Injured Student Walks at Graduation for the 1st Time in 4 Years",
-            "secondDuration": 403,
-            "group": "group_7"
-        },
-        {
             "videoId": "Evg_2COHAPY",
             "title": "COVID-19 surges, but hope is on the way",
             "secondDuration": 218,
@@ -61,8 +55,14 @@
             "title": "Jeb Bush Says He Misheard Iraq War Question",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "knmTAqJ-0w8",
+            "title": "Behind Trump's Plan to Move the US Embassy to Jerusalem",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "c8hcFpIJq-s",
-            "title": "President Obama to Make Historic Trip to Cuba",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "tdaUY8bfEQc",
             "title": "Deadly stampede in Israel",
             "secondDuration": 168,
@@ -301,8 +295,14 @@
             "title": "A secret memo written by President Trump's legal team has been leaked",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "zogDqDcEGCc",
+            "title": "FEMA Gets Ready for Hurricane Earl",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

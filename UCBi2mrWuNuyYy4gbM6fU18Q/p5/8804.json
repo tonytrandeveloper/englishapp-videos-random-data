@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i6oLpvV6-rw",
-            "title": "'This Week': Powerhouse Roundtable",
-            "secondDuration": 653,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y5nUdc--q8I",
             "title": "Legal challenges after Trump declares national emergency",
             "secondDuration": 179,
@@ -31,8 +25,14 @@
             "title": "'The Bachelorette' Takes Broadway Stage in 'Aladdin' Group Date",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "dKeyKC8nBWI",
+            "title": "Trump’s defense says 2nd impeachment is ‘an act of political vengeance’ | WNT",
+            "secondDuration": 529,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

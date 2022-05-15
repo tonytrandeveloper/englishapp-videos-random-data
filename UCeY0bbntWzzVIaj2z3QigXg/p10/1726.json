@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mhzSYIxXoFU",
-            "title": "Morning News NOW Full Broadcast - Feb. 23",
-            "secondDuration": 2975,
-            "group": "group_7"
-        },
-        {
             "videoId": "OQmC9nD6pPk",
             "title": "Possible Piece of MH370 Airliner Found off Mozambique | NBC Nightly News",
             "secondDuration": 167,
@@ -61,8 +55,14 @@
             "title": "Record Number Of Children Killed By Flu This Season | NBC Nightly News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "DNRNjMLeoLM",
+            "title": "Los Angeles Bomb Threat Closes All Public Schools | NBC News",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "03QeNefxryA",
-            "title": "Disparity in police response: Black Lives Matter protests and Capitol riot l ABC News",
-            "secondDuration": 552,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bph8gzma-Ko",
             "title": "Sen. Klobuchar speaks at 2020 DNC",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "Running With Bolt",
             "secondDuration": 258,
             "group": "group_7"
+        },
+        {
+            "videoId": "T_L6KWA_dZM",
+            "title": "96-Year-Old Woman Casts Ballot for Hillary Clinton",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

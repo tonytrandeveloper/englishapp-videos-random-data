@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QTmLYYQBZVE",
-            "title": "Trump at rally: ‘You have no choice but to vote for me’ | ABC News",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "qpim6EJyvnI",
             "title": "Burger King Markets New Fries as Healthier",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Trump wiretap allegation source remains unclear | ABC News",
             "secondDuration": 385,
             "group": "group_7"
+        },
+        {
+            "videoId": "k_ze-rOGBDI",
+            "title": "Violent clashes erupt at Trump Hotel in Panama amid management dispute | ABC News report",
+            "secondDuration": 679,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

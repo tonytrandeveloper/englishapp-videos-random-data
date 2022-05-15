@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5bW5Wf_dH7Q",
-            "title": "Whitney Houston National Anthem Super Bowl Performance Video 1991",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "rcUkncyHGRM",
             "title": "Omicron variant accounts for 73% of all cases in US",
             "secondDuration": 549,
@@ -61,8 +55,14 @@
             "title": "Pet fashion show, Will Smith and Hong Kong: World in Photos, Oct. 7",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "KKToTIvK46A",
+            "title": "American Airlines Grounds Half of 757 Fleet, FAA Conducts Monitored Fixes",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

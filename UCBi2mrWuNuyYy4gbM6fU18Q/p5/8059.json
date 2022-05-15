@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3eHqAq4gc2c",
-            "title": "'Black-ish' Brings Debate Over Child Spanking Back Into Spotlight",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "WBBCfdZwJgI",
             "title": "ABC News Prime: America remembers 9/11; George Floyd officers in court; Vanessa Guillen’s legacy",
             "secondDuration": 4162,
@@ -31,8 +25,14 @@
             "title": "Christmas Cooking With Emeril Lagasse",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "-WxKXBi7XPA",
+            "title": "National security team says Russia is trying to meddle in midterms",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

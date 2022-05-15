@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Mop93CJrSX0",
-            "title": "Morning News NOW Full Broadcast - Jan. 19",
-            "secondDuration": 3122,
-            "group": "group_7"
-        },
-        {
             "videoId": "uTlVOjLbawY",
             "title": "Charlottesville Removes Robert E. Lee Statue That Sparked Rally",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "McCarthy Holds Press Conference | NBC News",
             "secondDuration": 1616,
             "group": "group_7"
+        },
+        {
+            "videoId": "s499QBfElcs",
+            "title": "Search Ongoing For Suspects After Shooting Of Two Los Angeles Deputies | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

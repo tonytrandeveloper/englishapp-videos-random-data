@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9qIU53H6blw",
-            "title": "White House Holds Press Briefing: July 27 | NBC News",
-            "secondDuration": 2331,
-            "group": "group_7"
-        },
-        {
             "videoId": "RAWlR6ogQy4",
             "title": "New CDC Numbers Indicate Flu Season Off To A Brutal Start | NBC Nightly News",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "President Trump Tosses Oversized Binders To Highlight Infrastructure Red Tape | NBC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "tmogZdYC6CM",
+            "title": "Notre Dame Hosts First Mass Since Devastating Fire | NBC News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

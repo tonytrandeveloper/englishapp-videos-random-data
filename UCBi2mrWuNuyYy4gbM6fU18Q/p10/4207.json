@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pcI8RawKQuM",
-            "title": "South Pole Rescue Mission Succeeds",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "8XvFWtcdNuM",
             "title": "Trump presents the Presidential Medal of Freedom to Arthur Laffer | ABC News",
             "secondDuration": 4973,
@@ -61,8 +55,14 @@
             "title": "Amazon Prime Day: How to spot fake deals",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "tDfFPpQ1io8",
+            "title": "Day 4 in the Ahmaud Arbery homicide trial set to resume",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

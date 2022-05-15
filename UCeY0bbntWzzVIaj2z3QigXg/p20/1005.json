@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HFAsyCAGwPM",
-            "title": "Chaos, Confusion At Manila Airport After COVID-19 Policy Changes | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "YNa8pcXudCQ",
             "title": "Andrew Cuomo Gives Update On New York Coronavirus Cases | NBC News (Live Stream Recording)",
             "secondDuration": 1945,
@@ -121,8 +115,14 @@
             "title": "Special Report: Trump meets North Korea's Kim Jong Un in the DMZ",
             "secondDuration": 1424,
             "group": "group_7"
+        },
+        {
+            "videoId": "qeqKBBZID4U",
+            "title": "Hundreds Of Homes Lost In Southern California Wildfires | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

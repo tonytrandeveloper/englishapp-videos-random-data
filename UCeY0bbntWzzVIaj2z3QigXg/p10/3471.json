@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K43WveeSexg",
-            "title": "Trump Delivers Remarks On Operation Warp Speed | NBC News",
-            "secondDuration": 1981,
-            "group": "group_7"
-        },
-        {
             "videoId": "fkz3Z1xYJgg",
             "title": "Bill Cosby Sentencing Trial Begins | NBC Nightly News",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Medical Choppers Rush In To Assist Injured In France | NBC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "_aEAg9KMTLw",
+            "title": "North Korean Defector Recovering After Daring Escape | NBC Nightly News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

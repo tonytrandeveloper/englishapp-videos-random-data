@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vj5DiHwziZo",
-            "title": "Miami gets hit harder than expected by Hurricane Irma",
-            "secondDuration": 450,
-            "group": "group_7"
-        },
-        {
             "videoId": "TNB2WLA_eRg",
             "title": "Puppy Born With No Feet Gets Custom Booties",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "Disaster expert on how to move forward after unexpected crises",
             "secondDuration": 372,
             "group": "group_7"
+        },
+        {
+            "videoId": "vfof1cjxYnM",
+            "title": "House Judiciary Committee passes articles of impeachment against President Trump",
+            "secondDuration": 375,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

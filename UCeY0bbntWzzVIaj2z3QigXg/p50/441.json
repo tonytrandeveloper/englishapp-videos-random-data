@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "PMSDBJdq4_s",
-            "title": "Keystone Pipeline Vote Leaves Landrieu Disappointed | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "X7SgCTuVHXc",
             "title": "NBC News Projects Joe Biden Wins Massachusetts Primary | NBC News",
             "secondDuration": 66,
@@ -301,8 +295,14 @@
             "title": "Tulsi Gabbard kicks off 2020 campaign",
             "secondDuration": 8591,
             "group": "group_7"
+        },
+        {
+            "videoId": "PiT6jL4YNP8",
+            "title": "This Morning’s Top Headlines – August 23 | Morning News NOW",
+            "secondDuration": 1254,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

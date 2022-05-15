@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "B2QWt4ST66w",
-            "title": "Fiery Tesla Car Crash Kills Bride-to-Be, Her Boss",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "KXuTQwUZO-A",
             "title": "The Debrief: Severe weather in the Plains, LA car chase, Long Island Sound shark sighting",
             "secondDuration": 1652,
@@ -121,8 +115,14 @@
             "title": "White House press briefing with Sarah Sanders | ABC News",
             "secondDuration": 3052,
             "group": "group_7"
+        },
+        {
+            "videoId": "Iuqkt0cn1hc",
+            "title": "ATT Wireless Bids to Acquire T Mobile",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

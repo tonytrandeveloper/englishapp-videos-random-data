@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vzRgc6d2noY",
-            "title": "Brian Brown on Defense of Marriage Act: 'Failed to Live Up' to Duty 2/25/2011",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "6AdCt6I43n8",
             "title": "The 'House didn't do their homework' in impeachment inquiry: Sen. James Lankford | ABC News",
             "secondDuration": 530,
@@ -61,8 +55,14 @@
             "title": "'Karmin' Interview on 'GMA': Stars Nick Noonan and Amy Heidemann Discuss Covers, New Album",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "9oLaC1VYoTM",
+            "title": "NASA Mars Rover Landing: Curiosity Lands, Beams Back Pictures of Mars Surface",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

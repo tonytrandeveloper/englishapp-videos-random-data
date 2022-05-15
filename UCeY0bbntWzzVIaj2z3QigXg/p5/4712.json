@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9xpo2EEdFtA",
-            "title": "Dramatic Weather Events A Growing Threat | NBC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "tCsFyWxip38",
             "title": "White Customer To Spanish-Speaking Manager: Get Out Of My Country | NBC News",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "McCarthy Slams Rep. Tlaib's Foul Trump Impeachment Language | NBC News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "mbhvOduipr0",
+            "title": "Super Bowl Champs Honored By Hometown Crowd In Kansas City | NBC News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

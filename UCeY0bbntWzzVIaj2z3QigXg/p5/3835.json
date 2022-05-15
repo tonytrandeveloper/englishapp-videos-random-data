@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "849HatS7HG4",
-            "title": "President Donald Trump Announces Grant For Drug Free Communities Support Program | NBC News",
-            "secondDuration": 1636,
-            "group": "group_7"
-        },
-        {
             "videoId": "vBEgx0Rwenc",
             "title": "Shia LaBeouf Goes On A Drunken Rant After Savannah Arrest | NBC News",
             "secondDuration": 59,
@@ -31,8 +25,14 @@
             "title": "Matthew Shepard Laid To Rest At National Cathedral 20 Years After His Murder | NBC Nightly News",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "eEfKKw1-h8c",
+            "title": "President Donald Trump’s Warsaw Speech Covers NATO, Russia and Terrorism | NBC News",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pjN1K_iAKCM",
-            "title": "Suspect arrested after deadly shooting at German synagogue | ABC News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "2kK3sNYhNSA",
             "title": "The Secret Ingredient That Makes Maine Lobster So Delicious Is Being Threatened | ABC News",
             "secondDuration": 519,
@@ -31,8 +25,14 @@
             "title": "ABC News Live Update: Major winter storm moving in from West Coast",
             "secondDuration": 905,
             "group": "group_7"
+        },
+        {
+            "videoId": "xsNkE-nyJCE",
+            "title": "Goodbye Summer, It’s Time to Go Back to School",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

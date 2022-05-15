@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "V-o7KKQ-GMg",
-            "title": "NASA’s Golden Records Coming Back To Life, 40 Years Later | NBC Nightly News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "itK2zNR0w_o",
             "title": "Confirmation Battle Underway For Biden’s Groundbreaking SCOTUS Nominee",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "New Surveillance Video Shows Moments Before Model’s Mysterious Death | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "GoJuYXwZDL4",
+            "title": "Return To Broadway | NBC News NOW",
+            "secondDuration": 1551,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

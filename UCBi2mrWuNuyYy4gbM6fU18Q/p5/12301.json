@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gg-xchC7Vzg",
-            "title": "Tracking endangered lemurs in the heart of Madagascar",
-            "secondDuration": 365,
-            "group": "group_7"
-        },
-        {
             "videoId": "bL_ly0T0Dno",
             "title": "DOJ launches investigation into Minneapolis Police Department",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "FDA set to meet, discuss Johnson & Johnson booster shots",
             "secondDuration": 363,
             "group": "group_7"
+        },
+        {
+            "videoId": "wkoXZfdV-ls",
+            "title": "ABC News Prime: America’s COVID-19 crisis; Trump vs. Biden; Mail-in ballot questions",
+            "secondDuration": 3559,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

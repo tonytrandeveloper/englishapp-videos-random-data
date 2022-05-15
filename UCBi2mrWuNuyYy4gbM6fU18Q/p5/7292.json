@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pAhSCCkRhc8",
-            "title": "Inside the cockpit with the Thunderbird pilots",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "mfsvRftTseQ",
             "title": "Great White Shark Attacks Man off Cape Cod",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "2 explosions kill at least 10 in St. Petersburg",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "bRDn92wOJPE",
+            "title": "Nigella Lawson's Legal Nightmares",
+            "secondDuration": 435,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

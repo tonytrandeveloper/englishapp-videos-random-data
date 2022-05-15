@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dbDKzUWTCRE",
-            "title": "Day 4 of Derek Chauvin trial",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "aPZ9EI3hqlA",
             "title": "Trump silence on Jan 6 riot 'a dereliction of duty': Cheney | ABC News",
             "secondDuration": 369,
@@ -61,8 +55,14 @@
             "title": "Jeff Daniels Interview on HBO's 'The Newsroom,' His Blunt Character and Director Aaron Sorkin",
             "secondDuration": 448,
             "group": "group_7"
+        },
+        {
+            "videoId": "MVX4XWAg7bU",
+            "title": "Sergio Garcia wins the Masters in sudden-death playoff",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

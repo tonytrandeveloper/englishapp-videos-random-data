@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L9QGRclrLr4",
-            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
-            "secondDuration": 1711,
-            "group": "group_7"
-        },
-        {
             "videoId": "O9o6Iwym1mk",
             "title": "Inside U.S. Mission To Counter Russian Aggression In Waters Off Syria: Exclusive | NBC Nightly News",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Flint Residents Face Uncertain Future Amid Ongoing Water Crisis | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "hOkNfdOstR8",
+            "title": "Full San Francisco Mayor: Politics Were 'Clearly A Distraction' For Recalled School Board Members",
+            "secondDuration": 617,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

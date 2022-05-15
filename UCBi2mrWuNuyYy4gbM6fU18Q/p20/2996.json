@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dOZq2RriOQ0",
-            "title": "World News Now Says Farewell to Paula Faris",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZXJEOdHJyBI",
             "title": "NYC Ebola: Officials Try to Calm Public Fears After Ebola Diagnosis",
             "secondDuration": 284,
@@ -121,8 +115,14 @@
             "title": "Oil Platform Explosion: Fire Erupts in Gulf of Mexico",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "qvFCdceutqM",
+            "title": "Snow Storms 2014: Homeowners Shocked by Costly Winter",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

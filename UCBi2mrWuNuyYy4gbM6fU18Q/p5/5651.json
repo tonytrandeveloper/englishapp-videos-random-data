@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L3YYIOCY5j4",
-            "title": "Troops Come Home, Gadhafi's Last Fight",
-            "secondDuration": 380,
-            "group": "group_7"
-        },
-        {
             "videoId": "HpEtSQU-qu4",
             "title": "Opening statements in first public impeachment hearing | ABC News",
             "secondDuration": 1397,
@@ -31,8 +25,14 @@
             "title": "Mel Brooks' son posts message about spreading coronavirus | WNT",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "eGL2F_9zva0",
+            "title": "New York City Greets Pope Francis In Historic Visit",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

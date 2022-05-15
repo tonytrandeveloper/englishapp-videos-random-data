@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "htfhyg9rmAs",
-            "title": "Hostage situation unfolds at Synagogue near Fort Worth",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "u3muDbRDeoQ",
             "title": "Erin Schrode | 25-Year-Old Running for California Office",
             "secondDuration": 185,
@@ -301,8 +295,14 @@
             "title": "What Caused the Germanwings Crash?",
             "secondDuration": 263,
             "group": "group_7"
+        },
+        {
+            "videoId": "RVMQpxw_ix0",
+            "title": "Colossal ship freed from Suez Canal",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

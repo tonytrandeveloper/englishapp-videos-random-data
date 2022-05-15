@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CXGR25neSEE",
-            "title": "Controversy After Fatal Police-Involved Shooting In Georgia | NBC Nightly News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "J-Ps6dzCQ3c",
             "title": "The Issues That Divide In Pennsylvania | NBC News Now",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "London Woman 'Ran For Her Life' After Hearing Gunshots That Killed Alleged Terrorist | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "YE47MA1T3qE",
+            "title": "Floods And Landslides Leave Dozens Dead in Maharashtra, India",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3Hl0eDMMMrg",
-            "title": "Delta’s Latest Safety Video",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "6MD5SU1J97s",
             "title": "California’s escalating COVID-19 crisis",
             "secondDuration": 383,
@@ -31,8 +25,14 @@
             "title": "Doctors to Dolphin's Rescue",
             "secondDuration": 328,
             "group": "group_7"
+        },
+        {
+            "videoId": "ut6_OM4NbXU",
+            "title": "Miracle Mutt: Namath Family Dog Found After 5 Years",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

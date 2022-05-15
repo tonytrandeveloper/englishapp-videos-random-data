@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Pw43WiId4Hw",
-            "title": "Bernie Sanders Lays Out Vision For ‘Medicare For All’ | NBC Nightly News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "cCifhHd5O0Y",
             "title": "The Daily Show's Jon Stewart Replaced By Trevor Noah | NBC Nightly News",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
             "secondDuration": 1060,
             "group": "group_7"
+        },
+        {
+            "videoId": "-LpEvXcJsuM",
+            "title": "Andrea Mitchell: Donald Trump Is 'Completely Uneducated' About The World | Meet The Press | NBC News",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

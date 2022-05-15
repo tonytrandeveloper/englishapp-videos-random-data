@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ud032EvCYHU",
-            "title": "Live: White House Holds Press Briefing | NBC News",
-            "secondDuration": 3495,
-            "group": "group_7"
-        },
-        {
             "videoId": "8cZkd7xXzEE",
             "title": "NBC Nightly News Broadcast (Full) - May 20th, 2021",
             "secondDuration": 1274,
@@ -31,8 +25,14 @@
             "title": "Journey to Palmyra Atoll, the Paradise Where TV Cameras Have Never Been | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "rtWihr1NflU",
+            "title": "Palestinians Clash With Israeli Police At Jerusalem Holy Site",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

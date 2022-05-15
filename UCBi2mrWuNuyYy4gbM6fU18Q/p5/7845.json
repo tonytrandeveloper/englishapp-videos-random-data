@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mMcnGjFKUmg",
-            "title": "Justice Stevens' First TV Interview",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "gtCtUCEG2VE",
             "title": "The Bottom Line on Health Care",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Miles O'Brien Tells Story That Led to Amputated Arm",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "QCznIrbXDB4",
+            "title": "Muralist hopes Ahmaud Arbery tribute will ease racial tensions in Georgia",
+            "secondDuration": 303,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

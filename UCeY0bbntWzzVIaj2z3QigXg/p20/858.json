@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "p_Iev3MPUms",
-            "title": "Virginia Governor Addresses Kidnapping Plot, Says 'No Imminent Threat' | NBC News NOW",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "p7NC9XHMyGs",
             "title": "HHS Secretary Azar: 'The Window Is Closing' To Stop Virus Spread | Meet The Press | NBC News",
             "secondDuration": 473,
@@ -121,8 +115,14 @@
             "title": "Mueller Report: No Trump-Russia Conspiracy Raises Ques Over Obstruction Of CJ | NBC Nightly News",
             "secondDuration": 336,
             "group": "group_7"
+        },
+        {
+            "videoId": "sGaPPJZczhQ",
+            "title": "Ferguson Elects First Black Mayor Nearly 6 Years After Michael Brown's Death | NBC News NOW",
+            "secondDuration": 660,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

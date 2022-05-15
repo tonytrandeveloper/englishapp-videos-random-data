@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "A-QT6BK5ZbU",
-            "title": "New York Fashion Week: Is Imperfect the New Perfect?",
-            "secondDuration": 448,
-            "group": "group_7"
-        },
-        {
             "videoId": "cbmNLu0Mm0w",
             "title": "Trump endorses new immigration plan",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "Biden on Kagan: 'Supremely Qualified'",
             "secondDuration": 247,
             "group": "group_7"
+        },
+        {
+            "videoId": "pZ2keejdYtk",
+            "title": "Clippers Owner Banned for Life: Will He Be Forced to Sell?",
+            "secondDuration": 472,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

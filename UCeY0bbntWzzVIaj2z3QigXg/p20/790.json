@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "k9ikjsueFCo",
-            "title": "California’s Dixie Fire Becomes Nation’s Largest Active Wildfire",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "K3Fl-Tv9tlM",
             "title": "Miserably Hilarious Letters From Sleepaway Camp | NBC Nightly News",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "Christian TV Network CEO Marcus Lamb Dies Of Covid",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "7YHmY_YOcTU",
+            "title": "Black Panther’ Actor Chadwick Boseman Dies At 43 | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

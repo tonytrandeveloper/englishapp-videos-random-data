@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fFX1SWb5PnI",
-            "title": "Justin Trudeau Honored at U.S State Dinner | ABC News",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "s5e8Hvmj7-M",
             "title": "Vaccine Watch: Antibody trial seeks bridge to COVID-19 vaccine",
             "secondDuration": 336,
@@ -31,8 +25,14 @@
             "title": "Weekend Window: Big Bend National Park",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "HDocB6YADDE",
+            "title": "GoPro Extreme Skiers Leaping From Slopes",
+            "secondDuration": 398,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

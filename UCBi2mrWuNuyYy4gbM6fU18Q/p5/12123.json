@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "03x1XO5-zHo",
-            "title": "America, Russia Agree on Syrian Chemical Weapons Deal",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "-LIWFe2qxS4",
             "title": "Dick Cheney 'This Week' Interview - Former Vice President on NSA Spying Revelations and GOP Politics",
             "secondDuration": 547,
@@ -31,8 +25,14 @@
             "title": "ISIS Terrorist? Knife Wielding Terror Suspect Taken Down in Boston",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "dSzIt-TfueQ",
+            "title": "Podcast hosts speak on importance of Latino representation",
+            "secondDuration": 517,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

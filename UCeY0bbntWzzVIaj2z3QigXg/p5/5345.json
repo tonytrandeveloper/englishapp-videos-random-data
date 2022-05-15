@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LLpCju9XaBM",
-            "title": "Live: Pentagon Holds Press Briefing Following U.S. Drone Strike In Afghanistan | NBC News",
-            "secondDuration": 1956,
-            "group": "group_7"
-        },
-        {
             "videoId": "tSiYyejGQRE",
             "title": "Joe Biden Outlines Economic Plan Based On ‘Jobs, Dignity’ | NBC News",
             "secondDuration": 252,
@@ -31,8 +25,14 @@
             "title": "President Obama: We Do Not, And Never Will, Give Into Fear | NBC News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "G_Z2I3sao_U",
+            "title": "Exclusive: Andrea Constand Speaks Out About Cosby’s Release From Prison",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

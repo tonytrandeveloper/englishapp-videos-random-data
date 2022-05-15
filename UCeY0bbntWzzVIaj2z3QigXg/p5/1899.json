@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tN_KjzGRA3w",
-            "title": "Video Shows Lieutenant Mistakenly Shoot His Own Undercover Officer | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "Fxj5K9WLzKg",
             "title": "'Get Out Of My Pub!: Anti-Lockdown Pub Landlord Confronts U.K. Labour Party Leader | NBC News NOW",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "U.S. Working With Taliban To Continue Evacuations Following Attack",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "ehQ4PbPqaY8",
+            "title": "This Morning’s Top Headlines – September 20 | Morning News NOW",
+            "secondDuration": 1136,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

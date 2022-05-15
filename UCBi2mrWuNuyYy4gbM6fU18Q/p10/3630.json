@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yZEerhZwOWM",
-            "title": "Student Arrested in Jessica Ridgeway Murder",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "KYyOai2R7q8",
             "title": "11-Year-Old Girl 'Allergic' to Sunlight | ABC News",
             "secondDuration": 429,
@@ -61,8 +55,14 @@
             "title": "White House tries to put FBI chief's firing behind them",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "h4edEda3124",
+            "title": "Tense showdown during traffic stop along a California highway",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

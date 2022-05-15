@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "44c0YXGYiK8",
-            "title": "‘The worst is over if we continue to be smart’: Gov. Cuomo",
-            "secondDuration": 478,
-            "group": "group_7"
-        },
-        {
             "videoId": "FAPT8ywaCvA",
             "title": "Black maternal mortality in US and its slave origins",
             "secondDuration": 548,
@@ -121,8 +115,14 @@
             "title": "Ebola Outbreak: CDC on Highest Alert",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "aGBalYvDrnA",
+            "title": "Sales of American-made Airstream RVs reach new heights",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

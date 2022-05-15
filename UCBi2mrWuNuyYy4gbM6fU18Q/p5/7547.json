@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0wAsmc-beVY",
-            "title": "Sally Field on Journey from 'Gidget' to 'Lincoln'",
-            "secondDuration": 296,
-            "group": "group_7"
-        },
-        {
             "videoId": "8g1x34Y5MQ0",
             "title": "Hillary Clinton 2016: Did Anthony Weiner Spill Beans on Presidential Run?",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "Elevator Prank With Coffin: Falling Floor Video Gets Sequel, Terrifies More Riders",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ps7WdiGz0gk",
+            "title": "Trump allies face subpoenas in Jan. 6 investigation",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

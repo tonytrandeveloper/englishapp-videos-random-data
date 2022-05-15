@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bkbp8TWJOF0",
-            "title": "‘A Crisis With Global Consequences’: Blinken Seeks Allies To Counter Russian Threat",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "K2phSbi5TlY",
             "title": "AWOL Marine Wanted For Murder Captured After More Than Two-Week Manhunt | NBC Nightly News",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "White House Holds Press Briefing: October 14 | NBC News",
             "secondDuration": 2626,
             "group": "group_7"
+        },
+        {
+            "videoId": "ziWl6rLE4fw",
+            "title": "Live: White House Holds Press Briefing | NBC News",
+            "secondDuration": 1290,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

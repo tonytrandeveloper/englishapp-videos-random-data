@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FwRBOeNvFGI",
-            "title": "'Tik Talk': The 'Old Gays'",
-            "secondDuration": 385,
-            "group": "group_7"
-        },
-        {
             "videoId": "q5ki5zUUU54",
             "title": "Teens fall through ice in Central Park",
             "secondDuration": 46,
@@ -61,8 +55,14 @@
             "title": "How much does a 'middle class' family of 5 earn? | A Hidden America with Diane Sawyer (Extra)",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "rd3xdP4QuME",
+            "title": "MIX: Stuck In Traffic",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4wzOx3Fhf2E",
-            "title": "Mediterranean Diet Could Help Reduce Heart Disease",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "lx0yMzqSUL0",
             "title": "Gabrielle Giffords Faces Jared Loughner In Court: Suspect Convicted, Sentenced to Life in Prison",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Bernie Sanders fires back at Hillary Clinton over new criticism l ABC News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "nl7416JVt7U",
+            "title": "Petraeus Sex Scandal: New Details",
+            "secondDuration": 344,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

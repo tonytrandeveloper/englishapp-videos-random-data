@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ttbrcvVEigw",
-            "title": "Terrorism By The Numbers: A Year Of Violence | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "jLd0lEP_HMw",
             "title": "State Department: At Least 16 Americans Affected In Cuba Embassy ‘Health Attack’ | NBC News",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "U.S. To Evacuate Americans Trapped On Quarantined Cruise Ship Off Japan | NBC Nightly News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "W3XtYw_fXZE",
+            "title": "Trump Gives Farewell Address, Urges Country To ‘Pray’ For Biden Administration | NBC News NOW",
+            "secondDuration": 454,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LngcZIIoZSc",
-            "title": "Anniversary of Capitol siege approaches",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "vqn1bdGsyrw",
             "title": "New details on ex-police officer charged with George Floyd's murder l ABC News",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "Biden on 9/11: 'The World Goes On'",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "bhj0qoKv4ew",
+            "title": "Medical professionals dealing with COVID-19",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

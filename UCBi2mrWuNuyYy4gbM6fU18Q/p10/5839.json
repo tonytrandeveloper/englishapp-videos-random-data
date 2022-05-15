@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yzbiNN9iUbA",
-            "title": "New Information on Female Suspect in Paris Attacks",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "cIUptTUnfvQ",
             "title": "Bob Dylan: In A Minute",
             "secondDuration": 56,
@@ -61,8 +55,14 @@
             "title": "Police hunt for missing Alabama college student | ABC News",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gkt2w1M1hPE",
+            "title": "Interview With Mahmoud Ahmadinejad",
+            "secondDuration": 846,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

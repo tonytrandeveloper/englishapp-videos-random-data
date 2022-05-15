@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YMWS9MXQeZg",
-            "title": "Miss Florida Is In It To Win It",
-            "secondDuration": 549,
-            "group": "group_7"
-        },
-        {
             "videoId": "a65zcTzbZpA",
             "title": "Victims in deadly Mexico ambush laid to rest",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Public health expert discusses next phase of the pandemic",
             "secondDuration": 375,
             "group": "group_7"
+        },
+        {
+            "videoId": "WsRZK2Kvl4g",
+            "title": "The Efforts to Cool Down the Nuclear Reactor",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

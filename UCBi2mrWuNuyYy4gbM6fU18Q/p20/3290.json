@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YNAiqWJQ2Es",
-            "title": "Security breach revealed at JFK International Airport",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "e6KjC98VoqU",
             "title": "House cancels Thursday session after security threats",
             "secondDuration": 414,
@@ -121,8 +115,14 @@
             "title": "Tweeting a Revolution in Tehran",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "5ZRQzN4qtkU",
+            "title": "'I think he almost walks on water': Ohio voter on Trump | ABC News",
+            "secondDuration": 563,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QDvlvOrPu28",
-            "title": "Defamation Suit Filed Against Bill Cosby",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "Drf6DZx44E4",
             "title": "Prince Andrew steps back from public duties l ABC News",
             "secondDuration": 211,
@@ -61,8 +55,14 @@
             "title": "Planet in Crisis",
             "secondDuration": 1383,
             "group": "group_7"
+        },
+        {
+            "videoId": "wanfNUSz1Fg",
+            "title": "Finding Kelsie l 20/20 l PART 4",
+            "secondDuration": 502,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

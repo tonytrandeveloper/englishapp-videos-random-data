@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZzInScX3MrU",
-            "title": "New Star Wars: The Force Awakens Teaser",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wqdcjx1ERgk",
             "title": "Biden's national security team will 'need strong alliances': Adm. William McRaven | ABC News",
             "secondDuration": 490,
@@ -121,8 +115,14 @@
             "title": "Massive snowstorm slams center of the US",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "NSC9QDJoivE",
+            "title": "The Conversation: 'Ground Zero Mosque' Debate",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

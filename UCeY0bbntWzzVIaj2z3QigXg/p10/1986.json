@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZgdGvqOVkeY",
-            "title": "NOW Tonight with Joshua Johnson - Mar. 18 | NBC News NOW",
-            "secondDuration": 3202,
-            "group": "group_7"
-        },
-        {
             "videoId": "6wWcvqEHTqY",
             "title": "North Dakota High School Senior Takes 92-Year-Old Great-Grandma To Prom",
             "secondDuration": 81,
@@ -61,8 +55,14 @@
             "title": "Tropical Storm Nicholas Slams Gulf Coast",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "scFntygqgQA",
+            "title": "Trebek’s Diagnosis Highlights Struggle Of Catching And Treating Pancreatic Cancer | NBC Nightly News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

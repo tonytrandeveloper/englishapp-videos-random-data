@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0Vcq02YCi2w",
-            "title": "How Ghislaine Maxwell allegedly helped Jeffrey Epstein abuse young women | Nightline",
-            "secondDuration": 505,
-            "group": "group_7"
-        },
-        {
             "videoId": "_je7cMS1TWg",
             "title": "Cancer Teen Wants to Stop Chemo Therapy",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Facebook Introduces Graph Search Beta",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "RkxdDpma5mI",
+            "title": "WHO reports number of COVID-19 infections on the verge of 100,000 | WNT",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

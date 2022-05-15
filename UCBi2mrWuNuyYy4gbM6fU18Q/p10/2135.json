@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "behqs0ta-Aw",
-            "title": "FBI joins NYPD for subway shooting probe",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "PPpyfRLMo2I",
             "title": "Dog Lounges In Hot Tub | ABC News",
             "secondDuration": 182,
@@ -61,8 +55,14 @@
             "title": "Ballot Watch: Combating voter disinformation in the 2020 election",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "XF1Fqjnbdgk",
+            "title": "An increase in domestic violence has been reported due to the pandemic",
+            "secondDuration": 291,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

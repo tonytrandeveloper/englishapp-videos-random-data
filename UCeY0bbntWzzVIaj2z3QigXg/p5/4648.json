@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wLF0mmPhM6w",
-            "title": "Biden Administration Trying To Reverse Racist Effect Of Infrastructure Projects",
-            "secondDuration": 352,
-            "group": "group_7"
-        },
-        {
             "videoId": "W5sVUdnBss0",
             "title": "American Airlines Flight Attendant Suspended After Incident Caught On Camera | NBC News",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "At Least 22 Killed In Manchester Arena Explosion | NBC News",
             "secondDuration": 331,
             "group": "group_7"
+        },
+        {
+            "videoId": "bXHml3VLNis",
+            "title": "Jeff Bezos Makes History With All-Civilian Spaceflight",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

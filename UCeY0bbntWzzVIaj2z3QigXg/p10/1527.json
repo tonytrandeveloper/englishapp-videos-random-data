@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DpbInv9ZPqI",
-            "title": "Should We Have A Maximum Wage? | Think | NBC News",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "hTEkFcEy4kE",
             "title": "Johnson & Johnson Asks FDA To Authorize Covid Vaccine | NBC Nightly News",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Dr. Fauci: Reports Of A Spent Vaccine Stockpile Was ‘Just A Misunderstanding’ | Meet The Press",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "k0t4PvW7DMs",
+            "title": "What The Trump’s Attacks Mean For Democratic Party | NBC News Now",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

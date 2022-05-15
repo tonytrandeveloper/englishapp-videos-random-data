@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4X0xKSBvqvE",
-            "title": "Rikers Correction Officer | A Day in the Life",
-            "secondDuration": 213,
-            "group": "group_7"
-        },
-        {
             "videoId": "0qpObqukO_U",
             "title": "Democratic Showdown: Hillary Clinton in Preparation Mode for Debate",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "Inside the New Ku Klux Klan",
             "secondDuration": 320,
             "group": "group_7"
+        },
+        {
+            "videoId": "WwJyX15R4rQ",
+            "title": "Disgraced Theranos founder Elizabeth Holmes in court",
+            "secondDuration": 215,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

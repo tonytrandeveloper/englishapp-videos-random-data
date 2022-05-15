@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "56qnYN8x5LI",
-            "title": "Out Of This World: 9-Year-Old Becomes An Astronaut For A Day | Nightly News: Kids Edition",
-            "secondDuration": 1237,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ule5gHrArKo",
             "title": "Rebuilding Normal: Mass Shooting Survivors' Journey Of Recovery | NBC News",
             "secondDuration": 260,
@@ -61,8 +55,14 @@
             "title": "Pelosi: Trump's Response To Coronavirus Has Been 'Opaque And Often Chaotic' | NBC News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "dDupNqJYLMo",
+            "title": "Police Looking For Suspect In 'Brutal Double Murder' In Virginia",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

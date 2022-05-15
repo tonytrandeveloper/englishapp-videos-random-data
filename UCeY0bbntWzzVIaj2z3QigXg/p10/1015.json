@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SRG7oKDKQLU",
-            "title": "Egyptian Mummies Discovered After Being Buried For More Than 2,600 Years | NBC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "_9OFpQPoCRY",
             "title": "Princess Diana Remembered | NBC Nightly News",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Walmart Phasing Out Greeters, Sparking Fears Among Workers With Disabilities | NBC Nightly News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wm4vaVRNT64",
+            "title": "House Democrats Seek Vote To Create An Independent Commission | NBC News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

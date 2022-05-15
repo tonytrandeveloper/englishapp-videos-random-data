@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N75fpp09sBo",
-            "title": "This music teacher composed a team of 3D printers to help COVID-19 frontline workers",
-            "secondDuration": 569,
-            "group": "group_7"
-        },
-        {
             "videoId": "ArDh17XYZH0",
             "title": "Briefing Room: Americans divided on impeachment, 2020 primaries, Trump becomes Florida resident",
             "secondDuration": 1256,
@@ -61,8 +55,14 @@
             "title": "Huma Abedin: 'I had to dig my way out of my low point'",
             "secondDuration": 511,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q4_srp2_5IY",
+            "title": "Navy Seal Receives Medal of Honor for Heroic Rescue in Afghanistan",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

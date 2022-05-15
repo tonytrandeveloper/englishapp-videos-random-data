@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-Hy4yxClhF4",
-            "title": "Watch: Bodycam Captures Phoenix Police Officers Ambushed By Suspect",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "X3rSLU9v4lQ",
             "title": "White House Unveils New Covid Plan, No Longer Recommends Contact Tracing",
             "secondDuration": 268,
@@ -61,8 +55,14 @@
             "title": "The Best Way To Lose Weight Boils Down To These Three Things | Better | NBC News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "b-dC77l9JqU",
+            "title": "Hurricane Elsa Hits Barbados",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

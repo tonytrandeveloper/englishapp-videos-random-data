@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4vCk_YsAzc4",
-            "title": "Academy Changing Rules to Make Oscars 'Significantly More Diverse' | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "mxGAyutKGB8",
             "title": "NFL Commissioner Roger Goodell: We Believe Everyone Should Stand During Anthem | NBC News",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Live: Biden Delivers Remarks On The American Rescue Plan | NBC News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "vq9qfXVMOGE",
+            "title": "First Train Arrives In Hoboken Since September Crash | NBC News",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6p2o4AkLjd0",
-            "title": "Biden: 'Pride Is Back At The White House'",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "6-2qurk22h0",
             "title": "Fox News Fires Bill O’Reilly After Sexual Harassment Claims | NBC Nightly News",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "Travel Insurance Purchases Increase as Covid Cases Rise",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "a4vZJgpitJI",
+            "title": "Michelle Obama Speaks At Voter Registration Rally | NBC News",
+            "secondDuration": 1471,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

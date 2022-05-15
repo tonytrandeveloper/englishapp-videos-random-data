@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xKvCV65-l5w",
-            "title": "The Conversation: Remembering John Lennon",
-            "secondDuration": 241,
-            "group": "group_7"
-        },
-        {
             "videoId": "4avKfz1zwRY",
             "title": "Dow Jones closes down over 1,000 points | ABC Radio Coverage",
             "secondDuration": 356,
@@ -61,8 +55,14 @@
             "title": "20 Arrested in IRS Scam",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "63xg0b8jmFg",
+            "title": "Surgery: Vertical Sleeve Gastrectomy",
+            "secondDuration": 468,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

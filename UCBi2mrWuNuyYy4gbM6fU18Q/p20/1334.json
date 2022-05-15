@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GqUzd8-1kdY",
-            "title": "Jihadi Forces in Iraq Close in on Baghdad",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "iAbc12Bq8-g",
             "title": "President Donald Trump remarks at National Association of Manufacturers",
             "secondDuration": 2835,
@@ -121,8 +115,14 @@
             "title": "Bush remembers his father: 'He listened and he consoled'",
             "secondDuration": 466,
             "group": "group_7"
+        },
+        {
+            "videoId": "LVt45UFsy6E",
+            "title": "From Headshot to Mugshot: Model's Fall From Grace",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "86-c0IPTdVQ",
-            "title": "Russia Launches Airstrikes Targeting ISIS in Syria",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "3iGoXDceyJ4",
             "title": "Idaho Families Walk 19 Miles in the Snow",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "New video shows spark that started California wildfire l ABC News",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "tJPcPd5s8vA",
+            "title": "Apple’s major environmental announcement | GMA3",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V9IkHQDrSnI",
-            "title": "Greek activities halted at Texas State following student's death",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "ka9SlEWGNQI",
             "title": "Obama, Steph Curry Hit the Links",
             "secondDuration": 22,
@@ -31,8 +25,14 @@
             "title": "Bernie Sanders Blasts Hillary Clinton's Refusal to Debate as 'Insulting' to Voters",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "hQD8XX3sUmY",
+            "title": "ABC News Prime: 8 killed in San Jose shooting; Trump facing legal jeopardy; Ransomware threat",
+            "secondDuration": 3600,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

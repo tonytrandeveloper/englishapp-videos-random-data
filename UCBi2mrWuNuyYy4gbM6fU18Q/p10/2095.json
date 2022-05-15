@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ds9tsJRupaw",
-            "title": "Chicago celebrates St. Patrick's Day by dyeing river green",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "kRAZx3ODgyQ",
             "title": "Mourners in Houston pay respects to George Floyd | ABCNews PRIME",
             "secondDuration": 319,
@@ -61,8 +55,14 @@
             "title": "Lawyer says Amber Guyger guilty verdict ‘a victory for black people’",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "8DdN8NS840k",
+            "title": "Destruction of a Hospital In Afghanistan Leaves 22 Dead",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oiMtMmStgBA",
-            "title": "Johnny Manziel Flips Off Redskins | Schadenfreude | NBC News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "PVYgWN7w4z0",
             "title": "FBI Confirms Brian Laundrie’s Remains Found in Florida Reserve",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "During Trump Administration DOJ Subpoenaed Phone Records of Lawmakers",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "hDcbtISi_gM",
+            "title": "Elevator Drops 84 Floors In One Of Chicago’s Tallest Buildings | NBC Nightly News",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

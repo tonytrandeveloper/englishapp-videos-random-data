@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z_seirpAkm8",
-            "title": "President Donald Trump delivers remarks on the economy | ABC News",
-            "secondDuration": 1660,
-            "group": "group_7"
-        },
-        {
             "videoId": "lacbvIly04E",
             "title": "Hospitalizations from the flu virus continue to rise",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "NBA coach accused of sexual assault",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "hOF_YJrz0jM",
+            "title": "Famed Editor's Revealing New Video",
+            "secondDuration": 319,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

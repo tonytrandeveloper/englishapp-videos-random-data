@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6JZbF9zeMK8",
-            "title": "Dennis Walcott: \"For student success, it takes...\"",
-            "secondDuration": 13,
-            "group": "group_7"
-        },
-        {
             "videoId": "YoWxvqvNn3g",
             "title": "Kamala Harris Promises Protection For DACA Recipients, Ending Private Detention Centers | NBC News",
             "secondDuration": 159,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump Defends Navy SEAL Move: ‘I Will Stick Up For The Warriors’ | NBC News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "nfDKPHrT-FE",
+            "title": "What The U.S. Can Learn From Europe's Coronavirus Strategy | NBC Nightly News",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

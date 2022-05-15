@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eo_LTHae-YU",
-            "title": "Nightly News Full Broadcast - March 14",
-            "secondDuration": 1171,
-            "group": "group_7"
-        },
-        {
             "videoId": "tR7ARSwwXu0",
             "title": "What Is Trump’s Future After Acquittal? | NBC Nightly News",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Infrastructure Plan Inches Closer To A Deal",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "mkzbwHUP-n4",
+            "title": "Dr. Birx Warns Of Social Distancing Through Summer As States Begin To Reopen | NBC Nightly News",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

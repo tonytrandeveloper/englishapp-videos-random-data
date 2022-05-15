@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_EewojkdDVg",
-            "title": "Prosecutors consider charges against woman in fetus' death",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "8nHU0d8gBU8",
             "title": "Dow Closes at Record High",
             "secondDuration": 41,
@@ -61,8 +55,14 @@
             "title": "By the Numbers: 'The Batman' hits theaters",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "exSTTEBNiVw",
+            "title": "Protesters in Hong Kong demonstrate against new national security law passed by China | ABC News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

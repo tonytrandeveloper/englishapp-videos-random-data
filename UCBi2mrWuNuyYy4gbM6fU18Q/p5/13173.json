@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bhSa38NzYnA",
-            "title": "Danger in the Backyard: Propane Grill Explosion",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "GPqe10RrE6Q",
             "title": "FBI investigating death aboard Princess cruise ship in Alaska",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "US employers added 431,000 jobs in March",
             "secondDuration": 236,
             "group": "group_7"
+        },
+        {
+            "videoId": "butptWTpUns",
+            "title": "Navy reports race to rescue F35 stealth fighter jet from South China Sea",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

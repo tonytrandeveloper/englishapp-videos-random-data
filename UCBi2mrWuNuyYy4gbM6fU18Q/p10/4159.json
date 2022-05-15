@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ntP7asLgvFE",
-            "title": "Community impact of Ahmaud Arbery murder trial",
-            "secondDuration": 509,
-            "group": "group_7"
-        },
-        {
             "videoId": "IE9UVS1WsyM",
             "title": "From small town life to stardom: Luke Bryan on overcoming tragedy and his success",
             "secondDuration": 322,
@@ -61,8 +55,14 @@
             "title": "Manhunt after police shooting in California | WNT",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "4N7VbzOR6vk",
+            "title": "Free Falling Gas Prices",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

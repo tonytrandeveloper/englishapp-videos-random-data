@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "TcZNkx4w9KQ",
-            "title": "Taylor Swift Throws a Baby Shower for Jaime King",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "UIMgVR8C0Z4",
             "title": "2 US Swimmers Pulled From Flight in Rio",
             "secondDuration": 299,
@@ -301,8 +295,14 @@
             "title": "New Hampshire man hospitalized after bee swarm attack",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "VnxmQMLzbpc",
+            "title": "Dr. Geoffrey Tabin Helps Blind Ethiopians Gain Sight",
+            "secondDuration": 258,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GKcFQKn1F3k",
-            "title": "Attack on San Diego synagogue leaves 1 dead",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "A7rx8R_xKDg",
             "title": "Massachusetts Senate Candidate Elizabeth Warren: Remember What the Recklessness on Wall Street Did",
             "secondDuration": 172,
@@ -31,8 +25,14 @@
             "title": "Tents pop up along Mexican border for migrant children housing",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "l22LiTcCn58",
+            "title": "Interview with Austan Goolsbee",
+            "secondDuration": 473,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

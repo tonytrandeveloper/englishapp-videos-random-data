@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JN3skOu0EDk",
-            "title": "Coast Guard searches for missing helicopter in Hawaii",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Ja7LlNax_g",
             "title": "Widespread protests continue over killing of Stephon Clark by Sacramento police",
             "secondDuration": 539,
@@ -61,8 +55,14 @@
             "title": "Larry Kudlow on U.N. climate change report: 'I don't think we should panic'",
             "secondDuration": 561,
             "group": "group_7"
+        },
+        {
+            "videoId": "V9IkHQDrSnI",
+            "title": "Greek activities halted at Texas State following student's death",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

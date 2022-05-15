@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MNHomUL3OWw",
-            "title": "18-Year-Old High School Football Player Collapses",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "JbgxeW9nBS8",
             "title": "Deadly cyclone tears through India",
             "secondDuration": 47,
@@ -61,8 +55,14 @@
             "title": "Millions at risk of eviction as rent comes due",
             "secondDuration": 214,
             "group": "group_7"
+        },
+        {
+            "videoId": "Okdtv2G0OzU",
+            "title": "Attorney Gloria Allred speaks on disgraced movie mogul Harvey Weinstein guilty verdict",
+            "secondDuration": 486,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

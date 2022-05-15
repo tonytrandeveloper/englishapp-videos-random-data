@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "39VStQjVv5s",
-            "title": "Former News Anchor Describes Gunfight With Alleged Robber",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "rRAvM93svQ8",
             "title": "Rick Santorum on the Payroll Tax Cut",
             "secondDuration": 61,
@@ -121,8 +115,14 @@
             "title": "Suni Lee wins gymnastics all-around gold after Simone Biles steps aside",
             "secondDuration": 450,
             "group": "group_7"
+        },
+        {
+            "videoId": "IAiHC-BQLQE",
+            "title": "Volunteers in California brave the fires to rescue animals from the flames",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

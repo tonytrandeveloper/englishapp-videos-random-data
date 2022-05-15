@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "P11wilPZPFk",
-            "title": "Democratic Debate: Watch Castro Go After Biden And Yang's 'Big' Surprise | NBC News",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "b6bdN1qwvR4",
             "title": "Full Sen. Johnson Interview: 'Congress Is Really Diminished' | Meet The Press | NBC News",
             "secondDuration": 580,
@@ -121,8 +115,14 @@
             "title": "NBC News Signal - November 1st, 2018",
             "secondDuration": 1587,
             "group": "group_7"
+        },
+        {
+            "videoId": "gawu24t2Lco",
+            "title": "Uber Says It’s Relaunching Self-Driving Cars With Major Safety Upgrades | NBC Nightly News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

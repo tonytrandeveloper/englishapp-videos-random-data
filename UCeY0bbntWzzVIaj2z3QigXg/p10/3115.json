@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i0Bu-34fctA",
-            "title": "White House Condemns London Attack, Confirms President Trump's Call With PM May | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "nTTRRSvVWcg",
             "title": "Veteran Posts Stunning Photos Of Salt Lake City Clinic Exam Room | NBC Nightly News",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "More Heroin, Less Pot? | Flashback | NBC News",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "d1EHEQFAdvc",
+            "title": "President Donald Trump Faces Border Wall Challenges As Democrats Prepare For 2020 | NBC Nightly News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

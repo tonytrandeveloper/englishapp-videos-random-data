@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1aaNhhR29wQ",
-            "title": "'10% Happier with Dan Harris' and Sharon Salzberg",
-            "secondDuration": 3474,
-            "group": "group_7"
-        },
-        {
             "videoId": "CpYuoa7aPeI",
             "title": "Hero Pulls Man From Fiery Car Crash [RAW VIDEO]",
             "secondDuration": 83,
@@ -61,8 +55,14 @@
             "title": "'Dancing With the Stars' Finalists Perform on 'GMA': Chelsea Kane and Mark Ballas' Samba",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "vQwlsfthFjw",
+            "title": "Kim Kardashian Pregnant: Kanye West, Kardashian Announce First Baby Together",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

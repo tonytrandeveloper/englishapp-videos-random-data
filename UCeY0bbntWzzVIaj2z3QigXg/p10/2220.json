@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wlQvWfOJsG0",
-            "title": "President Donald Trump Delivers Remarks On Infrastructure To Ohio Union Workers | NBC News",
-            "secondDuration": 3542,
-            "group": "group_7"
-        },
-        {
             "videoId": "BCUhjdd7Aro",
             "title": "Authorities Speak On Cleveland Killer Manhunt | NBC News",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "Live: L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
             "secondDuration": 3063,
             "group": "group_7"
+        },
+        {
+            "videoId": "fJLGuQy1XTo",
+            "title": "Colorado Lawmaker’s Letter Inspires Love for Black Churches | NBC Nightly News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

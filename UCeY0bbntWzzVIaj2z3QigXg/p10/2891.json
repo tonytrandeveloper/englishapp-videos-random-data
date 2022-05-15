@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "O8R_k_CrxXU",
-            "title": "White House: ‘We Keep Our Options Open’ On Dealing With Iran | NBC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "0Sy-EHBAWf8",
             "title": "Americans Evacuated From Quarantined Cruise Ship Off Japan | NBC Nightly News",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "Teachers Threaten To Strike Against In-Person Learning Amid Coronavirus Pandemic | NBC News NOW",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "4e9S32QNpGQ",
+            "title": "Bipartisan Senate Group Moves Forward With Own Infrastructure Plan",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

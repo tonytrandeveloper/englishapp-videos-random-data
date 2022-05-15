@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HpHhsLi7ef4",
-            "title": "Major storm causing treacherous travel conditions",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "RdekhraH7qI",
             "title": "Markets set to open after Election Day l GMA",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Concerns mount over disappearance of Chinese tennis star l GMA",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "P_6t4m895VQ",
+            "title": "States across America take 1st steps to reopen",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

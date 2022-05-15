@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "r-4sRo1wvEg",
-            "title": "The Conversation: Third World America",
-            "secondDuration": 282,
-            "group": "group_7"
-        },
-        {
             "videoId": "KDBVcmvrNn4",
             "title": "Rob Ford, Crack Smoking Toronto Mayor, Refuses to Step Down: 'I'm Not an Addict'",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "Grandmother, Dog Rescued After 9 Days in Arizona Wilderness",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "fmUIkNza6kk",
+            "title": "Susan B. Anthony Grave Covered with 'I Voted' Stickers",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sXsOVAa8FAU",
-            "title": "Captain Surprises Son With Flight Back From Deployment",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "bVEaTJqY7uw",
             "title": "CT Screening Reduces Lung Cancer Deaths",
             "secondDuration": 165,
@@ -121,8 +115,14 @@
             "title": "Massive evacuation underway due to fires in Australia l ABC News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "KCRIt47hpfE",
+            "title": "Nerves of Steel",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

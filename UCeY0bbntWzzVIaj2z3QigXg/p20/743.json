@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tpk8cgrLlSM",
-            "title": "A $30 Augmented Reality Headset That’s Made From Cardboard | Mach | NBC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "36__PM2CZwA",
             "title": "Family Speaks Out After Daughter Body-Slammed By School Resource Officer | NBC Nightly News",
             "secondDuration": 110,
@@ -121,8 +115,14 @@
             "title": "Amazon Under Fire As QAnon Book Climbs Best-Seller List | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "f0x1A2M132k",
+            "title": "White House Holds Press Briefing: March 26 | NBC News",
+            "secondDuration": 2203,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

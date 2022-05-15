@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4r2ag2vXjGw",
-            "title": "A Rare Look Inside Trump’s Mar-a-Lago Club | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "5YEyMeZS3mE",
             "title": "Passenger Kicked Off Flight For Odor: 'I Shower Every Day!' | NBC News",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "What Would It Take To Bring Down Soaring Gas And Energy Costs?",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "LKtjQ6Rf8e0",
+            "title": "L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
+            "secondDuration": 3849,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

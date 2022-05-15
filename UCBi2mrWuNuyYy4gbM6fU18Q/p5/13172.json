@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NS8S2AZzmSw",
-            "title": "Republican Debate Shuffles Candidates | ABC News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "uFaFJmKXl4M",
             "title": "Family of LSU pledge killed in suspected hazing incident speaks out",
             "secondDuration": 400,
@@ -31,8 +25,14 @@
             "title": "Preventing Tragedy in the Water This Summer",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "bhSa38NzYnA",
+            "title": "Danger in the Backyard: Propane Grill Explosion",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

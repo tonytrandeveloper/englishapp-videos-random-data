@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Lq4UUhv2URU",
-            "title": "Pope Francis' Message to the President",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "p1pwyv23HyA",
             "title": "Vietnam Vet Uses Horses to Help Returning Soldiers Heal",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Allyson Felix looks to make history in her fifth Olympics",
             "secondDuration": 578,
             "group": "group_7"
+        },
+        {
+            "videoId": "hm4BCwGYhHo",
+            "title": "Teens Struck By Lightning Speak Out (03.16.11)",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

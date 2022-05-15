@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0-0mzeBgjMA",
-            "title": "‘Clinton Cash’ Fallout",
-            "secondDuration": 423,
-            "group": "group_7"
-        },
-        {
             "videoId": "3fFPslBcJ1M",
             "title": "Bernie Sanders delivers speech after projected win in Nevada caucuses",
             "secondDuration": 1399,
@@ -31,8 +25,14 @@
             "title": "Haiti after the Earthquake: 1 Month Later",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "Oc0At28MPVE",
+            "title": "Images show smiling passengers moments before fatal helicopter crash",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

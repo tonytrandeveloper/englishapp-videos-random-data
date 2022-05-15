@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "oplQtv0bcgM",
-            "title": "Explosion outside airport in Kabul: Pentagon reports",
-            "secondDuration": 1150,
-            "group": "group_7"
-        },
-        {
             "videoId": "ilMDAc-yqr4",
             "title": "Gov. Cuomo's office presents a video showing what \"New York tough\" looks like",
             "secondDuration": 165,
@@ -301,8 +295,14 @@
             "title": "11-Year-Old Lung Recipient Sarah Murnahan Leaves Hospital",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "QbTXkOwKg00",
+            "title": "Family Installs Electric Fence to Protect Trump Signs",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

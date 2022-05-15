@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "XoLLaPsWgOE",
-            "title": "Morning News NOW Full Broadcast - June 8 | NBC News NOW",
-            "secondDuration": 2913,
-            "group": "group_7"
-        },
-        {
             "videoId": "q__doNkOjE0",
             "title": "The Race to 2020 Starts Today: NBC News and MSNBC Launch Network-Wide Coverage Canvassing the Nation",
             "secondDuration": 119,
@@ -301,8 +295,14 @@
             "title": "President Donald Trump Makes Historic Visit To Western Wall | NBC News",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "R7Eel0B9uE8",
+            "title": "California Tour Bus Crash Kills More Than A Dozen | NBC Nightly News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qcUMVj2GeBM",
-            "title": "Trump Holds First Rally Since Leaving Office | NBC News NOW",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "wUGz8jO-LBw",
             "title": "‘Concussion’ Shines Light on Brain Injuries and Football | NBC Nightly News",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "How Amazon Is Defending Itself Against Weighted Search Result Accusations | NBC News Now",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "asfzn-ZbwsI",
+            "title": "Russian Intelligence Service Arrests Members of Ransomware Gang REvil",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "8-G4DaU-Rrc",
-            "title": "'GMA' Hot List: Three Winning Tickets Sold in $1.6 Billion Powerball Jackpot",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "8cGJWw-RlqE",
             "title": "Dangerous travel conditions up and down the East Coast | World News Tonight",
             "secondDuration": 206,
@@ -301,8 +295,14 @@
             "title": "Ebola: 'Heroic' Nurse 1st to Contract the Virus in US",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "_s6PygG-k0A",
+            "title": "WEBCAST: Prom 70 Years Later!",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

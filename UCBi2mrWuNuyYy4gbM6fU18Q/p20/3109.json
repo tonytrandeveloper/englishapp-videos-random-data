@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IurS09fTh-I",
-            "title": "Wing Walker and Pilot Killed in Air Show Disaster",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "W2jpCTiECpY",
             "title": "Mitt Romney VP Pick: Swinging Key Swing States in His Favor?",
             "secondDuration": 135,
@@ -121,8 +115,14 @@
             "title": "Test Driving Toyota",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "7xjzD-nfzck",
+            "title": "White House responds to political fallout from coronavirus",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "e3DXNCkWTnc",
-            "title": "Bullied on the Bus: The Gift",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "twNaMXqnZkE",
             "title": "FACEBOOK WEBCAST",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "Brain-Eating Amoeba Infects Girl, 12, During Swim in Lake",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "Agq78fmYYq4",
+            "title": "Hillary Clinton Discusses Private Email, Donald Trump, Iran",
+            "secondDuration": 368,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

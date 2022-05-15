@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hPc1f8Rgavw",
-            "title": "Lincoln: Daniel Day-Lewis, Steven Spielberg on Movie's Personal Impact",
-            "secondDuration": 357,
-            "group": "group_7"
-        },
-        {
             "videoId": "dJheerZWd4g",
             "title": "Todd Akin Refuses to Drop Out of Race",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Trump, Clinton Trade Jabs Over Mexico Trip, Tax Returns",
             "secondDuration": 507,
             "group": "group_7"
+        },
+        {
+            "videoId": "LmW8cCGaYhc",
+            "title": "Amy Winehouse's Last Days",
+            "secondDuration": 299,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

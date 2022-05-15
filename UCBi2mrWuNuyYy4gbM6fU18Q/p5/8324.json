@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tHMVmuRnaik",
-            "title": "Joe Biden, Kamala Harris talk COVID-19 and taxes with ABC's David Muir l The Ticket - Part 1",
-            "secondDuration": 828,
-            "group": "group_7"
-        },
-        {
             "videoId": "5uFU0Pty-WA",
             "title": "Mistrial in Vanderbilt University Rape Case",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Blue Ivy Pictures Hit the Web",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "nGpgPHazvNU",
+            "title": "Lt. Johnny Mercil testifies at Derek Chauvin's trial",
+            "secondDuration": 645,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

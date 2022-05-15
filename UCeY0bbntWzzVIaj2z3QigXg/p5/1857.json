@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OeOyRPxwTdM",
-            "title": "Manafort Lied About Sharing Polling Data With Russian Linked To Intelligence Services | NBC News",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "UIvXjKUYCyw",
             "title": "How Do Text Messages Work? | Nightly News: Kids Edition",
             "secondDuration": 1214,
@@ -31,8 +25,14 @@
             "title": "Pelosi: Tonight Is About ‘Restoring The Constitution’s Checks And Balances’ To Trump | NBC News",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "TX_WaNnvgNU",
+            "title": "National Security Adviser John Bolton Speaks At The Federalist Society | NBC News",
+            "secondDuration": 3120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

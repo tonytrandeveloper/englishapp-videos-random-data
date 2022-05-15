@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cVUuYIKlu4k",
-            "title": "2012 Election Results; California's 'Frakenfood' Vote, Legalization of Gay Marriage, Pot",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "sNZvIgA0DIc",
             "title": "President Obama and the People Town Hall: A National Conversation",
             "secondDuration": 3593,
@@ -121,8 +115,14 @@
             "title": "Lady Gaga Reveals Financial Woes",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "9RyTYbdpMsQ",
+            "title": "Planned Parenthood president reacts to Texas’ abortion ban taking effect",
+            "secondDuration": 371,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

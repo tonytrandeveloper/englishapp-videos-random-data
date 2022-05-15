@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Wx7ph0Mk4bA",
-            "title": "\"The Bachelor\" Season 20 Pre-Finale Recap | ABC News",
-            "secondDuration": 317,
-            "group": "group_7"
-        },
-        {
             "videoId": "0v7Q1x-nDDc",
             "title": "Bringing Illness Into the Office: How to Avoid the Flu at Work",
             "secondDuration": 75,
@@ -61,8 +55,14 @@
             "title": "Jon Stewart Prepares to Signoff One Last Time",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "DL_dmN2Ck10",
+            "title": "Juju Juggles Halloween",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

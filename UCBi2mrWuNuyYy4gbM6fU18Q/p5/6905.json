@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DL_dmN2Ck10",
-            "title": "Juju Juggles Halloween",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "2dZiX8PCxWQ",
             "title": "Teen pilot lands plane safely after losing wheel just after takeoff",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "What to expect from Trump, Putin meeting",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "l-DW2sh5h7c",
+            "title": "Head of the CDC Under Fire",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H-7XuqEO0fg",
-            "title": "Uncertainty Surrounds Roger Ailes' Future at Fox News | NBC Nightly News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "4JqeLbe91tE",
             "title": "Senators Grill Pharma CEOs On Rising Prescription Drug Costs | NBC News",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "360 Video: The World’s Fastest Zip Wire | NBC Nightly News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "K43WveeSexg",
+            "title": "Trump Delivers Remarks On Operation Warp Speed | NBC News",
+            "secondDuration": 1981,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

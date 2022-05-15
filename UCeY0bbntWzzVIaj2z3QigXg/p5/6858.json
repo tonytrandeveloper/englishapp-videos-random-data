@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "weK4mI4rVLU",
-            "title": "NBC News Correspondent Describes Scene In Kharkiv After Being Targeted By Overnight Airstrikes",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "tZuaumsMd2E",
             "title": "A Brief History Of Donald Trump's Mar-A-Lago | NBC News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Trump Signs Executive Order, Touts ‘Unprecedented Pressure’ On Human Traffickers | NBC News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "8_dA2ZJlMM8",
+            "title": "Shooting At Wisconsin Casino Hotel Leaves Three Dead, Including Suspect | NBC News NOW",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

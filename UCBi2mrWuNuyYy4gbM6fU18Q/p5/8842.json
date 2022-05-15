@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wqI4rmvPUsQ",
-            "title": "Hurricane Michael viewed from space",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "jO-AKRR7Yuc",
             "title": "Adoptive Parents Give Away Child With FASD",
             "secondDuration": 384,
@@ -31,8 +25,14 @@
             "title": "Paul Walker Killed in Los Angeles Car Crash",
             "secondDuration": 316,
             "group": "group_7"
+        },
+        {
+            "videoId": "mQb2S4DIcNc",
+            "title": "Donald Trump Appears to Invite the Russians to Hack Hillary's Emails",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NMeeqHYvQZk",
-            "title": "NBC News’ Lester Holt Goes Inside Lab Creating Potential Coronavirus Treatment | NBC Nightly News",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "dJYs_N_GaDo",
             "title": "Deadly Overnight Tornadoes Strike Several States",
             "secondDuration": 348,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Bans Transgender People In U.S. Military | NBC Nightly News",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "xuJ3yeDLuHA",
+            "title": "Marc Short: Warriors Were First to Politicize White House Visit | Meet The Press | NBC News",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

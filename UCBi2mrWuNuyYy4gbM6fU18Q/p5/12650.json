@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IHCjMbogxWQ",
-            "title": "‘Stand up and clap for Col. Vindman’: Biden",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "Aj3gFYbe1YA",
             "title": "Kelly Clarkson Describes Her Journey to Stardom",
             "secondDuration": 361,
@@ -31,8 +25,14 @@
             "title": "The Accused l 20/20 l PART 2",
             "secondDuration": 463,
             "group": "group_7"
+        },
+        {
+            "videoId": "lm7MFRb38QI",
+            "title": "US border chief on child deaths in CBP custody: 'Absolutely devastating for us'",
+            "secondDuration": 647,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

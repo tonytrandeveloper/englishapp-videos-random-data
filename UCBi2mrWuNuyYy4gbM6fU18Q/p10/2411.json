@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KAyirI4T0_o",
-            "title": "Inside Mississippi’s last abortion clinic as Supreme Court battle looms",
-            "secondDuration": 551,
-            "group": "group_7"
-        },
-        {
             "videoId": "IHMU7nbJHn4",
             "title": "Senate passes legislation to permanently support 9/11 victims fund",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Rep. Andy Barr responds to Biden’s State of the Union address",
             "secondDuration": 313,
             "group": "group_7"
+        },
+        {
+            "videoId": "EjCsK1NzuLc",
+            "title": "Martin Shkreli's fate in hands of the jury",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ldLRkYfGb5w",
-            "title": "Morning News NOW Full Broadcast - September 30",
-            "secondDuration": 3321,
-            "group": "group_7"
-        },
-        {
             "videoId": "sq_0MqxCXkI",
             "title": "Full Panel: Negotiators Deadlocked On Relief Bill | Meet The Press | NBC News",
             "secondDuration": 493,
@@ -31,8 +25,14 @@
             "title": "Could FBI Analysis of Video Exonerate Officer in Walter Scott Shooting? | NBC Nightly News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "6lSUk9zQCxM",
+            "title": "LIVE: White House Holds Press Briefing | NBC News",
+            "secondDuration": 2481,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z-AHTuUotLM",
-            "title": "Texas Officer Investigated After Shooting Unarmed Black Teen",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "-mtcbYdg2A4",
             "title": "3 killed, 3 injured when beach bluff collapses",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "ABC News Prime: Georgia's sweeping election overhaul; Severe weather; GOP leaders' border tour",
             "secondDuration": 3615,
             "group": "group_7"
+        },
+        {
+            "videoId": "shh-uw2i60I",
+            "title": "Miss America 2018 leads the call for Gretchen Carlson to resign",
+            "secondDuration": 343,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

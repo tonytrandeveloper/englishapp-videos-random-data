@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kP1vYnExV4g",
-            "title": "'This is not permission for widespread removal of masks': Dr. Rochelle Walensky | ABC News",
-            "secondDuration": 445,
-            "group": "group_7"
-        },
-        {
             "videoId": "A4qOl8PUXkc",
             "title": "Latest on COVID-19 vaccine rollout and the new coronavirus mutation in UK",
             "secondDuration": 416,
@@ -31,8 +25,14 @@
             "title": "NFL's Redskins Doesn't Offend Most Native Americans, New Poll Says",
             "secondDuration": 30,
             "group": "group_7"
+        },
+        {
+            "videoId": "UG_6WOIGa30",
+            "title": "Katy Perry Takes on Hollywood",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

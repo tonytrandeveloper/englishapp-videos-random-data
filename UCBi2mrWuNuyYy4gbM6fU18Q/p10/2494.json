@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rC1AuSpeAs0",
-            "title": "Pelosi insists Trump's removal from office not a lost cause",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "O8-Qgq-v-Lk",
             "title": "'There's overwhelming understanding that Donald Trump must be defeated': Sanders | ABC News",
             "secondDuration": 494,
@@ -61,8 +55,14 @@
             "title": "Khan Academy: Learn Everything, Online",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "MylGfTNgrOI",
+            "title": "The Debrief: Record-breaking cold, 2020 Democratic challengers, Jussie Smollet investigation",
+            "secondDuration": 1221,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

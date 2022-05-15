@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "M3B9yhsOXpY",
-            "title": "'I feel very confident about the decision we made' on vaccine: FDA commissioner | ABC News",
-            "secondDuration": 461,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bavx-OAD4io",
             "title": "'I would welcome the appointment of a Black female to the Court': Sen. Collins | ABC News",
             "secondDuration": 403,
@@ -61,8 +55,14 @@
             "title": "Possible Sniper? Growing Fears Along Stretch of American Highways",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "n2sqZxIgPWo",
+            "title": "Trump threatening to shut down the government if he doesn't get border wall",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

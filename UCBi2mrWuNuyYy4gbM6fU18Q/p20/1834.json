@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QckmghsIapM",
-            "title": "Top Line: Health Care Summit Showdown",
-            "secondDuration": 339,
-            "group": "group_7"
-        },
-        {
             "videoId": "iY8UMWM0aPc",
             "title": "Bruce Jenner Sued Over Fatal Car Crash",
             "secondDuration": 132,
@@ -121,8 +115,14 @@
             "title": "Donald Trump appears to back away from his campaign promise to build a US-Mexico border wall",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "qYanlvTS6G4",
+            "title": "Winter storm alerts from coast to coast",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

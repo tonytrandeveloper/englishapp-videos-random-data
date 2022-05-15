@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FijutZQTy5M",
-            "title": "Vice President Mike Pence visits Las Vegas",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "-AuuUBGRiOA",
             "title": "First lady Melania Trump unveils official policy platform: 'Be Best'",
             "secondDuration": 226,
@@ -31,8 +25,14 @@
             "title": "Dianna Agron Interview 2013: Working on 'The Family' has 'Been a Dream' for the 'Glee' Star",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "XidXi3EqPko",
+            "title": "The mental health stigma in African American communities affected by COVID-19",
+            "secondDuration": 326,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

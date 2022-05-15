@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Esn8jlV5bhk",
-            "title": "Dallas Cowboy Jerry Brown Jr. Killed in Alleged Drunken Driving Crash",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "GJS64GsbSSs",
             "title": "Limo Set on Fire at Trump Inauguration Parade: CAUGHT ON TAPE",
             "secondDuration": 337,
@@ -61,8 +55,14 @@
             "title": "Canadian Wildfire State Of Emergency | City Evacuated",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "FlelgbUeU80",
+            "title": "Derek Chauvin trial enters day 7",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pLq6yqL3Y9Q",
-            "title": "Nightly News Full Broadcast (May 16th)",
-            "secondDuration": 1135,
-            "group": "group_7"
-        },
-        {
             "videoId": "-jI26lVcfSc",
             "title": "White House Press Secretary Sarah Huckabee Sanders Press Briefing | NBC News",
             "secondDuration": 1330,
@@ -31,8 +25,14 @@
             "title": "The Impact TV Shows Can Have On Mental Health And Suicide Risk In Teens | NBC News Now",
             "secondDuration": 204,
             "group": "group_7"
+        },
+        {
+            "videoId": "U4qL638DJyQ",
+            "title": "How To Survive Black Friday Crowds — And Avoid Being Trampled | Better | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HSi35ybVux0",
-            "title": "The Statue of Liberty Opens Again",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "g96ZR4ysy34",
             "title": "Coronavirus, spring and elephants: World in Photos, April 6",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Bronx Zoo Tiger Attack; Powerful Animal Mauls Young Man",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "cXGBgiWCqZc",
+            "title": "Senate votes 53-47 to confirm Ketanji Brown Jackson",
+            "secondDuration": 502,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

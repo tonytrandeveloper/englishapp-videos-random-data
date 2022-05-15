@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tk_PesEArAA",
-            "title": "White House press briefing on FBI Deputy Director Andrew McCabe stepping down   | ABC News",
-            "secondDuration": 2134,
-            "group": "group_7"
-        },
-        {
             "videoId": "6HZvb3B0o1M",
             "title": "More than 300,000 customers without power after Hurricane Delta",
             "secondDuration": 166,
@@ -31,8 +25,14 @@
             "title": "NFL 'caved' to Trump and fan base with new policy: Washington Post's Wesley Lowery",
             "secondDuration": 718,
             "group": "group_7"
+        },
+        {
+            "videoId": "5HtiVe3HA9M",
+            "title": "Record number of women of color running for office | ABC News",
+            "secondDuration": 726,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HXAHCJf7WIk",
-            "title": "Billy Ray Cyrus: Fame 'Is a Dangerous Animal'",
-            "secondDuration": 409,
-            "group": "group_7"
-        },
-        {
             "videoId": "s4LV0tBZncI",
             "title": "On the front lines of the opioid crisis across the US: Part 1",
             "secondDuration": 658,
@@ -31,8 +25,14 @@
             "title": "Orlando Attack Video Shows Horrific Moments",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "AHHrWBckrP8",
+            "title": "Obama on Deadly Attack in Munich",
+            "secondDuration": 25,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

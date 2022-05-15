@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SWu0GikVDiA",
-            "title": "WEBCAST: Wild Weather",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "48adj7l96sY",
             "title": "John Legend and Common Cozy Up with Oscar",
             "secondDuration": 202,
@@ -61,8 +55,14 @@
             "title": "Ski Chairlift Accidents Across the Nation",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "w7lz-jsuNEk",
+            "title": "Emergency Workers Rush to the Reactor",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

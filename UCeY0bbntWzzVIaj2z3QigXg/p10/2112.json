@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D7iMDhKNHyM",
-            "title": "MTP At 70: From Martha Rountree To Chuck Todd | Meet The Press | NBC News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "6y8OMRMgryk",
             "title": "On The Issues: Teacher’s Pay | NBC News Now",
             "secondDuration": 194,
@@ -61,8 +55,14 @@
             "title": "Nightly News Full Broadcast - Dec. 10",
             "secondDuration": 1257,
             "group": "group_7"
+        },
+        {
+            "videoId": "RFhCLTjAp-4",
+            "title": "Lawmakers: Classified Briefing About FBI Investigation Into Trump’s 2016 Campaign | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "A06u46HW-v0",
-            "title": "Judge Terminates Conservatorship Over Britney Spears",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "lQGsr9HAQ2E",
             "title": "Texas Gov. Abbot Signs Controversial Elections Integrity Bill Into Law",
             "secondDuration": 131,
@@ -301,8 +295,14 @@
             "title": "Man Who Chased Texas Church Shooting Suspect: 'I Just Did What I Thought Was Right' | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "QH02tIwEfMw",
+            "title": "Plan To Rename Denali Draws Critics From Ohio | Short Take | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

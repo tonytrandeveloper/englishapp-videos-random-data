@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TvJJJwN4E80",
-            "title": "Heavy rain expected to hit Puerto Rico",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "4pYCctsdN9Q",
             "title": "Could Air France Flight 447 Have Been Saved?",
             "secondDuration": 372,
@@ -31,8 +25,14 @@
             "title": "Obama FULL Pentagon Press Conference (8/4/16)",
             "secondDuration": 3835,
             "group": "group_7"
+        },
+        {
+            "videoId": "rkJZR6a6B04",
+            "title": "Shooting spree near Penn State leaves 3 dead",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "J2BjV0ntIlY",
-            "title": "Las Vegas Attack: New Video Show Concertgoers Running For Their Lives | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "bFcPIIRJGz4",
             "title": "Texas Gunman Escaped From Mental Health Facility In 2012, Documents Show | NBC Nightly News",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "Nobel Prize For Literature Honors Post-Colonial Novelist Abdulrazak Gurnah",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "3vgU3hAfues",
+            "title": "Bernie Sanders: Tim Kaine Does Not Share My Political Views (Full) | Meet The Press | NBC News",
+            "secondDuration": 571,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

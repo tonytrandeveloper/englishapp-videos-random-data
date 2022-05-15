@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FJMBMBD7tPg",
-            "title": "Moammar Gadhafi Captured in Libya; Rebels in Sirte Claim Libyan Leader Killed",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "0vbplrxtqKE",
             "title": "China hotel collapses with quarantined coronavirus patients inside",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Trump celebrates passage of Obamacare replacement bill",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "bNaPQzbNrhQ",
+            "title": "House passes the Violence Against Women’s Act",
+            "secondDuration": 471,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

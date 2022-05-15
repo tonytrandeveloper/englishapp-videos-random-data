@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5P85Bd0mwZg",
-            "title": "'This Week': Powerhouse Roundtable",
-            "secondDuration": 480,
-            "group": "group_7"
-        },
-        {
             "videoId": "rJWwgkETSKc",
             "title": "Analyzing the situation at the US Capitol",
             "secondDuration": 403,
@@ -121,8 +115,14 @@
             "title": "Delaware's Unlikely Tea Party Hero",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "BT8iAIh_hFM",
+            "title": "Lady Gaga Oprah Interview: Artist Discusses Going Silent, Motherhood and Finding a Husband",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yInJcDvau4k",
-            "title": "Happy New Year from MSNBC",
-            "secondDuration": 233,
-            "group": "group_7"
-        },
-        {
             "videoId": "e-E5l2ouxeA",
             "title": "Global Protests: From Lebanon To Chile, Inside What Citizens Are Fighting For | NBC News Now",
             "secondDuration": 255,
@@ -31,8 +25,14 @@
             "title": "Dozens Killed In Escalating Israel-Hamas Violence",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "LgAw2FfaK48",
+            "title": "Big Bird Puppeteer Retiring After 50 Years | NBC Nightly News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

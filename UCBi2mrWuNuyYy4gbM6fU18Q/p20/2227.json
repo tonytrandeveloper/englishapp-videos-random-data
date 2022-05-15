@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6lkY_mGfMyQ",
-            "title": "FBI’s New Strategy to Hunt Down Suspected Homegrown Terrorists",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "fXjMK89y75I",
             "title": "Boeing 737 passenger jet crashes off Indonesia",
             "secondDuration": 134,
@@ -121,8 +115,14 @@
             "title": "Charlie Sheen Returns to TV in FX's 'Anger Management' | Good Morning America | ABC News",
             "secondDuration": 349,
             "group": "group_7"
+        },
+        {
+            "videoId": "wzkBxIWbi6U",
+            "title": "Trump’s resignation would be 'the best thing for the country to heal': Kinzinger | ABC News",
+            "secondDuration": 270,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

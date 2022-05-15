@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uLQHCuLG41M",
-            "title": "Nightly News Full Broadcast - Jan. 10",
-            "secondDuration": 1056,
-            "group": "group_7"
-        },
-        {
             "videoId": "kxjm6eQaFwM",
             "title": "Pope Francis Celebrates Mass with 300,000 in Rain-Soaked Kenya | NBC Nightly News",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Rocco Sicuranza: \"For student success, it takes...\"",
             "secondDuration": 12,
             "group": "group_7"
+        },
+        {
+            "videoId": "iSc5awGKuSU",
+            "title": "Community On Justice For Antwon Rose: ‘We Demand Results’ | NBC BLK | NBC News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

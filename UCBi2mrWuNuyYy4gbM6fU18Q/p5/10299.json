@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VijFo4-Chw0",
-            "title": "Fashionable Technology",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "uNAj0pNsTbE",
             "title": "Philip Seymour Hoffman Dead: Found in NY Apartment From a Heroin Overdose",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Usain Bolt Challenged by Prince Harry on the Track",
             "secondDuration": 40,
             "group": "group_7"
+        },
+        {
+            "videoId": "O2Zcib3aDL4",
+            "title": "Luke Perry remembered after his death at 52",
+            "secondDuration": 374,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

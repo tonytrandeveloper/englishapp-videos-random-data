@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "P8lc2Hj4nBM",
-            "title": "Secretary Steve Mnuchin Doesn't Regret Government Plane Request | Meet The Press | NBC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "ThhQQ8XzCoc",
             "title": "Desperate Villagers Rescued From Tree As Floods Hit Millions In India | NBC News",
             "secondDuration": 62,
@@ -31,8 +25,14 @@
             "title": "Airlines Focus On Air Quality To Ensure Passengers’ Safety | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "koKAa9p0la0",
+            "title": "Coronavirus Survivor Speaks Out After 6-Week Hospitalization: ‘This Is Serious’ | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "o25m6ESx4wg",
-            "title": "Trump Publicly Calls On Putin For Dirt On Biden",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "D94yt3ditog",
             "title": "NBC News Exclusive: One-On-One with President Biden",
             "secondDuration": 547,
@@ -31,8 +25,14 @@
             "title": "Watch Live: President Donald Trump Holds Campaign Rally In Pennsylvania | NBC News",
             "secondDuration": 4012,
             "group": "group_7"
+        },
+        {
+            "videoId": "2h_43oLRdIA",
+            "title": "Man Sells Boston Snow Online | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gPlpr_NjJTA",
-            "title": "NBC News Signal - January 24th, 2019",
-            "secondDuration": 3152,
-            "group": "group_7"
-        },
-        {
             "videoId": "XgHkKiNnh1M",
             "title": "Trump Associate Roger Stone Faces Sentencing | NBC News (Live Stream Recording)",
             "secondDuration": 6325,
@@ -31,8 +25,14 @@
             "title": "Extreme Weather Hits All Corners Of The U.S. | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZVAhmVrKUjc",
+            "title": "NOW Tonight With Joshua Johnson - Jan. 14 | NBC News NOW",
+            "secondDuration": 2468,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

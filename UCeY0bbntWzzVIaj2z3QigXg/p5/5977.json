@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GVvZSr6tFSU",
-            "title": "Nearly 190,000 Acres Burned in Colorado’s East Troublesome Fire | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "fJZ7iw9VJmI",
             "title": "How Presidential Debates Impact The Race To The White House | NBC News Now",
             "secondDuration": 326,
@@ -31,8 +25,14 @@
             "title": "Ann Curry Reports: A Face In The Crowd",
             "secondDuration": 16,
             "group": "group_7"
+        },
+        {
+            "videoId": "gPCm4aB7axo",
+            "title": "Iconic Fashion Designer Karl Lagerfeld Dies Aged 85 | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

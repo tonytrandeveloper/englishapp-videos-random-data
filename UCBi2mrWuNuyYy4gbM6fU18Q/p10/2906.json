@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kVg_8mwcDEo",
-            "title": "ABC News’ Powerhouse Politics roundtable breaks down 1st presidential debate",
-            "secondDuration": 545,
-            "group": "group_7"
-        },
-        {
             "videoId": "xe7AQVqe8iE",
             "title": "WEBCAST: Woman Steals Scooter",
             "secondDuration": 159,
@@ -61,8 +55,14 @@
             "title": "NASA's Apollo Engines Recovered from the Ocean",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "WH7LtabdhoI",
+            "title": "College Board Announces Big Changes in SAT Exam",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

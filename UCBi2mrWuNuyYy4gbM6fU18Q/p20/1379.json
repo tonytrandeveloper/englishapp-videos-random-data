@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2SCHLQR8FLY",
-            "title": "Colonial Pipeline restarts operations, gas prices spike | WNT",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "yyhH0KVft-I",
             "title": "Trump Dismisses Reports of Russian Hacking",
             "secondDuration": 308,
@@ -121,8 +115,14 @@
             "title": "Officer Shot Outside a Police Station in Maryland",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "mWu8WicCGrY",
+            "title": "Top Line: $247 Billion Medicare 'Fix",
+            "secondDuration": 557,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

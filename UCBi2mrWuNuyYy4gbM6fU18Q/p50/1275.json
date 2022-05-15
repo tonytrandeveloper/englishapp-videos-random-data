@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "5yZ5m3OM0BU",
-            "title": "President Obama Swipes at Donald Trump in Ramadan Statement",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "fZXSZJCdJPk",
             "title": "Deadly flooding, mudslides after storm in Brazil",
             "secondDuration": 84,
@@ -301,8 +295,14 @@
             "title": "Presidential Campaigning: Getting to Know You",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "XPmLIwUe924",
+            "title": "Putin orders Russia’s nuclear deterrent forces on alert l ABC News",
+            "secondDuration": 281,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iruxeQ8D90Y",
-            "title": "President Donald Trump Holds Campaign Rally In Las Vegas | NBC News (Live Stream Recording)",
-            "secondDuration": 10762,
-            "group": "group_7"
-        },
-        {
             "videoId": "ppbrmDHxDdM",
             "title": "Pence On U.S. Support For Venezuelan Opposition Leader: 'We Are With You 100 Percent' | NBC News",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "John McCain Appears To Address President Trump In Farewell Message To Nation | NBC Nightly News",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "kIVke_a1ooQ",
+            "title": "U.S. & Iran Reach Agreement On Nuclear Deal | NBC Nightly News",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

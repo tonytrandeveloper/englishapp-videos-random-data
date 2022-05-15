@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "JsIkSFFspEw",
-            "title": "Webcast: Mom Murdered; Car Slams into Store",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "KAGn5zGybzQ",
             "title": "Chocolate Chip and E.Coli",
             "secondDuration": 118,
@@ -301,8 +295,14 @@
             "title": "Election 2012: Kids' Questions for Mitt Romney, President Obama Before the 2nd Presidential Debate",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q9Y-6BKVa-s",
+            "title": "With Urban Focus - 'You're Going to Improve the Economy of the Country': 'This Week' Roundtable",
+            "secondDuration": 748,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

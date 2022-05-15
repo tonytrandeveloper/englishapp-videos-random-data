@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "w1qBra5fu1o",
-            "title": "Taiwan Plane Crash Leaves 31 Dead | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "gY_sv7XCRFQ",
             "title": "Anger In Louisville After No Officers Charged With Breonna Taylor’s Death | NBC Nightly News",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Gets ‘Nastier,’ Questions Hillary Clinton’s Fidelity | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "h9r_I3w-sbs",
+            "title": "NBC Nightly News Full Broadcast - September 21st, 2021",
+            "secondDuration": 1268,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

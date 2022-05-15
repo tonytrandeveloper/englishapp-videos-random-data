@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jyTZAyD-drw",
-            "title": "Full Hutchinson Interview: 'Mandate Debate Takes Away From Efficacy Of Vaccines'",
-            "secondDuration": 487,
-            "group": "group_7"
-        },
-        {
             "videoId": "BxX3dACdoYU",
             "title": "NBC Nightly News Broadcast (Full) - July 4th, 2021",
             "secondDuration": 1289,
@@ -61,8 +55,14 @@
             "title": "Marc Short: 'We have Cautious Optimism' On North Korea (Full) | Meet The Press | NBC News",
             "secondDuration": 517,
             "group": "group_7"
+        },
+        {
+            "videoId": "KAoU_TQehRU",
+            "title": "Looks Matter In The First Televised Presidential Debate | NBC News",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "y5kjvG_gzbM",
-            "title": "Donald Trump, the Making of a President",
-            "secondDuration": 479,
-            "group": "group_7"
-        },
-        {
             "videoId": "yUC1twTabbo",
             "title": "Confused Communication Over Flu Vaccine",
             "secondDuration": 172,
@@ -121,8 +115,14 @@
             "title": "A closer look at the Americans who stormed the Capitol | Nightline",
             "secondDuration": 564,
             "group": "group_7"
+        },
+        {
+            "videoId": "55FjYu7XLYE",
+            "title": "Trump adviser says he can't guarantee middle class families won't see tax increase under new plan",
+            "secondDuration": 357,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

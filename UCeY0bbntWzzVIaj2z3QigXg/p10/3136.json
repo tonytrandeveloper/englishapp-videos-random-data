@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jcKygdSWK4U",
-            "title": "Deadly Fire Tornado Caught On Camera | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "34eegqd7Pkc",
             "title": "Inflation Up 7.9 Percent In February Compared To Last Year",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "Jackson State University Graduation 50 Years In The Making",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "H1Q9UuQ72L4",
+            "title": "Nightly News Full Broadcast (December 11th)",
+            "secondDuration": 1295,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

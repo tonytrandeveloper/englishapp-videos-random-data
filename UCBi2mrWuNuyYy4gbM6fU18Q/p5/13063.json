@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RDl69Z93YmQ",
-            "title": "4 dead, 1 in critical condition after 'targeted ambush' at LA-area home l ABC News",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "C0f-U_PRmQA",
             "title": "Teen says teacher made her go on the run with him",
             "secondDuration": 301,
@@ -31,8 +25,14 @@
             "title": "Nor'easter grounds flights, halts trains along East Coast",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z3EaZh1Aopo",
+            "title": "'Making a Murderer' Star Steven Avery Slams Lawyers",
+            "secondDuration": 447,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

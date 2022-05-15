@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mIFDzswcrMI",
-            "title": "NBC WSJ Poll: Democratic Favorability Highest Since 2008 | Meet The Press | NBC News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "oxOFl4k4r5c",
             "title": "Thousands In Mexico City Protest Gender-Based Violence For International Women’s Day | NBC News",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "Pentagon On Hero Dog: ‘We’re Protecting His Identity’ | NBC News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kt-XscUkG7Y",
+            "title": "Equifax, Software Company Blame Each Other For Security Breach | NBC Nightly News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

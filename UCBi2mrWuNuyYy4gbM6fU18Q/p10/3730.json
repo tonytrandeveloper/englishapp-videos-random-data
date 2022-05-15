@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BzWu3cB9d8g",
-            "title": "Alicia Silverstone Starts Breast-Milk Bank",
-            "secondDuration": 257,
-            "group": "group_7"
-        },
-        {
             "videoId": "3XJ6pjvNUFA",
             "title": "Texas tractor-trailer incident called 'horrific' case of human smuggling",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Discusses Plan for China",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "mHEVaKMRhak",
+            "title": "Dems focus on health care in Barrett hearing, families share opposing views on ACA",
+            "secondDuration": 648,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

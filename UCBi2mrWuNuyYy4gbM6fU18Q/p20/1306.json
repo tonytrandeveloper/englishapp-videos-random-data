@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dnviB3mWGos",
-            "title": "Trump: Election is 'Rigged'",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "QDIX6BNljWQ",
             "title": "US recognizes Indigenous Peoples' Day",
             "secondDuration": 342,
@@ -121,8 +115,14 @@
             "title": "Parkland students react to Trump’s comments to the NRA",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "GfUfCTfkA3g",
+            "title": "Ferguson Police Chief Releases Name of Officer Who Shot Teen",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

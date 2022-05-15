@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ePUd4UpAino",
-            "title": "Jeb Bush Promises to 'Make America Safer, Stronger and Freer'",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "s4VTqZYtp9w",
             "title": "'This Week': Justice Sonia Sotomayor",
             "secondDuration": 467,
@@ -31,8 +25,14 @@
             "title": "Wal-Mart Plans to Build by Historic Site",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "e8Ae0sdNyJA",
+            "title": "Four-Year-Old Daliyah Marie Arana Hits 'A Thousand Books Before Kindergarten' Reading Goal",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

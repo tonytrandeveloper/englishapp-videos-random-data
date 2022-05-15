@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jRgvt0cBF-Y",
-            "title": "Rob Lowe DirecTV Ads Under Fire for Alleged False Claims",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wdli1OORZV4",
             "title": "Man Wrestles Shark With Bare Hands: Caught on Tape | Good Morning America | ABC News",
             "secondDuration": 111,
@@ -121,8 +115,14 @@
             "title": "Elizabeth Vargas Back Home",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "H3hjxJoDFs0",
+            "title": "The Briefing Room: Michael Cohen's tapes, Trump to invite Putin to White House",
+            "secondDuration": 1510,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

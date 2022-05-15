@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XNdNHzrrbxQ",
-            "title": "Two Teens Charged In Shooting Death Of 8-Year-Old",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "NwPgfslA-vY",
             "title": "America’s Oldest Park Ranger Turns 100",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Representative Mark Meadows Faces Strong Reactions About Health Care | NBC News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "i1ojH_qHNG8",
+            "title": "NTSB Investigating Cause Of New Mexico Bus, Semi-Truck Crash | NBC Nightly News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

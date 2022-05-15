@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-ignYrZjC8c",
-            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
-            "secondDuration": 1925,
-            "group": "group_7"
-        },
-        {
             "videoId": "xSc7FJFk_8U",
             "title": "Police In Nepal Use Special Device To Keep Safe Distances During Coronavirus Lockdown | NBC News",
             "secondDuration": 64,
@@ -31,8 +25,14 @@
             "title": "Examining Sanders’ Plans To Pay For His Policy Proposals | NBC News NOW",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "L1BoDkicPS4",
+            "title": "Republicans Announce Antitrust Legislation After MLB Moves All-Star Game | NBC News NOW",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

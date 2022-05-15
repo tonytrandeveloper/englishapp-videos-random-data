@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Yqq2AEXQ5es",
-            "title": "President Trump faces backlash over recent comments about John McCain",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "8D7v5BinAjM",
             "title": "Midair close encounter between fighter jet and passenger plane | WNT",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Kelly Ripa's New Co-Host to Be Announced Sept. 4",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "uCusMly2b30",
+            "title": "2nd black box from plane that crashed in China found",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

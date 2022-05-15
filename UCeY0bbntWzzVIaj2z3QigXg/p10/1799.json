@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZVK3nEoJSJ8",
-            "title": "Nightly News Full Broadcast - March 30",
-            "secondDuration": 1052,
-            "group": "group_7"
-        },
-        {
             "videoId": "SU1QEXZbEOg",
             "title": "Not Sure How To Teach Your Kids About Money? Go Back To The Basics | NBC News Now",
             "secondDuration": 187,
@@ -61,8 +55,14 @@
             "title": "Democrat Doug Jones Wins Alabama Special Election In Stunning Upset | NBC Nightly News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "1dhdQuB_LS8",
+            "title": "Watch: Strong Winds, Rain From Hurricane Sally Cause Damage In Alabama | NBC News NOW",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

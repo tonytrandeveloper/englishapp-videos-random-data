@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1tKr3H4Z2kw",
-            "title": "Best in TV: Best Reality Show",
-            "secondDuration": 482,
-            "group": "group_7"
-        },
-        {
             "videoId": "GjbTs2FYD9c",
             "title": "Roger the ripped kangaroo caretaker: 'Roger and I were best mates'",
             "secondDuration": 314,
@@ -31,8 +25,14 @@
             "title": "Residents in Southern Plains brace for potential twisters, baseball-sized hail",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "3FjZoImMWU0",
+            "title": "Vaccine offers hope for coronavirus crisis",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K_UP2XlqdvY",
-            "title": "American Airlines jet makes emergency landing",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "QB45wxR2XzI",
             "title": "The Jubilee Queen: When She Became Queen",
             "secondDuration": 373,
@@ -61,8 +55,14 @@
             "title": "Armored-car robbery plot busted in dramatic highway takedown",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "AkVDYVnw4pw",
+            "title": "Are extended jobless benefits keeping Americans from returning to work?",
+            "secondDuration": 424,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

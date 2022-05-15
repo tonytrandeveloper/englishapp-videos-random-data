@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8jV5NcFBfwA",
-            "title": "NY Nurse Becomes First In U.S. To Be Fully Vaccinated After Second Covid Vaccine Shot | NBC News NOW",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "VRPkvcZyoEw",
             "title": "One-On-One With Tim Cook | NBC Nightly News",
             "secondDuration": 192,
@@ -61,8 +55,14 @@
             "title": "An Innovative Device Combined With Medication Could Tame Epileptic Seizures | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "FyE9VHHlYRk",
+            "title": "The Geographical Anomaly That Makes Venus’ Rotation So Strange | Mach | NBC News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

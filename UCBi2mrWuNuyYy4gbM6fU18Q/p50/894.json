@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "SbHv5J-aSYo",
-            "title": "Obama vs. Romney: Debate Countdown",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "qQNCBBAcpzU",
             "title": "Deadly Bus Hijacking in Washington, DC",
             "secondDuration": 102,
@@ -301,8 +295,14 @@
             "title": "Employees sue Plaza hotel over sexual harassment",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dp4rISEp63o",
+            "title": "Julianne Hough Chats About 'Footloose', 'DWTS' and Boyfriend Ryan Seacrest on 'GMA'",
+            "secondDuration": 274,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

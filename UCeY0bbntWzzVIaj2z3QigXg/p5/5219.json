@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "a6aOKWLUW24",
-            "title": "Why The Flu Can Kill A Healthy Person So Quickly | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "rObRBEiI0zg",
             "title": "NOW Tonight With Joshua Johnson Full Episode - Jan. 24 | NBC News NOW",
             "secondDuration": 2591,
@@ -31,8 +25,14 @@
             "title": "Fact Check: Biden’s Role In President Donald Trump’s Ukraine Controversy | NBC News Now",
             "secondDuration": 274,
             "group": "group_7"
+        },
+        {
+            "videoId": "1T02r_T93e4",
+            "title": "Meet the Press - May 20, 2012 - Rep. Paul Ryan (R-WI), Sen. Dick Durbin (D-IL), political roundtable",
+            "secondDuration": 27,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

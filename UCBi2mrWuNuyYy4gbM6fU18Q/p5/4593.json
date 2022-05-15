@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FFXHRYRmF0o",
-            "title": "Iran launches missiles at US military facilities in Iraq",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "UiIbjYVbj7U",
             "title": "Metrojet Official Denies Technical Fault in Russian Plane Crash",
             "secondDuration": 223,
@@ -31,8 +25,14 @@
             "title": "Feds Arrest Two Refugees on Terror-related Charges | ABC News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "XFJhjbCWVuw",
+            "title": "Presidential Debate Fact Check",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

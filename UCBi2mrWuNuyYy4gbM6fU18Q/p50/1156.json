@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ven4pjNRZTE",
-            "title": "Latest on Trump’s 2nd impeachment trial",
-            "secondDuration": 424,
-            "group": "group_7"
-        },
-        {
             "videoId": "kOqTOa_yBnM",
             "title": "NYC Construction Accident Sends Equipment Plummeting 30 Stories",
             "secondDuration": 106,
@@ -301,8 +295,14 @@
             "title": "Virginia Tech Finds Riddell's New Flex Helmet Design Better Than Any Other",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "al10XvSRyIs",
+            "title": "Trump Reacts to FBI Reopening Clinton Email Investigation",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

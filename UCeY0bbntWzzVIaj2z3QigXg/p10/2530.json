@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zoEch-NCrjQ",
-            "title": "Outrage After Rayshard Brooks Killed By Atlanta Police As Protests Continue | NBC Nightly News",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "IukZn2Vvvuc",
             "title": "Trump Delivers Remarks At The Battleship North Carolina | NBC News",
             "secondDuration": 826,
@@ -61,8 +55,14 @@
             "title": "Trump Defense Asks For Depositions To Be Done 'In My Office In Philadelphia' | NBC News",
             "secondDuration": 350,
             "group": "group_7"
+        },
+        {
+            "videoId": "7-WTLEMzbUw",
+            "title": "Live: George Floyd Death Protests Around The U.S. | NBC News",
+            "secondDuration": 30448,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

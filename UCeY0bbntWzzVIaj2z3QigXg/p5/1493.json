@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9qIU53H6blw",
-            "title": "White House Holds Press Briefing: July 27 | NBC News",
-            "secondDuration": 2331,
-            "group": "group_7"
-        },
-        {
             "videoId": "RAWlR6ogQy4",
             "title": "New CDC Numbers Indicate Flu Season Off To A Brutal Start | NBC Nightly News",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "How to Combat the Frustration of Customer Service Phone Calls | NBC Nightly News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "gfSyH7TJwwA",
+            "title": "Mike Pompeo Defends Vladimir Putin’s White House Invite: ‘This Makes Enormous Sense’ | NBC News",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

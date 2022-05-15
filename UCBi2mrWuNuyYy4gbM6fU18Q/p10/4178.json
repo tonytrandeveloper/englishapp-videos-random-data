@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "94i2H8ZJ1lI",
-            "title": "SpaceX launch aborted due to weather",
-            "secondDuration": 322,
-            "group": "group_7"
-        },
-        {
             "videoId": "iB5btUNdqJE",
             "title": "Top Line: Women: How Far They've Come in America",
             "secondDuration": 338,
@@ -61,8 +55,14 @@
             "title": "Couple Helps Kids Get Indestructible Soccer Balls so They Can Play",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "sD6sSbEVz7A",
+            "title": "Weinstein found guilty on 2 counts, not guilty on 3 others",
+            "secondDuration": 630,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

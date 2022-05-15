@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "K3nSfJh1RyU",
-            "title": "Americans’ reaction to Ukraine invasion",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "Atrw00LBrpQ",
             "title": "Back From the Dead: GM Returns to Wall Street",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "Outrage Cycle According to CollegeHumor Founder | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 46,
             "group": "group_7"
+        },
+        {
+            "videoId": "6OguGzGiIzs",
+            "title": "US, Russia agree Iran should not have a nuclear weapon",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "KsT3noe57dQ",
-            "title": "Trump campaign investigating cyberattack on website",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "mglmgoTFJhk",
             "title": "Ukrainian hackers fight Russian cyber threats and combat disinformation | ABCNL",
             "secondDuration": 367,
@@ -301,8 +295,14 @@
             "title": "Inside lockdown at US Capitol",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rav9HLuIoqY",
+            "title": "'We can lay out the differences without hitting below the belt': Buttigieg on debate",
+            "secondDuration": 484,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DFC6dwq-vGY",
-            "title": "America Marks One Year Since The Murder Of George Floyd",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "kVmLtX1edQM",
             "title": "MLK's Son & Daughter Respond To President Trump's Reported 'S***hole' Remark | NBC BLK | NBC News",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Investigation Ongoing After 11 Killed In Mass Shooting At Pittsburgh Synagogue | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "3s97c7T54aY",
+            "title": "The Real-Life Dino Science Behind Jurassic World | Mach | NBC News",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

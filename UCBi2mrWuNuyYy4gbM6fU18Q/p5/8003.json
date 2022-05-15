@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4U6Yo96i0II",
-            "title": "ABC News Live: Afghanistan in crisis as Taliban closes in on capital",
-            "secondDuration": 1472,
-            "group": "group_7"
-        },
-        {
             "videoId": "Fv0ycB5AOzk",
             "title": "Woman completes Boston Marathon early, pushing boyfriend in wheelchair",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Son Dies Less Than 6 Months After Father's Sudden Death: Part 2",
             "secondDuration": 421,
             "group": "group_7"
+        },
+        {
+            "videoId": "OWAPHAi4DaA",
+            "title": "Connecticut's front-line workers receive the state’s 1st doses of COVID-19 vaccine",
+            "secondDuration": 445,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

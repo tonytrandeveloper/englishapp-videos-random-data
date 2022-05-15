@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uAyqz47qoh8",
-            "title": "CDC Reports Rise in Covid Cases As Delta Variant Spreads",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "HlFsIUDnS2k",
             "title": "NBC News Exclusive: Andrea Constand Speaks Out | NBC Nightly News",
             "secondDuration": 53,
@@ -121,8 +115,14 @@
             "title": "Kentucky Derby Winner Medina Spirit Cleared For The Preakness Stakes",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "vBBsKIrPqHQ",
+            "title": "45 Million People Under Winter Weather Advisories | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

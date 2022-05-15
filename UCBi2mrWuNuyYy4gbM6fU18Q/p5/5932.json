@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oVvmVivdm1A",
-            "title": "Donald Trump, Hillary Clinton Discuss Tax Increases on the Wealthy | ABC News",
-            "secondDuration": 595,
-            "group": "group_7"
-        },
-        {
             "videoId": "pNHq9tzapKI",
             "title": "Bruce Willis retires from acting following aphasia diagnosis",
             "secondDuration": 233,
@@ -31,8 +25,14 @@
             "title": "Dustin Hoffman Interview on Directing 'Quartet' After 50 Year Acting Career in Hollywood",
             "secondDuration": 404,
             "group": "group_7"
+        },
+        {
+            "videoId": "Bixqp8o8KD8",
+            "title": "Steve Jobs Takes Stage for iPad 2 Event",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

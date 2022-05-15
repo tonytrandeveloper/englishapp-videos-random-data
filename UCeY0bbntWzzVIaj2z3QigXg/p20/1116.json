@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7Iq7xRgw4ow",
-            "title": "Hawaii’s Kilauea Volcano: Eruptions, Geysers, And Lava Streams Flowing Into The Ocean | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "EnXPu4gXxlI",
             "title": "Crown Prince On Jamal Khashoggi Killing: ‘A Heinous Crime That Cannot Be Justified’ | NBC News",
             "secondDuration": 96,
@@ -121,8 +115,14 @@
             "title": "21-Year-Old Is First Athlete With Down Syndrome To Attempt Ironman Triathlon | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "HlA1ipvVr08",
+            "title": "Hillary Clinton's Biggest Challenge In Libya Isn't Benghazi | NBC News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

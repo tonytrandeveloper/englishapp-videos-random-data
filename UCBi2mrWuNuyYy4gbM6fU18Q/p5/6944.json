@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YHWmb1WXy0c",
-            "title": "9/11 changed the way America thinks about security, but are we safer today?",
-            "secondDuration": 623,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZQZqF3kaptA",
             "title": "Trump raises hopes 3 US hostages being held in North Korea may be home soon",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Dallas Police Ambush | Mayor Mike Rawlings Interview",
             "secondDuration": 274,
             "group": "group_7"
+        },
+        {
+            "videoId": "rE-_uUpp2W0",
+            "title": "Will Mishandled Evidence Affect Pistorius Verdict?",
+            "secondDuration": 235,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

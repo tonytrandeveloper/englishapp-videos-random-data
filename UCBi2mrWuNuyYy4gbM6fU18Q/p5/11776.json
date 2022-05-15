@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fwDgZvGUpWA",
-            "title": "Baby elephant takes a dip in kiddie pool",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "2d1c1WxEmyk",
             "title": "Texas police use a controversial type of DNA test to identify a suspect",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "Actor Jussie Smollett found guilty of lying about racist attack l WNT",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "MoZacogSY1U",
+            "title": "New UN climate report issues stark warning",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

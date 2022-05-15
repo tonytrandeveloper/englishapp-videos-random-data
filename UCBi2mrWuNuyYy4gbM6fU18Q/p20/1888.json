@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ttBPrhSXJXg",
-            "title": "Deal or No Deal?",
-            "secondDuration": 505,
-            "group": "group_7"
-        },
-        {
             "videoId": "P38UqPDbpjo",
             "title": "Donald Trump Makes Controversial Comments on 9/11 and George W. Bush",
             "secondDuration": 104,
@@ -121,8 +115,14 @@
             "title": "Late-Night Hosts Recap the State of the Union Address",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "Pe9geSU68i0",
+            "title": "Team USA Olympians: Terror Won't Deter Us",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

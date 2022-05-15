@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "klRiU94ei2c",
-            "title": "NBC Nightly News Full Broadcast - August 18th, 2021",
-            "secondDuration": 1256,
-            "group": "group_7"
-        },
-        {
             "videoId": "eUm6OD_93g8",
             "title": "Watch Adam Schiff Deliver His Closing Remarks In The Senate Impeachment Trial | NBC News",
             "secondDuration": 1564,
@@ -31,8 +25,14 @@
             "title": "Trump Tours Mask Factory With No Mask, Was Not Required To Wear One | NBC News NOW",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "tuET8Hm87uU",
+            "title": "NBC News NOW Full Broadcast – September 3, 2021",
+            "secondDuration": 2968,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

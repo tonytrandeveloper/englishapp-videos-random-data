@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DYZ4Fy4bwc4",
-            "title": "NBC News NOW Full Broadcast - March 11th, 2021 | NBC News NOW",
-            "secondDuration": 3059,
-            "group": "group_7"
-        },
-        {
             "videoId": "ianUA-wW7Ao",
             "title": "San Juan Sees Historic Protest Turnout | NBC News Now",
             "secondDuration": 344,
@@ -31,8 +25,14 @@
             "title": "Trump Delivers Remarks At Spirit Of America Showcase | NBC News NOW",
             "secondDuration": 1600,
             "group": "group_7"
+        },
+        {
+            "videoId": "o8MdRn7tVZU",
+            "title": "What Does The New CDC Mask Guidance Mean For Families With Young Kids?",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-Q4JUzERl_E",
-            "title": "Robin Roberts' Journey: Saying Goodbye",
-            "secondDuration": 374,
-            "group": "group_7"
-        },
-        {
             "videoId": "cDBzfDfojok",
             "title": "Cristiano Ronaldo calls sexual assault allegation 'fake news'",
             "secondDuration": 227,
@@ -61,8 +55,14 @@
             "title": "Sen. Kirsten Gillibrand ends 2020 presidential campaign | ABC News",
             "secondDuration": 18,
             "group": "group_7"
+        },
+        {
+            "videoId": "PpagReqzDM4",
+            "title": "Wounded military veterans help children with disabilities",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

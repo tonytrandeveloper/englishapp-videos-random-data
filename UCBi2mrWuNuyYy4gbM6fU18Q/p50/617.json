@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "VN3nSbdZhvw",
-            "title": "Snow Fort Dangers",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "i16FAne2Gso",
             "title": "Severe storms devastate Heartland states",
             "secondDuration": 166,
@@ -301,8 +295,14 @@
             "title": "Penn State suspends fraternity following off-campus death",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "rKclqyDTmlw",
+            "title": "Boston Bombing Trial:Carjacking Victim's Escape Caught on Tape",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

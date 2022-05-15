@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XO3bFw3-tvM",
-            "title": "American health care workers risk lives in Ukraine",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "t3N0Fj3zfHo",
             "title": "Authorities search for motive behind shooting at doctor’s home | WNT",
             "secondDuration": 202,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Gets Booed",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "itX1AI8Z-nM",
+            "title": "Newtown, Connecticut Family on Losing Child in Sandy Hook Elementary School Shooting",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

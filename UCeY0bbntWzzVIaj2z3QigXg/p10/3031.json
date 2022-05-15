@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OO39lbgJrB4",
-            "title": "Jeff Sessions Announces New Department Of Justice Unit to Combat Opioid Fraud | NBC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "W-PjVYvMq8o",
             "title": "North Korea Nuclear Summit Will Be A Big Win For Kim Jong Un | NBC News",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Biden Delivers Remarks On New CDC Mask Guidelines | NBC News",
             "secondDuration": 810,
             "group": "group_7"
+        },
+        {
+            "videoId": "uLjQ3cE9kvs",
+            "title": "U.K. Nurse Who Administered First Covid Vaccine Feels ‘Thankful And Proud’ | NBC News NOW",
+            "secondDuration": 258,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

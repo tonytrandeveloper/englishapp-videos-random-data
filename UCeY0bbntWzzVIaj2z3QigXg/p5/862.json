@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QyoOdLby_h0",
-            "title": "Economic Impact Of The Holidays | Show Me | NBC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "1KsEW7iNPoU",
             "title": "‘Obamacare Is Death,’ President Donald Trump Declares | NBC Nightly News",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Confederate Statues In Charlottesville Voted To Be Taken Down",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "GhGhRxlE-78",
+            "title": "President Donald Trump: ‘Farmers Will Be The Biggest Beneficiary’ Of Latest Trade Deals | NBC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

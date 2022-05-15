@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JC3bA-Pl3oE",
-            "title": "Michael Jackson estate suing HBO over explosive new documentary",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "4FTBINTDOks",
             "title": "The Beatle Re-Invasion",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "El Chapo found guilty on all 10 charges",
             "secondDuration": 440,
             "group": "group_7"
+        },
+        {
+            "videoId": "4LZ0qDbyU30",
+            "title": "The Bachelor Week 8 Highlights",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

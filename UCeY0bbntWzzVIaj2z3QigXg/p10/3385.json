@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yfAV0_Qdq54",
-            "title": "Live: White House Holds Press Briefing | NBC News",
-            "secondDuration": 3806,
-            "group": "group_7"
-        },
-        {
             "videoId": "BjvwoPWqwDU",
             "title": "Charges Dropped Against Stormy Daniels After Strip Club Arrest | NBC Nightly News",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "Three Dallas Firefighters Escape Condo Fire After Being Trapped Inside | NBC Nightly News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "xYpK4TzpI0E",
+            "title": "Bill Cosby Is Found Guilty On All Three Counts | NBC News",
+            "secondDuration": 721,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FlelgbUeU80",
-            "title": "Derek Chauvin trial enters day 7",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "j1QHDGh4yy8",
             "title": "Bike Stunt Gone Wrong: Caught on Tape",
             "secondDuration": 21,
@@ -61,8 +55,14 @@
             "title": "Tornado recovery, COVID lines, holiday displays: This Week in Pictures",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZZcVNHlMJzE",
+            "title": "Dual daring rescue attempts atop Mount Hood in Oregon",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

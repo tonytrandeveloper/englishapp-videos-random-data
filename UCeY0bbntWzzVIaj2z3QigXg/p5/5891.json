@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cK8woWeBlCY",
-            "title": "Julia Boorstin: \"For student success, it takes...\"",
-            "secondDuration": 9,
-            "group": "group_7"
-        },
-        {
             "videoId": "i_fd9bPz5nc",
             "title": "Capitol Riot, One Year Later: Rep. Andy Kim Extended Interview | Nightly News Films",
             "secondDuration": 300,
@@ -31,8 +25,14 @@
             "title": "NBC Nightly News Broadcast (Full) - May 19th, 2021",
             "secondDuration": 1300,
             "group": "group_7"
+        },
+        {
+            "videoId": "lAxDfdfLaCo",
+            "title": "This Morning’s Top Headlines – October 21 | Morning News NOW",
+            "secondDuration": 1659,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EDqsIFQqjqE",
-            "title": "Germanwings Pilot: Cockpit Entry Locked Before Crash",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "tTz0SjLS848",
             "title": "Nancy Pelosi says Trump needs 'an intervention'",
             "secondDuration": 50,
@@ -61,8 +55,14 @@
             "title": "Steve Harvey apologizes to BOTH Miss Universe and Miss Colombia on \"Steve Harvey Show\"",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "9X6ltnsjChI",
+            "title": "The Conversation: Eating Strange Food",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

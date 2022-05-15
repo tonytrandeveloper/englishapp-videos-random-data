@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "V-saUxg-cjo",
-            "title": "White House Holds Press Briefing: March 5 | NBC News",
-            "secondDuration": 3142,
-            "group": "group_7"
-        },
-        {
             "videoId": "uwC4G-6rEn0",
             "title": "Discovering You: Emmanuel Rivera | NBC Learn",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "Four Additional Oath Keepers Arrested And Charged Over Capitol Riot",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "7qC3XNTMalE",
+            "title": "LIVE: Kim Potter Testifies In Trial On Daunte Wright's Death | NBC News",
+            "secondDuration": 11151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

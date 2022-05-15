@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WcRcFeNiP6U",
-            "title": "CDC director talks new COVID isolation guidelines amid rise in cases",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "EskArP_ALGc",
             "title": "Super Bowl 2013: Countdown to San Francisco 49ers, Baltimore Ravens Kick Off",
             "secondDuration": 280,
@@ -61,8 +55,14 @@
             "title": "Wendy's Plastic Spoon in Lung",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "p7-0rPvduug",
+            "title": "Third Presidential Debate Highlights | Clinton, Trump on 2nd Amendment, Guns",
+            "secondDuration": 295,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

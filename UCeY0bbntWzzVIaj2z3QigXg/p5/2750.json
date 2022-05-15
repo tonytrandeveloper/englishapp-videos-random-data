@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_3oPHjQMpNs",
-            "title": "Meet The Press Broadcast (Full) - May 30th, 2021",
-            "secondDuration": 2849,
-            "group": "group_7"
-        },
-        {
             "videoId": "A01JX0cvoCQ",
             "title": "An In-Depth Explanation Of The Growing Popularity Of Cryptocurrency",
             "secondDuration": 366,
@@ -31,8 +25,14 @@
             "title": "Jussie Smollett Takes Stand In His Criminal Trial",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "NgP08C3s3d4",
+            "title": "Watch Live: White House Press Briefing",
+            "secondDuration": 1423,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

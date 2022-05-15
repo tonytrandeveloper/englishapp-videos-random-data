@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-p1Ie14AFxY",
-            "title": "Jim Risch: Harsh Interrogation Helped 'Initial Thread'",
-            "secondDuration": 330,
-            "group": "group_7"
-        },
-        {
             "videoId": "gC5XvbvS3yQ",
             "title": "George Zimmerman Arrested After 'Disturbance'",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Trump Repeats ISIS Claims Against Obama, Clinton",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "8fAvmRbdFXY",
+            "title": "OSCARS 2016 | Red Carpet Fashion Predictions",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

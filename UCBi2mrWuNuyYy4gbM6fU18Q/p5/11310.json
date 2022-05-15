@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0LXWOwL9vcM",
-            "title": "Netflix Pays Chris Rock $40 Million for Comedy Special  | ABC News",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "pxSyS7JIUpI",
             "title": "Jobs That Make Your Blood Boil Can Be Hazardous to Your Health",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Lance Armstrong Admits Using Performance-Enhancing Drugs",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "dtjX-VUrZnA",
+            "title": "'Carmageddon' Impedes Marriage Ceremony",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T8UpMnOwY5Y",
-            "title": "Yosemite Ranger Discovers Park’s True Owners | NBC News",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "zuUj8zqLDBc",
             "title": "Houses Not Hotels: Venetians Angry At Mass Tourism | NBC News",
             "secondDuration": 57,
@@ -31,8 +25,14 @@
             "title": "Russian Banker Sergey Gorkov Dodges Jared Kushner Questions From Keir Simmons | NBC News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "6ToPQR2dURQ",
+            "title": "White House Press Briefing - March 15, 2018 | NBC News",
+            "secondDuration": 1214,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

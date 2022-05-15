@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aQcTztRkBuI",
-            "title": "Angelina Jolie on her new film and the importance of family",
-            "secondDuration": 347,
-            "group": "group_7"
-        },
-        {
             "videoId": "QQDMaxIWNI8",
             "title": "Winter Weather Warning, Blizzards Bear Down",
             "secondDuration": 208,
@@ -31,8 +25,14 @@
             "title": "Toddler Swept Away in Flood",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "pQ864I6oooo",
+            "title": "WEBCAST: Bill Cosby's TV Wife Speaks Out",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4AVB_Ch6rmw",
-            "title": "2017 Nor’easter Winter Storm Stella Envelops New York’s Times Square | 360 Video | NBC News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "RdQsxkqnlMA",
             "title": "Man Who Kidnapped Jayme Closs And Murdered Her Parents Gets Life In Prison | NBC Nightly News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Dr. Fauci On Confusion Over Mask Wearing Amid Delta Variant Concerns",
             "secondDuration": 214,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zqr5nOxccic",
+            "title": "Charlottesville Under State Of Emergency As Anniv. Of Deadly Violence Approaches | NBC Nightly News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

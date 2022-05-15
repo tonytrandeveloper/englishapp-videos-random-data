@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NZuCH3bE2hw",
-            "title": "NBC News NOW Full Broadcast – September 14, 2021",
-            "secondDuration": 2737,
-            "group": "group_7"
-        },
-        {
             "videoId": "mapxyIjRjBs",
             "title": "Rahm Emanuel: 'I Have Decided Not To Seek Re-Election.' | NBC News",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Amtrak Passenger: 'I Couldn't Believe We Were Stuck' | NBC News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "oATLd2QDtn4",
+            "title": "How To Plan The Perfect Super Bowl Party | Better | NBC News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

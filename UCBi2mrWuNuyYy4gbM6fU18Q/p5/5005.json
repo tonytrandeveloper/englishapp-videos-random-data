@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ml2tGNpGCts",
-            "title": "Obama at Ground Zero",
-            "secondDuration": 369,
-            "group": "group_7"
-        },
-        {
             "videoId": "h2ystH6RCHs",
             "title": "Honoring Fallen Journalists",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "Police look at link between 7-year-old's death, previous shooting",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "rmZEi-quDS4",
+            "title": "Novak Djokovic faces ‘great lesson’ after visa canceled: Christine Brennan",
+            "secondDuration": 327,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

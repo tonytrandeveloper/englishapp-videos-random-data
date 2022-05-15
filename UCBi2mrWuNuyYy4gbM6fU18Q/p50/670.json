@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "hm4BCwGYhHo",
-            "title": "Teens Struck By Lightning Speak Out (03.16.11)",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "FNfAjlGZDvs",
             "title": "ABC News Live: Supreme Court to hear cases on abortion, gun rights, the death penalty",
             "secondDuration": 1730,
@@ -301,8 +295,14 @@
             "title": "Undercover Girlfriend l 20/20 l PART 3",
             "secondDuration": 502,
             "group": "group_7"
+        },
+        {
+            "videoId": "YBgVVXE-3mc",
+            "title": "Clinton Foundation Under Fire for Receiving Foreign Donations",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

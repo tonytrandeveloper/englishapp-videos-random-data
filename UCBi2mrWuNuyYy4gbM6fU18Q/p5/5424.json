@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5SurK2VqCf4",
-            "title": "Winter Warm-Up Brings a Taste of Spring",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "UGPzO59sRpk",
             "title": "Washington Post's Dan Balz on 'Top Line'",
             "secondDuration": 271,
@@ -31,8 +25,14 @@
             "title": "5 Injured in Search for Missing Firefighter",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "OT6j2Adi2uk",
+            "title": "FBI agent under investigation after his gun goes off at Denver nightclub",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

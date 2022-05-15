@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PtVoyUPy1Qo",
-            "title": "Hurricane Danielle Stirs Things Up",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "6uNYXOcGGME",
             "title": "Hillary Clinton, Bernie Sanders Make Final New York Push",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "ISIS Recruiting American Teens: Fitness Instructors to Schoolgirls",
             "secondDuration": 425,
             "group": "group_7"
+        },
+        {
+            "videoId": "u1PfzaN8epE",
+            "title": "Los Angeles may see the same number of COVID-19 cases as New York City",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

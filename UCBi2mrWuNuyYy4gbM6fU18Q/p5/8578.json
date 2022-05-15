@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MenIUgo7Vpg",
-            "title": "DC mayor sets sights on Trump at 2020 DNC",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "IBI2O1zjGiY",
             "title": "ABC News Prime: Coronavirus worldwide impact, home quarantines, Dow closes down 3,000 points",
             "secondDuration": 3576,
@@ -31,8 +25,14 @@
             "title": "Dick Clark Dead at 82",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "AfELT9gVmPo",
+            "title": "F-35 Fighter Jet: The Future of Flight",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

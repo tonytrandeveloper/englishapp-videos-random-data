@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NqebFzfLd7I",
-            "title": "The Debrief: Hurricane Dorian on course to make landfall",
-            "secondDuration": 1500,
-            "group": "group_7"
-        },
-        {
             "videoId": "PXtHXqE0AWE",
             "title": "National Selfie Day 2016",
             "secondDuration": 75,
@@ -31,8 +25,14 @@
             "title": "ISIS Terror Suspects Arrested",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "OqBDbm254Mg",
+            "title": "Rep. Maxine Waters calls to ‘hold this president accountable’",
+            "secondDuration": 447,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

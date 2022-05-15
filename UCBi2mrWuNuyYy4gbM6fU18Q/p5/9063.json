@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "di-uBOc5DKI",
-            "title": "Hillary Clinton Blows Up at Student",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "K9CQC4_Xkf0",
             "title": "Rising Temperatures Add to Blizzard Woes",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Science shows spirituality helps 'awaken' your brain, author says",
             "secondDuration": 308,
             "group": "group_7"
+        },
+        {
+            "videoId": "F0Hq9T9LMMI",
+            "title": "NTSB Sends Full Team to Investigate Philadelphia Amtrak Derailment",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

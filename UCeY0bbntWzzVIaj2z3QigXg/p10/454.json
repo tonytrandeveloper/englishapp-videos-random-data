@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LNwAlh6eKB4",
-            "title": "Live: Trump Participates in Signing Ceremony for the Great Outdoors Act | NBC News",
-            "secondDuration": 2008,
-            "group": "group_7"
-        },
-        {
             "videoId": "DRYaVKEAVqs",
             "title": "Arizona Police Officer Punching Woman During Arrest Caught On Camera | NBC Nightly News",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "NTSB Investigating Grand Canyon Helicopter Crash That Left Three Dead | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "JsxE6ULxJaY",
+            "title": "Video Shows Terrifying Moments As Entire Airliner Shakes During Flight | NBC Nightly News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9HzSlNzU-FM",
-            "title": "Pence Makes Surprise Visit To U.S. Troops In Iraq | NBC News",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "BwD92v9ma4s",
             "title": "Thermal Glasses Provide Quick, Portable Checks Of COVID-19 Symptom | NBC News",
             "secondDuration": 64,
@@ -121,8 +115,14 @@
             "title": "Pro-Brexit Protesters Flood London Streets After Parliament Rejects Deal | NBC News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "nUGhn06ij0o",
+            "title": "Catalonia Wants Independence From Spain | Long Story Short | NBC News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

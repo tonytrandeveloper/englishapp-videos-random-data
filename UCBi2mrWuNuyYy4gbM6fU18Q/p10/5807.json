@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dqAvWeo4fSU",
-            "title": "47 Years Since Dr. Martin Luther King Jr. Was Gunned Down",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "XrXWDWGMd9E",
             "title": "Army veteran makes wooden toys by hand for children in need",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Hurricane Dorian heads toward the East Coast",
             "secondDuration": 336,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zcc5YwKLkuU",
+            "title": "W. Va. Governor on Trapped Miners in Chile",
+            "secondDuration": 252,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kYFzpJHoeGk",
-            "title": "Jeff Bezos accuses National Enquirer of extortion",
-            "secondDuration": 361,
-            "group": "group_7"
-        },
-        {
             "videoId": "CdTQZu-3bq4",
             "title": "Donald Trump Blasts Union Leader on Twitter",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "Measles Outbreak Ignites Fresh Vaccine Debate",
             "secondDuration": 392,
             "group": "group_7"
+        },
+        {
+            "videoId": "hDBIp0N1Lns",
+            "title": "Syria Massacre: U.S. Student Killed",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

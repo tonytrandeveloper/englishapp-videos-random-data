@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uwt-ehUQ0gE",
-            "title": "Equifax CEO Richard Smith Steps Down After Massive Breach | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "hEZhdyykplM",
             "title": "Donald Trump, Congress Reach Deal To Negotiate DACA, Border Security | NBC Nightly News",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "'Help Is On The Way': Schumer Says Senate Is Ready To Pass Biden’s Covid Relief Bill | NBC News NOW",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "alEL7fwqxmc",
+            "title": "What’s Motivating the People of Iowa to Cast Their Votes? | NBC Nightly News",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

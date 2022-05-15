@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZHgqcHSoqeE",
-            "title": "Senator Al Franken resignation speech (full speech)  | ABC News Special Report",
-            "secondDuration": 1901,
-            "group": "group_7"
-        },
-        {
             "videoId": "fpJAoovmMrs",
             "title": "Vice President Pence speaks at coronavirus task force briefing",
             "secondDuration": 526,
@@ -31,8 +25,14 @@
             "title": "Explosive details in book on Trump administration leave White House reeling",
             "secondDuration": 289,
             "group": "group_7"
+        },
+        {
+            "videoId": "5lnVZxQPqNE",
+            "title": "Alicia Keys' Mission: Inspiring Women",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

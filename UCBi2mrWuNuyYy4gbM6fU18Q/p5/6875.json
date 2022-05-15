@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s0zmGkkNwBw",
-            "title": "At least 1 died, 4 injured in shooting at Virginia hookah bar",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "5jx3m7jk1CY",
             "title": "Julian Castro DNC Speech (COMPLETE): 'It Starts With Education'",
             "secondDuration": 1177,
@@ -31,8 +25,14 @@
             "title": "Study Suggests Antidepressants May Be Linked to Higher Risk of Autism",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "s_NSv6h3jQw",
+            "title": "Woman Searches for Biological Father",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qy8k9re9zH4",
-            "title": "Happy National Cheeseburger Day!",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "cbA9MZOgTAQ",
             "title": "Victory at Wimbledon for Novak Djokovic",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Virus hits conflict zones",
             "secondDuration": 450,
             "group": "group_7"
+        },
+        {
+            "videoId": "3XgV5_37MUU",
+            "title": "Gabrielle Giffords' Recovery: The Medical Miracle at the University of Arizona 1/20/2011",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

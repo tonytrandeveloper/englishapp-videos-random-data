@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pkv9l0SHncc",
-            "title": "ABC News exclusive: Ukraine-Russia negotiation analysis",
-            "secondDuration": 393,
-            "group": "group_7"
-        },
-        {
             "videoId": "xBSMykXr2u8",
             "title": "Oscar Nominations 2012: Jean Dujardin, George Clooney, Octavia Spencer, Among Actors Honored",
             "secondDuration": 310,
@@ -121,8 +115,14 @@
             "title": "Alfred Olongo Shooting | Fresh Protests Over Police Shooting",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "dHcyqV_LwrQ",
+            "title": "Officers engaged in firefight with accused shooter inside school: Police",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

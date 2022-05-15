@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CQ8BqNFZWgk",
-            "title": "Senate members debate voting rights legislation",
-            "secondDuration": 577,
-            "group": "group_7"
-        },
-        {
             "videoId": "2MAEVD27zfs",
             "title": "Al Franken Questions Betsy DeVos on Proficiency vs Growth | ABC News",
             "secondDuration": 463,
@@ -61,8 +55,14 @@
             "title": "Matthew Dowd on Bush Legacy During 'This Week' Roundtable",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "3eHqAq4gc2c",
+            "title": "'Black-ish' Brings Debate Over Child Spanking Back Into Spotlight",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

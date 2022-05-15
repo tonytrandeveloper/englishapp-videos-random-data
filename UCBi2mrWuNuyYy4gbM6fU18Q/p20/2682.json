@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "H8wxl-pNVuc",
-            "title": "Rick Santorum Sweeps 3 States",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "SIyZXPmngE0",
             "title": "Sandy Hook families reach historic settlement with Remington",
             "secondDuration": 271,
@@ -121,8 +115,14 @@
             "title": "Death toll rises in California wildfires",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "l-clKHCMkHY",
+            "title": "Kate Middleton Baby: Royal Baby's Birth Could Make History",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

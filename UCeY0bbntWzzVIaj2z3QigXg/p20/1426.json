@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Zo9bl8DMFfc",
-            "title": "DNA Helps Identify Killer In 1988 Murder Of San Diego Mom",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "ShynFYoXukU",
             "title": "North Korea Threatens Revenge Over UN Sanctions | NBC Nightly News",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "Majorie Taylor Greene Hit With Four New Fines Over Anti-Mask Stance",
             "secondDuration": 44,
             "group": "group_7"
+        },
+        {
+            "videoId": "T-5okZ0MjYs",
+            "title": "'Hashtag Lunchbag' Feeds The Homeless | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

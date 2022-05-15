@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XDRBiL4oYhY",
-            "title": "With Each New President, America Chooses An Opposite | Meet The Press | NBC News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lh8hUVAF8TA",
             "title": "Biden Administration Wants Families Separated At Border To Stay In The U.S.",
             "secondDuration": 191,
@@ -61,8 +55,14 @@
             "title": "Toddler Steals Prizes From Inside Arcade Game | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "z1ggwQXmLCs",
+            "title": "Amber Guyger Found Guilty Of Murder In Neighbor’s Shooting Death | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

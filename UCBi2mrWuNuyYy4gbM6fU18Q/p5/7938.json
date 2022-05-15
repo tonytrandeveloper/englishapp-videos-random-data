@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p7dymoFdtZI",
-            "title": "NY governor under fire for pandemic response",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "ajNlE1Pk-Y0",
             "title": "Supermodel Taking Selfies with Pilots during Flight",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Average cost of withdrawing cash from out-of-network ATM nears $5",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "kUZd_mBUkrg",
+            "title": "Could Cell Phone Usage Be Affecting Your Mental Health?",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

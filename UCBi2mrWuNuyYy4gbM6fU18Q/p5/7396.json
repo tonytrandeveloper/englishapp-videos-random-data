@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3tQtAs3d05E",
-            "title": "Chiropractic Neurology: Miracle Method or Placebo?",
-            "secondDuration": 365,
-            "group": "group_7"
-        },
-        {
             "videoId": "2xPSoFeth38",
             "title": "Trump Flag Burning Tweet | McConnell Disagrees with Trump",
             "secondDuration": 20,
@@ -31,8 +25,14 @@
             "title": "Father of child killed in Sandy Hook massacre dies of apparent suicide",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "E3py9UgM2bY",
+            "title": "American service member missing in Yemen",
+            "secondDuration": 47,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

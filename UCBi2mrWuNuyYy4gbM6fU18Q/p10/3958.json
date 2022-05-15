@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "onWCi9DK2CQ",
-            "title": "Biden, British PM Boris Johnson to discuss resuming travel between the US and UK",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "6xp2rwxAMkw",
             "title": "Moms: Alleged Abuse Victims Will Testify",
             "secondDuration": 305,
@@ -61,8 +55,14 @@
             "title": "New 911 calls underscore devastation at Florida nursing home",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "WoUke3MXWPg",
+            "title": "Hundreds dead in earthquake near Iran-Iraq border",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

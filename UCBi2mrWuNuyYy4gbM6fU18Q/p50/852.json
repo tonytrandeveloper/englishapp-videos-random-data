@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "gba7pO_RuSs",
-            "title": "Assessing the Situation in Afghanistan",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "QxRTWA4hdNg",
             "title": "Chris Christie 'This Week' Interview: NJ Governor on Romney Debate Prep, Slams Todd Akin Comments",
             "secondDuration": 501,
@@ -301,8 +295,14 @@
             "title": "Dorian hits Outer Banks with 100 mph winds, 14 inches of rain l ABC News",
             "secondDuration": 232,
             "group": "group_7"
+        },
+        {
+            "videoId": "5oT777NquxM",
+            "title": "Questions arise about suspected gunman's motives in Texas church shooting",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

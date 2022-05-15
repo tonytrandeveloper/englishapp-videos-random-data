@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iy_kkgqM4uo",
-            "title": "Keith Olbermann of MSNBC Takes Surprise Exit 1/24/2011",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "nalGPlG_p34",
             "title": "President Obama Hits the Campaign Trail With Hillary Clinton",
             "secondDuration": 225,
@@ -31,8 +25,14 @@
             "title": "'This Week': Money Madness",
             "secondDuration": 458,
             "group": "group_7"
+        },
+        {
+            "videoId": "nPZt8xWGY8I",
+            "title": "Bus Collides With Sign Pole, Trapping Driver Inside",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

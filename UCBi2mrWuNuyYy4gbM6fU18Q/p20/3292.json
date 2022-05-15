@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AS612raddDE",
-            "title": "What to expect on day 8 of Chauvin trial",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "xiiYgomSPEA",
             "title": "Increased police presence in the U.S. after London terror attack",
             "secondDuration": 88,
@@ -121,8 +115,14 @@
             "title": "Bundy 20/20 Pt 1: Who was Ted Bundy, the notorious serial killer who murdered dozens of women",
             "secondDuration": 444,
             "group": "group_7"
+        },
+        {
+            "videoId": "JFhOcevvBxY",
+            "title": "Families struggle to make ends meet while navigating COVID-19 economic relief | Nightline",
+            "secondDuration": 564,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "R7lnPgwCF-8",
-            "title": "United Airlines Flight Attendant Fired After Deploying Emergency Slide",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "lfsZuMJgJxA",
             "title": "Politico's Jonathan Martin on 'Top Line'",
             "secondDuration": 202,
@@ -61,8 +55,14 @@
             "title": "Tapper on Obama's Proposed Bank Laws",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "0mRuNSI3-LA",
+            "title": "Tom's Shoes' CEO Gives a Pair Away for Every Sale",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

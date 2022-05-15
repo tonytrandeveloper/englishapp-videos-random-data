@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Id13RmoX6Y4",
-            "title": "Meet The Press Broadcast (Full) - April 26th, 2020 | Meet The Press | NBC News",
-            "secondDuration": 2856,
-            "group": "group_7"
-        },
-        {
             "videoId": "1TT43_KnLwM",
             "title": "Former Veteran Dog Now Helps Florida Officers Deal With Stress And Trauma",
             "secondDuration": 185,
@@ -61,8 +55,14 @@
             "title": "Trained Bumble Bees Are Like Tiny Soccer Players | Mach | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZfLjzRa1kL0",
+            "title": "What Would A Radically Democratic Approach To YouTube Moderation Look Like? | Think | NBC News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

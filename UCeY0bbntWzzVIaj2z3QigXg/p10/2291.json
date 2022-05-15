@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tbF5sSrMrwg",
-            "title": "Bill Cosby Case: Lawyer Angela Agrusa Says Cosby 'Will Not Be Speaking' | NBC News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "OZcv8XIK9SE",
             "title": "Jon Stewart Demands Congress Fund 9/11 Victim Program 'Properly’ | NBC News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Second Women’s March Draws Thousands Across The Country | NBC Nightly News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "jNF2V29upvM",
+            "title": "Prosecutor Releases New Details on Pennsylvania Killing Spree | NBC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

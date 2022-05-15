@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "si4w00y12oU",
-            "title": "Top Story with Tom Llamas - Feb. 25 | NBC News NOW",
-            "secondDuration": 3044,
-            "group": "group_7"
-        },
-        {
             "videoId": "QuLDGqpnD2k",
             "title": "Colorado Planned Parenthood Shooting Suspect Appears in Court | NBC Nightly News",
             "secondDuration": 174,
@@ -61,8 +55,14 @@
             "title": "Special Report: Hurricane Michael To Make Landfall In U.S. | NBC News",
             "secondDuration": 307,
             "group": "group_7"
+        },
+        {
+            "videoId": "pILMrZ3tscw",
+            "title": "Watch NBC News NOW Live - September 23",
+            "secondDuration": 42901,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

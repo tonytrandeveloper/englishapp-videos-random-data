@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_Px5trTz5dc",
-            "title": "Index: New Record for World's Longest Passenger Flight",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "aQOgWN6j7JU",
             "title": "National Zoo Panda Gives Birth to 2 Cubs",
             "secondDuration": 167,
@@ -61,8 +55,14 @@
             "title": "Germany Opens Its Doors to Over 20,000 Refugees",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "doWqYrPsPCw",
+            "title": "At Least 5 Dead After Whale Watching Tour Boat Sinks",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

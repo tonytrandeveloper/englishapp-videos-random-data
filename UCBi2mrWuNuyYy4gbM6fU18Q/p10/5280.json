@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oNcAMRAePZk",
-            "title": "Colorado 'Dark Knight' Shooting Witness: 'I Saw A Guy Right Next To Me Getting Shot'",
-            "secondDuration": 323,
-            "group": "group_7"
-        },
-        {
             "videoId": "6C5N9p5ropY",
             "title": "Rep. Karen Bass: May need to ‘move individual bills forward’ on police reform",
             "secondDuration": 430,
@@ -61,8 +55,14 @@
             "title": "Sen. Graham presents full Mueller report at Senate hearing",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "yLGiInip_lM",
+            "title": "Storm threats strengthen as Southeast reels from tornadoes",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

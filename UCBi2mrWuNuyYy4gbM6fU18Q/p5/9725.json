@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jqcWxLg4L-0",
-            "title": "ABC News Live Update: Dr. Anthony Fauci receives Moderna’s COVID-19 vaccine",
-            "secondDuration": 825,
-            "group": "group_7"
-        },
-        {
             "videoId": "_FMLn1eRqkU",
             "title": "ABC News Prime: George Floyd remembered; Police reform bill negotiations; Ohio's vaccine incentives",
             "secondDuration": 5202,
@@ -31,8 +25,14 @@
             "title": "Index: CVS Hack Attack",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "LLdyCk9vzp8",
+            "title": "Supreme Court takes on case over challenge to New York State gun law",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

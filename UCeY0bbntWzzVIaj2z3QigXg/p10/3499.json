@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JCWTX_tomxo",
-            "title": "Watch Live: President Donald Trump Pardons National Thanksgiving Turkey | NBC News",
-            "secondDuration": 509,
-            "group": "group_7"
-        },
-        {
             "videoId": "SiJx8Z92KCc",
             "title": "What Voters Say Is Most Important Factor In 2016 Election | PRESS Pass | NBC News",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Boris Johnson Covid Warning: 'Wave Of Omicron' Breaking U.K. Infection Records",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "gmg73relUxY",
+            "title": "Terrorism Not Ruled Out in Russian MetroJet Plane Disaster | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

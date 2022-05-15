@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "03QeNefxryA",
-            "title": "Disparity in police response: Black Lives Matter protests and Capitol riot l ABC News",
-            "secondDuration": 552,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bph8gzma-Ko",
             "title": "Sen. Klobuchar speaks at 2020 DNC",
             "secondDuration": 88,
@@ -121,8 +115,14 @@
             "title": "The Big Question: Is There a Deal on the Table Good Enough?",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "G2YN6Yz_jd8",
+            "title": "Trump Team Requests Security Clearance for Jared Kushner",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

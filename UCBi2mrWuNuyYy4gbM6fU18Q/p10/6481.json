@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XZgkkI5kSzU",
-            "title": "What's at Stake on Primary Day?",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "4SZwwc9mlQA",
             "title": "Jim Clyburn takes the stage at the 2020 DNC",
             "secondDuration": 194,
@@ -61,8 +55,14 @@
             "title": "Deadly Heat Wave Claims at Least 11 Lives",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "nvGPvfn3nEo",
+            "title": "Supermarket Foods--Lemon Juice, Olive Oil, Syrup--Watered Down?",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

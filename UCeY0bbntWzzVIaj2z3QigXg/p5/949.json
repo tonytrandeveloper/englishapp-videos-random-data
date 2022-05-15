@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aCKIJpBkxS8",
-            "title": "U.S. Military Bases Raise Security Level Over ISIS Threat | NBC Nightly News",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "2-0pQDnTfOQ",
             "title": "How A Covid-19 Vaccine Is Developed And Approved Tor The Public | NBC News NOW",
             "secondDuration": 255,
@@ -31,8 +25,14 @@
             "title": "Philadelphia To Become First Major City To Ban Minor Traffic Stops",
             "secondDuration": 225,
             "group": "group_7"
+        },
+        {
+            "videoId": "wgTvz9mmpjg",
+            "title": "Tom Colicchio & Dominique Crenn Talk Recovery Strategies For Hospitality & Food | NBC News Now",
+            "secondDuration": 533,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

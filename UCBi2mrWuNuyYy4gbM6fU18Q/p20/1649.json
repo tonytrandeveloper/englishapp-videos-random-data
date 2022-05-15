@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "e3DXNCkWTnc",
-            "title": "Bullied on the Bus: The Gift",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "twNaMXqnZkE",
             "title": "FACEBOOK WEBCAST",
             "secondDuration": 154,
@@ -121,8 +115,14 @@
             "title": "Trump Labor Secretary Pick Admits to Employing Undocumented Worker",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "Aq2SNEVB_xo",
+            "title": "Classified GOP memo alleging FBI wrongdoing sent to Trump",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

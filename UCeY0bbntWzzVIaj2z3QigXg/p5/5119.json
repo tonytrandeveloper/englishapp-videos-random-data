@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q9nyx9AxkLM",
-            "title": "‘When The Towers Began To Collapse, The Entire Country Shuddered’",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "3z_E3ICvFUQ",
             "title": "Chuck Todd: Biden Has ‘Lost His Political Identity’ As He Heads Into Second Year In Office",
             "secondDuration": 247,
@@ -31,8 +25,14 @@
             "title": "DHS Lays Groundwork To Transport Migrants By Plane To Various U.S. Cities | NBC Nightly News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "VWw9Co9b36w",
+            "title": "Omicron Surge Leads To Major Staffing Shortages On The Frontlines",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OZsmR5BwUKU",
-            "title": "Murder Rates Spiking Dramatically in 20 Major U.S. Cities, Stats Show | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "qUoISO5Kzoo",
             "title": "This Flying Car Could Take Off By The End Of The Year | Mach | NBC News",
             "secondDuration": 73,
@@ -121,8 +115,14 @@
             "title": "Police Arrested Waffle House Shooting Suspect In The Woods | NBC News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Rb8Cmxg39s",
+            "title": "Covid Cases Spike Back Up As Americans Set To Gather For The Holidays",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VqqgQff99HQ",
-            "title": "Hillary Clinton Campaigns with Pharrell, Bernie Sanders",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "krMdQOnZQy0",
             "title": "Kathleen Robertson: '90210' Star Leaves Sun for Windy City in 'Boss'",
             "secondDuration": 264,
@@ -61,8 +55,14 @@
             "title": "ABC News Prime: Theranos trial begins; Dems battle over spending package; Untold stories of 9/11",
             "secondDuration": 5284,
             "group": "group_7"
+        },
+        {
+            "videoId": "64OAQnDeLy4",
+            "title": "'It'd be a mistake for fencing to be a permanent part of the Capitol': Sen. Blunt | ABC News",
+            "secondDuration": 453,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

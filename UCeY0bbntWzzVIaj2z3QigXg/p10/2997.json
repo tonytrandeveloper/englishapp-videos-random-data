@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EDuALj7FhEk",
-            "title": "Bar Owner Who Called 911 On Bombing Suspect: 'I'm Not A Hero' | NBC News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "n63fOpn6QJQ",
             "title": "Chicago Police Investigating Brutal Attack Of ‘Empire’ Star Jussie Smollett | NBC Nightly News",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "NASA Runs Final Tests On Rocket For Artemis I Mission",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "2vxY5Rm9C28",
+            "title": "Biden Delivers Remarks On Covid Response | NBC News",
+            "secondDuration": 910,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

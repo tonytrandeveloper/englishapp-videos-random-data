@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vghf6WRdFpw",
-            "title": "Severe weather, flash floods slam southeast | ABC News",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "UJvlmGNA0Mg",
             "title": "Plane Skids Off Icy Runway",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "Huma Abedin: 'I had to dig my way out of my low point'",
             "secondDuration": 511,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q4_srp2_5IY",
+            "title": "Navy Seal Receives Medal of Honor for Heroic Rescue in Afghanistan",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

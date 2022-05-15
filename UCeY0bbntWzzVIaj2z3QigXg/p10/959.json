@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YXj0mr4HJlw",
-            "title": "Joe Biden Jokes About Personal Space After Giving Hug: 'I Had Permission' | NBC News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "uBsXKU31j90",
             "title": "House Oversight Committee Launches Investigation Into Trump's Handling of White House Documents",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "Mexico City Metro Collapse Blamed On Poor Construction",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "X8gwHmpQpb0",
+            "title": "Special Report: Two Mass Shootings In 13 Hours Leave 29 People Dead | NBC News",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

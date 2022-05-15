@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Wk60DpGXGD8",
-            "title": "Lead impeachment manager Jamie Raskin presents case to convict Trump",
-            "secondDuration": 1618,
-            "group": "group_7"
-        },
-        {
             "videoId": "dvK2qLD8MoA",
             "title": "War in Ukraine: March 14, 2022",
             "secondDuration": 164,
@@ -61,8 +55,14 @@
             "title": "BP CEO Grilled on Capitol Hill",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "qlCg2OHLmxU",
+            "title": "Trump announces new CDC guidelines recommending masks | ABC News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

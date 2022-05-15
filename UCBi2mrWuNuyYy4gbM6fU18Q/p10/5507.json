@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XeqBLsp9s54",
-            "title": "How the AstraZeneca vaccine measures up",
-            "secondDuration": 278,
-            "group": "group_7"
-        },
-        {
             "videoId": "3Ht2HptJ6DI",
             "title": "Trump spends the weekend lashing out against the media on Twitter",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "The 2016 Race For President Heats Up Ahead of New Hampshire Primary",
             "secondDuration": 448,
             "group": "group_7"
+        },
+        {
+            "videoId": "E4UR1rZOotY",
+            "title": "Trump says new Mexico-Canada deal will replace NAFTA",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

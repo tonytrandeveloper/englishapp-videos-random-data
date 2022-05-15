@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "2f1cgU4r9uI",
-            "title": "Extreme Winter Weather: Blizzard Conditions Blanket Northeast",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "FgQQ1CKlYMA",
             "title": "Mayweather vs Pacquiao: Highlights of Fight of the Century (Pre-Game)",
             "secondDuration": 212,
@@ -301,8 +295,14 @@
             "title": "Nene Leakes Interview 2013: 'Real Housewives' Star on Health Scare, Moment of Reality",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "bKcu7RJwMcs",
+            "title": "Trump: List of Supreme Court possible contenders is 'outstanding'",
+            "secondDuration": 306,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

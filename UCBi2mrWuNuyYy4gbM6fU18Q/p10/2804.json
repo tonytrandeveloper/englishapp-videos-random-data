@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FOD4WYBfaeE",
-            "title": "Coronavirus and kids",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "tkOyKoINCjA",
             "title": "Pat Conroy Interview 2013: New Book 'The Death of Santini' Examines the Death of His Father",
             "secondDuration": 278,
@@ -61,8 +55,14 @@
             "title": "What Every State is Thankful For | ABC News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "7iHH2LxOfoE",
+            "title": "White House Calls Yemen Raid a 'Huge Success'",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "D86pa0T6joY",
-            "title": "Utah Mayor Killed In Apparent ‘Insider Attack’ In Afghanistan | NBC Nightly News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pug8tAjQ5sk",
             "title": "Watch Highlights From 2020 Candidates And Lawmakers At The Texas Tribune Festival  | NBC News",
             "secondDuration": 354,
@@ -301,8 +295,14 @@
             "title": "President Donald Trump, Greek PM Alexis Tsipras Hold White House Press Conference | NBC News",
             "secondDuration": 2999,
             "group": "group_7"
+        },
+        {
+            "videoId": "yUomRyrqLng",
+            "title": "Miami Beach Police Face Complaints Over Curfew, Response To Crowds | NBC News NOW",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

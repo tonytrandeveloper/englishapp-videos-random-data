@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qjeAZSmXqWc",
-            "title": "Obama Kite Surfs, Enjoys Some Downtime",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "tlOzIzFAy30",
             "title": "Rand Paul 'This Week': Due Process is Not Looking at 'Flash Cards and a Power Point Presentation'",
             "secondDuration": 497,
@@ -31,8 +25,14 @@
             "title": "Women are running for office in Texas at record numbers",
             "secondDuration": 455,
             "group": "group_7"
+        },
+        {
+            "videoId": "sdtrMzm3URk",
+            "title": "John Rood resigns at Trump’s request",
+            "secondDuration": 47,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

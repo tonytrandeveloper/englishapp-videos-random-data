@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Gc4OvkivjLk",
-            "title": "President Donald Trump: No Deal Reached Yet With Democrats To Extend DACA | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "EOMZJRasFKI",
             "title": "‘Black Panther’ Director Mistaken For Bank Robber According To Police",
             "secondDuration": 258,
@@ -121,8 +115,14 @@
             "title": "Democratic Presidential Debate - June 26 (Full) | NBC News",
             "secondDuration": 9360,
             "group": "group_7"
+        },
+        {
+            "videoId": "oNpSF6wW4Ag",
+            "title": "Pfizer Says Its Covid Pill Reduces Risk of Hospitalization, Death",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

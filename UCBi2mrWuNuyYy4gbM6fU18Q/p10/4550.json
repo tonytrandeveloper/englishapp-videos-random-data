@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GvhPkM9wytE",
-            "title": "US-Canada border bridge reopens after week-long closure amid trucker protests",
-            "secondDuration": 441,
-            "group": "group_7"
-        },
-        {
             "videoId": "vMt6VFUAUPQ",
             "title": "Jessica Ridgeway Abduction Case: Hunt For Child Predator",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Stimulus stalemate leaves economy on the brink | ABC News",
             "secondDuration": 346,
             "group": "group_7"
+        },
+        {
+            "videoId": "Run6UA8zn5I",
+            "title": "Politico's Alex Isenstadt on 'Top Line'",
+            "secondDuration": 430,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

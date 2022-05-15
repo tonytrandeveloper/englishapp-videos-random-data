@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zVM3xaTia_Q",
-            "title": "Trump sues Facebook, Twitter and Google",
-            "secondDuration": 467,
-            "group": "group_7"
-        },
-        {
             "videoId": "2ycL1F7-L4s",
             "title": "Police request public's help after 4 people found slain in company building",
             "secondDuration": 85,
@@ -121,8 +115,14 @@
             "title": "Budget Cmte Freshman: 'Stop Worrying About Politics'",
             "secondDuration": 596,
             "group": "group_7"
+        },
+        {
+            "videoId": "wHH4dgqNOQQ",
+            "title": "'Star Wars: The Force Awakens': Gwendoline Christie Takes On New Role",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

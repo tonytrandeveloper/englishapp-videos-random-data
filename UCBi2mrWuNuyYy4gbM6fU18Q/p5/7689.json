@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zHaOe0RfatI",
-            "title": "Stimulus Status Report",
-            "secondDuration": 305,
-            "group": "group_7"
-        },
-        {
             "videoId": "sbS08C22Mi0",
             "title": "Biden addresses nation on omicron variant | ABC News",
             "secondDuration": 1354,
@@ -31,8 +25,14 @@
             "title": "Drive-through testing facilities introduced in South Korea to fight coronavirus | ABC News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "emHbC_DfM0E",
+            "title": "ABC News Prime: Pres. Biden's high stakes trip; Low vaccination rates in the South; CA drought fears",
+            "secondDuration": 5074,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

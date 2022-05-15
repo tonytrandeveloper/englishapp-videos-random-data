@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LZNNii2gcFc",
-            "title": "White House Holds Press Briefing: July 19 | NBC News",
-            "secondDuration": 2676,
-            "group": "group_7"
-        },
-        {
             "videoId": "bt1pL9p7KGk",
             "title": "Americans Tune In To Brett Kavanaugh Hearings | NBC Nightly News",
             "secondDuration": 94,
@@ -121,8 +115,14 @@
             "title": "Helen Mirren Pushes To Recover Art Stolen By Nazis | NBC News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "qmZWyG-Kg0c",
+            "title": "Mona Lisa Has Something To Smile About As Louvre Reopens | NBC News NOW",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

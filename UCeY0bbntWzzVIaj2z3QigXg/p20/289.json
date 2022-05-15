@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WN9hqFgAU_0",
-            "title": "Tesla Under Federal Investigation For 'Phantom Braking'",
-            "secondDuration": 226,
-            "group": "group_7"
-        },
-        {
             "videoId": "wiehdYUvWMg",
             "title": "President Trump Backs Down From Border Wall Funding Requirement | NBC Nightly News",
             "secondDuration": 111,
@@ -121,8 +115,14 @@
             "title": "50 Years Later: Kent State Shooting | NBC Nightly News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jh2YskguW84",
+            "title": "Trump Stokes Divisions As The Pandemic Continues To Grow | Meet The Press | NBC News",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gKzPX6Eu2Z4",
-            "title": "Violent brawl between teacher and student in California classroom",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "ULOCUPLCMhM",
             "title": "Suspect who confessed to Mollie Tibbetts' murder lied about employment",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton Making Her Case",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "nsv_-CbvIlU",
+            "title": "Lawsuit reportedly filed in federal court against Georgia gubernatorial candidate",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

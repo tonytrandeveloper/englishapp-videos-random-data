@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZH5qtjcpNtQ",
-            "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 1637,
-            "group": "group_7"
-        },
-        {
             "videoId": "okFQLP9EB4g",
             "title": "How Will Social Media Companies Combat Election Meddling? | NBC News",
             "secondDuration": 173,
@@ -31,8 +25,14 @@
             "title": "Massive Teacher Strike Looms At Nation’s Second-Largest School District | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "bNtF9mxlrqw",
+            "title": "NASA-Contracted Rocket Explodes | NBC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

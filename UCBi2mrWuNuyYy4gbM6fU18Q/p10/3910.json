@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZArm1vaLz38",
-            "title": "Save Big on Your Cellphone Bill",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "uz53jNXJFqs",
             "title": "Trump calls Puerto Rico ‘one of the most corrupt places on Earth’",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Aimee Copeland Heads Home After Rehab",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "pPbeMdJW7Jk",
+            "title": "Electric airplanes could be future of delivery",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

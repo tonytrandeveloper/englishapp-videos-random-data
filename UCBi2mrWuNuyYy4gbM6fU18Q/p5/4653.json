@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XnsD00Mo39E",
-            "title": "Equifax ex-CEO testifies about data breach on Capitol Hill",
-            "secondDuration": 10807,
-            "group": "group_7"
-        },
-        {
             "videoId": "2Ibl8IlbiQc",
             "title": "GOP Goes Full Steam Ahead to Iowa",
             "secondDuration": 385,
@@ -31,8 +25,14 @@
             "title": "Republicans accuse Democrats of using Jan. 6 as a partisan wedge",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "Odu9oUcphaE",
+            "title": "President Obama Cancels Moscow Trip: Tensions Signaling a New Cold War?",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

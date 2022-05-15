@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IRuin3EkJNQ",
-            "title": "Andrew Yang Chokes Up Talking About Campaigning In Iowa Over Two Years | NBC News",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "hE7TX5Z3aEg",
             "title": "Sean Penn Say He Wanted El Chapo Interview to Highlight ‘War on Drugs’ | NBC Nightly News",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Sean Spicer: Michael Flynn Resigned Over Trust Issue, Not Legal Issue | NBC News",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "OJiHZ_djUZ8",
+            "title": "Israeli Bombardment Of Gaza Appears To Intensify | NBC News",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

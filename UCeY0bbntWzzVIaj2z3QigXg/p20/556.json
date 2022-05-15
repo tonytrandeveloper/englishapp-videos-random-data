@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "iIiw_WBfmPI",
-            "title": "Nightly News Full Broadcast - October 20th",
-            "secondDuration": 1286,
-            "group": "group_7"
-        },
-        {
             "videoId": "_uBZetRxygY",
             "title": "Inside The Rise Of Qanon-Affiliated Candidates For Congress | NBC News NOW",
             "secondDuration": 397,
@@ -121,8 +115,14 @@
             "title": "Galveston Mayor: Strong Winds From Nicholas ‘Caught Us By Surprise’",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "MUfYGwqvzxw",
+            "title": "Terrified Child Heard Calling 911 As Parents Overdose While Driving | NBC Nightly News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

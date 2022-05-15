@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hlM50z6dCH0",
-            "title": "President Obama, First Family Arrive in Havana Cuba",
-            "secondDuration": 335,
-            "group": "group_7"
-        },
-        {
             "videoId": "UXhA2WhUls8",
             "title": "Marvel’s ‘Secret Empire’: Spider-man, Black Widow conspire to assassinate Captain America",
             "secondDuration": 1914,
@@ -31,8 +25,14 @@
             "title": "Former Marine Kidnapped in Mexico, Armando Torres III Held at Gunpoint",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "siqYTbPaWbo",
+            "title": "Bus driver saves 2 children wandering alone in bitter cold l ABC News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

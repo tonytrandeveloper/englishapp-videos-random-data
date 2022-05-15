@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0mykacTLwfw",
-            "title": "How to Safeguard Your Car From Hackers",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "3t9mJiE7f-w",
             "title": "WEBCAST: Buffed out Bods",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Clinton Foundation To Stop Foreign Donations if Hillary Becomes President",
             "secondDuration": 29,
             "group": "group_7"
+        },
+        {
+            "videoId": "4fbRyczMCwA",
+            "title": "Senate report on Jan. 6 Capitol assault finds intelligence failures and more",
+            "secondDuration": 377,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

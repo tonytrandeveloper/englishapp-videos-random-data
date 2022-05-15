@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qPvYG41ihs4",
-            "title": "Instant Index: Actress and Activist Ruby Dee Dead at 91",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "ULA3NZEbJrc",
             "title": "Bill Cosby Arraigned for Alleged Aggravated Indecent Assault",
             "secondDuration": 409,
@@ -31,8 +25,14 @@
             "title": "Trump talks health care, economy in campaign-style rally",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "95DEJQWMVEg",
+            "title": "Investors wonder what will happen on Wall Street next?",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

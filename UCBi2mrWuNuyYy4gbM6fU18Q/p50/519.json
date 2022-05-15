@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "CdgpNBsn_hM",
-            "title": "'Star Wars' marks 'Life Day' with new special",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "lq9KO_rVmT4",
             "title": "Karachi, Pakistan Celebrates the Start of 2017",
             "secondDuration": 70,
@@ -301,8 +295,14 @@
             "title": "Accused Charleston Shooter Dylann Roof Had List of Other Black Churches",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "qbiLzky8CO8",
+            "title": "Winter Storm Slams Southern U.S.",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

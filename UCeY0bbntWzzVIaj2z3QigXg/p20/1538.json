@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SfG0M2VhMSk",
-            "title": "Nightly News Full Broadcast - March 16",
-            "secondDuration": 1264,
-            "group": "group_7"
-        },
-        {
             "videoId": "YKditCmU_yw",
             "title": "The Marines Are Taking 'Man' Out Of Gendered Job Titles | NBC News",
             "secondDuration": 68,
@@ -121,8 +115,14 @@
             "title": "Widow Of American Farmer Trying To Erase Stigma Of Mental Health In The Heartland | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "WaEXScN_EpU",
+            "title": "GOP Health Care Bill Delayed After Sen. John McCain’s Surgery | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

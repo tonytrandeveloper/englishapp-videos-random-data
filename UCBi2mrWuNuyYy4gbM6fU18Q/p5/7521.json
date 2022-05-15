@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7cG5hJExWlY",
-            "title": "Diane Sawyer in the Gulf",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "L35bf71ygO8",
             "title": "Tom Petty's music inspired generations of people",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Trump calls out NRA in meeting on gun control",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "f4QSiKOPlYk",
+            "title": "Kamala Harris and Mike Pence discuss foreign policies l VP Debate 2020",
+            "secondDuration": 823,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

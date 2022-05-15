@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BMLc_wPQGHU",
-            "title": "Wilson Ramos Kidnapped",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "W0QZXJoFcfE",
             "title": "'Star Wars' Advice From William Shatner: Leia-Chewbacca Love Scene",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "'GMA' Flies Drone Over Erupting Volcano Live",
             "secondDuration": 407,
             "group": "group_7"
+        },
+        {
+            "videoId": "nTs-h5jaByU",
+            "title": "Tennis association apologizes in female player's shirt flap",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

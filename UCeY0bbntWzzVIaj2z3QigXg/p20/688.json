@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CdoPVhGT8aE",
-            "title": "NBC Nightly News with Brian Williams: It's Personal (Covering Hurricane Sandy)",
-            "secondDuration": 21,
-            "group": "group_7"
-        },
-        {
             "videoId": "UmkqXL_MjsQ",
             "title": "Orlando Gunman’s Father: ‘I Don’t Approve Of Any Terrorist Activity’ | NBC Nightly News",
             "secondDuration": 169,
@@ -121,8 +115,14 @@
             "title": "12 Women Accuse Rapper T.I. And His Wife Tiny Of Sexual Assault, Misconduct | NBC News NOW",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "oZf7IASx2mE",
+            "title": "Hillary Clinton: Donald Trump Has History of Complaining About Rigging | NBC News",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

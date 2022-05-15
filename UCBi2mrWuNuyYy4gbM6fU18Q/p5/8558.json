@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "x-kPMoJ0g6A",
-            "title": "ABC World News Now - Baby Yoga With Diana Perez",
-            "secondDuration": 239,
-            "group": "group_7"
-        },
-        {
             "videoId": "u4sNwR5-aV8",
             "title": "Angelina Jolie Reveals She Had Her Ovaries Removed",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Tina Turner to Ditch American Citizenship, to Become Citizen of Switzerland",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "cFdh08PpjH0",
+            "title": "CES 2013 in 60 Seconds: Tobii Rex CES Review, Control Computer with Eyes",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

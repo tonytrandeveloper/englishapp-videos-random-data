@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bf8Odt43kvA",
-            "title": "Bill Cosby Found Guilty Of Sexual Assault In Retrial | NBC Nightly News",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "pIqLE35tFe8",
             "title": "'Masks Matter': Biden Criticizes Trump For Removing Mask Upon Arriving At The White House | NBC News",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Amazon Under Fire As QAnon Book Climbs Best-Seller List | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "f0x1A2M132k",
+            "title": "White House Holds Press Briefing: March 26 | NBC News",
+            "secondDuration": 2203,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

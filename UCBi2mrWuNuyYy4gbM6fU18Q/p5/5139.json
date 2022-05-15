@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2snLZdttsLc",
-            "title": "WEBCAST: Ice Cream Sundae in a Can!",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "o-bRvVtS-XM",
             "title": "US Female Senators Make History",
             "secondDuration": 216,
@@ -31,8 +25,14 @@
             "title": "Senate set to take up voting rights bill",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "CvsiVobyyUQ",
+            "title": "Breastfeeding Mothers Fight Back at Nurse-In Protest",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

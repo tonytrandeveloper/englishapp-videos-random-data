@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cFSWgn6jKkg",
-            "title": "Japan Earthquake: New Video Footage Amazes (03.15.11)",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "-ZI1xH_QyHQ",
             "title": "‘American Sniper’ Trial: Murder of Chris Kyle",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Boo's New Gig With Virgin Airlines",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "q5LykzHFgYM",
+            "title": "Your Voice: The 1st dose of the COVID-19 vaccine",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "J0-aW0y3Bz0",
-            "title": "Go Inside The Last Stop For Lost Luggage | NBC Nightly News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "kQc_wPtuvXw",
             "title": "Disneyland Measles Outbreak Spreads To 27 States | NBC Nightly News",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "Will $27M Settlement With George Floyd’s Family Impact Chauvin’s Upcoming Trial? | NBC News NOW",
             "secondDuration": 240,
             "group": "group_7"
+        },
+        {
+            "videoId": "NB4PzOkWBFo",
+            "title": "NBC News Signal - March 7th, 2019",
+            "secondDuration": 1932,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KcSEAsRiCNo",
-            "title": "President Donald Trump Speaks From WH After North Korea Missile Launch, Tax Meeting | NBC News",
-            "secondDuration": 832,
-            "group": "group_7"
-        },
-        {
             "videoId": "Fpicec_Gm2E",
             "title": "House Of Horrors Victims Speak Out As Parents Sentenced To Life In Prison | NBC Nightly News",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "80-Year-Old General Motors Plant In Michigan Halting Production | NBC Nightly News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "eVfsi9ikz2k",
+            "title": "Fmr. President Obama Mocks Trump's Middle-Class Tax Cut: ‘Congress Isn’t Even In Session’ | NBC News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

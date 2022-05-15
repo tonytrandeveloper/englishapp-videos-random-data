@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FJGcfP57J1s",
-            "title": "Donald Trump Touts ‘No Collusion’ To Cheering Crowd After Mueller Report Release | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "W4T7Sw6qxrs",
             "title": "Remembering Pearl Harbor 75 Years Later At USS Arizona Memorial | NBC News",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Chaos And Confusion End In Tragedy On ‘Rust’ Film Set",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "FgnBCZnR9hA",
+            "title": "Firefighter Befriends Boy He Saved After Texas Church Massacre | NBC Nightly News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

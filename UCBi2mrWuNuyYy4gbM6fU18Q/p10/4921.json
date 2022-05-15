@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1vHAWEnh8Lg",
-            "title": "Aaron Hernandez's family questions suicide reports",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "TJ74fmKO1Zc",
             "title": "Anton Yelchin Killed in a Freak Accident",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "New 'Lion King' Movie, Bethenny Frankel's Sleepover With Eric Stonestreet and More in Pop News",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "VZwPFb5E6XU",
+            "title": "Popcorn Extra: Web Therapy with Lisa Kudrow and Peter Travers",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

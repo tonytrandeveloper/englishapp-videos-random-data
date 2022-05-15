@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3D4wPpXqw6k",
-            "title": "Nightly News Full Broadcast - Nov. 25",
-            "secondDuration": 1284,
-            "group": "group_7"
-        },
-        {
             "videoId": "nBBCbKsa_Mg",
             "title": "Special Report: Special Report: Trump arrives in Vietnam for summit with Kim Jong Un",
             "secondDuration": 3189,
@@ -31,8 +25,14 @@
             "title": "Pennsylvania Nurses Go On Strike As Covid Cases Surge | NBC News NOW",
             "secondDuration": 1242,
             "group": "group_7"
+        },
+        {
+            "videoId": "Mx7fGcfDpR0",
+            "title": "Swedish Crown Jewels Stolen In Broad Daylight Heist | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7RAqXnzdfVk",
-            "title": "Way Too Early: The 2020 Election | NBC News",
-            "secondDuration": 19709,
-            "group": "group_7"
-        },
-        {
             "videoId": "tFxNgce1xTU",
             "title": "Greta Thunberg ‘Will Be Back On The Streets’ For Global Climate Strike",
             "secondDuration": 108,
@@ -121,8 +115,14 @@
             "title": "NBC News projects Joe Biden The Winner Of The North Carolina Primary | NBC News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "0OHRhxvXWpE",
+            "title": "Rep. Plaskett Argues Trump 'Deliberately Encouraged' Violence That Occurred In The Capitol Riot",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

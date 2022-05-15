@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LmW8cCGaYhc",
-            "title": "Amy Winehouse's Last Days",
-            "secondDuration": 299,
-            "group": "group_7"
-        },
-        {
             "videoId": "1p523R7cW4k",
             "title": "Virginia College Student Returns to School With a New Prosthetic Leg",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "'GMA' Backyard BBQ Cook-Off: Anchors' Summer Eats",
             "secondDuration": 285,
             "group": "group_7"
+        },
+        {
+            "videoId": "crWbVyfXlLM",
+            "title": "Pregnant Teen Boys Seen in Chicago Ad: City Officials Push Awareness to Lower Teen Pregnancy",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

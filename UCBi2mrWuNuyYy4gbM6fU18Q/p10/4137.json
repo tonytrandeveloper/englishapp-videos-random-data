@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "glVgdqM3Zjw",
-            "title": "Bindi Irwin Creates Wildlife Charity in Honor of Her Dad",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "fa7XKKr61Ng",
             "title": "Barbara Walters Asks Donald Trump About Banning Syrian Refugees",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "Rescue group works to save marine life after California oil spill",
             "secondDuration": 381,
             "group": "group_7"
+        },
+        {
+            "videoId": "idpsY1dOC8g",
+            "title": "Trudeau addresses protest",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-3p8x70ytic",
-            "title": "What Year Was It?",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "7xKzPVYUc8E",
             "title": "Made in America: Holiday edition",
             "secondDuration": 184,
@@ -121,8 +115,14 @@
             "title": "Italy Earthquake Death Toll Climbs to 120",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "Esn8jlV5bhk",
+            "title": "Dallas Cowboy Jerry Brown Jr. Killed in Alleged Drunken Driving Crash",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

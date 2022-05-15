@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3Hl0eDMMMrg",
-            "title": "Delta’s Latest Safety Video",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "6MD5SU1J97s",
             "title": "California’s escalating COVID-19 crisis",
             "secondDuration": 383,
@@ -121,8 +115,14 @@
             "title": "Kamiyah Mobley shares about learning from her mother she was stolen as a baby | Nightline",
             "secondDuration": 564,
             "group": "group_7"
+        },
+        {
+            "videoId": "oh2KcQc_PGM",
+            "title": "Teen rescued after 49 days at sea",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

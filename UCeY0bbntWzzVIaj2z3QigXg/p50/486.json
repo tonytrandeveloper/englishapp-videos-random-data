@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "uJUyb1Ylagw",
-            "title": "Morning News NOW Full Broadcast - April 19 | NBC News NOW",
-            "secondDuration": 2552,
-            "group": "group_7"
-        },
-        {
             "videoId": "CgQTAnrOW4U",
             "title": "Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
             "secondDuration": 1811,
@@ -301,8 +295,14 @@
             "title": "Philadelphia Hits Record Homicides As Rates Rise Across U.S.",
             "secondDuration": 313,
             "group": "group_7"
+        },
+        {
+            "videoId": "_uyC2iqeKQU",
+            "title": "Watch Eric Trump’s Full Speech At The 2020 RNC | NBC News",
+            "secondDuration": 548,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

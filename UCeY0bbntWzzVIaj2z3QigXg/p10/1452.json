@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "32adTHDuEt0",
-            "title": "State Of The Union: GOP Response's Many Faces | NBC News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "vB6Q9XJ50H4",
             "title": "Israeli Security Firm Allegedly Targeted U.S. Officials | NBC Nightly News",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "AG Merrick Garland Reverses Trump-era Immigration Policy",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "HZof-hedxFA",
+            "title": "WATCH: China, U.S. Trade Rebukes At Alaska Diplomatic Talks | NBC News NOW‌",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "fO9EWw-RcJk",
-            "title": "Nightly News Full Broadcast - October 26th",
-            "secondDuration": 1143,
-            "group": "group_7"
-        },
-        {
             "videoId": "QMa-L7d6Oq4",
             "title": "Full Perdue: 'There’s no rush here' on Kavanaugh hearings | Meet The Press | NBC News",
             "secondDuration": 457,
@@ -301,8 +295,14 @@
             "title": "Desperate Search For Florida Woman Missing In Costa Rica | NBC Nightly News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z0Yh5XI9jTA",
+            "title": "CDC Finds THC Products May Play Role In outbreak Of Vaping-Related Illnesses | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

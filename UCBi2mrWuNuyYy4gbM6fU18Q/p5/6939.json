@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "t_x2ey2IDDk",
-            "title": "Violence escalates between Palestinians, Israelis in Middle East l ABC News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "sq2tciGtsI4",
             "title": "Mobile Free Clinic Helps Thousands in a Weekend",
             "secondDuration": 340,
@@ -31,8 +25,14 @@
             "title": "Democrats respond to pulled GOP healthcare bill",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "MlDeQshxS_o",
+            "title": "Crowdfunding Medical Expenses: A Tale of Two Families",
+            "secondDuration": 433,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

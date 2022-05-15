@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HM_bow18l4s",
-            "title": "Watch: Trump Comments On Iranian General’s Death | NBC News (Live Stream)",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "hGucyVPsCp8",
             "title": "Tom Brokaw Visits The National World War II Museum In New Orleans | NBC Nightly News",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Battle For Terri Schiavo's Death Remembered | Flashback | NBC News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "2I00fX7Am7c",
+            "title": "U.S. Issues New Sanctions Against Cuba",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

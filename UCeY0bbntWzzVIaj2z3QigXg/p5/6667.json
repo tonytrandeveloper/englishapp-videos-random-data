@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Nm3DSYqC2JQ",
-            "title": "Ben Rhodes: President Obama Felt Rapid Global Change Led To Donald Trump | Meet The Press | NBC News",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "RRgt0I6xsZQ",
             "title": "Internet Browsing Privacy At Center Of Capitol Hill Fight | NBC Nightly News",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "Wildfire Disaster Worsens as Australian Navy Rescues Evacuees Stranded On A Beach | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "Mqyx1JHKIFs",
+            "title": "Biden Delivers Remarks On The Economy | NBC News",
+            "secondDuration": 1375,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

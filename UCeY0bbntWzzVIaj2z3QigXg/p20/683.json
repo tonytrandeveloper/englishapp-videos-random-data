@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "D7pft8FHpF8",
-            "title": "Morning News NOW Full Broadcast - Feb. 8",
-            "secondDuration": 2441,
-            "group": "group_7"
-        },
-        {
             "videoId": "rCJXedvtHt8",
             "title": "James Mattis Jokes About Trump's 'Overrated General' Comment | NBC News",
             "secondDuration": 79,
@@ -121,8 +115,14 @@
             "title": "California Authorities Destroy Boats And Clear Floating Community",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ze4ra1Ns33g",
+            "title": "President Donald Trump: Nancy Pelosi ‘Hates All Of The People That Voted For Me’ | NBC Nightly News",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

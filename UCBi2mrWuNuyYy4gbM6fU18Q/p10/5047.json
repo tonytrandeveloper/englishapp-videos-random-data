@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "y7wB3BrttuM",
-            "title": "The Fame Game",
-            "secondDuration": 397,
-            "group": "group_7"
-        },
-        {
             "videoId": "gB_zFavVCAI",
             "title": "White House National Security Adviser on Charlottesville: 'Any attack to incite fear is terrorism'",
             "secondDuration": 672,
@@ -61,8 +55,14 @@
             "title": "Obamacare Repeal: House Takes First Steps",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ox-TjCORzMY",
+            "title": "GIF Helps Curb Anxiety",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

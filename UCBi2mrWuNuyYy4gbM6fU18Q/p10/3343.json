@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r906ikuszjA",
-            "title": "Deadly California fire burns over 90,000 acres",
-            "secondDuration": 299,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZNkiqxUr8to",
             "title": "The World Reacts to Star Wars Opening Night | ABC News",
             "secondDuration": 215,
@@ -61,8 +55,14 @@
             "title": "Murder Mystery: Who Killed Farm Couple?",
             "secondDuration": 571,
             "group": "group_7"
+        },
+        {
+            "videoId": "lE7DQVZlO5U",
+            "title": "Pres. Trump addresses US policy on Afghanistan: Special Report",
+            "secondDuration": 1774,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

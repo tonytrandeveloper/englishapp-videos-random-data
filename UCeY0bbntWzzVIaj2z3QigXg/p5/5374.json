@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5IRT8CH078A",
-            "title": "Slain NYPD Officer Rafael Ramos Mourned | NBC Nightly News",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bw7ps4BzL8U",
             "title": "Judge On Controversial Guyger Hug: ‘We’re All Human’ | NBC News Now",
             "secondDuration": 266,
@@ -31,8 +25,14 @@
             "title": "Inspiring America: Big Company Helps Father Preserve His Son’s Memory | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "cpnrAudwJDE",
+            "title": "WATCH: Base Jumpers Parachute Into Busy Moscow Traffic",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

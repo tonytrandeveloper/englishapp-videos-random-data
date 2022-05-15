@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vhjjUSpL_eQ",
-            "title": "Multiple people killed at MillerCoors building in Milwaukee | WNT",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "q_DQW78TZEI",
             "title": "'Glee' Addresses Gun Violence With School Shooting",
             "secondDuration": 41,
@@ -61,8 +55,14 @@
             "title": "Child Care Rescue",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "WjekJPvQW6Q",
+            "title": "Whitney Houston and 'The Bodyguard'",
+            "secondDuration": 492,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

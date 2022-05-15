@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S7tCNO5FDJk",
-            "title": "Did CIA Torture Provide Useful Information? | NBC News",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "s4ExbHL8Ujg",
             "title": "Family Speaks Out After 6-Year-Old Hospitalized For 18 Days With Covid",
             "secondDuration": 317,
@@ -31,8 +25,14 @@
             "title": "Small Businesses Without Power Rely on Cash and Paper",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "yfAV0_Qdq54",
+            "title": "Live: White House Holds Press Briefing | NBC News",
+            "secondDuration": 3806,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

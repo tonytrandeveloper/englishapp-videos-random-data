@@ -3,18 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H5bSGdZk8pQ",
-            "title": "ENGLISH SPEECH | KEANU REEVES: Be Thankful (English Subtitles)",
-            "secondDuration": 625,
-            "group": "group_1"
-        },
-        {
-            "videoId": "d4mrO13trBY",
-            "title": "ENGLISH SPEECH | PREITY ZINTA: Women's Empowerment (English Subtitles)",
-            "secondDuration": 911,
-            "group": "group_1"
-        },
-        {
             "videoId": "1c4QHf5Ul3c",
             "title": "ENGLISH SPEECH | TOM HANKS: Fear or Faith? (English Subtitles)",
             "secondDuration": 1369,
@@ -31,8 +19,20 @@
             "title": "ENGLISH SPEECH | ZENDAYA: We're the Future (English Subtitles)",
             "secondDuration": 522,
             "group": "group_1"
+        },
+        {
+            "videoId": "yrwhd4coEAU",
+            "title": "ENGLISH SPEECH | ED SHEERAN: Embrace Your Weirdness (English Subtitles)",
+            "secondDuration": 324,
+            "group": "group_1"
+        },
+        {
+            "videoId": "r5-5nFa6oW0",
+            "title": "ENGLISH SPEECH | CHIMAMANDA NGOZI ADICHIE: Be Courageous (English Subtitles)",
+            "secondDuration": 1564,
+            "group": "group_1"
         }
     ],
-    "nbPages": 35,
-    "nbResults": 172
+    "nbPages": 34,
+    "nbResults": 168
 }

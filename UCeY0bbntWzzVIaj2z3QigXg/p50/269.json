@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-kiT122KG5Q",
-            "title": "Fauci: New Treatment Plan Will Help Prepare Against Future Pandemics",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "ceyNfPiSjMA",
             "title": "As Christmas Nears, Fauci Warns Against Holiday Travel | NBC Nightly News",
             "secondDuration": 116,
@@ -301,8 +295,14 @@
             "title": "NYPD Holds Briefing On Terror Attack (Full) | NBC News",
             "secondDuration": 2982,
             "group": "group_7"
+        },
+        {
+            "videoId": "nAsYesijj9M",
+            "title": "Trump Meets With Prime Minister Of Greece | NBC News (Live Stream)",
+            "secondDuration": 1366,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

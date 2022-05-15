@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Nl5moVRUPfM",
-            "title": "Watch Live: Trump, India's Modi Deliver Joint Statements",
-            "secondDuration": 1791,
-            "group": "group_7"
-        },
-        {
             "videoId": "MI2F3ir0uek",
             "title": "Biden Defends Infrastructure Plan: ‘Inaction Simply Is Not An Option’ | NBC News NOW",
             "secondDuration": 209,
@@ -121,8 +115,14 @@
             "title": "LA County Built Its New Voting Machines From Scratch. Will They Be Ready? | NBC Nightly News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "xvs2Xz_ro7o",
+            "title": "Barack Obama On The Campaign Trail In Midterm Push For Democrats | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lgl3JN2Stc0",
-            "title": "Former Vice President Joe Biden: ‘The President Uses The White House As A Literal Bully’ | NBC News",
-            "secondDuration": 2057,
-            "group": "group_7"
-        },
-        {
             "videoId": "49MBlWtICys",
             "title": "How Raising A Baby With Zika Changed One Mother’s Life | NBC News",
             "secondDuration": 272,
@@ -31,8 +25,14 @@
             "title": "Tornadoes Strike New Orleans Area That Was Devastated By Katrina | NBC Nightly News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "NSS18cYLCxg",
+            "title": "Mayorkas: CDC Has Determined Title 42 To ‘Still Be Necessary’",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

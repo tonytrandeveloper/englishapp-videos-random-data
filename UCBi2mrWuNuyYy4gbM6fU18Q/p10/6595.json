@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "I2wrH-wLDUQ",
-            "title": "Olivia Munn | Detective in 'Ride Along 2' with Kevin Hart",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "lkbOHSOB080",
             "title": "'Dancing with the Stars' Season 15 Cast Announced",
             "secondDuration": 295,
@@ -61,8 +55,14 @@
             "title": "Trump admits to deliberately playing down COVID-19 threat in February: Reports | WNT",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "41TyycZHMWw",
+            "title": "Trump redecorates White House with gold walls, chandelier",
+            "secondDuration": 370,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

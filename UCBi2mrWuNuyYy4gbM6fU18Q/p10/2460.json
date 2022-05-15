@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VFM66KAU878",
-            "title": "WEBCAST: Charles Manson Gets Marriage License",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "xcJXa5hLlsM",
             "title": "The moment House passed Obamacare replacement bill",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "Outrage Over Miss Universe Taj Mahal Photo Shoot",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "uI8kB3XGjbk",
+            "title": "Boston Bomber Breaks His Silence and Apologizes",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LT4dQ_SuTfU",
-            "title": "Kentucky Gov. Beshear Briefs On Deadly Tornado Aftermath | NBC News",
-            "secondDuration": 2166,
-            "group": "group_7"
-        },
-        {
             "videoId": "EMpMTda8lHo",
             "title": "Russia Denies Involvement In Alleged Ukraine Coup Plot",
             "secondDuration": 132,
@@ -121,8 +115,14 @@
             "title": "Four Additional Oath Keepers Arrested And Charged Over Capitol Riot",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "7qC3XNTMalE",
+            "title": "LIVE: Kim Potter Testifies In Trial On Daunte Wright's Death | NBC News",
+            "secondDuration": 11151,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

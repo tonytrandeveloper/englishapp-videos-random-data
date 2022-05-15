@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9wptadEdYtk",
-            "title": "Special report: Trump holds news conference before departing Davos",
-            "secondDuration": 3429,
-            "group": "group_7"
-        },
-        {
             "videoId": "iZUhqnr7Qp0",
             "title": "U.S. Hits Five Million Cases, One Death Every 77 Seconds | Meet The Press | NBC News",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "SCOTUS Ruling Restricts Unions From Reaching California Farmworkers",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "3OhXL5wbuEU",
+            "title": "White House Holds Press Briefing: June 1 | NBC News",
+            "secondDuration": 1320,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

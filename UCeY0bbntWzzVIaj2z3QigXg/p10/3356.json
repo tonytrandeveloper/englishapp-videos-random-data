@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r8Gl0PVXpY4",
-            "title": "Malia Obama Graduates From High School | NBC Nightly News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xkjb2bkKQjo",
             "title": "Trump Pardons Roger Stone, Paul Manafort, Charles Kushner And Others | NBC Nightly News",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Man Arrested After Protester Shot During Demonstration Over NM Conquistador Statue | NBC News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "aQlEE7GNunE",
+            "title": "Health Care Bill: Senate Again Rejects Obamacare Repeal | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

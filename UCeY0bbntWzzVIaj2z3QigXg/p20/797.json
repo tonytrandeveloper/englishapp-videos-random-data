@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NWluoaiZJKw",
-            "title": "Paris Attack Survivors Describe ‘Bloodbath’: 30 Minutes of Terror | NBC Nightly News",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "gt3P8E4nknM",
             "title": "Silent in Seattle: Thousands March In Quiet Support of Black Lives Matter | NBC News",
             "secondDuration": 64,
@@ -121,8 +115,14 @@
             "title": "Reagan's Joke Lead To Red Alert | Flashback | NBC News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "Nl5moVRUPfM",
+            "title": "Watch Live: Trump, India's Modi Deliver Joint Statements",
+            "secondDuration": 1791,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

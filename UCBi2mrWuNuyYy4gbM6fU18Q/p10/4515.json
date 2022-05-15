@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z9QgSqt6pfo",
-            "title": "NFL Draft 2015: Trent Steelman’s 2nd Chance",
-            "secondDuration": 204,
-            "group": "group_7"
-        },
-        {
             "videoId": "aXicyKOfkMA",
             "title": "WEBCAST: Wing Walking Girls",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "Boston Bombing Day 4 | The Firefight: 'I Thought We Were Gonna Die'",
             "secondDuration": 571,
             "group": "group_7"
+        },
+        {
+            "videoId": "bnR5OR6cGM0",
+            "title": "Moore, Oklahoma Tornado Video: Father Reunited With Son After Storm Hits",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

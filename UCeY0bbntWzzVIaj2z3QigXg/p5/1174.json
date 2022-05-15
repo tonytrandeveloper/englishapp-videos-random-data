@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Dm2FQviiuS4",
-            "title": "Russian Soldiers Fled Chernobyl After Suffering Acute Radiation Sickness",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "VzWcXu3DkNA",
             "title": "Road Drones: Self Driving Trucks Cross Europe | 101 | NBC News",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Elderly Ukrainian Refugee Dies On Her Journey Out Of War Zone",
             "secondDuration": 232,
             "group": "group_7"
+        },
+        {
+            "videoId": "14fENjTChe8",
+            "title": "President Donald Trump Offers To 'Destroy' Texas State Senator's Career | NBC News",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

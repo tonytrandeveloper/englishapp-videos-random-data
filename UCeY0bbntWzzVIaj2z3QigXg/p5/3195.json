@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Yynow24_xK0",
-            "title": "U.S. Soldiers Mistakenly Raid Civilian Factory During Drill",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "MFwJrbZQjLI",
             "title": "Sen. Sheldon Whitehouse Has Made More Than 200 Speeches About Climate Change | NBC Nightly News",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Texas Police Searching For 14-Year-Old Suspect In Triple Homicide",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "s8qqpzrl4rI",
+            "title": "White House: Goal Of Immigration Agenda Is Not Mass Deportation | NBC News",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

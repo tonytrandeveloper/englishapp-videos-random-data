@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Pslpz1k5MTQ",
-            "title": "UFC fight spills out of the octagon",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "hZmGDWY_C-A",
             "title": "FBI ignored testimony in Kavanaugh investigation: Report",
             "secondDuration": 185,
@@ -301,8 +295,14 @@
             "title": "Oscar 2013 Preps Underway, Secret Rehearsals for Hilarious Host",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "gL95BxWd_VM",
+            "title": "'Empire' star Jussie Smollett charged in alleged racist attack case",
+            "secondDuration": 467,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1OQT3c2xR-M",
-            "title": "Shelter Dogs Play In The Dog Bowl In Hopes Of Finding Their ‘Forever Homes’ | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "nyNFhigc7w0",
             "title": "Israeli Airstrikes After Hamas Rockets Overshadow Eid Holiday In Gaza",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Trump To Deliver Additional 600,000 N95 Masks To New York City Hospitals | NBC News",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "OfzMkERVFu8",
+            "title": "Predictive Texting: How Your Phone’s Keyboard Figures Out What You Might Type Next | Mach | NBC News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

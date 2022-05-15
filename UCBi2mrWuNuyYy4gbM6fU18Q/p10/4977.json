@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5lnVZxQPqNE",
-            "title": "Alicia Keys' Mission: Inspiring Women",
-            "secondDuration": 298,
-            "group": "group_7"
-        },
-        {
             "videoId": "uE0BOMHBUdQ",
             "title": "McDonald's faces 25 accusations of sexual harassment",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "Brady Center launches new campaign to help keep kids safe from guns at home",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "fWbCBCcrhog",
+            "title": "Couple survives being trapped by 2 avalanches",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

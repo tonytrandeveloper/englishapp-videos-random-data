@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_eyWkoty_tM",
-            "title": "Pro-Democracy Protests Continue In Hong Kong Despite Coronavirus Restrictions | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "2AwnADyrFEw",
             "title": "The Race For Pennsylvania's Disappearing Congressional District | NBC News",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "Two Flights Land In Philadelphia With Multiple Sick Passengers | NBC Nightly News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "PJ1BC0g_PbQ",
+            "title": "Former Drone Pilots Denounce 'Morally Outrageous’ Program | NBC News",
+            "secondDuration": 416,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

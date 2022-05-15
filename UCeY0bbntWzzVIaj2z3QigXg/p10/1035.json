@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3DH8WnLLT4I",
-            "title": "Senator Kamala Harris Grills Brett Kavanaugh On Robert Mueller Investigation | NBC News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "WITQpFnBt-M",
             "title": "Taylor Swift In Court Over Groping Claim | NBC Nightly News",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "‘Too Bad!’: Donald Trump Reacts To Break-In At Cummings’ Baltimore Home | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "48uNRCQHxbM",
+            "title": "Across America: Theme Parks & The Road To Recovery",
+            "secondDuration": 1359,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

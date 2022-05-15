@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-yNVAx68FB0",
-            "title": "Donald Trump Participates in Commander-In-Chief Forum (Full) | NBC News",
-            "secondDuration": 1560,
-            "group": "group_7"
-        },
-        {
             "videoId": "g8H1g9CIH4Y",
             "title": "Jan. 6 Committee Subpoenas Tech Giants For Roles In Spreading Misinformation",
             "secondDuration": 254,
@@ -61,8 +55,14 @@
             "title": "Neutral Sweden, Switzerland Unite With Europe In Defense Against Russia",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "IxlSYQvGJuY",
+            "title": "London Apartment Building Burns In Massive Fire | NBC News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

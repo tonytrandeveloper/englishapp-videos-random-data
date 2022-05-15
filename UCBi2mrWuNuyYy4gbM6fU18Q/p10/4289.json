@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jwjUo3uPRys",
-            "title": "Charley Pride honored with lifetime achievement award at CMA Awards | WNT",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kf8xfXgFlco",
             "title": "Webcast: The End of Military Operations in Iraq",
             "secondDuration": 164,
@@ -61,8 +55,14 @@
             "title": "Dick Clark Dead at 82",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "AfELT9gVmPo",
+            "title": "F-35 Fighter Jet: The Future of Flight",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

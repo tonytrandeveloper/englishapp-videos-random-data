@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ttBPrhSXJXg",
-            "title": "Deal or No Deal?",
-            "secondDuration": 505,
-            "group": "group_7"
-        },
-        {
             "videoId": "P38UqPDbpjo",
             "title": "Donald Trump Makes Controversial Comments on 9/11 and George W. Bush",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "'Running of the Bulls Baltimore Edition' Ended by Police",
             "secondDuration": 44,
             "group": "group_7"
+        },
+        {
+            "videoId": "53ATAc1BOoc",
+            "title": "Guam residents react to North Korea missile threat",
+            "secondDuration": 250,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

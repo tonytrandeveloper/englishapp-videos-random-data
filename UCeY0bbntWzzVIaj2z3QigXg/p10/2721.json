@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VYhT_wHY0W0",
-            "title": "U.S. Added 235,000 Jobs in August",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "7Qd637TGzJI",
             "title": "Protesters Angered By Police Shooting of Amir Locke",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Hosts White House Easter Egg Roll And Touts Economy And Military | NBC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "AlaKNvjIhg4",
+            "title": "RFK Assassin Sirhan Sirhan Recommended For Parole",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

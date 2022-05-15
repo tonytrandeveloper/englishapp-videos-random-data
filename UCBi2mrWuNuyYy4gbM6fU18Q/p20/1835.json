@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qYanlvTS6G4",
-            "title": "Winter storm alerts from coast to coast",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "ogyKE-ZwQu0",
             "title": "New Image Released of Drug Kingpin \"El Chapo\"",
             "secondDuration": 126,
@@ -121,8 +115,14 @@
             "title": "What we can expect from Biden, Putin conversation",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "iPqlk9u5oCw",
+            "title": "WHO: 10 things to know for novel coronavirus (COVID-19) | ABC News",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

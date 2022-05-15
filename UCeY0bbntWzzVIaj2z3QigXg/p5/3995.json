@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pILMrZ3tscw",
-            "title": "Watch NBC News NOW Live - September 23",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "59XiaN6YNow",
             "title": "The Real Estate Company Conservative Move Helps Conservatives Move To Red States | NBC Nightly News",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "Rescue Dogs Become Avalanche Rescuers At Colorado Ski Resort | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "4Nirn4FyXH8",
+            "title": "Mike Pence Participates In Coronavirus Briefing With Airline CEOs | NBC News (Live Stream Recording)",
+            "secondDuration": 2585,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

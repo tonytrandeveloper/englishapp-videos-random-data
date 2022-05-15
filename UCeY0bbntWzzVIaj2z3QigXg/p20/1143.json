@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vFdCMTs5VnU",
-            "title": "Kamala Harris Holds Virtual Early Vote Event | NBC News",
-            "secondDuration": 2866,
-            "group": "group_7"
-        },
-        {
             "videoId": "AG61_CiZiEU",
             "title": "Sean Spicer's Comments On Adolf Hitler, Chemical Weapons Backfiring | NBC Nightly News",
             "secondDuration": 154,
@@ -121,8 +115,14 @@
             "title": "Public Policy Worships The Automobile — And We Pay The Price | Think | NBC News",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "3z5iuC4oya8",
+            "title": "Biden: Russia Will Pay ‘Severe Price’ If Chemical Weapons Used in Ukraine",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

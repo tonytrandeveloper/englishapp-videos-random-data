@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Cmv1TvLxlE0",
-            "title": "Legal Victory for George Zimmerman in Trayvon Martin Case",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "JM1I-7V_Fsg",
             "title": "Nadler threatens to hold William Barr in contempt for skipping House hearing",
             "secondDuration": 144,
@@ -31,8 +25,14 @@
             "title": "How Black sports in film have made important social statements",
             "secondDuration": 320,
             "group": "group_7"
+        },
+        {
+            "videoId": "T4_ba0fVUME",
+            "title": "New York State braces for spike in coronavirus cases",
+            "secondDuration": 378,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

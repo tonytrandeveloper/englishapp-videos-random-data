@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SdXAFeFXsMI",
-            "title": "Donald Trump Urges His Supporters to Be on the Lookout for Cheating",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "yomP_SY0pUY",
             "title": "Hong Kong protests, the Iowa State Fair, Eid celebrations: World in Photos, Aug. 16",
             "secondDuration": 180,
@@ -121,8 +115,14 @@
             "title": "Dog Rescued From Italian Earthquake Rubble",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "tLnJYhKErqY",
+            "title": "Snowboarder Catches Avalanche on Camera",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

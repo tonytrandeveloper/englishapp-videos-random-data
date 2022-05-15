@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Y4x8BFXW62I",
-            "title": "Sondland testifies, goose roundup, lightning strike: World in Photos, Nov. 20, 2019",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "nyfHwWWix1U",
             "title": "Key moments in the Derek Chauvin trial: Day 2",
             "secondDuration": 318,
@@ -121,8 +115,14 @@
             "title": "Authorities expect major disaster and record-breaking floods in Texas",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "fc8r7xW79QQ",
+            "title": "Diver frees starfish from sunglasses",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

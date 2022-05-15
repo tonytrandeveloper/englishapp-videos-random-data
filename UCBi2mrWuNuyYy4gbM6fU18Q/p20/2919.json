@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oWsVRJaxFmc",
-            "title": "Super Bowl Sunday: Countdown to the Big Game",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "OX2_rRIkspM",
             "title": "Trump faces backlash for comments on Hurricane Florence prep",
             "secondDuration": 215,
@@ -121,8 +115,14 @@
             "title": "Onboard Cameras Highlight the Dangers of Bus Crashes",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "yzbiNN9iUbA",
+            "title": "New Information on Female Suspect in Paris Attacks",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

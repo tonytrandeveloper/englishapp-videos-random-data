@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g4HUwqMsh1c",
-            "title": "George Floyd's Brother Philonise Testifies In Chauvin Trial | NBC Nightly News",
-            "secondDuration": 162,
-            "group": "group_7"
-        },
-        {
             "videoId": "tMe3pWOL2ho",
             "title": "Sen. Lindsey Graham And Sen. Patrick Leahy Clash On Reasons For Committee Absences | NBC News",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "Guatemala Volcano: Injured Airlifted To US As Authorities Warn Of More Eruptions | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "xtW5hGZEulc",
+            "title": "White House Press Briefing - November 16, 2017 | NBC News",
+            "secondDuration": 1223,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

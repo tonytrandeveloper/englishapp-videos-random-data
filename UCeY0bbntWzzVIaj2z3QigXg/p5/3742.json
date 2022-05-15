@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kQRcVo4cSpM",
-            "title": "This Scrabble-Playing Robot Really Loves Winning | Mach | NBC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "61pu_TEzwWo",
             "title": "This Is The Library Of Alexandria 2.0 | NBC News Signal",
             "secondDuration": 358,
@@ -31,8 +25,14 @@
             "title": "Doctor Swaps White Coat For Apron To Teach Patients Healthy Eating | NBC Nightly News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "DlEzun74dvU",
+            "title": "Trump Delivers Remarks Celebrating America's Truckers | NBC News",
+            "secondDuration": 1173,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

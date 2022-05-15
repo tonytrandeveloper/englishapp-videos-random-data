@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WjekJPvQW6Q",
-            "title": "Whitney Houston and 'The Bodyguard'",
-            "secondDuration": 492,
-            "group": "group_7"
-        },
-        {
             "videoId": "gEhVBDAhZxI",
             "title": "Rising from the ruins of Hurricane Harvey",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Clinton Foundation: Did Donors Get Special Access?",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "FRKe_dV5cdw",
+            "title": "1 person was killed as 2nd night of severe weather knocked out power across the south | ABC News",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

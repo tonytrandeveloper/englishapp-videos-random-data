@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sdtrMzm3URk",
-            "title": "John Rood resigns at Trump’s request",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "uw13gu7t-tw",
             "title": "Sir Paul McCartney Hospitalized in Tokyo",
             "secondDuration": 102,
@@ -121,8 +115,14 @@
             "title": "Lady Gaga Interview: 'GMA' Concert a 'Dream Come True' (05.27.11)",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "D2CMuUdBFfo",
+            "title": "Warren Buffett Speaks Out on Economy",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

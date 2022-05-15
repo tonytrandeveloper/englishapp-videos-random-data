@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8suxxHvIJTQ",
-            "title": "Missing Jet Search Focuses on Southern Arc",
-            "secondDuration": 206,
-            "group": "group_7"
-        },
-        {
             "videoId": "8knpPbEx8Ck",
             "title": "Bill Taylor: ‘There is corruption in every country, including ours’ | ABC News",
             "secondDuration": 44,
@@ -61,8 +55,14 @@
             "title": "Beirut resident describes explosion that rocked city",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "smFG4WziShs",
+            "title": "Police Taze Suspect 15 Times Before He Dies [Body Cam Video]",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

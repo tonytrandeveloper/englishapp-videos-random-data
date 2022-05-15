@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FbHn0Cqh_-k",
-            "title": "The Briefing Room | ABC News",
-            "secondDuration": 1046,
-            "group": "group_7"
-        },
-        {
             "videoId": "UzkZIRiZfRs",
             "title": "Republican National Convention 2012: Mitt Romney's 'Preview' of RNC Speech",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "The Rundown: Top headlines today: March 25, 2022 l ABCNL",
             "secondDuration": 258,
             "group": "group_7"
+        },
+        {
+            "videoId": "yZNykQXj5r0",
+            "title": "ABC News Exclusive One-On-One Interview with Shelly Sterling",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

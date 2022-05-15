@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "M7pgilYKjYo",
-            "title": "Hollywood Boulevard Brawl",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "CL1mq8wf1vU",
             "title": "Possibility of COVID-19 reinfection confirmed, CDC shifts guidelines on testing l GMA",
             "secondDuration": 180,
@@ -31,8 +25,14 @@
             "title": "Life as Donald Trump, Hillary Clinton Impersonators",
             "secondDuration": 363,
             "group": "group_7"
+        },
+        {
+            "videoId": "4vbraCXEbVc",
+            "title": "Stock market to open after worst 2-day slump since 2016",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

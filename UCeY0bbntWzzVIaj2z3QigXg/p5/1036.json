@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CzrGamjgoaE",
-            "title": "In Memoriam: The Sutherland Springs Shooting Victims | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "pBpOJdXKFJM",
             "title": "At Least 30 Killed In Kabul Hospital Attack, ISIS Claim Responsibility | NBC Nightly News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump: I 'Never Meant Mexico Would Write A Check' For Border Wall | NBC News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "3dn_ypo0JFk",
+            "title": "Iranian-Backed Lebanese Group Hezbollah Fires Rockets Toward Israeli Forces",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

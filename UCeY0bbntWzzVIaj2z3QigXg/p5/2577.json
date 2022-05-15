@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IDwtRA0VUL4",
-            "title": "Morning News NOW Full Broadcast - July 15",
-            "secondDuration": 2987,
-            "group": "group_7"
-        },
-        {
             "videoId": "2pefBBHvprU",
             "title": "Fighting Against Racism And Systemic Oppression: A First-Time Protester Finds Her Voice | NBC News",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "Severe Storms, Tornadoes Tear Through Plains States | NBC Nightly News",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "acXGG9vgG68",
+            "title": "North Carolina Family Decides To Not Evacuate Ahead Of Hurricane Florence | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

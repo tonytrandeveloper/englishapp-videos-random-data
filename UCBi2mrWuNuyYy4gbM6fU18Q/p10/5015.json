@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9oLaC1VYoTM",
-            "title": "NASA Mars Rover Landing: Curiosity Lands, Beams Back Pictures of Mars Surface",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "ua8ZHBLpI0Y",
             "title": "Federal judge issues a new order against Trump administration's 'zero tolerance' immigration policy",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "The Stock Market Tanks",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "qKVyMC1rSNo",
+            "title": "Family of Navy SEAL trainee wants answers and justice for his death",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

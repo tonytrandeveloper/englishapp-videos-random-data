@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jQHvGUjqrFM",
-            "title": "White House Doctor: Trump ‘Has Met Or Exceeded All Standard Hospital Discharge Criteria’ | NBC News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "b0zXp3rwQKA",
             "title": "White House Holds Press Briefing: June 25 | NBC News",
             "secondDuration": 2716,
@@ -61,8 +55,14 @@
             "title": "Military Leaders Discuss ISIS Raid That Killed Al-Baghdadi | NBC News",
             "secondDuration": 5717,
             "group": "group_7"
+        },
+        {
+            "videoId": "aiMYBLdyi9o",
+            "title": "Mattel Honors Ida B. Wells In Barbie 'Inspiring Women Series’",
+            "secondDuration": 411,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

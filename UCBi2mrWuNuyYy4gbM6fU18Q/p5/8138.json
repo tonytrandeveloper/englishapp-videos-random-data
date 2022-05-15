@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3rQeKEbpX7k",
-            "title": "Paul Ryan, Gen X on the GOP Ticket",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "QdOWk5gzBtg",
             "title": "George Zimmerman Trial for Trayvon Martin Death: Lead Detective to Testify",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Senate to take up voting rights bill l GMA",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "2U-Z1fZ9F3s",
+            "title": "Sucker Punch: Possible Spike in 'Knockout Game' Attacks",
+            "secondDuration": 461,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

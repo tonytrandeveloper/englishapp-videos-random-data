@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XDRBiL4oYhY",
-            "title": "With Each New President, America Chooses An Opposite | Meet The Press | NBC News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lh8hUVAF8TA",
             "title": "Biden Administration Wants Families Separated At Border To Stay In The U.S.",
             "secondDuration": 191,
@@ -31,8 +25,14 @@
             "title": "India's Space Organization Breaks Record With Historic Satellite Launch | Mach | NBC News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "hcOOYSiIjfE",
+            "title": "FCC Scraps Net Neutrality Rules Regulating Internet Access | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

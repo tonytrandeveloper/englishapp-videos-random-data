@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zLhOJ0KYRhE",
-            "title": "Katie Ledecky Makes Bryce Harper Hold Olympic Medals Before First Pitch",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Mnl1XEpYrs",
             "title": "Robert Durst Faces Extradition After HBO Series",
             "secondDuration": 333,
@@ -31,8 +25,14 @@
             "title": "White House: Biden is ‘close to an announcement’ on SCOTUS pick",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "UObYqXc0ST8",
+            "title": "Inside the capture of Waffle House shooting suspect",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

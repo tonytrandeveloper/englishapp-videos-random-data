@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "sLv8o383DwQ",
-            "title": "Steph Curry Schools Summer Camper",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "gwNyu6Rq43w",
             "title": "White House press briefing  on Mueller subpoena of Trump organization, Russia Sanctions | ABC News",
             "secondDuration": 1941,
@@ -301,8 +295,14 @@
             "title": "California Lawyer in Hot Water for Alleged Fake Celebrity Photos",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "l30n7mE3AuQ",
+            "title": "Relief after guilty verdict in Ahmaud Arbery murder | GMA",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

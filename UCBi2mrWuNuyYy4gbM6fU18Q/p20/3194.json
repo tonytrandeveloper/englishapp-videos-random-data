@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "K4NEK3OUFa0",
-            "title": "President Kennedy Affair with Former White House Intern",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "5iU8lwhEhhQ",
             "title": "White House warns Russia may seek to use chemical or biological weapons in Ukraine I ABCNL",
             "secondDuration": 348,
@@ -121,8 +115,14 @@
             "title": "What we know about Vegas mass shooting suspect Stephen Paddock",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "7Nk4WPMqpZw",
+            "title": "US and Cuba Begin Attempts to Normalize Relations",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RhilZyWHA1s",
-            "title": "External battery fire forces emergency flight landing | WNT",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "80aPzETmHrU",
             "title": "Sightseeing balloon crashes into a pond in Orlando",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Activist draws attention to looted African art through unconventional method",
             "secondDuration": 350,
             "group": "group_7"
+        },
+        {
+            "videoId": "Us_Ds3b1rOg",
+            "title": "CDC: Half of US adults are fully vaccinated against COVID-19 | ABC News",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

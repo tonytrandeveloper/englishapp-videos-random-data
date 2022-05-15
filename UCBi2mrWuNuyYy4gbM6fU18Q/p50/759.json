@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "PT6ivm-v-7Q",
-            "title": "New York Amazon warehouse facility unionizes in historic vote",
-            "secondDuration": 291,
-            "group": "group_7"
-        },
-        {
             "videoId": "E40c3pDD9KI",
             "title": "The Conversation: Child Sex Trade in Portland, Ore.",
             "secondDuration": 252,
@@ -301,8 +295,14 @@
             "title": "Father of abducted Tennessee teen speaks out",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "jU7HAlp-XqI",
+            "title": "Putin's spokesman denies hacking allegations",
+            "secondDuration": 462,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

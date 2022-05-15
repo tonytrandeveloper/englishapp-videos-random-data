@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xu0rJneMWKQ",
-            "title": "ISIS Executes Jordanian Pilot, Jordan Retaliates | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "YflMeS6NExc",
             "title": "Watch Stacey Abrams' Full Democratic Response | NBC News",
             "secondDuration": 663,
@@ -31,8 +25,14 @@
             "title": "Texas Flagged 27,000 Mail Ballots For Rejection During Primary",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "-24QaZ4LA1s",
+            "title": "Dozens Arrested During Seattle Protests As Clashes Continue | NBC News NOW",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

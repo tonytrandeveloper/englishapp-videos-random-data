@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hblIO36HUng",
-            "title": "Jeff Sessions speaks out on DOJ investigation into Charlottesville attack",
-            "secondDuration": 344,
-            "group": "group_7"
-        },
-        {
             "videoId": "cHwm2GsBKes",
             "title": "LA battles largest wildfire in city's history",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Train  Versus Tanker",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "wPn5n-05LdU",
+            "title": "War in Ukraine: March 5, 2022",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "WnCfs4wXOJQ",
-            "title": "Ferguson Shooting: Search Underway for Suspect",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "_hnx7aHXGmE",
             "title": "Carrie Fisher Asked Harrison Ford to Sing at Her Oscars In Memoriam Tribute | ABC News",
             "secondDuration": 51,
@@ -301,8 +295,14 @@
             "title": "Deadly Las Vegas Strip Crash: New Details on Driver",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "IIPptc-OPCk",
+            "title": "20/20 Apr 6 Part 1: College student shot dead in Brooklyn neighborhood after night of partying",
+            "secondDuration": 400,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

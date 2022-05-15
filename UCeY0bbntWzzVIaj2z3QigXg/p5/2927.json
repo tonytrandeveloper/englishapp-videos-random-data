@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zzXlOW7iHRw",
-            "title": "What You Should Know About The COVID-19 | NBC News NOW",
-            "secondDuration": 309,
-            "group": "group_7"
-        },
-        {
             "videoId": "gNyG2yKBjCM",
             "title": "President Trump Says He's Considering Payroll Tax Cut To Boost Economy | NBC Nightly News",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Floating On Air: This Boat-Plane Hybrid Could Revolutionize Traveling By Sea | Mach | NBC News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "SBlRI_OScbA",
+            "title": "What Happens To Brexit Without Theresa May? | NBC News NOW",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

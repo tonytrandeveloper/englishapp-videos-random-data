@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "0reX6qqzEfA",
-            "title": "Did Packers QB Aaron Rodgers Pass On Covid Vaccination?",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "oQrXkBrW9zY",
             "title": "Colleges Report Unusual Outbreak Of Hand, Foot, And Mouth Disease | NBC Nightly News",
             "secondDuration": 72,
@@ -301,8 +295,14 @@
             "title": "Boeing Crash: Wreckage, No Survivors Found From Chinese Passenger Jet",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "hcBnZykDcAA",
+            "title": "A Grayer Blagojevich Thanks Trump For Commuting Prison Sentence | NBC News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

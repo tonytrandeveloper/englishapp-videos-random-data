@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bsWfEj8nrbk",
-            "title": "ISIS Tries To Rebuild After Al-Baghdadi Killing | NBC News Now",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "OlvhH6oEHhI",
             "title": "North Korea Launches Long-Range Missile Towards Japanese Waters",
             "secondDuration": 71,
@@ -61,8 +55,14 @@
             "title": "U.S. Allies Evacuate Embassy Staff In Afghanistan",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "NukIh9Mj_ts",
+            "title": "2 People Killed, Shooter Also Dead In Shooting at Wisconsin Casino Hotel | NBC News",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

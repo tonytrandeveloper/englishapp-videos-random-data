@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JYolEg4O8JM",
-            "title": "Simone Biles pulls out of Olympic team gymnastics final",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "0A4Hm_pIwJg",
             "title": "By the Numbers: Cryptocurrency crash",
             "secondDuration": 95,
@@ -121,8 +115,14 @@
             "title": "New DNC chair: 'Our Democratic unity is Donald Trump's worst nightmare'",
             "secondDuration": 326,
             "group": "group_7"
+        },
+        {
+            "videoId": "n5-QqxdSt_o",
+            "title": "Index: Highway Overpass Collapse Under Investigation",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "m1zTJi8Hes4",
-            "title": "President Donald Trump Speaks At New Hampshire Rally | NBC News",
-            "secondDuration": 7274,
-            "group": "group_7"
-        },
-        {
             "videoId": "kYVkPK8hW-0",
             "title": "California Gov. Newsom Speaks Out Amid Pandemic Response Criticism | NBC Nightly News",
             "secondDuration": 120,
@@ -121,8 +115,14 @@
             "title": "Annual Memorial Day Tun Supports Fallen Service Members",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "3DH8WnLLT4I",
+            "title": "Senator Kamala Harris Grills Brett Kavanaugh On Robert Mueller Investigation | NBC News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

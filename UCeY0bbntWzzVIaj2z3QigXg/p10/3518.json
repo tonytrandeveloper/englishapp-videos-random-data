@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DtGV_umXY1E",
-            "title": "Nightly News Full Broadcast - April 2",
-            "secondDuration": 1112,
-            "group": "group_7"
-        },
-        {
             "videoId": "ml8qHX28jLE",
             "title": "President Trump: Lying To The FBI ‘Destroyed’ Michael Flynn’s Life, But Not Hillary’s | NBC News",
             "secondDuration": 60,
@@ -61,8 +55,14 @@
             "title": "Listen: A New World Record For Longest Melody Played By Model Train | NBC News NOW",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "NuTB1t9dXRc",
+            "title": "Japan’s Princess Mako Marries Commoner, Leaves Royal Family",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

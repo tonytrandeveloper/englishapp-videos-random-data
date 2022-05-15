@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q6EJhGlqmk4",
-            "title": "Puerto Rico races to restore power after earthquake",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "9wol1PRzHYU",
             "title": "Crash Landing",
             "secondDuration": 300,
@@ -31,8 +25,14 @@
             "title": "Hermine Heads up East Coast",
             "secondDuration": 363,
             "group": "group_7"
+        },
+        {
+            "videoId": "eRj8KyAeWSg",
+            "title": "T-Mobile Fined $48M for Slowing 'Unlimited' Data Plans",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

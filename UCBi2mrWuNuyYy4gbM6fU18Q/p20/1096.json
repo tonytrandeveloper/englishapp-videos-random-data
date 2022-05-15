@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5e4RrfK49fY",
-            "title": "Southern California fire prompts mandatory evacuations",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "KGgSNmRgonI",
             "title": "Washington D.C. man wins groundbreaking election from behind bars | Nightline",
             "secondDuration": 353,
@@ -121,8 +115,14 @@
             "title": "Team USA Beats Australia in First Match | FIFA World Cup Game Highlights with Hope Solo",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "5UYYCZkKi88",
+            "title": "Teen Attempts to ‘Kill Trump’",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E2S8FC8eabs",
-            "title": "Jury finds Kyle Rittenhouse not guilty on all charges",
-            "secondDuration": 277,
-            "group": "group_7"
-        },
-        {
             "videoId": "3dYpTBvTdMI",
             "title": "'I think we've got a great shot to win in Michigan ... Washington': Sanders | ABC News",
             "secondDuration": 610,
@@ -61,8 +55,14 @@
             "title": "Election Results Revealed by Tarot Card Reader",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "yuMMGqMaJpg",
+            "title": "Suspect arrested after 8-year-old abducted in front of her mom",
+            "secondDuration": 449,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

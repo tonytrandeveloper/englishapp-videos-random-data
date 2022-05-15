@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WqYeFcYcEdY",
-            "title": "Norwegian Dawn Cruise Ship Runs Aground Off Coast of Bermuda",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "QUSJNLyk4lQ",
             "title": "Teen survives 500-foot fall from Mt. Hood l ABC News",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Senate votes to end debate on Kavanaugh's nomination: Special Report | ABC News",
             "secondDuration": 1984,
             "group": "group_7"
+        },
+        {
+            "videoId": "5MS31mMFqz0",
+            "title": "The Stalker in All of Us",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

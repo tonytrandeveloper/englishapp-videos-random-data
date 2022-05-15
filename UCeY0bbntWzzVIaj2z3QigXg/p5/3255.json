@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VA_OlXtYkKU",
-            "title": "L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
-            "secondDuration": 4135,
-            "group": "group_7"
-        },
-        {
             "videoId": "jeIwFRbwmBg",
             "title": "3-Year-Old Rescued From Collapsed Apartment After Turkish Earthquake | NBC News NOW",
             "secondDuration": 57,
@@ -31,8 +25,14 @@
             "title": "Senator Patrick Leahy: Fired Acting AG A ‘Person Of Integrity’ For Upholding Oath | NBC News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "1JFVsY44hGA",
+            "title": "Virgin Galactic Engineers Anticipate Rollout of New SpaceShipTwo | NBC News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

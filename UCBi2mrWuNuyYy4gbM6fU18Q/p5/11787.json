@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Gq5paYFeD6A",
-            "title": "Interview with Michael Bloomberg",
-            "secondDuration": 445,
-            "group": "group_7"
-        },
-        {
             "videoId": "b-Bu1qO3iko",
             "title": "Timothy Geithner Interview",
             "secondDuration": 752,
@@ -31,8 +25,14 @@
             "title": "By the Numbers: NBA 50-point games",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "woivqwHMcfM",
+            "title": "Trump Not Backing Down After Obama, Clinton Founders of ISIS",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

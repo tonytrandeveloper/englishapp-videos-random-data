@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DG6WslGxH7k",
-            "title": "Traffic Stop Turns Deadly for 17-Year-Old",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "hLcy5ClzsfM",
             "title": "Ammunition found on ‘Rust’ movie set, warrant shows",
             "secondDuration": 174,
@@ -121,8 +115,14 @@
             "title": "Posse of Car Thieves Steal 8 Cars From Tampa Dealership",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "86Y6NeZj7FU",
+            "title": "Plane Crash San Francisco Asiana Airlines Crash Survivor: 'I Just Knew We Were Too Low'",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

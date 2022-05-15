@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ps7WdiGz0gk",
-            "title": "Trump allies face subpoenas in Jan. 6 investigation",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "94apGjAWGz0",
             "title": "President Trump delivers West Point commencement speech",
             "secondDuration": 225,
@@ -31,8 +25,14 @@
             "title": "The Pain of Unemployment",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "ttBPrhSXJXg",
+            "title": "Deal or No Deal?",
+            "secondDuration": 505,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QDyhcV623ag",
-            "title": "South Carolina primary coverage from ABC News Live",
-            "secondDuration": 12660,
-            "group": "group_7"
-        },
-        {
             "videoId": "QS7VOyPGeGg",
             "title": "Rebuilding Haiti: Fathers Day Gifts",
             "secondDuration": 420,
@@ -121,8 +115,14 @@
             "title": "Senate prepares to vote on $1.9 trillion COVID relief bill",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "7hnLEmcXPvc",
+            "title": "Jogger Strangled in New York | Killer Manhunt Continues",
+            "secondDuration": 237,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

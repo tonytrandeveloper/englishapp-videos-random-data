@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-li876AbolI",
-            "title": "What is the Electoral College? America 101",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "UwhTXKIEQ74",
             "title": "'This Week': Powerhouse Roundtable",
             "secondDuration": 698,
@@ -61,8 +55,14 @@
             "title": "Hundreds of migrant children still in government custody",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "P1OCCjiyGC0",
+            "title": "Hillary Clinton Mocks Donald Trump in Debate",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OAviD0jNZPE",
-            "title": "H&M CEO: Our Models Are Too Skinny",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "2aUADa_oWBA",
             "title": "Meryl Streep Cheers Patricia Arquette's \"Equal Pay\" OSCARS Speech",
             "secondDuration": 164,
@@ -31,8 +25,14 @@
             "title": "Incumbent Lindsey Graham Wins South Carolina Senate Election",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "8YTBJjjRtnU",
+            "title": "Shelter dog adopted after 7-year wait | ABC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

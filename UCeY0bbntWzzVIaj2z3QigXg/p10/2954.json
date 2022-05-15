@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mxILFb5-6vo",
-            "title": "Ukrainian President Zelensky Says Russian Forces Will Attack Kyiv",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "drnigDUVU6I",
             "title": "Morning News NOW Full Broadcast - April 20 | NBC News NOW",
             "secondDuration": 2972,
@@ -61,8 +55,14 @@
             "title": "98-Year-Old Prince Philip Released From Hospital | NBC Nightly News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "VpTsWyTgP_s",
+            "title": "What It Takes To Rebuild After Devastating Wildfires | NBC News NOW",
+            "secondDuration": 290,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RDtpbjIU2Ek",
-            "title": "Gas Prices Falling Fast",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "i7U7VCbqu3k",
             "title": "President Obama to Address Americans on Syrian Strike",
             "secondDuration": 145,
@@ -121,8 +115,14 @@
             "title": "EXCLUSIVE: Defense Secretary Lloyd Austin says he doesn't think Putin is bluffing",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "-li876AbolI",
+            "title": "What is the Electoral College? America 101",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

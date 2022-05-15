@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xJREcukIJJo",
-            "title": "Reality Check: 1 in 6 Americans Is Poor",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "p-ZqSNrF54E",
             "title": "Popeyes and McDonald's Go Upscale",
             "secondDuration": 191,
@@ -31,8 +25,14 @@
             "title": "Battle of the Speakers",
             "secondDuration": 323,
             "group": "group_7"
+        },
+        {
+            "videoId": "XLMjFr47hc8",
+            "title": "Hurricane Isaias, Beirut explosion, El Paso attack: Week in Photos",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

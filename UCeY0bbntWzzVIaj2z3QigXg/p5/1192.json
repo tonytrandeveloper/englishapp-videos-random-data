@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zNNZbtsR194",
-            "title": "U.S. Surge Sees 50,000 New Daily Covid-19 Cases | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "O1dylBQCuPY",
             "title": "Michael Brown Shooting Sparks FBI Investigation | NBC Nightly News",
             "secondDuration": 199,
@@ -31,8 +25,14 @@
             "title": "Police Search Terminally Ill Cancer Patient’s Hospital Room For Marijuana | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "OsE_ymaLXc0",
+            "title": "Life-Saving Air Ambulances Hit Patients With Hefty Medical Bills | NBC Nightly News",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

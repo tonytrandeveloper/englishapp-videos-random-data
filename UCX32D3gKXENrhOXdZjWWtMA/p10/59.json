@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HjBlXu_u_V0",
-            "title": "30 min Intermediate Yoga - Minimal Cues Yoga Flow",
-            "secondDuration": 1780,
-            "group": "group_13"
-        },
-        {
             "videoId": "oteH-uTS0QM",
             "title": "Yin Yoga for Hips - Hip Opening Yoga Stretches for Flexibility",
             "secondDuration": 2829,
@@ -61,8 +55,14 @@
             "title": "5 min Bedtime Positive Affirmations for Sleep",
             "secondDuration": 343,
             "group": "group_13"
+        },
+        {
+            "videoId": "ihrmm3cFEkM",
+            "title": "5 min Sun Salutations - Yoga Warm Up",
+            "secondDuration": 344,
+            "group": "group_13"
         }
     ],
     "nbPages": 65,
-    "nbResults": 647
+    "nbResults": 646
 }

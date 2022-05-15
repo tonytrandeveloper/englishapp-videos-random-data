@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VSUiODzN9l0",
-            "title": "Russian citizens bear the brunt of financial measures | WNT",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "e2-5tUaMmtc",
             "title": "ABC News Live: Trump in the UK, latest on Thailand cave rescue",
             "secondDuration": 1268,
@@ -31,8 +25,14 @@
             "title": "Bronx Zoo Tiger Attack; Powerful Animal Mauls Young Man",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "cXGBgiWCqZc",
+            "title": "Senate votes 53-47 to confirm Ketanji Brown Jackson",
+            "secondDuration": 502,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

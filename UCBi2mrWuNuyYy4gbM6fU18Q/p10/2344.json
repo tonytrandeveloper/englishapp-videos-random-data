@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9AAoZH3-vwg",
-            "title": "Trump to meet with GOP state lawmakers in effort to override election loss l GMA",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "krCc_UAvQj4",
             "title": "Biden says Trump’s comments about Floyd were ‘despicable’",
             "secondDuration": 676,
@@ -61,8 +55,14 @@
             "title": "State of emergency declared in 4 states as gas pumps run dry after cyberattack l GMA",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "RyM9Z2HHfog",
+            "title": "Eric Garner, NYPD Grand Jury Decision Sparks Demonstrations",
+            "secondDuration": 446,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

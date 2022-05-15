@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "B_xSirHTPyU",
-            "title": "Shot of equity for vaccine rollout",
-            "secondDuration": 263,
-            "group": "group_7"
-        },
-        {
             "videoId": "P7OC0dUW4ps",
             "title": "Legal analyst calls Chauvin courtroom 'thick with emotion’",
             "secondDuration": 302,
@@ -301,8 +295,14 @@
             "title": "The Rundown: Top headlines today: Nov. 29, 2021",
             "secondDuration": 262,
             "group": "group_7"
+        },
+        {
+            "videoId": "QIOjAg7W0iQ",
+            "title": "Xbox Live, PlayStation Network’s Online Services Suffer DDoS Attacks",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

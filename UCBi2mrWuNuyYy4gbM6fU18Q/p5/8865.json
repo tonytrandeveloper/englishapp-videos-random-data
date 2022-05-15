@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YPZjQC5rYzU",
-            "title": "Whoopi Goldberg suspended",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "cv8OtHupghA",
             "title": "Trump defends Syria strike as Assad regime appears undeterred",
             "secondDuration": 227,
@@ -31,8 +25,14 @@
             "title": "Photo of mounted officers leading black man by rope sparks outrage",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "abLsV3qP8nc",
+            "title": "Gymnast accuser of Larry Nassar reacts to his sentence",
+            "secondDuration": 371,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

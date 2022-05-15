@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WsRZK2Kvl4g",
-            "title": "The Efforts to Cool Down the Nuclear Reactor",
-            "secondDuration": 239,
-            "group": "group_7"
-        },
-        {
             "videoId": "LIS1YcL3ewU",
             "title": "Rescue mission underway for 3 Marines off Australia",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "John Deere workers on strike: ‘They can’t take our money’",
             "secondDuration": 572,
             "group": "group_7"
+        },
+        {
+            "videoId": "mmiuxRUmdxc",
+            "title": "Calf Trapped in Barbed Wire Freed by Hunters",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

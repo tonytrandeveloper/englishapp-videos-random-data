@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WsdrbWGQbAw",
-            "title": "Jobs Report: Is Anyone Hiring?",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "kQVzG7INflI",
             "title": "Mueller recommends no prison time for Michael Flynn",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Royal Baby Born: Prince William and Kate Middleton Welcome Baby Boy",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "IZP84HwLD8I",
+            "title": "Obama: I Will Protect Medicare",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

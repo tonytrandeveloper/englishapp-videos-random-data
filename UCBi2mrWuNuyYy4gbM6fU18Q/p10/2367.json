@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0EOuy9Vcb8g",
-            "title": "Jimmy Kimmel on Oscars hosting: 'It's fun when things go wrong.'",
-            "secondDuration": 393,
-            "group": "group_7"
-        },
-        {
             "videoId": "fVF5af76Rsg",
             "title": "Harvey evacuees rescued by air amid floodwaters",
             "secondDuration": 190,
@@ -61,8 +55,14 @@
             "title": "Amtrak derailment survivor, eyewitnesses, describe scary scene",
             "secondDuration": 444,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZhmLcxyzc4s",
+            "title": "Tim McGraw Performs 'Shotgun Rider' Live",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

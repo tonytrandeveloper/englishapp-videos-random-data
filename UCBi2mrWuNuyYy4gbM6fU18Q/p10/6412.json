@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bM5eF_4J7IE",
-            "title": "Jennifer Lawrence and Amy Schumer Dance on Billy Joel’s Piano and More in Pop News",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "SXzSu60HYeU",
             "title": "Gabrielle Giffords' First Setback 1/24/2011",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton Tax Returns Released",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "maG9saNud1A",
+            "title": "San Francisco mayor on keeping protests on message",
+            "secondDuration": 544,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

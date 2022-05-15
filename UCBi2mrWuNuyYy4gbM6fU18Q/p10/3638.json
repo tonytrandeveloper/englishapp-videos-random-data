@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jEwKUsHlRe4",
-            "title": "Aaron Sorkin's Emotional Connection to his \"Steve Jobs\" Movie",
-            "secondDuration": 1010,
-            "group": "group_7"
-        },
-        {
             "videoId": "kbjMUo6sUx0",
             "title": "Father of missing Iowa college student speaks out",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "COVID-19 and mental health",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "6LCY_qyiPMU",
+            "title": "For Julia Roberts, Family Comes First",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

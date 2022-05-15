@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "r0BuSu8Sex8",
-            "title": "First major snowfall blankets 20 states from Texas to New England",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "u13UBLBm2Uk",
             "title": "The Conversation: Chile Miners and Your Mind",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Heat wave, gusty winds expected in the West sparking fire weather watch",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "F6PXC-4q8WQ",
+            "title": "The Debrief: Midwest freeze, 7-alarm fire, Venezuela crisis | ABC News",
+            "secondDuration": 1371,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

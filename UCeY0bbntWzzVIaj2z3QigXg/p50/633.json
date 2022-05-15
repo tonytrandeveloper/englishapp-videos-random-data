@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "o_HRgl2jCJQ",
-            "title": "Vice President-Elect Harris: ‘While I May Be The First Woman In This Office, I Will Not Be The Last’",
-            "secondDuration": 226,
-            "group": "group_7"
-        },
-        {
             "videoId": "YRp5piGmBcs",
             "title": "Ocasio-Cortez Slams Florida Republican After Confrontation On Capitol Steps | NBC Nightly News",
             "secondDuration": 115,
@@ -301,8 +295,14 @@
             "title": "George Floyd's Brother To Chauvin: 'Why? What Were You Thinking?'",
             "secondDuration": 289,
             "group": "group_7"
+        },
+        {
+            "videoId": "s_aXOSmuXoY",
+            "title": "An Algorithm Can Solve A Rubik's Cube Faster Than Any Human | Mach | NBC News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

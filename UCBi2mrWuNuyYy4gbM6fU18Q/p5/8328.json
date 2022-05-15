@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KXu5b0pPrv4",
-            "title": "What Trends Will Define 2011?",
-            "secondDuration": 248,
-            "group": "group_7"
-        },
-        {
             "videoId": "Udd-UAmxqhU",
             "title": "New details on Bob Saget's death",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "An urgent manhunt across state lines in the South",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "2EarGv-LLY8",
+            "title": "'Rust' production halted indefinitely after fatal shooting l GMA",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

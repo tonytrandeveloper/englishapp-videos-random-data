@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XsBtqruGpzw",
-            "title": "Prince Andrew appears virtually in federal court",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "H15MYKddQPA",
             "title": "Protesters rally in San Francisco against Russia's invasion of Ukraine",
             "secondDuration": 86,
@@ -31,8 +25,14 @@
             "title": "Alabama 5-year-old Hostage Taken from School Bus: Negotiations Continue",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "PeqJjg075DY",
+            "title": "Celebrity Lookalikes",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

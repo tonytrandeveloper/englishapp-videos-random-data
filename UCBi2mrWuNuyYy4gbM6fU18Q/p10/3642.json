@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eo2dMLs3rAI",
-            "title": "Dog's Intuition Confirmed by Science",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "uqQhq0uU9tU",
             "title": "Democrats propose 'Green New Deal' to counter climate change",
             "secondDuration": 79,
@@ -61,8 +55,14 @@
             "title": "Sharing the Wealth: Lotto Winnings Create Co-Worker Conflict",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y5eNMbkxEm4",
+            "title": "UN security council pressures Russia amid rising tensions in Ukraine",
+            "secondDuration": 462,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

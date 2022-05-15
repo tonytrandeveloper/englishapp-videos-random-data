@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hsMgNABCGiw",
-            "title": "Secrets of a 48-Hour Home Appraisal Makeover",
-            "secondDuration": 322,
-            "group": "group_7"
-        },
-        {
             "videoId": "PtkZLk5OeKw",
             "title": "Voters in crucial battleground state of Florida speak on candidates | ABC News",
             "secondDuration": 263,
@@ -31,8 +25,14 @@
             "title": "President Trump to sign $1.3 trillion spending bill | ABC News Special Report",
             "secondDuration": 2159,
             "group": "group_7"
+        },
+        {
+            "videoId": "JnfuL7uimr8",
+            "title": "ABC News Live: White House recommends COVID-19 vaccine booster shots",
+            "secondDuration": 3730,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

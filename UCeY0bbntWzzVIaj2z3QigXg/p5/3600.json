@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zVNf_DjfTUA",
-            "title": "Michelle Obama At The Obama Summit: 'You Don't Tweet Every Thought' | NBC News",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "IGciByvAaIQ",
             "title": "Behind The Wheel With Mario Andretti 50 Years After His Indy 500 Win | NBC Nightly News",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "How Short Bursts Of Exercise Could Help You Live A Healthier Life | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "JYsdTLaWlug",
+            "title": "Florida Students Return To School Amid Debate Over Masks In Classrooms",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

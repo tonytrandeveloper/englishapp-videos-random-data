@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bTSWrUDskwE",
-            "title": "Hong Kong’s COVID-19 surge",
-            "secondDuration": 327,
-            "group": "group_7"
-        },
-        {
             "videoId": "3fc1CiJZtoE",
             "title": "Russia Claims Captured U.S. Spy: Nation Says U.S. Diplomat Conducting Espionage",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "Airlines and flight attendants suffering amid COVID surge",
             "secondDuration": 446,
             "group": "group_7"
+        },
+        {
+            "videoId": "omDnW8fxP8E",
+            "title": "'The Walking Dead' Fans Petition for Killed Character to Return",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

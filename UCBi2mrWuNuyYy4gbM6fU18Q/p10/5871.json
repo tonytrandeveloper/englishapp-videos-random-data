@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Okdtv2G0OzU",
-            "title": "Attorney Gloria Allred speaks on disgraced movie mogul Harvey Weinstein guilty verdict",
-            "secondDuration": 486,
-            "group": "group_7"
-        },
-        {
             "videoId": "SfM9Ehu7sYY",
             "title": "Apple to invest $1 billion and create 15,000 jobs in Texas",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Shooting incident shuts down parts of Interstate 95 for more than 7 hours",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "Bu9ZN44J-x0",
+            "title": "Texas hit with power outages, ice as winter storm moves north",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

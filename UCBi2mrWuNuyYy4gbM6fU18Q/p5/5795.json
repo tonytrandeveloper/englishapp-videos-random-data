@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8LhTusg7XFY",
-            "title": "The world opens up for a 4-year-old who lost his hearing as a toddler",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "J0fOZaiH2a4",
             "title": "Trump: 'I had nothing to do with Russia helping me to get elected'",
             "secondDuration": 201,
@@ -31,8 +25,14 @@
             "title": "Five dead, several injured in shooting at Annapolis newspaper Capital Gazette",
             "secondDuration": 433,
             "group": "group_7"
+        },
+        {
+            "videoId": "G2Eq1MWDpRU",
+            "title": "Sock business is booming for man with Down syndrome",
+            "secondDuration": 51,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

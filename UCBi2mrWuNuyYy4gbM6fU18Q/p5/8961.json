@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EVCsRVQ4EXY",
-            "title": "Second Presidential Debate:  Fact vs. Fiction",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "NTOVcpUqh-U",
             "title": "ABC News Prime: Pres Trump's final days; International pardon fallout; COVID-19 crisis amid holidays",
             "secondDuration": 3555,
@@ -31,8 +25,14 @@
             "title": "Instagram update will allow users to view feeds in chronological order",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q0l-Tmf-0n8",
+            "title": "Paul Ryan trying to pass new health care plan despite opposition",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "170E8LzTvz0",
-            "title": "Dr. Jill Biden DNC Speech COMPLETE: 'Joe Found the Strength'",
-            "secondDuration": 310,
-            "group": "group_7"
-        },
-        {
             "videoId": "3BkkF3oi_V4",
             "title": "NASCAR driver involved in crash leaves hospital | WNT",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Game Theory: Popular Online Games Get Psychologists' Help",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "cHsyLte-qMM",
+            "title": "Sandy Hook families reach $73 million settlement with Remington",
+            "secondDuration": 237,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

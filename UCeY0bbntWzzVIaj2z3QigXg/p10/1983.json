@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z53iTIBTdpk",
-            "title": "Oklahoma City Bombing | Flashback | NBC News",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "XQnHvFWzrrY",
             "title": "U.S. Crosses 500,000 Covid-19 Deaths. It Doesn’t Stack Up Well Versus Other Countries | NBC News NOW",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "President Trump Permanently Banned From Twitter | NBC Nightly News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "Li6aRDPM2ws",
+            "title": "Full Cheney: Working with President Bush 'the highlight of my career' | Meet The Press | NBC News",
+            "secondDuration": 439,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

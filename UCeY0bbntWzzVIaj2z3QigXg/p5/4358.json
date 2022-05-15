@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6bmfe5lV9Wg",
-            "title": "FSU Shooting: Student's Books Stop Deadly Bullet | NBC News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "2HbezCrV_WY",
             "title": "Hurricane Leaves Panama City Residents Desperate To Reunite With Families | NBC Nightly News",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "The Evolving Message Around Mask Mandates In The U.S.",
             "secondDuration": 320,
             "group": "group_7"
+        },
+        {
+            "videoId": "vC76lAT87F0",
+            "title": "Nightly News Full Broadcast - November 4th",
+            "secondDuration": 1123,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9QD3hQgzHY8",
-            "title": "Trump, Ryan Lochte Apologize | 2nd Hand News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "CZaUmFUd2pQ",
             "title": "Beyonce's Pregnant: 'Single Ladies' Superstar Announces on VMA Stage as Jay-Z Looks On",
             "secondDuration": 233,
@@ -31,8 +25,14 @@
             "title": "President Obama Tours New Jersey Storm Damage",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "g0PhihN_Gtg",
+            "title": "Dow dives again as stocks fall overseas",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

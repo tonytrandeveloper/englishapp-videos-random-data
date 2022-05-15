@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "2XLrnB2weLc",
-            "title": "Biden says he won’t accept Putin's red line in Ukraine l GMA",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "qWaaMDr1AwE",
             "title": "Lynch lacked credibility to announce details of Clinton inquiry: Comey",
             "secondDuration": 94,
@@ -301,8 +295,14 @@
             "title": "Final Mile: Thousands Remain Boston Strong and Finish Marathon",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "FmdF7m23BQY",
+            "title": "US special envoy to Haiti resigns over ‘inhumane’ deportations from southern border",
+            "secondDuration": 753,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

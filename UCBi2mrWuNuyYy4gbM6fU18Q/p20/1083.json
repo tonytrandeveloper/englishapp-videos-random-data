@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "o7D4RCSpo3w",
-            "title": "Fried Kool-Aid Recipe Takes Over Web",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "t5qhyAu0EUE",
             "title": "The Battle for Marja: Winning Hearts and Minds",
             "secondDuration": 110,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Testimony Begins in the Michael Jackson Wrongful Death Trial",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "5szdt04bJKQ",
+            "title": "Inside President Trump's First Days in the Oval Office | ABC News",
+            "secondDuration": 550,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

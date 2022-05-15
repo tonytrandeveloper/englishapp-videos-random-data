@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KXMyZv2lYwg",
-            "title": "US life expectancy suffers historic drop due to COVID-19",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "9gtq2ygr1-8",
             "title": "Hollywood icon Kirk Douglas dies at 103",
             "secondDuration": 201,
@@ -31,8 +25,14 @@
             "title": "How masks became the latest cultural flashpoint",
             "secondDuration": 478,
             "group": "group_7"
+        },
+        {
+            "videoId": "VzkttLHp8dA",
+            "title": "Bernie Sanders Growing Popularity Makes Clinton Camp Nervous",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

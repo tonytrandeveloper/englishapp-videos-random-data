@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dYrqQduh2C0",
-            "title": "DeMarcus Ware Describes Super Bowl 50 Victory",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "pUF1iGCtrAI",
             "title": "School Identifies 2 Staff Members Abroad Crashed Hot Air Balloon",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Extreme Weather Slams Heartland, East Coast Awaits Winter",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "4yvxHjjoGCU",
+            "title": "Parents of ex-Marine detained in Russia protest at White House",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KqUHgIVk1Ac",
-            "title": "Ukrainian Refugees Wait In Tijuana For Permission To Enter U.S.",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "OxVClfxgh8U",
             "title": "What Chauvin Conviction Means For Police Reform In America | NBC Nightly News",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "IRS and FBI Issue Urgent Warning Over Pervasive Tax Fraud Scam | NBC Nightly News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "JXmh5hPceoo",
+            "title": "Many States Refusing Donald Trump Admin. Request For Extensive Voter Data | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

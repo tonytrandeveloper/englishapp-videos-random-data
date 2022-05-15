@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LPh6yDfNcTk",
-            "title": "Democratic candidates debate: Dealing with Venezuela | ABC News",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "ShgAcU2b7DU",
             "title": "Hong Kong Celebrates Arrival of 2016",
             "secondDuration": 71,
@@ -61,8 +55,14 @@
             "title": "Hurricane Sandy Aftermath: Cooking Without Power After 'Perfect Storm' Sandy",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "bWEHOkXzHYM",
+            "title": "Brussels Terror Attack: US Authorities Now Believe They Know Who the Mystery Suspect Is",
+            "secondDuration": 249,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

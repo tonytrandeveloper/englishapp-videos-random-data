@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NMFaR6J4Ens",
-            "title": "'GAA' Play of the Day: Dalmatian Cares for Spotted Baby Lamb",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "FteeSbtiF_0",
             "title": "First case of South Africa COVID-19 variant confirmed in US | WNT",
             "secondDuration": 268,
@@ -31,8 +25,14 @@
             "title": "Oscar-nominated stars before they were famous",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "EcIPvm_qzgk",
+            "title": "President Trump defends $130K reimbursement for Stormy Daniels payment",
+            "secondDuration": 507,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "K9tqQx2vgIo",
-            "title": "Inside Alabama Gov. Robert Bentley's alleged affair saga | ABC News",
-            "secondDuration": 451,
-            "group": "group_7"
-        },
-        {
             "videoId": "S1pgZTzpd64",
             "title": "University of Alabama Wins National College Football Championship",
             "secondDuration": 167,
@@ -31,8 +25,14 @@
             "title": "Rising Cost of College Tuition Pushes Students to the Extreme",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "RPyTgkdgFfA",
+            "title": "Four Killed at Fort Hood, Including Shooter",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

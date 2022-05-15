@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WVdbMRgtv-g",
-            "title": "Morning News NOW Full Broadcast - October 20",
-            "secondDuration": 3163,
-            "group": "group_7"
-        },
-        {
             "videoId": "MZUp1ayvFmk",
             "title": "Biden Lays Out Economic Recovery Plan For Working Families | NBC News",
             "secondDuration": 1189,
@@ -61,8 +55,14 @@
             "title": "How Sea Level Rise Could Make It Harder To Buy A Home | NBC News NOW",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "kxwTHtQ04ec",
+            "title": "Hillary Clinton Dodging Questions of A Presidential Bid | NBC News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

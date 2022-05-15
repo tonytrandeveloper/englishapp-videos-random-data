@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Qz3ZTUNB8ik",
-            "title": "Ken Jennings on his winning ‘Jeopardy!’ moment l ABC News",
-            "secondDuration": 260,
-            "group": "group_7"
-        },
-        {
             "videoId": "pA0DoRBlq8Q",
             "title": "Colorado arson murder mystery",
             "secondDuration": 340,
@@ -121,8 +115,14 @@
             "title": "Unipiper Plays Flaming Bagpipes on a Unicycle in the Snow | ABC News",
             "secondDuration": 39,
             "group": "group_7"
+        },
+        {
+            "videoId": "8fbvmStl3HQ",
+            "title": "Anwar al-Awlaki, U.S.-Born Terror Leader, Killed in Yemen, Terror Leader Linked to 9/11, Fort Hood",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

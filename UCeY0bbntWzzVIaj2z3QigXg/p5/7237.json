@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-Hy4yxClhF4",
-            "title": "Watch: Bodycam Captures Phoenix Police Officers Ambushed By Suspect",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "X3rSLU9v4lQ",
             "title": "White House Unveils New Covid Plan, No Longer Recommends Contact Tracing",
             "secondDuration": 268,
@@ -31,8 +25,14 @@
             "title": "Watch Biden's First Full Press Conference | NBC News",
             "secondDuration": 4500,
             "group": "group_7"
+        },
+        {
+            "videoId": "wlZYgl16Ho0",
+            "title": "Father of Ahmaud Arbery Speaks After Men Convicted of Killing His Son Sentenced To Life",
+            "secondDuration": 351,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

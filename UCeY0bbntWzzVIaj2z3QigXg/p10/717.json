@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ib9GlUfogRk",
-            "title": "Doctor Charged With Hiring A Man To Kill His Wife | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "ku7lU1-dq54",
             "title": "29 People Killed In China After Restaurant Collapses During Birthday Party | NBC News",
             "secondDuration": 60,
@@ -61,8 +55,14 @@
             "title": "Congressional Panel Holds Hearing On Historic Wildfire Bill",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "U2CuTzILo_Q",
+            "title": "Florida County Evacuated After Breach In Wastewater Reservoir | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Bw7jortYgRU",
-            "title": "Full Rick Scott Interview: Democrats’ Focus on Trump Is 'Good For Republicans'",
-            "secondDuration": 571,
-            "group": "group_7"
-        },
-        {
             "videoId": "1LQz6r6DiM8",
             "title": "Surgeon General Issues Rare Public Health Advisory Over Youth Mental Health Crisis",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "NASA Countdown Clock To Be Replaced | NBC News",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "inzmoMWJ1Ig",
+            "title": "Multiple Prison Employees Sickened In Pennsylvania And Ohio | NBC Nightly News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

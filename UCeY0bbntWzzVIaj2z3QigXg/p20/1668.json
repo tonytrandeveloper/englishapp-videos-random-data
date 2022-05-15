@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TWi_ucqdC9M",
-            "title": "Fauci Lowers U.S. Death Toll Projection to 60,000 | NBC Nightly News",
-            "secondDuration": 719,
-            "group": "group_7"
-        },
-        {
             "videoId": "eZhyy2Se0EE",
             "title": "James Dyson: Acclaimed Inventor Gets In The Electric Car Race | Mach | NBC News",
             "secondDuration": 76,
@@ -121,8 +115,14 @@
             "title": "Enterovirus D-68: What You Need To Know | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "HkrIq6my7nI",
+            "title": "Trump Defends Relationship With Fauci Despite WH Efforts To Discredit Him | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

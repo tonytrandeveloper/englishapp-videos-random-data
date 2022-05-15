@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BioWIYk9PPI",
-            "title": "US State Department expels 2 Cuban diplomats",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "PubsvbsZ9JM",
             "title": "Biden addresses nation year after Jan. 6 Capitol attack",
             "secondDuration": 1495,
@@ -31,8 +25,14 @@
             "title": "Osama Bin Laden Dead in Abbottabad, Pakistan: What Took So Long?",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "7KMze9_grQo",
+            "title": "Kenosha protest, RNC, Hurricane Laura; The Week in Pictures",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

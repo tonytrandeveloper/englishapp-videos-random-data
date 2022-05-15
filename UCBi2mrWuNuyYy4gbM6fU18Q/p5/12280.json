@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B_iy4PmmZ3o",
-            "title": "ABC News Prime: NJ, NY COVID-19 battle, looming environmental catastrophe, Sanders suspends campaign",
-            "secondDuration": 3617,
-            "group": "group_7"
-        },
-        {
             "videoId": "5fiS_jFmIt0",
             "title": "Phoenix mayor on steps to protect city amid coronavirus spike",
             "secondDuration": 161,
@@ -31,8 +25,14 @@
             "title": "Elizabeth Vargas Back Home",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "H3hjxJoDFs0",
+            "title": "The Briefing Room: Michael Cohen's tapes, Trump to invite Putin to White House",
+            "secondDuration": 1510,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

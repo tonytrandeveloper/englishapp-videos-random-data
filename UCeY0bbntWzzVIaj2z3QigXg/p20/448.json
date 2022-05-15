@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wee2ERfDjcM",
-            "title": "Morning News NOW Full Broadcast - May 28 | NBC News NOW",
-            "secondDuration": 2888,
-            "group": "group_7"
-        },
-        {
             "videoId": "ypgeYeUgFho",
             "title": "Netflix Series On Teen Suicide Sparks Conversation, Concern | NBC Nightly News",
             "secondDuration": 114,
@@ -121,8 +115,14 @@
             "title": "Blind Runner And Guide Dog Team Up For Half-Marathon | NBC Nightly News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "EpM3u5DASKE",
+            "title": "St. Louis Blues Surprise Young Hockey Fan With A Championship Ring | NBC Nightly News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

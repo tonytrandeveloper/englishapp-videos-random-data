@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VERguOc0laE",
-            "title": "Femicide, Part 1: Honduras, one of the most dangerous places to be a woman | ABC News",
-            "secondDuration": 641,
-            "group": "group_7"
-        },
-        {
             "videoId": "lVdhOUwbT0Q",
             "title": "Parachutists descend in France to commemorate D-Day | ABC News",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "Melania's Gift to Michelle Obama",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "KmZh89lWKJM",
+            "title": "Divided We Fail: Can Split Congress Work Together?",
+            "secondDuration": 319,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C85PzooUVVM",
-            "title": "Ghana Receives First Covid Vaccine Doses Through COVAX | NBC Nightly News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "VX1OOjryCu4",
             "title": "Full Panel: 'We Keep Re-Running The Same Election' But Demographics Are Changing | Meet The Press",
             "secondDuration": 459,
@@ -31,8 +25,14 @@
             "title": "Trump participates in FIRST STEP Act roundtable",
             "secondDuration": 2768,
             "group": "group_7"
+        },
+        {
+            "videoId": "nLXYr3QGpoI",
+            "title": "Inside White House Showdown Over Trump’s Decision To Withdraw Troops From Syria | NBC Nightly News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

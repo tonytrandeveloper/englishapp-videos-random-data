@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BD5GmxAY0Og",
-            "title": "Milwaukee Police Shooting Riots Turn Violent",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "hvHgL5BnjXA",
             "title": "Lou Pearlman forms two iconic boy bands, Backstreet Boys and *NSYNC | Nightline",
             "secondDuration": 560,
@@ -31,8 +25,14 @@
             "title": "Quick Fix: Dispute at Ground Zero",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "8lMpaTxkAGU",
+            "title": "Breaking Polygamy: Pulled Back to the Fold",
+            "secondDuration": 345,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

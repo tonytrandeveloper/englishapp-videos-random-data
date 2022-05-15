@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ccl3idHvGMA",
-            "title": "Trump breaks silence to defend Roy Moore",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "TCvZjn1uhSU",
             "title": "Americans quarantined after evacuation flight l ABC News",
             "secondDuration": 277,
@@ -61,8 +55,14 @@
             "title": "Family of Four Walks Away From Fiery Plane Crash Unharmed",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "3F_ezpjrKIM",
+            "title": "Hurricane Irene 2011: Are People's Homes Ready to Survive the East Coast Storm?",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

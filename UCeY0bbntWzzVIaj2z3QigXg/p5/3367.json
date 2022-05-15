@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3MNNX3IxTxM",
-            "title": "Julian Assange On DNC Emails And 2016 Election (Full Interview) | Meet The Press | NBC News",
-            "secondDuration": 704,
-            "group": "group_7"
-        },
-        {
             "videoId": "olspeG20R8E",
             "title": "President Macron Tours Site Of Devastating Beirut Explosion | NBC News NOW",
             "secondDuration": 52,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - Nov. 9",
             "secondDuration": 1264,
             "group": "group_7"
+        },
+        {
+            "videoId": "eWVwylJAz-4",
+            "title": "Pete Buttigieg Talks 2020 Election, Diversity In Democratic Party | NBC News",
+            "secondDuration": 881,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

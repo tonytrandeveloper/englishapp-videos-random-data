@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8k6G1g7Wpig",
-            "title": "How Asia contained COVID-19",
-            "secondDuration": 352,
-            "group": "group_7"
-        },
-        {
             "videoId": "yMsbCFHxj58",
             "title": "President Trump fires Defense Secretary Mark Esper",
             "secondDuration": 378,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Sexy Felon Gets Agent",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "CS_Y1XCS3Vg",
+            "title": "In Chicago, Latinos struggle to find relief from devastation of COVID-19 | Nightline",
+            "secondDuration": 682,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

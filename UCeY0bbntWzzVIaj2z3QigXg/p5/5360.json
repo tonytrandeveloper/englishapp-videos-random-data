@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RPdMbHTRoKQ",
-            "title": "Jeff Sessions Announces Arrest Of Undocumented Immigrants Involved In Identity Theft | NBC News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "xJ4513OPEwQ",
             "title": "Biden Visits Covid Vaccination Site During Trip To Walter Reed | NBC News NOW",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "North Korean President Issues Warning To U.S. During Workers' Party Speech | NBC News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "tFBxRtMMDYw",
+            "title": "What To Expect From President Donald Trump’s Prime Time Address | NBC Nightly News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

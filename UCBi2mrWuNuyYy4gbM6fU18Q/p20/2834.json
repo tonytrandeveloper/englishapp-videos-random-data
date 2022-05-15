@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2L68lsj7BsI",
-            "title": "New Evidence Revealed in 'American Sniper' Trial",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "e0BYLd21TNU",
             "title": "Southwest pilots describe details of engine explosion",
             "secondDuration": 83,
@@ -121,8 +115,14 @@
             "title": "Are Those Infomercials Accurate?",
             "secondDuration": 380,
             "group": "group_7"
+        },
+        {
+            "videoId": "PY0B6nI4nu4",
+            "title": "Unrest Plagues Iran After Election",
+            "secondDuration": 459,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wmRysxkj8y4",
-            "title": "What Makes Portland So Bike Friendly? | NBC Nightly News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "j2iy1240EqQ",
             "title": "Federal Appeals Court Rejects Trump Request To Block Release of White House Documents",
             "secondDuration": 230,
@@ -31,8 +25,14 @@
             "title": "Democrat Phil Murphy Wins New Jersey Governor's Race | NBC News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "Knd74WicEiM",
+            "title": "Police Investigating Whether 16-Year-Old Staged Own Kidnapping | NBC Nightly News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

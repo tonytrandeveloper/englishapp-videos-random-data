@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YD-QraQOqEY",
-            "title": "Afghanistan faces major humanitarian crisis",
-            "secondDuration": 408,
-            "group": "group_7"
-        },
-        {
             "videoId": "avTwjDObxwQ",
             "title": "Hurricane Igor Slams Bermuda",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "Coach K to Coach Lebron James?",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "IfoDJQFUveI",
+            "title": "Man Proposes in Crocodile Pit",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

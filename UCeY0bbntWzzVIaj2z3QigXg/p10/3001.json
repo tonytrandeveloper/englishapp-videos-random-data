@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "77li4Xy8a_Q",
-            "title": "Watch Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3184,
-            "group": "group_7"
-        },
-        {
             "videoId": "YN5WdtkvD8c",
             "title": "Dogs Riding In Motorcycle Sidecars Are Awesome | NBC Nightly News",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Outrage After Pittsburgh Officer Found Not Guilty In Antwon Rose Killing | NBC Nightly News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "5t17QkizIxM",
+            "title": "LIVE: Biden Awards Medal of Honor to Three Soldiers | NBC News",
+            "secondDuration": 1765,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

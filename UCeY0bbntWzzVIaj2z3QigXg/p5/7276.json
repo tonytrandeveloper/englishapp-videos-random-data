@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JwJ9ZkEnBec",
-            "title": "Watch: SpaceX Launches Rocket Carrying 49 Starlink Satellites",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "F1g1lmxhwBE",
             "title": "Historic Maine Inn Could Be Yours For Entering Essay Contest | NBC Nightly News",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "De Blasio Rips Trump Over Coronavirus Bailouts: 'Stabbing His Hometown In The Back' | NBC News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "gvJ_7plWz7s",
+            "title": "Philadelphia Man Exonerated After Nearly Two Decades In Prison For Crime He Didn’t Commit",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

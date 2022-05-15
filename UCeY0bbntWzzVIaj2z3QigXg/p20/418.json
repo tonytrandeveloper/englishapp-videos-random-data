@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SUWcOWUxykA",
-            "title": "Michelle Obama Encourages College-Bound Students To 'Find Your Community' | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "SeGBRco5Y_A",
             "title": "California Gov. Newsom To Allow Mask Mandate To Expire For Vaccinated People",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "Steven Sotloff Confirmed As ISIS Victim | NBC News",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "XgGSlRGYacw",
+            "title": "Live: New York Governor Andrew Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3448,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

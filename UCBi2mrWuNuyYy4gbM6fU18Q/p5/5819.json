@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8YTBJjjRtnU",
-            "title": "Shelter dog adopted after 7-year wait | ABC News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "6l4vMCQVXX4",
             "title": "Imam Feisal Abdul Rauf on Islam in America",
             "secondDuration": 653,
@@ -31,8 +25,14 @@
             "title": "Obama Pardons Fifth Grader Playing Hookie",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "qVN-KDRjuo8",
+            "title": "Honoring working moms for International Women’s Day | WNT",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

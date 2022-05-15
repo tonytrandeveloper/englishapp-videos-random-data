@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rUs8Wk8mzug",
-            "title": "Bill Cosby Faces Rape Allegations",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "F3sqED-RrRE",
             "title": "Instagram, Facebook Deal Worth $1 Billion",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Senate receives impeachment article as Republicans are split on convicting Trump | Nightline",
             "secondDuration": 555,
             "group": "group_7"
+        },
+        {
+            "videoId": "IQ_mE_cNHu0",
+            "title": "Suspect shot outside Louisville supermarket",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

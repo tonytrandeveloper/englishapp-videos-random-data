@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "I8hAfZCtnjs",
-            "title": "Reince Priebus 'This Week' Interview",
-            "secondDuration": 372,
-            "group": "group_7"
-        },
-        {
             "videoId": "E-zbnDclZ5M",
             "title": "Iman Shumpert Takes Us Behind the Scenes at ESPY, Body Issue Party",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "I hoped my performance could change people's minds: Russian anti-war journalist | ABC News",
             "secondDuration": 375,
             "group": "group_7"
+        },
+        {
+            "videoId": "B1gUXN6LrTk",
+            "title": "Honoring a Trail Blazer: Remembering Helen Thomas",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

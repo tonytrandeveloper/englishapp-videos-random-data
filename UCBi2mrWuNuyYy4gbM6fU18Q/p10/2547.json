@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K3nSfJh1RyU",
-            "title": "Americans’ reaction to Ukraine invasion",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "Atrw00LBrpQ",
             "title": "Back From the Dead: GM Returns to Wall Street",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Spider-Man Musical Broadway Opening",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "3TsrrfS_ZwM",
+            "title": "Pope Francis urges Trump to fight climate change",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

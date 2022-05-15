@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mFYRTpB4LWk",
-            "title": "2020 Candidates React To Death Of ISIS Leader Abu Bakr Al-Baghdadi | NBC News",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "L-7w2WS25cA",
             "title": "Pressure On Parents To Find Toys As Stores Close Ahead Of The Holidays | NBC Nightly News",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Full Panel: 'Lack Of Clarity Is A Serious Problem' In Coronavirus Response | Meet The Press",
             "secondDuration": 498,
             "group": "group_7"
+        },
+        {
+            "videoId": "AYJzzWKxPvA",
+            "title": "Robots Installed At Hotels Used To Treat Coronavirus Patients | NBC News",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9CbG9_7j-3k",
-            "title": "ABC News Live Update: Appeals court rules Trump must give taxes to Manhattan DA",
-            "secondDuration": 737,
-            "group": "group_7"
-        },
-        {
             "videoId": "taHjAB9-biA",
             "title": "WNN turns 30",
             "secondDuration": 397,
@@ -31,8 +25,14 @@
             "title": "Earthquake in New York: Epicenter Near Richmond, Virginia; Washington Monument Cracks",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "wCFt574LcNc",
+            "title": "Joe Biden Calls on Mitt Romney to Release Tax Returns",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

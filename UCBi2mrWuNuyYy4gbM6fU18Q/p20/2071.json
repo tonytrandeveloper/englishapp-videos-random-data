@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WrxAgkfIgkg",
-            "title": "The Briefing Room: US/Mexico border, Mueller report, Trump tax returns, climate change",
-            "secondDuration": 1356,
-            "group": "group_7"
-        },
-        {
             "videoId": "HMoF6bHFims",
             "title": "Christina Milian and Mark Ballas Get the Boot From 'DWTS'",
             "secondDuration": 298,
@@ -121,8 +115,14 @@
             "title": "Who's in Charge in Ferguson?",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "HMlEpiTP0jU",
+            "title": "Second Presidential Debate 2012: Mitt Romney on Tax-Plan Numbers: 'They Add Up'",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

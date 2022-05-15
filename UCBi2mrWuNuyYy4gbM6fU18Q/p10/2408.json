@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xvLZL3QhVQE",
-            "title": "A Year of Campaigning for President of the United States",
-            "secondDuration": 342,
-            "group": "group_7"
-        },
-        {
             "videoId": "kmiqcB9HVrw",
             "title": "Much Needed Advice for Last-Minute Christmas Shopping",
             "secondDuration": 217,
@@ -61,8 +55,14 @@
             "title": "Racial justice, police reform bills rise to prominence in 2020",
             "secondDuration": 643,
             "group": "group_7"
+        },
+        {
+            "videoId": "BBeCEVM4d_w",
+            "title": "'Ghostbusters' Director Paul Feig Tweets First Pictures of Costumes",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

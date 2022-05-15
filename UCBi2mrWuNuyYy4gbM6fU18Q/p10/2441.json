@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LQ5arKPr7Yg",
-            "title": "How the new administration could investigate the Capitol riot",
-            "secondDuration": 376,
-            "group": "group_7"
-        },
-        {
             "videoId": "IJSwQIYoXfc",
             "title": "Harry Styles, Fionn Whitehead discuss taking on 'Dunkirk' roles",
             "secondDuration": 453,
@@ -61,8 +55,14 @@
             "title": "Severe Weather Across the Country | ABC News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "YKlWrgfeOOw",
+            "title": "White House: US to fall short of President Biden’s July 4 vaccination goal",
+            "secondDuration": 389,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

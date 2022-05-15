@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Cfi1LNJ9mLU",
-            "title": "NBC News NOW Full Broadcast - May 17th, 2021",
-            "secondDuration": 2971,
-            "group": "group_7"
-        },
-        {
             "videoId": "mDiKLU7_vzw",
             "title": "Gloria Estefan’s Revolutionary Impact On Latin Music And Her American Dream | Nightly News Films",
             "secondDuration": 832,
@@ -61,8 +55,14 @@
             "title": "Mother Erika Hurt's Addiction Went Viral, Now She’s Glad It Did | NBC News",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "_rPqUjbPTJE",
+            "title": "See It: One Girl Is On A Very Big Adventure While Still Being At Home | Nightly News: Kids Edition",
+            "secondDuration": 677,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

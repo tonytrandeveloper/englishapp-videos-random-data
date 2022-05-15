@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3jXgywMwmM8",
-            "title": "Facing Outrageous Hospital Bills",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "RFEc-ugfkXg",
             "title": "WEBCAST: Trick or Treat",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "Trump Named Time's 'Person of The Year'",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q1AzTts1_-o",
+            "title": "Valentine's Day Cancelled: Georgia Sheriff Shuts Down Holiday",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

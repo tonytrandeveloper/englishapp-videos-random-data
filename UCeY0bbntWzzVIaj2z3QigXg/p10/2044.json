@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HGE3F4Zh0DM",
-            "title": "Meet The Mom Who Offers To Be A Stand-in Parent At LGBTQ+ Weddings | Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "MVAWphjEEOI",
             "title": "Boston Bombing Verdict: Tsarnaev Guilty On All 30 Counts | NBC Nightly News",
             "secondDuration": 178,
@@ -61,8 +55,14 @@
             "title": "Why Atlanta Spa Shootings Are Not Being Classified As A Hate Crime | NBC News NOW",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "7zpvyGBq7is",
+            "title": "NY Gov. Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2403,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

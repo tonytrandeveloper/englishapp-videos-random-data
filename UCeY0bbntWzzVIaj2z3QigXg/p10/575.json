@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xmSWoel2oUc",
-            "title": "President Vladimir Putin Tells Mike Pompeo He’s Keen To Improve U.S.-Russian Relations | NBC News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "OD75mF5cMlc",
             "title": "Ohio Protesters Smash Windows At Statehouse, Get Pepper Sprayed by Police | NBC News NOW",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "NBA Star LeBron James’ I Promise School Opens For First Day | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "5Bx6MPQA_UI",
+            "title": "19-Year-Old Pilot Becomes Youngest Woman To Fly Solo Around The World",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

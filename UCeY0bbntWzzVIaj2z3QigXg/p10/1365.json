@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D7pft8FHpF8",
-            "title": "Morning News NOW Full Broadcast - Feb. 8",
-            "secondDuration": 2441,
-            "group": "group_7"
-        },
-        {
             "videoId": "rCJXedvtHt8",
             "title": "James Mattis Jokes About Trump's 'Overrated General' Comment | NBC News",
             "secondDuration": 79,
@@ -61,8 +55,14 @@
             "title": "No Plan In Place To Reunite Separated Families After Donald Trump Executive Order | NBC Nightly News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "VVHgcZRrrpc",
+            "title": "Joe Biden Under Pressure To Address Sexual Assault Accusation | NBC Nightly News",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JgF8Y8BB0mQ",
-            "title": "The Debrief: Nipsey Hussle suspect caught, 'Varsity Blues' parents in court | ABC News",
-            "secondDuration": 2585,
-            "group": "group_7"
-        },
-        {
             "videoId": "tzQCVT1grG0",
             "title": "Couple tells of chasing car to help save kidnapped girl l ABC News",
             "secondDuration": 381,
@@ -61,8 +55,14 @@
             "title": "American hostage released in Afghanistan after 3 years in captivity l ABC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "NQX60KG0xZ8",
+            "title": "All-civilian crew completes 1st full day in space",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KMK871leui0",
-            "title": "Venezuela’s ‘Green Helmets’ Risk Lives To Treat Wounded | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "T0iCF1A44pY",
             "title": "Donald Trump Talks Shutdown On Capitol Hill As Republican Resolve Starts To Waver | NBC Nightly News",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "This Morning’s Top Headlines – Dec. 20 | Morning News NOW",
             "secondDuration": 1564,
             "group": "group_7"
+        },
+        {
+            "videoId": "ovNaOk7_NXo",
+            "title": "Trump Declines to Endorse Speaker Ryan, Senator McCain | NBC Nightly News",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

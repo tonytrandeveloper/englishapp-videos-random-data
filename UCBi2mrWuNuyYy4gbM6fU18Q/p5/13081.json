@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0ILDR2z-HLs",
-            "title": "ABC News Live: Senate passes $1 trillion bipartisan infrastructure deal",
-            "secondDuration": 4809,
-            "group": "group_7"
-        },
-        {
             "videoId": "xZAECFkP6oA",
             "title": "Nightclub Fire Kills 231 in Santa Maria, Brazil",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Bush family preparing funeral of former first lady",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "Drh4-WP19FU",
+            "title": "ISIS Second in Command Taken Down by US Special Forces",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

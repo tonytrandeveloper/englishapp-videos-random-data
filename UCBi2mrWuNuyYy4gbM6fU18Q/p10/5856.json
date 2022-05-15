@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oVeK2vyXyOU",
-            "title": "Why Red for Republicans and Blue for Democrats? | America 101",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "UxzhLV6cKNE",
             "title": "America Could Increase Role in Syrian Conflict",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Trump Pulls Ahead as Iowa Caucus Day Nears",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "oWIZZDfIkEQ",
+            "title": "Keith Lamont Scott Shooting Video Released by Charlotte Police",
+            "secondDuration": 274,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

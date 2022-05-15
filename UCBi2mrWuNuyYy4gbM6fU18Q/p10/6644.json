@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0nDzr6RGyrE",
-            "title": "New video shows abandoned vehicles, equipment at Kabul airport",
-            "secondDuration": 573,
-            "group": "group_7"
-        },
-        {
             "videoId": "eKhBfppYK7Y",
             "title": "Bill Belichick Denies Deflate Gate Knowledge in 8 Ways",
             "secondDuration": 39,
@@ -61,8 +55,14 @@
             "title": "CDC reports that the flu epidemic is the worst in nearly a decade",
             "secondDuration": 214,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hzg6BeuOqRM",
+            "title": "ISIS Claims Responsibility for Berlin Christmas Market Attack",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

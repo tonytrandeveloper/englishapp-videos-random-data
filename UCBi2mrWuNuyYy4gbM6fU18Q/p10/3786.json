@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WhWd4XkEdA4",
-            "title": "Government partially shuts down before Christmas",
-            "secondDuration": 412,
-            "group": "group_7"
-        },
-        {
             "videoId": "HHFnkTRA_0o",
             "title": "Police Officer CAUGHT Slapping, Kicking Student",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "Concussion Keeps Clinton From Testifying on Benghazi",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "DFSRi68YwzI",
+            "title": "Officers banned from guarding Chauvin?",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

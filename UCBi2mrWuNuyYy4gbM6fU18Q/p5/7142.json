@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yzN3IotKi0k",
-            "title": "US researchers test the first experimental coronavirus vaccine",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "xvMi3QjZwiU",
             "title": "Baby penguin, cold weather and protests in Bolivia: World in Photos, Nov. 11",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Child Labor: Problem in Our Own Backyard",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "N75fpp09sBo",
+            "title": "This music teacher composed a team of 3D printers to help COVID-19 frontline workers",
+            "secondDuration": 569,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

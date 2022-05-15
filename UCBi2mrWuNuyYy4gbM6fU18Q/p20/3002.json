@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8bU31q4J7Tk",
-            "title": "Trump speaks following Mueller’s testimony | ABC News",
-            "secondDuration": 955,
-            "group": "group_7"
-        },
-        {
             "videoId": "egE-ayAS5bw",
             "title": "Thousands without power after outage in Puerto Rico",
             "secondDuration": 66,
@@ -121,8 +115,14 @@
             "title": "Friend of Dayton shooter charged with lying on federal firearms forms",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "rF4hoKSaJkI",
+            "title": "Federal officials join in investigation of fires at black churches",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

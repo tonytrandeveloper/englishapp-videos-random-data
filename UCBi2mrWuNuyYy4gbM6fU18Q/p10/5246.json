@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IG7Zj4wzBHQ",
-            "title": "Free after five years in captivity, American hostage mom speaks out",
-            "secondDuration": 555,
-            "group": "group_7"
-        },
-        {
             "videoId": "_3ztTY0z9ps",
             "title": "James Franco Discusses Having Grandma on Set of 'Oz: The Great and the Powerful' in Interview",
             "secondDuration": 223,
@@ -61,8 +55,14 @@
             "title": "John Kelly set to leave the White House",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "mPuSFmRAL9I",
+            "title": "'This Week' Remembers George McGovern: Former Senator Passes Away at Age 90",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

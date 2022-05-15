@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Sbw27rl0Q98",
-            "title": "SC School Shooting | Teen Charged With Attempted Murder in",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "lhRXmuZano8",
             "title": "George Zimmerman's Wife Talks About Trayvon Martin Shooting",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Black Bear Climbs Tree at Yosemite National Park| ABC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "NLiau4J9Wko",
+            "title": "Boiling Point on the Border",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

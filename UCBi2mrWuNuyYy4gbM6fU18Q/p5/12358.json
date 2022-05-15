@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PlgM-zYIIIU",
-            "title": "Mother Jumps on Car to Stop Carjacking",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "TM8bGRhfTZ4",
             "title": "'This Week' NFL Under Fire",
             "secondDuration": 292,
@@ -31,8 +25,14 @@
             "title": "These citizen journalists risk their lives to document ISIS horrors in Syria",
             "secondDuration": 486,
             "group": "group_7"
+        },
+        {
+            "videoId": "IbevYVmVAkw",
+            "title": "Ray Bradbury Death: Author of 'Fahrenheit 451' and 'The Illustrated Man' Books Dies at 91",
+            "secondDuration": 28,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

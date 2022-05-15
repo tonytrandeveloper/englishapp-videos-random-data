@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hemOsZKqBsY",
-            "title": "Trump speaks at medical supplies distributor in Pennsylvania",
-            "secondDuration": 608,
-            "group": "group_7"
-        },
-        {
             "videoId": "uvFktut-tjA",
             "title": "More Details Emerge About NYC Motorcycle Road Rage Incident",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Kerry Meets Putin in Moscow to Discuss Syria",
             "secondDuration": 22,
             "group": "group_7"
+        },
+        {
+            "videoId": "QXSUnGOJv24",
+            "title": "Surveillance Video: Pharmacy Robberies Increase",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

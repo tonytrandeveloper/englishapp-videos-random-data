@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yHsLIbVzyGA",
-            "title": "Former first lady Barbara Bush suffering from congestive heart failure",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "WctHdxVFxa8",
             "title": "Why child murderer Diane Downs was arrested in chilling 1983 case (NIGHTLINE)",
             "secondDuration": 679,
@@ -121,8 +115,14 @@
             "title": "President Trump faces questions from uncommitted voters in town hall",
             "secondDuration": 346,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ippnztg3A_o",
+            "title": "Death by Floor Mat? Toyota Investigates",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "q8GTuTVWSik",
-            "title": "Gen. Milley Warns Russia Could Invade Ukraine With ‘Little Warning’",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "CueIRYOpiA8",
             "title": "President Donald Trump Refers To Some Undocumented Immigrants As ‘Animals’ At WH Meeting | NBC News",
             "secondDuration": 56,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump: Heller 'Wants To Remain a Senator, Doesn't He?' | NBC News",
             "secondDuration": 47,
             "group": "group_7"
+        },
+        {
+            "videoId": "n3ErxumEeRQ",
+            "title": "The Astronomical Health Care Costs Of Gun Violence | Think | NBC News",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

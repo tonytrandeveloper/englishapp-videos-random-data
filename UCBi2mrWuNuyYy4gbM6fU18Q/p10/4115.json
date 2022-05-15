@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dSQWr4UA7sg",
-            "title": "New docuseries gives rare look inside Tom Brady's life",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "HVIc1YOmKS8",
             "title": "Emma Watson Beatbox for Lin-Manuel Miranda Gender Equality Rap",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "CDC releases new guidance for those who are fully vaccinated",
             "secondDuration": 314,
             "group": "group_7"
+        },
+        {
+            "videoId": "c8hcFpIJq-s",
+            "title": "President Obama to Make Historic Trip to Cuba",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

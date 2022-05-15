@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZivwWvomYS8",
-            "title": "Six People Injured In Suspected Drunk Driving Accident | NBC Nightly News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "GXW627dqoSg",
             "title": "Fact-Checking Trump’s Claim COVID-19 Vaccine Could Come By ‘End Of Year’ | NBC News NOW",
             "secondDuration": 371,
@@ -31,8 +25,14 @@
             "title": "ISIS: British Woman Actively Recruiting Teens | NBC Nightly News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "EXlyLPGI9W0",
+            "title": "Inside Pittsburgh Children’s Hospital Overwhelmed By Covid Cases",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

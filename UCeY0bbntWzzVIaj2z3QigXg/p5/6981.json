@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6dXFUctMxts",
-            "title": "American Killed While Fighting ISIS In Syria | NBC News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "dqIYjPAPx00",
             "title": "This Morning’s Top Headlines – Dec. 2 | Morning News NOW",
             "secondDuration": 1515,
@@ -31,8 +25,14 @@
             "title": "Risky South Pole Rescue Mission Underway To Save Sick Worker | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "VNAF739eXzg",
+            "title": "Cyberattack Forces U.S. Energy Pipeline To Go Offline | NBC Nightly News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

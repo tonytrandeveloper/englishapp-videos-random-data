@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JFYj2H5kgDE",
-            "title": "GOP congressman urges Biden to work with Republicans on immigration",
-            "secondDuration": 475,
-            "group": "group_7"
-        },
-        {
             "videoId": "cve6vFY__0g",
             "title": "Sam Smith’s Weight Loss Guru Explains His Transformation",
             "secondDuration": 171,
@@ -31,8 +25,14 @@
             "title": "Donald Trump on Nevada Caucuses Win",
             "secondDuration": 263,
             "group": "group_7"
+        },
+        {
+            "videoId": "FXcL_I3uTGI",
+            "title": "Beto O'Rourke on gun reform: 'We're going to take away your AR-15, your AK-47'",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wswqfnEejKs",
-            "title": "Lights Illuminate Bay Bridge in San Francisco",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "AzZlymlpPmU",
             "title": "Caught in the Act: 5 Chinese Spies Indicted by the US Justice Department",
             "secondDuration": 164,
@@ -31,8 +25,14 @@
             "title": "Saving Soldiers From Mental Effects of War",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "74hFcK0EC9I",
+            "title": "Man Charged With Starting California Fire",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

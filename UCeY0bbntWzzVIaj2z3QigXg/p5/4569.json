@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vFdCMTs5VnU",
-            "title": "Kamala Harris Holds Virtual Early Vote Event | NBC News",
-            "secondDuration": 2866,
-            "group": "group_7"
-        },
-        {
             "videoId": "AG61_CiZiEU",
             "title": "Sean Spicer's Comments On Adolf Hitler, Chemical Weapons Backfiring | NBC Nightly News",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "Meet the Man Who’s Brightening Up Lives With Crayons | NBC Nightly News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "BrKh3oky4dY",
+            "title": "Analysis: Navigating The Battleground Map With 6 Days To Go | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

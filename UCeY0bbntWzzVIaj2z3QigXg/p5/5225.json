@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cKSo9K6s0f4",
-            "title": "Bob Saget's Death Due To Head Trauma Says Authorities",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "1_oVrYaOtAg",
             "title": "White House Press Briefing - May 7, 2018 | NBC News",
             "secondDuration": 833,
@@ -31,8 +25,14 @@
             "title": "Olympics Star Gabby Douglas Says Team Doctor Larry Nassar Abused Her | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "GMB6bzAkEVM",
+            "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 9525,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KKt1f1xjIEo",
-            "title": "How Goodwill Uses Artificial Intelligence To Make Sure Luxury Items Aren't Fake | Mach | NBC News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "mX8jk2iVoAQ",
             "title": "Examining The Reasons And Solutions For The Covid Vaccine Race Gap | NBC News NOW",
             "secondDuration": 670,
@@ -61,8 +55,14 @@
             "title": "Bodycam Videos Show Moment First Responders Arrive To Surfside Condo Collapse",
             "secondDuration": 242,
             "group": "group_7"
+        },
+        {
+            "videoId": "YQKXl5x2Alc",
+            "title": "Tesla Driver Pulled Over After Appearing To Be Asleep While Driving",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

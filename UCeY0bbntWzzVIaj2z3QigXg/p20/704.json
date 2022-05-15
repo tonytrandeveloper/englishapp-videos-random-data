@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "w1qBra5fu1o",
-            "title": "Taiwan Plane Crash Leaves 31 Dead | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "gY_sv7XCRFQ",
             "title": "Anger In Louisville After No Officers Charged With Breonna Taylor’s Death | NBC Nightly News",
             "secondDuration": 125,
@@ -121,8 +115,14 @@
             "title": "What Is A High Deductible Heath Care Plan? | NBC News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "ngST5tsEvJo",
+            "title": "Walk Along The Berlin Wall? Augmented Reality Makes It Happen | NBC News Now",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BCPnbmtzRyQ",
-            "title": "Anthony Scaramucci Is Out, As Gen. John Kelly Takes Charge | NBC Nightly News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "VvLypRXDmXU",
             "title": "Puerto Rico Power Grid Deal Under Scrutiny | NBC Nightly News",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "The Most Promising College Majors | NBC News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "8C8pRDetZr8",
+            "title": "Officials Investigating Hawaii Missile False Alarm | NBC News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

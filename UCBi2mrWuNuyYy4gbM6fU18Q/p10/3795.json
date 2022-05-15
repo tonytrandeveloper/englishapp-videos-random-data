@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fM46_Xh5Z50",
-            "title": "Chris Christie's Personal Weight Loss Decision to Get Lap Band",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "ulNVqGLiRkA",
             "title": "Fort Hood Shooter Struggled With Anxiety, Depression",
             "secondDuration": 301,
@@ -61,8 +55,14 @@
             "title": "Father of abducted Tennessee teen speaks out",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "jU7HAlp-XqI",
+            "title": "Putin's spokesman denies hacking allegations",
+            "secondDuration": 462,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ANAmxb4EKhk",
-            "title": "Trump Labels Mueller Conclusions A Personal Victory | NBC Nightly News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "DVwAkLMITCU",
             "title": "‘They Call Me Mayor Pete:’ Buttigieg Makes 2020 Presidential Bid Official | NBC Nightly News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "A.G. Jeff Sessions Recuses Self From Donald Trump Campaign-Related Investigations | NBC Nightly News",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "E4cNXipHDdk",
+            "title": "South Carolina Shooting Suspect Is Former NFL Player Phillip Adams, Sheriff Confirms | NBC News NOW",
+            "secondDuration": 381,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

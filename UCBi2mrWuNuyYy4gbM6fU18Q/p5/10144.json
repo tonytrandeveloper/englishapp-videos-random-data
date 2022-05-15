@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VThWUxxwDHI",
-            "title": "The new normal: How to ease financial strain",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "LwI0PIc9KLU",
             "title": "Ukrainian navy claims sinking of Russian ship",
             "secondDuration": 76,
@@ -31,8 +25,14 @@
             "title": "Car Falls Into Expanding Sinkhole",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "qcP_YaVZ_ME",
+            "title": "Puerto Rico calls state of emergency after pre-dawn earthquake",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

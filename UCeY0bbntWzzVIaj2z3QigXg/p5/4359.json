@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vC76lAT87F0",
-            "title": "Nightly News Full Broadcast - November 4th",
-            "secondDuration": 1123,
-            "group": "group_7"
-        },
-        {
             "videoId": "8IU5cbNQjuc",
             "title": "White House To Wind Down Coronavirus Task Force | NBC Nightly News",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Car Slams Into Pedestrians In Times Square Killing At Least One | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ScUryoSZcQ",
+            "title": "Donald Trump Celebrates Victory In New Hampshire | NBC News",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

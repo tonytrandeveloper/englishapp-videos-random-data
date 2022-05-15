@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7LCZIrBcHZc",
-            "title": "Puppy Pianist Plays with Two Paws",
-            "secondDuration": 34,
-            "group": "group_7"
-        },
-        {
             "videoId": "v85Vp7Teuzc",
             "title": "Beauty Pageant Fails",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "Kushner has security clearance restored",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q7bH8ZFw_Vk",
+            "title": "Person of the Week: 'A Christmas Story' Lives On",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

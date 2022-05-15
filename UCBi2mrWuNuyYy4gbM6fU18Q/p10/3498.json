@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nwdpOyln7pU",
-            "title": "Olympics | Best Moments of the 2016 Summer Games",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "v6pcA8_uUoY",
             "title": "What happened to Breonna Taylor? Family seeks answers after raid in which she died | Nightline",
             "secondDuration": 462,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: 10-Year-Old Driver Crashes",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "mApl3uKPUNk",
+            "title": "4 People Killed When Car Slams Into Crowd at Homecoming Parade",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

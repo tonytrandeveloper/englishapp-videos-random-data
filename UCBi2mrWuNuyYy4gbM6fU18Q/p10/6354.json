@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wpruCisB1eU",
-            "title": "British Spy Behind Trump Russia Allegations Officials Confirm",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "vHYbS-qvnfA",
             "title": "Rubio Calls Sean Penn's 'El Chapo' Guzman Interview 'Grotesque'",
             "secondDuration": 59,
@@ -61,8 +55,14 @@
             "title": "Massive snowstorm slams center of the US",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "NSC9QDJoivE",
+            "title": "The Conversation: 'Ground Zero Mosque' Debate",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pQJjILhqj9A",
-            "title": "Watch Donald Trump's Keynote Speech In Warsaw, Poland | NBC News",
-            "secondDuration": 2194,
-            "group": "group_7"
-        },
-        {
             "videoId": "CYCWHNQe0l0",
             "title": "Arizona Coronavirus Curve Shows Signs Of Plateau | NBC News NOW",
             "secondDuration": 383,
@@ -61,8 +55,14 @@
             "title": "SCOTUS Nominee Neil Gorsuch: I Would Have ‘No Difficulty’ Ruling Against the President | NBC News",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "dlrRNWLTvAI",
+            "title": "Severe Winter Cold Explained By A Meteorologist | NBC News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

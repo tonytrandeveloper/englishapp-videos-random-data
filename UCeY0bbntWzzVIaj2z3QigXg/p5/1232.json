@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tMynU3ZkWBk",
-            "title": "Destroying ISIS: Airstrikes Before And After | NBC News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZQ145qNLHIg",
             "title": "Nightly News Full Broadcast - Jan. 28",
             "secondDuration": 1285,
@@ -31,8 +25,14 @@
             "title": "Deadly Storm Hits Southeast With Snow And Freezing Rain | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "bKrcNtCLCHE",
+            "title": "Doug Jones On Opponent Roy Moore: He Is 'Not Qualified To Be A United States Senator' | NBC News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

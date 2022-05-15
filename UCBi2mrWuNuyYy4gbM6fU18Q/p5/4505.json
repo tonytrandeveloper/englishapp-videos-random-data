@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sOq1N1FZ8LE",
-            "title": "An almost perfect game",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "QBPnyS0NIdY",
             "title": "Presidential Election 2016: Potential Candidates In A Minute",
             "secondDuration": 67,
@@ -31,8 +25,14 @@
             "title": "Man killed after elevator malfunctions, fatally crushing him",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "QVKDhXIRjA0",
+            "title": "Trump Attempts to Reset Struggling Campaign",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

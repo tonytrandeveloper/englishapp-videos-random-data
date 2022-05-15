@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "G6Rte7NhCI0",
-            "title": "Trump: 'Bigly' or 'Big League'?",
-            "secondDuration": 26,
-            "group": "group_7"
-        },
-        {
             "videoId": "RoKt8mYbJuU",
             "title": "Examining extremism in the military l ABC News",
             "secondDuration": 798,
@@ -31,8 +25,14 @@
             "title": "ABC News Update: Supreme Court rules Arizona laws don’t violate Voting Rights Act",
             "secondDuration": 1823,
             "group": "group_7"
+        },
+        {
+            "videoId": "FZKOW5b9_w0",
+            "title": "New explosion in Austin injures 2: Police",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

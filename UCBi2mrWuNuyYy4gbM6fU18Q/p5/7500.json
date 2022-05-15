@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8mmZzVS-8fo",
-            "title": "2 suspected ISIS terrorists are in US to face charges",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "hHuIB88ZFRQ",
             "title": "Senate Judiciary Committee advances Amy Coney Barrett’s SCOTUS nomination",
             "secondDuration": 201,
@@ -31,8 +25,14 @@
             "title": "Inside the Texas church shooting suspect's troubled past",
             "secondDuration": 492,
             "group": "group_7"
+        },
+        {
+            "videoId": "IziKz73D7IU",
+            "title": "Arrest made in murder of jogger in Massachusetts",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

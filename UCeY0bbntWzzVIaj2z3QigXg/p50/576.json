@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "OQMgwueBz8A",
-            "title": "Biden Delivers Remarks On The Economy | NBC News",
-            "secondDuration": 1006,
-            "group": "group_7"
-        },
-        {
             "videoId": "F1STO3-HNkU",
             "title": "Arkansas Working To Lift Court's Halt On Slate Of Executions This Week | NBC Nightly News",
             "secondDuration": 124,
@@ -301,8 +295,14 @@
             "title": "Nightly News Full Broadcast - October 9th",
             "secondDuration": 1298,
             "group": "group_7"
+        },
+        {
+            "videoId": "qpL-rwoohXU",
+            "title": "Humans To Blame For The Coronavirus? How Deforestation Gives Rise To Pandemics | Think | NBC News",
+            "secondDuration": 461,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

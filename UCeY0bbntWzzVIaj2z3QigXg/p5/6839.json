@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3dOw4zUgoUM",
-            "title": "Houston Police ID Murder Suspect: 'This Absolutely Is The Killer' | NBC News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "s6ueQXas4qE",
             "title": "Federal Indictment: Drug Company Officials Bribed Doctors To Prescribe Opioid | NBC Nightly News",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "NFL Coaching Diversity In The Spotlight After A Number Of Black Coaches Fired | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "CSMFeY-PJqU",
+            "title": "Study Examines The Silent Side Effects Of Heartburn Medications | NBC Nightly News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

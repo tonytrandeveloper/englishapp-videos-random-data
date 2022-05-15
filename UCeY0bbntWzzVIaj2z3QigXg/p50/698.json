@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "K7aZuCcbG64",
-            "title": "Frontier, Spirit Merge To Form Fifth Largest U.S. Airline",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "j_ymHtY94QQ",
             "title": "NBC Nightly News Full Broadcast - September 24th",
             "secondDuration": 1114,
@@ -301,8 +295,14 @@
             "title": "Copyright Should Protect Creativity, Not Ownership | Think | NBC News",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "6dXFUctMxts",
+            "title": "American Killed While Fighting ISIS In Syria | NBC News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

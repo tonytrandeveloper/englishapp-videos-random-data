@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s_aXOSmuXoY",
-            "title": "An Algorithm Can Solve A Rubik's Cube Faster Than Any Human | Mach | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "DvOT8-Z7rvs",
             "title": "Before Colin Kaepernick, Mahmoud Abdul-Rauf's Silent Protest | Flashback | NBC News",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Cindy McCain On Trump’s Wall, Human Trafficking & Life Since Her Husband’s Death | NBC Nightly News",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "lqzvRBWanlY",
+            "title": "San Jose Transit Official To Families: 'We Are Here For You'",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

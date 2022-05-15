@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Xd5Y1FfWU10",
-            "title": "Chicago Public Schools Reopen Despite Pushback From Teachers | NBC News NOW",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "7FNwaeg1M38",
             "title": "App Helps Reduce Childbirth Deaths In Rural Guatemala | NBC News",
             "secondDuration": 230,
@@ -61,8 +55,14 @@
             "title": "Delta Covid variant In Israel Infects Some Fully Vaccinated Adults",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "MIvggVdEGb8",
+            "title": "Bridging Old Divisions In Bosnia-Herzegovina More Than 20 Years After Bosnian War | NBC News",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

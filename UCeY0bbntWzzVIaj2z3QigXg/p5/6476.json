@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2EQnqcIoCmY",
-            "title": "Dr. Fauci Explains How Coronavirus Spreads, Why It’s More Serious Than Common Cold Or Flu | NBC News",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "SlT-OyWGdzw",
             "title": "Martin Luther King Jr.’s 10-Year-Old Granddaughter Says She Has A Dream, Too | NBC Nightly News",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Jahana Hayes, CT Congressional Candidate: 'I Have A Voice And A Platform' | NBC News",
             "secondDuration": 272,
             "group": "group_7"
+        },
+        {
+            "videoId": "4fmvl7lB_ac",
+            "title": "Saudi Arabia Journalist Jamal Khashoggi Mystery Deepens | NBC Nightly News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

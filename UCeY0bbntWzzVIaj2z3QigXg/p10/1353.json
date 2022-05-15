@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gPlpr_NjJTA",
-            "title": "NBC News Signal - January 24th, 2019",
-            "secondDuration": 3152,
-            "group": "group_7"
-        },
-        {
             "videoId": "XgHkKiNnh1M",
             "title": "Trump Associate Roger Stone Faces Sentencing | NBC News (Live Stream Recording)",
             "secondDuration": 6325,
@@ -61,8 +55,14 @@
             "title": "Donald Trump At UN Claims China Is Attempting To Interfere In U.S. Elections | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "OOn4y7KuQ8I",
+            "title": "Watch Rep. Adam Schiff Read The Articles Of Impeachment To The Senate | NBC News",
+            "secondDuration": 828,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

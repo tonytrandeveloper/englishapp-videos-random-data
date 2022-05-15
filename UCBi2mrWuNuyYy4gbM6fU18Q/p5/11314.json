@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qXFgLA1ipSw",
-            "title": "By the Numbers: Trump’s 2020 election loss",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "xYF6TbQ2lIY",
             "title": "Russia warns that a WWIII 'would involve nuclear weapons'",
             "secondDuration": 256,
@@ -31,8 +25,14 @@
             "title": "Bear Attack; Woman Defends Dog and Gets Mauled",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "TGobbEDwpno",
+            "title": "'This Week' Web Extra: Peter Baker's 'Days of Fire' - NY Times White House Corresponden on New Book",
+            "secondDuration": 340,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

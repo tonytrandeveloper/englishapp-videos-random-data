@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "98XaAOf_Xck",
-            "title": "Heart Transplant Recipient Crosses Marathon Finish Line With Donor’s Father | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "70D4T2jHlqc",
             "title": "White House Holds Press Briefing: March 18 | NBC News",
             "secondDuration": 2962,
@@ -31,8 +25,14 @@
             "title": "Florida Breaks Coronavirus Records With 15,300 New Cases In One Day | NBC Nightly News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "t87zAlFMbdE",
+            "title": "New Jersey Governor Phil Murphy Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3935,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

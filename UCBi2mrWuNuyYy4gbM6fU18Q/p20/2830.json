@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Iuqkt0cn1hc",
-            "title": "ATT Wireless Bids to Acquire T Mobile",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "rRY4Pl88Ovs",
             "title": "Escaped Inmate Wanted in Stabbing of Police Officer",
             "secondDuration": 94,
@@ -121,8 +115,14 @@
             "title": "Speculation surrounds Matthew McConaughey possibly running for Texas governor",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "WsdrbWGQbAw",
+            "title": "Jobs Report: Is Anyone Hiring?",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

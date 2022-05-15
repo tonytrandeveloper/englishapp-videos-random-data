@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ew8RHOpGWkA",
-            "title": "Little 6-year-old girl's big pursuit to helping those in need",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "dlRk0gKGSk0",
             "title": "George W. Bush Interview 2013: President on Brother Jeb Running Against Hillary",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "A Real Life Modern Family",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "5QOjtBMKIZA",
+            "title": "Gulf Coast prepares for tropical threat",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g6A10fjV21k",
-            "title": "Extreme Winter Storm: Millions of Travelers Affected",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "fP-XrKmPDX0",
             "title": "ABC News Prime: New single-dose vaccine; New variants; Video of Capitol riot: Gen Z runs the world",
             "secondDuration": 3595,
@@ -31,8 +25,14 @@
             "title": "Satellite Heading Towards Earth",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "YsLFLF4jcuI",
+            "title": "‘Dancing with the Stars’ Season 22 Premiere",
+            "secondDuration": 289,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

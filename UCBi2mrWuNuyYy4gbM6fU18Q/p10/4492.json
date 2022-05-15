@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kJlRVy89euk",
-            "title": "This Strange Room Holds a Quiet Secret",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "laxOBEuniyw",
             "title": "Basketball Wives: Evelyn Lozada Speaks",
             "secondDuration": 334,
@@ -61,8 +55,14 @@
             "title": "Trump clashes with Kaepernick, Steph Curry; Leonardo DiCaprio to play Teddy Roosevelt: 'Real Live'",
             "secondDuration": 1344,
             "group": "group_7"
+        },
+        {
+            "videoId": "EMHAzXEA0XA",
+            "title": "Despite campaign promises, Senate Republicans fail to pass new health care bill",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

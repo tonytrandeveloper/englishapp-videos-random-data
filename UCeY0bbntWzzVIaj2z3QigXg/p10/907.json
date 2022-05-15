@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K_htJxu28bY",
-            "title": "Grand Canyon Celebrating 100th Birthday | NBC Nightly News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "cAeL6o0G8LA",
             "title": "Mother Shares Story Of Son Being Drafted By ISIS | NBC News",
             "secondDuration": 294,
@@ -61,8 +55,14 @@
             "title": "Customers Shocked Wells Fargo Hasn’t Been Counting Mortgage Payments | NBC Nightly News",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "w-cm95IJ3-A",
+            "title": "Inside A South Carolina Hospital, Coronavirus Surge Overwhelms Staff | NBC Nightly News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

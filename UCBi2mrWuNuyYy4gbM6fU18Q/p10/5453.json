@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r6jE5JQjOFE",
-            "title": "Bill Cosby Charged With Assault, Accusers React | ABC News",
-            "secondDuration": 564,
-            "group": "group_7"
-        },
-        {
             "videoId": "xq8GpG0OYFg",
             "title": "James Franco, Seth Rogen: Hollywood's Oddest Couple",
             "secondDuration": 315,
@@ -61,8 +55,14 @@
             "title": "Firestorm grows around William Barr",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "vhjjUSpL_eQ",
+            "title": "Multiple people killed at MillerCoors building in Milwaukee | WNT",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

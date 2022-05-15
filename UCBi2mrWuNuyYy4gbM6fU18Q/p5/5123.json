@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5TN139Ny4_I",
-            "title": "Justice Stephen Breyer announces his retirement",
-            "secondDuration": 1015,
-            "group": "group_7"
-        },
-        {
             "videoId": "m_xuDS3I54g",
             "title": "Helping kids cope with COVID-19",
             "secondDuration": 374,
@@ -31,8 +25,14 @@
             "title": "Trump calls Hurricane Michael aftermath 'total devastation'",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "6YBpywEtNPs",
+            "title": "US Officials on the Lookout for ISIS-Made Passports",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

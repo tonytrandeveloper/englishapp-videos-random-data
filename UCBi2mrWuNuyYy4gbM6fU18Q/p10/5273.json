@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s-rQ3r-Q4Kg",
-            "title": "Michelle Obama, Daughters Travel to Morocco",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "4fRjle8vBL0",
             "title": "The prosecution delivers its closing arguments in trial of Derek Chauvin",
             "secondDuration": 737,
@@ -61,8 +55,14 @@
             "title": "Democratic congressman speaks out about violence on Capitol Hill",
             "secondDuration": 408,
             "group": "group_7"
+        },
+        {
+            "videoId": "A9_kzJi3nug",
+            "title": "Cell Phone Addiction May Lead to Sleep Texting",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

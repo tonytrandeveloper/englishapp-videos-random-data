@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rskXAAF6_Jw",
-            "title": "Jake Tapper on the Journalists' Return",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "lS3s6sYcI1E",
             "title": "Sharee Miller details deadly internet plot | 20/20 ‘You’ve Got Jail’ Preview",
             "secondDuration": 191,
@@ -61,8 +55,14 @@
             "title": "Chrissy Teigen’s heartbreaking loss prompts conversations on pregnancy complications",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "CrCDowZjphc",
+            "title": "Downpours across California continue to create hazardous travel conditions",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

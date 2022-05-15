@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DxcwJfrv1_c",
-            "title": "Ivana Trump: ‘I'm First Lady, OK?’ | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "x8uKMXNs36U",
             "title": "Kamala Harris Receives Coronavirus Vaccine | NBC News",
             "secondDuration": 293,
@@ -31,8 +25,14 @@
             "title": "Monkey Business: How COVID-19 Impacted Local Species In Thailand | NBC News NOW",
             "secondDuration": 573,
             "group": "group_7"
+        },
+        {
+            "videoId": "MALJZpt4Y94",
+            "title": "Live: Trump Participates In Small Business Relief Update | NBC News",
+            "secondDuration": 2943,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

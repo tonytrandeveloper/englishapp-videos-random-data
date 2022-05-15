@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "y7wB3BrttuM",
-            "title": "The Fame Game",
-            "secondDuration": 397,
-            "group": "group_7"
-        },
-        {
             "videoId": "gB_zFavVCAI",
             "title": "White House National Security Adviser on Charlottesville: 'Any attack to incite fear is terrorism'",
             "secondDuration": 672,
@@ -121,8 +115,14 @@
             "title": "First Ever 'Star Wars: The Force Awakens' World Toy Unboxing Begins",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "x9UYvYkLvfU",
+            "title": "The Two Obamas: How the President Changed in Four Years",
+            "secondDuration": 361,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

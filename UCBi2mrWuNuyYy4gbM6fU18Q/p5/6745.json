@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZZcVNHlMJzE",
-            "title": "Dual daring rescue attempts atop Mount Hood in Oregon",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "uA5sHVk5ljA",
             "title": "Drawings reveal glimpse into detention centers through children's eyes",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Interview with David Axelrod",
             "secondDuration": 570,
             "group": "group_7"
+        },
+        {
+            "videoId": "yuiRZJIrqGM",
+            "title": "What’s President Trump’s second-term agenda?",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

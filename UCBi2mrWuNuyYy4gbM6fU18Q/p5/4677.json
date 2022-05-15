@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fimAxjfQCyU",
-            "title": "White House prepares for Senate trial as new evidence emerges l ABC News",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "2pPtZMFkVxA",
             "title": "‘We have barely scratched the surface’ of the medicinal value of plants: Expert",
             "secondDuration": 363,
@@ -31,8 +25,14 @@
             "title": "Mudslides and neck-deep snow slam the West",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "A6MTEcS6e70",
+            "title": "Vaccine watch: Promising developments from one trial",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

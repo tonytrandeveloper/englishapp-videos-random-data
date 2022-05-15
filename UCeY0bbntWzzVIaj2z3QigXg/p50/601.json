@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "77li4Xy8a_Q",
-            "title": "Watch Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3184,
-            "group": "group_7"
-        },
-        {
             "videoId": "YN5WdtkvD8c",
             "title": "Dogs Riding In Motorcycle Sidecars Are Awesome | NBC Nightly News",
             "secondDuration": 147,
@@ -301,8 +295,14 @@
             "title": "Atlanta Rapper Faces Federal Charges In Connection To Gun Trafficking Ring",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "QVYrdDMTNro",
+            "title": "Gen. Barry McCaffrey: Michael Flynn’s Tweets ‘Border On Demented’ | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

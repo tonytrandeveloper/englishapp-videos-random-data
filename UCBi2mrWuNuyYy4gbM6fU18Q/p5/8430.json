@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rOXCXpLTqu4",
-            "title": "LL Cool J Takes on Sarah Palin",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "dA6o7ud6kvs",
             "title": "Pete Buttigieg, Joe Biden ramp up attacks ahead of New Hampshire primary l ABC News",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "Honoring the life and legacy of sports magnate John Madden",
             "secondDuration": 524,
             "group": "group_7"
+        },
+        {
+            "videoId": "kIm3cnSqOWw",
+            "title": "Edina Police Release Video of Controversial Incident",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

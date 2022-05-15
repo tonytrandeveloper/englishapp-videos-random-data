@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "k_kg73Wkin8",
-            "title": "White House task force issues new guidelines to stop virus spread",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "xes5PzOucko",
             "title": "James Cameron’s Deep Sea Challenge in 3D",
             "secondDuration": 107,
@@ -121,8 +115,14 @@
             "title": "Five Year-Old Boy Genius Destined for Mensa",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "hGO2ZnNDAIY",
+            "title": "Bus hijacking ends in police shootout",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

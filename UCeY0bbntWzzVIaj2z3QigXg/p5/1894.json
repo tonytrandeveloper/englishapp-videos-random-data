@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D3YMvkeI0QE",
-            "title": "Legislation Pushes For Over-The-Counter Hearing Aids | NBC Nightly News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "V60V3eCUsxs",
             "title": "President Donald Trump Hosts Florida Roundtable On Tax Reform | NBC News",
             "secondDuration": 2782,
@@ -31,8 +25,14 @@
             "title": "U.S. Intel Report: Researchers At Wuhan Lab Fell Ill In November 2019",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "T8qT-HADaGI",
+            "title": "Amateur Video Captures Sound Of Reno Nevada Gunfire | NBC News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HXAVyb-ZsZE",
-            "title": "Will Mauries Hall testify at Derek Chauvin's trial?",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "HFQJ1FhbD-c",
             "title": "Tapper on Wall Street Bonuses",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "Inside San Francisco's Bike Theft Epidemic | 20/20 | ABC News",
             "secondDuration": 600,
             "group": "group_7"
+        },
+        {
+            "videoId": "SVSrk-nrQNQ",
+            "title": "Manhunt underway for a suspect in the murder of Tessa Majors",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

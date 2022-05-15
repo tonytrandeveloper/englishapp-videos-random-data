@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Og41jgURZBM",
-            "title": "President Trump: Security At Risk Because ‘Courts Seem To Be So Political’ | NBC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "DaQeqigvtjE",
             "title": "Ebola Quarantine Defended By NY Gov. Cuomo | NBC News",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Mike Pence: Donald 'Trump and I Committed to Suspending the Syrian Refugee Program' | NBC News",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "rmi_PqbSvr4",
+            "title": "Watch Live: Fiona Hill, David Holmes Testify At Trump Impeachment Hearing | NBC News",
+            "secondDuration": 26807,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

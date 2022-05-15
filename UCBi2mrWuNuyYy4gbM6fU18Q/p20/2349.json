@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "X7M1q7SetU4",
-            "title": "Colorado Shooting Victims",
-            "secondDuration": 606,
-            "group": "group_7"
-        },
-        {
             "videoId": "hECtgw1yQ1c",
             "title": "'Bachelorette' Ashley Hebert Chooses J.P. Rosenbaum, Couple Discuss Tense Finale on 'GMA'",
             "secondDuration": 208,
@@ -121,8 +115,14 @@
             "title": "Student helps discover 65 million-year-old Triceratops skull",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "0b5TmvaO0Mw",
+            "title": "40 kids taken to hospitals after chemical leak at pool",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

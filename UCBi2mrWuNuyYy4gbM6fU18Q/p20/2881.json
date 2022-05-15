@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dZLhFrgmpD4",
-            "title": "Police search for a possible serial arsonist in Washington state",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "wxFPcUZlcms",
             "title": "Webcast: Holiday Travel; Navy's Traditional Kiss",
             "secondDuration": 116,
@@ -121,8 +115,14 @@
             "title": "Japan Earthquake: U.S. Family Reunited (03.15.11)",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "wV_xhb5P0KM",
+            "title": "Protesters take over Seattle police precinct",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

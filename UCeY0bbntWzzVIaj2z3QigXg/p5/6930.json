@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8_DE4NpOuWc",
-            "title": "President Donald Trump Begins First Week By Meeting With Top Business Leaders | NBC News",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "7yX6BgKMRXQ",
             "title": "Deadly Wildfires Sweep Through West Coast | NBC Nightly News",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "7-Year-Old Guatemalan Girl Dies In Border Patrol Custody | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "erZk3tDTP0w",
+            "title": "NBC News NOW Full Broadcast - June 14th, 2021",
+            "secondDuration": 3029,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

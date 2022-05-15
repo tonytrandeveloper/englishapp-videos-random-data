@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kALI2Dan1dU",
-            "title": "Florida sees record hospitalizations as CDC sheds light on delta variant",
-            "secondDuration": 541,
-            "group": "group_7"
-        },
-        {
             "videoId": "QSJrnTliejA",
             "title": "Juggler breaks 52 Guinness World Records in 52 weeks",
             "secondDuration": 275,
@@ -61,8 +55,14 @@
             "title": "Boulder Crashes Into Utah Home: Woman Inside Survives",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "vKLkeXmc5-4",
+            "title": "Deadly mass shooting at Texas church: ABC Radio",
+            "secondDuration": 12893,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

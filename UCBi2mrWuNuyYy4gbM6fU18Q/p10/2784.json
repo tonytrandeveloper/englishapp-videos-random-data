@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1VM8CpRhkc4",
-            "title": "DA announces results of review into police-involved shooting of Stephon Clark",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "X1Z6GGucvvo",
             "title": "Rahm Emanuel on 2012 Election:  'Clear Choice,' 'Clear Implications'",
             "secondDuration": 227,
@@ -61,8 +55,14 @@
             "title": "Clinton Calls Trump a 'Fraud', Accuses Him of Trump U 'Scam'",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wn6fHh9I1XQ",
+            "title": "Nationwide push to remove confederate symbols | WNT",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

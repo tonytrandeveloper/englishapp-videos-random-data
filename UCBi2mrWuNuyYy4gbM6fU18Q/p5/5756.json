@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "t6ikkvkngME",
-            "title": "Biden addresses the nation after announcing 'Build Back Better' framework",
-            "secondDuration": 1400,
-            "group": "group_7"
-        },
-        {
             "videoId": "hJibOBvmqzc",
             "title": "Evacuations ordered as Carolinas brace for Dorian | ABC News",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Potentially Deadly Form of Caffeine, One Packet Equal to 25 Cups of Coffee",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "YCm4dpbX5cY",
+            "title": "Concern grows over Russia's massacre of Ukrainian civilians",
+            "secondDuration": 599,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

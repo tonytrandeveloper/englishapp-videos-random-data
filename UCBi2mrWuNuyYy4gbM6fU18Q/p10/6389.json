@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7Nk4WPMqpZw",
-            "title": "US and Cuba Begin Attempts to Normalize Relations",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "HMUXbakKynw",
             "title": "American Soldier Killed by ISIS in Iraq",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "Mississippi Hanging of African-American Man Launches FBI Investigation",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "VOD4Pg4DJiw",
+            "title": "'The Sports Gene': Author Tackles Controversial Aspect of Sports, Genes and Ethnicity",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

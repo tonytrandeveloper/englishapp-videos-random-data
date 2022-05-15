@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Gx_bf8sb0IY",
-            "title": "Fidel Castro Dead at 90 | Former Cuban President Remembered",
-            "secondDuration": 1000,
-            "group": "group_7"
-        },
-        {
             "videoId": "MVFACC0ND8s",
             "title": "Trump Hotel Opening Overshadowed by Gingrich Interview",
             "secondDuration": 203,
@@ -61,8 +55,14 @@
             "title": "'High' Fashion: Skydiving Supermodel Dons Wingsuit",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ops5tL7nPmE",
+            "title": "911 Calls Reveal Terrifying Moments in Phoenix After Cars Had Been Shot",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

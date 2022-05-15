@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AuRlNGo9SM0",
-            "title": "NAACP president: Northam's had 'ample opportunity' to 'disclose that he has changed'",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "93QYxPZGBjM",
             "title": "2 planes collide at Toronto airport causing the tail of one plane to catch fire",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Stormy Daniels breaks silence on alleged Trump affair",
             "secondDuration": 306,
             "group": "group_7"
+        },
+        {
+            "videoId": "XO3bFw3-tvM",
+            "title": "American health care workers risk lives in Ukraine",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

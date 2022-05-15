@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nI4FAJOkb9A",
-            "title": "Barack and Michelle Obama’s Love Story is Coming to the Big Screen | ABC News",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "uEyWyDPwPf8",
             "title": "NYPD says nearly 30 people were injured, 10 shot in NYC subway shooting rampage",
             "secondDuration": 238,
@@ -61,8 +55,14 @@
             "title": "Mike Posner on the Ups and Downs of His Road to Success",
             "secondDuration": 311,
             "group": "group_7"
+        },
+        {
+            "videoId": "hPtueLQG6nM",
+            "title": "Powerball Fever Sweeps Nation as Jackpot Soars to $600 Million",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

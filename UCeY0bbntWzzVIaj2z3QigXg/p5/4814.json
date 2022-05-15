@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U6K-Gm0aB-M",
-            "title": "Apple Watch Unveiled, But Will It Succeed? | NBC Nightly News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "M9GF31IfxF4",
             "title": "Trump: 'We Are Very Happy' American Student Was Freed From Iran | NBC News",
             "secondDuration": 54,
@@ -31,8 +25,14 @@
             "title": "Major Websites Hit By Internet Outage",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "2BCirmVN1DA",
+            "title": "Orlando Manhunt: Officer, Deputy Killed During Search For Murder Suspect | NBC Nightly News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

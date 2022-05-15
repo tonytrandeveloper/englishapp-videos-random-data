@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "doEzRm7wsZg",
-            "title": "Haitian Prime Minister Survives Assassination Attempt",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZzAQ-xJwRpo",
             "title": "Lyft And RAINN Team Up To Help Victims Of Sexual Violence During Pandemic | NBC News NOW",
             "secondDuration": 699,
@@ -31,8 +25,14 @@
             "title": "SpaceX Announces Plan To Send Two Private Citizens To The Moon In 2018 | NBC Nightly News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "F4F4BU-wYvs",
+            "title": "Portugal Forest Fires: At Least 61 Dead In Nation’s Worst Fire In Decades | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

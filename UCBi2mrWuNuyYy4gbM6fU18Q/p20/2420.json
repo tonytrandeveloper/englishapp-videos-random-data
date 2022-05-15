@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Dij2eO-8Oqo",
-            "title": "President Trump claims vindication after new indictments in Russia probe",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "h2ou8Gg8rVo",
             "title": "Tom Golisano: 'Candidate With Most Votes Should Win' 2/23/2011",
             "secondDuration": 247,
@@ -121,8 +115,14 @@
             "title": "Jake Tapper on Obama's Speech to Wall Street",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "vZ6bixu3fIY",
+            "title": "Ted Cruz First GOP Candidate Set to Run in 2016 Presidential Race",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

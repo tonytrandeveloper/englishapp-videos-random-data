@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5szdt04bJKQ",
-            "title": "Inside President Trump's First Days in the Oval Office | ABC News",
-            "secondDuration": 550,
-            "group": "group_7"
-        },
-        {
             "videoId": "kMC5enRoxe0",
             "title": "CENTCOM Leader is Confident ISIS ‘Will Be Defeated’",
             "secondDuration": 324,
@@ -31,8 +25,14 @@
             "title": "South Korea Bracing for North Korean Missile Test",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "dBEMkh2Ls-A",
+            "title": "Felons Granted Right to Vote by Virginia Governor",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

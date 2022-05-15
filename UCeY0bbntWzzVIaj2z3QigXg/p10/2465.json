@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tXuFCYFrdDw",
-            "title": "Super! Nintendo Games Coming To iOS In Time For Christmas | NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "GWYTm4Y8Drg",
             "title": "Are The Burger King Hot Dogs Any Good? | NBC News",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Mick Mulvaney On Ukraine: 'Politics Can And Should Influence Foreign Policy' | NBC News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "8uwPPO-kyH0",
+            "title": "Median Home Price Hit New High in June",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

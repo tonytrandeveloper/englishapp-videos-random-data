@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "TOAQ2luxPWo",
-            "title": "M.J.'s Death: Family Fears Foul Play",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZecBKEprK5Y",
             "title": "Joe Paterno to Retire From Penn State",
             "secondDuration": 294,
@@ -301,8 +295,14 @@
             "title": "Vermont health official: State’s residents have ‘prioritized health’",
             "secondDuration": 362,
             "group": "group_7"
+        },
+        {
+            "videoId": "wlROB3uzC6s",
+            "title": "Marine's Best Friend",
+            "secondDuration": 312,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

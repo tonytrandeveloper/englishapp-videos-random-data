@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "b_7LVhGhtgI",
-            "title": "The Wicked l 20/20 l PART 5",
-            "secondDuration": 480,
-            "group": "group_7"
-        },
-        {
             "videoId": "m7bnveYQbB0",
             "title": "Drug Maker Mylan Standing Firm on EpiPen Price Hike",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "Hospital Officials Discuss San Bernardino Shooting",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "De0hmNbwyT8",
+            "title": "Obama Nominates Merrick Garland for Supreme Court [FULL SPEECH]",
+            "secondDuration": 1716,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

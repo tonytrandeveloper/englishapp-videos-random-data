@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hU9DLdpmEtI",
-            "title": "President Donald Trump: Iran's Aggression Increased After Nuclear Deal | NBC News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "tAn61rExC24",
             "title": "North Korea's Latest Missile Launch Strains Diplomatic Options | NBC Nightly News",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Sheriff Says Multiple Fatalities In Florida School Shooting | NBC Nightly News",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "s0gG6fEGTXg",
+            "title": "Alec Baldwin Says He Never Pulled Trigger in ‘Rust’ Movie Set Shooting",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

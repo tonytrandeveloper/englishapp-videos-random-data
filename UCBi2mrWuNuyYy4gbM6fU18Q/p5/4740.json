@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8KYy3Ch8xoY",
-            "title": "Hawaii’s water crisis",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "AOciKqQufps",
             "title": "Bill Cosby Arraigned on Felony Sexual Assault Charges",
             "secondDuration": 202,
@@ -31,8 +25,14 @@
             "title": "Trump's personal lawyer likely to work with federal prosecutors: Sources",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dkcmfh2dIr0",
+            "title": "CDC investigating heart issues among some teens after COVID-19 vaccine l GMA",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

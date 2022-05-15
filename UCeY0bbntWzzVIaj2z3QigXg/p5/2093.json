@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6adSD-Gat_I",
-            "title": "Canceled Flights Cause Travel Chaos For Busy Holiday Weekend",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "d9qRVTBgM2w",
             "title": "Coming Up on Meet the Press - Breaking News in the Edward Snowden Investigation - June 23, 2013",
             "secondDuration": 34,
@@ -31,8 +25,14 @@
             "title": "U.S. Covid-19 Death Toll Nears 400,000 | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "oXCAFD7dcic",
+            "title": "Sinkhole Swallows Man In Bedroom | Archives | NBC News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

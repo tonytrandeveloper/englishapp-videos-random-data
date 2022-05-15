@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_K1n9StmFIs",
-            "title": "Sen. Jeff Flake reacts to Sen. John McCain's brain tumor diagnosis",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "htGIP2_DT2c",
             "title": "Missing flock of sheep found in Spain",
             "secondDuration": 80,
@@ -61,8 +55,14 @@
             "title": "California wildfires, the world protests, studying during Covid: The Week in Photos",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "BKHBFiVLLa0",
+            "title": "I ‘disagree strongly’ with Georgia governor’s decision to reopen: Trump",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

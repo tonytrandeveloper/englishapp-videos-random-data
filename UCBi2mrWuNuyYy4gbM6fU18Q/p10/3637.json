@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pfyP7jyKJBo",
-            "title": "Utah Lt. Gov. Apologizes to LGBT Community",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uk0Bdzk2fmo",
             "title": "Russian forces regroup, gear up for renewed assault on Ukraine",
             "secondDuration": 375,
@@ -61,8 +55,14 @@
             "title": "New research looks at possible link between obesity and severe COVID cases",
             "secondDuration": 258,
             "group": "group_7"
+        },
+        {
+            "videoId": "jEwKUsHlRe4",
+            "title": "Aaron Sorkin's Emotional Connection to his \"Steve Jobs\" Movie",
+            "secondDuration": 1010,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

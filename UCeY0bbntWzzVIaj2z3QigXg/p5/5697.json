@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BjMstRTUdtU",
-            "title": "Peaceful Protests Turn Violent In Ferguson | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zph7YXfjMhg",
             "title": "Watch: Trump Dances To ‘YMCA’ At His Campaign Rallies | NBC News NOW",
             "secondDuration": 72,
@@ -31,8 +25,14 @@
             "title": "Nancy Pelosi Calls On Rep. John Conyers To Resign | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "cVA2wc8ni-M",
+            "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 1845,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

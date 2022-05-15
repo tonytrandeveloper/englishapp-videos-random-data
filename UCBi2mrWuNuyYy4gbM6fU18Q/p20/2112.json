@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tlXfGgAXQpE",
-            "title": "Oscar Pistorius Murder Case: Bail Granted",
-            "secondDuration": 259,
-            "group": "group_7"
-        },
-        {
             "videoId": "r25gzimzFVM",
             "title": "Carter Page told Trump campaign officials about Moscow trip",
             "secondDuration": 133,
@@ -121,8 +115,14 @@
             "title": "Biden and Trump speak on climate change, fracking",
             "secondDuration": 725,
             "group": "group_7"
+        },
+        {
+            "videoId": "V0wwC6I1CEA",
+            "title": "Berlin, Germany Celebrates the Start of 2018",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

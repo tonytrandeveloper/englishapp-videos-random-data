@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LT4dQ_SuTfU",
-            "title": "Kentucky Gov. Beshear Briefs On Deadly Tornado Aftermath | NBC News",
-            "secondDuration": 2166,
-            "group": "group_7"
-        },
-        {
             "videoId": "EMpMTda8lHo",
             "title": "Russia Denies Involvement In Alleged Ukraine Coup Plot",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "A History Of Applause At The State Of The Union | NBC News NOW",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "V-saUxg-cjo",
+            "title": "White House Holds Press Briefing: March 5 | NBC News",
+            "secondDuration": 3142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

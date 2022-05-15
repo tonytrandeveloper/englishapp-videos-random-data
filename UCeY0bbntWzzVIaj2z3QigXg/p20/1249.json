@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5MzjxadVTAA",
-            "title": "NBC News Projects Bernie Sanders Wins Colorado Primary | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "uUsh5ZSXQSQ",
             "title": "13-Year-Old Turns His Passion Into A Business To Help Rescue Animals | Nightly News: Kids Edition",
             "secondDuration": 681,
@@ -121,8 +115,14 @@
             "title": "Video Appears To Show Student With Autism Dragged By Teacher | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "GYc3kIke2LA",
+            "title": "Biden Gives 'Zero Tolerance' Warning to  Rogue Gun Dealers",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iaS5aPoMitM",
-            "title": "'First Man's' Portrait Of Neil Armstrong Gets At The Man Behind The Myth | Mach | NBC News",
-            "secondDuration": 331,
-            "group": "group_7"
-        },
-        {
             "videoId": "-qUJWFuKOG4",
             "title": "Coronavirus: Number of Americans Testing Positive Skyrockets | NBC Nightly News",
             "secondDuration": 673,
@@ -61,8 +55,14 @@
             "title": "New Traditions: Finding A Silver Lining In Quarantine | NBC News",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "SsUKbdrhbak",
+            "title": "Bernie Sanders: Hillary Clinton Supported 'Disastrous' NAFTA | NBC News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

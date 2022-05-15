@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EMaGBolWymY",
-            "title": "5.8 earthquake, more than 13 aftershocks hit Puerto Rico l ABC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "hrb9_WYJ-l0",
             "title": "Rupert Murdoch Interview With Parliament: News Corp CEO and Owner of Fox Hacking Scandal (07.19.11)",
             "secondDuration": 134,
@@ -121,8 +115,14 @@
             "title": "Tropical Storm Florence continues to flood roads and neighborhoods",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "jnADDjf1zlQ",
+            "title": "Freddie Gray's Family Calls for End to Baltimore Chaos",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

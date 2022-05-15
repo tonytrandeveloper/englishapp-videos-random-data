@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "34Ov1H-5xac",
-            "title": "'Squid Game's' global popularity has real-life ripple effects",
-            "secondDuration": 293,
-            "group": "group_7"
-        },
-        {
             "videoId": "zjO2F9a6PHQ",
             "title": "ABC News Live Update: FDA approves new treatment for obesity",
             "secondDuration": 739,
@@ -61,8 +55,14 @@
             "title": "Farmers working hard to supply pumpkins for the season | WNT",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "nz2nB8r4QBs",
+            "title": "Missing Florida Mother Shown on Surveillance Footage",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

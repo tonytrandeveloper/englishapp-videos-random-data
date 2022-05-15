@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XVI17bP62bI",
-            "title": "Discovering You: Adebisi Adele | NBC News Learn",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y4dibFGotMk",
             "title": "Use Of Force Policies A Focus In Chauvin Trial | NBC Nightly News",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "Raging Fires Tell The Story Of Russia's Attack On Ukraine",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "vpnVOEfo1cQ",
+            "title": "Biden Announces Budget For Fiscal Year 2023  | NBC News",
+            "secondDuration": 1832,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

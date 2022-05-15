@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Zo9bl8DMFfc",
-            "title": "DNA Helps Identify Killer In 1988 Murder Of San Diego Mom",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "ShynFYoXukU",
             "title": "North Korea Threatens Revenge Over UN Sanctions | NBC Nightly News",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Marc Cuban: President Donald Trump Must 'Be Able to Take the Blowback' | Meet The Press | NBC News",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "UNE3cRwx5XQ",
+            "title": "J&J Vaccine Rollout Slows By 86 Percent Next Week | NBC Nightly News",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

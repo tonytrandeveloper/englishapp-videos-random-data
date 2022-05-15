@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RtzD3At6cqI",
-            "title": "I'll Have Another Scratched From Belmont",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "7WRYMgEGuqM",
             "title": "Two Popes to be Canonized",
             "secondDuration": 167,
@@ -121,8 +115,14 @@
             "title": "Are Bank Stress Tests a Complete Crock?",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "8o7UMdDpZT0",
+            "title": "What's Next for America?",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

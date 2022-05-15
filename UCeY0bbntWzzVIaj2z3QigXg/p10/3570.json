@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "w3P5-YVFv0g",
-            "title": "A Country In Crisis: A Healthcare System On The Brink Of Collapse | NBC News",
-            "secondDuration": 322,
-            "group": "group_7"
-        },
-        {
             "videoId": "YBXTWNU_wJU",
             "title": "Coronavirus First Responders In New Hot Spots Facing Hospitals On The Brink | NBC Nightly News",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Anthony Sethmann: \"For student success it takes...\"",
             "secondDuration": 13,
             "group": "group_7"
+        },
+        {
+            "videoId": "zhG1iIk9gGI",
+            "title": "Are Airports Around The World Prepared To Deal With Potential Drone Threats? | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

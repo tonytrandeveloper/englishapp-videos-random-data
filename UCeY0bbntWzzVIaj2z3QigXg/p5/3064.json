@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "q6hYpclu7cs",
-            "title": "Watch live: Illinois Governor Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 1559,
-            "group": "group_7"
-        },
-        {
             "videoId": "ashEovs0c4o",
             "title": "White House Holds Press Briefing: July 30 | NBC News",
             "secondDuration": 2796,
@@ -31,8 +25,14 @@
             "title": "New Study Finds Developmental Differences For Children Born During Pandemic",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "qOJiyCLFZfI",
+            "title": "Veterans Are Being Deported By ICE | NBC News Now",
+            "secondDuration": 249,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

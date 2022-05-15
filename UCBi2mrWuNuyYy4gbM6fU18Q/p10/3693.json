@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-JcyZzXGymw",
-            "title": "Man Eats 10 Big Macs a Week, Says He's Healthy",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "McjR7KwimsM",
             "title": "Bells of Notre Dame remain silent on Easter",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "ISIS Fight | US to Send 200 Advisers to Iraq",
             "secondDuration": 23,
             "group": "group_7"
+        },
+        {
+            "videoId": "9PpZLgZUMOA",
+            "title": "Ball Girl at Dodger Stadium Saves Fan From Ball Traveling 108 MPH",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

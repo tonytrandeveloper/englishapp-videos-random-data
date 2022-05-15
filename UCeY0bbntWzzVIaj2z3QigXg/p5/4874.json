@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U6gXnAJ9PPI",
-            "title": "A Short History Of Tall Building Climbers | NBC News",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "yPx-Mr5LM_A",
             "title": "How Kamala Harris Went From Prosecutor To Vice Presidential Candidate | NBC News NOW",
             "secondDuration": 306,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - Dec. 7",
             "secondDuration": 1260,
             "group": "group_7"
+        },
+        {
+            "videoId": "iaS5aPoMitM",
+            "title": "'First Man's' Portrait Of Neil Armstrong Gets At The Man Behind The Myth | Mach | NBC News",
+            "secondDuration": 331,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

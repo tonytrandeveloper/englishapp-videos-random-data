@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vdfBMjnqZqM",
-            "title": "Nightly News Full Broadcast - Dec. 19",
-            "secondDuration": 1254,
-            "group": "group_7"
-        },
-        {
             "videoId": "cBNeDUmsSOA",
             "title": "'Say It Ain't Snow!' Roker Forecasts Wintery Weather In May | NBC News NOW",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Coronavirus: New York City Begins Reopening | NBC Nightly News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "GiRKX2Fiqyo",
+            "title": "YouTube Shooting: Female Suspect Dead At Scene | NBC Nightly News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

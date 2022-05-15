@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AjB2_Xq8NFs",
-            "title": "Earl Spins North",
-            "secondDuration": 314,
-            "group": "group_7"
-        },
-        {
             "videoId": "jlqs7ptwRDE",
             "title": "6-year-old sees color for the 1st time",
             "secondDuration": 262,
@@ -31,8 +25,14 @@
             "title": "Officer Daniel Hodges testifies on Jan. 6 insurrection",
             "secondDuration": 1079,
             "group": "group_7"
+        },
+        {
+            "videoId": "ddhTGqqY1xc",
+            "title": "Donald Trump Jr Interview on Inauguration Day",
+            "secondDuration": 318,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

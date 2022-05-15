@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oplQtv0bcgM",
-            "title": "Explosion outside airport in Kabul: Pentagon reports",
-            "secondDuration": 1150,
-            "group": "group_7"
-        },
-        {
             "videoId": "ilMDAc-yqr4",
             "title": "Gov. Cuomo's office presents a video showing what \"New York tough\" looks like",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "Dustin Hoffman Interview on Directing 'Quartet' After 50 Year Acting Career in Hollywood",
             "secondDuration": 404,
             "group": "group_7"
+        },
+        {
+            "videoId": "Bixqp8o8KD8",
+            "title": "Steve Jobs Takes Stage for iPad 2 Event",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

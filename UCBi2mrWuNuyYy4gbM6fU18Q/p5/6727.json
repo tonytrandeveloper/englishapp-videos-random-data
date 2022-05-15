@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SOwTawzZ-6Y",
-            "title": "Twin scientists",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "yQ3SVVE2T18",
             "title": "New Zealand prime minister announces sweeping gun law changes",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "Kyle Rittenhouse breaks down in tears while testifying",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "N7Jpq-BYlvQ",
+            "title": "George McGovern Dead: Former US Senator, 1972 Presidential Candidate Dies at Age 90",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

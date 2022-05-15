@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ti-6ay3x0wM",
-            "title": "Russia TV Report Shows 'Luhansk People's Republic Troops Advance'",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "l43pyE4t9Fc",
             "title": "President Donald Trump Awards Posthumous Medal Of Honor To WWII Soldier | NBC News",
             "secondDuration": 236,
@@ -31,8 +25,14 @@
             "title": "‘They Don’t Believe In Science’: Harris, Pence Questioned On Climate Change | NBC News",
             "secondDuration": 348,
             "group": "group_7"
+        },
+        {
+            "videoId": "hU9DLdpmEtI",
+            "title": "President Donald Trump: Iran's Aggression Increased After Nuclear Deal | NBC News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "amDJpxYX_ms",
-            "title": "Miller: 'Joe Is Not Gonna Change'",
-            "secondDuration": 715,
-            "group": "group_7"
-        },
-        {
             "videoId": "zjsSCKUXbV0",
             "title": "'This does not look like a battlefield, it looks like a crime scene': EU ambassador",
             "secondDuration": 367,
@@ -31,8 +25,14 @@
             "title": "Colorado Man Fights Off Three Coyotes, Survives",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "pmUc3WPEp3Y",
+            "title": "Elephant Dung Coffee: Smooth, Rich, Expensive",
+            "secondDuration": 260,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

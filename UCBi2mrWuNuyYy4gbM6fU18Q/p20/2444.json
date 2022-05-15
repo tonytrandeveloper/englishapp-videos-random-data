@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8rpVCbFcKlU",
-            "title": "Pluto Close-Up Shows Most Detailed View Yet",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "T04Q2fXQqws",
             "title": "Robin Thicke on New Album, Wooing Paula",
             "secondDuration": 198,
@@ -121,8 +115,14 @@
             "title": "President Obama's Syria Strike Plan: 'This Week' Panel",
             "secondDuration": 408,
             "group": "group_7"
+        },
+        {
+            "videoId": "uNL2tGxLINo",
+            "title": "Syria, Israel Respond to President Obama's Statements",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

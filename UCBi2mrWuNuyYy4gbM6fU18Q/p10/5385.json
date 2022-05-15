@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ylo-rHaqxmM",
-            "title": "ABC News Prime: Rittenhouse Trial closing arguments, Bannon defiant, Biden Signs infrastructure bill",
-            "secondDuration": 5248,
-            "group": "group_7"
-        },
-        {
             "videoId": "DtMVbG7jMps",
             "title": "Two missing California girls found",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Is the Minnesota Dentist Who Killed Beloved Lion in Hiding?",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "iUo_RxBkusg",
+            "title": "Late Rep. John Lewis arrives at US Capitol to lie in state",
+            "secondDuration": 508,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

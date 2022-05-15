@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "q4Z7M4bPfHk",
-            "title": "Red Bull Stratos Space Jump; Daredevil's Felix Baumgartner Supersonic Skydive Breaks Records",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "zXK6tYb7lVk",
             "title": "ABC News Prime: 2020 South Carolina debate preview, Stock Market, Coronavirus",
             "secondDuration": 3609,
@@ -121,8 +115,14 @@
             "title": "Lightning illuminates the night sky in Pamplona",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "7KhgM0JykcQ",
+            "title": "Sports Illustrated Ad Features Plus- Size Models | ABC News",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

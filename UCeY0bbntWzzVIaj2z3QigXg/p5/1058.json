@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "exW2DM6NoXE",
-            "title": "Morning News NOW Full Broadcast - June 24",
-            "secondDuration": 3248,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uus9jDWgHSQ",
             "title": "Inside An Overcrowded South Carolina ICU Where COVID-19 Patients Fear For Their Lives | NBC News NOW",
             "secondDuration": 908,
@@ -31,8 +25,14 @@
             "title": "How Virginia Could Make Blue History | NBC News Now",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "uhoBcqResOQ",
+            "title": "The Federal Death Penalty | 101 | NBC News",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

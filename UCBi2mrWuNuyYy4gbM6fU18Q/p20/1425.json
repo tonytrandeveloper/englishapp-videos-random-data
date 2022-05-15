@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SlALTKoUzBQ",
-            "title": "Washington Nationals' $15 Million Pitcher",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "lrNPi0jwV50",
             "title": "The US economy explained by Rebecca Jarvis | ABC News",
             "secondDuration": 150,
@@ -121,8 +115,14 @@
             "title": "Tracy Morgan Talks Addiction in Billboard Music Awards Interview",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "vvIBuiZUmAc",
+            "title": "Countdown to final Kavanaugh confirmation vote",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aMdr4zRktjM",
-            "title": "Meet the Press - May 6, 2012 - Vice President Biden, roundtable",
-            "secondDuration": 37,
-            "group": "group_7"
-        },
-        {
             "videoId": "XXzAC-eJFx0",
             "title": "Biden's Infrastructure Plan Seeks To Address Past Harms To Black Communities | NBC News NOW",
             "secondDuration": 432,
@@ -31,8 +25,14 @@
             "title": "Watch Tornadoes, Heavy Rains From Dorian Hit The Carolinas | NBC News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "fCOYuur9AHo",
+            "title": "Deserted Paris Streets Show The Full Effect Of Coronavirus Lockdown | NBC News",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

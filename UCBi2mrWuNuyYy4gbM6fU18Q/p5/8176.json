@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZvAIw1FSMwk",
-            "title": "Oregon College Shooting: The Aftermath",
-            "secondDuration": 480,
-            "group": "group_7"
-        },
-        {
             "videoId": "uA7DaJzgkIk",
             "title": "Former water park executive charged with involuntary manslaughter",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton Becomes First Woman Nominated as Presidential Candidate",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "9Y0oNDtkBJo",
+            "title": "Clinton, Trump Will Support Election Outcome",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

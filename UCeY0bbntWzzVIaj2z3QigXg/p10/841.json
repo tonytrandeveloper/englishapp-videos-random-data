@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TGokFOErVaI",
-            "title": "AG Jeff Sessions: Sheriffs Central To Law Enforcement’s ‘Anglo-American Heritage’ | NBC News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "B1KkMZPPqmg",
             "title": "Made In America: Critics Want President Donald Trump To Lead By Example | NBC Nightly News",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "'MegaDrought' Threatens Lake Powell, Glen Canyon Dam",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "doEzRm7wsZg",
+            "title": "Haitian Prime Minister Survives Assassination Attempt",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

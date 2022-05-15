@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GBPm5RIzzWo",
-            "title": "The Debrief: Tracking the storm, Dorian devastates Bahamas, Walmart’s gun control | ABC News",
-            "secondDuration": 1673,
-            "group": "group_7"
-        },
-        {
             "videoId": "SrgxvF_fvDk",
             "title": "Trump Attends Dignified Transfer of SEAL Killed in Yemen Raid | ABC News",
             "secondDuration": 17,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: 10-Year-Old Driver Crashes",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "mApl3uKPUNk",
+            "title": "4 People Killed When Car Slams Into Crowd at Homecoming Parade",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

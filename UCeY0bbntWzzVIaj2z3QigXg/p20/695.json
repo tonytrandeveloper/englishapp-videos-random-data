@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "m2E_AIPl5tY",
-            "title": "Buttigieg, Sanders, Klobuchar React To Partial Iowa Caucus Results | NBC News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rr5OqqNsSuU",
             "title": "Prince Harry Interviews Former President Obama About Cybersecurity | NBC News",
             "secondDuration": 108,
@@ -121,8 +115,14 @@
             "title": "Watch Full Speech: President Biden Delivers Inaugural Address | NBC News",
             "secondDuration": 1314,
             "group": "group_7"
+        },
+        {
+            "videoId": "TN9mwafmmd0",
+            "title": "Hillary Clinton Becomes Nation’s First Ever Female Nominee Of Major Party | NBC News",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E1SnFT5ENp0",
-            "title": "Mexico Supreme Court Decriminalizes Abortion",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "d63WLSgmbe0",
             "title": "Top Story with Tom Llamas - October 13th | NBC News Now",
             "secondDuration": 2800,
@@ -31,8 +25,14 @@
             "title": "Annapolis Authorities: Five Dead, Shooting Suspect In Custody | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "OPq4P_sM9s4",
+            "title": "Live: Update In George Floyd Investigation | NBC News",
+            "secondDuration": 1373,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

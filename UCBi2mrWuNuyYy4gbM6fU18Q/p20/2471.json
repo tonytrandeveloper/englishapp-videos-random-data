@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HdfuSDxApwE",
-            "title": "Latest updates on COVID-19: July 15, 2020",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "r1QoIPnKfqk",
             "title": "Mitt Romney supports election-year Senate vote on Trump’s Supreme Court nominee | WNT",
             "secondDuration": 234,
@@ -121,8 +115,14 @@
             "title": "Andy Samberg Goes \"En Vogue\" at Sundance",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "ccNstXAKqUg",
+            "title": "Women kidnapped, held captive for a decade speak out l ABC News",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

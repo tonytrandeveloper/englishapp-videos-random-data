@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g_gXkfrnXb8",
-            "title": "Greece wildfires force thousands to evacuate",
-            "secondDuration": 293,
-            "group": "group_7"
-        },
-        {
             "videoId": "4qXe_A2Lgyk",
             "title": "Former President George H.W. Bush lies in state in US capital",
             "secondDuration": 452,
@@ -31,8 +25,14 @@
             "title": "Are there valid medical exemptions from wearing masks?",
             "secondDuration": 366,
             "group": "group_7"
+        },
+        {
+            "videoId": "7jIWDuQApRI",
+            "title": "Chelsea Bombing Investigation Focuses on 2 Men",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

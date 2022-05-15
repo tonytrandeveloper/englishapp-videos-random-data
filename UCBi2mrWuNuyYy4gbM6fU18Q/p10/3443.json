@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7r8N0GkEhbY",
-            "title": "Bacon Bliss",
-            "secondDuration": 277,
-            "group": "group_7"
-        },
-        {
             "videoId": "nGZbQqGfYgM",
             "title": "Vaccine Watch: Inside Johnson & Johnson",
             "secondDuration": 275,
@@ -61,8 +55,14 @@
             "title": "Police Search Phillip Garrido Property",
             "secondDuration": 474,
             "group": "group_7"
+        },
+        {
+            "videoId": "kVNqpOaUgsU",
+            "title": "War in Ukraine: March 10, 2022",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CMpeVOmCiRc",
-            "title": "Colorado wildfires force evacuations ahead of the new year | On Location",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "P59KMyZ-3QM",
             "title": "North Korea Missile Launch Fails, But Is a Nuclear Test with Uranium Next?",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "Kobe remembered, tornado hits Alabama, bubble concert; World in Photos, Jan. 26",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dij2eO-8Oqo",
+            "title": "President Trump claims vindication after new indictments in Russia probe",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

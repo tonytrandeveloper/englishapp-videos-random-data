@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "R467C8vFRFE",
-            "title": "'Smart Glasses' Might Replace Your Bifocals | Mach | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q__7wHh6rpg",
             "title": "Inside The Trial Of “El Chapo” | NBC News Signal",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "Hamas Garners Sympathy As Death Toll Rises | NBC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "I8wF4-WUI3A",
+            "title": "De Blasio: NYC's 2020 Fourth Of July Fireworks Show 'Is Going To Be Different' | NBC News NOW",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

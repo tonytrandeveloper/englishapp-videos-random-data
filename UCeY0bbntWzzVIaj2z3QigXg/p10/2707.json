@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NiOKTu_QRXk",
-            "title": "Speaker Pelosi Holds Weekly Press Conference | NBC News",
-            "secondDuration": 1110,
-            "group": "group_7"
-        },
-        {
             "videoId": "70RHq2bXLqI",
             "title": "CDC Investigating Illness Linked To E-Cigs And Vaping Across The Country | NBC Nightly News",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Primary Season Gets Underway Starting In Texas",
             "secondDuration": 455,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yim0QwsSQEU",
+            "title": "Meet The Press Broadcast (Full) - July 12th, 2020 | Meet The Press | NBC News",
+            "secondDuration": 2855,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

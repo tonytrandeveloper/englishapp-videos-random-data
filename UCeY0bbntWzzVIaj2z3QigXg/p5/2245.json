@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3s97c7T54aY",
-            "title": "The Real-Life Dino Science Behind Jurassic World | Mach | NBC News",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "OAHQJ782W5I",
             "title": "Families And Small Businesses Desperate For Pandemic Relief | NBC Nightly News",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Stunning Drone Video Displays Beauty Of Afghanistan’s First National Park | NBC News",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "TGRUMzbMros",
+            "title": "Americans Rationing Insulin As Prices Skyrocket | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

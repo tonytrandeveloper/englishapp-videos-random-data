@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-nnYGjOr01Q",
-            "title": "The Briefing Room: Impeachment showdown, Louisiana abortion case heads to Supreme Court | ABC News",
-            "secondDuration": 1676,
-            "group": "group_7"
-        },
-        {
             "videoId": "FF-iXRCgm4I",
             "title": "Apple pulls the plug on iTunes",
             "secondDuration": 187,
@@ -301,8 +295,14 @@
             "title": "Murderer Stabs 11-Year-Old | Police Turn to Citizens to Help",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "tUtmZQrWZhM",
+            "title": "JFK Runway Becomes Turtle Crossing",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

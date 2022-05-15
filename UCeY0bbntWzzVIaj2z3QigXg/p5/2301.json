@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PCdx5ip1X58",
-            "title": "Nation Bids Farewell To President George H.W. Bush | NBC Nightly News",
-            "secondDuration": 292,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lttwr5zj13U",
             "title": "The Real College Crisis: Student Debt Drags Down Economy | Meet The Press | NBC News",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "6 Million Vaccine Doses Delayed Due To Extreme Weather | NBC Nightly News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "WCEcfxxFU28",
+            "title": "How The First Debate, Trump’s Coronavirus Diagnosis Impacted Polls  | NBC News NOW",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

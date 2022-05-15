@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DWWqAkyMoOM",
-            "title": "New Airline Security Measures At U.S. Airports To Begin Thursday | NBC Nightly News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "uKBP_i25LvA",
             "title": "This Surgical Robot Promises A Quicker Recovery, But There Are Risks | NBC Nightly News",
             "secondDuration": 267,
@@ -31,8 +25,14 @@
             "title": "Student Town Hall Audience Response",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "04-1q3fjDfY",
+            "title": "Morning News NOW Full Broadcast - Dec. 17",
+            "secondDuration": 3070,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

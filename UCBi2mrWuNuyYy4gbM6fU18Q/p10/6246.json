@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2QoQsEToJwY",
-            "title": "Is Clinton Ready for Trump's Attacks?",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "FbpvB8gNdUs",
             "title": "Trump on Rudy Giuliani: 'He'll get his facts straight'",
             "secondDuration": 52,
@@ -61,8 +55,14 @@
             "title": "Hospital Officials Discuss San Bernardino Shooting",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "De0hmNbwyT8",
+            "title": "Obama Nominates Merrick Garland for Supreme Court [FULL SPEECH]",
+            "secondDuration": 1716,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

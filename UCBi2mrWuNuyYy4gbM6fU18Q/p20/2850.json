@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HgkVOhPERcw",
-            "title": "First Lady Debate",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "swYAuQjPnOc",
             "title": "Super Salmon for Sale",
             "secondDuration": 145,
@@ -121,8 +115,14 @@
             "title": "Garage Geniuses: Ben Rasmussen’s Potomac Chocolate Makes Award Winning Chocolate Out Of His Basement",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZPvA9hEmjdM",
+            "title": "Jokes4Miles: Comedian Gathers Jokes for Cancer-Stricken Son",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

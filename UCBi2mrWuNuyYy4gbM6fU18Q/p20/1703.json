@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rxjLbjFZxZY",
-            "title": "ESPYs 2015: Behind the Scenes Highlights of Award Show",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "SvVlqiUnxhY",
             "title": "ISIS Threat: Is It Growing?",
             "secondDuration": 310,
@@ -121,8 +115,14 @@
             "title": "Wildfires rage out of control in Australia, prompting evacuations and rescues | ABC News",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "nkq2QeUaygw",
+            "title": "Trump to announce gun safety proposals",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

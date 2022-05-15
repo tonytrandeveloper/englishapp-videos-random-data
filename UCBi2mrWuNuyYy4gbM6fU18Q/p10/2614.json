@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uHz8Yj08Ycg",
-            "title": "On the Beach With BP",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "4XW-vh9q1AA",
             "title": "Murdered Brooklyn Boy: What Happened to Leiby Kletzky on Walk Home From Camp?",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton, Bernie Sanders Brawl In Brooklyn Debate",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "Truf0ktgYTA",
+            "title": "Equity Stars Share Their Story | Real Biz with Rebecca Jarvis | ABC News",
+            "secondDuration": 725,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

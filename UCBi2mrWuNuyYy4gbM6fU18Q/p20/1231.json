@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uI8kB3XGjbk",
-            "title": "Boston Bomber Breaks His Silence and Apologizes",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "87-0SLza8Ts",
             "title": "Woman Likely Killed in Shark Attack Off Maui",
             "secondDuration": 92,
@@ -121,8 +115,14 @@
             "title": "Mike Tyson Takes to Broadway to Talk About Turbulent Past",
             "secondDuration": 325,
             "group": "group_7"
+        },
+        {
+            "videoId": "053FL_foRZw",
+            "title": "Urgent manhunt for gunmen in shootout at a packed Arkansas nightclub",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

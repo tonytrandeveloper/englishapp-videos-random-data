@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zMaii-BJzGg",
-            "title": "2 Killed, Including Suspect, In Texas Church Shooting | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "kigwrTHnHMs",
             "title": "NBC News Poll: At 100 Days, Biden's Approval Remains Strong | Meet The Press | NBC News",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "North Korea Has Constructed A Miniature Nuclear Warhead, U.S. Officials Believe | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "mrOLJ2QN6t8",
+            "title": "Fired Acting AG Sally Yates Testifies On Flynn Case | NBC Nightly News",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

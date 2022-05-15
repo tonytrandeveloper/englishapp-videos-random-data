@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "KHQlgm5VWjo",
-            "title": "FDA Grants Full Approval To Pfizer Vaccine",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "-EgqyA53k7k",
             "title": "Facebook Experiences Biggest Loss In Stock Market History | NBC Nightly News",
             "secondDuration": 89,
@@ -301,8 +295,14 @@
             "title": "Nearly A Week After Hurricane Irma, Florida Keys Residents Begin Returning Home | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "NxVOnfxCuS8",
+            "title": "After Surviving A Bus Crash, A Hockey Player Is Determined To Get Back On The Ice | NBC Nightly News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

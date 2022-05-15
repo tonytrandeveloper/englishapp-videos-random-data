@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vqhBSjzru5U",
-            "title": "Space X Launch: Falcon 9 rocket takes off",
-            "secondDuration": 3214,
-            "group": "group_7"
-        },
-        {
             "videoId": "AHWPLT_z4iY",
             "title": "Amy Schumer Cracks Joke About Her Rise to Fame",
             "secondDuration": 234,
@@ -61,8 +55,14 @@
             "title": "Presidential Debate 2012 Fact-Check: Separating Fact From Fiction From First Debate",
             "secondDuration": 318,
             "group": "group_7"
+        },
+        {
+            "videoId": "2PJ9HXIkvEU",
+            "title": "Vice Presidential Debate 2012 With Joe Biden, Paul Ryan: Battle Between 'Mind and Gut'",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

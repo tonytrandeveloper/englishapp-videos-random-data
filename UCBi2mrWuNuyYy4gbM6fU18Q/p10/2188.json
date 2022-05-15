@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "spMRX0746QA",
-            "title": "Weekend Adventure: Cave Diving",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "WjcWfo92SXM",
             "title": "'Many people will not be able to afford' a public option: Sen. Bernie Sanders",
             "secondDuration": 506,
@@ -61,8 +55,14 @@
             "title": "Bottom Line on Obama's Olympic Bid",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "NDmx92PVJpk",
+            "title": "Record wildfires rage in Amazon rain forest l ABC News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

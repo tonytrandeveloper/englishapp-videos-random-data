@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vIt1fzeBogE",
-            "title": "Scientists reverse brain damage in a toddler",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "6mnyfQ-oGPQ",
             "title": "Space Shuttle Atlantis Rockets Into History as NASA Ends U.S. Space Shuttle Program (07.08.11)",
             "secondDuration": 341,
@@ -121,8 +115,14 @@
             "title": "How Obama Won: Election 2012 Breakdown",
             "secondDuration": 355,
             "group": "group_7"
+        },
+        {
+            "videoId": "dMn5pxfVUUk",
+            "title": "Escaped South Carolina Inmate Captured by Police",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

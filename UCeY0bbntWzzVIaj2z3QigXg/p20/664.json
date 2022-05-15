@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "d2tHm6aB6io",
-            "title": "Boeing 737 Max Returns To Commercial Passenger Flying | NBC News NOW",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "kbrZb2XxF3I",
             "title": "Iowa Democratic Chair Defends Integrity Of Caucus Data: 'This Is Personal To Me' | NBC News",
             "secondDuration": 387,
@@ -121,8 +115,14 @@
             "title": "Ukrainian Member Of Parliament: ‘The Next Days Will Be Very Hard’",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "m72BtAYvo-4",
+            "title": "Robert Kraft And The NFL’s Existential Crisis | Think | NBC News",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

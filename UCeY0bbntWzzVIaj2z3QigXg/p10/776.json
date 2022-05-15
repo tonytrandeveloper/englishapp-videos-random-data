@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5ceDvwS_PuY",
-            "title": "Meet The Press Broadcast (Full) - Dec. 26",
-            "secondDuration": 2860,
-            "group": "group_7"
-        },
-        {
             "videoId": "iw9LScAs_v8",
             "title": "Why Muslim Men Are Asking for Hugs in Paris | NBC Nightly News",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Mourning Muslim Students Perform Famed Traditional Dance In New Zealand | NBC News",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "sctBLAnNMU4",
+            "title": "American ISIS Fighter Reportedly Detained by Kurdish Forces in Iraq | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

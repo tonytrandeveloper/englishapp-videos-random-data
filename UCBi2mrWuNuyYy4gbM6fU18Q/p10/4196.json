@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fGScAEC9vTw",
-            "title": "American Band Opens Up on Paris Concert Hall Attack",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "YmpA2gqOnNQ",
             "title": "Multiple bomb threats reported at HBCUs l GMA",
             "secondDuration": 83,
@@ -61,8 +55,14 @@
             "title": "ISIS Militants May Have Used Chemical Weapons",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Y78THXhJew",
+            "title": "White House to end DACA in 6 months",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YytEc1MFJiA",
-            "title": "Paralyzed Man Walks With Brain-Controlled Exoskeleton | Mach | NBC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "4wng8JMEcSA",
             "title": "Full Pence: 'Remarkable To Think About The Progress' Made Against COVID-19 | Meet The Press",
             "secondDuration": 1042,
@@ -31,8 +25,14 @@
             "title": "Zelenskyy Claims Russia Hiding Evidence Of Killing Ukraine Civilians",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "6LZeYj0y3zM",
+            "title": "White House Coronavirus Task Force Holds News Conference | NBC News (Live Stream Recording)",
+            "secondDuration": 5399,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

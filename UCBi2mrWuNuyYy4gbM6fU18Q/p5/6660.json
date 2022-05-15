@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LKrGHGV7vng",
-            "title": "Fox News Director Speaks Out Against Roger Ailes",
-            "secondDuration": 237,
-            "group": "group_7"
-        },
-        {
             "videoId": "1feJYiwnBAM",
             "title": "COVID-19 cases surge before the holidays",
             "secondDuration": 257,
@@ -31,8 +25,14 @@
             "title": "Restaurants that are reopening must navigate a new normal",
             "secondDuration": 621,
             "group": "group_7"
+        },
+        {
+            "videoId": "TJBR68zIA6I",
+            "title": "Hospitalized Soldier, Thought to Be Unconscious, Surprises With Salute",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

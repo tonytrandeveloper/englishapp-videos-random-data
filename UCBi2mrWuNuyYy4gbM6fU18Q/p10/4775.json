@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SpzjS4wO__k",
-            "title": "Shanksville, Pa. 9/11 Memorial Service",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "g2E32JEyMaA",
             "title": "Fiery crash on Los Angeles highway",
             "secondDuration": 28,
@@ -61,8 +55,14 @@
             "title": "Coronavirus sparks new travel alerts | WNT",
             "secondDuration": 352,
             "group": "group_7"
+        },
+        {
+            "videoId": "RXhLE-OHn0g",
+            "title": "Trump walks back Russia summit comments",
+            "secondDuration": 309,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

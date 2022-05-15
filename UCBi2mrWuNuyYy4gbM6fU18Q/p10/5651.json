@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s5E8nt34xL0",
-            "title": "Texas Love Triangle | 20/20 PART 1",
-            "secondDuration": 527,
-            "group": "group_7"
-        },
-        {
             "videoId": "HSmitzyhqyQ",
             "title": "Presidential Debate 2012: Mitt Romney VS. President Obama: Biggest Debate Moves",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "2015 Golden Globe Nominees Announced",
             "secondDuration": 364,
             "group": "group_7"
+        },
+        {
+            "videoId": "pPXw7jymWaM",
+            "title": "Former President Obama speaks at Gates Foundation event",
+            "secondDuration": 2922,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

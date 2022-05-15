@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rF4hoKSaJkI",
-            "title": "Federal officials join in investigation of fires at black churches",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "KIsKJq1tVVg",
             "title": "Body camera captures Georgia cop saving infant in distress",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "Jason Segel and Ed Helms Interview on 'Jeff, Who Lives at Home' and Comedic Acting in Films",
             "secondDuration": 402,
             "group": "group_7"
+        },
+        {
+            "videoId": "LEWAcgCsSY0",
+            "title": "Hillary Clinton Emails in New WikiLeaks Dump",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

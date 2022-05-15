@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "khK27TDEoTM",
-            "title": "Robot allows 6-year-old with cancer to attend kindergarten",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "UJfolXYt40g",
             "title": "Sherri Papini's Husband Recalls the Day He Discovered She Was Missing: Part 1",
             "secondDuration": 401,
@@ -61,8 +55,14 @@
             "title": "Kevin Spacey apologizes after sex harassment claim",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "8suxxHvIJTQ",
+            "title": "Missing Jet Search Focuses on Southern Arc",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

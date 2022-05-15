@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EFQHBuccGyE",
-            "title": "Police officer on duty at a Michigan airport is stabbed repeatedly in the neck",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "3DsDFmaCgJE",
             "title": "Police Learn Two Convicted Murderers Escaped From Prison",
             "secondDuration": 592,
@@ -61,8 +55,14 @@
             "title": "Prince Harry Might Introduce Girlfriend to the Royal Family",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "B2EF-h8IUT0",
+            "title": "Fort Lauderdale Airport Shooting: Esteban Santiago Identified as Suspect",
+            "secondDuration": 351,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

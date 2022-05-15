@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sKLUwMaoLZM",
-            "title": "Nicky Jam On How He Started In Music, Beating Drugs | NBC News",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "SOC9YgTIDnk",
             "title": "Video Captures New York City Police Officer Brandishing Stun Gun, Slapping Man | NBC News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Live: Joe Biden Delivers Remarks On His Economic Recovery Plan | NBC News",
             "secondDuration": 1277,
             "group": "group_7"
+        },
+        {
+            "videoId": "M9y_ObB6B60",
+            "title": "Senator Elizabeth Warren Calls Out Mitch McConnell For Declaring Mueller Report Closed | NBC News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

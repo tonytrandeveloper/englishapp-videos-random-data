@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5G0ZpbO1gm4",
-            "title": "Terrorist Plot",
-            "secondDuration": 489,
-            "group": "group_7"
-        },
-        {
             "videoId": "Fz6v10FC_aU",
             "title": "Luggage in limbo",
             "secondDuration": 90,
@@ -121,8 +115,14 @@
             "title": "Pope Benedict XIV Retires: Who's Next?",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "YpIJrZ_zk8s",
+            "title": "Watch LIVE: Impeachment Trial of President Donald Trump day 7 - ABC News Live Coverage",
+            "secondDuration": 7666,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

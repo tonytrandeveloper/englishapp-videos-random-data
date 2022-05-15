@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pxaJEFHO1R0",
-            "title": "Afghan pilots hope US government will help them leave Tajikistan",
-            "secondDuration": 385,
-            "group": "group_7"
-        },
-        {
             "videoId": "C6C4-4QUKnU",
             "title": "Wisconsin deputy shot multiple times after traffic stop",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "'Food, Inc.' Challenges the Industry",
             "secondDuration": 518,
             "group": "group_7"
+        },
+        {
+            "videoId": "eVZ1o077RIc",
+            "title": "UCF Student's Massacre Plot Foiled: Roommate's 911 Call",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

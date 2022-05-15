@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-MPk5DFRl2c",
-            "title": "Michael Strahan Takes Off His Pants",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "AZhJbU5boig",
             "title": "Donald Trump Blames Mexico For Pope Criticism",
             "secondDuration": 239,
@@ -31,8 +25,14 @@
             "title": "Queen Elizabeth's Diamond Jubilee: Prince Philip Hospitalized",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "dNIcBNkPPL0",
+            "title": "Shooter in 'stand your ground' case arrested on manslaughter charge",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

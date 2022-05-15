@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NI8iaofDKv4",
-            "title": "Two Women on a Mission to Help Foster Children",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "lR_uWBHk_BI",
             "title": "Jake Tapper on Obama's Trip to Russia",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Pro-Anorexia Sites' Deadly Messages",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "amYInZfgFHA",
+            "title": "First-hand look at the devastation in Bahamas from Hurricane Dorian | ABC News",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

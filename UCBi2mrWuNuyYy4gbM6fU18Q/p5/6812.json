@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QZ2OKgjBjOQ",
-            "title": "Nelson Mandela, Anti-Apartheid Hero, Dead at 95",
-            "secondDuration": 613,
-            "group": "group_7"
-        },
-        {
             "videoId": "7HfAg4_2LtE",
             "title": "Who is most at risk for coronavirus?",
             "secondDuration": 73,
@@ -31,8 +25,14 @@
             "title": "Wildfires rage out of control in Australia, prompting evacuations and rescues | ABC News",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "nkq2QeUaygw",
+            "title": "Trump to announce gun safety proposals",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

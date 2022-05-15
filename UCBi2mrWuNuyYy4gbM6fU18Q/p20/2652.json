@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ubEQCe5YOCQ",
-            "title": "Matt Gaetz rejects calls to resign",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "2irlfi0GB3c",
             "title": "Amazon deforestation, Hong Kong protests, zoo weigh-in: World in Photos, Aug. 22",
             "secondDuration": 116,
@@ -121,8 +115,14 @@
             "title": "Angelina Jolie on her new film 'The One and Only Ivan'",
             "secondDuration": 225,
             "group": "group_7"
+        },
+        {
+            "videoId": "deJHDQOR7Kk",
+            "title": "White House On the Defensive",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

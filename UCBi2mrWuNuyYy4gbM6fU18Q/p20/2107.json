@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nsGkwFBByuQ",
-            "title": "Moammar Gadhafi Dead: Revisiting Libyan Leader's Final Moments in Sirte",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "kolGYU_dxOQ",
             "title": "More than 54% of US adults have been vaccinated for COVID-19",
             "secondDuration": 457,
@@ -121,8 +115,14 @@
             "title": "Two White House Replicas Go on Sale | ABC News",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "WkLuPUN3YFY",
+            "title": "Family of American killed in Spain terror attack speaks out",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6haFkSgKLpY",
-            "title": "Millions Travel for Holiday, Face Delays in Stormy Weather",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "-mC-lHLL2SE",
             "title": "Jobs Report: Truth Behind the Numbers",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Chaos from the Iowa caucuses l ABC News",
             "secondDuration": 263,
             "group": "group_7"
+        },
+        {
+            "videoId": "40p6dPJCJ38",
+            "title": "London Bridge attack | BREAKING NEWS on \" Terrorist incidents\"",
+            "secondDuration": 360,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

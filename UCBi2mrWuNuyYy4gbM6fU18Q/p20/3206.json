@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "V9xMIDZeevk",
-            "title": "Paul Ryan Says He Will Run For Speaker of the House But With Some Conditions",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "OvKgQOawEEY",
             "title": "'The Briefing Room': Trump and Rosenstein, Kavanaugh confirmed, UN climate report | ABC News",
             "secondDuration": 1148,
@@ -121,8 +115,14 @@
             "title": "Hillary Clinton Tax Returns Released",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "maG9saNud1A",
+            "title": "San Francisco mayor on keeping protests on message",
+            "secondDuration": 544,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

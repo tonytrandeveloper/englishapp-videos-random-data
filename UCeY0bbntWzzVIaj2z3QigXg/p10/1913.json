@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KJ6Onzi3Mso",
-            "title": "Steve Kornacki Breaks Down Key Midterm Governor’s Races | NBC News",
-            "secondDuration": 1137,
-            "group": "group_7"
-        },
-        {
             "videoId": "LoZyLtNWG3Y",
             "title": "Watch Full Coronavirus Coverage - March 30 | NBC News Now",
             "secondDuration": 42901,
@@ -61,8 +55,14 @@
             "title": "Teens Are Spending Hours On This Video Chat App | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "jyTZAyD-drw",
+            "title": "Full Hutchinson Interview: 'Mandate Debate Takes Away From Efficacy Of Vaccines'",
+            "secondDuration": 487,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

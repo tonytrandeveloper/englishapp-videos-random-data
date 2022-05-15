@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6BzJ7zXHGt4",
-            "title": "Clues to Getting the Best Shopping Deals",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "OOXf0nfsd8s",
             "title": "Breaking: President Trump impeached by House",
             "secondDuration": 315,
@@ -31,8 +25,14 @@
             "title": "New evacuation orders in California as wildfires continue | ABC News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Jumux7SH7s",
+            "title": "Who won the final presidential debate?",
+            "secondDuration": 373,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

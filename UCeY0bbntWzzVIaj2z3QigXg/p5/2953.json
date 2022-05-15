@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Psrdbew9Vsg",
-            "title": "Biden: Primaries Will Determine 'What Direction We Take As A Party' | NBC News",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "d6JJxZb0DWk",
             "title": "Georgia Clinic Suspended From Vaccinating After Giving Doses To Teachers | NBC Nightly News",
             "secondDuration": 222,
@@ -31,8 +25,14 @@
             "title": "Two People Rescued By Boat While Stranded On Car In Street Flooded By Hurricane Harvey | NBC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "vsABMFGGVeo",
+            "title": "Live: Trump Gives Campaign Speech From New Hampshire | NBC News",
+            "secondDuration": 4606,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

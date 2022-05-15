@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1gqDZQzgGTY",
-            "title": "Life-threatening wildfires storm Colorado",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "AtdHXfvtw8s",
             "title": "Mitt Romney Questions Readiness for London Olympics",
             "secondDuration": 192,
@@ -61,8 +55,14 @@
             "title": "'We are living in a country that has a two-tiered justice system': Rep. Ilhan Omar | ABC News",
             "secondDuration": 490,
             "group": "group_7"
+        },
+        {
+            "videoId": "In95jLDbzjk",
+            "title": "President Trump, world leaders honor D-Day veterans",
+            "secondDuration": 343,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

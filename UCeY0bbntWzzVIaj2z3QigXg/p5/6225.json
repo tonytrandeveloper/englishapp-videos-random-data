@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZVxjGs4GKL4",
-            "title": "Biden Marks Pandemic Losses In Thanksgiving Video Message",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "fiXdDaeg7IQ",
             "title": "Trump Speaks At Campaign Rally In Pennsylvania | NBC News (Live Stream Recording)",
             "secondDuration": 4805,
@@ -31,8 +25,14 @@
             "title": "U.S. Economy Adds 916,000 Jobs In March, Unemployment Drops To 6 Percent | NBC News NOW",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zg2cZFnBiLg",
+            "title": "Supreme Court Takes Up Case Over Ending Protections For Dreamers | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

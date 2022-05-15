@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Sl1cqJ2VBK8",
-            "title": "Raw: Kurdish Peshmerga Drive ISIS From Sinjar | NBC News",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "v2vOBHdzPLE",
             "title": "Terror Group Al-Shabaab Calls for Attacks at Malls | NBC Nightly News",
             "secondDuration": 193,
@@ -61,8 +55,14 @@
             "title": "Kentucky Derby Winner Medina Spirit Cleared For The Preakness Stakes",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "vBBsKIrPqHQ",
+            "title": "45 Million People Under Winter Weather Advisories | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

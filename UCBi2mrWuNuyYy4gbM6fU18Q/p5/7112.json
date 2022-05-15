@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i9aDruFCqkE",
-            "title": "Gadgets for the Car Enthusiast | ABC News",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "9vnMiCdJ-Yw",
             "title": "White House press briefing on Trump's Iran tweet, Mueller investigation | ABC News",
             "secondDuration": 1832,
@@ -31,8 +25,14 @@
             "title": "Biden takes questions following his announcement of more severe sanctions",
             "secondDuration": 1052,
             "group": "group_7"
+        },
+        {
+            "videoId": "gKzPX6Eu2Z4",
+            "title": "Violent brawl between teacher and student in California classroom",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

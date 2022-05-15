@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S5v2YoVqK2Q",
-            "title": "'GMA's Epic Camp Out: Greatest American Road Trip",
-            "secondDuration": 239,
-            "group": "group_7"
-        },
-        {
             "videoId": "tGhhxwX6ilM",
             "title": "Hillary Clinton Road Trips to Iowa",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Christmas Story: Boy Married Mall Santa's Daughter Years After Photo",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "DJkDKB8sffY",
+            "title": "ABC News Prime: Explosion of US COVID cases; Fire state of emergency in CO; Biden-Putin phone call",
+            "secondDuration": 3630,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

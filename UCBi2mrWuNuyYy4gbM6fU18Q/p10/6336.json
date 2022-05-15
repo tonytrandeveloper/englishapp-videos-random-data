@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2CquFhN5G38",
-            "title": "37 states, 90 million people brace for hazardous weather l ABC News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "idN46W-epM0",
             "title": "CDC issues Thanksgiving travel warning as COVID-19 cases soar",
             "secondDuration": 488,
@@ -61,8 +55,14 @@
             "title": "CNN Debate | Republic Debate Highlights 2015",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "i43xGpW7c4I",
+            "title": "Idaho Man's Close Encounter With Bears",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

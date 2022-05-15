@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_npEomdjMNY",
-            "title": "Coronavirus death toll tops 110,000 in US",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "qUCjtwmba20",
             "title": "Retired cop acquitted for movie theater shooting speaks out | Nightline",
             "secondDuration": 484,
@@ -31,8 +25,14 @@
             "title": "Mike Tyson Takes to Broadway to Talk About Turbulent Past",
             "secondDuration": 325,
             "group": "group_7"
+        },
+        {
+            "videoId": "053FL_foRZw",
+            "title": "Urgent manhunt for gunmen in shootout at a packed Arkansas nightclub",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

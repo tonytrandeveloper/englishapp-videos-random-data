@@ -3,18 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t6P_BxhGINk",
-            "title": "ENGLISH SPEECH | PHARRELL WILLIAMS: Don’t Be Invisible (English Subtitles)",
-            "secondDuration": 653,
-            "group": "group_1"
-        },
-        {
-            "videoId": "iStBvF0ALUc",
-            "title": "ENGLISH SPEECH | RONALD REAGAN: Tear Down This Wall! (English Subtitles)",
-            "secondDuration": 1548,
-            "group": "group_1"
-        },
-        {
             "videoId": "DQjESgK96Pw",
             "title": "ENGLISH SPEECH | KIM AND KRIS: The Kardashian Empire (English Subtitles)",
             "secondDuration": 1510,
@@ -61,8 +49,20 @@
             "title": "ENGLISH SPEECH | ZENDAYA: We're the Future (English Subtitles)",
             "secondDuration": 522,
             "group": "group_1"
+        },
+        {
+            "videoId": "yrwhd4coEAU",
+            "title": "ENGLISH SPEECH | ED SHEERAN: Embrace Your Weirdness (English Subtitles)",
+            "secondDuration": 324,
+            "group": "group_1"
+        },
+        {
+            "videoId": "r5-5nFa6oW0",
+            "title": "ENGLISH SPEECH | CHIMAMANDA NGOZI ADICHIE: Be Courageous (English Subtitles)",
+            "secondDuration": 1564,
+            "group": "group_1"
         }
     ],
-    "nbPages": 18,
-    "nbResults": 172
+    "nbPages": 17,
+    "nbResults": 168
 }

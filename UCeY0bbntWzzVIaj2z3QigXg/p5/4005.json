@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L18EbtUrSrU",
-            "title": "Wildfire Threatens Homes In Southern California",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "jkXIjyr5gTU",
             "title": "Wildfires Will Change How People Live Around The Planet | NBC News",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - October 3rd",
             "secondDuration": 1039,
             "group": "group_7"
+        },
+        {
+            "videoId": "qDHhEdXCDQU",
+            "title": "Daughters Of Martin Luther King Jr. And Malcolm X Reflect On Fight For Equality | NBC News NOW",
+            "secondDuration": 811,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oEHE6hhh9qM",
-            "title": "Special Report: Bill Cosby Sentenced After Sexual Assault Trial | NBC News",
-            "secondDuration": 260,
-            "group": "group_7"
-        },
-        {
             "videoId": "zYguvSQM-_4",
             "title": "Steve Scalise Shot In Hip, Undergoing Surgery And In Stable Condition | NBC News",
             "secondDuration": 75,
@@ -31,8 +25,14 @@
             "title": "Heidi Broussard, Murdered Texas Mom, Remembered By Friends And Family At Funeral | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "ROPjI28Nxv8",
+            "title": "President Donald Trump: NATO Is ‘No Longer Obsolete’ | NBC News",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

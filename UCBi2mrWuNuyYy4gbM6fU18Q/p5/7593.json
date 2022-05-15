@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "khJlv5ieaBI",
-            "title": "Joe Biden announces 2020 run",
-            "secondDuration": 295,
-            "group": "group_7"
-        },
-        {
             "videoId": "tAM6e1LcD30",
             "title": "Attorney General Jeff Sessions says he will stay in his job",
             "secondDuration": 211,
@@ -31,8 +25,14 @@
             "title": "Muslim Brotherhood Candidate Mohammed Morsi Wins Egypt's Election To Replace Hosni Mubarak",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "vC3GhS6s-FM",
+            "title": "Political Issues and Politicians to Watch in 2013: 'This Week' Roundtable",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

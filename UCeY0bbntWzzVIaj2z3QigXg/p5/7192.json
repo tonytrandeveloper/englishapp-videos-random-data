@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WR0pY__8rOs",
-            "title": "FDA Advisory Panel OKs Pfizer Covid Vaccine For Kids 5 To 11",
-            "secondDuration": 399,
-            "group": "group_7"
-        },
-        {
             "videoId": "tVeFTx9UGmg",
             "title": "Florida Police Released A New Video That Offers More Details Into Tampa Killings | NBC News",
             "secondDuration": 64,
@@ -31,8 +25,14 @@
             "title": "High-Stakes Showdown Between Russia, U.S. Amid Ukraine Invasion Concerns",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "0zi7evq0gHA",
+            "title": "Super-Detailed Black Hole Simulations Solved A Longstanding Mystery | Mach | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

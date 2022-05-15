@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ze87DomSSnw",
-            "title": "Morning News NOW Full Broadcast - April 5 | NBC News NOW",
-            "secondDuration": 2870,
-            "group": "group_7"
-        },
-        {
             "videoId": "YYKHXZoyOlU",
             "title": "UCLA Players Discuss Their Arrest In China And Apologize For Their Actions | NBC News",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Why Business Leaders Must Do More For Their Communities | Better | NBC News",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "6kuByTAFrMU",
+            "title": "Portland Teenagers Fight Homelessness One Meal At A Time | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

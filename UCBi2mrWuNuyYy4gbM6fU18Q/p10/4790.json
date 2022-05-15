@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zNRH9oc4-AY",
-            "title": "President Obama Takes Gun Proposal to Minneapolis",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "AoR6kvMzBJg",
             "title": "Why Angelina Jolie Changed Her Mind About Motherhood",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "M.J. Friend Recounts Fire Mishap",
             "secondDuration": 357,
             "group": "group_7"
+        },
+        {
+            "videoId": "9F-lgNmA8tY",
+            "title": "Pompeo, Mnuchin announce additional sanctions against Iran | ABC News",
+            "secondDuration": 348,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

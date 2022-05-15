@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OVV3oAjSQAI",
-            "title": "Two Suspects In Custody For Killing 7-Year-Old In Texas | NBC Nightly News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "IFOR4iTx3Yk",
             "title": "Biden Maintains Narrow Lead Over Trump In Arizona | NBC News NOW",
             "secondDuration": 262,
@@ -61,8 +55,14 @@
             "title": "Dr. Fauci: U.S. Could Face Bad Situation If Daily Coronavirus Case Count Not Lowered | NBC News NOW",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "4oRLUWvZdmY",
+            "title": "House Democrats Subpoena Unredacted Mueller Report As Talk Of Impeachment Grows | NBC Nightly News",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

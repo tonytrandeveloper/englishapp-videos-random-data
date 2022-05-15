@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cYlUK4Qhmf0",
-            "title": "Paris Attacks: Eyewitness Account of Terror",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "gFOx_CJkIHc",
             "title": "A happy masterpiece",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Amanda Knox's Legal Trouble Not Yet Over",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "9owS2dwyr9c",
+            "title": "Authorities work to recover American missionary's body from remote island",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

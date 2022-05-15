@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lUS_9cV-DHU",
-            "title": "Hillary Clinton Shares Doubts, Acknowledges Mistakes In New Book | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "KzZnYsFdG2s",
             "title": "Veterans Use Social Media To Rescue Afghan Interpreters",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Putin And Erdogan Announce Idlib Ceasefire | NBC News",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "ybKUbJUrB8U",
+            "title": "Where The U.S. Stands In The Fight Against ISIS | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

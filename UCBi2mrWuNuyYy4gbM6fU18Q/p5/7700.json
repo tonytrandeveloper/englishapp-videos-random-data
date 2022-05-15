@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Lw1svqRG5bU",
-            "title": "Miami mayor who tested positive for coronavirus speaks on quarantine experience",
-            "secondDuration": 327,
-            "group": "group_7"
-        },
-        {
             "videoId": "13kA5R7XjF4",
             "title": "Michael Bloomberg | Running for President in 2016?",
             "secondDuration": 206,
@@ -31,8 +25,14 @@
             "title": "First American to receive COVID-19 vaccine celebrates 1-year milestone",
             "secondDuration": 403,
             "group": "group_7"
+        },
+        {
+            "videoId": "tUuNkGrKpsk",
+            "title": "By the Numbers: Women burned out in workplace",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

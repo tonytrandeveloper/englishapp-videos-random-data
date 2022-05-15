@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IZcrQnnjkrQ",
-            "title": "New SARS-Like Virus With No Cure Kills at Least 27",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "O729ZiRwK50",
             "title": "Biden delivers remarks on Ukraine crisis from Warsaw | ABC News",
             "secondDuration": 1621,
@@ -61,8 +55,14 @@
             "title": "'We are not safe in Donald Trump's America': Klobuchar | ABC News",
             "secondDuration": 446,
             "group": "group_7"
+        },
+        {
+            "videoId": "miCBa1Z58nk",
+            "title": "High School Football Team Welcomes Transgender Player",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

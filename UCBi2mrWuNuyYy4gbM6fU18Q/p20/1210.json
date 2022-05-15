@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XAdAgkj1ctE",
-            "title": "Seaside Heights Fire Strikes NJ Boardwalk After Hurricane Sandy Recovery",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "B8q_s5AtUn8",
             "title": "US surpasses daily COVID-19 record | WNT",
             "secondDuration": 262,
@@ -121,8 +115,14 @@
             "title": "Paying Respects to the Victims in Dallas",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "tHTWJ8qDcfk",
+            "title": "Plane Collides With Bird, Lands Safely",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

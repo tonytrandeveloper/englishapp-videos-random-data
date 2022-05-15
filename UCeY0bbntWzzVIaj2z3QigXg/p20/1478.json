@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VpTsWyTgP_s",
-            "title": "What It Takes To Rebuild After Devastating Wildfires | NBC News NOW",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "CfBCs19SdF0",
             "title": "Australia Arrests 4 in Raids to Disrupt Plot to Bring Down Plane",
             "secondDuration": 80,
@@ -121,8 +115,14 @@
             "title": "Justice Dept. Gives Local Police More Control Over Bodycam Footage",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "jt92DN4D9y4",
+            "title": "Full Perez: Democratic Candidates Will Get 'A Fair Shake' In Debates | Meet The Press | NBC News",
+            "secondDuration": 509,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

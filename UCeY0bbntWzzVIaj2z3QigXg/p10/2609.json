@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "seMbErjaaro",
-            "title": "How New York City Learned How To Fight Diseases Like COVID-19 | NBC News",
-            "secondDuration": 347,
-            "group": "group_7"
-        },
-        {
             "videoId": "lXhNE8I2PYI",
             "title": "LIVE: Justice Breyer Announces Retirement from Supreme Court at White House | NBC News",
             "secondDuration": 9541,
@@ -61,8 +55,14 @@
             "title": "O'Malley: Government Needs Warrants On All Searches | Democratic Debate | NBC News-YouTube",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "a6aOKWLUW24",
+            "title": "Why The Flu Can Kill A Healthy Person So Quickly | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

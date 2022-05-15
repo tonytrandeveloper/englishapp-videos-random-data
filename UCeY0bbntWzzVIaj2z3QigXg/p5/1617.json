@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5IrGQs9VAPg",
-            "title": "Supreme Court Nomination: Senate Confirmation Process May Occur Mid October | NBC News",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "MSPWtK9bI1o",
             "title": "Dr. Fauci Is 'Cautiously Optimistic' For The Development Of A Coronavirus Vaccine | NBC News NOW",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "Taos Academy: \"For student success it takes...\"",
             "secondDuration": 20,
             "group": "group_7"
+        },
+        {
+            "videoId": "FBwPuA5aZdw",
+            "title": "Biden Outlines Three-Part Initiative To Fight Covid In First 100 Days | NBC News NOW",
+            "secondDuration": 495,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

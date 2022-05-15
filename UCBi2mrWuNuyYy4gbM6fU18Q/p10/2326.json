@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YES0b-xgWRI",
-            "title": "Lady Gaga pulls song with R. Kelly from streaming platforms",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "8pSX4KwbuKM",
             "title": "Nepal Earthquake Survivor Pulled From Rubble After 5 Days",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "MLB Playoffs | Chicago Cubs One Win from World Series",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "XnsD00Mo39E",
+            "title": "Equifax ex-CEO testifies about data breach on Capitol Hill",
+            "secondDuration": 10807,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

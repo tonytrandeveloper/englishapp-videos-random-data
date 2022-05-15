@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Uey01lX7_1w",
-            "title": "15-year-old student opened fire at Michigan high school, killing 3 students | ABC News",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "gIbx3rI-sPM",
             "title": "J.Lo and Shakira’s jaw dropping Super Bowl halftime performance | ABC News",
             "secondDuration": 313,
@@ -31,8 +25,14 @@
             "title": "Coronavirus sparks new travel alerts | WNT",
             "secondDuration": 352,
             "group": "group_7"
+        },
+        {
+            "videoId": "RXhLE-OHn0g",
+            "title": "Trump walks back Russia summit comments",
+            "secondDuration": 309,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

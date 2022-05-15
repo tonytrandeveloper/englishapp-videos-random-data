@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_DRDvGyxI_I",
-            "title": "Willie Nelson And John Mellencamp Talk Farm Aid And Why It Continues | NBC Nightly News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZqX3JRgmSfc",
             "title": "Justice Dept Files Undisclosed Criminal Charges Against Wikileaks Founder Assange | NBC Nightly News",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "New York Reopens, Lifts Mask Mandate For Fully Vaccinated",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "CHv5DnaCpbg",
+            "title": "Why Health Officials Are Saying There's 'No Need' To Panic Over International Covid Surges",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

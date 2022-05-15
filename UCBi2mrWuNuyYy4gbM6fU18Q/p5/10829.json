@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lFyeF9d1Stc",
-            "title": "Weekend Window: North Cascades National Park",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "gGPyggHQKmQ",
             "title": "New details about Las Vegas gunman's final hours",
             "secondDuration": 259,
@@ -31,8 +25,14 @@
             "title": "'Credible' Terrorist Threat Discovered",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "IhPXPQqqCWo",
+            "title": "California High School Student Seen as Big Football Prospect",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

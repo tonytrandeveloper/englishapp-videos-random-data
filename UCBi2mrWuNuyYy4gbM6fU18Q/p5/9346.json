@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cJ8QUNd5m2I",
-            "title": "Philip Seymour Hoffman's Private Struggles",
-            "secondDuration": 440,
-            "group": "group_7"
-        },
-        {
             "videoId": "yYU3CiVh68E",
             "title": "Former FEMA administrator: Must learn from Hurricane Irma when building back Florida cities",
             "secondDuration": 187,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Shark Sighting in Massachusetts",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "rskXAAF6_Jw",
+            "title": "Jake Tapper on the Journalists' Return",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

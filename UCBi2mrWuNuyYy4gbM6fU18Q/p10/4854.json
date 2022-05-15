@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-MPk5DFRl2c",
-            "title": "Michael Strahan Takes Off His Pants",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "AZhJbU5boig",
             "title": "Donald Trump Blames Mexico For Pope Criticism",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "Trump continues to attempt to overturn election",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "5F5mBsxKCgc",
+            "title": "Signs of child abuse and how to spot it",
+            "secondDuration": 381,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

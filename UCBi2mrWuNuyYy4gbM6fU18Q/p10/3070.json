@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mdGydxUGFd8",
-            "title": "Sandra Bullock Confronted by Crazed Stalker Inside Her Home",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "GGfGij47dlY",
             "title": "#BlackLove Follows Black Women Hoping to Find the One",
             "secondDuration": 410,
@@ -61,8 +55,14 @@
             "title": "Dinosaur Bar-B-Que with John Stage",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "8CgoupWbr08",
+            "title": "Trump denies Cohen claim he knew about son's Russia meeting",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

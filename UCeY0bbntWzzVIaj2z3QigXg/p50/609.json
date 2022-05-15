@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "TcQG911CyDo",
-            "title": "NYC Healthcare Workers On The 'Overwhelming Sense Of Burnout'",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "upPnfb0DumI",
             "title": "Full Fauci Interview: 'We Have To Be Careful' On Vaccines Like Johnson & Johnson | Meet The Press",
             "secondDuration": 625,
@@ -301,8 +295,14 @@
             "title": "Serious Setbacks Across U.S. With Covid Infections & Hospitalizations",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "OvfwVN9STGg",
+            "title": "Retired NYPD Cop Charged In Jan. 6 Riot After Allegedly Attacking Officer | NBC News NOW",
+            "secondDuration": 389,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

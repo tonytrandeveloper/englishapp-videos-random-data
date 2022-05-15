@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "c143v6Utk-0",
-            "title": "'Bob was awesomely complex': Best friend of Bob Saget honors comedian",
-            "secondDuration": 390,
-            "group": "group_7"
-        },
-        {
             "videoId": "9UCeLQNVF0c",
             "title": "'Dancing With The Stars' Hottest Couples Spill Secrets",
             "secondDuration": 182,
@@ -31,8 +25,14 @@
             "title": "Worried mom uses tracking app to save daughter in need of help",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "pjnZ4xZ25bE",
+            "title": "Remembering Pat Quinn",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

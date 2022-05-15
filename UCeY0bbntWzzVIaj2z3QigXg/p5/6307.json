@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GG5c1JQLo3s",
-            "title": "Morning News NOW Full Broadcast - August 27",
-            "secondDuration": 2985,
-            "group": "group_7"
-        },
-        {
             "videoId": "ClArV2rGoXY",
             "title": "Adult Food Allergies: Severe Reactions Up More Than 300 Percent In Last Decade | NBC Nightly News",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Natacha Pannell Reflects on the Death of Phillip Pannell 26 Years Later | NBC News",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "wpdUhC_ap7Y",
+            "title": "New Facial Recognition Cameras Catch First Impostor At Washington Dulles Airport | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

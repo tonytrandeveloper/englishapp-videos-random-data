@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zwr4FyVAD9Q",
-            "title": "President Trump hosts round table on sanctuary cities | ABC News",
-            "secondDuration": 2240,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ys6nn9XfxyQ",
             "title": "Biden endorses cease-fire in Middle East amid mounting pressure",
             "secondDuration": 295,
@@ -31,8 +25,14 @@
             "title": "Trump Traveling to Kenosha amid national unrest",
             "secondDuration": 362,
             "group": "group_7"
+        },
+        {
+            "videoId": "cJlRd0ifDAA",
+            "title": "Kanye West visits the White House for a meeting with Trump",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "DsgviNiXKso",
-            "title": "Ferguson Reacts After Police Officer Cleared of Civil Rights Violations",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "lzfesfC5FAE",
             "title": "2 killed, 2 injured in shooting on Florida transit bus",
             "secondDuration": 78,
@@ -301,8 +295,14 @@
             "title": "By the Numbers: Biden’s historic Cabinet picks",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "TS1ChOfWfRI",
+            "title": "Unemployment claims rise amid questions over benefits | WNT",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_uyC2iqeKQU",
-            "title": "Watch Eric Trump’s Full Speech At The 2020 RNC | NBC News",
-            "secondDuration": 548,
-            "group": "group_7"
-        },
-        {
             "videoId": "1RrMjExz-bY",
             "title": "NBC News/WSJ Poll: Biden Leads Trump By 10 Points | Meet The Press | NBC News",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Kyle Rittenhouse Makes First In-Person Court Appearance in Wisconsin",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "ysVNZLfdi-E",
+            "title": "Trump Campaign Cutting Ties With Pollsters After Internal Numbers Leaked | Meet The Press | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

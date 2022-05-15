@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lBO4eUMpWyg",
-            "title": "Amplified: Girl Talk",
-            "secondDuration": 796,
-            "group": "group_7"
-        },
-        {
             "videoId": "KRNgKwmufK0",
             "title": "Feed Frenzy: Touching Reunions",
             "secondDuration": 125,
@@ -121,8 +115,14 @@
             "title": "Tracking Christmas Deliveries",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "cglKMXdfXZI",
+            "title": "Alcoholic Mother Goes to Rehab",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

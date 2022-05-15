@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "M05Ivizwk2w",
-            "title": "Hurricane Willa makes landfall as Category 3 in Mexico",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "hRCrzJNlBfs",
             "title": "WEBCAST: Scotland Rejects Plan for Independence",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Republican health care bill seems doomed to fail",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "soieUrFMG1s",
+            "title": "Bristol Palin 'GMA' Interview: My Virginity Was 'Stolen': Exclusive (06.27.11)",
+            "secondDuration": 406,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

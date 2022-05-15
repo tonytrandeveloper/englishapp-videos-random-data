@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QZaLYKtlz4Y",
-            "title": "Robert Pattinson on 'Daily Show'; Sheen Back on Twitter",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "c9I-aXBfv2g",
             "title": "US Surgeon General: ‘We’re trying to learn the lessons’ from other countries",
             "secondDuration": 316,
@@ -31,8 +25,14 @@
             "title": "Amputee Mom Saves Kids From Indiana Tornado",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "DPlx7nw2ARw",
+            "title": "Tributes pour in for the 'Queen of Soul'",
+            "secondDuration": 351,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

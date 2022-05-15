@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5tRk7HwqSBQ",
-            "title": "Heavy Police Presence At Colorado Grocery Store After Active Shooter Report | NBC News",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "hNNGHricxDw",
             "title": "Coronavirus Outbreak Worsens In Europe | NBC Nightly News",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Amazing Video Shows Trooper Rescue Driver Seconds Before Train Collision | NBC Nightly News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "IqWR8ISi2Lw",
+            "title": "Covid Vaccine Division Altering Interpersonal Dynamics",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

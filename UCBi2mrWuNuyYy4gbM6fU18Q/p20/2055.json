@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lNz5eZHkKKw",
-            "title": "Inside Funerals for Orlando Shooting Victims",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "gqNPtOQK7zc",
             "title": "Duo Attempting to Sail From Norway to Maine Speak Out",
             "secondDuration": 214,
@@ -121,8 +115,14 @@
             "title": "Losing Everything: 19,000 People Displaced by Wildfires",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "desFepEX5Is",
+            "title": "Sen. Menendez: ‘Our democracy prevails’ with a ‘peaceful transfer of power’",
+            "secondDuration": 329,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ib8Rh9bv0so",
-            "title": "FBI Hacks iPhone | Finds Answers Regarding San Bernardino Terrorists",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "dLdjmflxF74",
             "title": "Justin Bieber Battery Investigation: Neighbor Calls Him a 'Punk'",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Inside the New Ku Klux Klan",
             "secondDuration": 320,
             "group": "group_7"
+        },
+        {
+            "videoId": "WwJyX15R4rQ",
+            "title": "Disgraced Theranos founder Elizabeth Holmes in court",
+            "secondDuration": 215,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qCdJlQhSnrk",
-            "title": "Truck accident leaves July 4th traffic at standstill in New York City",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "9DoErgDmF8M",
             "title": "Boston's EMS overwhelmed as state uses contact tracers l ABC News",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "James Franco Admits Flirting With Teen Over Social Media",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "HRt-5N52Y8Q",
+            "title": "'Full House' Fans Flock to Home, Annoy Neighbors",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

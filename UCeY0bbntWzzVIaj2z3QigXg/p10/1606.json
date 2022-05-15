@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SOvcSBCyReI",
-            "title": "Mexico City Quake: Rescuers Desperate To Find Survivors | NBC Nightly News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "VmtyvsG66Nw",
             "title": "U.K. PM Wishes Recovery To Record-Breaking Tom Moore After Covid-19 Diagnosis | NBC News NOW",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "SeaWorld Phasing Out ‘Shamu’ Killer Whale Show in San Diego | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "EEfFBl8s6vM",
+            "title": "State Legislators Vote To Repeal Gov. Cuomo’s Emergency Pandemic Powers | NBC Nightly News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

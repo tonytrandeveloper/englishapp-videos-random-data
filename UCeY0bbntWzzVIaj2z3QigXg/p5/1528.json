@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cXhxRlKy6YU",
-            "title": "Meet the Press - McDonnell & O'Malley; roundtable",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "mh-2FfLRPis",
             "title": "Pelosi Announces House Mask Mandate | NBC News NOW",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Meet The Press Broadcast (Full) - April 19th, 2020 | Meet The Press | NBC News",
             "secondDuration": 2860,
             "group": "group_7"
+        },
+        {
+            "videoId": "D-C_nPz8CP0",
+            "title": "Daunte Wright’s Mother: ‘I Never Imagined I Would Be Standing Here’ | NBC News NOW",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "humbHN47pKQ",
-            "title": "How the Pacific Was Won",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "rRJjbuIfCbg",
             "title": "Cuomo says pandemic 'not going to be over anytime soon' despite progress",
             "secondDuration": 524,
@@ -31,8 +25,14 @@
             "title": "Instant Index: Halloween Surprise for Harry Potter",
             "secondDuration": 19,
             "group": "group_7"
+        },
+        {
+            "videoId": "ViNFhj2Gegk",
+            "title": "'Occupy' Protests: Cities Fight Back",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

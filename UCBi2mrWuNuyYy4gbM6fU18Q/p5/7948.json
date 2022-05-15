@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mkF8VLlHSfQ",
-            "title": "Katie Holmes Files for Divorce From Tom Cruise",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "3IK9HBbTUoQ",
             "title": "Golden Globes Fashion: Carson Kressley's Winners and Losers on Red-Carpet",
             "secondDuration": 271,
@@ -31,8 +25,14 @@
             "title": "Aurora, Colorado Shootings: Matthew McConaughey, 'Killer Joe,' 'Magic Mike' Star, On Film Violence",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "8yhX1NNSnh4",
+            "title": "Osama Bin Laden Dead: Inside the Top Secret Operation",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

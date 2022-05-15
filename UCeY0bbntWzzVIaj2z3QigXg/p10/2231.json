@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7Iq7xRgw4ow",
-            "title": "Hawaii’s Kilauea Volcano: Eruptions, Geysers, And Lava Streams Flowing Into The Ocean | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "EnXPu4gXxlI",
             "title": "Crown Prince On Jamal Khashoggi Killing: ‘A Heinous Crime That Cannot Be Justified’ | NBC News",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "WATCH: Ukraine President Zelenskyy’s Full Address To U.S. Congress",
             "secondDuration": 1080,
             "group": "group_7"
+        },
+        {
+            "videoId": "DyyjNSLlcdc",
+            "title": "Live: New York Gov. Andrew Cuomo Holds Briefing On Coronavirus, George Floyd Protests | NBC News",
+            "secondDuration": 2716,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

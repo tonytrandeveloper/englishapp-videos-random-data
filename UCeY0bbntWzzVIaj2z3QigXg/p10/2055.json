@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xOUAD5xL8pI",
-            "title": "Nightly News Full Broadcast - Feb. 11",
-            "secondDuration": 974,
-            "group": "group_7"
-        },
-        {
             "videoId": "SHynI_l9uQ8",
             "title": "Dramatic Rescues Follow Devastating Houston Floods | NBC News",
             "secondDuration": 61,
@@ -61,8 +55,14 @@
             "title": "Myanmar Beauty Pageant Contestant Condemns Military Crackdown | NBC News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "DieEon-2C7M",
+            "title": "Frontline Workers Reflect On Fighting Pandemic, Becoming New Mothers | NBC News NOW",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

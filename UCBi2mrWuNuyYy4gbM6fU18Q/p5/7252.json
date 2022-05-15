@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UQbe6yFcz98",
-            "title": "Exploding Package Injures 1 in Philadelphia",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "tzZYYZrsKQQ",
             "title": "Mike Pence Interview on Airplane Crash",
             "secondDuration": 283,
@@ -31,8 +25,14 @@
             "title": "Tom Hanks Quest to Return a Student’s Missing I.D Card",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "UaraciB8grg",
+            "title": "Ralph Lauren Steps Down As CEO of Fashion Empire",
+            "secondDuration": 237,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

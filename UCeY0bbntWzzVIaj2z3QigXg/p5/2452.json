@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UYt0X_DaroY",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 3021,
-            "group": "group_7"
-        },
-        {
             "videoId": "oz0G76O7DLc",
             "title": "Britain’s Vote to Leave EU Sends Global Markets Plummeting | NBC Nightly News",
             "secondDuration": 187,
@@ -31,8 +25,14 @@
             "title": "Parents Are Not Cooperating With Investigation Of Children Who’ve Been Missing | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "4akFLFq3b-g",
+            "title": "President Donald Trump Holds Press Conference After Summit With Kim Jong Un | NBC News",
+            "secondDuration": 5028,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

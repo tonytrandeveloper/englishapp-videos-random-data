@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KDIb4NvVaSs",
-            "title": "Taylor Swift, Billboard’s woman of the decade, sticks it to ‘the man’ l ABC News",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "dxZu_Kj1-iI",
             "title": "Merle Haggard Dead at 79",
             "secondDuration": 926,
@@ -61,8 +55,14 @@
             "title": "9 people killed in Hawaii plane crash",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "39i89NJNCRQ",
+            "title": "Biker Rescued From Burning Wreck",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JP-HNcROSU8",
-            "title": "Amanda Knox returns to Italy for first time since 2015 acquittal",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "0DvvMz3-om4",
             "title": "David Petraeus Resigns Over Affair With Biographer Paula Broadwell",
             "secondDuration": 301,
@@ -61,8 +55,14 @@
             "title": "Top Line: Bayh's Goodbye: Sign of Dems Divided?",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "G2lXbYp3poQ",
+            "title": "Who is Conor Lamb?",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

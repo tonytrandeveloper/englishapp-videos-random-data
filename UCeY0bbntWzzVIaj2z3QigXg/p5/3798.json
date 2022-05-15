@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L2YkbT5Nu3U",
-            "title": "How Data Can Give New Insight Into Political Risk | NBC News NOW",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "R2DStODPxrU",
             "title": "President Donald Trump: Fake News 'Creating Violence By Not Writing The Truth' | NBC News",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "Mister Fred Rogers’ Neighborhood Turns 50 | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "EDFGXirJlwU",
+            "title": "Dr. Fauci On Booster Shot Confusion",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

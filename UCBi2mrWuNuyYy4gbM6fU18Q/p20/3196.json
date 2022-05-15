@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wmVg_8wUS9s",
-            "title": "Vice President receives COVID-19 vaccine on live TV l ABC News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ql9zGujltPg",
             "title": "Endangered seal pup released back into the sea",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "Superstorm Sandy Victim Reunited With Dog",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "uXLHYNLJOHg",
+            "title": "The second Democratic debate, a new college admissions scandal and how to break bad habits",
+            "secondDuration": 1289,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

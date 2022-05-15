@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ANZ4LThlJzY",
-            "title": "RAW: Deadly Earthquake Rattles China | NBC News",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "zIIbKL75494",
             "title": "John Kerry Talks Climate Deal, ISIS Fight | Meet The Press | NBC News",
             "secondDuration": 395,
@@ -61,8 +55,14 @@
             "title": "NBC News NOW Full Broadcast - June 30, 2021",
             "secondDuration": 2988,
             "group": "group_7"
+        },
+        {
+            "videoId": "O91OYQ2W09E",
+            "title": "Man Found Daughter-In-Law Died In The El Paso Shooting. Then, Day Later, His Son. | NBC Nightly News",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

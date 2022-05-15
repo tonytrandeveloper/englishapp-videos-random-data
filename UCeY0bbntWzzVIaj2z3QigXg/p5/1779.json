@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-QxjaBVAVOs",
-            "title": "Pope Francis Apologizes After Swatting Woman’s Hand | NBC Nightly News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "P5QpCaMHJjQ",
             "title": "Watch Historic Meeting Between Trump, Kim Jong Un In The DMZ | NBC News",
             "secondDuration": 344,
@@ -31,8 +25,14 @@
             "title": "Live: New Jersey Governor Phil Murphy Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3944,
             "group": "group_7"
+        },
+        {
+            "videoId": "bMZnemqsCdI",
+            "title": "Trump Under Fire, Says Dem Congresswomen Should 'Go Back' Where ‘They Came' From | Nightly News",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z-V8nW1r3ho",
-            "title": "Supreme Court Surprises During Obamacare Arguments | NBC News",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "VAABAoAKGeM",
             "title": "SpaceX launches Crew-3 mission to ISS | NBC News",
             "secondDuration": 5710,
@@ -31,8 +25,14 @@
             "title": "Queen Elizabeth Responds To Prince Harry, Meghan Markle Interview | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "WG-1YsaXo18",
+            "title": "‘You Are A Man, A Hero’: Zelenskyy Congratulates Freed Mayor of Melitopol",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

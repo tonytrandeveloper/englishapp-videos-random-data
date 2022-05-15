@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5rUPsLkhaoY",
-            "title": "Donald Trump Jr Full Speech at Republican Convention",
-            "secondDuration": 1009,
-            "group": "group_7"
-        },
-        {
             "videoId": "qqjH1-4vJLg",
             "title": "Body cam video leaked of deadly arrest in 2019 | WNT",
             "secondDuration": 149,
@@ -31,8 +25,14 @@
             "title": "Record-Breaking October Heat Wave",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "JbSDR65zWiA",
+            "title": "Interview With Leon Panetta",
+            "secondDuration": 1480,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

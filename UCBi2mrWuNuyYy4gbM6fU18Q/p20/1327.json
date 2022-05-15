@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3ChU-WGq7m8",
-            "title": "'This Week': Affirmative Action",
-            "secondDuration": 390,
-            "group": "group_7"
-        },
-        {
             "videoId": "S4j1dkxwsJM",
             "title": "Mary Barra Is  New CEO at General Motors",
             "secondDuration": 113,
@@ -121,8 +115,14 @@
             "title": "Miley Cyrus Bares All in Racy V Photo Shoot, Interview",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "vIt1fzeBogE",
+            "title": "Scientists reverse brain damage in a toddler",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

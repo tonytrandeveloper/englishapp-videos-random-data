@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "L-anPYL4cMU",
-            "title": "Running Tips from a Marathon Champ | ABC News",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "7xYZ3rMT8_A",
             "title": "Sheryl Sandberg Interview on New 'Lean In' Campaign",
             "secondDuration": 238,
@@ -121,8 +115,14 @@
             "title": "Steve Harvey on Making Your Marriage Work",
             "secondDuration": 421,
             "group": "group_7"
+        },
+        {
+            "videoId": "GvAF-Yu7APg",
+            "title": "Woman found buried in sand on Maryland beach",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

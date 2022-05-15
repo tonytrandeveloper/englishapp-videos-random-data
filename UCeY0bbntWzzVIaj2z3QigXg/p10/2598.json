@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aUCsJTofACE",
-            "title": "Lake Mead Hits All-Time Low Water Level",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "SX9gDCcxfgM",
             "title": "Top 5 Bernie Sanders Campaign Moments | NBC News",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Billionaire Couple Is Taking On Big Pharma To Lower Your Prescription Drug Prices | NBC Nightly News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "d0TLhfhaVxk",
+            "title": "American And British ISIS Brides Plead To Return Home | NBC Nightly News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

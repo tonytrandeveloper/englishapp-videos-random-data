@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_PLqqvquSwY",
-            "title": "WEBCAST: Power Jackpot Soars!",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "4JhpxJDeLo8",
             "title": "Justin Timberlake, Jessica Biel Welcome Baby Boy",
             "secondDuration": 167,
@@ -31,8 +25,14 @@
             "title": "Former President Obama discusses climate change at summit with mayors from around the world",
             "secondDuration": 870,
             "group": "group_7"
+        },
+        {
+            "videoId": "nbvy2y2-9-E",
+            "title": "Biden says he can woo back working-class Trump voters",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

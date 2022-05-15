@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aq5e_cc75N8",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 3200,
-            "group": "group_7"
-        },
-        {
             "videoId": "FdYNdOdy584",
             "title": "Nikki Haley On Iran Deal: 'That's A Question For Secretary Tillerson' | Meet The Press | NBC News",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "'Is This Patriot Enough?': Asian American Official Shows Military Scars, Condemns Racist Violence",
             "secondDuration": 234,
             "group": "group_7"
+        },
+        {
+            "videoId": "9xpo2EEdFtA",
+            "title": "Dramatic Weather Events A Growing Threat | NBC News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

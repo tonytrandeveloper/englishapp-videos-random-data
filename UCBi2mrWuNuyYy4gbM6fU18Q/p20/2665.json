@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5cdOAZE07JM",
-            "title": "No criminal charges will be filed against engineer after deadly Amtrak crash in Philadelphia",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "QKx98wLfJdE",
             "title": "Ukraine call 'wasn't about the 2020 election': Rep. Steve Scalise | ABC News",
             "secondDuration": 499,
@@ -121,8 +115,14 @@
             "title": "After a string of mass shootings, Biden addresses limited gun reform | WNT",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "J1MFzzOxaY0",
+            "title": "‘Bachelorette’ Rachel Lindsay Meets Dean, Peter, Bryan and Eric’s families",
+            "secondDuration": 1421,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

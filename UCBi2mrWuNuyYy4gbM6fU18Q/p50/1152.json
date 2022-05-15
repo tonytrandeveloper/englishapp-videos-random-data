@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "JnfuL7uimr8",
-            "title": "ABC News Live: White House recommends COVID-19 vaccine booster shots",
-            "secondDuration": 3730,
-            "group": "group_7"
-        },
-        {
             "videoId": "aC2KF52SpX4",
             "title": "Post Malone's private plane makes harrowing emergency landing",
             "secondDuration": 152,
@@ -301,8 +295,14 @@
             "title": "‘Can’t throw more money at a broken system’: Rep. Tlaib on border funding",
             "secondDuration": 504,
             "group": "group_7"
+        },
+        {
+            "videoId": "dZLhFrgmpD4",
+            "title": "Police search for a possible serial arsonist in Washington state",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

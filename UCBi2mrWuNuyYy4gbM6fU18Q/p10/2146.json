@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NLiau4J9Wko",
-            "title": "Boiling Point on the Border",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "1AZY2odjPmw",
             "title": "The Briefing Room: Democratic debate wrap up, Trump and Russia, School Integration",
             "secondDuration": 1466,
@@ -61,8 +55,14 @@
             "title": "ABC News Prime: Missile strike in Lviv; Russians at southern border; Tik tok shows realities of war",
             "secondDuration": 7148,
             "group": "group_7"
+        },
+        {
+            "videoId": "vnizjjs_gSE",
+            "title": "What a 2nd whistleblower means for impeachment inquiry | ABC News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

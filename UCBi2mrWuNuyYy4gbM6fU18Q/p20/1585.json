@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zg5JANpzfTo",
-            "title": "ABC News Prime: Tracking Hurricane Elsa; Win for gay rights in SCOTUS decision; Olympics uproar",
-            "secondDuration": 3616,
-            "group": "group_7"
-        },
-        {
             "videoId": "0-IUR0mM5yc",
             "title": "Can your job require a COVID-19 vaccine?",
             "secondDuration": 320,
@@ -121,8 +115,14 @@
             "title": "NSA Shooting: 1 Killed by Gunfire",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "0v6iA0ytpuo",
+            "title": "Baltimore highway shooter caught in high-speed chase",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

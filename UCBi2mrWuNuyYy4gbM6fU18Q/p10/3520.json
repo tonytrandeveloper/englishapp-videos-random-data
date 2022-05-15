@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-3oeGX-O7ZA",
-            "title": "Will Smith banned from Oscars for 10 years",
-            "secondDuration": 239,
-            "group": "group_7"
-        },
-        {
             "videoId": "_sn0HbI4ujE",
             "title": "Beyonce Drops Bombshell With 'Lemonade'",
             "secondDuration": 228,
@@ -61,8 +55,14 @@
             "title": "Sen. Cory Booker speaks on Judge Ketanji Brown Jackson",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "RkL2sfCv4k0",
+            "title": "An Energy Drink Made in America in a Dorm Room",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

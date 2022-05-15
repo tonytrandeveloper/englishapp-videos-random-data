@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rF4hoKSaJkI",
-            "title": "Federal officials join in investigation of fires at black churches",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "KIsKJq1tVVg",
             "title": "Body camera captures Georgia cop saving infant in distress",
             "secondDuration": 88,
@@ -121,8 +115,14 @@
             "title": "Jake Tapper on Obama's Nuke Plans",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "2bo-dyoLeWI",
+            "title": "'This Week': Reflecting on Iraq",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

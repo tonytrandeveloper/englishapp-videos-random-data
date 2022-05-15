@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h0vdRmlPPcI",
-            "title": "Dunwoody Trial: The Insanity Defense",
-            "secondDuration": 373,
-            "group": "group_7"
-        },
-        {
             "videoId": "ma0bcxCkHeo",
             "title": "Firm with Trump ties accessed Facebook user's data",
             "secondDuration": 215,
@@ -31,8 +25,14 @@
             "title": "Chappie: Hugh Jackman Fights Robot Cop",
             "secondDuration": 286,
             "group": "group_7"
+        },
+        {
+            "videoId": "cy0hnn3pxpc",
+            "title": "Ostrich Chases Cyclists in South Africa",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

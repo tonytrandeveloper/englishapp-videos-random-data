@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rlZvGpy2owk",
-            "title": "Remembering Sidney Poitier",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "wGfWTFwHpoo",
             "title": "Blizzard Warnings Threaten Holiday Air Travel",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Scream Painting Sells for Almost $120 Million",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "2G9xsBDxYAA",
+            "title": "7 sailors remain missing off the coast of Japan after Navy destroyer collides with a tanker",
+            "secondDuration": 233,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

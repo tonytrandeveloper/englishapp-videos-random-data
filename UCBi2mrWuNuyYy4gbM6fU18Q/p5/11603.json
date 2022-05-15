@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ubgfz07mMpQ",
-            "title": "Special Report: 12 US service members killed in explosions near Kabul airport",
-            "secondDuration": 1701,
-            "group": "group_7"
-        },
-        {
             "videoId": "raouHKAyIfA",
             "title": "New TikTok guidelines",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Obama Growls at Kids",
             "secondDuration": 15,
             "group": "group_7"
+        },
+        {
+            "videoId": "gerjfWnWevo",
+            "title": "President Obama Makes Jokes at White House Correspondents Dinner",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

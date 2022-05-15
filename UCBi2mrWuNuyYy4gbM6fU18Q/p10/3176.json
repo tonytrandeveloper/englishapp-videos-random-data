@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pkPrUnHBa98",
-            "title": "Prosecution presents rebuttal in Ahmaud Arbery trial",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "DJOqhvMFVaA",
             "title": "Kerry Kennedy Drugged-Driving Trial to Begin",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Starving Away Pounds: Science Behind New Fast Diet",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "_ZMLNQeMN6A",
+            "title": "Controversial radio host dies at age 79",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

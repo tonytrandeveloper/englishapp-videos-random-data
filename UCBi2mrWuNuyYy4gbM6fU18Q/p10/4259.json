@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bmu9E2MmpNw",
-            "title": "Fall Freeze: Frosty Temperatures Come Early",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q9wVNJcJjpg",
             "title": "Thousands of Green Cards Have 'Gone Missing': IG",
             "secondDuration": 32,
@@ -61,8 +55,14 @@
             "title": "Ian Somerhalder Discusses His Role On CW's The Vampire Diaries",
             "secondDuration": 552,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ODFezEDok8",
+            "title": "COVID-19 in North Dakota",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

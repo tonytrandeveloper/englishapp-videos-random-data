@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1BBZU8uHcQs",
-            "title": "Video Captures Deadly Police Shooting on Skid Row in Los Angeles",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "wZWqXw0oHeQ",
             "title": "Prince Harry Joins Elephant Conservation Project in Malawi",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Deflate-Gate, the Latest Scandal to Plague NFL",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "NrHphRhoo2k",
+            "title": "News You Missed: Rare Parrot Makes Sex Tape",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

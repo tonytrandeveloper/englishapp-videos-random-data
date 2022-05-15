@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hgRDA6zy3wg",
-            "title": "NBC News NOW Full Broadcast - July 14, 2021",
-            "secondDuration": 2965,
-            "group": "group_7"
-        },
-        {
             "videoId": "4sa082BtecU",
             "title": "WH On Rex Tillerson Pick: ‘What Better Way’ To Warm To Russia? | NBC News",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "Lil Nas X Will Be Taco Bell’s First Chief Impact Officer",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "a3666OPSJSY",
+            "title": "Alleged Russian Spy For CIA Now Living In U.S. Under Protection | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WH7LtabdhoI",
-            "title": "College Board Announces Big Changes in SAT Exam",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "JQ7jh3TQ_Zo",
             "title": "Civilians in the crosshairs of Russian attacks",
             "secondDuration": 376,
@@ -121,8 +115,14 @@
             "title": "Car Slams into Bible Study Group | 1 Dead, 8 Injured",
             "secondDuration": 29,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q6ddHtVpUwg",
+            "title": "Kids honor moms on the front lines",
+            "secondDuration": 336,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

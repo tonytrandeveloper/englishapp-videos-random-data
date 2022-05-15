@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UH-urZZA_fE",
-            "title": "NBC News' Jo Kent: A Day On The Campaign Trail",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "t45FVv9Z8jo",
             "title": "Thousands Forced To Evacuate Fort Lauderdale Airport Due To Bomb Threat",
             "secondDuration": 120,
@@ -121,8 +115,14 @@
             "title": "Sean Spicer: Michael Flynn Resigned Over Trust Issue, Not Legal Issue | NBC News",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "OJiHZ_djUZ8",
+            "title": "Israeli Bombardment Of Gaza Appears To Intensify | NBC News",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C_7ftyiHJ08",
-            "title": "West Coast Ports Reopen Slowly | NBC Nightly News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "nXh14ha52EI",
             "title": "2020 Hopefuls On President Donald Trump’s Immigration Policies | NBC News Now",
             "secondDuration": 288,
@@ -31,8 +25,14 @@
             "title": "Study Says Coronavirus Lockdown Delays Led To At Least 36,000 More U.S. Deaths | NBC News NOW",
             "secondDuration": 783,
             "group": "group_7"
+        },
+        {
+            "videoId": "2kaaLHzSpJM",
+            "title": "Six High School Students Killed In Oklahoma Crash: 'Our Hearts Are Broken'",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mxLGU4E93HI",
-            "title": "Morning News NOW Full Broadcast - Nov. 8",
-            "secondDuration": 2343,
-            "group": "group_7"
-        },
-        {
             "videoId": "sXLki4hVbqw",
             "title": "Steam Pipe Explodes In New York City | NBC Nightly News",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Human Embryos ‘Edited’ In U.S. For First Time | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "glHSXa4l2So",
+            "title": "Sen. Amy Klobuchar Highlights Joe Biden's Support From Suburban Voters | NBC News",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

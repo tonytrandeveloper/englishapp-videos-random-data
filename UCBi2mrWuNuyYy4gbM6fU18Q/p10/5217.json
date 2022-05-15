@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IfCvXqdq8rQ",
-            "title": "The Conversation: Stephen and Lucy Hawking",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "5vhB1fK66J4",
             "title": "White House Questions Trump's Invitation of Obama's Half-Brother",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Teen Mom Waxes Toddler's Eyebrows: Too Young Too Soon?",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "yvVnalO5KyI",
+            "title": "Feed Frenzy: Ultimate Song of the Summer",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

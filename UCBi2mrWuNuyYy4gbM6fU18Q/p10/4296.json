@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gNvqGUCKsFQ",
-            "title": "Swimming with Sharks at Night",
-            "secondDuration": 428,
-            "group": "group_7"
-        },
-        {
             "videoId": "OfSOChImoF0",
             "title": "ABC World News Now on Instagram",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "Presidential Debate Analysis",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "p04PPlouyAA",
+            "title": "Saving Big Time on Dental Care",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g1PFqFVbBfQ",
-            "title": "Thanksgiving COVID-19 warning",
-            "secondDuration": 326,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yom7XRi-Z7M",
             "title": "The week ahead for next phase of impeachment showdown | ABC News",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "17-year-old finally back home after shark attack at NC beach",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "ntPktoP8GRc",
+            "title": "BLM Protest, Social Distancing, Juneteenth: This Week In Pictures",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

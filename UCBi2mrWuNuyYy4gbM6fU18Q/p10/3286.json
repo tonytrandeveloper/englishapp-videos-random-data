@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nVdvU5EwEuY",
-            "title": "ABC News Live: Reactions coming in following Ghislaine Maxwell’s conviction l ABCNL",
-            "secondDuration": 1444,
-            "group": "group_7"
-        },
-        {
             "videoId": "xj5-sv2Yybk",
             "title": "Katherine Jackson Interview 2012: 'Devastated' Over Losing Custody of Michael Jackson's Kids",
             "secondDuration": 252,
@@ -61,8 +55,14 @@
             "title": "MIX: Would You Eat Dog or Cat Food?",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "QbAlrQGw4-c",
+            "title": "A Louisiana critical care nurse facing the pandemic daily",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s6T-HUB_D6A",
-            "title": "Supreme Court Bolsters Gay Marriage Rights",
-            "secondDuration": 302,
-            "group": "group_7"
-        },
-        {
             "videoId": "lUs7jVDQx0k",
             "title": "ABC News Live: William Shatner and Blue Origin are headed to space on Wednesday",
             "secondDuration": 1475,
@@ -31,8 +25,14 @@
             "title": "11-year-old Texas boy shot and killed while walking to mother's car",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "UY19bQVDqLQ",
+            "title": "Boy Falls Off Roller Coaster in Pennsylvania",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

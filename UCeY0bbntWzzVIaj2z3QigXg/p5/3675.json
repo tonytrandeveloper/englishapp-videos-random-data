@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ul4zREqSTkg",
-            "title": "Donald Trump: When Putin Calls Me Brilliant I'll Take the Compliment | NBC News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "VGkcQc9smBM",
             "title": "Paul Ryan: GOP Having ‘Productive Talks’ On Next Health Care Bill | NBC News",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Chuck Grassley Says He Learned Of President Trump’s Pick For FBI Director From Twitter | NBC News",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "YFWBJz8UIl8",
+            "title": "Watch live: California Gov. Newsom Holds Coronavirus Briefing",
+            "secondDuration": 2773,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

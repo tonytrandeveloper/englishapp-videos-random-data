@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DAuop31TMDI",
-            "title": "America’s Oldest Working Nurse Retires at 96",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "1lB0NzZtsAA",
             "title": "Reviewing The 25 Latino Movies Nominated For The National Film Registry | NBC News NOW",
             "secondDuration": 244,
@@ -31,8 +25,14 @@
             "title": "Democrats Hoping To Hold Impeachment Vote Before Christmas | NBC Nightly News",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "qe_JfNGzZtk",
+            "title": "Trump Threatens Social Media Companies After Twitter Fact Checks His Tweets | NBC Nightly News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1-pLwCGIC3I",
-            "title": "GA GOP Candidate Asks FBI To Investigate Democrats For Hacking Voter Database | NBC Nightly News",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "G_1MTUxQgjE",
             "title": "Two Patients Receive Rare Triple-Organ Transplants | NBC Nightly News",
             "secondDuration": 90,
@@ -121,8 +115,14 @@
             "title": "Hong Kong Protestors Create Democracy Wall | NBC News",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "so1SdZmZuvc",
+            "title": "Hong Kong Protestor Beaten By Police | NBC News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

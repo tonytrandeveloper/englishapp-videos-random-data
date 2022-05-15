@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2SCHLQR8FLY",
-            "title": "Colonial Pipeline restarts operations, gas prices spike | WNT",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "yyhH0KVft-I",
             "title": "Trump Dismisses Reports of Russian Hacking",
             "secondDuration": 308,
@@ -61,8 +55,14 @@
             "title": "Obamas Welcome Donald Trump, Melania to White House",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "rl9QJ3gdEm8",
+            "title": "Fauci tries to clarify his answer to a 'hypothetical question' about 'saved lives'",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

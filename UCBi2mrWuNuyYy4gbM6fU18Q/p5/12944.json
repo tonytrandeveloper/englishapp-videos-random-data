@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sIVEynKfVKU",
-            "title": "Canadian Prime Minister Justin Trudeau criticizing Trump after G-7 summit",
-            "secondDuration": 243,
-            "group": "group_7"
-        },
-        {
             "videoId": "MO6ZEzDqY34",
             "title": "Joe Biden gets the official nod from Hillary Clinton | WNT",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Workers, customers overcome by fumes at popular wings restaurant",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "Aj7dJEAZxKg",
+            "title": "Family Fitness Challenge",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

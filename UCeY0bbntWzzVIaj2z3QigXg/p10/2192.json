@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "f5hA9ky_sQw",
-            "title": "Watch NBC News NOW Live - June 1",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "1GVNdKGMLBA",
             "title": "Detroit Gunshot Victim Inspired to Become a Doctor | NBC Nightly News",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "'I Meet Them All': Trump Discusses His Meetings With Dictators And Presidents | NBC News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "1couRhl62-g",
+            "title": "Biden Introduces Nominee For Secretary Of Defense | NBC News",
+            "secondDuration": 1566,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

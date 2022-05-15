@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pa7NRznlfhw",
-            "title": "Live: Public Viewing For George Floyd In Houston | NBC News",
-            "secondDuration": 23368,
-            "group": "group_7"
-        },
-        {
             "videoId": "isCJqa9lugk",
             "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2551,
@@ -61,8 +55,14 @@
             "title": "John Kasich On Donald Trump, GOP Race (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 313,
             "group": "group_7"
+        },
+        {
+            "videoId": "wgVm8xW2CDA",
+            "title": "‘Saved In America’ On A Mission To Find Missing Children | NBC Nightly News",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

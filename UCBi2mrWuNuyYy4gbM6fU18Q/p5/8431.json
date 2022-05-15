@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kIm3cnSqOWw",
-            "title": "Edina Police Release Video of Controversial Incident",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "TPTJSFk0Uo8",
             "title": "School shooting survivors announce march on Washington",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "Projected election results: New Hampshire and Louisiana",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "4NTpyWle5tQ",
+            "title": "FDA warns about certain infant powdered formulas l GMA",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

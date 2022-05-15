@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zrksHuN7IMY",
-            "title": "Beer Summit: Refreshing Race Relations?",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "96DnDuGZ6d0",
             "title": "Threatening Floods Span From Texas to Illinois",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "ABC News Prime: Stimulus deal deadline; El Paso crushed by COVID-19; Jeff Bridges’ lymphoma fight",
             "secondDuration": 3611,
             "group": "group_7"
+        },
+        {
+            "videoId": "ujZuIZ4zJIM",
+            "title": "September Jobs Report: Unemployment Falls to 7.8, 114,000 Jobs Added",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

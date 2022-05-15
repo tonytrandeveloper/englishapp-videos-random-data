@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8Wiob7zvhDM",
-            "title": "Joe Biden and Kamala Harris deliver remarks in Wilmington, Delaware | ABC News Live",
-            "secondDuration": 8730,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hn8hJWYe3y4",
             "title": "Carly Rae Jepsen Interview 2013 on 'GMA':  'I Pinch Myself Every Day'",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "Multiple Bottled Water Brands Recalled Due To Potential Contamination",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "ue4jU6CoCQQ",
+            "title": "Powerless Carnival Cruise Ship Heading Back to Port",
+            "secondDuration": 315,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "XonCI6D52Mg",
-            "title": "After Sandy, NYC Copes with Blackouts, Cold",
-            "secondDuration": 308,
-            "group": "group_7"
-        },
-        {
             "videoId": "PgcdKZ9tGss",
             "title": "Severe Spring Weather Across the Midwest",
             "secondDuration": 117,
@@ -301,8 +295,14 @@
             "title": "Standout moments from Day 3 of Ahmaud Arbery's murder trial",
             "secondDuration": 888,
             "group": "group_7"
+        },
+        {
+            "videoId": "2CquFhN5G38",
+            "title": "37 states, 90 million people brace for hazardous weather l ABC News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

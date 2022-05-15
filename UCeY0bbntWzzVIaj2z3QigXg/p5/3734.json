@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z5ffMIwvjo4",
-            "title": "White House Briefing | NBC News",
-            "secondDuration": 2930,
-            "group": "group_7"
-        },
-        {
             "videoId": "C59nexFXUWU",
             "title": "Elizabeth Warren: ‘We Are All Responsible For Our Supporters’ | NBC News",
             "secondDuration": 257,
@@ -31,8 +25,14 @@
             "title": "Uber And Lyft Driver Who Livestreamed Riders Sparks Privacy Concerns | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "_5K-V5hlLXc",
+            "title": "President Donald Trump: My Attitude Toward Bashar al-Assad ‘Has Changed Very Much’ | NBC News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

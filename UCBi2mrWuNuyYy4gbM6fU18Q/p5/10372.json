@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Hl9P9mP0Yw4",
-            "title": "Minneapolis council member: ‘Today justice has been served’",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "8Hf2NNZeBls",
             "title": "Florida Lotto Murder Trial: Bizarre Moments",
             "secondDuration": 288,
@@ -31,8 +25,14 @@
             "title": "Gene Wilder Dies at Age 83",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "sCoMsiVrVUs",
+            "title": "Roundtable I: Karl Rove and Jim Messina",
+            "secondDuration": 1680,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

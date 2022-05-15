@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9LPzYfpUYWo",
-            "title": "A Parkland Survivor Discusses Her Recovery After Being Released From The Hospital | NBC News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "CXmVKIWTWVk",
             "title": "North Korea Still Building Ballistic Missiles, Say U.S. Officials | NBC Nightly News",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Why The Affordable Care Act Might Not Be Reaching The Right Americans | NBC News NOW",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "aARiMCqoooE",
+            "title": "Eulogies Pour In After Longtime Senate Democratic Leader Harry Reid",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

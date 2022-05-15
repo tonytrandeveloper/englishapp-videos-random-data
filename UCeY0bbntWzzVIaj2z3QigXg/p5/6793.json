@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kJwmbsOuRsw",
-            "title": "FDA Advisory Committee Recommends Approval Of Pfizer Covid Vaccine | NBC News",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "kKutZYZj7Os",
             "title": "Governor Greg Abbott Gives The Timeline Of Texas Shooter's Massacre | NBC News",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Airport Shooter Suffered From Mental Health Problems, Undergoing Treatment | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "T1XBM1IyU9I",
+            "title": "Biden Administration Holds First White House Press Briefing | NBC News",
+            "secondDuration": 2122,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

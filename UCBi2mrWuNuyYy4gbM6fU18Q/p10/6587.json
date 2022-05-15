@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bhSa38NzYnA",
-            "title": "Danger in the Backyard: Propane Grill Explosion",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "GPqe10RrE6Q",
             "title": "FBI investigating death aboard Princess cruise ship in Alaska",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "What full FDA approval of the Pfizer vaccine means for the fight against the pandemic",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "xNj12lPDNSQ",
+            "title": "Inspectors Try to Help Hoarders Clean Up Their Act",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

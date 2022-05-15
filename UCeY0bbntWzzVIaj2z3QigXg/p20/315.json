@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tB-ASe-c7Vs",
-            "title": "Biden Conveys NATO Unity After Summit In Belgium",
-            "secondDuration": 439,
-            "group": "group_7"
-        },
-        {
             "videoId": "XBiM-rQzDKY",
             "title": "Russian Lawyer At Trump Tower Meeting Charged With Obstruction Of Justice | NBC Nightly News",
             "secondDuration": 98,
@@ -121,8 +115,14 @@
             "title": "Is NATO Still Relevant In Today’s World? | NBC News Signal",
             "secondDuration": 369,
             "group": "group_7"
+        },
+        {
+            "videoId": "v0Onl_PbWMc",
+            "title": "Hurricane Maria Knocks Out Power Across All Of Puerto Rico | NBC Nightly News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

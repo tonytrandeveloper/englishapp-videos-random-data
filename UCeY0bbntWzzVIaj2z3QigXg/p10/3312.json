@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "a5ovpBHlOts",
-            "title": "More Than 80,000 Forced to Evacuate as Wildfires Sweep California | NBC Nightly News",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "0iwBm1SugnM",
             "title": "Here’s How You’ll Be Affected By The GOP Tax Bill | NBC Nightly News",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
             "secondDuration": 1611,
             "group": "group_7"
+        },
+        {
+            "videoId": "so5n6a-AHk0",
+            "title": "Governors In Coronavirus Hot Spots Urge Widespread Testing Before Reopening Economy | NBC",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

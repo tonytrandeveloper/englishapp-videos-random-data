@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iDc3jPkaR9E",
-            "title": "The List: Who Killed JonBenét?l 20/20 l PART 5",
-            "secondDuration": 456,
-            "group": "group_7"
-        },
-        {
             "videoId": "TCZJsj46-Jw",
             "title": "Vice President Joe Biden Meets With Elizabeth Warren",
             "secondDuration": 234,
@@ -31,8 +25,14 @@
             "title": "Exclusive: Timothy Geithner",
             "secondDuration": 1038,
             "group": "group_7"
+        },
+        {
+            "videoId": "FNA82P7qvKE",
+            "title": "The Crouch Quadruplets Head to Yale",
+            "secondDuration": 387,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TR5j5tW4jno",
-            "title": "Space Shuttle Challenger Disaster | Flashback | NBC News",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "N4tzFMS3ThE",
             "title": "Medal Of Honor Recipient: 48 Hours In Vietnam Were 'Hell On Earth' | NBC Nightly News",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "House Impeachment Managers Play Video Of Capitol Riot During Impeachment Trial | NBC News",
             "secondDuration": 842,
             "group": "group_7"
+        },
+        {
+            "videoId": "Co8Hu7nH3zk",
+            "title": "The Ohio Town That Has a Knack For Picking Presidents | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Cs4LQkJxZ0g",
-            "title": "'It’s Not Too Late': Climate change at the presidential debate",
-            "secondDuration": 533,
-            "group": "group_7"
-        },
-        {
             "videoId": "RmFAn14ZDrE",
             "title": "Trump escalates China trade war with new 10% tariff",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "D.C. Metro Police Arrest Video Stirs Controversy",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "4XNWbq6_oO4",
+            "title": "CA attorney general says neither Mexico nor taxpayers want to pay for 'medieval wall'",
+            "secondDuration": 347,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

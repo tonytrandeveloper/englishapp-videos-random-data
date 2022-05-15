@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "52Aizgq4d14",
-            "title": "WEBCAST: Hi Grandma!",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yz8OoZT5ctU",
             "title": "White House press briefing on Trump's immigration comments, Chinese tariffs, Russia | ABC News",
             "secondDuration": 1796,
@@ -31,8 +25,14 @@
             "title": "July 4th celebrations highlight COVID-19 divide as more young people are sickened",
             "secondDuration": 496,
             "group": "group_7"
+        },
+        {
+            "videoId": "kHWIymY-C_8",
+            "title": "Elizabeth Taylor Remembered",
+            "secondDuration": 441,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

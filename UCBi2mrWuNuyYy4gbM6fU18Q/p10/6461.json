@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qmTjKIwNsF4",
-            "title": "Obama Weighs in on Donald Trump Meeting",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "07LS8-St61c",
             "title": "ABC News Prime: Supply chain nightmare; Deadly bow and arrow attack; Conversation with David Grohl",
             "secondDuration": 5384,
@@ -61,8 +55,14 @@
             "title": "Briefing Room: DOJ wants to strike down ACA, bump stock ban, SCOTUS divided over gerrymandering",
             "secondDuration": 1723,
             "group": "group_7"
+        },
+        {
+            "videoId": "cD1cg12oSWI",
+            "title": "Biden faces critical issues at home after 1st foreign trip | ABC News",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

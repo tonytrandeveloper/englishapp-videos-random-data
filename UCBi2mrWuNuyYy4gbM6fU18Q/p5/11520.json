@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_ElI8yq8ooY",
-            "title": "American Airlines Plane Fire at O’Hare Airport [RAW VIDEO]",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q_vlziDdS0I",
             "title": "Endgame For Health Care Reform?",
             "secondDuration": 345,
@@ -31,8 +25,14 @@
             "title": "‘Can’t throw more money at a broken system’: Rep. Tlaib on border funding",
             "secondDuration": 504,
             "group": "group_7"
+        },
+        {
+            "videoId": "dZLhFrgmpD4",
+            "title": "Police search for a possible serial arsonist in Washington state",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

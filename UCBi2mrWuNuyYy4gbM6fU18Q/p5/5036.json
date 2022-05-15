@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aOjqWIWQ5-k",
-            "title": "State of the Union 2014: President Obama Pushes Immigration Reform",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "5iRfP0UNqzQ",
             "title": "Quvenzhane Wallis Takes on the 'Hard-Knock Life'",
             "secondDuration": 227,
@@ -31,8 +25,14 @@
             "title": "Casey Anthony's Car Had Smell of Death",
             "secondDuration": 279,
             "group": "group_7"
+        },
+        {
+            "videoId": "EMaGBolWymY",
+            "title": "5.8 earthquake, more than 13 aftershocks hit Puerto Rico l ABC News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

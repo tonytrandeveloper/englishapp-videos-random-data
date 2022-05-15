@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dPJUhWwHbeU",
-            "title": "Best of 2010: John Berman's 90 Seconds of News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rdd3WTGxSag",
             "title": "Pastor Suspected of Killing His Wife Caught Fleeing Country",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "Three nursing home staffers now charged in 2014 death of WWII veteran",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "rTnwnqRckLE",
+            "title": "Fight for future of GOP after Trump loss and 2nd Impeachment",
+            "secondDuration": 392,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xu0rJneMWKQ",
-            "title": "ISIS Executes Jordanian Pilot, Jordan Retaliates | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "YflMeS6NExc",
             "title": "Watch Stacey Abrams' Full Democratic Response | NBC News",
             "secondDuration": 663,
@@ -61,8 +55,14 @@
             "title": "Myanmar Migrant Workers Struggle In Thailand After Lockdown Wipes Jobs | NBC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "rZEwu94hzHM",
+            "title": "Andrew Giuliani Announces Bid For New York Governor",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

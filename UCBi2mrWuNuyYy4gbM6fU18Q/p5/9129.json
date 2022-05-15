@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cnnBcjUiof8",
-            "title": "Your questions answered",
-            "secondDuration": 293,
-            "group": "group_7"
-        },
-        {
             "videoId": "PeRgmo_qGG0",
             "title": "Hillary Clinton Widens Her Lead Over Donald Trump",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "North Korea threatens to cancel summit with U.S.",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "bEU9s5xQvlw",
+            "title": "Pennsylvania voters, their children reflect on Trump's first 100 days | ABC News",
+            "secondDuration": 598,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

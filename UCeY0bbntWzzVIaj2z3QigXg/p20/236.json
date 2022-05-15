@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DrrjCf-JxZ8",
-            "title": "Watch NBC News NOW Live - June 5",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "vT5e8HQRSu8",
             "title": "Sec. James Mattis, White House Downplay Confusion Over Aircraft Carrier | NBC Nightly News",
             "secondDuration": 116,
@@ -121,8 +115,14 @@
             "title": "Israeli Airstrikes Target Iranian Forces Inside Syria | NBC News NOW",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "4KCI6JXklZw",
+            "title": "New York Times Buys Game ‘Wordle’ In A Seven-Figure Deal",
+            "secondDuration": 457,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

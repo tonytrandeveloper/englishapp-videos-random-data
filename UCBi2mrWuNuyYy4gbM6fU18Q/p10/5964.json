@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AV_gIhQNxoM",
-            "title": "Miss Teen USA Speaks Out Apology For Using of N-Word",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "pZzt3aslVnM",
             "title": "Ohio State Beats Oregon To Win the NCAA College National Championship",
             "secondDuration": 1350,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Stuck in Storm Drain!",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "g-suEOxkRCs",
+            "title": "Black Friday is here!",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

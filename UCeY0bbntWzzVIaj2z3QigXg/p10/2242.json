@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "j7dsoHlaBmg",
-            "title": "A League Of Their Own: Playing \"Unorganized\" Basefull For Fun | NBC Nightly News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "QU3nPqEuv5M",
             "title": "Donald Trump To NRA: ‘8-Year Assault’ On 2nd Amendment ‘Has Come To A Crashing End’ | NBC News",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump On His Relationship With Vladimir Putin | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "wVD8k7jX-4s",
+            "title": "Watch Live: AG William Barr Testifies Before Senate Ahead Of Mueller Report Release | NBC News",
+            "secondDuration": 6672,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

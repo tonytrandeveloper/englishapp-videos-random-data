@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pcI8RawKQuM",
-            "title": "South Pole Rescue Mission Succeeds",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "8XvFWtcdNuM",
             "title": "Trump presents the Presidential Medal of Freedom to Arthur Laffer | ABC News",
             "secondDuration": 4973,
@@ -121,8 +115,14 @@
             "title": "TECH: Technology Talks Back",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "ax0BZmAExyA",
+            "title": "Drug lord El Chapo gets life in prison",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

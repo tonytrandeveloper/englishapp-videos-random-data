@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Hjsg-odLShk",
-            "title": "Russia widens attacks on Ukrainian city l WNT",
-            "secondDuration": 318,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uv78RLlyWS4",
             "title": "Scottsdale mayor talks impacts of Arizona’s surge in coronavirus cases",
             "secondDuration": 166,
@@ -31,8 +25,14 @@
             "title": "New bodycam video shows dramatic moments of  Las Vegas shooting",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "YAY1nhR8x3Q",
+            "title": "Concerns grow as states ease COVID-19 restrictions",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

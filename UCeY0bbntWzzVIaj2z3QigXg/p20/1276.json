@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QZ3LKRHs2u8",
-            "title": "Is college worth it?",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "PyUaYwuHyaM",
             "title": "Biden Calls On Cuomo To Resign Following NY AG Report",
             "secondDuration": 142,
@@ -121,8 +115,14 @@
             "title": "British Dog Owners March Against Brexit And Call For ‘Wooferendum’ | NBC News",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "SmsZdxEucjE",
+            "title": "Student Pays His Scholarship Forward",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

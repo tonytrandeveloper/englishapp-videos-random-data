@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wuSL8QAjSTQ",
-            "title": "Dow Closes Above 20,000 for 1st Time",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "8F76kiefzc4",
             "title": "Pentagon to Lift Ban on Women in Combat",
             "secondDuration": 144,
@@ -31,8 +25,14 @@
             "title": "Legend, Clarkson criticized for new ‘Baby, It’s Cold Outside’ | ABC News",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "s1LL5MORB64",
+            "title": "Spy vs. Spy",
+            "secondDuration": 367,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

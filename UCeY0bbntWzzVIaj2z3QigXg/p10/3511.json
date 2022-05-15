@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8R1A9JxbRnY",
-            "title": "‘A Wrinkle In Time’ Is Probably Right About Multiple Dimensions | Mach | NBC News",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "WGkl4MT3Hrc",
             "title": "43 States Partially Reopening As New Hot Spots Emerge | NBC Nightly News",
             "secondDuration": 368,
@@ -61,8 +55,14 @@
             "title": "Andrea Jenkins: The First Black Trans Woman To Hold Public Office In The U.S. | Think | NBC News",
             "secondDuration": 878,
             "group": "group_7"
+        },
+        {
+            "videoId": "F_JDOriwsQU",
+            "title": "AT&T Makes $43 Billion Deal To Merge Warnermedia With Discovery",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

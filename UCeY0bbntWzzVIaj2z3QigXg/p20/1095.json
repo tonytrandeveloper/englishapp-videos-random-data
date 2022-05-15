@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fqjnM_tWkxI",
-            "title": "‘A Dark Day For Journalism’: Wikileaks Editor-In-Chief On Julian Assange Arrest | NBC News",
-            "secondDuration": 239,
-            "group": "group_7"
-        },
-        {
             "videoId": "RTfy88cl13o",
             "title": "Colorado Renters In Limbo Over Lost Wages | NBC News",
             "secondDuration": 274,
@@ -121,8 +115,14 @@
             "title": "Coming To America: 'Because His Hands Look Like That, Mine Can Look Like This' | Meet The Press",
             "secondDuration": 538,
             "group": "group_7"
+        },
+        {
+            "videoId": "uzDWp5CQifk",
+            "title": "What's Next For Policing in Minneapolis?",
+            "secondDuration": 308,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

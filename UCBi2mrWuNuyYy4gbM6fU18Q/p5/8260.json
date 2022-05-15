@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hh5x3jYBfaw",
-            "title": "Apple Announces Features of New iPhone 7",
-            "secondDuration": 378,
-            "group": "group_7"
-        },
-        {
             "videoId": "qLmh-5IYRFM",
             "title": "Webcast: Hurricane Maria, Cruise Ship Fire, Ghostbusters Re-released",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "Trump warns another shutdown could happen",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "B5F094yu380",
+            "title": "Trump cancels press conference at G20 as Michael Cohen asks for leniency",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

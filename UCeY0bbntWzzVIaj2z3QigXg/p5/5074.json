@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mzgHU6_-dI4",
-            "title": "Stock Market Trading On The Big Board | NBC News (Live Stream Recording)",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "rQUmhEvq2zc",
             "title": "American Woman Accused Of Trying To Smuggle Infant Onto Flight | NBC Nightly News",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Full Pompeo: 'We have our eyes wide open' with Kim Jong Un | Meet The Press | NBC News",
             "secondDuration": 546,
             "group": "group_7"
+        },
+        {
+            "videoId": "9LjBaKBro5w",
+            "title": "Brutally Cold Weather Spreads Across The Country |  NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KW1L-KiIAD4",
-            "title": "Andrea Nappi: For student success it takes...\"",
-            "secondDuration": 12,
-            "group": "group_7"
-        },
-        {
             "videoId": "A1nTmNwaPP0",
             "title": "UK Authorities Charge Two With Using Nerve Agent To Poison Former Russian Spy | NBC Nightly News",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "President Trump: I’ve Convinced Hesitant GOPers To Vote ‘Yes’ On Health Care Bill | NBC News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZAyKQ1lV4B0",
+            "title": "Georgia Officials Explain Timeline Of McMichaels' Arrests In Ahmaud Arbery Killing | NBC News NOW",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

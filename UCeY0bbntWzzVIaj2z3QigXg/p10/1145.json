@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JXpLeCcOaXc",
-            "title": "Watch Protests Across The U.S. Over The Death Of George Floyd | NBC News NOW",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "UmBnKVywuR0",
             "title": "Police Use Of Force Sends Thousands To Emergency Rooms",
             "secondDuration": 192,
@@ -61,8 +55,14 @@
             "title": "Vietnamese Pay Tribute To Former POW John McCain | NBC News",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "J3sqYQEj3Os",
+            "title": "3 Babies Test Positive for Potentially Deadly Bacteria at Maryland Hospital | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

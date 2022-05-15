@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IozAW8en4fE",
-            "title": "Thousands of buried bones spark a new mystery at the Vatican",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "MjInDjpSkZs",
             "title": "Cuteness Cubed! Dogs With Square Haircuts Go Viral",
             "secondDuration": 96,
@@ -121,8 +115,14 @@
             "title": "Train Crashes Into a Car, Splitting It in Half",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "CHUugTf9bLs",
+            "title": "CDC panel to decide on Johnson & Johnson vaccine | WNT",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

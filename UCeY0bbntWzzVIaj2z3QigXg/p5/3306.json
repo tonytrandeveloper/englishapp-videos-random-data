@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nF-6pRzbLZY",
-            "title": "Woman Who Was Shot Inside Capitol Has Died According To Law Enforcement | NBC News",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "DMbu9w4pDXE",
             "title": "Greta Thunberg Blasts World Leaders’ Inaction On Climate Change | NBC News",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "What The Equifax Settlement Means For You — And Your Wallet | NBC Nightly News",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "wFZfSLiT-Zw",
+            "title": "Trump Hosts Rally During Impeachment Vote | NBC News (Live Stream Recording)",
+            "secondDuration": 8375,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

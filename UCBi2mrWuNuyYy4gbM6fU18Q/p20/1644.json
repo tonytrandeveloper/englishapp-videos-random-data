@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QbAlrQGw4-c",
-            "title": "A Louisiana critical care nurse facing the pandemic daily",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "gRrdSwhQhY0",
             "title": "Meteor Strikes Russia, Over 1,000 Believed Injured",
             "secondDuration": 270,
@@ -121,8 +115,14 @@
             "title": "Young woman's bound body discovered in suitcase",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "jE258e2krl4",
+            "title": "Attorney General grilled again over Mueller report",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "25kFVkwTs_M",
-            "title": "16-Year-Old Becomes Fourth Known Person to Survive Brain Amoeba in 50 Years | ABC News",
-            "secondDuration": 465,
-            "group": "group_7"
-        },
-        {
             "videoId": "v9lw__DoEcc",
             "title": "Mom describes how she survived 4 days lost in mountains",
             "secondDuration": 478,
@@ -121,8 +115,14 @@
             "title": "Ben Higgins Named The New \"Bachelor\" | ABC News",
             "secondDuration": 292,
             "group": "group_7"
+        },
+        {
+            "videoId": "hmMths89rTE",
+            "title": "Target tests expanding curbside services",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

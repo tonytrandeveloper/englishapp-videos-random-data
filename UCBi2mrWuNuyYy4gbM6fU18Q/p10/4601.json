@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-zbvlPFc2N0",
-            "title": "WEBCAST: Two U.S. Skiers Killed in Avalanche Accident",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "pPYXC39Z_Hg",
             "title": "'Dancing' Stars Rock Out",
             "secondDuration": 221,
@@ -61,8 +55,14 @@
             "title": "'Family Guy' - 'The Simpsons' Crossover Episode: Peter Griffin, Homer Simpson to Meet",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "paPNLwLH0ho",
+            "title": "The Rundown: Top headlines today: Jan. 20, 2022",
+            "secondDuration": 258,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4_0tvZp-Dcc",
-            "title": "NBC News Exclusive: Former Miami Police Chief Art Acevedo Speaks Out",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ob6m8cURqyk",
             "title": "Nightly News Full Broadcast - September 30th",
             "secondDuration": 1278,
@@ -31,8 +25,14 @@
             "title": "The Lingering Toll of January 6th On Police Officers",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "oTBjENMf-hM",
+            "title": "Hawaiian Emergency Worker Who Sent The Wrong Message Is Reassigned | NBC Nightly News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

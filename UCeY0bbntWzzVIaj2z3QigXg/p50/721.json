@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "1bT8uH5nTxc",
-            "title": "Biden Delivers Remarks On Keeping Students Safe In Classrooms | NBC News",
-            "secondDuration": 1305,
-            "group": "group_7"
-        },
-        {
             "videoId": "OXLAksmnHMo",
             "title": "Meet The Lawyer Going After Big-Pharma To Hold Opioid Manufacturers Accountable | NBC Nightly News",
             "secondDuration": 139,
@@ -301,8 +295,14 @@
             "title": "Hugh Hefner Shows Off The Original Playboy Mansion... In Chicago | NBC News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZIS-lGgdDm4",
+            "title": "Nurse Charged In The Death Of H.R. McMaster’s Father | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

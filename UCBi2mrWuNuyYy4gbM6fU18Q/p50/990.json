@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "VqPmU5aSwe4",
-            "title": "Unreleased CDC report details why Delta variant is dangerous than other COVID-19 variants | ABC News",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "tORXi4heyss",
             "title": "What Does Pandemic Alert Mean?",
             "secondDuration": 110,
@@ -301,8 +295,14 @@
             "title": "Turkey Failed Coup Leads to Chaos",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "ibaU2vRlpfY",
+            "title": "Democratic Frontrunners Square Off in Las Vegas | ABC News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

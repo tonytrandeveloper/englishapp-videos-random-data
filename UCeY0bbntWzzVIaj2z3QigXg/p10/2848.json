@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VhexJmzffTU",
-            "title": "NYC Mayor de Blasio Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3521,
-            "group": "group_7"
-        },
-        {
             "videoId": "B-yHStTyojA",
             "title": "Derek Chauvin Sentenced To 22 & A Half Years For Murder of George Floyd",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Democrats’ Closing Message: Health Care, Not Impeachment | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "BjMstRTUdtU",
+            "title": "Peaceful Protests Turn Violent In Ferguson | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

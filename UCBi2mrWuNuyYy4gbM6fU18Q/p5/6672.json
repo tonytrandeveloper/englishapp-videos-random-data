@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JPu2kK4zBVs",
-            "title": "TRAILER: ‘Guardians of the Amazon’ Documentary",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "7gNh-IhSNMM",
             "title": "The Debrief: Russia investigation, Venezuela crisis, dangerous cold front| ABC News",
             "secondDuration": 1419,
@@ -31,8 +25,14 @@
             "title": "7 counties in California ordered to close bars due to uptick in coronavirus cases",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "e6gaFHjXt_g",
+            "title": "'Employers need a plan' for tornado disaster: Workplace safety expert",
+            "secondDuration": 241,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

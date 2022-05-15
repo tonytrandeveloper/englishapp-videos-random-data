@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hWByX_HNqj8",
-            "title": "Public pushes back against COVID-19 safety measures",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "bb9cVx2GdM8",
             "title": "SKINNY: Vanity Fair's Best Dressed",
             "secondDuration": 211,
@@ -121,8 +115,14 @@
             "title": "Man on the moon 50 years later: Apollo 11 liftoff",
             "secondDuration": 288,
             "group": "group_7"
+        },
+        {
+            "videoId": "uhXbl132SAA",
+            "title": "Out of Control",
+            "secondDuration": 348,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

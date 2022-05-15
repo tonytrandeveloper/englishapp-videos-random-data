@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nL986Lzt2Fs",
-            "title": "Mark Zuckerberg Struggles To Answer If Facebook Is A ‘Neutral Public Forum’ | NBC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "hjFl2zHb8JY",
             "title": "Thousands Protest On Greek Island Lesbos After Migrant Camp Destroyed By Fire | NBC News NOW",
             "secondDuration": 75,
@@ -31,8 +25,14 @@
             "title": "Trump Accusers Share Stories, Senators Call For Congressional Investigation | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "btvgct_HASg",
+            "title": "Drones, Robots And More Safely Deliver Supplies During Coronavirus Crisis | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

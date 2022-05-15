@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gjKdDBNood4",
-            "title": "Trump speaks in Arizona as state faces risk of becoming coronavirus hotspot | Nightline",
-            "secondDuration": 602,
-            "group": "group_7"
-        },
-        {
             "videoId": "nQ1bNcgleQE",
             "title": "Defense Department May Be Wasting $125 Billion on Overhead",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "A Royal Baby Boy Has Arrived",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "nYlnBUAXoE0",
+            "title": "Kate Middleton, Princess Diana in First Speech",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

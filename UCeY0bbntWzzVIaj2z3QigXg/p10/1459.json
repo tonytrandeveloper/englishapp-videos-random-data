@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LZNNii2gcFc",
-            "title": "White House Holds Press Briefing: July 19 | NBC News",
-            "secondDuration": 2676,
-            "group": "group_7"
-        },
-        {
             "videoId": "bt1pL9p7KGk",
             "title": "Americans Tune In To Brett Kavanaugh Hearings | NBC Nightly News",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "An Inside Look Into So-Fi Stadium",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "-fkYP86h87c",
+            "title": "More Than 4 Months After Hurricane Maria, Puerto Rico’s Schools Still Suffering | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

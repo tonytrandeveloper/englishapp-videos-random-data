@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ebQq_JPf_GI",
-            "title": "Astrophysicist Dr. Hakeem Oluseyi pulled himself up through 'hope and hussle'",
-            "secondDuration": 462,
-            "group": "group_7"
-        },
-        {
             "videoId": "3SA94UfGalE",
             "title": "Consumer Watchdog: Trampoline Danger",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Seth Meyers Launches New 'Late Night' Show",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "kvZgZ86Okk0",
+            "title": "Adam Green: Obama has 'No Room for Compromise'",
+            "secondDuration": 633,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

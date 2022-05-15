@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s4__XtdrUWw",
-            "title": "Bald eagle seen soaring above Central Park",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "BXkZBAPhEvc",
             "title": "Peeping Tom Watching Teen Caught On Camera",
             "secondDuration": 24,
@@ -61,8 +55,14 @@
             "title": "WHO issues stark warning about omicron variant l GMA",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "3cTIAkj7fKc",
+            "title": "Joan Rivers In Critical Condition at a New York Hospital",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

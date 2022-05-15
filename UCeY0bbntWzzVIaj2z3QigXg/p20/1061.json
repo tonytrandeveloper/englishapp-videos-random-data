@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XoLLaPsWgOE",
-            "title": "Morning News NOW Full Broadcast - June 8 | NBC News NOW",
-            "secondDuration": 2913,
-            "group": "group_7"
-        },
-        {
             "videoId": "q__doNkOjE0",
             "title": "The Race to 2020 Starts Today: NBC News and MSNBC Launch Network-Wide Coverage Canvassing the Nation",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "Senator Kamala Harris Tells Voters She's A Fighter | NBC News Now",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "JjxiFAWP9So",
+            "title": "U.S Deaths Top 32,000 , Global Cases Over 2 Million | NBC Nightly News",
+            "secondDuration": 746,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

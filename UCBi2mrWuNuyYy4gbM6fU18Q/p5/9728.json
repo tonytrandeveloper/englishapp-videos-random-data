@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YQNiBj2LskE",
-            "title": "White House on Lockdown After Report of Shooting Nearby",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "FBcpoEFQLiI",
             "title": "Trump Settles Trump University Lawsuits",
             "secondDuration": 37,
@@ -31,8 +25,14 @@
             "title": "17-year-old becomes youngest to reportedly die from vaping | ABC News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "X3vK5qVNOWw",
+            "title": "Malala Yousafzai Speaks Out",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

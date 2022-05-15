@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "_yp7vAOrPFk",
-            "title": "Shock waves hit the economy as the number of COVID-19 cases soars in the US",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "AvbgWCGp93k",
             "title": "Plea deal falls apart for ex-officer involved in George Floyd’s death | WNT",
             "secondDuration": 288,
@@ -301,8 +295,14 @@
             "title": "1.8M Pounds of Ground Beef Recalled",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "1vN07BRdQUU",
+            "title": "Pope Francis is expelling the former archbishop of Washington, DC",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

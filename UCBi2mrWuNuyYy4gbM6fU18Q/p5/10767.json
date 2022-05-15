@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bJN0aKYk4Gg",
-            "title": "ABC News Update: Supreme Court strikes down part of ‘amateurism’ rules by NCAA",
-            "secondDuration": 814,
-            "group": "group_7"
-        },
-        {
             "videoId": "OPf4B7z7uAU",
             "title": "Dallas Shooting | Micah Xavier Johnson's Attack Plan",
             "secondDuration": 179,
@@ -31,8 +25,14 @@
             "title": "Ticker Tape Parade for World Cup-Winning U.S. Womened Soccer Stars",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "JxuNC-rmLVc",
+            "title": "Quick Fix: Juju Juggles Mad at Dad",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

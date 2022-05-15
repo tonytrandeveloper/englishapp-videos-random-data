@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Va8VB90Rln8",
-            "title": "ABC News Prime: 3 mil. US COVID-19 infections; Reopening schools debate;  AG Barr interview",
-            "secondDuration": 3648,
-            "group": "group_7"
-        },
-        {
             "videoId": "WLpNv1MxbG4",
             "title": "Texas lawmakers scuffle over sanctuary cities law",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Student found dead near Cornell University after attending off-campus frat party l ABC News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "5l9b4XE1ESA",
+            "title": "Ruth Bader Ginsburg released from hospital after having fever",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

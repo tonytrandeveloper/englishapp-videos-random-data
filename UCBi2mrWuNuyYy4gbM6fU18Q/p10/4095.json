@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "p7nunB8AK6U",
-            "title": "Liev Schreiber on 'Popcorn With Peter Travers'",
-            "secondDuration": 1353,
-            "group": "group_7"
-        },
-        {
             "videoId": "leCqKhnnmcQ",
             "title": "Texas residents rescued as Harvey dumps more rain | ABC News",
             "secondDuration": 171,
@@ -61,8 +55,14 @@
             "title": "Israel Launches 'Ground Phase' in Gaza Conflict",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "icqpri0-IoE",
+            "title": "7 minutes of terror: The Perseverance rover’s critical landing on Mars",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

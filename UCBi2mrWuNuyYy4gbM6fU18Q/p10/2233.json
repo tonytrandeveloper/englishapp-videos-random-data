@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kQXggaqbAUQ",
-            "title": "Watch Free: ABC News Live. America’s #1 Streaming News Service",
-            "secondDuration": 14,
-            "group": "group_7"
-        },
-        {
             "videoId": "X4FS7_mR4-Y",
             "title": "Paul Ryan Follows Ann Romney, Chris Christie at RNC",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Iran launches missiles at US forces hours after commander’s funeral",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "dFpjDLYSZdA",
+            "title": "Middle East on the Brink:  Gaza Celebrates",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8YElmtznDEU",
-            "title": "New security precautions in effect for holiday season",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "jGYcvurCFpo",
             "title": "'Lunchtime Lipo': Does This Speed Surgery Work?",
             "secondDuration": 464,
@@ -31,8 +25,14 @@
             "title": "ABC News Prime: Kim Potter convicted ; Search for COVID tests; Unseen damage from Kentucky tornadoes",
             "secondDuration": 3610,
             "group": "group_7"
+        },
+        {
+            "videoId": "G9QzVlFfiOQ",
+            "title": "ABC News Prime: COVID-19 crisis deepens; Latest on Biden transition; Package delivery delays",
+            "secondDuration": 3611,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

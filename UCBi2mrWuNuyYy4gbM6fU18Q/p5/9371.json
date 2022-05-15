@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yCy34HmIYkY",
-            "title": "Dominique Strauss-Kahn Case in Trouble, Will Rape Charges be Dropped?",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "KeXMXadUpGM",
             "title": "Apple Refuses FBI's Request to Hack San Bernardino Shooter's iPhone",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Intel Chief Dismayed over Information Leaks",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "XGHu3U-eR2E",
+            "title": "NYPD appoints 1st female commissioner",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

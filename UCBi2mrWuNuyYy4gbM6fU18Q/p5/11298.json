@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ds1JfZEk6ac",
-            "title": "World No. 1 retires from tennis at 25",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "JQvokR9ra70",
             "title": "Rap Helps Kids Learn and Keep Grades High",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Obama to Reveal Gun Control Proposal Today",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "FlIBBuSMEg8",
+            "title": "Cops Allegedly Hold Purse Parties to Catch Criminals",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

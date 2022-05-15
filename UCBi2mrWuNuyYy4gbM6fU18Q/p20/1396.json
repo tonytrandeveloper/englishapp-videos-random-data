@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DKSKwCqHAnI",
-            "title": "'Smokey and the Bandit's' Burt Reynolds dies at the age of 82",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "ic-G-JcRKzY",
             "title": "'This Week': Powerhouse Roundtable II",
             "secondDuration": 418,
@@ -121,8 +115,14 @@
             "title": "More than 800,000 dead from COVID-19 in US",
             "secondDuration": 244,
             "group": "group_7"
+        },
+        {
+            "videoId": "cgwBVPNVMV0",
+            "title": "Trump Tells Early Voters With 'Buyer's Remorse' to Change Their Ballots",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

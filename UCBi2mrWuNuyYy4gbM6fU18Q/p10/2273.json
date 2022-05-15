@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GLOYdbqD33g",
-            "title": "Mexico Travel Warning",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "UvwgISgnR9I",
             "title": "Zac Efron, Julianne Hough | 'Dirty Grandpa' Tie Scene",
             "secondDuration": 232,
@@ -61,8 +55,14 @@
             "title": "1989 Central Park jogger rape case causes frenzy in media",
             "secondDuration": 623,
             "group": "group_7"
+        },
+        {
+            "videoId": "r9jMZ7-pzCo",
+            "title": "Taylor Swift breaks political silence",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

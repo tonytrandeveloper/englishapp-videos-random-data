@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-XTS3DHDfvU",
-            "title": "Flash flooding hits towns from Texas to Pennsylvania",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "NjubqA_oOa0",
             "title": "Flames shoot out from car on the highway",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "Adele Recovers, Will Sing at Grammys",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "x7tyenuJQnk",
+            "title": "American Who Survived Brussels, Paris, & Boston Terror Attacks Speaks Out",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

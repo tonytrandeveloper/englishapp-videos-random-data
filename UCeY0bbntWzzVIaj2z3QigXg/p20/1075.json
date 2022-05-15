@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "K-xf5ofGEA4",
-            "title": "Meet the Press This Sunday: Rick Santorum, Governor's Brewer and Brown, plus Roundtable",
-            "secondDuration": 29,
-            "group": "group_7"
-        },
-        {
             "videoId": "OrFftV9Y3qY",
             "title": "Health Care Workers On Coronavirus Front Lines Join Protests Against Injustice  | NBC Nightly News",
             "secondDuration": 140,
@@ -121,8 +115,14 @@
             "title": "Senate Judiciary Committee Holds Hearing On Social Media Algorithms | NBC News NOW",
             "secondDuration": 325,
             "group": "group_7"
+        },
+        {
+            "videoId": "ilk0uq1FbJs",
+            "title": "Paris Terror Attacks:  As Many as 100 Dead as Violence Erupts Around City | NBC Nightly News",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

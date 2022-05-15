@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "oz3tiQ94TKk",
-            "title": "Prince Philip’s royal legacy",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "eWZFSEi1t0Y",
             "title": "Ex-NFL star claims bankruptcy nearly led him to murder",
             "secondDuration": 278,
@@ -301,8 +295,14 @@
             "title": "Clinton Foundation: Did Donors Get Special Access?",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "FRKe_dV5cdw",
+            "title": "1 person was killed as 2nd night of severe weather knocked out power across the south | ABC News",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

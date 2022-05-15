@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "snsdDb7KDkg",
-            "title": "Nov. 10, 1989: Celebration at the Berlin Wall",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "AzPMpJnsbJs",
             "title": "2012 Year in Review: Robin Roberts 10th Year on 'GMA', 'Gangnam Style,' Taylor Swift Concert",
             "secondDuration": 623,
@@ -31,8 +25,14 @@
             "title": "Why kids should stay in school despite surge in pediatric COVID infections",
             "secondDuration": 419,
             "group": "group_7"
+        },
+        {
+            "videoId": "gLCE2pi8ShM",
+            "title": "Trump and allies accused of blocking 20 investigations and 79 requests for documents",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

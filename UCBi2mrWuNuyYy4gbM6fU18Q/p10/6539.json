@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xWqYTKsr43I",
-            "title": "'Fight Tonight': Rare look at US defense against North Korea",
-            "secondDuration": 379,
-            "group": "group_7"
-        },
-        {
             "videoId": "vjOQyLvorh0",
             "title": "Doctor says airline targeted her due to race, curvy figure",
             "secondDuration": 228,
@@ -61,8 +55,14 @@
             "title": "Candidates Debate How to Raise Income for Middle Class Families",
             "secondDuration": 409,
             "group": "group_7"
+        },
+        {
+            "videoId": "5SYikFxQJRo",
+            "title": "Real Money: Cut Costs on Medical Expenses",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

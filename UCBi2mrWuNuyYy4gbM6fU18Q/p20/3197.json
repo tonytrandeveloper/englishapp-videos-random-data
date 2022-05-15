@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uXLHYNLJOHg",
-            "title": "The second Democratic debate, a new college admissions scandal and how to break bad habits",
-            "secondDuration": 1289,
-            "group": "group_7"
-        },
-        {
             "videoId": "vEg_Dj6yN7U",
             "title": "Malaysia Airlines Mystery: Satellites Spot Floating Objects",
             "secondDuration": 158,
@@ -121,8 +115,14 @@
             "title": "Wells Fargo CEO Forgoes $41M Amid Accounts Scandal",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "k3TuE4Sunms",
+            "title": "Omar Mateen | Orlando Nightclub Shooter",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

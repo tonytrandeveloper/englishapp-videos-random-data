@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z0m4-ngZrSw",
-            "title": "People of the Decade",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "dLpa2nPIMjg",
             "title": "Putin’s initial objectives have ‘failed miserably’: Retired Gen. Robert Abrams",
             "secondDuration": 336,
@@ -61,8 +55,14 @@
             "title": "Abandoned as babies, adults find clues in search for birth parents: Part 2",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "WrxAgkfIgkg",
+            "title": "The Briefing Room: US/Mexico border, Mueller report, Trump tax returns, climate change",
+            "secondDuration": 1356,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

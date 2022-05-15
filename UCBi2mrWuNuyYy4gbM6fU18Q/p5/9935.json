@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "upr8c9TQZFg",
-            "title": "Mysterious coronavirus kills 2, sickens dozens",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "E_vkkAVz7Ks",
             "title": "Manhunt on after deadly Barcelona attack",
             "secondDuration": 222,
@@ -31,8 +25,14 @@
             "title": "Omarosa Manigault Newman releases White House secret recording",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "1XOOXmM6nhI",
+            "title": "Undocumented immigrant is acquitted of murdering woman in San Francisco",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "khQf4mCzFqU",
-            "title": "Michael Brown Police Shooting: Police Chief Reveals New Details",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "mvIXaDRDIS0",
             "title": "Belarus protests, Sudan flooding, Tour de France; World in Photos, Aug. 31, 2020",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "Swept Away",
             "secondDuration": 255,
             "group": "group_7"
+        },
+        {
+            "videoId": "dvKhKL3-KAc",
+            "title": "WNN NFL Picks for Week 2",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

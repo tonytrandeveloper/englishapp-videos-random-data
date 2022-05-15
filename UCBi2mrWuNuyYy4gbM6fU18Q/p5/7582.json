@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "32MGH4FNVis",
-            "title": "Pentagon Enlists Teenage 'Geeks' for Cyber War",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "meDrVSNKL8A",
             "title": "Police officer found guilty in fatal 2015 shooting of black musician",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Chloe Zhao wins top Directors Guild Award",
             "secondDuration": 37,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZHi4It2aMTc",
+            "title": "Despite history, 'more than a ray of light' on North Korea: Top House Dem",
+            "secondDuration": 511,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

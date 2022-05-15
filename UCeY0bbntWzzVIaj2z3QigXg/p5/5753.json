@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PK5TmXFVmt0",
-            "title": "Ben Affleck Talks Gone Girl, Batman And More | NBC News",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "nG-DkYZTHa8",
             "title": "President Donald Trump Fires National Security Adviser John Bolton In Tweet | NBC Nightly News",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Giant Sinkhole Threatens House In Southeastern Mexico",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "hRYQPXCED7o",
+            "title": "White House Holds Press Briefing: September 22 | NBC News",
+            "secondDuration": 3105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

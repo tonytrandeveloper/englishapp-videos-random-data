@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pbHVpZTV03k",
-            "title": "Life Stories: Chef Martin Yan | NBC Asian America",
-            "secondDuration": 323,
-            "group": "group_7"
-        },
-        {
             "videoId": "hYit1eUheLE",
             "title": "HHS Secretary Azar Speaks Out On Slow Vaccine Rollout | NBC Nightly News",
             "secondDuration": 214,
@@ -121,8 +115,14 @@
             "title": "Mass Covid Vaccination Site Opens At Yankee Stadium | NBC News NOW",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wcrz29M5XYc",
+            "title": "Teen With Multiple Sclerosis Inspires Grads By Walking | NBC News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

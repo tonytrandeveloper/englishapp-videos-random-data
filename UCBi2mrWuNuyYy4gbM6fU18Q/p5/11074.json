@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nCgNSYeMvzw",
-            "title": "By the Numbers: The trial of Derek Chauvin",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "Dwxw-JO25y8",
             "title": "Historic agreement signed to normalize relations in Israel, UAE and Bahrain | WNT",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "More students quarantined due to school’s COVID-19 outbreak",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "V_243Goud7A",
+            "title": "Death toll in Haiti surpasses 1,400 after earthquake l GMA",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

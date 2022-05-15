@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qOVXbTh_DLA",
-            "title": "President Donald Trump: We've Done 'A Great Job' In Puerto Rico | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "JTtiFdYHEME",
             "title": "Soccer Star Megan Rapinoe Speaks To Frontline Workers At DNC | NBC News",
             "secondDuration": 255,
@@ -121,8 +115,14 @@
             "title": "Trump Awards Medal Of Honor To Soldier Who Rescued Hostages In Iraq | NBC News",
             "secondDuration": 868,
             "group": "group_7"
+        },
+        {
+            "videoId": "K_f8I5YyIIU",
+            "title": "National Guard Called In To Help Overwhelmed New Jersey Nursing Homes",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

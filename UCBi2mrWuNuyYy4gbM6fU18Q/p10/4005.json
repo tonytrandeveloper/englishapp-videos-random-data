@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "v7v_GPLTN7Q",
-            "title": "Donald Trump on 'Speechgate,' Plans For His RNC Address",
-            "secondDuration": 266,
-            "group": "group_7"
-        },
-        {
             "videoId": "h5eFFdhVeQA",
             "title": "Behind the scenes of big business Super Bowl ads",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "Tom McCarthy's Wife Is Not Going to be Happy When She Sees This",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "icrCWJoAmyo",
+            "title": "FBI Searches for Clues About DC Navy Yard Gunman",
+            "secondDuration": 490,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

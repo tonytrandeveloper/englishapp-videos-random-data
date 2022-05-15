@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "N-glsCZMTe8",
-            "title": "Chelsea Baker: One of Little League's Best Pitchers",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "X4Dr1b7lwts",
             "title": "Trump Protester Rushes Stage at Ohio Rally",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "North Carolina resident describes tree falling onto house",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "jiliMnZka9Q",
+            "title": "NYSE halts trading as stocks plummet on travel ban from Europe",
+            "secondDuration": 475,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

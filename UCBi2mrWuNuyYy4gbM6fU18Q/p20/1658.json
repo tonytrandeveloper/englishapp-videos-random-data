@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "v4bJgwCfNPI",
-            "title": "Amplified: David Bazan",
-            "secondDuration": 435,
-            "group": "group_7"
-        },
-        {
             "videoId": "b2bSc0QJi_o",
             "title": "Nationwide US Customs computer system malfunction causes airport chaos",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "Personalized Cancer Care",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "6BzJ7zXHGt4",
+            "title": "Clues to Getting the Best Shopping Deals",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

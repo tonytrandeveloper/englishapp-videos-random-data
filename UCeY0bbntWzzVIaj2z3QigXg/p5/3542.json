@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nQMXx6iO83Q",
-            "title": "Four Former Trump Aides Subpoenaed in Jan. 6 Capitol Riot Investigation",
-            "secondDuration": 322,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZGe646kBD6I",
             "title": "Biden Gives Remarks On Administrations Response To Recent Wildfires",
             "secondDuration": 802,
@@ -31,8 +25,14 @@
             "title": "Rush Limbaugh Reveals He Is Suffering From Advanced Lung Cancer | NBC Nightly News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y1V0tthVBMQ",
+            "title": "NYC First Responders Adjust To Heavy COVID-19 Demand | NBC News NOW",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

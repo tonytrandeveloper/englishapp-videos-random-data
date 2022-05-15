@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KxVtTtJCHqo",
-            "title": "Vladimir Putin: Hackers Don't Affect Election Results | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "FsP5OHpBYNM",
             "title": "Transit Systems Across The U.S. Honk For Workers | NBC News NOW",
             "secondDuration": 72,
@@ -31,8 +25,14 @@
             "title": "White House: Pres. Assad Would \"Pay A Heavy Price\" For Another Chemical Attack | NBC Nightly News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "0F0cj73MNUU",
+            "title": "Full Larry Summers: Covid, Stimulus, War Created ‘A Perfect Storm’ For Inflation",
+            "secondDuration": 512,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

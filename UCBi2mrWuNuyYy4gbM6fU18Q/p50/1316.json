@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "5RrdfnKB4hM",
-            "title": "4 dead after Capitol stormed by rioters",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "x9_PxDkhyOg",
             "title": "ABC News Prime: KBJ public hearing wraps; Biden travels to Brussels; Remembering Madeleine Albright",
             "secondDuration": 5471,
@@ -301,8 +295,14 @@
             "title": "Tweeting a Revolution in Tehran",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "5ZRQzN4qtkU",
+            "title": "'I think he almost walks on water': Ohio voter on Trump | ABC News",
+            "secondDuration": 563,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

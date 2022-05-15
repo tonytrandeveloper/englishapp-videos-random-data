@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GKcFQKn1F3k",
-            "title": "Attack on San Diego synagogue leaves 1 dead",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "A7rx8R_xKDg",
             "title": "Massachusetts Senate Candidate Elizabeth Warren: Remember What the Recklessness on Wall Street Did",
             "secondDuration": 172,
@@ -61,8 +55,14 @@
             "title": "Can France Bridge Cultural Divide Over Islam?",
             "secondDuration": 338,
             "group": "group_7"
+        },
+        {
+            "videoId": "htfhyg9rmAs",
+            "title": "Hostage situation unfolds at Synagogue near Fort Worth",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

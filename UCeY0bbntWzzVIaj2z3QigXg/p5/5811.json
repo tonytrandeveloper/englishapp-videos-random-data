@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "itX1RHf8bAM",
-            "title": "Students Share Their Thoughts Before Second Presidential Debate | NBC News",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "njIpAZRsRCI",
             "title": "North Dakota’s Native Americans Scramble To Comply With Voter ID Law | NBC News",
             "secondDuration": 246,
@@ -31,8 +25,14 @@
             "title": "Philadelphia Police Commissioner Apologizes For Starbucks Arrest: I Made It ‘Worse’ | NBC News",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "gJOC7ADbdPs",
+            "title": "New Zika Infections Trigger CDC Travel Warning for Miami Beach Area | NBC Nightly News",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

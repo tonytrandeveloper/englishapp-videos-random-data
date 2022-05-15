@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AxvzI_3TuEU",
-            "title": "Live: Trump Speaks At Campaign Rally In North Carolina | NBC News",
-            "secondDuration": 4604,
-            "group": "group_7"
-        },
-        {
             "videoId": "DEGHVxR5nwY",
             "title": "Last Classified Documents About JFK Assassination To Be Released | NBC Nightly News",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "Tim Kaine: More Stop-And-Frisk Would Be A Mistake | NBC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "fFL0QhqHlfs",
+            "title": "Damaging New Allegations About Sexual Misconduct At CBS News | NBC Nightly News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

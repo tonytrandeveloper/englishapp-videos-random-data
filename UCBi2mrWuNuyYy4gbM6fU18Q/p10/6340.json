@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g0PhihN_Gtg",
-            "title": "Dow dives again as stocks fall overseas",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "hbZJ0YdBVH4",
             "title": "Not-So-Special Star Wars Special",
             "secondDuration": 258,
@@ -61,8 +55,14 @@
             "title": "Pressure Mounts as Russian Troops Take Control of Crimea",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "LJ4ZuCPInrY",
+            "title": "One Night in Central Park l 20/20 l PART 4 | ABC News",
+            "secondDuration": 465,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

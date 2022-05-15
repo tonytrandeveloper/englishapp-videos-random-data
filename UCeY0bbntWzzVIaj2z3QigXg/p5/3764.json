@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V4Pv98SZQEU",
-            "title": "18,000 Students See ‘To Kill A Mockingbird’ At Madison Square Garden | NBC Nightly News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "CMh3dtgCnmA",
             "title": "U.S.-Iran Tensions Ripple Throughout Middle East | NBC News NOW",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "Timelapse: Hawaii Lava Flow Scorches Earth | NBC News",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "WMYTaJBKUts",
+            "title": "MSU Athletic Director Resigns To Give Survivors And University A Chance 'To Heal' | NBC News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

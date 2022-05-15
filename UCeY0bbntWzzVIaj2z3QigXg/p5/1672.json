@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2ct5uqBZHlM",
-            "title": "Pres. Trump Considering Revoking Security Clearances For Former Intel Officials | NBC Nightly News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "jisV8yJRc9w",
             "title": "Milwaukee Voters Want Targeted Relief For Black Community | NBC News NOW",
             "secondDuration": 284,
@@ -31,8 +25,14 @@
             "title": "Steven Sotloff Confirmed As ISIS Victim | NBC News",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "XgGSlRGYacw",
+            "title": "Live: New York Governor Andrew Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3448,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

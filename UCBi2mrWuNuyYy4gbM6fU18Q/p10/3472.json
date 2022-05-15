@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HwVEaaEdKFs",
-            "title": "Luke Bryan On Singing National Anthem at 2012 MLB All-Star Game",
-            "secondDuration": 286,
-            "group": "group_7"
-        },
-        {
             "videoId": "LiezX7daIBI",
             "title": "SPECIAL REPORT: At least 1 dead in Barcelona terror attack | ABC News",
             "secondDuration": 445,
@@ -61,8 +55,14 @@
             "title": "Dallas Police Ambush | Mayor Mike Rawlings Interview",
             "secondDuration": 274,
             "group": "group_7"
+        },
+        {
+            "videoId": "rE-_uUpp2W0",
+            "title": "Will Mishandled Evidence Affect Pistorius Verdict?",
+            "secondDuration": 235,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

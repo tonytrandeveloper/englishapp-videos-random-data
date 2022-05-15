@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KF46SFlAloM",
-            "title": "The House of Windsor Welcomes a New Royal",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jh_RpgTGe9E",
             "title": "Happy New Year! United Kingdom Celebrates Arrival of 2015",
             "secondDuration": 665,
@@ -121,8 +115,14 @@
             "title": "First Pair of 'Bionic Eyes' Glasses Helps People With Lost Vision",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "D5dnLyfYNyY",
+            "title": "Democratic congressman on supporting Trump",
+            "secondDuration": 465,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

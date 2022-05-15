@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "k3JSmN1JVyc",
-            "title": "Future of the GOP remains in question",
-            "secondDuration": 366,
-            "group": "group_7"
-        },
-        {
             "videoId": "mddqEttrkaA",
             "title": "Protests grow after grand jury decision in Breonna Taylor case l GMA",
             "secondDuration": 243,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Motorist Crashes Mustang On Golden Gate Bridge Walkway",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "B5bRmiO1vKg",
+            "title": "More than 400 Americans evacuated from Wuhan l ABC News",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9pIfRbLGrtA",
-            "title": "Horizon Air Plane Crashes After 'Unauthorized Takeoff' From Sea-Tac Airport | NBC News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "N0zgO7_RXLg",
             "title": "President Donald Trump Says Canceled North Korea Summit May Still Take Place | NBC Nightly News",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Robin Leach Dead, Hosted 'Lifestyles Of The Rich And Famous' | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "8-lwxneQ2Ws",
+            "title": "An Aquaponic Vertical Farm Grows In Brooklyn | Mach | NBC News",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

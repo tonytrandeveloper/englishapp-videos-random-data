@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lMu-KGp8Qq8",
-            "title": "Elephants Escape from St. Louis Circus",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "xducBSS0zwE",
             "title": "When Neighbors Fight Back",
             "secondDuration": 469,
@@ -31,8 +25,14 @@
             "title": "Friendly whales entertain tourists on a boat in California",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "RigHqF0ULf8",
+            "title": "The Impact of Peter Jennings: Five Years Later",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

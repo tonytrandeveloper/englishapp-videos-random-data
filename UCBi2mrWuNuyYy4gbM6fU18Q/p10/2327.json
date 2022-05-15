@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XnsD00Mo39E",
-            "title": "Equifax ex-CEO testifies about data breach on Capitol Hill",
-            "secondDuration": 10807,
-            "group": "group_7"
-        },
-        {
             "videoId": "2Ibl8IlbiQc",
             "title": "GOP Goes Full Steam Ahead to Iowa",
             "secondDuration": 385,
@@ -61,8 +55,14 @@
             "title": "The London Chocolate Party",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "MPhHuOimgNY",
+            "title": "Tornadoes and Storms Kill 1 in Mississippi, 2 in Louisiana",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

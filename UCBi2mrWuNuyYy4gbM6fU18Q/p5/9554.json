@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BLTsZ8ZN7Ms",
-            "title": "William Taylor delivers opening statement | ABC News",
-            "secondDuration": 2453,
-            "group": "group_7"
-        },
-        {
             "videoId": "t6rOe7m8BcM",
             "title": "NTSB recovers video of fatal Amtrak derailment in Montana l GMA",
             "secondDuration": 82,
@@ -31,8 +25,14 @@
             "title": "ABC News Prime: Chauvin trial - Day 8; Dominant COVID-19 strain in US; Interview with Andra Day",
             "secondDuration": 5259,
             "group": "group_7"
+        },
+        {
+            "videoId": "kixtro0rBOE",
+            "title": "Black fathers aim to set the record straight on negative stereotypes",
+            "secondDuration": 372,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

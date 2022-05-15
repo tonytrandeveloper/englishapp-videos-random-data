@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V9vjP2EjNWg",
-            "title": "ABC News Prime: Future of restaurants, San Francisco Mayor on reopening,  race for COVID-19 vaccine",
-            "secondDuration": 3624,
-            "group": "group_7"
-        },
-        {
             "videoId": "5TMGRLPGExc",
             "title": "The Rundown: Top headlines today: June 3, 2021",
             "secondDuration": 238,
@@ -31,8 +25,14 @@
             "title": "Swimming Athletes Continue Practice During Blizzard | ABC News",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "EeqF1EJ4Fds",
+            "title": "Speaker Paul Ryan responds to pulling the GOP healthcare bill",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

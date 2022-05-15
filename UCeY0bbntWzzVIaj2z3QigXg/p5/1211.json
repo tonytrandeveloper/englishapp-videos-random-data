@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D-56cAR6LM8",
-            "title": "7 Steps To A Better Life | Better | NBC News",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "HBvYBm2wJR0",
             "title": "Coronavirus: U.S. Death Toll Rises As More Cases Reported | NBC Nightly News",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "New TSA Record Set As Millions Travel Over Holiday Weekend",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "RjmewxG0X8E",
+            "title": "President Trump: Saudi Jamal Khashoggi Response 'Worst In The History Of Cover-Ups' | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

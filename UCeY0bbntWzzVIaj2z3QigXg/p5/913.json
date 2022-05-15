@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D16_LpAcanc",
-            "title": "McConnell Speaks Against Republicans Objecting To Electoral College Vote Count | NBC News",
-            "secondDuration": 529,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hjx7XgJM0sg",
             "title": "WATCH: Time-Lapse Video Shows Bobcat Fire Spread From Smoke To Wildfire | NBC News NOW",
             "secondDuration": 62,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Participates In Tax Reform Roundtable | NBC News",
             "secondDuration": 2689,
             "group": "group_7"
+        },
+        {
+            "videoId": "b9mo7rxhy4Y",
+            "title": "Representative John Dingell Passes Away At 92 | NBC News",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

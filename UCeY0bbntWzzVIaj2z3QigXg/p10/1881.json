@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "A06u46HW-v0",
-            "title": "Judge Terminates Conservatorship Over Britney Spears",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "lQGsr9HAQ2E",
             "title": "Texas Gov. Abbot Signs Controversial Elections Integrity Bill Into Law",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Watch First Responders Rescue North Carolina Residents From Flooding | NBC News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "x59CuRZa5IA",
+            "title": "Trump Rails Against Democrats At Louisiana Rally | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

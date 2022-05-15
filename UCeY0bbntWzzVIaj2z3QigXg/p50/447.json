@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "7Iq7xRgw4ow",
-            "title": "Hawaii’s Kilauea Volcano: Eruptions, Geysers, And Lava Streams Flowing Into The Ocean | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "EnXPu4gXxlI",
             "title": "Crown Prince On Jamal Khashoggi Killing: ‘A Heinous Crime That Cannot Be Justified’ | NBC News",
             "secondDuration": 96,
@@ -301,8 +295,14 @@
             "title": "No Charges For Police In Stephon Clark Killing | NBC Nightly News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "FAytVABXdpQ",
+            "title": "Democrats Debate Next Steps In Impeachment Debate | Meet The Press | NBC News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

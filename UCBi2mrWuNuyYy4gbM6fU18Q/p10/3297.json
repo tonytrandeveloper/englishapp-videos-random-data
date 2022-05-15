@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "e3DXNCkWTnc",
-            "title": "Bullied on the Bus: The Gift",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "twNaMXqnZkE",
             "title": "FACEBOOK WEBCAST",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "GOP pulls out of Jan. 6 select committee after Pelosi rejects appointments",
             "secondDuration": 1802,
             "group": "group_7"
+        },
+        {
+            "videoId": "EU28Ty_IF1k",
+            "title": "Dramatic dog rescue",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

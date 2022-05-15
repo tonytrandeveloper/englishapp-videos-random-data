@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0a1XBY1pBxY",
-            "title": "Highlighting John Madden's Career As A Sports Broadcaster, Video Game Icon",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "qgYcMinSub8",
             "title": "U.N. Chief: ‘I Will Never Forget The Horrifying Images Of Civilians Killed In Bucha’",
             "secondDuration": 70,
@@ -61,8 +55,14 @@
             "title": "Violent Clashes In Hong Kong Mar China’s National Day Celebrations | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "CXGR25neSEE",
+            "title": "Controversy After Fatal Police-Involved Shooting In Georgia | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

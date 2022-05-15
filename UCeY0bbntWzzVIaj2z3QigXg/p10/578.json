@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cJSXKFx5jZ4",
-            "title": "Search And Rescue Efforts Underway After Hurricane Sally | NBC Nightly News",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q4bwmzrNn1c",
             "title": "Federal Workers Protesting Across The Country Call For End Of Government Shutdown | NBC Nightly News",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "50 Years Later: Kent State Shooting | NBC Nightly News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jh2YskguW84",
+            "title": "Trump Stokes Divisions As The Pandemic Continues To Grow | Meet The Press | NBC News",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

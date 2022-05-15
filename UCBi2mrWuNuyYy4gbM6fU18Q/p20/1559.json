@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0aVlBIJkDQ0",
-            "title": "Airport security questions raised after man crashes plane near Seattle",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "fQ5aRHZ1zAs",
             "title": "What Makes Powerful Men Succumb to Temptation?",
             "secondDuration": 338,
@@ -121,8 +115,14 @@
             "title": "High-end complex in Nairobi under 'attack,' police say",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "1vqXWW0KPqg",
+            "title": "Third White House 'Crasher' Speaks Out",
+            "secondDuration": 714,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

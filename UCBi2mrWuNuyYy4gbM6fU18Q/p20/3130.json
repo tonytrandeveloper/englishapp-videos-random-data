@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Benrq5Yx_j4",
-            "title": "Funny Super Bowl 2012 Commercials",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "4V8J4dJMLXc",
             "title": "'The Wilds': A Safari in the Suburbs: Video of the Animal Conservation Center in Ohio",
             "secondDuration": 239,
@@ -121,8 +115,14 @@
             "title": "Airplane Collision Over Upstate New York; 3 Reportedly Dead",
             "secondDuration": 29,
             "group": "group_7"
+        },
+        {
+            "videoId": "5mA0liqWRyo",
+            "title": "‘We’re working toward’ avoiding war with Iran: Pompeo",
+            "secondDuration": 636,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

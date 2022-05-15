@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sdtrMzm3URk",
-            "title": "John Rood resigns at Trump’s request",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "uw13gu7t-tw",
             "title": "Sir Paul McCartney Hospitalized in Tokyo",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "FDA Crackdown on 'HGC Diet'",
             "secondDuration": 352,
             "group": "group_7"
+        },
+        {
+            "videoId": "tZUdxoZbKJY",
+            "title": "President Obama, Mitt Romney Joke at Al Smith Dinner",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

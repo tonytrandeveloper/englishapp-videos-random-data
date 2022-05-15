@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0oHOcuMlgHA",
-            "title": "Lester Holt Reflects On Where America Is Now, 20 Years After 9/11",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "r3bPkdJ2LS4",
             "title": "Syrian President Bashar al-Assad Calls Video Of Chemical Attack 'Fabrication' | NBC News",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "President Obama Makes Final Trip On Air Force 1 | NBC News",
             "secondDuration": 516,
             "group": "group_7"
+        },
+        {
+            "videoId": "DLo_-uX0OYk",
+            "title": "Inspiring America: Hometown Hero Turns Family Bar Into Safe Haven For Kids | NBC Nightly News",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

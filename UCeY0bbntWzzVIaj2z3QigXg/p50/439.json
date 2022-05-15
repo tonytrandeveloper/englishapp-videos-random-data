@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "uzDWp5CQifk",
-            "title": "What's Next For Policing in Minneapolis?",
-            "secondDuration": 308,
-            "group": "group_7"
-        },
-        {
             "videoId": "yXgoNuwdYYY",
             "title": "Members Of Congress Say Chauvin Verdict Was ‘Accountability But It’s Not Yet Justice' | NBC News NOW",
             "secondDuration": 99,
@@ -301,8 +295,14 @@
             "title": "Evacuations And Rising Waters In Paris After Relentless Rain | NBC Nightly News",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZmCFzTmPWjM",
+            "title": "Surfside Condo Collapse Death Toll Climbs To 94",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

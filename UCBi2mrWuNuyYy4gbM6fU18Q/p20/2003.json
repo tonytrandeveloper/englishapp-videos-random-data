@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "v7v_GPLTN7Q",
-            "title": "Donald Trump on 'Speechgate,' Plans For His RNC Address",
-            "secondDuration": 266,
-            "group": "group_7"
-        },
-        {
             "videoId": "h5eFFdhVeQA",
             "title": "Behind the scenes of big business Super Bowl ads",
             "secondDuration": 180,
@@ -121,8 +115,14 @@
             "title": "'Ghosting': New Way to Break Up Cuts Off All Contact",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "IJWxZUK3TDA",
+            "title": "Civilians killed, children struggling to breathe in alleged chemical attack in Syria",
+            "secondDuration": 496,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

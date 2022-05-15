@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "c7cxrjoHeDI",
-            "title": "Former SS Auschwitz Guard Apologizes at Trial in Germany",
-            "secondDuration": 37,
-            "group": "group_7"
-        },
-        {
             "videoId": "Brv-M081glY",
             "title": "Sotomayor Showdown",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "ISIS Militants May Have Used Chemical Weapons",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Y78THXhJew",
+            "title": "White House to end DACA in 6 months",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

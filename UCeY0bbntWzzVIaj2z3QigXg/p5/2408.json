@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-_u0MDh8SKI",
-            "title": "Charlottesville: One Year Later | NBC News",
-            "secondDuration": 2767,
-            "group": "group_7"
-        },
-        {
             "videoId": "99H4eyWCvOg",
             "title": "Arctic Search And Rescue | NBC News Now",
             "secondDuration": 295,
@@ -31,8 +25,14 @@
             "title": "Full Blinken: 'We Will Take Action' After Sept. 1 If ISIS-K Threatens Americans",
             "secondDuration": 649,
             "group": "group_7"
+        },
+        {
+            "videoId": "TwFCwDWXE6g",
+            "title": "Meet The Students Walking Out Of School To March For Climate Change Action | NBC News Now",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

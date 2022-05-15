@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BL-9-bJsKw8",
-            "title": "New York Explosion Video [Surveillance Footage]",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "OZmJ8M0-SWA",
             "title": "It’s A Boy!",
             "secondDuration": 184,
@@ -31,8 +25,14 @@
             "title": "Trump blasts Sen. Al Franken",
             "secondDuration": 204,
             "group": "group_7"
+        },
+        {
+            "videoId": "TA6blZJ6nVw",
+            "title": "At least 1M infected with coronavirus in the US l ABC News",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ib-nctJEtTk",
-            "title": "Dr. Francis Collins On Oxford Vaccine Trial Hold | NBC News NOW",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "QTrVQAvA_GU",
             "title": "Doanld Trump's Transition: Mitt Romney Considered For Sec. Of State, Source Says | NBC Nightly News",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "Senate Republicans Still Working To Jam Through A Health Care Bill | NBC Nightly News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "7ZuucJIpaSs",
+            "title": "Winner Of $768 Million Powerball Jackpot Comes Forward | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

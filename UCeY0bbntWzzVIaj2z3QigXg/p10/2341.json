@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D6PECTUMzjA",
-            "title": "Rex Tillerson Delivers Post-Firing Statement From The State Department | NBC News",
-            "secondDuration": 515,
-            "group": "group_7"
-        },
-        {
             "videoId": "FDq6l_4dQXA",
             "title": "Full Mnuchin: Call With Ukrainian President Should Be 'Confidential' | Meet The Press | NBC News",
             "secondDuration": 495,
@@ -61,8 +55,14 @@
             "title": "Is \"Lean In\" Useful? Hillary Clinton Explains | NBC News",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "MM1jZj9JqMw",
+            "title": "Can Anyone Trust Facebook As A Platform? | Think | NBC News",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7OgUf9BsHEk",
-            "title": "America's Budget Battle, Return From Government Shutdown: 'This Week' Powerhouse Roundtable",
-            "secondDuration": 610,
-            "group": "group_7"
-        },
-        {
             "videoId": "7F3KYwu2MNU",
             "title": "Clinton Responds to Trump's Economic Speech",
             "secondDuration": 187,
@@ -31,8 +25,14 @@
             "title": "War of words between LeBron James and Laura Ingraham",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "m8xIcLhcIZs",
+            "title": "The Dangers of Fainting",
+            "secondDuration": 310,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

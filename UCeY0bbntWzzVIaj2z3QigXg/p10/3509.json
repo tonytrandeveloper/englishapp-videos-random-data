@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zRdQZ03QIaE",
-            "title": "Biden Heads To Capitol Hill After Infrastructure Vote Delay",
-            "secondDuration": 206,
-            "group": "group_7"
-        },
-        {
             "videoId": "waAY6TyLDIk",
             "title": "Full Merkley: 'No Ethical Framework ... To Mistreat Children' | Meet The Press | NBC News",
             "secondDuration": 504,
@@ -61,8 +55,14 @@
             "title": "Top Story with Tom Llamas - April 14 | NBC News NOW",
             "secondDuration": 2960,
             "group": "group_7"
+        },
+        {
+            "videoId": "iZONSTz9pz4",
+            "title": "In Seattle, Alt-Right Rally Draws Counter Protest",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

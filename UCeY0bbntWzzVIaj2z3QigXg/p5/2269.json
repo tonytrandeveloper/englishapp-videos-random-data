@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "k0bK6Pz6fg0",
-            "title": "Why These Howard Students Have Been Sleeping Outside For 2+ Weeks",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "VE5nHR1NQxM",
             "title": "Top Story With Tom Llamas - Jan. 20 | NBC News NOW",
             "secondDuration": 3040,
@@ -31,8 +25,14 @@
             "title": "Stephen Bannon At CPAC: ‘We Never Had A Doubt’ About A Donald Trump Victory | NBC News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "RuaVuWoedPY",
+            "title": "DHS Fears Critical Flaw In Software Program Could Lead To Widespread Hacks",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

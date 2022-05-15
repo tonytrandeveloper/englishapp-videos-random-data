@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NyjI3HixbRU",
-            "title": "Attorney General Jeff Sessions resigns at Trump's request | ABC News special report",
-            "secondDuration": 1218,
-            "group": "group_7"
-        },
-        {
             "videoId": "_anhvdWf3DM",
             "title": "Doctor dragged off United Airlines flight says he 'cried' watching the video",
             "secondDuration": 245,
@@ -31,8 +25,14 @@
             "title": "Tyler Perry Live on 'GMA'",
             "secondDuration": 289,
             "group": "group_7"
+        },
+        {
+            "videoId": "rgiVTxecXRc",
+            "title": "Funnel cloud seen near New Orleans",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

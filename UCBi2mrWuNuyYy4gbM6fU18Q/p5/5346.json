@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qanOdP6oaMw",
-            "title": "Baltimore Train Derailment Video: Sudden Explosion Strikes Following Derailment",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sm4fZbkYG5Y",
             "title": "New York to ban sale of flavored e-cigarettes | ABC News",
             "secondDuration": 36,
@@ -31,8 +25,14 @@
             "title": "Oklahoma Murder Suspect Killed in Shootout",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "VqBd2bl0W6w",
+            "title": "Atlanta School Shooting Bookkeeper Interview: Alleged Gunman Said 'He Was Going to Die'",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

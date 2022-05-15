@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JCb1uImewuk",
-            "title": "Analysis: A look into the FBI probe of Kavanaugh",
-            "secondDuration": 223,
-            "group": "group_7"
-        },
-        {
             "videoId": "AIGC05x_Y6A",
             "title": "Target Boycott Petition Grows Over Transgender Bathroom Policy",
             "secondDuration": 81,
@@ -61,8 +55,14 @@
             "title": "Obama Birth Certificate: Arizona Sheriff Joe Arpaio Says It Could Be Forged",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "czlZZe0GCPs",
+            "title": "‘The Queen of Daytime’ shares how early diagnosis and intervention can save lives",
+            "secondDuration": 259,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8qBGSoVFi48",
-            "title": "ABC News Prime: Delta rages; Taliban gaining ground; conversation with Matthew Rhys",
-            "secondDuration": 5337,
-            "group": "group_7"
-        },
-        {
             "videoId": "0ODEGaJg5RU",
             "title": "The Rundown: Top headlines today: Oct. 21, 2021",
             "secondDuration": 269,
@@ -31,8 +25,14 @@
             "title": "Legendary Supermodel Beverly Johnson on her New Memoir",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "va81D3N5nfM",
+            "title": "NPR Photojournalist, Translator Killed in Attack in Afghanistan",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

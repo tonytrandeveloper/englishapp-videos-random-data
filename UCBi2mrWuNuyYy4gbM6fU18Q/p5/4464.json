@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "F5tCmDiXj38",
-            "title": "Emergency responders fight flames among Kharkiv rubble",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "3x7K1AND_cQ",
             "title": "Dangerous Winter Storms on the East Coast and Midwest",
             "secondDuration": 63,
@@ -31,8 +25,14 @@
             "title": "At least 364 civilians killed in Ukraine: UN",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "kQXggaqbAUQ",
+            "title": "Watch Free: ABC News Live. America’s #1 Streaming News Service",
+            "secondDuration": 14,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

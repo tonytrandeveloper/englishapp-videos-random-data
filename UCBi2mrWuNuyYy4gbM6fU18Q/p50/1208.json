@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "2CQLBd5nIqA",
-            "title": "Mike Pence elaborates on Trump's joint address",
-            "secondDuration": 291,
-            "group": "group_7"
-        },
-        {
             "videoId": "fkozUzFX-tM",
             "title": "Karen Gillan and John Cho Shed Light on 'Selfie'",
             "secondDuration": 150,
@@ -301,8 +295,14 @@
             "title": "Woman's affair turns into nightmare of cyber-stalking: Part 1",
             "secondDuration": 605,
             "group": "group_7"
+        },
+        {
+            "videoId": "zC9GYxrBZ2Q",
+            "title": "Kids crash their parent's teleconference call",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

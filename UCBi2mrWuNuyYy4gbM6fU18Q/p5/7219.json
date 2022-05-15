@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CqTOXPqrOjI",
-            "title": "$13 Trillion and Counting",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "EHXtvolGRqc",
             "title": "Ford Unveils the 2015 Mustang",
             "secondDuration": 231,
@@ -31,8 +25,14 @@
             "title": "What Heaven Looks Like",
             "secondDuration": 608,
             "group": "group_7"
+        },
+        {
+            "videoId": "x0iUX__rAtA",
+            "title": "Private Thoughts of Martin Luther King Jr.",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

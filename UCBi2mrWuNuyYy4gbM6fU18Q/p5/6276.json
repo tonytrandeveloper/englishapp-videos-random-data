@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2B_XqN0vjMU",
-            "title": "64-Year-Old Diana Nyad Swims From Cuba to Florida",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "1xYs2Kx31bk",
             "title": "Joe Biden responds to President Trump's attacks",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Young Woman Gets Accepted to All 8 Ivy League Schools",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "wswqfnEejKs",
+            "title": "Lights Illuminate Bay Bridge in San Francisco",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

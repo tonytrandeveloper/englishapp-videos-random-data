@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "eFe7h_c0vUU",
-            "title": "Watch Live: President Donald Trump Signs Executive Order On Veteran Suicide Prevention | NBC News",
-            "secondDuration": 2504,
-            "group": "group_7"
-        },
-        {
             "videoId": "nmdzSvlWwWg",
             "title": "Jeffrey Epstein Settles Suit, Apologizes | NBC Nightly News",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "Florida School Shooting: Video Shows Students Hiding In Classroom While Gunshots Blast | NBC News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "hzU5h7uJfyA",
+            "title": "Trump Calls Mueller Report 'Complete And Total Exoneration' | NBC Nightly News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fwttLVksykc",
-            "title": "Russian missiles hit Lviv for 1st time",
-            "secondDuration": 487,
-            "group": "group_7"
-        },
-        {
             "videoId": "dDjHydg06l8",
             "title": "FBI Investigate Border Patrol Shooting; Agent Allegedly Kills Mother of 5",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "Wells Fargo CEO Forgoes $41M Amid Accounts Scandal",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "k3TuE4Sunms",
+            "title": "Omar Mateen | Orlando Nightclub Shooter",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

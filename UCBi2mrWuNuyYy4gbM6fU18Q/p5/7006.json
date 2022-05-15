@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L3HId-z1oeo",
-            "title": "New data shows that nearly 1 million children tested positive for COVID-19 last week | ABC News",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "HD0LD6UOvcQ",
             "title": "COVID cases surge in South Africa after omicron discovery l GMA",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Trump continues to attack FBI deputy director on Twitter",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "o7T7GYl0xvg",
+            "title": "Tuscaloosa, Alabama Terrorized by Tornadoes, Hundreds Dead",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

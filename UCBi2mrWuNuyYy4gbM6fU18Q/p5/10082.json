@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vIVIcj4gYXA",
-            "title": "New York Senator Kirsten Gillibrand announces 2020 presidential run",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "TRv4qLaNnyc",
             "title": "Slow-motion footage captures dramatic lightning display over Kansas",
             "secondDuration": 55,
@@ -31,8 +25,14 @@
             "title": "Anthony Weiner pleads guilty to federal obscenity charge",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "WbfUjotYmUo",
+            "title": "Trump Hopes Russia Finds Clinton's Deleted Emails",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

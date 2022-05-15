@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "egqgi16coPI",
-            "title": "Snowstorm Moves Through Midwest",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "3bHQUhuoh3w",
             "title": "Remembering Phil Everly",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "'Mrs. Doubtfire' Movie Teaches Young Girl to Save Lives",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "T6bjC8R2pUw",
+            "title": "State of emergency declared in New York City over coronavirus",
+            "secondDuration": 388,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

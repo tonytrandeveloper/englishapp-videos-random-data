@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PmIrqrE2pzg",
-            "title": "Pint-Size Pool Player",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "yU4ntgNY9OY",
             "title": "Massive Texas Explosion: Fatalities Confirmed",
             "secondDuration": 360,
@@ -121,8 +115,14 @@
             "title": "Grammys 2011, Esperanza Spalding, The Jazz Singer Wins 2/18/2011",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "yhetETtp7mk",
+            "title": "Best in TV: Best Non-Human Character",
+            "secondDuration": 407,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

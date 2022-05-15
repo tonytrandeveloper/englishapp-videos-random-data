@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AG5SueiQ0eM",
-            "title": "Pope Francis Makes Surprise Appearance At TED Talk | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "KU2P4REtnd4",
             "title": "Syria Unrest: What Comes After The Cease-Fire | NBC News Now",
             "secondDuration": 158,
@@ -121,8 +115,14 @@
             "title": "Trump and Coronavirus Task Force Brief From White House | NBC News (Live Stream)",
             "secondDuration": 5813,
             "group": "group_7"
+        },
+        {
+            "videoId": "SZqvlP4Y4Co",
+            "title": "Get Healthy: Exercise | NBC Learn",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

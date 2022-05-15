@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CYV9KSuMUoQ",
-            "title": "Dunkin' Donuts to Expand on West Coast; World News Instant Index",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "sBHJL_splYg",
             "title": "Linda Ronstadt on Parkinson's Diagnosis: Life Is 'Different'",
             "secondDuration": 352,
@@ -31,8 +25,14 @@
             "title": "Hurricane Irene: Riding Into the Eye with Storm Chasers",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "2trHbtzWAGg",
+            "title": "Rudy Giuliani Defends Donald Trump",
+            "secondDuration": 485,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

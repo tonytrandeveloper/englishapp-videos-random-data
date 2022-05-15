@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nh4orFgt0mc",
-            "title": "Trump's Security Slams Photographer To the Ground | ABC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "LUH_cX9tJOU",
             "title": "Pilot Cop Nabs Suspect",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "Choir sings 'The Star-Spangled Banner' at 2020 DNC",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "ven4pjNRZTE",
+            "title": "Latest on Trump’s 2nd impeachment trial",
+            "secondDuration": 424,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

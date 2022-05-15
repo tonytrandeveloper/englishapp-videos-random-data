@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_PxTeuLVIF0",
-            "title": "Florida Students Stage Walkout From High School | NBC News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "tcAf94Nn-ao",
             "title": "FAA Investigating Near Collision At Chicago Airport | NBC Nightly News",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "Into the End of the $600 Unemployment Check | Into America Podcast – Ep. 53 | NBC News and MSNBC",
             "secondDuration": 1496,
             "group": "group_7"
+        },
+        {
+            "videoId": "bSMogTE5m0Q",
+            "title": "NOW Tonight with Joshua Johnson - April 14 | NBC News NOW",
+            "secondDuration": 3107,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

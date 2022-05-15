@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZyfW0mqpoxo",
-            "title": "Michael Cohen reports to prison",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "jCvBFnxoc6Q",
             "title": "'Hora Cero': Venezuela's crisis through a mother's eyes",
             "secondDuration": 928,
@@ -31,8 +25,14 @@
             "title": "Matt Lauer fired for alleged 'inappropriate sexual behavior in the workplace'",
             "secondDuration": 650,
             "group": "group_7"
+        },
+        {
+            "videoId": "de3H_KwxsJA",
+            "title": "American Athletes Arrive in Sochi Amid Terror Fears",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

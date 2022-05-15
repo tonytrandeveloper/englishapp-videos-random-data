@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4EGse4f1JlI",
-            "title": "London landmarks lit in blue as residents across UK applaud health care workers | ABC News",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "z2qZg5cxzBE",
             "title": "Historic vote on reparations for Black Americans in California | ABCNL",
             "secondDuration": 318,
@@ -61,8 +55,14 @@
             "title": "Top Ten Toys of the Year",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "0PEfO__QY84",
+            "title": "'Jeopardy's' Alex Trebek on stage 4 cancer diagnosis: 'I'm fighting through it'",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

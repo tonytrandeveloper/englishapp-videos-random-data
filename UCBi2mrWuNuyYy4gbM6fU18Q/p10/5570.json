@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RqcDb8XXdD8",
-            "title": "By the Numbers: Climate change’s impact on hurricanes l ABCNL",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "RPfhMIaBDsg",
             "title": "Super Tuesday: Rick Santorum Wins Tennessee, Oklahoma",
             "secondDuration": 345,
@@ -61,8 +55,14 @@
             "title": "Cancer Doctor Accused of Trying to Poison Her Lover",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "aEGEnbOndJk",
+            "title": "Feel-good Friday",
+            "secondDuration": 385,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

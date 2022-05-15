@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CQR4ltPEO7Q",
-            "title": "Texas Love Triangle | 20/20 PART 5",
-            "secondDuration": 449,
-            "group": "group_7"
-        },
-        {
             "videoId": "BMR0irwxSkc",
             "title": "FIU bridge collapse live coverage: Several killed in pedestrian bridge accident | ABC News",
             "secondDuration": 26069,
@@ -31,8 +25,14 @@
             "title": "The Chainsmokers | Inside the Studio with Alex Pall, Drew Taggart",
             "secondDuration": 366,
             "group": "group_7"
+        },
+        {
+            "videoId": "PPLlRmOpH_Y",
+            "title": "From Good Life to Burning Bed",
+            "secondDuration": 403,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

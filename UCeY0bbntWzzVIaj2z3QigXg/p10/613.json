@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AD2kBy3pf3c",
-            "title": "President-Elect Biden Speaks After Electoral College Vote | NBC News NOW",
-            "secondDuration": 821,
-            "group": "group_7"
-        },
-        {
             "videoId": "Frxw1IhD6rw",
             "title": "This Morning’s Top Headlines – October 26 | Morning News NOW",
             "secondDuration": 1373,
@@ -61,8 +55,14 @@
             "title": "Washington’s NFL Team Retires Name Widely Viewed As Anti-Indigenous Slur | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "Lon1vRv2wQ8",
+            "title": "Are Driverless Trucks The Future Of Shipping? Inside Waymo’s New Test Program",
+            "secondDuration": 293,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

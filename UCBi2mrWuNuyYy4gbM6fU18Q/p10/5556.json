@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wpOe4zmWzm4",
-            "title": "Federal prosecutors are looking into blackmail claims by Jeff Bezos",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "LJWQG7Mj8ek",
             "title": "Mom's Claims That Son Had Cancer Were False",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "Did CIA Have A Double Agent Inside Al Qaeda?",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "pkv9l0SHncc",
+            "title": "ABC News exclusive: Ukraine-Russia negotiation analysis",
+            "secondDuration": 393,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

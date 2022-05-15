@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "guqh3opgQPU",
-            "title": "Snow And Record Breaking Cold In The South | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "K6glyw3738E",
             "title": "Protesters Flood The Streets Of Najaf After Iraqi Prime Minister Resigns | NBC News",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Deadly Belgian Shooting Investigated As A Terrorist Attack | NBC News",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "g8P-gHHEpXo",
+            "title": "Trump Criticizes Birx Over Her Response To Pelosi Criticism, Coronavirus Warning | NBC Nightly News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

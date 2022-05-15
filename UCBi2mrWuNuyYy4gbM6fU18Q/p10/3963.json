@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KKToTIvK46A",
-            "title": "American Airlines Grounds Half of 757 Fleet, FAA Conducts Monitored Fixes",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "cfIBm56NzTA",
             "title": "Clean water emergency in Jackson, Mississippi | WNT",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "Breaking down booster shot options after FDA panel’s latest recommendation",
             "secondDuration": 547,
             "group": "group_7"
+        },
+        {
+            "videoId": "tZidtJfVZ74",
+            "title": "Former Ukraine ambassador says Putin may still decide not to invade Ukraine",
+            "secondDuration": 668,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

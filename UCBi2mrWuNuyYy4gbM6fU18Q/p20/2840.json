@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LxN9IhaV0TE",
-            "title": "Danger hiding on your Android device",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "b1Bf2j5xo-M",
             "title": "Oprah Bids Farewell To Chicago",
             "secondDuration": 200,
@@ -121,8 +115,14 @@
             "title": "Hamilton Star Lin Manuel Miranda Performs Final Show",
             "secondDuration": 39,
             "group": "group_7"
+        },
+        {
+            "videoId": "CwFC_-czUgY",
+            "title": "Roger Stone out on $250,000 bond with travel restricted by judge",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

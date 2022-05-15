@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wU_Q9jpuLlE",
-            "title": "World News Now: Songs of the Season",
-            "secondDuration": 213,
-            "group": "group_7"
-        },
-        {
             "videoId": "6w8bur2pjPU",
             "title": "Skydiver’s Mid-Air Seizure: Caught on Camera",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Poll: Economic Outlook Bleak",
             "secondDuration": 334,
             "group": "group_7"
+        },
+        {
+            "videoId": "SaUnbCk53xI",
+            "title": "What to expect over Memorial Day travel rush",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

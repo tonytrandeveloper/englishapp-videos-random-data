@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-e4JdZZOzBE",
-            "title": "Matthew McConaughey Talks 'Interstellar'",
-            "secondDuration": 295,
-            "group": "group_7"
-        },
-        {
             "videoId": "vbxY7nLw1us",
             "title": "Saving sequoias from wildfires driven by climate change",
             "secondDuration": 377,
@@ -301,8 +295,14 @@
             "title": "Increase in border crossings is 'alarming': White House homeland security adviser",
             "secondDuration": 755,
             "group": "group_7"
+        },
+        {
+            "videoId": "qZuVMgTS_tY",
+            "title": "Hair Dye Risk: January Jones Says Hair Loss Due to Frequent Dying",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

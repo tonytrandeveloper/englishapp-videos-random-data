@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "khJlv5ieaBI",
-            "title": "Joe Biden announces 2020 run",
-            "secondDuration": 295,
-            "group": "group_7"
-        },
-        {
             "videoId": "tAM6e1LcD30",
             "title": "Attorney General Jeff Sessions says he will stay in his job",
             "secondDuration": 211,
@@ -121,8 +115,14 @@
             "title": "Skydiving Grandma Talks About Her Scary Leap",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "bL5LbiaudsU",
+            "title": "Webcast: Whitney Houston Coroner Report",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

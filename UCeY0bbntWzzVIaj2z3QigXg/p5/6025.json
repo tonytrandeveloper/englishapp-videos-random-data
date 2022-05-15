@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZPi_crUD9pk",
-            "title": "Donald Trump Knocks Paul Ryan For Not Congratulating Him On Debate | NBC News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "hVEoJll8-s8",
             "title": "What Happens When ICE Separates A Mother From Her Children | NBC News",
             "secondDuration": 609,
@@ -31,8 +25,14 @@
             "title": "Auschwitz Survivors Return To Nazi Death Camp To Mourn And To Warn | NBC Nightly News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "VUoO_DQzct4",
+            "title": "North Carolina Judges Reject Gerrymandered District Maps | NBC News Now",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

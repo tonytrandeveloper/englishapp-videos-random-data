@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CwpbZqSdzb4",
-            "title": "ABC News Exclusive: 'Baby Roe' breaks her silence",
-            "secondDuration": 796,
-            "group": "group_7"
-        },
-        {
             "videoId": "hHJj_yve4Y4",
             "title": "NYC Bombing Investigation | FBI Identifies 2 Men Linked",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "10 dead after cliff falls onto boats in Brazil",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "u5SmSPEpW04",
+            "title": "Storms move east as more than 50 twisters are reported in 8 states",
+            "secondDuration": 306,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

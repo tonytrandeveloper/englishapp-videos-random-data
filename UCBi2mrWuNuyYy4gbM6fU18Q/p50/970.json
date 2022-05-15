@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "SHqTQWTtMgY",
-            "title": "Special prosecutor to investigate Michigan State",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "U_snbmcsoec",
             "title": "Tom Brady is back",
             "secondDuration": 178,
@@ -301,8 +295,14 @@
             "title": "Angelina Jolie Says Sometimes It's \"Fine to Get Dirty and Tough\"",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "FjRd0i6CsYg",
+            "title": "Son, Dad and Seahawks",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

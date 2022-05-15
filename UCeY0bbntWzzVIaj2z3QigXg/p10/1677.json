@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ykpGzAi8qqk",
-            "title": "Changemakers: Women Of Color In STEM | Nightly News Films",
-            "secondDuration": 553,
-            "group": "group_7"
-        },
-        {
             "videoId": "t6nIylCcaXw",
             "title": "Richard Branson Beats Jeff Bezos In Billionaire Space Race",
             "secondDuration": 263,
@@ -61,8 +55,14 @@
             "title": "Chicago Gun Violence: How Some Teens Are Learning To Save Lives | NBC News",
             "secondDuration": 844,
             "group": "group_7"
+        },
+        {
+            "videoId": "p6zrMB94wY0",
+            "title": "Covid Cases Rising As Families Prepare To Gather For Thanksgiving",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

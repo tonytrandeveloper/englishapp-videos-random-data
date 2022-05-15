@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AQyBvVuHXqo",
-            "title": "Trump Defends Dismissal Of White House Aide Who Testified In Impeachment Inquiry | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "8BImLhnLh7o",
             "title": "Three Republican Senators Trigger Collapse Of Health Care Effort | NBC Nightly News",
             "secondDuration": 128,
@@ -121,8 +115,14 @@
             "title": "What To Expect From A Category 4 Hurricane | 101 | NBC News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z53iTIBTdpk",
+            "title": "Oklahoma City Bombing | Flashback | NBC News",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

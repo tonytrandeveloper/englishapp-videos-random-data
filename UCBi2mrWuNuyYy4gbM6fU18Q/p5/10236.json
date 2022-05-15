@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I8vYd8wKkvo",
-            "title": "Pennsylvania officials give update on 2020 election",
-            "secondDuration": 1016,
-            "group": "group_7"
-        },
-        {
             "videoId": "peucx8H-x1Q",
             "title": "Kamala Harris compares Donald Trump to 'little man' in 'Wizard of Oz'",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Charleston Church Shooting: Reflecting on How 'We Endure'",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "UT5-NPReDMY",
+            "title": "Hillary Clinton on Trump 'Crooked Hillary' Nickname",
+            "secondDuration": 711,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

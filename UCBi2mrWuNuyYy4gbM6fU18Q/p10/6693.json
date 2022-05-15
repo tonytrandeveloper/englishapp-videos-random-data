@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "A95y_WozdOM",
-            "title": "Michelle Obama on Helping Military Families",
-            "secondDuration": 275,
-            "group": "group_7"
-        },
-        {
             "videoId": "d9PX2s0sc9s",
             "title": "The Conversation: Who is Captain Awesome",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "Trump Inaugural Balls: All the Highlights",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "r9x-5i-gCQc",
+            "title": "10-year-old takes police on high-speed chase",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

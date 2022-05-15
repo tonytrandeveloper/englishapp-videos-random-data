@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KKcN74j3p90",
-            "title": "ABC News Exclusive:  Chris Christie Responds to the Bridge Scandal",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "6dofUUCwhvI",
             "title": "What are the telltale signs of heart disease?",
             "secondDuration": 315,
@@ -121,8 +115,14 @@
             "title": "2 explosions kill at least 10 in St. Petersburg",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "bRDn92wOJPE",
+            "title": "Nigella Lawson's Legal Nightmares",
+            "secondDuration": 435,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

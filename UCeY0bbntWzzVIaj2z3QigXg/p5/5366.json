@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tcC1JSEssfE",
-            "title": "Devin Nunes: Trump Communications ‘Incidentally’ Collected By Intelligence Agencies | NBC News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "0QdhsyXpJT4",
             "title": "Florida Hospitals Near Breaking Point As Covid Surges",
             "secondDuration": 79,
@@ -31,8 +25,14 @@
             "title": "WATCH: Florida Man Captures Alligator In Trash Bin",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "AzCXmqM6fBo",
+            "title": "FCC Regulator Imposing Record Fines For Those Annoying Robocalls | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

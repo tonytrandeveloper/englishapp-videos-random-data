@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-GSmarowt_M",
-            "title": "WEBCAST: Bundle of Joy",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "jPpawym-JhA",
             "title": "Astronaut Love-Triangle Victim Speaks Out (02.18.11)",
             "secondDuration": 175,
@@ -31,8 +25,14 @@
             "title": "Ben Stiller Stars With Naomi Watts in 'While We're Young'",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "5IeuDq5UKXM",
+            "title": "Projected election results: New Mexico and Idaho",
+            "secondDuration": 33,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

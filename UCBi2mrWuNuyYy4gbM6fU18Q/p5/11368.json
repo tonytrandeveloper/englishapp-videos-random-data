@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xpah7lCI0vc",
-            "title": "Newly released video shows fatal attack on U.S. tourist in Greece",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "zvqT_XpNQR8",
             "title": "Russian woman accused of poisoning cheesecake in alleged attempt to kill a lookalike",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "LA Wildfire: 3 Suspects Arrested",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "RCghlyciP_Y",
+            "title": "Queen Elizabeth marks 70-year reign",
+            "secondDuration": 292,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

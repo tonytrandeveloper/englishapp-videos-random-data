@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "08mUGGhPwEo",
-            "title": "July 4th Holiday Weekend Weather: What You Need to Know",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "SScDf_40E3o",
             "title": "Derek Jeter's Final All Star Game",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "What can we do to get more Americans vaccinated?",
             "secondDuration": 354,
             "group": "group_7"
+        },
+        {
+            "videoId": "MVWmhtc8fnQ",
+            "title": "American Airlines Plane Grounded in Tampa After Reports of Smoke in the Cockpit",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

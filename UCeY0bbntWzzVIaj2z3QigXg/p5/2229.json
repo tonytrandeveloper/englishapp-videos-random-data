@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mMXMqxvBMWQ",
-            "title": "Dr. Fauci Warns Against Declaring ‘Victory Prematurely’ On Covid-19",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "uUuv27qiFKE",
             "title": "Still No Evidence For Pres. Donald Trump’s Accusations Against Pres. Barack Obama | NBC Nightly News",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Harris, With Prompt From Moderators, Renews Attack On Biden Over Busing | NBC News",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "kinCPYcmWLY",
+            "title": "Airline Passenger Arrested After Allegedly Trying To Open Exit Door",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

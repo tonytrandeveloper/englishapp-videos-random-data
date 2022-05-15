@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8_p8X3mSy8E",
-            "title": "Instant Index: Self-Cleaning Car of the Future",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "GOSNaIi8I70",
             "title": "Senate Majority Leader speaks out on Ginsburg’s vacancy | WNT",
             "secondDuration": 71,
@@ -61,8 +55,14 @@
             "title": "Growing calls for President Trump’s removal comes from both sides",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "11VaRm23-io",
+            "title": "Concertgoers breach airport fence fleeing Las Vegas shooting",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

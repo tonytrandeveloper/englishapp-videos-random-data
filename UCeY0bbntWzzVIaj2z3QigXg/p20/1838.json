@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-nx_IS0_Fb4",
-            "title": "President Donald Trump Denies He Ordered Micheal Cohen To Break The Law | NBC Nightly News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "r-QobkslCFs",
             "title": "Donald Trump, Mike Pence Meet With Paul Ryan On Capitol Hill | NBC News",
             "secondDuration": 117,
@@ -121,8 +115,14 @@
             "title": "Poroshenko : ‘Please, Get Out From Ukraine, Mr. Putin’ | NBC News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "M0zkX5KO6Fs",
+            "title": "Ukrainian Family Reunites With Relatives In U.S.",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

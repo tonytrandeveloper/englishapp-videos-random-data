@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ske9LerkhUc",
-            "title": "Donald Trump Tells Protester 'Go Home To Mommy' | NBC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "YwR4UnGzLhQ",
             "title": "The Toll Of Racism On Black Americans' Physical And Mental Health | NBC Nightly News",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Record-Breaking Unemployment Numbers Exclude People Locked Out Of The System | NBC News",
             "secondDuration": 402,
             "group": "group_7"
+        },
+        {
+            "videoId": "TNBSt7masaM",
+            "title": "These Puppets Prove 2016 Presidential Election Is A Huge Joke | NBC News",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

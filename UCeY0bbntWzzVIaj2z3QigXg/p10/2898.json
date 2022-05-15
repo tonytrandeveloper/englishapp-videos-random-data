@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NI6Z1rZkEro",
-            "title": "Federal Authorities Foil Homemade Bomb In Plot To Attack North Carolina Airport | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "iw_gZq0MpmE",
             "title": "Record-Breaking Snowstorm In Pennsylvania Declared Disaster Emergency | NBC Nightly News",
             "secondDuration": 168,
@@ -61,8 +55,14 @@
             "title": "Behind The Accidental Discovery Helping Coral Grow In Record Time | NBC Nightly News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "IZ3VIXyvRH4",
+            "title": "‘Shawshank Redemption’ Director Talks Film’s Enduring Appeal: Extended Interview | NBC Nightly News",
+            "secondDuration": 591,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

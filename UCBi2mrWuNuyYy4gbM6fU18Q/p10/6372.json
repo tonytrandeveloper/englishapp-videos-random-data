@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r1c2kHT351k",
-            "title": "Shark Attack in Cape Cod: Man Bitten at Crowded Beach",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "ixWqDg02ROE",
             "title": "New election ordered in NC after fraud allegations",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "Trump to take questions from uncommitted voters in ABC News town hall l GMA",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "aWxFVkSAo7A",
+            "title": "Rocket explodes near US embassy in Iraq",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

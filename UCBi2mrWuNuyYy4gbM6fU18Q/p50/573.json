@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "BjVOtwIjiVk",
-            "title": "First Confirmed Case of Ebola in The United States",
-            "secondDuration": 262,
-            "group": "group_7"
-        },
-        {
             "videoId": "fPXhgj8cNKo",
             "title": "Olive Garden Review by Marilyn Hagerty of 'Eatbeat' Goes Viral",
             "secondDuration": 106,
@@ -301,8 +295,14 @@
             "title": "Watch: NASA's \"Perseverance\" Rover lands on Mars | ABC News Live",
             "secondDuration": 3495,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ABkMc-DyiE",
+            "title": "Musician serenades mothers in downtown Sao Paulo for Mother's Day from truck on highway | ABC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-LFi017dMnU",
-            "title": "This Morning’s Top Headlines – June 23 | Morning News NOW",
-            "secondDuration": 1253,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jn7hTM1uSNM",
             "title": "Global Crackdown On Organized Crime",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "Biden: Filibuster Is ‘Being Abused In A Gigantic Way’ | NBC News",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "1WlWTXHI5EU",
+            "title": "Full Booker: Trump 'Is Responsible' For Rising Hate | Meet The Press | NBC News",
+            "secondDuration": 320,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

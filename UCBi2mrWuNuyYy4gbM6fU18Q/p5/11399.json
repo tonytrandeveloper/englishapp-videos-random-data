@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2Q8ruRXclqA",
-            "title": "Putin, Russian oligarchs feeling impact of sanctions l GMA",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "Npei98z8EE4",
             "title": "Exclusive: Casey Anthony Juror No. 3",
             "secondDuration": 589,
@@ -31,8 +25,14 @@
             "title": "Slender Man Case: Parents of Suspect Speak Out",
             "secondDuration": 430,
             "group": "group_7"
+        },
+        {
+            "videoId": "izPbmnVmCnA",
+            "title": "ISIS Claims Responsibility for Slain Japanese Hostage",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

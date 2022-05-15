@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "j-K5nyV_jjQ",
-            "title": "Donald Trump Releases New Video Attacking Bill Clinton",
-            "secondDuration": 316,
-            "group": "group_7"
-        },
-        {
             "videoId": "o0ENguq1ssA",
             "title": "New warning involving teenagers and caffeine",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "‘Let us do our utmost to save lives’: Poland ambassador",
             "secondDuration": 327,
             "group": "group_7"
+        },
+        {
+            "videoId": "2xKrreTlgHI",
+            "title": "Ian Pannell reports from site of suspected Russian missile attack",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "M0zkX5KO6Fs",
-            "title": "Ukrainian Family Reunites With Relatives In U.S.",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "BF6pVu66XzM",
             "title": "Puerto Rico Rocked By Powerful Earthquake, At Least One Killed | NBC Nightly News",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Rock Center with Brian Williams: Now on Wednesdays",
             "secondDuration": 16,
             "group": "group_7"
+        },
+        {
+            "videoId": "tMgWfmBC4kw",
+            "title": "Watch: Day 4 Of Derek Chauvin's Trial | NBC News",
+            "secondDuration": 26571,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

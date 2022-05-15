@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uJUyb1Ylagw",
-            "title": "Morning News NOW Full Broadcast - April 19 | NBC News NOW",
-            "secondDuration": 2552,
-            "group": "group_7"
-        },
-        {
             "videoId": "CgQTAnrOW4U",
             "title": "Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
             "secondDuration": 1811,
@@ -61,8 +55,14 @@
             "title": "FBI Warns Of Potential For More Violence From QAnon Followers",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "75NIWLi-fEg",
+            "title": "U.K. Airbus Plant Converted Into Coronavirus Ventilator Factory | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

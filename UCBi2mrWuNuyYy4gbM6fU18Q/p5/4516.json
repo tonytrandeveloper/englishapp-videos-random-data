@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CVQpvBeSL3w",
-            "title": "President Obama, Hamid Karzai Announce Early End to US Combat Operations in Afghanistan",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "aUdrAJoBkRw",
             "title": "Kate Upton accuses Guess co-founder of sexual assault",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "Brian Carrick Disappears From Illinois Grocery Store",
             "secondDuration": 533,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zz0tykFOSTI",
+            "title": "5 dead after Denver-area shooting spree",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

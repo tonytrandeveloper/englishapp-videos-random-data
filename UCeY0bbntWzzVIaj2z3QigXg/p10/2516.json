@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2GUzsnIVF4E",
-            "title": "Boston Man Won’t Receive Heart Transplant Due To Vaccination Refusal",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "0iiSY3hQ720",
             "title": "Family Business Proud To Make Its Products In The U.S, But Worried About Future | NBC Nightly News",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump: AG Sessions Should Never Have Recused Himself | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "wE-SjHoBP9Y",
+            "title": "After Coal Mines Shut Down, Communities Are Hoping For A Prison | NBC News",
+            "secondDuration": 361,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

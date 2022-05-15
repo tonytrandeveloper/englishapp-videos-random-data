@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hjS7tDJ1fn0",
-            "title": "U.S. Military Helicopter Disappears In Nepal | NBC Nightly News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "lxD_Pmlfs8M",
             "title": "Live: New York Governor Cuomo Holds Briefing | NBC News",
             "secondDuration": 1510,
@@ -31,8 +25,14 @@
             "title": "After 45 Years, FBI Gives Up on D.B. Cooper Jet Hijacking Mystery | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "hxIeEPy9qA4",
+            "title": "Full Castro: 'Nobody's Talking About 'Open Borders'' | Meet The Press | NBC News",
+            "secondDuration": 422,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

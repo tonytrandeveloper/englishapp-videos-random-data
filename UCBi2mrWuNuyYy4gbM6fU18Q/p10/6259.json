@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Benrq5Yx_j4",
-            "title": "Funny Super Bowl 2012 Commercials",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "4V8J4dJMLXc",
             "title": "'The Wilds': A Safari in the Suburbs: Video of the Animal Conservation Center in Ohio",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "Chicago Protesters March As Video of Shooting Emerges  | ABC News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "EazlsdmCZv8",
+            "title": "10% Happier Road Trip: Guided Meditation Session With Tempe Police | ABC News",
+            "secondDuration": 664,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

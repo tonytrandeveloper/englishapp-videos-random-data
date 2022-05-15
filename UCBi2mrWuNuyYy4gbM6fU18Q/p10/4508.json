@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "B3-08wSc8_A",
-            "title": "Patriots owner breaks silence amid massage parlor scandal",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "GX-oMpK27-c",
             "title": "Cruise Ship Set to Return to NJ After Stormy Ride",
             "secondDuration": 70,
@@ -61,8 +55,14 @@
             "title": "Chris Christie Takes on Donald Trump",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "jasaTY2qC10",
+            "title": "Global vaccine distribution",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dHnzTKVWc_s",
-            "title": "Second Presidential Debate 2012: Obama Tells Romney, My Pension's 'Not As Big As Yours'",
-            "secondDuration": 33,
-            "group": "group_7"
-        },
-        {
             "videoId": "76m9K3KNOeA",
             "title": "Extreme Weather:  East Coast Storm Causes Hail in Manhattan",
             "secondDuration": 64,
@@ -121,8 +115,14 @@
             "title": "Senate votes to confirm Judge Jackson to Supreme Court",
             "secondDuration": 676,
             "group": "group_7"
+        },
+        {
+            "videoId": "zrAgQN6Trz4",
+            "title": "Papal Conclave: Father John Wauck Gives a Must-Watch List",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ij0u1kM3YC0",
-            "title": "Live: NBC News Special Report: The President Hospitalized",
-            "secondDuration": 3579,
-            "group": "group_7"
-        },
-        {
             "videoId": "MhWlXGJwlPM",
             "title": "Protests Leave Little Space For Social Distancing As Coronavirus Rages On | NBC Nightly News",
             "secondDuration": 157,
@@ -121,8 +115,14 @@
             "title": "Senate Impeachment Trial Of President Trump - Day 6 | NBC News (Live Stream Recording)",
             "secondDuration": 33718,
             "group": "group_7"
+        },
+        {
+            "videoId": "w6Q5JGz52IQ",
+            "title": "Bone-Chilling Cold In U.S. Sparks Climate Change Skepticism | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

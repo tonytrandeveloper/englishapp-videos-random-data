@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6XvGaXGOWz8",
-            "title": "Best Moments of the First Presidential Debate",
-            "secondDuration": 387,
-            "group": "group_7"
-        },
-        {
             "videoId": "KkZGVGDNpio",
             "title": "Martin Luther King III: We Need More Love and Forgiveness",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "Trump warns North Korea 'all options are on the table'",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "v2aKRIDL3sk",
+            "title": "ABC News Live: Trump's rally, day 4 of Manafort trial, airport abduction",
+            "secondDuration": 1681,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

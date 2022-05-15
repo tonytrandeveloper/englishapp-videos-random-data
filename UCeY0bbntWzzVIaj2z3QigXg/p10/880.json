@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "p5DUa2l0YNM",
-            "title": "Dog Rescued From Inside Home 6 Days After Seattle Landslide",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "lBR6ocCvML8",
             "title": "NASA and SpaceX’s Historic Mission | NBC Nightly News",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump's Officials Issue Warnings After Syria Strike | NBC Nightly News",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "UKdc7Wnc7qI",
+            "title": "Britney Spears Fans React To Conservatorship Decision Outside Courthouse | NBC News",
+            "secondDuration": 2021,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

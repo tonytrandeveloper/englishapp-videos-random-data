@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5IeuDq5UKXM",
-            "title": "Projected election results: New Mexico and Idaho",
-            "secondDuration": 33,
-            "group": "group_7"
-        },
-        {
             "videoId": "GsY7z5VyR4w",
             "title": "'This Week': Ben Affleck's Spotlight on Congo",
             "secondDuration": 236,
@@ -31,8 +25,14 @@
             "title": "Gary Giordano Takes On Critics",
             "secondDuration": 574,
             "group": "group_7"
+        },
+        {
+            "videoId": "K6f7MRZgcZY",
+            "title": "'We should have engaged in (a chokehold ban) a long time ago': Sen. Lankford | ABC News",
+            "secondDuration": 404,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

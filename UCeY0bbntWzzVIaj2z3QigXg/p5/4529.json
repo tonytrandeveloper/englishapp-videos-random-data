@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WG6cX9FkU1Y",
-            "title": "Kellyanne Conway: 'Nobody Likes' Immigration Policy Separating Families | Meet The Press | NBC News",
-            "secondDuration": 711,
-            "group": "group_7"
-        },
-        {
             "videoId": "FXgm_kXrVIE",
             "title": "A Better Way To Treat An Insect Bite | Better | NBC News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "States Begin Reopening As Tempers Flare Over Coronavirus Safety Restrictions | NBC Nightly News",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q4U3Po7qkIc",
+            "title": "Demand For Covid Antiviral Pills Far Outweighs Supply",
+            "secondDuration": 418,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

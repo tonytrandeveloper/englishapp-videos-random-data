@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9ccxINb1yTw",
-            "title": "HHS Using DNA Tests To Reunite Migrant Children Separated From Parents | NBC Nightly News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "H6eld74nWfM",
             "title": "Millions Face Extreme Heat In Western U.S. As Wildfires Continue To Blaze | NBC Nightly News",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Trump Delivers Speech On Healthcare | NBC News",
             "secondDuration": 2702,
             "group": "group_7"
+        },
+        {
+            "videoId": "HPhtjK3TSOI",
+            "title": "Gas Prices On The Rise Nationwide",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

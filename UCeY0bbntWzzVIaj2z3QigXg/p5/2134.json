@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kwQGiqcPdI8",
-            "title": "Las Vegas Ceremony Honors 2017 Shooting Victims | NBC News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "iI3oiJdKkG0",
             "title": "This Police Offers Brings Superheroes To Life For Sick Children | NBC Nightly News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Fatalities Reported In Florida Pedestrian Bridge Collapse | NBC News",
             "secondDuration": 346,
             "group": "group_7"
+        },
+        {
+            "videoId": "RJS8UsRvXak",
+            "title": "Iran Attacks Iraqi Air Base Where U.S. Troops Are Based | NBC News",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ElWJ3x2r20Q",
-            "title": "Nik Wallenda on volcano walk: 'I'm risking my life' l ABC News",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "sngngUJBQSA",
             "title": "The Beatles' Rejected Demo",
             "secondDuration": 94,
@@ -301,8 +295,14 @@
             "title": "State of Emergency in New York with at least 76 coronavirus cases",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "LTdmHJVsnlg",
+            "title": "'Dancing With the Stars' Sees Gavin DeGraw's Emotional Dance; Katherine Jenkins, William Levy Shine",
+            "secondDuration": 279,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7QB196h6uHk",
-            "title": "California Burn Zone Is The Size Of Chicago | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "NJ_oKYfBYTE",
             "title": "Prince Philip 'Helped To Steer The Royal Family': Prime Minister Pays Tribute | NBC News NOW",
             "secondDuration": 193,
@@ -121,8 +115,14 @@
             "title": "Trump Calls Impeachment 'A Terrible Ordeal' At The National Prayer Breakfast | NBC News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "mBxIl1x7RH4",
+            "title": "Firefighters Battle Wildfires And Heat On West Coast | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

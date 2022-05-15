@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "PCdx5ip1X58",
-            "title": "Nation Bids Farewell To President George H.W. Bush | NBC Nightly News",
-            "secondDuration": 292,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lttwr5zj13U",
             "title": "The Real College Crisis: Student Debt Drags Down Economy | Meet The Press | NBC News",
             "secondDuration": 125,
@@ -301,8 +295,14 @@
             "title": "Biden Delivers Remarks Promoting Bipartisan Infrastructure Deal | NBC News",
             "secondDuration": 1676,
             "group": "group_7"
+        },
+        {
+            "videoId": "7ykhguTIybc",
+            "title": "NY Gov. Cuomo: 73 Coronavirus Cases In Kids With Symptoms Similar To Rare Syndrome | NBC News NOW",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

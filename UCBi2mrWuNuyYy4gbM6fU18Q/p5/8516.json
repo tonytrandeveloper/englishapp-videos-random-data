@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6xg3iHgKNqw",
-            "title": "KC Police Ambush Shooting Caught On Camera",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "omyI3PUy1c4",
             "title": "Tropical Storm Elsa makes its way up East Coast l WNT",
             "secondDuration": 265,
@@ -31,8 +25,14 @@
             "title": "Amusement Park Ride Kills 4",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "bmu9E2MmpNw",
+            "title": "Fall Freeze: Frosty Temperatures Come Early",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

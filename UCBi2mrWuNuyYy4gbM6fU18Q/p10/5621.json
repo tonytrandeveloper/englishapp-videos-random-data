@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZLNbegrZKrg",
-            "title": "Celebrity Doppelgangers: Lara Spencer Sees Her Double on 'Good Morning America'",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "ol9_1r694e0",
             "title": "Epic Viral Video Countdown: The Singing Sister",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "London 2012 Gymnastics: Gabby Douglas Wins Gold Medal",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "feirGbUrC3Y",
+            "title": "Will there be a college football season?",
+            "secondDuration": 447,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

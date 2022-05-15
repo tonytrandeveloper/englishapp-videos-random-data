@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "j8w6oxjVACE",
-            "title": "Mike Pence visits 3M plant l ABC News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "POvmZ3-MUaQ",
             "title": "Robert Duvall on \"Get Low,\" Bill Murray and Marlon Brando.",
             "secondDuration": 569,
@@ -121,8 +115,14 @@
             "title": "Kim Jong Nam assassination: Female suspect under arrest",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "8bU31q4J7Tk",
+            "title": "Trump speaks following Mueller’s testimony | ABC News",
+            "secondDuration": 955,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

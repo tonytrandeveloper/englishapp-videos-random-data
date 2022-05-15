@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DKfn54WhewE",
-            "title": "Florida high school resource officer accused of using excessive force",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "GoE5X1SJIGw",
             "title": "Coburn: Kagan 'Valued' Harvard Over 'U.S. Law'",
             "secondDuration": 631,
@@ -61,8 +55,14 @@
             "title": "Hurricane Nicole Slams Bermuda",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "JAVVmqhcR90",
+            "title": "President Obama's State of the Union Speech",
+            "secondDuration": 263,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

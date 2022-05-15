@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "c2ItKRYqBLw",
-            "title": "Hurricane Michael To Make Landfall Bringing Catastrophic Storm Surge | NBC News",
-            "secondDuration": 294,
-            "group": "group_7"
-        },
-        {
             "videoId": "3bmB1U7nJzQ",
             "title": "The Challenge Of Shipping A Covid Vaccine At Sub-Freezing Temperatures | NBC News NOW",
             "secondDuration": 261,
@@ -61,8 +55,14 @@
             "title": "Tulsi Gabbard kicks off 2020 campaign",
             "secondDuration": 8591,
             "group": "group_7"
+        },
+        {
+            "videoId": "PiT6jL4YNP8",
+            "title": "This Morning’s Top Headlines – August 23 | Morning News NOW",
+            "secondDuration": 1254,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

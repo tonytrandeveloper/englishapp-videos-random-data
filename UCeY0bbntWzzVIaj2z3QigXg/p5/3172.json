@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ty8TbB0JY0U",
-            "title": "Donald Trump Formally Announces Nomination Of James Mattis As Secretary Of Defense | NBC News",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "gb4wYLYh1Kc",
             "title": "GM CEO Defends Layoffs On Capitol Hill | NBC Nightly News",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "Obama to Expand Overtime Pay for Millions of Workers | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "G_RVCvIMTsQ",
+            "title": "Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3068,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

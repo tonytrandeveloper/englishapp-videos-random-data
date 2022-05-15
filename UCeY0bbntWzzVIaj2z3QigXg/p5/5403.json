@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rFz78xFDYkE",
-            "title": "White House Holds Press Briefing: June 3 | NBC News",
-            "secondDuration": 3271,
-            "group": "group_7"
-        },
-        {
             "videoId": "lq-hbPK0Fuk",
             "title": "FDA Advisers Vote To Recommend Moderna's Covid Vaccine For Emergency Use Authorization",
             "secondDuration": 717,
@@ -31,8 +25,14 @@
             "title": "Reflecting On July 4th As Americans Celebrate Again",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "bI03p9Um244",
+            "title": "Texans Mourn Those Lost In Sutherland Springs Church Massacre | NBC Nightly News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

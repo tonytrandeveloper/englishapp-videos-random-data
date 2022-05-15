@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6uusL-PX3Sw",
-            "title": "Concerns grow as pediatric cases rise across US",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "qlFRxO-aESk",
             "title": "US crosses 250,000 coronavirus deaths | ABC News",
             "secondDuration": 429,
@@ -31,8 +25,14 @@
             "title": "Inauguration Day security on high alert following pro-Trump riots l GMA",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "BzmPgrug4SU",
+            "title": "Boston mayor on city's COVID-19 response",
+            "secondDuration": 253,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

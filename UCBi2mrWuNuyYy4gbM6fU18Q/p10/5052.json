@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "k5LO_b3k6a8",
-            "title": "Top academics explain the heated debate on critical race theory | ABC New",
-            "secondDuration": 515,
-            "group": "group_7"
-        },
-        {
             "videoId": "umNDQ7OuBhI",
             "title": "Healing the people of Tulsa after massacre 100 years ago: Part 2 | ABC News",
             "secondDuration": 352,
@@ -61,8 +55,14 @@
             "title": "Vampire Feeds on Donor's Blood",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "U1Vrbw9TJvA",
+            "title": "Attorney General William Barr clashes with lawmakers | WNT",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

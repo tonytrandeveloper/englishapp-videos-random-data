@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EM-pXRahZOQ",
-            "title": "Aaron Hernandez Trial: Prosecutors say Former Tight End 'Ambushed and Executed' Homicide Victims",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "-PlOUZbxHJE",
             "title": "Pedaling Profile: Mayor of Bloomington Talks Trump",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "Bruce Jenner Interview Sparks Discussions on Social Media",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "ShMt_jiwo0w",
+            "title": "Fauci on low child vaccine rates: ‘We've got to do better than that’",
+            "secondDuration": 652,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

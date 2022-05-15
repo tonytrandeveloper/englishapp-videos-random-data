@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "idpsY1dOC8g",
-            "title": "Trudeau addresses protest",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "isXpMRmKenE",
             "title": "Mysterious monolith discovered deep in the desert",
             "secondDuration": 204,
@@ -61,8 +55,14 @@
             "title": "DNC Platform Change on God, Israel: 'Something We Can Run On'",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "BFDXmEnZbFg",
+            "title": "Trump: Mitt Romney ‘Irrelevant’, ‘Choke Artist’",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

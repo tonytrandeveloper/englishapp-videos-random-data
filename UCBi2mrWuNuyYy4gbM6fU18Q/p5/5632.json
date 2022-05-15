@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZDhglMlIqCU",
-            "title": "Corey Lewandowski on the RNC, President Trump’s job performance",
-            "secondDuration": 438,
-            "group": "group_7"
-        },
-        {
             "videoId": "9qt60pk9OU4",
             "title": "Hunting Down the Masterminds of the Sony Hacking",
             "secondDuration": 233,
@@ -31,8 +25,14 @@
             "title": "The Royal Couple in Canada",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "vjeTv3NsLqk",
+            "title": "Hillary Clinton Talks Hair: 2016 Candidates and Their Styles",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

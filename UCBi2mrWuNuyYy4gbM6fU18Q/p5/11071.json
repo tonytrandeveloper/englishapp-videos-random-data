@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Vtk7L1GKT2I",
-            "title": "Ted Cruz Announces Carly Fiorina as VP Pick",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "LOn09bhDXMo",
             "title": "DNC Staffer Killed 'Wanted to Make a Difference,' Family Says",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "What to watch as public impeachment hearings begin | ABC News",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "hrhkaNZlgtU",
+            "title": "Fourth of July steals and deals",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

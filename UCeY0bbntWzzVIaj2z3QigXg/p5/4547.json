@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z8ir9CMua4k",
-            "title": "Covid Confusion: Savannah Sellers Reveals Contradictory Covid Test Results | NBC News NOW",
-            "secondDuration": 525,
-            "group": "group_7"
-        },
-        {
             "videoId": "50sNZlV8QE4",
             "title": "NBC News' Miguel Almaguer Gets Emotional Watching the Solar Eclipse | NBC News",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "White House Covid-19 Response Briefing | NBC News",
             "secondDuration": 1715,
             "group": "group_7"
+        },
+        {
+            "videoId": "XNdNHzrrbxQ",
+            "title": "Two Teens Charged In Shooting Death Of 8-Year-Old",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

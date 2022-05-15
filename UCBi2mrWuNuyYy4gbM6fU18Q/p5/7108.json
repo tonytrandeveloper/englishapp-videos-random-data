@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FluFxJq5ZUM",
-            "title": "Arsenio Hall Suing Sinead O'Connor for $5 Million",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "ybYNdL0AUYQ",
             "title": "NYC Bank Burglary Through Roof Is Latest in Heists by 'Pros,' Police Say",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "Video Shows NY Inmates' Escape Route",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "PJRCtlyJTR4",
+            "title": "White House monitoring San Jose shooting, points to 'epidemic of gun violence'",
+            "secondDuration": 643,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

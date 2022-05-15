@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OJxpwujBTvg",
-            "title": "FAA Grounds Virgin Galatic's Spacecraft Amid Investigation Into Warning Light",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "dGLsik15DWQ",
             "title": "A Robot Barista That Can Make 120 Cups Of Coffee In An Hour | Mach | NBC News",
             "secondDuration": 72,
@@ -61,8 +55,14 @@
             "title": "Watch Lindsey Graham Go Back to 1998 To Slam President Donald Trump Impeachment inquiry | NBC News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "LrLbr9PrxSQ",
+            "title": "Virginia, New Jersey Begin Voting In Gubernatorial Primaries",
+            "secondDuration": 272,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

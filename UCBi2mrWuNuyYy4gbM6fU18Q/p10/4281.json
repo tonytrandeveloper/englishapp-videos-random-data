@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lTm6ch9Hu-M",
-            "title": "Cool Cats Who Love Cats",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "S-llCCXKe2w",
             "title": "Johnny Depp Surprises Kids in Children's Hospital as Captain Jack Sparrow",
             "secondDuration": 44,
@@ -61,8 +55,14 @@
             "title": "Gov. Christie to Trump on Mueller investigation: 'Just stop talking. Just stop.'",
             "secondDuration": 941,
             "group": "group_7"
+        },
+        {
+            "videoId": "nSIm2rUPGn4",
+            "title": "Honoring the people keeping history alive",
+            "secondDuration": 327,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

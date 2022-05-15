@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EmYdLP19Ob4",
-            "title": "Florida passes controversial 'Don’t Say Gay' bill",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "fHDifW4nqMw",
             "title": "Wells Fargo Fires About 5,300 Workers in Account Scandal",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "Johnny Depp Spoofs Donald Trump in Funny or Die Movie",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "rbTDuOO_TaE",
+            "title": "It’s Not Too Late: How natural disasters affect climate change",
+            "secondDuration": 512,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

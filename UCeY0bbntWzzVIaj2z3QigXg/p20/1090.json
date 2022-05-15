@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NPqv_uHYfC4",
-            "title": "Librarian Uses Creative Method Of Getting Books To Kids In Quarantine | Nightly News: Kids Edition",
-            "secondDuration": 680,
-            "group": "group_7"
-        },
-        {
             "videoId": "a05AYQLlECs",
             "title": "Trump Holds News Conference At The White House| NBC News",
             "secondDuration": 1715,
@@ -121,8 +115,14 @@
             "title": "House Passes Police Reform Bill Named After George Floyd | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yr_kdwca03g",
+            "title": "Trump impeached after historic vote | NBC News (Live Stream Recording)",
+            "secondDuration": 42901,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

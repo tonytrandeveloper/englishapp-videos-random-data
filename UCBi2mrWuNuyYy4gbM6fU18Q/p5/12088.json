@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AtGyDBDcx_Y",
-            "title": "Super Soaker Storm Barreling Across the Pacific Into the South",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "ujR6uOMJHaA",
             "title": "Trump condemns terror attack in Egypt, calling it 'horrible and cowardly'",
             "secondDuration": 293,
@@ -31,8 +25,14 @@
             "title": "Confirmation hearing on hold for Trump's VA pick",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "1sp7tSJ0KR8",
+            "title": "Super Tuesday Results: Newt Gingrich Wins Georgia Primary",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

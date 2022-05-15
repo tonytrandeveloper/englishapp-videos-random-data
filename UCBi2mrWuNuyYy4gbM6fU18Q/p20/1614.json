@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "d3GQlqJDKIg",
-            "title": "Furloughed hospitality publicist pivots to cookie cake company during pandemic",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "QAaJ5ndZq84",
             "title": "Rep. John Lewis vows to return to work after cancer diagnosis",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "'Chaos' around Trump 'has unnerved a lot of people': GOP Gov. Kasich",
             "secondDuration": 440,
             "group": "group_7"
+        },
+        {
+            "videoId": "IjGOBCzOA2Y",
+            "title": "Trump delivers remarks on 'Operation Legend'",
+            "secondDuration": 759,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

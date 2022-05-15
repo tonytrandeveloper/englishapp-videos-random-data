@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LoKZvAP_Pfw",
-            "title": "Tsunami Warning: 7.7 Earthquake Causes Extreme Weather in Hawaii",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "nb5uH1ElOOY",
             "title": "Powerball Drawing No Winner; Jackpot Grows to $425 Million",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Images of brutal attack on Los Angeles officers made public",
             "secondDuration": 39,
             "group": "group_7"
+        },
+        {
+            "videoId": "-1_z4c34epk",
+            "title": "Brooklyn Subway Shooting - Live Updates: Suspect Frank James in Custody",
+            "secondDuration": 4627,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

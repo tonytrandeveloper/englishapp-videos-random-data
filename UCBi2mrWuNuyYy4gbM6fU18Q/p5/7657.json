@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dPJUhWwHbeU",
-            "title": "Best of 2010: John Berman's 90 Seconds of News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rdd3WTGxSag",
             "title": "Pastor Suspected of Killing His Wife Caught Fleeing Country",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Beijing marketplace infections trigger ‘wartime emergency mode’",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "b0cEq6HvIiU",
+            "title": "Middle East on the Brink: Israel Prepared to Invade Gaza",
+            "secondDuration": 259,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

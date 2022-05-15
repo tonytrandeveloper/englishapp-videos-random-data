@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R3ZasK43OW4",
-            "title": "Cleveland Survivors Speak Out, Say \"Thank You\"",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "g4atn2SDxYY",
             "title": "Top Line: WH Economist: 'Best Friday We've Had in Three Years'",
             "secondDuration": 523,
@@ -31,8 +25,14 @@
             "title": "In Case You Missed It: 5/23/2014",
             "secondDuration": 356,
             "group": "group_7"
+        },
+        {
+            "videoId": "5sAImDmrtCI",
+            "title": "Hurricane Isaac Makes Landfall",
+            "secondDuration": 399,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

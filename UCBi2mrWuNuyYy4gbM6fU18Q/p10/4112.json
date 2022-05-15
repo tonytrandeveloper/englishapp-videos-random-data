@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sNU8ZTW6BXc",
-            "title": "Sergeant Bowe Bergdahl's Family Awaits His Arrival",
-            "secondDuration": 272,
-            "group": "group_7"
-        },
-        {
             "videoId": "FJhMyb9l5RE",
             "title": "CDC to weigh changing indoor mask rules l ABC News",
             "secondDuration": 182,
@@ -61,8 +55,14 @@
             "title": "Man Catches 5 Foul Balls At Detroit Tigers Game",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "Tp3i2gbUOCo",
+            "title": "Former acting AG Sally Yates full testimony to Senate Judiciary on Russia's election hacking",
+            "secondDuration": 11425,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

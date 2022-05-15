@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MfLYPJohoh0",
-            "title": "A Tribute to Peter Jennings",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "7iCSYCfRjiU",
             "title": "Puns From Ikea Labels | ABC News",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "West Virginia senator speaks on concerns for Trump’s proposed stimulus plan",
             "secondDuration": 483,
             "group": "group_7"
+        },
+        {
+            "videoId": "dnviB3mWGos",
+            "title": "Trump: Election is 'Rigged'",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

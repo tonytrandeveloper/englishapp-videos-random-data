@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "re8LubGpjAs",
-            "title": "A closer look into Virginia's gun sanctuaries l ABC News",
-            "secondDuration": 472,
-            "group": "group_7"
-        },
-        {
             "videoId": "WXwyE8-UHXg",
             "title": "Bernie Sanders Continues Momentum With Wyoming Win",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "Tunisia Museum Attack: ISIS Claims Responsibility",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "bL9zDTEDdtE",
+            "title": "Family of Martin Luther King Jr. make voting rights push",
+            "secondDuration": 437,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

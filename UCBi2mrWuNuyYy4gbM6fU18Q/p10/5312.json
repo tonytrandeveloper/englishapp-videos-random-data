@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0od7G1tXe2Q",
-            "title": "Buttigieg says he’s ‘determined to earn every vote on the road ahead’ l ABC News",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "sMuo_pox7p0",
             "title": "Cancer survivor fears anti-vax parents are putting sick kids at risk",
             "secondDuration": 475,
@@ -61,8 +55,14 @@
             "title": "Tulsa Police Officer in Court for Shooting Death of Unarmed Man",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "s14vF7XFaz0",
+            "title": "Massive Sea Smoke Wall Forms Over Lake Superior",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

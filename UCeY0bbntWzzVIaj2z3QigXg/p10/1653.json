@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oa8MbqRZQ4E",
-            "title": "Biden Delivers Remarks On U.S. Troop Withdrawal From Afghanistan | NBC News",
-            "secondDuration": 1895,
-            "group": "group_7"
-        },
-        {
             "videoId": "A1l3cxYeSOw",
             "title": "Joni Ernst Delivers Winner's Speech In Iowa | NBC News",
             "secondDuration": 63,
@@ -61,8 +55,14 @@
             "title": "What The Equifax Settlement Means For You — And Your Wallet | NBC Nightly News",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "wFZfSLiT-Zw",
+            "title": "Trump Hosts Rally During Impeachment Vote | NBC News (Live Stream Recording)",
+            "secondDuration": 8375,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

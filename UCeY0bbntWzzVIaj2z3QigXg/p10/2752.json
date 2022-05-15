@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mqa-FiEKLcI",
-            "title": "Youth Poet Amanda Gorman Recites Poem At Presidential Inauguration | NBC News",
-            "secondDuration": 353,
-            "group": "group_7"
-        },
-        {
             "videoId": "q8nrsHiTZeU",
             "title": "Could U.S. Withdrawal In Syria Lead To An ISIS Resurgence? | NBC News Now",
             "secondDuration": 332,
@@ -61,8 +55,14 @@
             "title": "The Obamas Welcome The Trumps At The White House | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "ILWbadYZL-4",
+            "title": "Democrats’ New Warnings After Attorney General Jeff Sessions Firing | NBC Nightly News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

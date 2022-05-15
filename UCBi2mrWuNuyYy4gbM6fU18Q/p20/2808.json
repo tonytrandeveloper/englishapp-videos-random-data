@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6xGVbJQIXd4",
-            "title": "Growing Up Hollywood: Celebrity Families",
-            "secondDuration": 335,
-            "group": "group_7"
-        },
-        {
             "videoId": "F-NSMKkNg9g",
             "title": "President Trump reacts to failed GOP health care bill",
             "secondDuration": 1069,
@@ -121,8 +115,14 @@
             "title": "Drone footage gives inside look at lives of killer whales l ABC News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "8jaxnd83fy8",
+            "title": "\"Bad Lip Reading\" Releases New Video",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

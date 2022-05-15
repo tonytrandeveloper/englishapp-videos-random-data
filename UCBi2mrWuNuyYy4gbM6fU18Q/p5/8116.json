@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qyTJEwWNCDE",
-            "title": "Rep. Aaron Schock Gives Farewell Speech",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "PnJEjX1b6y8",
             "title": "Ginni and Clarence Thomas draw questions about Supreme Court ethics",
             "secondDuration": 431,
@@ -31,8 +25,14 @@
             "title": "Democratic Debate | Hillary Clinton, Bernie Sanders Trade Blows",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "H1_sn9mIiN8",
+            "title": "Sen. Roy Blunt says he will not support Judge Ketanji Brown Jackson | ABC News",
+            "secondDuration": 524,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

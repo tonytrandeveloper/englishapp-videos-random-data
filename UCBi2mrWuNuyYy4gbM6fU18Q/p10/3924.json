@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ljNEK28RPrI",
-            "title": "'Hamilton' Audition | Thousands Show Up for the Broadway Hit",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "L5FcXAQzcNg",
             "title": "Investigators on the hunt for serial bomber terrorizing Austin, Texas",
             "secondDuration": 499,
@@ -61,8 +55,14 @@
             "title": "Trump on Obama's Letter: 'Beautiful' | Trump Interview with David Muir | ABC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "TX8MSZy5I3I",
+            "title": "Senator catches Mark Zuckerberg off guard by asking which hotel he stayed in",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

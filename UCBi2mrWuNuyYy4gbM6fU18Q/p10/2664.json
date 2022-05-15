@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KS4mFRODdRU",
-            "title": "President Obama's Farewell Address to the Nation",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "K-epv_VCSFQ",
             "title": "Prep School Sexual Assault Case: New Details Revealed | ABC News",
             "secondDuration": 430,
@@ -61,8 +55,14 @@
             "title": "Taylor Swift Expresses Love for Her Fans, Discusses Being Billboard's Woman of the Year",
             "secondDuration": 320,
             "group": "group_7"
+        },
+        {
+            "videoId": "dIiFNxtvNIk",
+            "title": "Costa Concordia Being Lifted from Shallow Gravein Tuscan Reef",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

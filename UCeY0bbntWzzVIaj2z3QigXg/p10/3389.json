@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7QB196h6uHk",
-            "title": "California Burn Zone Is The Size Of Chicago | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "NJ_oKYfBYTE",
             "title": "Prince Philip 'Helped To Steer The Royal Family': Prime Minister Pays Tribute | NBC News NOW",
             "secondDuration": 193,
@@ -61,8 +55,14 @@
             "title": "Will Senators Be Able To Remain Impartial During The Impeachment Trial? | NBC News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "tVL9SP3cu8k",
+            "title": "Live: President Donald Trump Speaks At Texas Oil Rig On Restoring Energy Dominance | NBC News",
+            "secondDuration": 1719,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

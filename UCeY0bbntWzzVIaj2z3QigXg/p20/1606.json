@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "j7l9kFbw_zY",
-            "title": "Florida Sheriff David Shoar: Flooding Is 'Worst-Case Scenario' | NBC News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "8lLKc6rHKpM",
             "title": "California Wildfire Traps Hundreds In National Forest | NBC Nightly News",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "Supreme Court Hears Mississippi Abortion Case That Challenges Roe v. Wade",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "7irALOUTZeI",
+            "title": "Who's In And Out: Shakeups Hit Donald Trump’s Reshuffled National Security Council | NBC News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

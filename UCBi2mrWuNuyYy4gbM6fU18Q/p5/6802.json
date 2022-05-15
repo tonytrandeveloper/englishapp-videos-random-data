@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8N98mcwcK54",
-            "title": "Third Invictus games kicks off in Toronto",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "J_iZOGL9zP4",
             "title": "Trump makes 1st public appearance since supporters attacked the Capitol | WNT",
             "secondDuration": 450,
@@ -31,8 +25,14 @@
             "title": "LeBron James to Skip 2016 Olympics",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "a4XFYPl9GwY",
+            "title": "Supreme Court strikes down restrictive abortion law in Louisiana",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

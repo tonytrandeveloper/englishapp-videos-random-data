@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oPyUK0f0sQo",
-            "title": "NYPD Cop's Chokehold Triggers Outrage | NBC News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "5mmv9E7FYTQ",
             "title": "Extreme Weather: Early Snow In Parts Of U.S. | NBC News",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "What Is Plogging? Growing Movement Of Joggers Picking Up Trash | NBC Nightly News",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "itrxw4_BBO0",
+            "title": "Texts Reveal Trump Administration’s Pressure On Ukraine | NBC Nightly News",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BSMz6seuGBw",
-            "title": "Europe’s Measles Outbreak Sparks Concern Over What Could Happen In U.S. | NBC Nightly News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "G1I4wxjQ0U8",
             "title": "‘We Failed In Politics’: Exiled Afghan President Refuses To Blame Military",
             "secondDuration": 116,
@@ -121,8 +115,14 @@
             "title": "New York Orders Travelers From More States To Quarantine For Two Weeks | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "KMon21NlNq4",
+            "title": "Chicago Trauma: Psychological Wounds Go Beyond the Bloodshed | NBC News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

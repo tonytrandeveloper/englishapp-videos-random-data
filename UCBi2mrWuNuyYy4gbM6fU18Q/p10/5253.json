@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KAI_W6hw_rA",
-            "title": "Kim Kardashian Robbed at Gunpoint | Kanye Stops Show",
-            "secondDuration": 339,
-            "group": "group_7"
-        },
-        {
             "videoId": "9lD5YuiD9Ck",
             "title": "Bernie Sanders Supporters Stage Walkout after Clinton Nomination",
             "secondDuration": 61,
@@ -61,8 +55,14 @@
             "title": "Anthony Weiner's Comeback: On the Trail With the Mayoral Candidate",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "t_EwralH0oc",
+            "title": "MIX: Who Ya Gonna Call?",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

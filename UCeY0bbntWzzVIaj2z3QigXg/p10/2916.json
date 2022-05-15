@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7_KXqhI-PtU",
-            "title": "Lester Holt On His Personal Look At Climate Change In Alaska | NBC News Now",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "nkBGe-VYT5Y",
             "title": "Bezos To Amazon Customers, Employees: ‘You Guys Paid For’ Space Trip",
             "secondDuration": 60,
@@ -61,8 +55,14 @@
             "title": "What Would It Take To Bring Down Soaring Gas And Energy Costs?",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "LKtjQ6Rf8e0",
+            "title": "L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
+            "secondDuration": 3849,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

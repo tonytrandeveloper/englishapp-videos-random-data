@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "zvb9lBn5eEg",
-            "title": "Special Delivery at 30,000 Feet",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "BHh8VEsYNDc",
             "title": "Taliban uses guns, batons on civilians as US tries to evacuate thousands l WNT",
             "secondDuration": 403,
@@ -301,8 +295,14 @@
             "title": "Kyle Rittenhouse defense rests its case",
             "secondDuration": 282,
             "group": "group_7"
+        },
+        {
+            "videoId": "2k4pZ_gFK3o",
+            "title": "Robin Hood 'Lemon-Aid' Stand opened by Lara Spencer",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

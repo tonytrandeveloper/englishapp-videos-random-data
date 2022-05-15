@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eVZ1o077RIc",
-            "title": "UCF Student's Massacre Plot Foiled: Roommate's 911 Call",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "roSj7czZm9E",
             "title": "Soldier Surprises Daughter at Her Championship Softball Game",
             "secondDuration": 71,
@@ -61,8 +55,14 @@
             "title": "Rudy Giuliani ‘Supportive’ of Clinton Investigation",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "w8Mo_2suaLA",
+            "title": "Bass: ‘Very hopeful’ about passing George Floyd Justice in Policing Act",
+            "secondDuration": 591,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-o9WrWBtlf8",
-            "title": "Sen. Chuck Grassley Discusses Controversial EB-5 Program",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "qIuxhVpKdTw",
             "title": "Hurricane Dorian hammers the Bahamas for more than 24 hours l ABC News",
             "secondDuration": 212,
@@ -121,8 +115,14 @@
             "title": "Trump New York Times Interview: What Does it Tell Us?",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "Txm_nHbi4IQ",
+            "title": "Crimea Residents Vote on Whether to Leave Ukraine and Join Russia",
+            "secondDuration": 204,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

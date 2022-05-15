@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZPrdz7qCK_w",
-            "title": "Grosse Pointe Murder:  Bob Bashara Arrested for Hiring Second Hitman",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "32Rb2P4JcLU",
             "title": "Hillary Clinton Emails Released by the State Department",
             "secondDuration": 138,
@@ -121,8 +115,14 @@
             "title": "Remembering Dick Clark",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "0ZKCC-vMNAw",
+            "title": "Desperation in Haiti as tropical storm disrupts earthquake rescue efforts | Nightline",
+            "secondDuration": 523,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

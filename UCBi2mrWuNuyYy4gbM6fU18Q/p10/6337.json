@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i43xGpW7c4I",
-            "title": "Idaho Man's Close Encounter With Bears",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ml5GHl9Bfmk",
             "title": "Babysitter Faces Charges for Alleged Abduction of 2-Year-Old",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "White House press briefing with Secretary of State Mike Pompeo | ABC News",
             "secondDuration": 944,
             "group": "group_7"
+        },
+        {
+            "videoId": "GxDio6VLD3o",
+            "title": "New York sets up quarantine checkpoints to stop COVID-19 | ABC News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

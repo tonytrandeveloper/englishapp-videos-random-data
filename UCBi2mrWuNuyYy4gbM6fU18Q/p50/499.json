@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ISC8q9-t4SU",
-            "title": "President Biden on Afghanistan withdrawal, Taliban takeover intelligence decisions l WNT",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "13uyT1PJf9w",
             "title": "Final Four showdown set",
             "secondDuration": 104,
@@ -301,8 +295,14 @@
             "title": "Space Shuttle Discovery Makes Final Flight",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "pr73lC9JgA8",
+            "title": "Tropical Storm Henri brings severe flooding to East Coast l GMA",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

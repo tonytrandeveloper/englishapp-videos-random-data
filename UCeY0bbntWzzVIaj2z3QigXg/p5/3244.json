@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jwT-70TmSJQ",
-            "title": "NOW Tonight with Joshua Johnson - March 3 | NBC News NOW",
-            "secondDuration": 3601,
-            "group": "group_7"
-        },
-        {
             "videoId": "4X8S3HPgNSs",
             "title": "Coronavirus: See How One Family And Teacher Are Coping With Home Learning | NBC News",
             "secondDuration": 233,
@@ -31,8 +25,14 @@
             "title": "Amb. Taylor In Opening Statement: 'It's Crazy To Withhold Security Assistance' To Ukraine | NBC News",
             "secondDuration": 2466,
             "group": "group_7"
+        },
+        {
+            "videoId": "KxzEw-o_wTs",
+            "title": "How YouTube's Ad Placement Algorithm Got Its Targeting So Wrong | Mach | NBC News",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

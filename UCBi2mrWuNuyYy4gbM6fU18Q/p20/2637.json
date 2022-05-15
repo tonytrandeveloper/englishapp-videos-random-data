@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "s-rQ3r-Q4Kg",
-            "title": "Michelle Obama, Daughters Travel to Morocco",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "4fRjle8vBL0",
             "title": "The prosecution delivers its closing arguments in trial of Derek Chauvin",
             "secondDuration": 737,
@@ -121,8 +115,14 @@
             "title": "Treasury Secretary Nominee Jack Lew Haunted by Wall Street Past",
             "secondDuration": 408,
             "group": "group_7"
+        },
+        {
+            "videoId": "usvrUnZFwwY",
+            "title": "More than 677,000 have fled Ukraine: UN l ABCNL",
+            "secondDuration": 419,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

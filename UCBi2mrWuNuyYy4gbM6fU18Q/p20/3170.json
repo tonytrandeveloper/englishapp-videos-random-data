@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xGycyBoY0ks",
-            "title": "Webcast: Newt Gingrich Falls in Polls; Fargo Dog Rescue",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lwp1mvEQcA0",
             "title": "'This Week': Powerhouse Roundtable",
             "secondDuration": 943,
@@ -121,8 +115,14 @@
             "title": "Pressure Mounts as Russian Troops Take Control of Crimea",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "LJ4ZuCPInrY",
+            "title": "One Night in Central Park l 20/20 l PART 4 | ABC News",
+            "secondDuration": 465,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

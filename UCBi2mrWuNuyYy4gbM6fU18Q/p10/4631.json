@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "F33rrocnfaQ",
-            "title": "Woman is first to swim English Channel 4 times in a row l ABC News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "sC7THuzUJVU",
             "title": "Trains crash into truck on tracks, killing 3 people",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Pope Holds a Virtual Audience With Americans Ahead of Visit to the US | David Muir Reports",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "0Vcq02YCi2w",
+            "title": "How Ghislaine Maxwell allegedly helped Jeffrey Epstein abuse young women | Nightline",
+            "secondDuration": 505,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

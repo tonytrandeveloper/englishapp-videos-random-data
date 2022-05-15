@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GMB6bzAkEVM",
-            "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 9525,
-            "group": "group_7"
-        },
-        {
             "videoId": "vzQ7lgpyuTQ",
             "title": "Fierce Fight Waged By Ukrainian Forces Against Russian Invasion",
             "secondDuration": 222,
@@ -31,8 +25,14 @@
             "title": "‘Bored’ Grandma Turns The Tables On Phone Scammer",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "b_xVVWTNGpk",
+            "title": "George Floyd Told Police He Couldn't Breathe 20 Times, According To New Transcript | NBC News NOW",
+            "secondDuration": 439,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

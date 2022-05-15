@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fr0Rjq8uZzk",
-            "title": "Morning News NOW Full Broadcast - Jan. 21",
-            "secondDuration": 3142,
-            "group": "group_7"
-        },
-        {
             "videoId": "sHGnLzWf6Kk",
             "title": "At Least Five Jurors Seated After Day Two Of Jury Selection In Chauvin Murder Trial | NBC News NOW",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "Steven Tyler Answers your Questions",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "lt5SwIGsjss",
+            "title": "Third Woman Comes Forward With Allegation Against Brett Kavanaugh | NBC Nightly News",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

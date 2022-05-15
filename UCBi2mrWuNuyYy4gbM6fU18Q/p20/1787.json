@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Q4_srp2_5IY",
-            "title": "Navy Seal Receives Medal of Honor for Heroic Rescue in Afghanistan",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "qjJIhMJvXHw",
             "title": "Volkswagen Executives Apologize After Scandal",
             "secondDuration": 124,
@@ -121,8 +115,14 @@
             "title": "Yale Student Missing Without a Trace",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "qGKpwzeReZw",
+            "title": "The One and Only Whitney Houston",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

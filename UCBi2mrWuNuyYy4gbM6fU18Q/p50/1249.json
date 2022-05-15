@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "3rZYvLYUdks",
-            "title": "Arctic blast could make this Thanksgiving the coldest ever",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "wvMPuS_A1aA",
             "title": "Georgia fans party in streets as Bulldogs claim national title l ABC News",
             "secondDuration": 67,
@@ -301,8 +295,14 @@
             "title": "Dubai rings in 2021 with elaborate fireworks display",
             "secondDuration": 286,
             "group": "group_7"
+        },
+        {
+            "videoId": "2QoQsEToJwY",
+            "title": "Is Clinton Ready for Trump's Attacks?",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

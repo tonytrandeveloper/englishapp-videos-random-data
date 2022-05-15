@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "viJx5_ZH-1I",
-            "title": "The Briefing Room: Democratic debate, Trump rally, China, North Korea, Iran, Afghanistan",
-            "secondDuration": 1837,
-            "group": "group_7"
-        },
-        {
             "videoId": "PmiAcIQjEJ0",
             "title": "Adopted Dog Pays Owners Back by Saving Baby | Good Morning America | ABC News",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Instant Index: Baby Faith Born 4 Months Premature Weighing 15 Ounces Now Thriving",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "LPtxkvPYdMk",
+            "title": "Bill O'Reilly fires back after New York Times report",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

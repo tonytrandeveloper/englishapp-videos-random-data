@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JTFlw-gM9gY",
-            "title": "Iran Marks 39th Anniversary Of Islamic Revolution Amid Tension | NBC Nightly News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "UhFoJ4k9udk",
             "title": "Meteor Dazzles As It Plunges From The Night Sky | NBC News NOW",
             "secondDuration": 43,
@@ -121,8 +115,14 @@
             "title": "Senator Chuck Schumer Addresses Canceled White House Meeting On Senate Floor | NBC News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "X86jvARdfTM",
+            "title": "HHS Secretary Alex Azar Says Covid Vaccines May Start Being Distributed After Dec. 10 | NBC News NOW",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rkJZR6a6B04",
-            "title": "Shooting spree near Penn State leaves 3 dead",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "6CiXFFykF8g",
             "title": "Pets on Prozac: Dogs Take Meds for Anxiety",
             "secondDuration": 392,
@@ -31,8 +25,14 @@
             "title": "Vice President Kamala Harris speaks at 9/11 memorial ceremony in Shanksville, PA",
             "secondDuration": 512,
             "group": "group_7"
+        },
+        {
+            "videoId": "-sA2-Y6aI98",
+            "title": "A path to end unintentional prejudice",
+            "secondDuration": 401,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

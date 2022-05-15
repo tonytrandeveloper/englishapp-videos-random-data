@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0ykmgddZW1g",
-            "title": "U.S. Strikes Somalia, Terror Threats Mount | NBC News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "yz6z5sx47Fk",
             "title": "White House Holds Press Briefing: June 30 | NBC News",
             "secondDuration": 918,
@@ -31,8 +25,14 @@
             "title": "Full Panel: 'Lack Of Clarity Is A Serious Problem' In Coronavirus Response | Meet The Press",
             "secondDuration": 498,
             "group": "group_7"
+        },
+        {
+            "videoId": "AYJzzWKxPvA",
+            "title": "Robots Installed At Hotels Used To Treat Coronavirus Patients | NBC News",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

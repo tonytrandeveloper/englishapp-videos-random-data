@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5aLOAK2HloE",
-            "title": "Amplified: Rogue Wave",
-            "secondDuration": 516,
-            "group": "group_7"
-        },
-        {
             "videoId": "d9ZMBm2tyj0",
             "title": "Real Mario Kart in the Streets of Tokyo",
             "secondDuration": 117,
@@ -121,8 +115,14 @@
             "title": "Jet Skier Breaches JFK Airport Security",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "6tH_JW6onvc",
+            "title": "California City Pays Young Men For Good Behavior in Exchange for Not Pulling the Trigger",
+            "secondDuration": 630,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

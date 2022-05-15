@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PtILiyMGl84",
-            "title": "Bill Gates: Aid 'Makes a Huge Difference'",
-            "secondDuration": 484,
-            "group": "group_7"
-        },
-        {
             "videoId": "fzcJhhH-p9k",
             "title": "Mitch McConnell: 'Elect a President Who Thinks America Is Exceptional'",
             "secondDuration": 408,
@@ -61,8 +55,14 @@
             "title": "Signature Injury: U.S. Service Members Suffer Concussions",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "tEIe5tT9hQ4",
+            "title": "Nepal Survivors: Amazing Rescues After Earthquake",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

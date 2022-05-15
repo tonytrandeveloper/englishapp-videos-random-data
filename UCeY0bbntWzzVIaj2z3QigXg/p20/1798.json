@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "r7w3hENAnRs",
-            "title": "Trump Receives FEMA Briefing On Hurricane Laura | NBC News",
-            "secondDuration": 555,
-            "group": "group_7"
-        },
-        {
             "videoId": "lGalgUS1kC0",
             "title": "LIVE: Biden Delivers Remarks on U.S. Special Forces Raid That Killed ISIS Leader | NBC News",
             "secondDuration": 611,
@@ -121,8 +115,14 @@
             "title": "High-Stakes Showdown Between Russia, U.S. Amid Ukraine Invasion Concerns",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "0zi7evq0gHA",
+            "title": "Super-Detailed Black Hole Simulations Solved A Longstanding Mystery | Mach | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

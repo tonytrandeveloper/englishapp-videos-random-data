@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "f7hY2kS8770",
-            "title": "Army Mistakenly Shipped Live Anthrax Via FedEx | NBC Nightly News",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "C4Jh1diP69I",
             "title": "Kellyanne Conway Brands Question On Trump Fear Stoking As Sesame Street 'Word Of The Day' | NBC News",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Roger Stone: ‘I Have No Intention’ Of Cutting A Deal With Robert Mueller | NBC News",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "lBUnASkeQ_o",
+            "title": "Frontline Covid Nurse Gets A Proposal | NBC News NOW",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

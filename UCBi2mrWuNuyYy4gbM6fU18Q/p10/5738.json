@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KED_OUMH9Lc",
-            "title": "'The Queen of Soul' Aretha Franklin dies at the age of 76",
-            "secondDuration": 367,
-            "group": "group_7"
-        },
-        {
             "videoId": "RcyBEnA7pEE",
             "title": "Texas lawmaker: ‘Listen to the border communities’",
             "secondDuration": 498,
@@ -61,8 +55,14 @@
             "title": "Bachelorette: Dramatic Season Premiere",
             "secondDuration": 340,
             "group": "group_7"
+        },
+        {
+            "videoId": "rxdfRZptSwk",
+            "title": "Michelle Obama Welcomes Melania Trump to White House",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

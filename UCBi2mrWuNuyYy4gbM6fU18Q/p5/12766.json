@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QDE6ronwouk",
-            "title": "Gripping Elizabeth Holmes story recapped in new 'Dropout' special | 20/20 ‘The Dropout’ Preview",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "0IBU9-9FGeo",
             "title": "COVID-19 crisis threatens children’s mental health",
             "secondDuration": 390,
@@ -31,8 +25,14 @@
             "title": "Latino and Asian-American voters could decide Georgia runoffs",
             "secondDuration": 360,
             "group": "group_7"
+        },
+        {
+            "videoId": "IuhGYFRtjgs",
+            "title": "UVA Murder: Missed Warning Signs?",
+            "secondDuration": 382,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

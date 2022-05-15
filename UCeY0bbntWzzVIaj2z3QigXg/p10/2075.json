@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ijc5sjKCks4",
-            "title": "Georgia Jury Awards $1 Billion To Rape Victim | NBC Nightly News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "Fuz868XBaZU",
             "title": "Torrential Rain, Flash Floods Hit Northeast Ahead of Hurricane Joaquin | NBC Nightly News",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Friends Search For California Woman Missing For 2 Weeks",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "bqMs0rwYrA8",
+            "title": "New York City Begins Vaccinating Students At Schools",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

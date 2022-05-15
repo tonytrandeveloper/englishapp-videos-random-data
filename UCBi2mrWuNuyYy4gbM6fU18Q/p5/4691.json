@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tc9NpOgkxZA",
-            "title": "Second Presidential Debate 2012: Obama on Going After Libya Attackers: 'I Mean What I Say'",
-            "secondDuration": 510,
-            "group": "group_7"
-        },
-        {
             "videoId": "VxQCeZpx2UM",
             "title": "Rick Santorum Discusses Gun Control During 'This Week' Roundtable: 'We Should Stick To Our Guns'",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Refugee Crisis Leaves Thousands Stranded on Greek Island",
             "secondDuration": 487,
             "group": "group_7"
+        },
+        {
+            "videoId": "J-ri7ijrvGA",
+            "title": "YouTube Music Awards Gets Mixed Reviews",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

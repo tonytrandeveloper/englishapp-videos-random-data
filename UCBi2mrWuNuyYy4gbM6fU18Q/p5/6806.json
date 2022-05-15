@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iWPsJ5O9NC0",
-            "title": "Doug Jones wins Alabama Senate race",
-            "secondDuration": 532,
-            "group": "group_7"
-        },
-        {
             "videoId": "cLyjGyS9Q-s",
             "title": "Marines' nude photo scandal victim speaks out",
             "secondDuration": 173,
@@ -31,8 +25,14 @@
             "title": "American Embassies Under Siege Across Middle East",
             "secondDuration": 354,
             "group": "group_7"
+        },
+        {
+            "videoId": "4M_0wGKNS24",
+            "title": "Obama Tours the Acropolis in Athens",
+            "secondDuration": 53,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

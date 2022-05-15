@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "J1hQflKTvcY",
-            "title": "Donald Trump On Immigration: On The Trail And As President-Elect | NBC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "IuEcGHywXV0",
             "title": "Inspiring America: ‘Girls Love Mail’ For Cancer Patients | NBC Nightly News",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "New York AG Announces Criminal Investigation Into Trump Organization",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "GUC9mJ0rDRs",
+            "title": "Wildfires In California Cost Millions | NBC News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

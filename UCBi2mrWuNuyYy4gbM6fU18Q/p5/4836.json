@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JZJ4yR8G9Z8",
-            "title": "Biden says NATO ‘would respond’ if Russia uses chemical weapons l GMA",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nf_CATbYilQ",
             "title": "President Trump: 30 Hours l Interview with George Stephanopoulos l Part 2",
             "secondDuration": 512,
@@ -31,8 +25,14 @@
             "title": "Jonathan Karl Tracks Holiday Pork in Washington",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "XAdAgkj1ctE",
+            "title": "Seaside Heights Fire Strikes NJ Boardwalk After Hurricane Sandy Recovery",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

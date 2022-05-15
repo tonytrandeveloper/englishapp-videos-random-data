@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XCt0h3qE-K4",
-            "title": "Freddie Gray Trial Begins for Second Baltimore Officer",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "51x29tpl7N4",
             "title": "Save My Life (Trailer 1)",
             "secondDuration": 31,
@@ -61,8 +55,14 @@
             "title": "Dr. Fauci testifies about 'disturbing surge' of infections",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "mjKusa1sdA0",
+            "title": "Latest on shooting of Ma’Khia Bryant in Ohio",
+            "secondDuration": 325,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

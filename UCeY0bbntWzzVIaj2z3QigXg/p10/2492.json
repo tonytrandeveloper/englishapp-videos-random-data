@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "h49inBTftKw",
-            "title": "Governor Rick Scott On Hurricane Michael: This Storm Could Kill You | NBC News",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "bicR4aM4zBg",
             "title": "NBC Nightly News Broadcast (Full) - May 3rd, 2021 | NBC Nightly News",
             "secondDuration": 1282,
@@ -61,8 +55,14 @@
             "title": "NASA Took Tree Seeds Into Space Nearly 50 Years Ago. Here's What Happened To Them. | Mach | NBC News",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "v3QKqMh4gjI",
+            "title": "She Had COVID-19, But No Insurance. Her Treatment Cost $34,972. | Think | NBC News",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

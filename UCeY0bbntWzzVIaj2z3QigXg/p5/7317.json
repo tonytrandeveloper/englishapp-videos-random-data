@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9arHVC15LHw",
-            "title": "Senator Rand Paul: 'Unfair' To Call President Trump A Racist (Full) | Meet The Press | NBC News",
-            "secondDuration": 514,
-            "group": "group_7"
-        },
-        {
             "videoId": "nXj46KPaOVc",
             "title": "Earthquake Leaves More Than 200 Dead in Haiti",
             "secondDuration": 149,
@@ -31,8 +25,14 @@
             "title": "Body Found Near Costa Rica Airbnb Where Missing U.S. Tourist Stayed | NBC Nightly News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "S0xw27THLJI",
+            "title": "Joe Rogan Apologizes For Using N-word",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

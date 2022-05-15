@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2I00fX7Am7c",
-            "title": "U.S. Issues New Sanctions Against Cuba",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZgHJjf2SyU8",
             "title": "FBI Nominee Christopher Wray Pledges 'Strict Independence' From Political Influence | NBC News",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "Fauci Says Covid Vaccines Appear Effective Against New Strains, Will Keep Monitoring Them | NBC News",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "81mIk1QD2gk",
+            "title": "Inside The Fight To Get Counted In The 2020 Census | NBC News NOW",
+            "secondDuration": 375,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

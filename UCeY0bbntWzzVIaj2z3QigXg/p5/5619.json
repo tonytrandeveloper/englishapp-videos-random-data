@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TSZlRgCSI04",
-            "title": "New York Firefighter Among 3 U.S. Service Members Killed In Afghanistan | NBC Nightly News",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "_xnULOQH7M4",
             "title": "Morning News NOW Full Broadcast - October 1",
             "secondDuration": 3148,
@@ -31,8 +25,14 @@
             "title": "Trump: The Republican Party ‘Will Not Win Again’ Under McConnell | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "c-duisPicbY",
+            "title": "Suspects In Assassination Of Haitian President Paraded By Police",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

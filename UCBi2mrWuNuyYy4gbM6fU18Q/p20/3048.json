@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FDe6RwitlAw",
-            "title": "US astronaut coming home",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "0kZ52EHeJB4",
             "title": "Back to School: Mom Dances in 'Celebration' at Kids' Bus-Stop",
             "secondDuration": 92,
@@ -121,8 +115,14 @@
             "title": "What to watch after Giuliani associates arrested l ABC News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "n5LH58-6ZLc",
+            "title": "Oklahoma City Thunder's midflight scare",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

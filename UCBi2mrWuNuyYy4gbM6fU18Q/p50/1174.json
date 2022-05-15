@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "miCBa1Z58nk",
-            "title": "High School Football Team Welcomes Transgender Player",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "KeRmO7iYfqE",
             "title": "'This Week' Mass Shooting in Isla Vista",
             "secondDuration": 472,
@@ -301,8 +295,14 @@
             "title": "Millions at risk of eviction as rent comes due",
             "secondDuration": 214,
             "group": "group_7"
+        },
+        {
+            "videoId": "Okdtv2G0OzU",
+            "title": "Attorney Gloria Allred speaks on disgraced movie mogul Harvey Weinstein guilty verdict",
+            "secondDuration": 486,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IHqr2OQ5c8Y",
-            "title": "Video shows moment teen falls over 20 feet from amusement park ride",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "JbUf-s-nLFs",
             "title": "'This Week' Sunday Spotlight: Commencement Speeches 2013",
             "secondDuration": 171,
@@ -61,8 +55,14 @@
             "title": "Holiday shipping delays",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "0hBuynElRiw",
+            "title": "California is in a statewide emergency as 2 new fires ignite near San Francisco l ABC News",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

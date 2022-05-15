@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TFVS-FrIccg",
-            "title": "Superstorm Sandy: Power Outages, Gas Shortages Continue",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "vKGJyVStU6Q",
             "title": "Attorney speaks out after FBI arrests longtime Jeffrey Epstein associate | ABC News",
             "secondDuration": 396,
@@ -121,8 +115,14 @@
             "title": "Microsoft Surface Tablet: First Look",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "IaZtB7VCyB0",
+            "title": "12-year-old rescues family from bear attack",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6-OdYErWvBM",
-            "title": "First responders rush to stop a suicidal man in Manhattan",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "oSRM8Tw1HKo",
             "title": "Bulletproof Backpacks for Kids",
             "secondDuration": 410,
@@ -61,8 +55,14 @@
             "title": "11 confirmed US coronavirus cases, experts warn of pandemic | ABC News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "8UtdfcNJbX0",
+            "title": "Moderna says vaccine is effective for babies, toddlers l WNT",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

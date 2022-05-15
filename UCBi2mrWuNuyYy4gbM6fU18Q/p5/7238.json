@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oGMXln1ggrA",
-            "title": "Hurricane Matthew Hammers Florida",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "gVxQiSnEOnc",
             "title": "Trump Transition Team Pushing Christie to Run for RNC Chair",
             "secondDuration": 26,
@@ -31,8 +25,14 @@
             "title": "The 2017 Toy Fair | ABC News",
             "secondDuration": 304,
             "group": "group_7"
+        },
+        {
+            "videoId": "xk0CAZ55sbE",
+            "title": "Austin mayor reacts to Texas lifting mask mandate",
+            "secondDuration": 283,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

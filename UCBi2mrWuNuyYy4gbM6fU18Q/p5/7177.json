@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_ZwCN2S1ygw",
-            "title": "Donald Trump Speaks at Rolling Thunder Veterans' Event",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "pOReVy2QXRA",
             "title": "Inmate Executed in Georgia",
             "secondDuration": 31,
@@ -31,8 +25,14 @@
             "title": "Boy With Cancer Marries High School Sweetheart at Hospital",
             "secondDuration": 47,
             "group": "group_7"
+        },
+        {
+            "videoId": "myG-Kh92mtQ",
+            "title": "A magnitude 4.4 quake jolted the San Francisco Bay area.",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

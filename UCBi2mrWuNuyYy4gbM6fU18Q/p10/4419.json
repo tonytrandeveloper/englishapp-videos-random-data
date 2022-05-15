@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7KhgM0JykcQ",
-            "title": "Sports Illustrated Ad Features Plus- Size Models | ABC News",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "7JqtEJSD2X8",
             "title": "President Trump releases transcript of call with Ukrainian president | ABC News SPECIAL REPORT",
             "secondDuration": 1103,
@@ -61,8 +55,14 @@
             "title": "Louisiana Flooding | Dramatic Drone Footage Shows Damage",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "s2Tz5jy94Vs",
+            "title": "'GAA' Toe-to-Toe: Okay to Discipline Other People's Kids?",
+            "secondDuration": 306,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

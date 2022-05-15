@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y3IePBcZYs0",
-            "title": "Herman Kahn: It's too late for Obama to strike Syria",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "z9U0rM8QKOw",
             "title": "Frustration Over Vaccine Shortage Continues | NBC Nightly News",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "New Car Leasing Program Lets Drivers Get New Car Every Two Weeks | NBC Nightly News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "esYAJAn_Z4c",
+            "title": "'We Are Prepared': San Francisco Health Official Responds To Omicron Variant Found in California",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

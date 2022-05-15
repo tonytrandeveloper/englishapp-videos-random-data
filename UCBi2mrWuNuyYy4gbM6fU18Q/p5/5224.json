@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rPF2wQbX2Kg",
-            "title": "Ted Cruz Reflects on 2016 Run for President",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q-2Ozkiok4s",
             "title": "The deals the 'Shark Tank' sharks regret never taking: Part 2 | ABC News",
             "secondDuration": 482,
@@ -31,8 +25,14 @@
             "title": "Parkland students react to Trump’s comments to the NRA",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "GfUfCTfkA3g",
+            "title": "Ferguson Police Chief Releases Name of Officer Who Shot Teen",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hSwwfIhMXU0",
-            "title": "White House Holds Press Briefing | NBC News",
-            "secondDuration": 1470,
-            "group": "group_7"
-        },
-        {
             "videoId": "GTuJwent62E",
             "title": "North Carolina School Officer Fired After Video Shows Him Body-Slamming A Student | NBC Nightly News",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Transgender Activist A Target For Violence In Honduras | NBC News",
             "secondDuration": 255,
             "group": "group_7"
+        },
+        {
+            "videoId": "FL-PZzjuSMc",
+            "title": "Oklahoma Student Wins Year Of Free College Tuition By Hitting Half-Court Shot | NBC Nightly News",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

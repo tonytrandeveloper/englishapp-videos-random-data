@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ca3LgrmCRkE",
-            "title": "President Trump threatening to bypass Congress",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "YERRDeb6DG0",
             "title": "Fast-moving storm brings snow, heavy wind to Northeast",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "Robin Roberts' Fans Leave Messages",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "lNz5eZHkKKw",
+            "title": "Inside Funerals for Orlando Shooting Victims",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

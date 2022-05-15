@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nL0BnPdxM9U",
-            "title": "Lawmakers announce deal for $2 Trillion stimulus package l ABC News",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "pj81hqeQSrc",
             "title": "Woman With Zika Tells Her Story",
             "secondDuration": 248,
@@ -61,8 +55,14 @@
             "title": "The Case of the Missing iPad",
             "secondDuration": 405,
             "group": "group_7"
+        },
+        {
+            "videoId": "hsIiAsxvPbU",
+            "title": "Adele Cancels Her Phoenix Concert | ABC News",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

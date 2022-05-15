@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lmthybeKSUA",
-            "title": "Hiroshima Marks 75th Anniversary Of Atomic Bombing With Scaled-Back Ceremony | NBC News NOW",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "vRQ2mX1YK0A",
             "title": "President Donald Trump From Iraq: 'I Had Concerns For The Institution Of The Presidency' | NBC News",
             "secondDuration": 445,
@@ -31,8 +25,14 @@
             "title": "Trump Faces Questions Over Donation, Florida AG and Trump University | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "m2E_AIPl5tY",
+            "title": "Buttigieg, Sanders, Klobuchar React To Partial Iowa Caucus Results | NBC News",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

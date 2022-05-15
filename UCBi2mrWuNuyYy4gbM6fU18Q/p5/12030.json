@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EDM3FvkICaM",
-            "title": "President Trump leads coronavirus task force briefing",
-            "secondDuration": 1315,
-            "group": "group_7"
-        },
-        {
             "videoId": "srD0-X2DpP0",
             "title": "'This Week' Game Changer: Pope Francis",
             "secondDuration": 437,
@@ -31,8 +25,14 @@
             "title": "Donald Trump, Ted Cruz Battle for Indiana Win",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "zwBswOBvjG4",
+            "title": "Rift Between Baby Lisa's Parents, Police",
+            "secondDuration": 306,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

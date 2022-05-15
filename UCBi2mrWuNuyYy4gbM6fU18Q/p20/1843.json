@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "42fjt9a9qNs",
-            "title": "Suicide bomber in Kabul, Afghanistan, claims the lives of more than 50 people",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jeb58tRquXk",
             "title": "One Last Chance: The Trial of Scott Peterson l 20/20 l PART 1",
             "secondDuration": 511,
@@ -121,8 +115,14 @@
             "title": "Cheney addresses media after vote",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "3Oq3Y_OVuAA",
+            "title": "White House ‘not taking options off of the table’ in response to cyberattacks",
+            "secondDuration": 827,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

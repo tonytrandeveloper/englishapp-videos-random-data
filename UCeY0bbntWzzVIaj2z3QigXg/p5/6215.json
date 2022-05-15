@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fNwovqvlWpE",
-            "title": "The Arab Spring: Ten Years Later | NBC News NOW",
-            "secondDuration": 387,
-            "group": "group_7"
-        },
-        {
             "videoId": "K7MW-awoE7Q",
             "title": "Pres.-Elect Donald Trump Meets The Press In First News Conference Since July 2016 | NBC Nightly News",
             "secondDuration": 276,
@@ -31,8 +25,14 @@
             "title": "Are Electronic Devices Are Ruining Our Sleep? | NBC Nightly News",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "iZTOy70m-28",
+            "title": "Sacha Baron Cohen Slams Social Media Companies: 'Your Product Is Defective' | NBC News",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

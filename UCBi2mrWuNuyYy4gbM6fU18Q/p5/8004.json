@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OWAPHAi4DaA",
-            "title": "Connecticut's front-line workers receive the state’s 1st doses of COVID-19 vaccine",
-            "secondDuration": 445,
-            "group": "group_7"
-        },
-        {
             "videoId": "WCjJTLu5nrA",
             "title": "Putin cracks down on Russian protesters",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "The Rundown: Top headlines today: Feb. 24, 2021",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "deHXaJzYoFQ",
+            "title": "Day 3 of Ketanji Brown Jackson's confirmation hearing",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

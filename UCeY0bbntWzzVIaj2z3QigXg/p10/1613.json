@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vDEFPRxxRXc",
-            "title": "NBC News Projects Trump Will Win Florida | NBC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lu11Qkqzmvw",
             "title": "One Dead, 11 Wounded In Dallas Concert Shooting",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "Supreme Court Gives Victory To Baker Who Refused To Make Cake For Same-Wedding | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "xkpsJjkuU5c",
+            "title": "'Stay On Your Feet Stay Alive:' Nashville Police Share Christmas Explosion Experience | NBC News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

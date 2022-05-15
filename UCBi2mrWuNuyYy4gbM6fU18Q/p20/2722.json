@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-sA2-Y6aI98",
-            "title": "A path to end unintentional prejudice",
-            "secondDuration": 401,
-            "group": "group_7"
-        },
-        {
             "videoId": "w3_OrDdBRxU",
             "title": "The Final Days of George Michael",
             "secondDuration": 109,
@@ -121,8 +115,14 @@
             "title": "Jobless benefits expired",
             "secondDuration": 216,
             "group": "group_7"
+        },
+        {
+            "videoId": "8xtewUN_B_k",
+            "title": "Passengers are secretly being watched on the plane by TSA program",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

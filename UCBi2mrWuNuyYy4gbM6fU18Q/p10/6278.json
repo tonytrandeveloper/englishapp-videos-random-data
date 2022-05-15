@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t4uaFxdnNRw",
-            "title": "Teen Arrested for Alleged Columbine-like Plot",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "n7N7aWnFeUc",
             "title": "Prison Break: Scent of 2 Convicted Killers Picked Up In Small Town",
             "secondDuration": 168,
@@ -61,8 +55,14 @@
             "title": "Health Officials warn of danger from more contagious variants | ABC News",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "a26w4v19wyM",
+            "title": "WATCH LIVE: ABC News Live Prime: 2020 race, Coronavirus updates, Trump pardons, Daytona crash",
+            "secondDuration": 3593,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

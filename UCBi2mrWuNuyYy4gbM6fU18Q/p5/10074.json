@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Hk2tu3OfIGw",
-            "title": "'This Week': Countdown to Government Default",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "HQnKEhHb4Iw",
             "title": "Strike on Syria Aid Convoy Killed 20 Civilians",
             "secondDuration": 72,
@@ -31,8 +25,14 @@
             "title": "Jussie Smollett sentenced",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "1cyhMJDN4xE",
+            "title": "Osama bin Laden Photo: US-Pakistan Relationship at Risk?",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

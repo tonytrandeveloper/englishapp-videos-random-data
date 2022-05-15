@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "knYJn5kOkdQ",
-            "title": "Deadly MERS Virus Arrives in America",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "r6v2MDz6hxM",
             "title": "Nashville Flood Destroys Music History",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Greg Norman Almost Loses Hand in Chainsaw Accident",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "e2G5hotS4To",
+            "title": "Successful veterinarian finds love again with younger doctor: Part 1",
+            "secondDuration": 422,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

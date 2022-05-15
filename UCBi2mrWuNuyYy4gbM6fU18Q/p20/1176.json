@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qTCrIEXANLA",
-            "title": "Karzai Sworn In Despite Corruption Allegations",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "xmTdrHqkOes",
             "title": "Chris Christie Sounds Off on Presidential Race",
             "secondDuration": 224,
@@ -121,8 +115,14 @@
             "title": "Sen. Schumer calls on Republicans to ‘do their duty’ l ABC News",
             "secondDuration": 405,
             "group": "group_7"
+        },
+        {
+            "videoId": "48V44XCL1cg",
+            "title": "Family of Teen Tortured on Facebook Speak Out | ABC News",
+            "secondDuration": 49,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

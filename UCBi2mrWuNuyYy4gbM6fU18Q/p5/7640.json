@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9uv0bpazCOA",
-            "title": "US Health Officials Prepare for Sars-Like Virus's Arrival",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "6AD5tWM8tpg",
             "title": "Conditions deteriorating quickly as storm bears down on Gulf",
             "secondDuration": 221,
@@ -31,8 +25,14 @@
             "title": "The Fallout From the CIA Report Detailing Gruesome Torture",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "mIWv0Jcqzog",
+            "title": "ABC News Prime: Extreme weather in the US; State of siege in Haiti; Push for voting rights",
+            "secondDuration": 5239,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

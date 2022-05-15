@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ApP0NsR8TZM",
-            "title": "Philonese Floyd: ‘We have some type of accountability’",
-            "secondDuration": 443,
-            "group": "group_7"
-        },
-        {
             "videoId": "D6g9sktPd5A",
             "title": "Sonia Sotomayor Takes the Heat",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Prince Dead at 57",
             "secondDuration": 262,
             "group": "group_7"
+        },
+        {
+            "videoId": "A6eafoVQTtA",
+            "title": "Frost: 'The House Is In Play'",
+            "secondDuration": 632,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

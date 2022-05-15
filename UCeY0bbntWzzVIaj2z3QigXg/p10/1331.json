@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "at8QzTGTM5I",
-            "title": "Freak Storm Batters Istanbul With Golf Ball-Sized Hail | NBC News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "L4fJzw6-mGg",
             "title": "Hyundai Unveils Its ‘Walking Car’ At CES | NBC News",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Critics Blast Saudi Arabia’s Explanation Of Journalist’s Death As A Cover-Up | NBC Nightly News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "DbyMpqPZ-K8",
+            "title": "Los Angeles County Gives Coronavirus Update | NBC News (Live Stream Recording)",
+            "secondDuration": 4377,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

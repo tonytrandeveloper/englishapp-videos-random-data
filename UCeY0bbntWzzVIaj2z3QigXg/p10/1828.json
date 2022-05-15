@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JrA9vioyM1U",
-            "title": "Violence Escalates Between Israel And Gaza As Death Toll Rises",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "mw5BnkPXzIk",
             "title": "New Research Shows COVID-19 Patients Who Test Positive Second Time May Not Be Infectious | NBC News",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Record-Breaking, Dangerous Heat Blankets the Southwest US",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z3VAh6NEbqE",
+            "title": "Chris Paul: \"For student success, it takes...\"",
+            "secondDuration": 6,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gZ4sLK1JepE",
-            "title": "San Diego Police Shootout Caught on Tape",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "5mGbfp-HL90",
             "title": "Davy Jones Dead: 'Monkees' Star Unexpectedly Dies of Heart Attack in Florida",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Fantasy Sports Sites Under Investigation for Fraud",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "jecqNSyRgnE",
+            "title": "Severe Storms Continue Campaign of Nasty Weather",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

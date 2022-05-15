@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XInKfVKHXU0",
-            "title": "Live: Trump Holds News Conference With President Of Poland | NBC News",
-            "secondDuration": 2250,
-            "group": "group_7"
-        },
-        {
             "videoId": "8pJpRGpRSVA",
             "title": "Selfie Lessons With Andy Cohen",
             "secondDuration": 8,
@@ -61,8 +55,14 @@
             "title": "Boeing Fires Its CEO ‘To Restore Confidence’ Amid 737 Max Crisis | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "i0vkFKqxzGg",
+            "title": "Growing Concerns As Coronavirus Cases Surge In Reopening States | NBC Nightly News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

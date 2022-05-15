@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PMSDBJdq4_s",
-            "title": "Keystone Pipeline Vote Leaves Landrieu Disappointed | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "X7SgCTuVHXc",
             "title": "NBC News Projects Joe Biden Wins Massachusetts Primary | NBC News",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Oklahoma City’s School For Homeless Children A Lifeline For Many | NBC Nightly News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "cDS-1Els4y8",
+            "title": "President Trump Sanctions North Korea, A Sign Diplomacy Is Still On The Table | NBC Nightly News",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

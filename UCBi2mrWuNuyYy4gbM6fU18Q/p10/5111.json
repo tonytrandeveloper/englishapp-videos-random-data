@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vcBI_OusRJ8",
-            "title": "Meet the Double Amputee Building the New Bionic Man",
-            "secondDuration": 226,
-            "group": "group_7"
-        },
-        {
             "videoId": "l4ClTjXJj48",
             "title": "Clive Owen on Playing a Tortured Surgeon in 'The Knick'",
             "secondDuration": 159,
@@ -61,8 +55,14 @@
             "title": "Man abandoned at birth by mom uses genetic genealogy to look for biological parents",
             "secondDuration": 368,
             "group": "group_7"
+        },
+        {
+            "videoId": "pfTRIeMlvYw",
+            "title": "Alarming number of infants infected with coronavirus in 1 Texas county | WNT",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

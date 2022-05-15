@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Csa1u4pmIGw",
-            "title": "On the frontline in Texas, the Mayor of Plano talks about the virus surge",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "sWzSjAnV8Zc",
             "title": "Toxic Spill Closes 5 Miles of Beaches in California",
             "secondDuration": 51,
@@ -31,8 +25,14 @@
             "title": "Kasich Snubs Trump With Write-In Vote for McCain",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "zeiN_A-OSt8",
+            "title": "Lifesaving demonstration to safely escape a house fire l ABC News",
+            "secondDuration": 529,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

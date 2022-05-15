@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xOUAD5xL8pI",
-            "title": "Nightly News Full Broadcast - Feb. 11",
-            "secondDuration": 974,
-            "group": "group_7"
-        },
-        {
             "videoId": "SHynI_l9uQ8",
             "title": "Dramatic Rescues Follow Devastating Houston Floods | NBC News",
             "secondDuration": 61,
@@ -121,8 +115,14 @@
             "title": "More Than 30 Million Americans Are Under Winter Storm Watches",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "FBOcJyvTQqg",
+            "title": "Intelligence Chief Briefs On Cyber Security For Political Candidates | NBC News",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

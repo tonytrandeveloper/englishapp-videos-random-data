@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dPXX-SZdJ-o",
-            "title": "San Diego’s Hotel Del Coronado Celebrates Its 130th Anniversary | NBC Nightly News",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "YCibbKvVGx8",
             "title": "Donald Trump Urges Lewandowski To 'Make A Decision' About Running For Senate | NBC News",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Russian Foreign Minister On Nuclear Strike Potential: ‘We Don’t Have Insane People’",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "NVL7aNYRuF0",
+            "title": "President Donald Trump To 9/11 Families: ‘Our Nation Grieves With You’ | NBC News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wzcMGgHHrqI",
-            "title": "Fallout after Trump's tweet to North Korea",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "JMOJ_DVHuwc",
             "title": "Cuomo asks MTA for plan to disinfect subways each night",
             "secondDuration": 506,
@@ -31,8 +25,14 @@
             "title": "Malaysia Airlines Disaster: Grim Recovery Efforts Underway",
             "secondDuration": 496,
             "group": "group_7"
+        },
+        {
+            "videoId": "aajEVNlewuE",
+            "title": "Trump University Employee Playbook Revealed",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

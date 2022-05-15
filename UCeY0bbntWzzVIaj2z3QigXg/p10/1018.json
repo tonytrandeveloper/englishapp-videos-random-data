@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4BNXdwL-ELw",
-            "title": "Is Your Weed Killing The Environment? | NBC News",
-            "secondDuration": 249,
-            "group": "group_7"
-        },
-        {
             "videoId": "1X95Vt84LGc",
             "title": "President Donald Trump Calls Chuck Schumer's Tears 'Fake' | NBC News",
             "secondDuration": 79,
@@ -61,8 +55,14 @@
             "title": "What's in Democrats' Latest Voting RightsReform Legislation?",
             "secondDuration": 236,
             "group": "group_7"
+        },
+        {
+            "videoId": "YimWFIG9EPM",
+            "title": "Key Takeaways From Milley, Austin’s Testimony On Afghanistan Withdrawal",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

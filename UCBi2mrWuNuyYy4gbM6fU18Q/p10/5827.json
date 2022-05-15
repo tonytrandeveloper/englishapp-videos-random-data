@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4VdGhtDew-Y",
-            "title": "Abbey Road Studios celebrates big birthday",
-            "secondDuration": 204,
-            "group": "group_7"
-        },
-        {
             "videoId": "ALhG5P26bik",
             "title": "Why Texas Abortion Case at US Supreme Court Matters",
             "secondDuration": 498,
@@ -61,8 +55,14 @@
             "title": "Amtrak Train Derails in Pennsylvania",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "t0fI-rSJTis",
+            "title": "Carnival Cruise Ship Stranded off Yucatan Peninsula",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

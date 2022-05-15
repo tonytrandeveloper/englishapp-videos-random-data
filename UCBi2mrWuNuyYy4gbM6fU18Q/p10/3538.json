@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8lUnl2oNvqA",
-            "title": "Down in the Bayou",
-            "secondDuration": 292,
-            "group": "group_7"
-        },
-        {
             "videoId": "iSmY5n48In4",
             "title": "DC police officers recount violence, lawmakers demand Capitol security probe: Part 1",
             "secondDuration": 662,
@@ -61,8 +55,14 @@
             "title": "Married on the front lines | WNT",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "HKqeHUpZRl8",
+            "title": "Detectives investigate woman who they believe killed her first and second husbands",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

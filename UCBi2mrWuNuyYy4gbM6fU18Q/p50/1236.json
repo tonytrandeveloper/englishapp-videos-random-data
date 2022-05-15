@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-OZhakCgwac",
-            "title": "Rhode Island couple ties the knot during snowstorm",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "sIgxKyCmzeM",
             "title": "IRAN PRISONER EXCHANGE | 3 of 5 Detained Americans Headed Home",
             "secondDuration": 167,
@@ -301,8 +295,14 @@
             "title": "F-16 Jets Collide in Mid-Air Over Georgia, Pilots Eject Safely",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "44c0YXGYiK8",
+            "title": "‘The worst is over if we continue to be smart’: Gov. Cuomo",
+            "secondDuration": 478,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

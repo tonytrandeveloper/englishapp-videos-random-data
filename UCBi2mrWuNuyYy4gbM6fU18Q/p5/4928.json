@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E47ml6hhUSg",
-            "title": "Rescue Backlash: Some Soldiers Call Bowe Bergdahl a Deserter",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "INmpOJqjHIM",
             "title": "'This Week' Exclusive Interview: Iran's Foreign Minister Javad Zarif",
             "secondDuration": 1097,
@@ -31,8 +25,14 @@
             "title": "Robert Mueller prepares for high-stakes testimony",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "B4BOP8-gyfE",
+            "title": "Manhunt Continues for Two Dangerous Criminals",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

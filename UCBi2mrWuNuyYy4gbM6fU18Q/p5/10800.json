@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5nT4y_zMRQk",
-            "title": "Hosni Mubarak Refuses to Go 2/10/2011",
-            "secondDuration": 370,
-            "group": "group_7"
-        },
-        {
             "videoId": "7h3bYNPr9xA",
             "title": "'The Briefing Room': Obama back on trail, NY Times 'resitance' op-ed, Mueller probe | ABC News",
             "secondDuration": 1551,
@@ -31,8 +25,14 @@
             "title": "U.S. Border Protection Head: Central American Immigrants Not Dangerous",
             "secondDuration": 420,
             "group": "group_7"
+        },
+        {
+            "videoId": "ThPycn4tXtE",
+            "title": "Food crisis",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

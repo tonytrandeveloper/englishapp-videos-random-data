@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "whyNRDJYiXA",
-            "title": "California Drenched Heading Into Oscar Weekend",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "TUv1jogYWxE",
             "title": "Seafood Harvest Threatened by Oil Spill",
             "secondDuration": 81,
@@ -61,8 +55,14 @@
             "title": "US officials: Iran and Russia are interfering in election",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "nbVWw6KjH_w",
+            "title": "White House weighs in as Venezuela crisis grows",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

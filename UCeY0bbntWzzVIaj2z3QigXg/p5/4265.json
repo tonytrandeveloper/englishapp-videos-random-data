@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iEvIjiZuSuQ",
-            "title": "New Video Shows The Moment Pennsylvania Troopers Shot Christian Hall",
-            "secondDuration": 265,
-            "group": "group_7"
-        },
-        {
             "videoId": "LOrLauYh8IQ",
             "title": "U.S. Navy Veteran Has Been Imprisoned In Iran For Months, Mother Says | NBC Nightly News",
             "secondDuration": 76,
@@ -31,8 +25,14 @@
             "title": "Latest NBC News Poll: 64% Disapprove Of Self-Pardon For President Trump | Meet The Press | NBC News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "R5SCb43ko4o",
+            "title": "Wisconsin AG Not Releasing Body Cam Video Of Fatal Officer-Involved Shooting | NBC News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

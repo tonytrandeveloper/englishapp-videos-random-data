@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PiT6jL4YNP8",
-            "title": "This Morning’s Top Headlines – August 23 | Morning News NOW",
-            "secondDuration": 1254,
-            "group": "group_7"
-        },
-        {
             "videoId": "gpcTb5937L0",
             "title": "Ben Carson:  U.S. Should Not Elect a Muslim as President | NBC Nightly News",
             "secondDuration": 203,
@@ -61,8 +55,14 @@
             "title": "AG Garland Announces Lawsuit Against 'Clearly Unconstitutional' Texas Abortion Law",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "0gcOMXnkQg8",
+            "title": "Andrea Mitchell Hosts Intelligence And Counterterrorism Panel At 92Y | NBC News",
+            "secondDuration": 4323,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

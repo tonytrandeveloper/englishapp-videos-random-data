@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "51Q9k9W8jd0",
-            "title": "'We're Close To The Edge': EPA Head Warns Of Ongoing Climate Crisis",
-            "secondDuration": 310,
-            "group": "group_7"
-        },
-        {
             "videoId": "k7KeKACfGKM",
             "title": "New Therapy For Cancer Patients Who Have Given Up Hope | NBC Nightly News",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Biden Announces Plans To Tap Into Oil Reserves To Combat Rising Prices",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "z31HzgUUozo",
+            "title": "On The Front Lines in Ukraine Amid Threat of Russian Invasion",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

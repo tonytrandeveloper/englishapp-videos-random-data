@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-eSzhzgDn-s",
-            "title": "Making the Vote",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "hLUlA11FFVk",
             "title": "People Willingly Get Buried Alive in New Show",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Stuck in Storm Drain!",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "g-suEOxkRCs",
+            "title": "Black Friday is here!",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

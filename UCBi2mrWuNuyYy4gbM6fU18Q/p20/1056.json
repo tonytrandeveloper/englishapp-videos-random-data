@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qKtz7VSMzdo",
-            "title": "| ABC News",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "Cneu7aZ2ul4",
             "title": "Phony Food on the Rise: Learn How to Spot Counterfeit Food",
             "secondDuration": 107,
@@ -121,8 +115,14 @@
             "title": "Sinkhole Strikes Back",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "-Zs-KsnyvoU",
+            "title": "Harrison Ford Plane Crashes in California",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

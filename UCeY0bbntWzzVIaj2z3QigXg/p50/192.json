@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "D_tP87SrXd0",
-            "title": "Portland Tackles Opioid Epidemic With New Solutions | NBC Nightly News",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "PY4C_x_TjIs",
             "title": "White House Holds Press Briefing: April 23 | NBC News",
             "secondDuration": 3788,
@@ -301,8 +295,14 @@
             "title": "Reputed Mafia Boss Gunned Down Outside New York City Home | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "ldnj2btHqFI",
+            "title": "National Intelligence Chief Dan Coats Testifies At Senate Hearing | NBC News",
+            "secondDuration": 7355,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

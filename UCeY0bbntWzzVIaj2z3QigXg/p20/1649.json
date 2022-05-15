@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BVYXBGARSSo",
-            "title": "Trump Administration Declares COVID-19 A Public Health Emergency | NBC News",
-            "secondDuration": 243,
-            "group": "group_7"
-        },
-        {
             "videoId": "4-7rZ1nMl28",
             "title": "Jury Convicts Former Police Officer Over Role In Capitol Riot",
             "secondDuration": 88,
@@ -121,8 +115,14 @@
             "title": "Supreme Court Blocks Biden Covid Vaccine Mandate For Businesses",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "vReIgW8z86I",
+            "title": "Deadly Earthquake Rattles China's Sichuan Province",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

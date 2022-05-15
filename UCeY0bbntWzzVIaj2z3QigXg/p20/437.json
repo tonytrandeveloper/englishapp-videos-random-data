@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-iSOYzfoMeM",
-            "title": "Into the Future of DREAMers| Into America Podcast – Ep. 29 | NBC News and MSNBC",
-            "secondDuration": 1381,
-            "group": "group_7"
-        },
-        {
             "videoId": "O71d5Vwnukk",
             "title": "Missing California Camper Found Alive After Being Lost Since Friday | NBC Nightly News",
             "secondDuration": 96,
@@ -121,8 +115,14 @@
             "title": "Trial In Murder Of Ahmaud Arbery In Second Week, Criticism Over Mostly-White Jury Selection",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "PPJAMHaN3kk",
+            "title": "Trump Hits On Hot-Button Issues At Nevada Midterm Event | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

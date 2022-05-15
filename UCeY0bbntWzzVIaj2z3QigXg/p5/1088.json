@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aQd1WCsYdas",
-            "title": "Al Qaeda Claims Responsibility for Charlie Hebdo Attack | NBC Nightly News",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "mgjJD9K4-iA",
             "title": "Deadly Texas Shootout: Suspect Dead, Three Officers Injured | NBC Nightly News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Cory Booker Shares His Big Idea For ‘Baby Bonds’ | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "xTNbbVLzXrM",
+            "title": "Democrats Make South Carolina Campaign Push With Primary Days Away | NBC Nightly News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

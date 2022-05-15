@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5ty7kQbftTM",
-            "title": "Tiger Woods: The Mistress Business 2/17/2011",
-            "secondDuration": 456,
-            "group": "group_7"
-        },
-        {
             "videoId": "7i7Hjh7yOc4",
             "title": "Joe Biden apparent winner of presidency | ABC News",
             "secondDuration": 215,
@@ -31,8 +25,14 @@
             "title": "State of the Union 2016: President Obama's Final Speech, Special Guests",
             "secondDuration": 436,
             "group": "group_7"
+        },
+        {
+            "videoId": "OtJWFH1wTTM",
+            "title": "Ted Cruz's Colorado Performance Makes Contested Convention More Likely",
+            "secondDuration": 274,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

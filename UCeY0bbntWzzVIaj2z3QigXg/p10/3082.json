@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "A5A0-i_pXOU",
-            "title": "Barbara Bush Remembered For Values And Impact At Funeral Service | NBC Nightly News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "0ESp9ZlbRfs",
             "title": "This New Robot Can Hold The Door For Its Friend | Mach | NBC News",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "Full FutureHAUS: Inside The Hi-Tech Home Of The Future | Mach | NBC News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "bQkjmlA-hSM",
+            "title": "A Ring That Could Unlock Everything In Your Electronic Future | Mach | NBC News",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

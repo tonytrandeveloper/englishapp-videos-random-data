@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SXepBWG3Hlo",
-            "title": "Bridge Collapse Kills Girl",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "QkUd8OtZZ90",
             "title": "WEBCAST: The Perfect Storm",
             "secondDuration": 197,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: NYC Subway Freak-Out!",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "J6oOJg3GHFc",
+            "title": "Kidnap Victim Lives to Tell",
+            "secondDuration": 659,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

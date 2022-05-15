@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0iPTV7osRj8",
-            "title": "Five Dead After Plane Crashes Into Southern California Home | NBC Nightly News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "IoOYSCGCTvI",
             "title": "Firefighters Struggling To Contain Northern California’s Dixie Fire",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "2 American Troops, 1 British Soldier Killed In Attack On Iraq Military Base | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "gW3Lt2FQapk",
+            "title": "Tom Brokaw: Ronald Reagan's Debate Challenge | NBC News",
+            "secondDuration": 283,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ib8Rh9bv0so",
-            "title": "FBI Hacks iPhone | Finds Answers Regarding San Bernardino Terrorists",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "dLdjmflxF74",
             "title": "Justin Bieber Battery Investigation: Neighbor Calls Him a 'Punk'",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Honoring Bob Dole",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "4X0xKSBvqvE",
+            "title": "Rikers Correction Officer | A Day in the Life",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

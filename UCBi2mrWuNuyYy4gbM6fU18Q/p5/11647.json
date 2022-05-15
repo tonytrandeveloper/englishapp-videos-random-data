@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FwRBOeNvFGI",
-            "title": "'Tik Talk': The 'Old Gays'",
-            "secondDuration": 385,
-            "group": "group_7"
-        },
-        {
             "videoId": "q5ki5zUUU54",
             "title": "Teens fall through ice in Central Park",
             "secondDuration": 46,
@@ -31,8 +25,14 @@
             "title": "Paris Attacks: Death Toll Could Exceed 120",
             "secondDuration": 524,
             "group": "group_7"
+        },
+        {
+            "videoId": "n5mINmshSso",
+            "title": "Gas prices reach a staggering high",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

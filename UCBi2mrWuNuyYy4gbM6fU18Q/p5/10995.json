@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vB0FfctUVtM",
-            "title": "Embarrassing Interview Moments",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "TjBZUZa_P4A",
             "title": "Author Andy Andrews Talks New Book 'The Seven Decisions'",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "Runaway Bus Crashes into 7 Cars",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "by7sntzFgdM",
+            "title": "Republicans Prepare to Debate Ahead of New Hampshire Primary",
+            "secondDuration": 360,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

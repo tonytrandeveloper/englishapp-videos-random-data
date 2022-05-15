@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DpnBEhxnjIg",
-            "title": "This Morning’s Top Headlines – Nov. 5 | Morning News NOW",
-            "secondDuration": 1091,
-            "group": "group_7"
-        },
-        {
             "videoId": "LsVvPonEq0U",
             "title": "Trump Signs Coronavirus Relief Bill To Help Small Businesses And Hospitals | NBC News NOW",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Florida Governor Says White House Accelerating Remdesivir Doses To Hard-Hit State | NBC News NOW",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "mg8-_4ZfLpY",
+            "title": "See How President Donald Trump’s Border Wall Prototypes Are Taking Shape | NBC News",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

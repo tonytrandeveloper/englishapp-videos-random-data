@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m5T4BurWtvk",
-            "title": "Experts: Boosting Vaccine Production Could Take Weeks | NBC Nightly News",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "yfK5JW0aJNM",
             "title": "University Of Florida President Apologizes For Grads Being Rushed Off Stage | NBC Nightly News",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "ROUGH CUT: Muriel Dorsey on Urban Debate",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "NalXhQYPx50",
+            "title": "LIVE: Bob Dole Lies In State At U.S. Capitol | NBC News",
+            "secondDuration": 36800,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

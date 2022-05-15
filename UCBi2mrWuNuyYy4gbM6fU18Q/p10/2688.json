@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2YIxaBYTeRk",
-            "title": "Parade security tighter than ever in NYC",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "SPDIHyZpedY",
             "title": "Kamala Harris emphasizes US commitment to defend NATO at DNC winter meeting",
             "secondDuration": 62,
@@ -61,8 +55,14 @@
             "title": "Arkansas Police Shooting | Officer Dead, Another Injured",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "SWu0GikVDiA",
+            "title": "WEBCAST: Wild Weather",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

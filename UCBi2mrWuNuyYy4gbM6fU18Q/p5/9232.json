@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GbE1KUG6IUM",
-            "title": "Elizabeth Hasselbecks Gluten-Free Diet",
-            "secondDuration": 253,
-            "group": "group_7"
-        },
-        {
             "videoId": "AcZUaHXPWCQ",
             "title": "Chattanooga Shooting Witness: 'It Was Endless Shots'",
             "secondDuration": 223,
@@ -31,8 +25,14 @@
             "title": "The Videos That Went Viral This Year",
             "secondDuration": 467,
             "group": "group_7"
+        },
+        {
+            "videoId": "9kfMxYUbtiQ",
+            "title": "LeBron James says sports should bring people together",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

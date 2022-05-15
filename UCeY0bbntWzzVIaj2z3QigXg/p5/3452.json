@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ESUhvhzpvdo",
-            "title": "Buttigieg: 'We Knew South Carolina Was Going To Be A Challenging State' | Meet The Press",
-            "secondDuration": 438,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z_mi0lwAqW4",
             "title": "President Donald Trump Calls ‘Untruthful Slime Ball’ Following Book Revelations | NBC Nightly News",
             "secondDuration": 169,
@@ -31,8 +25,14 @@
             "title": "Record Number Of Children Killed By Flu This Season | NBC Nightly News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "DNRNjMLeoLM",
+            "title": "Los Angeles Bomb Threat Closes All Public Schools | NBC News",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

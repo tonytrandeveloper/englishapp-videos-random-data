@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cS0NUlqz1vo",
-            "title": "Meet The Press Broadcast (Full) - May 10th, 2020 | Meet The Press | NBC News",
-            "secondDuration": 2861,
-            "group": "group_7"
-        },
-        {
             "videoId": "eedQHN_hAwE",
             "title": "Red Clark: I don't know what the right answer is",
             "secondDuration": 52,
@@ -31,8 +25,14 @@
             "title": "Spike In U.S. Mass Shootings 22 Years After Columbine High School Tragedy | NBC News NOW",
             "secondDuration": 538,
             "group": "group_7"
+        },
+        {
+            "videoId": "r7w3hENAnRs",
+            "title": "Trump Receives FEMA Briefing On Hurricane Laura | NBC News",
+            "secondDuration": 555,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

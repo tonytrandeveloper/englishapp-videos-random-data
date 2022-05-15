@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IlHUzDbt11k",
-            "title": "Biden Slams Trump Over Coronavirus Pandemic Response | NBC Nightly News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "qONBjNFqcOI",
             "title": "Meet The Press Broadcast (Full) - August 23rd, 2020 | Meet The Press | NBC News",
             "secondDuration": 2842,
@@ -121,8 +115,14 @@
             "title": "What's in Democrats' Latest Voting RightsReform Legislation?",
             "secondDuration": 236,
             "group": "group_7"
+        },
+        {
+            "videoId": "YimWFIG9EPM",
+            "title": "Key Takeaways From Milley, Austin’s Testimony On Afghanistan Withdrawal",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

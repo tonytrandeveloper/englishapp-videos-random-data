@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0UHHYoipuVg",
-            "title": "Housing Market Bounces Back",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "bPNvksG82MA",
             "title": "Vicki Kennedy on Health Care, the Supreme Court, and Ted Kennedy's Legacy",
             "secondDuration": 354,
@@ -61,8 +55,14 @@
             "title": "'Briefing Room': Trump CFO immunity deal, Trump push back on Sessions,  Pompeo NK trip canceled",
             "secondDuration": 850,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z9Fo-djrjY0",
+            "title": "The Conversation: Supreme Ct. Nominee Elena Kagan",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

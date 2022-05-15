@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "f0TPxPZgo8E",
-            "title": "First 100 Days: Biden’s Pledge To Protect Transgender Americans’ Rights | NBC Nightly News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "iZkNGnqYLBQ",
             "title": "Could Microorganisms Be Good Analogs To Life On Mars And Other Planets? | Mach | NBC News",
             "secondDuration": 325,
@@ -61,8 +55,14 @@
             "title": "Politics Of Impeachment: Pres. Trump, Republicans Turn Up Pressure On Democrats | Meet The Press",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "pmpZFaw4fbY",
+            "title": "Isolated Guam Villagers Worry About North Korea Threat | NBC News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

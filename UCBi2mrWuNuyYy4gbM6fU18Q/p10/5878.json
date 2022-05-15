@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3aPzE3U2tO8",
-            "title": "More than 3M refugees flee Ukraine",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "VaG9eSps0-Y",
             "title": "ABC News Live Update: Day 2 of the Derek Chauvin trial",
             "secondDuration": 1745,
@@ -61,8 +55,14 @@
             "title": "NFL's Redskins Doesn't Offend Most Native Americans, New Poll Says",
             "secondDuration": 30,
             "group": "group_7"
+        },
+        {
+            "videoId": "UG_6WOIGa30",
+            "title": "Katy Perry Takes on Hollywood",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jyqGuHwASiY",
-            "title": "Trump declares national emergency to build southern border wall",
-            "secondDuration": 377,
-            "group": "group_7"
-        },
-        {
             "videoId": "yWDv5Nr63BU",
             "title": "Edible Pizza Box Created by Brooklyn Pizzeria",
             "secondDuration": 35,
@@ -61,8 +55,14 @@
             "title": "St. Louis’ 1st black prosecutor files lawsuit against city",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "_s5Da8TMipw",
+            "title": "George Zimmerman's New Run in With the Law",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

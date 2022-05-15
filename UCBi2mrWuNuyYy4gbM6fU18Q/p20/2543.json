@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "r7q_wkJgXhg",
-            "title": "Chicago Police Shooting Unarmed 17-Year-Old | NEW VIDEO RELEASED",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "9aNn3uCq_t0",
             "title": "Families Struggle With W. Va. Mine Disaster",
             "secondDuration": 194,
@@ -121,8 +115,14 @@
             "title": "Rand Paul Hunts for GOP Health Bill",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "452iQ8ttIcc",
+            "title": "Watch Live: President-Elect Joe Biden Addresses The Nation I ABC News",
+            "secondDuration": 1995,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

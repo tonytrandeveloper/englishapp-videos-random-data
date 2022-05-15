@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Htc0UXCz-Xk",
-            "title": "Turkey Prepares To Combat ISIS In Syria | NBC News",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "a_-QrANAl2w",
             "title": "Pentagon To Shift $3.8 Billion To Build Border Wall | NBC News NOW",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Gas Prices On The Rise, Distressing Drivers | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "NPqv_uHYfC4",
+            "title": "Librarian Uses Creative Method Of Getting Books To Kids In Quarantine | Nightly News: Kids Edition",
+            "secondDuration": 680,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

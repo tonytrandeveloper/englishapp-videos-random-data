@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9a6mzks55fM",
-            "title": "Ashton Kutcher: Every Citizen Has A Right To Pursue Happiness | NBC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "6XDXjEdZR90",
             "title": "Markets Yo-Yo As 5 Million People File Jobless Claims, Totaling 22 Million | NBC News NOW",
             "secondDuration": 255,
@@ -61,8 +55,14 @@
             "title": "President Trump Calls Judge Decision To Overturn Obamacare A ‘Great Ruling’ | NBC Nightly News",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "9wptadEdYtk",
+            "title": "Special report: Trump holds news conference before departing Davos",
+            "secondDuration": 3429,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

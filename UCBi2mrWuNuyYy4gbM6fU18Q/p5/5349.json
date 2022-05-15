@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hULc9zckpfI",
-            "title": "Meet the mini member of Mensa",
-            "secondDuration": 204,
-            "group": "group_7"
-        },
-        {
             "videoId": "GixPIQY9naw",
             "title": "Tennessee Dad Searches for Daughters, Wife Amid Wildfire",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Bears Invade WNEP-TV in Pennsylvania",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "DxfWngcaSfM",
+            "title": "President Biden takes stand against gun violence epidemic",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

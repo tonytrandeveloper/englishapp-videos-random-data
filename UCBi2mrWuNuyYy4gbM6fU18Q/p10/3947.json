@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gADvQpFfDA8",
-            "title": "USC reveals preliminary results of antibody study | WNT",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "at4PjupLfRc",
             "title": "Under pressure from Democrats, Postmaster General Louis Dejoy backs down | WNT",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Former employee at pork plant shut down due to COVID-19 talks about why she quit",
             "secondDuration": 525,
             "group": "group_7"
+        },
+        {
+            "videoId": "XmRBxy7osSM",
+            "title": "Texas hospital awaits patients",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

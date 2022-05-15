@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "M0lE9Ag3_UM",
-            "title": "President Trump Calls North Korea's 'Reckless Pursuit Of Nuclear Missiles' A Threat | NBC News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "rJ5DDPj819s",
             "title": "Sarah Sanders Defends President Trump Rhetoric Following Coast Guard Officer's Arrest | NBC News",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Senator Chuck Schumer Addresses Canceled White House Meeting On Senate Floor | NBC News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "X86jvARdfTM",
+            "title": "HHS Secretary Alex Azar Says Covid Vaccines May Start Being Distributed After Dec. 10 | NBC News NOW",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

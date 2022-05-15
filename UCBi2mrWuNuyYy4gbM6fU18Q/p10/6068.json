@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cJlgIf1sWi8",
-            "title": "Mass Shootings and Mental Health",
-            "secondDuration": 327,
-            "group": "group_7"
-        },
-        {
             "videoId": "hHHwmQSlIIo",
             "title": "Meningitis Outbreak: The Scramble",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "On the Ground in Battleground State Arizona  | ABC News",
             "secondDuration": 550,
             "group": "group_7"
+        },
+        {
+            "videoId": "DFopjOrOfRM",
+            "title": "Boehner Adviser Discusses The Budget Battle",
+            "secondDuration": 290,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

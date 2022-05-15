@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DMvZ9gOFLlo",
-            "title": "We're 'optimistic' infrastructure bill will pass next week: Buttigieg | ABC News",
-            "secondDuration": 380,
-            "group": "group_7"
-        },
-        {
             "videoId": "uHu9mWLPc8M",
             "title": "Hot-Air Balloon Wedding Crash Caught on Tape in San Diego",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Video of grandparents married over 70 years reuniting goes viral | WNT",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "98-uX7WKItg",
+            "title": "Man accused of stealing roommate's winning $10M lotto ticket",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

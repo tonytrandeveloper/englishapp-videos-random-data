@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TsuYJstAS4k",
-            "title": "Ukraine Timeline: From Giuliani's Outreach To Trump's Phone Call | Meet The Press | NBC News",
-            "secondDuration": 347,
-            "group": "group_7"
-        },
-        {
             "videoId": "lr2-c1nruw0",
             "title": "Federal Workers Speak Out About Financial Toll Of Government Shutdown | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "America’s First Major Holiday With A Vaccine | NBC Nightly News",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "eK05I73_qA8",
+            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
+            "secondDuration": 1889,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

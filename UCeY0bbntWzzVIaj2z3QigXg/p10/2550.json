@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VsCSRPvZSj8",
-            "title": "Packed Roads and Airports With Americans On The Move For The Holidays",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "tVyPC0AUzOI",
             "title": "Kamala Harris Makes First Iowa Impressions While Stumping For Democrats | NBC News",
             "secondDuration": 192,
@@ -61,8 +55,14 @@
             "title": "Hallie Jackson NOW: Scott Peterson Resentenced, Pzifer Omicron Update | Dec. 8",
             "secondDuration": 3125,
             "group": "group_7"
+        },
+        {
+            "videoId": "QZ3LKRHs2u8",
+            "title": "Is college worth it?",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

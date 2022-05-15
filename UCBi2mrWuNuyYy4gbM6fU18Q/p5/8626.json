@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NmbnGFAXerQ",
-            "title": "The Briefing Room: Trump taking on opioids, Russia election meddling, Biden 2020 | ABC News",
-            "secondDuration": 1787,
-            "group": "group_7"
-        },
-        {
             "videoId": "dIfpFSBLtxE",
             "title": "Trump Faces Criticism for Voter Fraud Claims",
             "secondDuration": 182,
@@ -31,8 +25,14 @@
             "title": "US veterans group helps Afghans escape",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "mijnGsfyDY4",
+            "title": "By the Numbers: Benefits of walking",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

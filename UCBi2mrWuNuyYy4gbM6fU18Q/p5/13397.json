@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0PEfO__QY84",
-            "title": "'Jeopardy's' Alex Trebek on stage 4 cancer diagnosis: 'I'm fighting through it'",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "T9Bt7wEW87M",
             "title": "Sergeant surprises family at State of the Union | ABC News",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "Google Street View: Photo of Naked Woman Latest in Long Line of Bizarre Photos",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "WnOeXAJMd1M",
+            "title": "Pence defends campaign rallies amid pandemic",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

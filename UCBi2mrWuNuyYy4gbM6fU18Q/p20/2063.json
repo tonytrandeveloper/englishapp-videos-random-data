@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "d_CDAamnwxU",
-            "title": "The Rundown: Top headlines today: March 17, 2021",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "kXTcn15U9jg",
             "title": "3 adult bald eagles watch over 3 eaglets in nest along Mississippi River",
             "secondDuration": 83,
@@ -121,8 +115,14 @@
             "title": "Judge to Lindsay Lohan: 'If you plead guilty, you're going to jail.' (02.24.11)",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "0OFGoP_X4i4",
+            "title": "Extreme weather from coast to coast",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

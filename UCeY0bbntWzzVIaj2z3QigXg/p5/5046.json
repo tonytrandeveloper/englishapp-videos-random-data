@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UYl4y_ucrr4",
-            "title": "Caldor Fire forces mass evacuations in Lake Tahoe",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "0RmK9ToAN4s",
             "title": "White House Holds Press Briefing: April 2 | NBC News",
             "secondDuration": 2685,
@@ -31,8 +25,14 @@
             "title": "Analyzing The ‘Force’ Of Marianne Williamson | NBC News Now",
             "secondDuration": 510,
             "group": "group_7"
+        },
+        {
+            "videoId": "FbRnL8NQCSo",
+            "title": "Rep. Liz Cheney Responds To Trump’s Jan. 6 Comments: ‘He Clearly Would Do This All Again’",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

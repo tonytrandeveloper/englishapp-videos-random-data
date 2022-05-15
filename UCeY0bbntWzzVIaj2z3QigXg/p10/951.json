@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UeAkKjTWxXA",
-            "title": "Gunman Shot by Secret Service Near White House | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "UdhmPlLav6s",
             "title": "Watch NBC News NOW Live - October 1",
             "secondDuration": 42901,
@@ -61,8 +55,14 @@
             "title": "Live: Florida Governor DeSantis Holds Briefing | NBC News",
             "secondDuration": 3977,
             "group": "group_7"
+        },
+        {
+            "videoId": "oRw51DRkSC0",
+            "title": "Prosecutors Used Genealogy Website To Track Down Golden State Killer | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

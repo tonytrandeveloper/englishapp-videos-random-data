@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_vYsuIiPFro",
-            "title": "Obama's Golf Game Bumps Military Couple's Wedding | NBC Nightly News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "F_1yNt1E2pk",
             "title": "South Korea On Edge As Kim Jong Un Meets With President Donald Trump | NBC Nightly News",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Health Care System Overwhelmed As U.S. Surpasses 60 Million Covid Cases",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "WE-bFIn27qs",
+            "title": "Fact-checking Trump’s Economy Claims In State Of The Union Address | NBC News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

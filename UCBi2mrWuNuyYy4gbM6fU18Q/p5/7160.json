@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j3xM2yK9WNk",
-            "title": "WEBCAST: This Year's Most Fascinating Person",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "wpr1fjGc-jY",
             "title": "Biden and Putin meet with the press before high-stakes summit",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "David Lowery remembers Camper Van Beethoven, Cracker",
             "secondDuration": 391,
             "group": "group_7"
+        },
+        {
+            "videoId": "4-Bdp45PUQQ",
+            "title": "Young Boys Exercising to Extremes",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

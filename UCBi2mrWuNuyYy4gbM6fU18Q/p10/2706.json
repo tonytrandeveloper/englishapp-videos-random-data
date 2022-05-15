@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HTgmUBgr0mw",
-            "title": "2017 SAG Awards | Stars Get Political",
-            "secondDuration": 292,
-            "group": "group_7"
-        },
-        {
             "videoId": "zWorNyVC5Ds",
             "title": "Julian Assange Interview 2013 On Edward Snowden on 'This Week': \"Asylum is a Right We All Have\"",
             "secondDuration": 911,
@@ -61,8 +55,14 @@
             "title": "UK Prime Minister clarifies phased plan to ease England out of lockdown",
             "secondDuration": 246,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fp8xrBaGMIE",
+            "title": "ABC News’ Powerhouse Politics team breaks down the town hall with Joe Biden",
+            "secondDuration": 715,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

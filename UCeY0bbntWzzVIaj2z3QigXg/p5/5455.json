@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NalXhQYPx50",
-            "title": "LIVE: Bob Dole Lies In State At U.S. Capitol | NBC News",
-            "secondDuration": 36800,
-            "group": "group_7"
-        },
-        {
             "videoId": "nbw-KHrEI2M",
             "title": "President Donald Trump Says He May Send 15,000 Troops To Border, Previously Said 5,000 | NBC News",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "FBI Director Wray On Efforts To Halt China’s Economic And Political Spying | Full Interview",
             "secondDuration": 935,
             "group": "group_7"
+        },
+        {
+            "videoId": "dl1trq3qFYA",
+            "title": "NBC Nightly News Full Broadcast - August 22nd, 2021",
+            "secondDuration": 1143,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

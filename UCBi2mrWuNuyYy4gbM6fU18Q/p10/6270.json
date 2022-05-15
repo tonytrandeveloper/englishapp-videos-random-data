@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TDqETsQ5PHM",
-            "title": "UCLA Shooting | Student Told to Run by Police",
-            "secondDuration": 397,
-            "group": "group_7"
-        },
-        {
             "videoId": "nhIeYUUrJEU",
             "title": "No daily COVID-19 deaths for 1st time, UK says",
             "secondDuration": 514,
@@ -61,8 +55,14 @@
             "title": "Women speak out after Sen. Al Franken's resignation announcement",
             "secondDuration": 590,
             "group": "group_7"
+        },
+        {
+            "videoId": "wve1wNHl7hE",
+            "title": "Prince Harry Given Invictus Games Winner's Gold Medal",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

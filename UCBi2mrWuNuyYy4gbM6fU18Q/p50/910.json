@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "vj5KfcmGxK8",
-            "title": "Combating LA's Hit-and-Run Crisis",
-            "secondDuration": 454,
-            "group": "group_7"
-        },
-        {
             "videoId": "tfMyuDc9yx0",
             "title": "Hamas Fires Rockets at Jerusalem; Israel-Palestinian Conflict Escalates",
             "secondDuration": 252,
@@ -301,8 +295,14 @@
             "title": "Stimulus stalemate leaves economy on the brink | ABC News",
             "secondDuration": 346,
             "group": "group_7"
+        },
+        {
+            "videoId": "Run6UA8zn5I",
+            "title": "Politico's Alex Isenstadt on 'Top Line'",
+            "secondDuration": 430,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YD-QraQOqEY",
-            "title": "Afghanistan faces major humanitarian crisis",
-            "secondDuration": 408,
-            "group": "group_7"
-        },
-        {
             "videoId": "avTwjDObxwQ",
             "title": "Hurricane Igor Slams Bermuda",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Deadly highway horror with blazing tractor trailer",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "rWj1wC2YW0A",
+            "title": "Breaking down the Helsinki summit: What happened when Trump and Putin met",
+            "secondDuration": 615,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tkknpYM8Dco",
-            "title": "WEBCAST: Ice Fall On Tape",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "S6qZFpw8sjE",
             "title": "Jussie Smollett arrest: Chicago Police hold news conference on 'Empire' Star | ABC News",
             "secondDuration": 2958,
@@ -121,8 +115,14 @@
             "title": "Man charged with hacking photos from teens' Snapchat accounts",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "IZcrQnnjkrQ",
+            "title": "New SARS-Like Virus With No Cure Kills at Least 27",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

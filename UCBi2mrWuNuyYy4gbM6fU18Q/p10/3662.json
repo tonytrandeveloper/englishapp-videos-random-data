@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GSK21j4z89s",
-            "title": "Michigan Vote Recount | Judge to Rule on Start",
-            "secondDuration": 24,
-            "group": "group_7"
-        },
-        {
             "videoId": "9LitaRVAI8Q",
             "title": "Smithsonian gathers artifacts from Jan. 6 insurrection",
             "secondDuration": 171,
@@ -61,8 +55,14 @@
             "title": "Trump blasts Sen. Al Franken",
             "secondDuration": 204,
             "group": "group_7"
+        },
+        {
+            "videoId": "TA6blZJ6nVw",
+            "title": "At least 1M infected with coronavirus in the US l ABC News",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

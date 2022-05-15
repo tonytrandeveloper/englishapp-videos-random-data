@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CmTggnQ3VCo",
-            "title": "Protests, school closures and California fires: World in Photos, Nov. 19",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "0r_Z9C0Fl2A",
             "title": "House Democrats ask the IRS for Trump's tax returns",
             "secondDuration": 74,
@@ -121,8 +115,14 @@
             "title": "Zika Vaccine Approved for Safety Testing",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "zmvTu1Q3ZE8",
+            "title": "Jeff Bezos, Blue Origin crew hold press conference after successful spaceflight",
+            "secondDuration": 469,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_LuA1FCjN9M",
-            "title": "Frustration grows with 90 million Americans holding out on vaccine",
-            "secondDuration": 345,
-            "group": "group_7"
-        },
-        {
             "videoId": "jrLG6ycgud4",
             "title": "Facebook Announces 'Graph Search' Tool",
             "secondDuration": 404,
@@ -61,8 +55,14 @@
             "title": "Soldier arrested on terror charges in Hawaii",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "ReEcE8ULSis",
+            "title": "Car strikes person riding scooter during California police chase",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

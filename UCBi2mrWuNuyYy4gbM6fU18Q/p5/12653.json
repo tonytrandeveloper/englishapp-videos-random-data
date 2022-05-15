@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h30tGcrtdk8",
-            "title": "FACEBOOK WEBCAST 06-01-12.mov",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "zVwlHlqeeWM",
             "title": "Hugh Jackman Discusses Playing Against Type",
             "secondDuration": 288,
@@ -31,8 +25,14 @@
             "title": "Brain-eating amoeba found in Texas water supply",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "qn-VbZBTRcc",
+            "title": "GMA's 'Mad Men' Spoof",
+            "secondDuration": 23,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

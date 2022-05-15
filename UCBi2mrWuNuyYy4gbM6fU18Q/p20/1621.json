@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ppugNHeM3ik",
-            "title": "The Conversation: Listening to 'Mom'",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "K7XIenGSypE",
             "title": "Race to vaccinate",
             "secondDuration": 107,
@@ -121,8 +115,14 @@
             "title": "Half-Court Shot Nets Student $10,000",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZlkrDgsow5g",
+            "title": "Trump Tower No-Fly Zone Implemented by FAA",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

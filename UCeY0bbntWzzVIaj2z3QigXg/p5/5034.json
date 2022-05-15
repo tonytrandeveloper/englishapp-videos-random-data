@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KrvA1zDxM4E",
-            "title": "How Primary Debates Influence Public Opinion | NBC News NOW",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zake9GslVqA",
             "title": "Biden Delivers Remarks On The Coronavirus Outbreak | NBC News",
             "secondDuration": 2983,
@@ -31,8 +25,14 @@
             "title": "Three Children Missing In Arizona After RV Submerged Into Creek | NBC News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "_3b89Cqj3tc",
+            "title": "States Expand Coronavirus Testing As Demand Grows | NBC Nightly News",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

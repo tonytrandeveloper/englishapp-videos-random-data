@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9y1nkWcDhdc",
-            "title": "Video Shows Person of Interest in Brutal Slaying of 11-Year-Old",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "YK8VkcXqz7s",
             "title": "Lone Juror Led to Hung Jury in Etan Patz Case",
             "secondDuration": 177,
@@ -61,8 +55,14 @@
             "title": "Michelle Obama Takes Stage at Democratic National Convention",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "EPebY_CMWwk",
+            "title": "Vice President Harris delivers remarks on Martin Luther King Jr. Day",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

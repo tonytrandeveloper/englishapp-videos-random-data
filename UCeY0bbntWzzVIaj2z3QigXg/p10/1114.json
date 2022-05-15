@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Np5NN09VbSY",
-            "title": "Justice Department Charges 400 In Mass Opioid Fraud Crackdown | NBC Nightly News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "GfjeumIsXPo",
             "title": "Airfares Rising Despite Lower Fuel Costs | NBC News",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Full Cramer: 'Past Time To Start A Transition' But Trump Still Has A Right To Challenge",
             "secondDuration": 493,
             "group": "group_7"
+        },
+        {
+            "videoId": "mMXMqxvBMWQ",
+            "title": "Dr. Fauci Warns Against Declaring ‘Victory Prematurely’ On Covid-19",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

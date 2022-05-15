@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "M0HXadCqHr8",
-            "title": "Federal Jury finds R. Kelly guilty on all counts of racketeering and sex trafficking",
-            "secondDuration": 556,
-            "group": "group_7"
-        },
-        {
             "videoId": "eTYPdM4kzKI",
             "title": "Mt. Everest Avalanche Kills 12",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Newly Discovered Asteroid Narrowly Misses Earth",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "3rwiBKhAI_o",
+            "title": "Aurora, Colorado Mass Shooting at Movie Theater (RAW VIDEO)",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "69WRtICbA50",
-            "title": "Oscars 2012: Mysteries Solved",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "UbG4J7Fy9tg",
             "title": "Sexual Misconduct in U.S. Swimming",
             "secondDuration": 539,
@@ -61,8 +55,14 @@
             "title": "Two Plane Crashes Within 2 Hours Kill 5 in Hawaii",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jupu1tkSvDU",
+            "title": "Tennessee Amber Alert Intensifies Search for Missing Children, Chloie Leverette, Gage Daniel",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

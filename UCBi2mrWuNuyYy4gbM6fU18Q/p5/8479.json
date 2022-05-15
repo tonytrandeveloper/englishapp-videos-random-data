@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cvM1fxhjWw0",
-            "title": "Seoul: The World's Most Wired City",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "NzQS61HtADg",
             "title": "How a beach town plans on tackling the new normal during the pandemic",
             "secondDuration": 231,
@@ -31,8 +25,14 @@
             "title": "New Details Emerge In Cancer Doctor's Poison Plot",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "gjv0M_vO4Zw",
+            "title": "Longtime 'Hardball' anchor abruptly retires on-air",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

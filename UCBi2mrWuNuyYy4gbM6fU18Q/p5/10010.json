@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0QGMPaRtdz4",
-            "title": "Federal ban on evictions set to expire",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "r4fFcReN2iM",
             "title": "Massachusetts reaches peak of COVID-19 cases",
             "secondDuration": 250,
@@ -31,8 +25,14 @@
             "title": "Trayvon Martin Shooting Video: New Evidence",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "NGTvjn-hb4Y",
+            "title": "Heated Custody Battle Over Native American Girl Removed From California Foster Family",
+            "secondDuration": 419,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

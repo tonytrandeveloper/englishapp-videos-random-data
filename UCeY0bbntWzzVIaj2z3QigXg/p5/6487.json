@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NnqfBoSa4zM",
-            "title": "Barcelona Police: Van Crash Is Terrorist Attack | NBC News",
-            "secondDuration": 639,
-            "group": "group_7"
-        },
-        {
             "videoId": "6pfK7PdHY9A",
             "title": "Is the Market Seeing a Return to Volatility, Wild Swings and Reality? | NBC Nightly News",
             "secondDuration": 191,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Speaks On Tax Reform | NBC News",
             "secondDuration": 1609,
             "group": "group_7"
+        },
+        {
+            "videoId": "JzPEh51ryWg",
+            "title": "Graham On A Senate Impeachment Trial: 'I Think We Should Vote And End It' | NBC News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

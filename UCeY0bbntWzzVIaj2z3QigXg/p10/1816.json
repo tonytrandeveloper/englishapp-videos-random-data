@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HU10H6Ktzd8",
-            "title": "School Shooting Reported In Florida | NBC News",
-            "secondDuration": 328,
-            "group": "group_7"
-        },
-        {
             "videoId": "gPNuS6BRynU",
             "title": "Navy Secretary Fired Amid Growing SEAL Controversy | NBC Nightly News",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Hallie Jackson NOW - Feb. 28 | NBC News NOW ",
             "secondDuration": 3064,
             "group": "group_7"
+        },
+        {
+            "videoId": "JSkOnDJJq60",
+            "title": "The State Of Our Union Is Always 'Strong'. But Why? | NBC News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

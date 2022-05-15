@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8kBcPUAAq-k",
-            "title": "Trump blasts Democrats as shutdown heads into Day 7",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "b7CYxwvta8U",
             "title": "Bloomberg barnstorming Super Tuesday states before voters head to polls | ABC News Live Prime",
             "secondDuration": 380,
@@ -61,8 +55,14 @@
             "title": "New Hampshire store clerk jumps into action to save truck driver",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ubwc_xKb6fc",
+            "title": "Happy Birthday Ronald Reagan",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

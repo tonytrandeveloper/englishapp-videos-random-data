@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Yim0QwsSQEU",
-            "title": "Meet The Press Broadcast (Full) - July 12th, 2020 | Meet The Press | NBC News",
-            "secondDuration": 2855,
-            "group": "group_7"
-        },
-        {
             "videoId": "NMWSk7Qqxm4",
             "title": "Roger Stone: 'There's No Evidence' Of Early Wikileaks Content (Full) | Meet The Press | NBC News",
             "secondDuration": 543,
@@ -61,8 +55,14 @@
             "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2546,
             "group": "group_7"
+        },
+        {
+            "videoId": "0IpDO-1ikcs",
+            "title": "Sitting Down With Sen. Gillibrand On Her Campaign Bus Tour | NBC News Now",
+            "secondDuration": 645,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

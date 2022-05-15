@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oNaPS0PaBHY",
-            "title": "Senate Votes To Advance Bipartisan Infrastructure Bill",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "RQ2igTcJrlA",
             "title": "Trump Holds First In-Person Event Since Coronavirus Diagnosis | NBC News",
             "secondDuration": 1240,
@@ -121,8 +115,14 @@
             "title": "Commerce Secretary Wilbur Ross: Retaliatory Tariffs Would Barely Impact Economy | NBC Nightly News",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "mSGSoR2LhUg",
+            "title": "Pence Addresses Trump's Claims The VP Could Have “Overturned The Election”",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

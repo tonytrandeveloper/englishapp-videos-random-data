@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IJWxZUK3TDA",
-            "title": "Civilians killed, children struggling to breathe in alleged chemical attack in Syria",
-            "secondDuration": 496,
-            "group": "group_7"
-        },
-        {
             "videoId": "9ZZzfrapNvo",
             "title": "Watch ABC News Joe Biden Town Hall in Philadelphia Moderated by George Stephanopoulos",
             "secondDuration": 11820,
@@ -61,8 +55,14 @@
             "title": "'Tis the Season to Win Mega Millions",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "KTXYii8UcB0",
+            "title": "Rick Santorum During 'This Week' Roundtable: President Obama a 'Sore Winner'",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8qzpHKKmeQQ",
-            "title": "Donald Trump Becomes First Sitting President To Address ‘March For Life’ Rally | NBC Nightly News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "oEDNsupuJRc",
             "title": "How App Data Is Used To Target Consumers | NBC News NOW",
             "secondDuration": 515,
@@ -31,8 +25,14 @@
             "title": "NYC Mayor Bill de Blasio Holds Coronavirus Briefing | NBC News",
             "secondDuration": 5517,
             "group": "group_7"
+        },
+        {
+            "videoId": "FzG1Dor22Yg",
+            "title": "As Thousands March, Women’s Reproductive Rights Divide The Nation",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

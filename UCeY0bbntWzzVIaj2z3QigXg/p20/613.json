@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Kbimasgue9o",
-            "title": "Watch Live: White House Press Briefing March 11 | NBC News",
-            "secondDuration": 3123,
-            "group": "group_7"
-        },
-        {
             "videoId": "yGNfHXHwgQM",
             "title": "In-Custody Death Of Latino Man In Tucson Prompts Police Chief's Offer To Resign | NBC News NOW",
             "secondDuration": 105,
@@ -121,8 +115,14 @@
             "title": "Parents Are Not Cooperating With Investigation Of Children Who’ve Been Missing | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "4akFLFq3b-g",
+            "title": "President Donald Trump Holds Press Conference After Summit With Kim Jong Un | NBC News",
+            "secondDuration": 5028,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

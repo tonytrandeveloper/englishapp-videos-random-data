@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oZf7IASx2mE",
-            "title": "Hillary Clinton: Donald Trump Has History of Complaining About Rigging | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "rmg4c4OQ3JE",
             "title": "Muhammad Ali Remembered In His Hometown Of Louisville | NBC Nightly News",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "The Virtue of Small State Primaries | Chuck's Take | NBC News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "0Fba3hkK8yA",
+            "title": "What’s Next For The Russia Investigation? | NBC News",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

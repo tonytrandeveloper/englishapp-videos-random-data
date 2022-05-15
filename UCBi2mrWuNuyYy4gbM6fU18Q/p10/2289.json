@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8NfwlGYNgcA",
-            "title": "President Obama Makes His Case Amid Minefield of Scandals",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ex58rnrfSmw",
             "title": "Police Fatally Shoot Armed Robbery Suspect [BODY CAM VIDEO]",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "Thousands told to evacuate in California",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "rGQ6SerKTwc",
+            "title": "Cirque Du Soleil Technician Killed During Rehearsal Accident",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

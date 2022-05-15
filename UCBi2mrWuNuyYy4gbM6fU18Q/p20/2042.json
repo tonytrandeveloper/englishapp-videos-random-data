@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TlB_Vr0hVDM",
-            "title": "Dog plays with tiger and lion cubs at Siberian zoo",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "S6IkDMY5H2s",
             "title": "Texas Abortion Bill Falls After Challenge",
             "secondDuration": 62,
@@ -121,8 +115,14 @@
             "title": "Roundtable II: Overseas Challenges",
             "secondDuration": 805,
             "group": "group_7"
+        },
+        {
+            "videoId": "KF46SFlAloM",
+            "title": "The House of Windsor Welcomes a New Royal",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

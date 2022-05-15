@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5szdt04bJKQ",
-            "title": "Inside President Trump's First Days in the Oval Office | ABC News",
-            "secondDuration": 550,
-            "group": "group_7"
-        },
-        {
             "videoId": "kMC5enRoxe0",
             "title": "CENTCOM Leader is Confident ISIS ‘Will Be Defeated’",
             "secondDuration": 324,
@@ -61,8 +55,14 @@
             "title": "Poland has already taken in nearly 1.3 million refugees: UN I ABCNL",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "7uUcRFDhDRY",
+            "title": "One escaped inmate back in jail, two remain on the loose",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AR3NMyQhVZI",
-            "title": "President Donald Trump Hosts Campaign Rally In Iowa | NBC News",
-            "secondDuration": 4847,
-            "group": "group_7"
-        },
-        {
             "videoId": "4Dq2T3S3MXU",
             "title": "What To Expect In The House Impeachment Inquiry This Week | NBC Nightly News",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Unleashes Arsenal Of Attacks Against Michael Cohen | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "TStGS2SuBKY",
+            "title": "Hot Air Balloons Fly High To Chase World Record | NBC News",
+            "secondDuration": 56,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "W7NNOfkcKRg",
-            "title": "White House press briefing 7/17/17: Breaking down the latest on 'The Briefing Room'",
-            "secondDuration": 3184,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kvo436qSGco",
             "title": "Jake Tapper on the Politics of Fear",
             "secondDuration": 109,
@@ -121,8 +115,14 @@
             "title": "The Rundown: Top headlines today: Feb. 18, 2022",
             "secondDuration": 246,
             "group": "group_7"
+        },
+        {
+            "videoId": "ed2RLK8vwF4",
+            "title": "Obama: Pastor's Koran Burning a 'Stunt'",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

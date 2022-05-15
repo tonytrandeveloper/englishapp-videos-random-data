@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nAp77N628P4",
-            "title": "Mueller report: What we know about obstruction of justice, collusion",
-            "secondDuration": 523,
-            "group": "group_7"
-        },
-        {
             "videoId": "04b9eKA-wMo",
             "title": "Newly Released Video Shows Moments Before Police Shooting",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "'American Sniper' Chris Kyle Murder Trial Begins Jury Selection",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "iZxuZ6qPE00",
+            "title": "Ohio Air Show Honors Pair Killed in Tragic Stunt Accident",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

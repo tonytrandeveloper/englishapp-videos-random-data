@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "JIYMZigeEyc",
-            "title": "Kamala Harris Swears In Merrick Garland As Attorney General | NBC News NOW",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "WhZjCimA4EQ",
             "title": "First Father's Day Without dad: Remembering The Fathers Lost To COVID-19 | NBC News",
             "secondDuration": 252,
@@ -301,8 +295,14 @@
             "title": "NBC News Poll: Biden Job Approval Falls",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "0iPTV7osRj8",
+            "title": "Five Dead After Plane Crashes Into Southern California Home | NBC Nightly News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

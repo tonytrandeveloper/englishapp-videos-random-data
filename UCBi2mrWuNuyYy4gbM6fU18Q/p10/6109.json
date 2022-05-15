@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "25kFVkwTs_M",
-            "title": "16-Year-Old Becomes Fourth Known Person to Survive Brain Amoeba in 50 Years | ABC News",
-            "secondDuration": 465,
-            "group": "group_7"
-        },
-        {
             "videoId": "v9lw__DoEcc",
             "title": "Mom describes how she survived 4 days lost in mountains",
             "secondDuration": 478,
@@ -61,8 +55,14 @@
             "title": "Hurricane Sandy Brings Snowstorm to West Virginia",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "bMU2KU4UGzE",
+            "title": "Ted Kennedy's Defeat of Romney Focus of Gingrich Slam: ABC News/Yahoo News Republican Debate",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

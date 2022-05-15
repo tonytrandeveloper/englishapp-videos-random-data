@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LAROLtEfzXs",
-            "title": "Michael Cohen Was Selling Access To Donald Trump, Stormy Daniels’ Lawyer Alleges | NBC Nightly News",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "_wOc33jXIr4",
             "title": "Nearly 2,000 Children Still In Limbo As Separated Parents Wait To Be Reunited | NBC Nightly News",
             "secondDuration": 138,
@@ -121,8 +115,14 @@
             "title": "Full Alexander: 'Not Enough Money To Help Everybody Hurt' | Meet The Press | NBC News",
             "secondDuration": 432,
             "group": "group_7"
+        },
+        {
+            "videoId": "fKBudBXEJog",
+            "title": "New York Gov. Andrew Cuomo Holds Covid-19 Briefing | NBC News",
+            "secondDuration": 2477,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

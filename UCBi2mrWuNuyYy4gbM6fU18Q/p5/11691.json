@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2kOUsi0M72U",
-            "title": "At least 4 people die on cruise ship headed to Florida",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "jDMLcZPe2iU",
             "title": "Pat Summit, NCAA Women's Basketball Coach Diagnosed With Alzeheimer's (08.24.2011)",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "Trump Congress Speech: Urges Congress to Repeal, Replace Obamacare | ABC News",
             "secondDuration": 431,
             "group": "group_7"
+        },
+        {
+            "videoId": "zVtLcdi9O70",
+            "title": "Remdesivir coronavirus drug trial shows ‘quite good news’: Fauci",
+            "secondDuration": 353,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

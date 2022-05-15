@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FmrDn5lT2gk",
-            "title": "SKINNY: Stephen Colbert’s Final Report",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "5GqdwDVl-nw",
             "title": "Your Three Words: The Rifles",
             "secondDuration": 143,
@@ -121,8 +115,14 @@
             "title": "US and Taliban announce agreement",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "eItaB8YBpI4",
+            "title": "Michigan secretary of state: ‘No legal or factual basis’ to question election results",
+            "secondDuration": 364,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

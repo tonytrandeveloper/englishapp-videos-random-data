@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "s5E8nt34xL0",
-            "title": "Texas Love Triangle | 20/20 PART 1",
-            "secondDuration": 527,
-            "group": "group_7"
-        },
-        {
             "videoId": "HSmitzyhqyQ",
             "title": "Presidential Debate 2012: Mitt Romney VS. President Obama: Biggest Debate Moves",
             "secondDuration": 129,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: State of Emergency in Hawaii",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "28V0OueOmuU",
+            "title": "Florida State Running Back Turns Himself Over to Police",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7eKr-qrha1w",
-            "title": "Woman attacked by alligator while swimming in Florida lake l ABC NEWS",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "0bO4IP7D_y8",
             "title": "New York City celebrates St. Patrick's Day",
             "secondDuration": 536,
@@ -121,8 +115,14 @@
             "title": "Black Widow Part 4 l 20/20",
             "secondDuration": 514,
             "group": "group_7"
+        },
+        {
+            "videoId": "gg-xchC7Vzg",
+            "title": "Tracking endangered lemurs in the heart of Madagascar",
+            "secondDuration": 365,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l2hinCihnhI",
-            "title": "Webcast: George Huguely Sentenced to Prison",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "OQ8yRu7ucbk",
             "title": "Dangerous encounter with a shark in Florida",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "TikTok stars address vaccine hesitancy, misinformation | Nightline",
             "secondDuration": 594,
             "group": "group_7"
+        },
+        {
+            "videoId": "g6IkejIG1_k",
+            "title": "Dozens of wildfires burn from Texas to Oregon",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

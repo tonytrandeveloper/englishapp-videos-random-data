@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mTaXF2Ooufk",
-            "title": "Amazon Go | Checkout Free Grocery Store",
-            "secondDuration": 303,
-            "group": "group_7"
-        },
-        {
             "videoId": "IK4i2GIM8X0",
             "title": "ABC News Prime: Supreme Court Justice Ruth Bader Ginsburg dies at 87",
             "secondDuration": 7326,
@@ -31,8 +25,14 @@
             "title": "Police Around the Country Cracking Down on Street Racers",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "mZo16g5RI_E",
+            "title": "Jamie Spears suspended from Britney Spears' longstanding conservatorship | Nightline",
+            "secondDuration": 500,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

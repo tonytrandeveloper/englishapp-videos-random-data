@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vhuoinEjyF0",
-            "title": "ABC News Live: Heavy snow, freezing rain cause travel nightmare in the South",
-            "secondDuration": 1475,
-            "group": "group_7"
-        },
-        {
             "videoId": "xNned1RG63s",
             "title": "US averaging more than 110,000 new daily COVID-19 cases",
             "secondDuration": 431,
@@ -61,8 +55,14 @@
             "title": "Storm fury on Trump's Twitter feed",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "TrUa6nJeEwI",
+            "title": "‘American Sniper’ Jurors Give Interview About Case’s Verdict",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

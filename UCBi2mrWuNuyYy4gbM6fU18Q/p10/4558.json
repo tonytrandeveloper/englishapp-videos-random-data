@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ehrymVp4cnE",
-            "title": "Russia recruits Syrians to fight in Ukraine",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "a9_jalZpy88",
             "title": "ABC News Live Update: Tulsa faces legal action over 1921 race massacre",
             "secondDuration": 3293,
@@ -61,8 +55,14 @@
             "title": "'Homeless' American Girl Doll",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "SFTgVnDcmY8",
+            "title": "CDC expands wastewater surveillance to battle future COVID outbreaks",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

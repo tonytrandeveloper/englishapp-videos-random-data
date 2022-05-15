@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QeuFl0FEZfk",
-            "title": "How Trump’s Trade War Has Impacted This Family-Run Manufacturing Business | NBC News NOW",
-            "secondDuration": 302,
-            "group": "group_7"
-        },
-        {
             "videoId": "6QXexlxXVTA",
             "title": "Russian Warship Sinks in Black Sea",
             "secondDuration": 171,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - Dec. 31",
             "secondDuration": 831,
             "group": "group_7"
+        },
+        {
+            "videoId": "pHkRrW_wDBw",
+            "title": "Morning News NOW Full Broadcast - March 15",
+            "secondDuration": 3279,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

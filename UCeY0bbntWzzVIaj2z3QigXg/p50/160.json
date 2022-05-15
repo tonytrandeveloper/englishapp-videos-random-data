@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "UOhyuazg2o4",
-            "title": "Rachel Dolezal Resigns As Head Of Spokane NAACP | NBC Nightly News",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "niTPGX2uD74",
             "title": "Mayor Pete Buttigieg Questioned For Fundraising With Charter School Advocate | NBC News",
             "secondDuration": 91,
@@ -301,8 +295,14 @@
             "title": "U.S. Troops Who Came Under Fire From Russian Mercenaries Prepare For More Attacks | NBC Nightly News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "BMWSzOwF8eQ",
+            "title": "Live: President Donald Trump Meets with Florida Sheriffs | NBC News",
+            "secondDuration": 1894,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

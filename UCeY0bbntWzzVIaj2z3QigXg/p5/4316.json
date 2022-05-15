@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XydOi-HobOY",
-            "title": "Nightly News Full Broadcast - April 13",
-            "secondDuration": 1261,
-            "group": "group_7"
-        },
-        {
             "videoId": "bMSBOTYF-aM",
             "title": "Trump Congratulates Barr For ‘Taking Charge’ Of Roger Stone Case | NBC Nightly News",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Meet the Press - Keeping America Safe, Obama at 100 Days, Jason Collins & Gay Rights - May 5, 2013",
             "secondDuration": 27,
             "group": "group_7"
+        },
+        {
+            "videoId": "7inK4t-WjYU",
+            "title": "Sarah Palin’s Defamation Trial Against New York Times Begins",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

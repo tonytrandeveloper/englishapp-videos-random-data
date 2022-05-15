@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cMheOtOPI-c",
-            "title": "Typhoon Hato Slams Hong Kong With 95 MPH Winds | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "OBFUfQzeGRs",
             "title": "Full Panel: Robert Mueller Writes That Roger Stone Remains A Convicted Felon | Meet The Press",
             "secondDuration": 516,
@@ -121,8 +115,14 @@
             "title": "Family Mourns Son Who Helped Amazon Coworkers To Safety Ahead Of Deadly Tornado",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "5s18esPgyF4",
+            "title": "Look What Europe Is Doing To Counter A Second Wave Of Covid | NBC News NOW",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

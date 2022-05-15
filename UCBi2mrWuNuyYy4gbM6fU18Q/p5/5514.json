@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PrkPJlPuVTk",
-            "title": "Anthony Stokes Heart Transplant: Teen Denied Heart Transplant Given Second Chance",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "RXcZ5hauxJ8",
             "title": "Congress to hear from 9 witnesses during 2nd week of public hearings l ABC News",
             "secondDuration": 180,
@@ -31,8 +25,14 @@
             "title": "Obamas Welcome Donald Trump, Melania to White House",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "rl9QJ3gdEm8",
+            "title": "Fauci tries to clarify his answer to a 'hypothetical question' about 'saved lives'",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

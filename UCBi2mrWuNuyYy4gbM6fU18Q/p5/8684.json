@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pk8wioc9ovQ",
-            "title": "School serenades teacher battling cancer with 'Fight Song'",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "wxK_7XcWGps",
             "title": "Robert F. Kennedy's granddaughter found dead at family compound",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "The Rising Cost of College",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "465I1iiJOdA",
+            "title": "Chris Cuomo fired from CNN",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uuIeBDFuIQQ",
-            "title": "Security Officials Prepare for Holiday Terror Threat",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "vtplGzvNGHc",
             "title": "Drone Fitted With Firing Handgun Investigated by FAA",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Martin Luther King III remembers his father",
             "secondDuration": 436,
             "group": "group_7"
+        },
+        {
+            "videoId": "4eP84Kc3FvE",
+            "title": "Trump remarks on Sondland testimony: ‘I want nothing’ from Ukraine",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

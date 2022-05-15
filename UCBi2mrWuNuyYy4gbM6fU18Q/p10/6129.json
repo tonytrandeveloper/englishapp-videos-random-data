@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PPX2fQxTcGs",
-            "title": "Extreme Weather: Teenager Swept Into Storm Drain After Flooding in Midwest",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "5rHIh3m6hu4",
             "title": "Real Deal: Osama bin Laden's Reign of Terror Over",
             "secondDuration": 527,
@@ -61,8 +55,14 @@
             "title": "Bill Clinton admitted to hospital l ABC News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "2Q94yay9G-E",
+            "title": "DSK Accuser Describes Alleged Assault",
+            "secondDuration": 434,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

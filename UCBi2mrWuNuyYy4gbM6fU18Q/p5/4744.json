@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZUCDRrbVVVs",
-            "title": "Emma Stone on 'Birdman' Director's Theatrical Shooting Style",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "NIvCt5-0sjw",
             "title": "7th GOP Debate | Ted Cruz, Marco Rubio Take Center Stage",
             "secondDuration": 228,
@@ -31,8 +25,14 @@
             "title": "Battle for the Senate",
             "secondDuration": 311,
             "group": "group_7"
+        },
+        {
+            "videoId": "40J8_C7AUvc",
+            "title": "Phone Scam Caught on Tape",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Es0xzqqBRuI",
-            "title": "The Health And Wealth Of Black Communities | NBC News NOW",
-            "secondDuration": 883,
-            "group": "group_7"
-        },
-        {
             "videoId": "t3dJ1ITaj2w",
             "title": "Watch: Video Shows Sikh Men Using Turbans To Rescue Hikers At Canada Waterfall",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "Apple Has Secret Team Trying For Ground-Breaking Diabetes Treatment | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "4emQLz_5uW0",
+            "title": "Satoshi Nakamoto No More: Bitcoin Founder Revealed | 101 | NBC News",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

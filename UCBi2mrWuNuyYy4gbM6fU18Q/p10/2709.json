@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xRMjxxkPnGY",
-            "title": "WEBCAST: Military Jet Crash",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "EWNvBx2bjG8",
             "title": "Virtual simulator helps train police on de-escalation tactics",
             "secondDuration": 171,
@@ -61,8 +55,14 @@
             "title": "Jury set to deliberate on Ahmaud Arbery homicide trial l GMA",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZpsWiEqV2cQ",
+            "title": "Late-Night Comics Take on Latest in 2016 Presidential Campaign| ABC News",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

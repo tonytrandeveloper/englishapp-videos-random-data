@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-eSzhzgDn-s",
-            "title": "Making the Vote",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "hLUlA11FFVk",
             "title": "People Willingly Get Buried Alive in New Show",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Inside the Inauguration of Donald Trump",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "AV_gIhQNxoM",
+            "title": "Miss Teen USA Speaks Out Apology For Using of N-Word",
+            "secondDuration": 264,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

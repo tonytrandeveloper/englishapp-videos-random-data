@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Wm4vaVRNT64",
-            "title": "House Democrats Seek Vote To Create An Independent Commission | NBC News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "n0ffQiwmJPg",
             "title": "Massachusetts Field Hospital Begins To Receive Covid Patients | NBC Nightly News",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "White House To Allow Asylum Officers To Determine If Immigrants Can Stay In U.S.",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Ez2CfsEiFY",
+            "title": "Man Arrested For Suspicious Letters Sent To President Donald Trump, Pentagon | NBC Nightly News",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

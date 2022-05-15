@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sq_U7KZlO-8",
-            "title": "President Donald Trump: U.S., EU Agree To Work Towards 'Zero Tariffs' | NBC News",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "hGubAXwxvBo",
             "title": "White House Holds Press Briefing: August 31 | NBC News",
             "secondDuration": 2741,
@@ -61,8 +55,14 @@
             "title": "LIVE: White House Holds Press Briefing | NBC News",
             "secondDuration": 1277,
             "group": "group_7"
+        },
+        {
+            "videoId": "QUt8rcD9qLc",
+            "title": "Trump To Utah Governor: ‘How’s Mitt Romney? You Keep Him, We Don’t Want Him.’ | NBC News",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

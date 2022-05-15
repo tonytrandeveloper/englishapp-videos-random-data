@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XaIWz176D5g",
-            "title": "Dashcam Captures Horrific Train Collision In New York",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "UJotLsUxj5Q",
             "title": "Sean Spicer Interview on Trump, Russia Hacking",
             "secondDuration": 236,
@@ -61,8 +55,14 @@
             "title": "Delaware's Unlikely Tea Party Hero",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "BT8iAIh_hFM",
+            "title": "Lady Gaga Oprah Interview: Artist Discusses Going Silent, Motherhood and Finding a Husband",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

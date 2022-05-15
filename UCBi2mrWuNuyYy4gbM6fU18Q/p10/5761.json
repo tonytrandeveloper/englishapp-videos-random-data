@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dZLhFrgmpD4",
-            "title": "Police search for a possible serial arsonist in Washington state",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "wxFPcUZlcms",
             "title": "Webcast: Holiday Travel; Navy's Traditional Kiss",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "Florence and the Machine Rocks 'Good Morning America'",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "KzAs4XHQhgA",
+            "title": "Engaged Woman Murdered in Her Apartment",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

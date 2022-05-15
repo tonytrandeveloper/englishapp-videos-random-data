@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gp1YlxjkOSk",
-            "title": "Impeachment trial shake-up",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "VgYDFVsgCiw",
             "title": "Breaking developments in the coronavirus pandemic",
             "secondDuration": 264,
@@ -31,8 +25,14 @@
             "title": "Top Ten Toys of the Year",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "0PEfO__QY84",
+            "title": "'Jeopardy's' Alex Trebek on stage 4 cancer diagnosis: 'I'm fighting through it'",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

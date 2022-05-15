@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x6iCNQW9YTI",
-            "title": "Supreme Court Justice Ruth Bader Ginsburg, a champion for women's rights, dies at 87 | Nightline",
-            "secondDuration": 660,
-            "group": "group_7"
-        },
-        {
             "videoId": "TeAvCypS1ns",
             "title": "FDA expected to approve 2nd booster shot for Americans over 50 l ABCNL",
             "secondDuration": 284,
@@ -61,8 +55,14 @@
             "title": "Donald Trump appears to back away from his campaign promise to build a US-Mexico border wall",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "qYanlvTS6G4",
+            "title": "Winter storm alerts from coast to coast",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

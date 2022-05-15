@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gr2Olh0HwB8",
-            "title": "Manhunt underway after cop killed in line of duty",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "M-wNTrO9KHc",
             "title": "Democrats gear up for 2nd round of hearings | ABC News",
             "secondDuration": 247,
@@ -31,8 +25,14 @@
             "title": "Why Did Adam Lanza Snap?",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "OzoXLAUCNjo",
+            "title": "Sen. Bernie Sanders on the inauguration",
+            "secondDuration": 293,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CwpbZqSdzb4",
-            "title": "ABC News Exclusive: 'Baby Roe' breaks her silence",
-            "secondDuration": 796,
-            "group": "group_7"
-        },
-        {
             "videoId": "hHJj_yve4Y4",
             "title": "NYC Bombing Investigation | FBI Identifies 2 Men Linked",
             "secondDuration": 132,
@@ -121,8 +115,14 @@
             "title": "High-stakes cases ahead as Supreme Court term winds down",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "HpHhsLi7ef4",
+            "title": "Major storm causing treacherous travel conditions",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

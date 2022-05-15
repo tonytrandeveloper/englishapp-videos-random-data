@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "4NGOvMg3zCk",
-            "title": "Rod Blagojevich Found Guilty",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "tgmMFrsq884",
             "title": "Cohen now cooperating with Mueller",
             "secondDuration": 186,
@@ -301,8 +295,14 @@
             "title": "U.S. Border Protection Head: Central American Immigrants Not Dangerous",
             "secondDuration": 420,
             "group": "group_7"
+        },
+        {
+            "videoId": "ThPycn4tXtE",
+            "title": "Food crisis",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

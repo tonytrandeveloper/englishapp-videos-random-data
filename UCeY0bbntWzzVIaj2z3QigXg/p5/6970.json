@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V1AZd0iN4l0",
-            "title": "Man Threatens To Call ICE On Servers Speaking Spanish | NBC News",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "PaZUw7Xms28",
             "title": "At Least 12 Injured After Shooting At South Carolina Mall",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "California Gov. Newsom Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2829,
             "group": "group_7"
+        },
+        {
+            "videoId": "K7aZuCcbG64",
+            "title": "Frontier, Spirit Merge To Form Fifth Largest U.S. Airline",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

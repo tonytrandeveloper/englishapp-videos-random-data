@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KJ6Onzi3Mso",
-            "title": "Steve Kornacki Breaks Down Key Midterm Governor’s Races | NBC News",
-            "secondDuration": 1137,
-            "group": "group_7"
-        },
-        {
             "videoId": "LoZyLtNWG3Y",
             "title": "Watch Full Coronavirus Coverage - March 30 | NBC News Now",
             "secondDuration": 42901,
@@ -31,8 +25,14 @@
             "title": "Remembering The Stonewall Riots As Nation Marks 50th Anniversary | NBC Nightly News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "n_Fn6HjQtIo",
+            "title": "CDC Recommends Double-Masking In Updated Guidelines | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IV6f8UL4Sb0",
-            "title": "Love Is Pain",
-            "secondDuration": 376,
-            "group": "group_7"
-        },
-        {
             "videoId": "5LADSHJjL8M",
             "title": "White House Now Up for Grabs?",
             "secondDuration": 175,
@@ -31,8 +25,14 @@
             "title": "Late-Night Comedians Slam Government Shutdown",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "U2zjsh5noOw",
+            "title": "First GOP Debate: Donald Trump, and Other Memorable Moments",
+            "secondDuration": 444,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

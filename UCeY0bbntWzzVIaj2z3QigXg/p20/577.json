@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ViVINFeXbEo",
-            "title": "Prince William And Kate Middleton Welcome Third Child | NBC Nightly News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "ON5X6Tkap3g",
             "title": "Rohingya Muslim Refugees Prepare For Monsoon Danger | NBC News",
             "secondDuration": 90,
@@ -121,8 +115,14 @@
             "title": "Demonstrators In Myanmar Stage Flash Mob Protest Against Military Coup",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ul-shnz86-4",
+            "title": "At Least 31 Dead, More Than 200 Injured in Brussels Terror Attacks | NBC Nightly News",
+            "secondDuration": 266,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

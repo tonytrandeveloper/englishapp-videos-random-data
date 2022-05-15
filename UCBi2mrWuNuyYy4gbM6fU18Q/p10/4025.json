@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sAMvdTHeTHU",
-            "title": "Trump criticized for congratulating Putin",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "V1E2MA9NHFM",
             "title": "Texas freeze, Mars projection, Mount Etna Eruption: Week in Photos, Feb. 19",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "'Putin's name will have a stain in history forever for this': Durbin | ABC News",
             "secondDuration": 327,
             "group": "group_7"
+        },
+        {
+            "videoId": "Pslpz1k5MTQ",
+            "title": "UFC fight spills out of the octagon",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

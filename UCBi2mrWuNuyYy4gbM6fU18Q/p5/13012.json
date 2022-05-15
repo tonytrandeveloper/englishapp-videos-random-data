@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JIkkno2otI0",
-            "title": "Unusual showcase for ‘blacklisted’ quarterback Colin Kaepernick l ABC News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "k6yE5VQiEo0",
             "title": "Collision kills 3 in Southern California",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Full 'Solo: A Star Wars Story' movie trailer makes its debut",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "M05Ivizwk2w",
+            "title": "Hurricane Willa makes landfall as Category 3 in Mexico",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

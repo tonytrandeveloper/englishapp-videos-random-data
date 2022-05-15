@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lHmds5m2r2s",
-            "title": "Watch Live: President Donald Trump Holds Campaign Rally In Montana | NBC News",
-            "secondDuration": 4444,
-            "group": "group_7"
-        },
-        {
             "videoId": "V4y5JZKgAs4",
             "title": "LIVE: White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 2200,
@@ -31,8 +25,14 @@
             "title": "National Security Advisor H.R. McMaster Speaks At White House Briefing (Full) | NBC News",
             "secondDuration": 1531,
             "group": "group_7"
+        },
+        {
+            "videoId": "hZrfZU-uZqU",
+            "title": "Factory Of Lies: The Russian Playbook | NBC News",
+            "secondDuration": 399,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

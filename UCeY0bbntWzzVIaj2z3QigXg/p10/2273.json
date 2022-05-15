@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0IFxEV-TNBo",
-            "title": "How Far Into Space Is NASA's Voyager 2 Right Now? (Very, Very, Very Far) | Mach | NBC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "IN-VfCBbLlA",
             "title": "WATCH: Rescuers Save Woman From Rushing Oklahoma Flood Waters | NBC News",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "Live: New Jersey Governor Murphy Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4067,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z8ir9CMua4k",
+            "title": "Covid Confusion: Savannah Sellers Reveals Contradictory Covid Test Results | NBC News NOW",
+            "secondDuration": 525,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

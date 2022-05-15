@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Rk_qxpRmZ9I",
-            "title": "Jewelry Company Faces Allegations Of Sexual Harassment, Discrimination | NBC Nightly News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "eH-ctlIEIUE",
             "title": "CDC Reverses Indoor Mask Policy For Vaccinated Americans",
             "secondDuration": 304,
@@ -121,8 +115,14 @@
             "title": "Trump On New Wave Of Covid Cases: 'It Will Go Away,' A Vaccine Is Coming | NBC News",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "HSYm47lJQQ4",
+            "title": "SpaceX Successfully Launches A Re-Used Rocket For First Time | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

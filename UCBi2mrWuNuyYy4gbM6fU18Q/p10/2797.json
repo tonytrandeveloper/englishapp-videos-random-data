@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CMW67IKvkmI",
-            "title": "Illinois Plane Crash: 7 Dead in Accident after Duke-Wisconsin Game",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "4-gq-qpdhm8",
             "title": "All 50 states have now started to reopen",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "Suspect charged with plotting to bomb LGBTQ nightclubs and synagogue",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "C5405XjDCFs",
+            "title": "Former top NRA official: Gun owners ‘should be horrified’ by what I saw",
+            "secondDuration": 249,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

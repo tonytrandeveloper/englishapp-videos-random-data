@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1a2gqS-W8Tg",
-            "title": "Bernie Sanders addresses campaign plans after heart attack l ABC News",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "GGuQ42piyS4",
             "title": "Michelle Obama Campaigns for Hillary Clinton in Philadelphia",
             "secondDuration": 209,
@@ -121,8 +115,14 @@
             "title": "Rutgers Fight Leaves Former Football Player Hospitalized",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "IbQ9LiR01-I",
+            "title": "Pilot of the Helicopter That crashed Into Water Speaks Out",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

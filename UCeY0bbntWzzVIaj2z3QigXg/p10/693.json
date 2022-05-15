@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "V_XcxsJSEvo",
-            "title": "COVID-19 Outbreak: 5 Cases Confirmed In The U.S. So Far | NBC Nightly News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "sH9bieL19-Q",
             "title": "Boy’s Powerful Reaction To Seeing Color For The First Time | NBC Nightly News",
             "secondDuration": 71,
@@ -61,8 +55,14 @@
             "title": "New Haven Police Shooting: Body Cam Footage Raising New Questions | NBC Nightly News",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "kCaPjIUdd-w",
+            "title": "Aaron Hernandez's Murder Trial | 101 | NBC News",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ov5a7LHFQBs",
-            "title": "JetBlue: All You Can Fly for $599",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "Squrm3nvV1g",
             "title": "The Debrief: Deadly shooting at Pensacola naval base, border death outrage and more | ABC News",
             "secondDuration": 1507,
@@ -31,8 +25,14 @@
             "title": "'10% Happier': Thupten Jinpa | ABC News",
             "secondDuration": 3602,
             "group": "group_7"
+        },
+        {
+            "videoId": "R5PQywRzXZ4",
+            "title": "Mother Faces Attempted Murder Charges For Trying to Kill Self, Her Kids",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

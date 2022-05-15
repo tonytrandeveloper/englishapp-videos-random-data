@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dq9LnZZEOW8",
-            "title": "NY Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2846,
-            "group": "group_7"
-        },
-        {
             "videoId": "CZn-5AHu4bY",
             "title": "Chanting Over Pics Of Donald Trump, Kim Jong-Un, Shamens Perform World Peace Ritual | NBC News",
             "secondDuration": 58,
@@ -121,8 +115,14 @@
             "title": "Barr Calls Pensacola Naval Base Shooting An ‘Act Of Terrorism’ | NBC News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "LDktWWYjFX0",
+            "title": "Watch Trump Announce Lifted Sanctions Against Turkey After Syrian Cease-Fire | NBC News",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

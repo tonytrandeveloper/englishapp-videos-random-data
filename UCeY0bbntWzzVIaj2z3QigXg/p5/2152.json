@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rX8mNgO2oHw",
-            "title": "David Cameron On Global Instability  | NBC News",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Y_ogxnzp9g",
             "title": "Rep. Ilhan Omar On Donald Trump: We Need To ‘Hold Him Accountable’ For Comments | NBC News Now",
             "secondDuration": 322,
@@ -31,8 +25,14 @@
             "title": "Switching Sides: Should A.I. Be Regulated? | NBC News Signal",
             "secondDuration": 367,
             "group": "group_7"
+        },
+        {
+            "videoId": "cTFhwU6xkXo",
+            "title": "Despite Warnings, Some U.S. Trains Still Running Without Life-Saving Tech | NBC Nightly News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

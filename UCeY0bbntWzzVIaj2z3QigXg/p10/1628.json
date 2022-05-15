@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VA_OlXtYkKU",
-            "title": "L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
-            "secondDuration": 4135,
-            "group": "group_7"
-        },
-        {
             "videoId": "jeIwFRbwmBg",
             "title": "3-Year-Old Rescued From Collapsed Apartment After Turkish Earthquake | NBC News NOW",
             "secondDuration": 57,
@@ -61,8 +55,14 @@
             "title": "Mike Pence Takes Oath of Office for Vice President of the United States | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "McLi0JmX7nw",
+            "title": "Water Cannons, Tear Gas Disperse First Hong Kong Protests Of 2020 | NBC News",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

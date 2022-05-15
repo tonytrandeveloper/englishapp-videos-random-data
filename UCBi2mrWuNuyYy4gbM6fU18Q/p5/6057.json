@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Zw-TBtI7GAk",
-            "title": "Herman Cain Fires Back at Press for Sexual Harassment Story",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "OcoIZD2tzzc",
             "title": "Trump dismisses government experts in COVID-19 response l ABC News",
             "secondDuration": 196,
@@ -31,8 +25,14 @@
             "title": "Mommy blogger's decision to give up 'wine culture' to document sobriety journey l Nightline",
             "secondDuration": 541,
             "group": "group_7"
+        },
+        {
+            "videoId": "gYi6Ibf3e0o",
+            "title": "Nate Silver on FiveThirtyEight's Election Day Forecast",
+            "secondDuration": 289,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

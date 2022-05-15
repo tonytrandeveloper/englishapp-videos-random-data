@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nrbmUOeMn-4",
-            "title": "Marco Rubio On 9/11: 'Don't Blame Bush' | Meet The Press | NBC News",
-            "secondDuration": 360,
-            "group": "group_7"
-        },
-        {
             "videoId": "wzAFo_8poLU",
             "title": "NOW Tonight with Joshua Johnson Full Episode – Dec. 9 | NBC News NOW",
             "secondDuration": 3126,
@@ -121,8 +115,14 @@
             "title": "Arkansas Passes Bill To Ban Gender-Affirming Care For Trans Youth | NBC News NOW",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "TY_tHs286SU",
+            "title": "A Slow-Motion View of the Women's March | NBC News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

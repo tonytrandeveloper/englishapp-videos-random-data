@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N2MGFkpNqoI",
-            "title": "Arizona Department of Corrections releases video of prison hostage situation",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "uuS6K2pKanE",
             "title": "Dog and Cat Deaths May be Linked to Dog Treats",
             "secondDuration": 77,
@@ -61,8 +55,14 @@
             "title": "Viral ex-'Cosby' star lands another acting gig",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "qb9yBbJSVsQ",
+            "title": "ESPN reporter dies at 34",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

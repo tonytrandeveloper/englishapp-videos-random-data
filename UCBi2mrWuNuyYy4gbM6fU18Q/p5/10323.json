@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9X6VU3A3Geg",
-            "title": "Republican Candidates and Their Debate Accommodations",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "a9aOVD_ttOU",
             "title": "Emmy Highlights 2015 | Viola Davis wins for \"How To Get Away with Murder\"",
             "secondDuration": 298,
@@ -31,8 +25,14 @@
             "title": "'This Week' Web Extra: Newt Gingrich Answers Viewer Questions From Facebook, Twitter",
             "secondDuration": 395,
             "group": "group_7"
+        },
+        {
+            "videoId": "fflY-p1qVSs",
+            "title": "All charges dropped in Michael Flynn case",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "bylfiz4byps",
-            "title": "Rosetta Spacecraft To Land On Comet | NBC News",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "nMNEawGpwuI",
             "title": "U.S. Travel Restrictions To Go Into Effect As Omicron Variant Spreads",
             "secondDuration": 152,
@@ -301,8 +295,14 @@
             "title": "U.S. Records More Than 11 Million Covid-19 Cases | NBC Nightly News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "h242c18N1Sg",
+            "title": "USS John McCain Collision: Families Of Missing Sailors Speak Out | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Jz-0w1xlt8I",
-            "title": "Flipping Houses: Not for the Faint of Heart",
-            "secondDuration": 478,
-            "group": "group_7"
-        },
-        {
             "videoId": "pzPiZZwtvXY",
             "title": "Intense Rainfall, Deadly Floods Ravage Texas",
             "secondDuration": 77,
@@ -301,8 +295,14 @@
             "title": "Louisiana reporting more than 5,000 COVID-19 cases a day l ABC News",
             "secondDuration": 469,
             "group": "group_7"
+        },
+        {
+            "videoId": "fGScAEC9vTw",
+            "title": "American Band Opens Up on Paris Concert Hall Attack",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fx13vq2lu5I",
-            "title": "'This Week': Kevin Spacey",
-            "secondDuration": 307,
-            "group": "group_7"
-        },
-        {
             "videoId": "KHZ8eQMpysA",
             "title": "Orlando Shooter Texted Wife During Rampage",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Hurricane Dorian lashes Carolinas, Bahamas death toll rises, new vaping concerns l ABC News",
             "secondDuration": 1621,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jz-CE2UoXM8",
+            "title": "McDonald's Replacing Toys in Happy Meals",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

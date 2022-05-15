@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "knPx0FEoonA",
-            "title": "An Alligator Is On The Loose In Chicago | NBC Nightly News",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "-MKNsylQ4p8",
             "title": "Russian Ex-Spy And His Daughter Poisoned With Nerve Agent, Police Say | NBC Nightly News",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "Huge Avalanche Caught On Camera Near Swiss Ski Resort | NBC News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "F9_ZtoyVYD0",
+            "title": "Paul Ryan: Russia ‘Did Interfere In Our Elections… No Doubt’ | NBC News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

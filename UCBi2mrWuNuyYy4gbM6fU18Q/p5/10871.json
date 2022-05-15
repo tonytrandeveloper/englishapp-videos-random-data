@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0UHHYoipuVg",
-            "title": "Housing Market Bounces Back",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "bPNvksG82MA",
             "title": "Vicki Kennedy on Health Care, the Supreme Court, and Ted Kennedy's Legacy",
             "secondDuration": 354,
@@ -31,8 +25,14 @@
             "title": "'This Week' Congress Gridlock on Immigration - 'I'm Counting on the House Getting it Even Better'",
             "secondDuration": 753,
             "group": "group_7"
+        },
+        {
+            "videoId": "RXoIStA09t0",
+            "title": "Syrian Families Forced to Cross Border Into Lebanon",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "yPWGsghzNN0",
-            "title": "Suspect arrested after 3 killed, 5 injured in shooting on Dutch commuter train",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "EsVSn8dJey0",
             "title": "COVID-19 vaccine could be available by December",
             "secondDuration": 189,
@@ -301,8 +295,14 @@
             "title": "Severe hailstorm pelts Tennessee",
             "secondDuration": 37,
             "group": "group_7"
+        },
+        {
+            "videoId": "N7DovtDp1GE",
+            "title": "A Taste of Victory",
+            "secondDuration": 400,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

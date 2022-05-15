@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MkvX_lzeNzo",
-            "title": "It’s UFO Day! Here’s What We Know So Far | Mach | NBC News",
-            "secondDuration": 304,
-            "group": "group_7"
-        },
-        {
             "videoId": "FqeROJjkiwY",
             "title": "Los Angeles Mayor Warns City Could Be Out Of Hospital Beds By Christmas | NBC News NOW",
             "secondDuration": 120,
@@ -121,8 +115,14 @@
             "title": "Girls Killed in Afghanistan School Bombing Laid To Rest | NBC Nightly News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "tHVuCjxNUm4",
+            "title": "How Fidget Spinners Seem To Spin Forever | Mach | NBC News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sOq1N1FZ8LE",
-            "title": "An almost perfect game",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "QBPnyS0NIdY",
             "title": "Presidential Election 2016: Potential Candidates In A Minute",
             "secondDuration": 67,
@@ -61,8 +55,14 @@
             "title": "Cardin: Willing to Listen for 'Compromise'",
             "secondDuration": 306,
             "group": "group_7"
+        },
+        {
+            "videoId": "shh8E3GPOlk",
+            "title": "An all-female crew of fighter pilots flew in formation in honor of Rosemary Mariner",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

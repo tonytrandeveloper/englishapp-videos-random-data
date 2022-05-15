@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tk7tJF9bT4Q",
-            "title": "Manhunt on in Tampa after 3 slayings in 11 days",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "YR6j3Skpuxk",
             "title": "Arizona Law Criticized as Racial Profiling",
             "secondDuration": 322,
@@ -61,8 +55,14 @@
             "title": "Zookeeper struck in stomach by rhino",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "sVXJlPSpcm4",
+            "title": "Supreme Court Battle Over BIrth Control",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

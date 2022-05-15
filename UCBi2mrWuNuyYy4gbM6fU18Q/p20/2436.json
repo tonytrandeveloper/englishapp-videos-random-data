@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OR8Y4Y3K6Qk",
-            "title": "Cal Ripken, Jr. on Mom's Abduction: 'It Was A Premeditated Act'",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "SWU8p4sb5Mo",
             "title": "Vaccine Watch: Protecting immunosuppressed patients",
             "secondDuration": 373,
@@ -121,8 +115,14 @@
             "title": "Trump's defiant stand after two stunning legal blows",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "KXMyZv2lYwg",
+            "title": "US life expectancy suffers historic drop due to COVID-19",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

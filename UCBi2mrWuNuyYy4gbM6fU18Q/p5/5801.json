@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HJy1LaUAEVA",
-            "title": "Before the US Border, Migrants Face Harrowing Journey in Mexico",
-            "secondDuration": 483,
-            "group": "group_7"
-        },
-        {
             "videoId": "A6XodNxXHsE",
             "title": "Oklahoma Teen August Reiger Disappears Hiking in Ecuador, Was He Kidnapped?",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Amanda Knox Case: New DNA Ruling",
             "secondDuration": 419,
             "group": "group_7"
+        },
+        {
+            "videoId": "fRdqD5wmhlg",
+            "title": "WH advisor Jared Kushner travels to Iraq",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

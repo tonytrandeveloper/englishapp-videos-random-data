@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MjHm_SyJhyA",
-            "title": "Capitol insurrection: Tracking the attack 1 year later | ABC News",
-            "secondDuration": 442,
-            "group": "group_7"
-        },
-        {
             "videoId": "qo77XZ1VnC4",
             "title": "Leonardo Dicaprio ACCEPTANCE SPEECH for Best Actor | Oscars 2016",
             "secondDuration": 291,
@@ -31,8 +25,14 @@
             "title": "School Supply Cutbacks",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "S7YaOugdtgo",
+            "title": "Arizona Shooting: 911 Calls Reveal Chaos, Confusion",
+            "secondDuration": 381,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

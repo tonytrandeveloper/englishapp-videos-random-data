@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3tZ0vBinfdk",
-            "title": "President Donald Trump Commends Professionalism Of First Responders In Las Vegas | NBC News",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jx6G8rf3j0U",
             "title": "Meet The Press Broadcast (Full) - June 14th, 2020 | Meet The Press | NBC News",
             "secondDuration": 2855,
@@ -31,8 +25,14 @@
             "title": "Tiny Island Of Guam In The Crosshairs Of U.S.-North Korea Crisis | NBC Nightly News",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "5IjvGolBgds",
+            "title": "Inside A Florida Hospital During Nationwide Covid Surge",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

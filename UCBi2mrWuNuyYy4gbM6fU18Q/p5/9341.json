@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JsIkSFFspEw",
-            "title": "Webcast: Mom Murdered; Car Slams into Store",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "KAGn5zGybzQ",
             "title": "Chocolate Chip and E.Coli",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Dozens of Passengers Work Together To Save Woman",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "JIkbVcX_MrY",
+            "title": "Puerto Rico still on the road to recovery post-hurricanes",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SOIaGA1UkbQ",
-            "title": "Top Line: Afghanistan: Why Add More Troops?",
-            "secondDuration": 344,
-            "group": "group_7"
-        },
-        {
             "videoId": "RibZl6MiFO8",
             "title": "'Case closed' on Kamala Harris citizenship question: Trump campaign adviser | ABC News",
             "secondDuration": 683,
@@ -61,8 +55,14 @@
             "title": "Donald Trump's Final Inauguration Preparations",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "TZnH3nB7Q8w",
+            "title": "Senate impeachment trial of Trump officially begins",
+            "secondDuration": 317,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

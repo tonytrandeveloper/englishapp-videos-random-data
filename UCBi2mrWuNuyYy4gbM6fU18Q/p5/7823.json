@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cQOSh6GLa_w",
-            "title": "What Is the Best Way to Sneeze?",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "1oNJghtdiTA",
             "title": "Trevor Noah on the Republican National Convention",
             "secondDuration": 221,
@@ -31,8 +25,14 @@
             "title": "Holly McFeeture Antifreeze Poison Murder Trial: Jury Deliberates Fate of Suspect",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "q6u3aRmJHLM",
+            "title": "Gunman opens fire on neighborhood block party",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

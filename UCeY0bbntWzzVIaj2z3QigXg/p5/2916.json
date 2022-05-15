@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S1qZLfadfKM",
-            "title": "Intel’s Sandra Lopez On The Silicon Valley ‘Boys Club’ Problem | NBC News",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y8tjtaFXCFw",
             "title": "Pence Receives Covid Vaccine On Live Television | NBC Nightly News",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "Oklahoma’s Female Prison Population Is Reaching Epidemic Levels | NBC Left Field",
             "secondDuration": 357,
             "group": "group_7"
+        },
+        {
+            "videoId": "LZNNii2gcFc",
+            "title": "White House Holds Press Briefing: July 19 | NBC News",
+            "secondDuration": 2676,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

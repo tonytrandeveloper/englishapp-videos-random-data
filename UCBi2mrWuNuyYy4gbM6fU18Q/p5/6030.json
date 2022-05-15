@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zoPgFETVgx0",
-            "title": "Different side of sports shown during pandemic",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "V6G4VlZthxQ",
             "title": "Steubenville Rape Trial: Inside the Scandal",
             "secondDuration": 374,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Takes Gentler Approach in Presidential Campaign",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "DSOr3Si3xOs",
+            "title": "Remnants of Tropical Storm Imelda slam southeast Texas",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

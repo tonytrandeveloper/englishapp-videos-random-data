@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-Njm2IjWEsI",
-            "title": "President Trump addresses anti-abortion rally in Washington, D.C. | ABC News",
-            "secondDuration": 889,
-            "group": "group_7"
-        },
-        {
             "videoId": "1hPlyo1JEYc",
             "title": "ABC exclusive: Biden on the state of COVID-19 in the US",
             "secondDuration": 725,
@@ -31,8 +25,14 @@
             "title": "Search for survivors after deadly tsunami hits Indonesia",
             "secondDuration": 363,
             "group": "group_7"
+        },
+        {
+            "videoId": "b7DSaZJHVaY",
+            "title": "Exclusive Interview: Melania Trump to speak out to ABC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

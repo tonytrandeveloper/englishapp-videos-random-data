@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2vz5-X7l6aQ",
-            "title": "The Debrief: Alabama abortion ban, US Iraq warning, Boeing controversy | ABC News",
-            "secondDuration": 1944,
-            "group": "group_7"
-        },
-        {
             "videoId": "J1FKAe-WKP4",
             "title": "Wing of Miami-area condo collapses; many feared dead | ABC News",
             "secondDuration": 178,
@@ -61,8 +55,14 @@
             "title": "Dinosaur Bar-B-Que: Chicken Salad Sandwich",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "mpA0Nx0FYBE",
+            "title": "Tensions boil over during protests on both coasts",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

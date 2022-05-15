@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "P_Fi3RWUpSE",
-            "title": "Massive Winter Storm Hits Northeast | NBC Nightly News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "mORCM2DY-fQ",
             "title": "Collins Condemns Comparison Of The President Of Ukraine To A 'Battered Wife' | NBC News",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "What To Expect From A Category 4 Hurricane | 101 | NBC News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z53iTIBTdpk",
+            "title": "Oklahoma City Bombing | Flashback | NBC News",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

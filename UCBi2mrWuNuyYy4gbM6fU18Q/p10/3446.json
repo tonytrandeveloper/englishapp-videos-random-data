@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m07QiSNP444",
-            "title": "Vice Presidential Debate 2012: Paul Ryan Rattles Off Obama's 'Broken Promises'",
-            "secondDuration": 473,
-            "group": "group_7"
-        },
-        {
             "videoId": "kPdL14hYInQ",
             "title": "Americans still picking up the pieces after 60 tornadoes ripped through 9 states",
             "secondDuration": 369,
@@ -61,8 +55,14 @@
             "title": "In the kitchen with Black sports journalists Maria Taylor, Lisa Salters, Marc Spears",
             "secondDuration": 425,
             "group": "group_7"
+        },
+        {
+            "videoId": "wPOLgddshaU",
+            "title": "Univision to Buy Gawker Media",
+            "secondDuration": 27,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

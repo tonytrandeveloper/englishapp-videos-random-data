@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rI5X_A-nJMI",
-            "title": "Hollywood Medium Tyler Henry | Behind the Scenes",
-            "secondDuration": 376,
-            "group": "group_7"
-        },
-        {
             "videoId": "DBY-MKt8XUc",
             "title": "Chicago librarian unseats 'Jeopardy! James,' ending his quest for new record",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Investigators still searching for clues in Delphi murders | Nightline",
             "secondDuration": 549,
             "group": "group_7"
+        },
+        {
+            "videoId": "T7_kFJshSo4",
+            "title": "Your Voice: 4 states under state of emergency after pipeline cyberattack",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

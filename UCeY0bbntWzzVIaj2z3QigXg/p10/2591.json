@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Mh5TPdAWrxo",
-            "title": "President Trump On ‘Tough’ Phone Calls: ‘Don’t Worry About It’ | NBC News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "KKUT7mbxh0o",
             "title": "School Starts Using Facial Recognition Technology Amid Security Concerns | NBC Nightly News",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "At Least 3 Dead In Midair Crash Of Two Planes In Florida Everglades | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "3kiH4hMj8wI",
+            "title": "How Detroit Law Enforcement Combat Crime In A City Plagued With Violence | NBC News",
+            "secondDuration": 571,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

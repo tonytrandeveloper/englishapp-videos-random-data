@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8UCLwTLgOXg",
-            "title": "Stuart Stevens During 'This Week' Roundtable: 'We don't have a 140 character problem'",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "63re5GhdH84",
             "title": "Donald Trump Defends Roger Ailes Amid Sexual Harassment Allegations",
             "secondDuration": 335,
@@ -31,8 +25,14 @@
             "title": "Justin Bieber Fights Paparazzi as Selena Gomez Refuses To Answer Questions",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "dcbxN7EjURY",
+            "title": "Glitz and Glamour at the 2014 State Dinner",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

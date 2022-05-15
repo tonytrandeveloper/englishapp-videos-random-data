@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yftzZHHbtfg",
-            "title": "SpaceX Falcon 9 Rocket Crashes Into Drone Ship",
-            "secondDuration": 20,
-            "group": "group_7"
-        },
-        {
             "videoId": "6t1vE5YFlGk",
             "title": "Renewed calls for Justice Brett Kavanaugh to be impeached l ABC News",
             "secondDuration": 246,
@@ -31,8 +25,14 @@
             "title": "Mike Pence Plane Skids Off Runway at LaGuardia Airport",
             "secondDuration": 219,
             "group": "group_7"
+        },
+        {
+            "videoId": "HYdV_lQYCUk",
+            "title": "Hillary Clinton: 'Another Super Tuesday for Our Campaign' (FULL SPEECH)",
+            "secondDuration": 805,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

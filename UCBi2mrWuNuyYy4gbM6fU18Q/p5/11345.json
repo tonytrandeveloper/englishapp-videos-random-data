@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0xT_Pb5ACXo",
-            "title": "US Mother's Heartbreaking Message on Terrorist Slaying of Son",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "FGHg7oAthSI",
             "title": "Laverne Cox on how she has paved the way for the next generation",
             "secondDuration": 779,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Takes on the Clintons",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "BQrogUdITpo",
+            "title": "Meningitis Outbreak Linked to Spinal Steroid Injections",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

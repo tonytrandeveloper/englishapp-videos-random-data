@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kOakzFlQpOA",
-            "title": "Several deaths reported in the wake of Harvey",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZDWR92R_43o",
             "title": "Democrats agree to ‘framework’ of infrastructure plan l WNT",
             "secondDuration": 167,
@@ -31,8 +25,14 @@
             "title": "9 injured in apartment complex stabbing",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "gjeDXEiVGbk",
+            "title": "COVID-19 cases rising in nearly half of US",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

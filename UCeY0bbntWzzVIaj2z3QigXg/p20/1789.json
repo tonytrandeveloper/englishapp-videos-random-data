@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yBrcHuGrmYM",
-            "title": "Joe Biden To Announce VP Choice First Week Of August | NBC News NOW",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "zempfCY2FFM",
             "title": "Firefighter Saves American Flag From Massachusetts House Fire | NBC Nightly News",
             "secondDuration": 65,
@@ -121,8 +115,14 @@
             "title": "Morning News NOW Full Broadcast - Dec. 3",
             "secondDuration": 3017,
             "group": "group_7"
+        },
+        {
+            "videoId": "FZ5JUHCu6wE",
+            "title": "Watch Highlights Of The Democratic Debate In 5 Minutes | NBC News",
+            "secondDuration": 310,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

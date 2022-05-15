@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bDubA1sD3ok",
-            "title": "California’s largest wildfire devastates small mountain community | ABC News",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "idoCB9rrhA8",
             "title": "Serena Williams Stubenville Rape Case Comments: Star to Defend Wimbledon Title Amid Controversy",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "Paying Respects to the Victims in Dallas",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "tHTWJ8qDcfk",
+            "title": "Plane Collides With Bird, Lands Safely",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-4UL5BCKBNc",
-            "title": "American climber dies rappelling in Mexico l ABC News",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "y6mC5gw1B_M",
             "title": "Where do inmates fit on vaccination priority list?",
             "secondDuration": 479,
@@ -61,8 +55,14 @@
             "title": "Retired Gen. Hugh Shelton on the War",
             "secondDuration": 681,
             "group": "group_7"
+        },
+        {
+            "videoId": "s-1Es35fAfw",
+            "title": "NASCAR tire changer makes pit crew history | ABC News",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

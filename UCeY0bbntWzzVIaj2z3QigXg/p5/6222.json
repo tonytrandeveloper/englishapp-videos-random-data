@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9tPzLZRlSgU",
-            "title": "President Donald Trump On Beto O'Rourke: 'I've Never Seen Hand Movement Like That'| NBC News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "NEh-2gkoPFA",
             "title": "7 Killed In Explosion At Suspected Test Site For Secret Nuclear-Propelled Missile | NBC Nightly News",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Man Rescued From Arizona Mine Shaft After Two Days | NBC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "6TGghnNQXUA",
+            "title": "Tropical Depression Imelda Brings Heavy Rain, Flooding To Texas | NBC News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

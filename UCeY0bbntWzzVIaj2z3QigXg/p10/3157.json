@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K91X4xtqWrQ",
-            "title": "Explaining Your Craving: Why Chocolate Delights Body And Brain | Better | NBC News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "O60ilZJ6Io0",
             "title": "Joe Biden Announces 'Transition Advisory Board' For Coronavirus | NBC News",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
             "secondDuration": 2206,
             "group": "group_7"
+        },
+        {
+            "videoId": "cosEQivY6D8",
+            "title": "Israeli Troops Kill Palestinian Teenager in West Bank Clash",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

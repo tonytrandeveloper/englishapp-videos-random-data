@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LXTFyfpBtmE",
-            "title": "Dr. Fauci Says U.S. Will Fight Covid By Remaining In WHO | NBC News NOW",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "45vsoowg0RM",
             "title": "'We're forgotten': Native Americans make up disproportionate number of missing persons cases",
             "secondDuration": 174,
@@ -61,8 +55,14 @@
             "title": "CDC Says Waiting Longer Between COVID Vaccine Doses Could Reduce Myocarditis",
             "secondDuration": 518,
             "group": "group_7"
+        },
+        {
+            "videoId": "k9ikjsueFCo",
+            "title": "California’s Dixie Fire Becomes Nation’s Largest Active Wildfire",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

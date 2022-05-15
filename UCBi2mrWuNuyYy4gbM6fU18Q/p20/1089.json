@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Kr2ofAichmU",
-            "title": "Crocodile Goes Surfing Down Under",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "2ayeFVOxmjo",
             "title": "Temperatures plummet from Midwest to South, Northeast l ABC News",
             "secondDuration": 127,
@@ -121,8 +115,14 @@
             "title": "Erin Brockovich Investigates Girls' Tics",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "qBDlpDQHPgY",
+            "title": "The Rundown: Top headlines today: Dec. 9, 2021",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

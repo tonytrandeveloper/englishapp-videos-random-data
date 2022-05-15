@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "c1-PHj-QBHo",
-            "title": "WEBCAST: California Standoff Ends",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZdzippanOtY",
             "title": "James Cameron Dives to Deepest Part of the Ocean Inside the Mariana Trench",
             "secondDuration": 133,
@@ -121,8 +115,14 @@
             "title": "Aaron Alexis, Navy Yard Shooter, Wrote \"Better Off This Way\" on Gun",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "0KKl7caJimY",
+            "title": "Honeymoon in Vegas Not What it Used to Be",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

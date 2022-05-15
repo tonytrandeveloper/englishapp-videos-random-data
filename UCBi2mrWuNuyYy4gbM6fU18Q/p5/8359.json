@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gyhRnN4HKXY",
-            "title": "Uber CEO apologizes for newly released video",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "FhwkBrJX1XI",
             "title": "Jodi Arias Testifies She Tried Wicca, Buddhism With Boyfriends",
             "secondDuration": 329,
@@ -31,8 +25,14 @@
             "title": "Fog Brings Deadly Pile-Up, Shuts Texas Interstate",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "FAcPAFxESs0",
+            "title": "Katy Perry Cut From 'Sesame Street'",
+            "secondDuration": 379,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

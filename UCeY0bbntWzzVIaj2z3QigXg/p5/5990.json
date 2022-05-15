@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hcOOYSiIjfE",
-            "title": "FCC Scraps Net Neutrality Rules Regulating Internet Access | NBC Nightly News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "mI7eHX9u4Q0",
             "title": "#BlackLivesMatter: A Look Into The Movement's History | Long Story Short | NBC News",
             "secondDuration": 208,
@@ -31,8 +25,14 @@
             "title": "Toddler Steals Prizes From Inside Arcade Game | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "z1ggwQXmLCs",
+            "title": "Amber Guyger Found Guilty Of Murder In Neighbor’s Shooting Death | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

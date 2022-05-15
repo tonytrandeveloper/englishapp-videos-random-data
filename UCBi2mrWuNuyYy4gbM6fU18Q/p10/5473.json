@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IbQ9LiR01-I",
-            "title": "Pilot of the Helicopter That crashed Into Water Speaks Out",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "VdPxwrPWonk",
             "title": "Doctor Accused of Misdiagnosing Cancer for Medicare Payments",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Trump calls Prime Minister Justin Trudeau ‘two-faced’",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "eWejoaD5JhE",
+            "title": "Cuomo responds to Trump's criticisms",
+            "secondDuration": 567,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

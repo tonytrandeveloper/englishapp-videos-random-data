@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ff3oZAUZjCI",
-            "title": "Made in America: Developing Photos in the Digital Age",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "kJ3yomwpBzQ",
             "title": "Good Morning America: Unclaimed Money Found for ABC Staff; Is Cash Waiting for You?",
             "secondDuration": 452,
@@ -31,8 +25,14 @@
             "title": "9/11 Memorial March Held by NYPD",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "UV6wIHU3yTY",
+            "title": "White House press briefing on school safety, gun control | ABC News",
+            "secondDuration": 2116,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

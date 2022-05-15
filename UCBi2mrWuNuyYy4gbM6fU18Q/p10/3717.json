@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DAwxrWH_RYw",
-            "title": "Family of girl who died in border custody calls for 'thorough' investigation",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "uirqbiQ-ul4",
             "title": "Sen. Al Franken on AG Jeff Sessions: 'I don't think he told me the truth'",
             "secondDuration": 220,
@@ -61,8 +55,14 @@
             "title": "President Obama Discusses Climate Change",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "IAYrBPnHGAM",
+            "title": "Senate Republicans determined to pass 'skinny repeal'",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

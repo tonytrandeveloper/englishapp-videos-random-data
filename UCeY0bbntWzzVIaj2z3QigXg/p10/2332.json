@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X-zKRFQioIk",
-            "title": "Three More Climbers Die On Mount Everest As Busy Season Causes Traffic Jam | NBC Nightly News",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "YdbPzxwIr1Q",
             "title": "Boeing Officials Confirm Debris Is From 777 Jet | NBC Nightly News",
             "secondDuration": 173,
@@ -61,8 +55,14 @@
             "title": "Metrojet Crash Investigators Report Unusual Sounds on Cockpit Recorder | NBC Nightly News",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "lkUTvoqkAXQ",
+            "title": "CDC Dir. Walensky 'Cautiously Optimistic' As Omicron Cases Trend Downward",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

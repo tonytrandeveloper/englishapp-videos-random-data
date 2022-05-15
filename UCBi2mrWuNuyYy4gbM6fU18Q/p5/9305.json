@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C93LKuBduC4",
-            "title": "Ukrainian-Russian combat in the digital world | ABCNL",
-            "secondDuration": 336,
-            "group": "group_7"
-        },
-        {
             "videoId": "MNnhDxAFY3Y",
             "title": "Panama Papers | Biggest Financial Data Leak in History",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "How an Illinois senator is battling the pandemic from home",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "CfHRF5LOnRY",
+            "title": "Italian Supreme Court Hears Challenge to Amanda Knox's Freedom",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

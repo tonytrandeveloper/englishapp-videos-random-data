@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rbFEa9X4kQs",
-            "title": "Final Act for the greatest show on Earth",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "cDgyQ9YJjMI",
             "title": "Around 350 Americans back from Wuhan, China l ABC News",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Polls close in the UK after high-stakes election",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "fr8yUtVcpGw",
+            "title": "NY Rep.: Afghanistan will 'turn into a terrorist safe haven'",
+            "secondDuration": 432,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

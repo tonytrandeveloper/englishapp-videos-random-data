@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EHbT6CUBKC4",
-            "title": "Sen. Lee Speaks At Confirmation Hearing After Testing Positive For Covid Earlier This Month",
-            "secondDuration": 674,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZrpU6Veym3k",
             "title": "ISIS Claims Paris-Style Terror Attacks in Jakarta | NBC Nightly News",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Nancy Pelosi On Impeachment Inquiry: Trump Is 'Now In My Wheelhouse' | NBC News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "UH-urZZA_fE",
+            "title": "NBC News' Jo Kent: A Day On The Campaign Trail",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

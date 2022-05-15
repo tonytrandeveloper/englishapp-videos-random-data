@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4PkaNrDsoSw",
-            "title": "“Fuller House” Premieres on Netflix | ABC News",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "5Od3fxmZPJg",
             "title": "Serena Williams Swings Towards Grand Slam",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Santa Swims Underwater With Fish in South Korea",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "7PQnP1y3fpE",
+            "title": "A Brief History: How the College Football Playoff Started",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

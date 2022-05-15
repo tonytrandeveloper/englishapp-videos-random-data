@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RAETwCmaV2o",
-            "title": "15-Year-Old Suspected Shooter In Custody After Killing Three At Michigan High School",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Az5xlvB-lc",
             "title": "Hotly Contested Governors Races Could Give Foresight Into The 2020 Elections | NBC Nightly News",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Promises Help For Houston After Hurricane Harvey | NBC Nightly News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "-JZNT3VoeV8",
+            "title": "Who Showed Up To Storm Area 51 | NBC News Now",
+            "secondDuration": 162,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

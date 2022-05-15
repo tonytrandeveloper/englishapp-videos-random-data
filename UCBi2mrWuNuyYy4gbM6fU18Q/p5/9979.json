@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1fY73_68_xI",
-            "title": "The Rundown: Top headlines today: Feb. 14, 2022",
-            "secondDuration": 258,
-            "group": "group_7"
-        },
-        {
             "videoId": "fw0vLgIPWrQ",
             "title": "Senator Kamala Harris addresses 2020 rumors",
             "secondDuration": 286,
@@ -31,8 +25,14 @@
             "title": "Did the San Bernardino Shooters Have Help?",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "MbfXTaT9sZ4",
+            "title": "Kennedy's Funeral: Patrick Remembers",
+            "secondDuration": 472,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

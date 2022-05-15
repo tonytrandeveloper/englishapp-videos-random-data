@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "H0HMwDFgmAQ",
-            "title": "Is Putin's invasion of Ukraine backfiring?",
-            "secondDuration": 278,
-            "group": "group_7"
-        },
-        {
             "videoId": "nguBvJrd8T8",
             "title": "9/11 Memorial unveiled, Ida damage, statue removal: World in Photos Sept. 8",
             "secondDuration": 126,
@@ -121,8 +115,14 @@
             "title": "Police question ex-boyfriend of slain Texas doctor's girlfriend: Part 3",
             "secondDuration": 390,
             "group": "group_7"
+        },
+        {
+            "videoId": "fZ6JirtXQes",
+            "title": "Tornadoes Hit Kansas and Oklahoma",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

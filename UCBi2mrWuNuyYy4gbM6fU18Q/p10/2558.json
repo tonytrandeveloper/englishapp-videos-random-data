@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PLNLxlmG7_k",
-            "title": "NYC Mayor Bill de Blasio announces increased production of coronavirus test kits",
-            "secondDuration": 538,
-            "group": "group_7"
-        },
-        {
             "videoId": "gIcv-PqK7_o",
             "title": "Obama Yells at Bill Clinton to Get on Air Force One",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "The parents of the girl who died in custody after crossing the border speak out",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "SpNZ8AsgLdY",
+            "title": "Injured Student Walks at Graduation for the 1st Time in 4 Years",
+            "secondDuration": 403,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

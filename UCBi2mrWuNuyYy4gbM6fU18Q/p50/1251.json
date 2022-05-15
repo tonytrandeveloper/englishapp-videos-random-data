@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "qqFJd5I3Z4U",
-            "title": "Bill Cosby trial juror speaks out after verdict",
-            "secondDuration": 366,
-            "group": "group_7"
-        },
-        {
             "videoId": "nPOr1bEmS64",
             "title": "Jamie Lynn Spears breaks her silence",
             "secondDuration": 499,
@@ -301,8 +295,14 @@
             "title": "Florida movie theater shooter Curtis Reeves speaks out after acquittal",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "NskLOmF046Y",
+            "title": "Private Jet Crashes in the Bahamas",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

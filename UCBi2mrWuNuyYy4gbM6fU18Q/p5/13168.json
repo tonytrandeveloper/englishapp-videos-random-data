@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qwFBRlZgDLo",
-            "title": "Dr. Anthony Fauci addresses China lab theory",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "RH6fOTQehHI",
             "title": "By the Numbers: Education bigger factor than race in COVID vaccine willingness",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Bundy 20/20 Pt 1: Who was Ted Bundy, the notorious serial killer who murdered dozens of women",
             "secondDuration": 444,
             "group": "group_7"
+        },
+        {
+            "videoId": "JFhOcevvBxY",
+            "title": "Families struggle to make ends meet while navigating COVID-19 economic relief | Nightline",
+            "secondDuration": 564,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

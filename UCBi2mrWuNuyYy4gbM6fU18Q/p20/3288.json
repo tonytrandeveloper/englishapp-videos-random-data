@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Dlcqssvl2qc",
-            "title": "Ivana Trump on Donald Trump's Presidential Campaign",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZOOJM3jlOes",
             "title": "Best actress nominees: Before they were contenders",
             "secondDuration": 348,
@@ -121,8 +115,14 @@
             "title": "Biden delivers remarks in video played during funeral for George Floyd",
             "secondDuration": 317,
             "group": "group_7"
+        },
+        {
+            "videoId": "aw63zL3Ji8E",
+            "title": "Pat Summit Faces Personal Challenges Off-Court",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WG-1YsaXo18",
-            "title": "‘You Are A Man, A Hero’: Zelenskyy Congratulates Freed Mayor of Melitopol",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "wKTwDu0Wzxk",
             "title": "Rick Scott: Hurricane Matthew Could Leave ‘Massive Destruction’ In Florida | NBC News",
             "secondDuration": 81,
@@ -61,8 +55,14 @@
             "title": "Special Report: 7.1 Magnitude Earthquake Leaves California Residents Rattled | NBC News",
             "secondDuration": 395,
             "group": "group_7"
+        },
+        {
+            "videoId": "O8wdKlrYQ34",
+            "title": "New Whistleblower Raises Concerns About What Is Their ‘Firsthand’ Knowledge | NBC Nightly News",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

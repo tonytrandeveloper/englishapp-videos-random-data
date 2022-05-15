@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7Z634plTanQ",
-            "title": "Opioid Crisis: Historic Cape Cod Town Experiencing Staggering Toll | NBC Nightly News",
-            "secondDuration": 211,
-            "group": "group_7"
-        },
-        {
             "videoId": "OH74R5u_bd8",
             "title": "How To Clean Your Remote | Better | NBC News",
             "secondDuration": 50,
@@ -31,8 +25,14 @@
             "title": "Scott Walker: Hillary Clinton, The Ultimate Washington Insider | NBC News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "-YBAyf53ePo",
+            "title": "What Does 'Unemployment Rate' Mean? | Show Me | NBC News",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

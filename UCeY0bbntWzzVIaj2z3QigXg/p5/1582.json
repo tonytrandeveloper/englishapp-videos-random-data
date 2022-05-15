@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vmDcPRIljkc",
-            "title": "Donald Trump: Being The President Is 'Costing Me A Fortune' | NBC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "G_vOALwDV-g",
             "title": "Keep Your Nose Masked. It’s A Coronavirus Super Spreader. | NBC News NOW",
             "secondDuration": 86,
@@ -31,8 +25,14 @@
             "title": "What Does ‘Quid Pro Quo’ Mean? | NBC News Now",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "JKbHiHstwaI",
+            "title": "NYU Makes Tuition Free For Medical Students, Hoping To Bring Change To The Prof. | NBC Nightly News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

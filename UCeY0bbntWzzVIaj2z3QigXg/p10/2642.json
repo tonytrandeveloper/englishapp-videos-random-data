@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PROZXcvxenE",
-            "title": "Ted Cruz On GOP Leadership, Washington Cartel (Full Interview) | Meet The Press | NBC News",
-            "secondDuration": 1883,
-            "group": "group_7"
-        },
-        {
             "videoId": "T16lXimcfvU",
             "title": "There Could Be A Village On The Moon By 2030 | Mach | NBC News",
             "secondDuration": 73,
@@ -61,8 +55,14 @@
             "title": "Trump Touts Job Creation, Unemployment Numbers In State Of The Union Address | NBC News",
             "secondDuration": 283,
             "group": "group_7"
+        },
+        {
+            "videoId": "tYDni4ooOnI",
+            "title": "Trump Pardons Former National Security Adviser Michael Flynn | NBC Nightly News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

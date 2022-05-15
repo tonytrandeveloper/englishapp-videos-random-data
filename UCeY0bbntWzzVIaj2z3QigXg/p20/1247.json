@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "v3QKqMh4gjI",
-            "title": "She Had COVID-19, But No Insurance. Her Treatment Cost $34,972. | Think | NBC News",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "AcgqJH12mqw",
             "title": "The Story Behind This Year’s Rockefeller Center Christmas Tree | NBC Nightly News",
             "secondDuration": 88,
@@ -121,8 +115,14 @@
             "title": "Is College Worth It? | NBC Nightly News",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "YVEJXareLEU",
+            "title": "Trump presents Medal of Freedom to Yankees great Mariano Rivera",
+            "secondDuration": 2495,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

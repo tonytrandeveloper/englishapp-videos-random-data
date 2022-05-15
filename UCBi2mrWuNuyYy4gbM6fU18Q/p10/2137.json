@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_qU8U9art6I",
-            "title": "Air Marshals Come Forward on Misconduct",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "G68pDlloGZI",
             "title": "Teen Uses CPR Skills to Save Baby's Life at Walmart Store",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "President Trump and first lady attend 9/11 memorial service",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "IsvXHtG-jhY",
+            "title": "Senate Republicans fail to get necessary votes to repeal and replace Obamacare",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

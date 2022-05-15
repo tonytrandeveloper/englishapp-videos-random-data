@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "s_cBNsvg0FE",
-            "title": "Apple Says Trade War With China Is Slowing Sales, Sends Markets Tumbling | NBC Nightly News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "h0paiFBB7E8",
             "title": "What’s Behind Empty Shelves At Stores Across The U.S.",
             "secondDuration": 120,
@@ -121,8 +115,14 @@
             "title": "Crystal Lavin: \"For student success it takes...\"",
             "secondDuration": 6,
             "group": "group_7"
+        },
+        {
+            "videoId": "a39BV6qiarU",
+            "title": "12 Killed In Mass Shooting In Thousand Oaks, California | NBC Nightly News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

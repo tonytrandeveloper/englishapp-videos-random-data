@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HzI6YVl1PvM",
-            "title": "President Trump's 2019 State of the Union address: ANALYSIS",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "O4SJYSrlTnA",
             "title": "President Biden departs, storm in New York, wedding bliss: World in Photos, June 9",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Sydney’s Taronga Zoo names red panda cubs",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "8UCLwTLgOXg",
+            "title": "Stuart Stevens During 'This Week' Roundtable: 'We don't have a 140 character problem'",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

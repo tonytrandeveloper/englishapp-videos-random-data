@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_EY2yHMy-c0",
-            "title": "Matt Lauer: \"I have a dream that...\"",
-            "secondDuration": 11,
-            "group": "group_7"
-        },
-        {
             "videoId": "g8YoFqdt5iA",
             "title": "NYPD Commissioner: Brooklyn Subway Shooting Suspect 'Taken Into Custody Without Incident'",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Live: President Donald Trump Holds A Cabinet Meeting | NBC News",
             "secondDuration": 4140,
             "group": "group_7"
+        },
+        {
+            "videoId": "-7jlvtmiKFI",
+            "title": "Scorching Heat Fuels Raging Wildfires In 11 U.S. States | NBC Nightly News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "aq5e_cc75N8",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 3200,
-            "group": "group_7"
-        },
-        {
             "videoId": "FdYNdOdy584",
             "title": "Nikki Haley On Iran Deal: 'That's A Question For Secretary Tillerson' | Meet The Press | NBC News",
             "secondDuration": 137,
@@ -301,8 +295,14 @@
             "title": "Migrants Kept In Coronavirus Quarantine On Board Ferry Boat | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "--YgSGYlTNs",
+            "title": "Los Angeles County Gives Coronavirus Update | NBC News",
+            "secondDuration": 620,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

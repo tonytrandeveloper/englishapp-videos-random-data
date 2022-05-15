@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4EXLAhoTmVo",
-            "title": "NOW Tonight With Joshua Johnson Full Episode - Jan. 13 | NBC News NOW",
-            "secondDuration": 2981,
-            "group": "group_7"
-        },
-        {
             "videoId": "3sba4h85WkM",
             "title": "Michigan Sees Surge In Mail-In Ballots For State Primary | NBC News NOW",
             "secondDuration": 455,
@@ -61,8 +55,14 @@
             "title": "Feds Investigating Rep. Matt Gaetz For Possible Obstruction Of Justice",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "bobR9xW4Fsc",
+            "title": "Milk Cartons Filled With Sanitizer Served To Students At NJ Preschool, Kindergarten Center",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

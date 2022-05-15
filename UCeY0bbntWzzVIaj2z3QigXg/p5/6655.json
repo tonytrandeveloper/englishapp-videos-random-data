@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4emQLz_5uW0",
-            "title": "Satoshi Nakamoto No More: Bitcoin Founder Revealed | 101 | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "3QM7wLZJYiE",
             "title": "No Answers In Death Of Border Patrol Agent | NBC Nightly News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Robert Mueller Submits To Subpoenas, Agrees To Testify In Public | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "f6sG_hbFcBU",
+            "title": "What The Tariffs On Mexico Mean For Americans | NBC News Now",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

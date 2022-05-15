@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "InrarOhFNwY",
-            "title": "Cuomo addresses power outage in New York City",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "O3K3y04d_zA",
             "title": "Refugees trapped between Belarus-Poland border l ABC News",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Coronavirus cases surge in more than half of the US | WNT",
             "secondDuration": 357,
             "group": "group_7"
+        },
+        {
+            "videoId": "dzGkg3PreQ8",
+            "title": "Alleged Master Forger and Fake High-Price Paintings",
+            "secondDuration": 412,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

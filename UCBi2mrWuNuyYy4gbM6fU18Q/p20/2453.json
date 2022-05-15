@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DMvZ9gOFLlo",
-            "title": "We're 'optimistic' infrastructure bill will pass next week: Buttigieg | ABC News",
-            "secondDuration": 380,
-            "group": "group_7"
-        },
-        {
             "videoId": "uHu9mWLPc8M",
             "title": "Hot-Air Balloon Wedding Crash Caught on Tape in San Diego",
             "secondDuration": 127,
@@ -121,8 +115,14 @@
             "title": "Pfizer: COVID booster provides strong immune support in children ages 5-11 I ABCNL",
             "secondDuration": 204,
             "group": "group_7"
+        },
+        {
+            "videoId": "vmCmWXPaiZU",
+            "title": "Amanda Knox Interview 2013 on 'GMA': Prosecution Failed to Give Victim's Family Answers",
+            "secondDuration": 424,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oH7uRiQ8CTw",
-            "title": "The Year 2018: Celebrity feuds and struggles",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "DMWYWz9KxMY",
             "title": "NFL Lockout Ending Soon?",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Trump campaign launches legal action against ex-aide",
             "secondDuration": 327,
             "group": "group_7"
+        },
+        {
+            "videoId": "n_PtzhNivBw",
+            "title": "Remembering the Famous Faces Lost in  2015",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

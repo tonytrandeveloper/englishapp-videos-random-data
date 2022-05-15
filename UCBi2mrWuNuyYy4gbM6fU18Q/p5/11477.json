@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rxdfRZptSwk",
-            "title": "Michelle Obama Welcomes Melania Trump to White House",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "JiQYVm0kGKs",
             "title": "Supermodel Bar Refaeli Arrested for Tax Evasion",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "Hackers Strike Hospital Network in Washington-Area",
             "secondDuration": 26,
             "group": "group_7"
+        },
+        {
+            "videoId": "26xCPToGVl8",
+            "title": "'Snake Handling': Religious Right or Community Menace?",
+            "secondDuration": 545,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

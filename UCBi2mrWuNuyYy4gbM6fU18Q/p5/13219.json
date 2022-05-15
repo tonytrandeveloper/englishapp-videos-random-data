@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QWUTjvNoOw4",
-            "title": "Queen voices her support for Prince Harry and Meghan",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "VFiwy_UE058",
             "title": "New York Times' Jeff Zeleny on 'Top Line'",
             "secondDuration": 255,
@@ -31,8 +25,14 @@
             "title": "Apple unveils its latest low-end phone",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "2QckaZSwkT8",
+            "title": "Baton Rouge Officers Were 'Assassinated' Officials Say",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

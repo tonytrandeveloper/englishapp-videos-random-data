@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Qer-32dWL5Q",
-            "title": "Taylor Swift takes the stand in former radio DJ groping trial",
-            "secondDuration": 519,
-            "group": "group_7"
-        },
-        {
             "videoId": "6fO-mZYT1mw",
             "title": "Supreme Court set to hear arguments on the biggest challenge to Roe v. Wade in decades",
             "secondDuration": 273,
@@ -61,8 +55,14 @@
             "title": "Turning Point: Protests in America",
             "secondDuration": 636,
             "group": "group_7"
+        },
+        {
+            "videoId": "KOmR99Y2U2c",
+            "title": "McCain doesn't hold back on Trump in memoir",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

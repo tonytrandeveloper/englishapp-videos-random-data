@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hDauv_5xZiQ",
-            "title": "President Trump address the nation in State of the Union l SOTU Intro 2019",
-            "secondDuration": 571,
-            "group": "group_7"
-        },
-        {
             "videoId": "-ttmmFkFKbA",
             "title": "Courtroom Confrontation: Judge Berates and Sentences Domestic Violence Victim",
             "secondDuration": 94,
@@ -121,8 +115,14 @@
             "title": "US-bound travelers to face heightened screening",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "c2-hrc4PGe0",
+            "title": "School Bus Crash Investigation Continues In Tennessee",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

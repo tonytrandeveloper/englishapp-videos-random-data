@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ymAD88VeFTs",
-            "title": "President Trump delivers remarks at Arab Islamic American Summit",
-            "secondDuration": 2015,
-            "group": "group_7"
-        },
-        {
             "videoId": "p0F6JcH24hY",
             "title": "'Guy Walks Across America'",
             "secondDuration": 198,
@@ -61,8 +55,14 @@
             "title": "Mueller makes opening statement to House Intelligence Committee",
             "secondDuration": 279,
             "group": "group_7"
+        },
+        {
+            "videoId": "89GcLJAgTAI",
+            "title": "Amanda Knox Back in Court for Appeal",
+            "secondDuration": 376,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

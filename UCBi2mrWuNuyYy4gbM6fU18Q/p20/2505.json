@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "M9D1dyZAPMY",
-            "title": "Hillary Clinton Finally Answers Questions on Campaign Trail",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "BdgZkdQe4TM",
             "title": "90-Year-Old Woman Locked Out of Own Home After Caretaker Allegedly Changed the Locks",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "Dayton, Ohio shooting: Officials hold news conference after mass shooting",
             "secondDuration": 2374,
             "group": "group_7"
+        },
+        {
+            "videoId": "kvGGUsdDjB0",
+            "title": "Inside the Lives of American Sex Slaves",
+            "secondDuration": 635,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

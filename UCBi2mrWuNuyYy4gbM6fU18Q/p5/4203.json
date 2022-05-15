@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1H7XM8pfSEE",
-            "title": "Reopening plans change as coronavirus cases rise",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "ybzBGyTvft0",
             "title": "Key day in impeachment inquiry, Syria in crisis, Trudeau appears to win re-election | ABC News",
             "secondDuration": 1665,
@@ -31,8 +25,14 @@
             "title": "Trump issues pardon for 2 service members | ABC News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "fuxm5tVBNNo",
+            "title": "WEBCAST: Wave of Grief",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

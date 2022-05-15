@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Cpl3lM_CQZ0",
-            "title": "Families Struggle As Grocery Prices Rise Amid Pandemic | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "E_9mQxvBKhY",
             "title": "Former Hospital Security Guard Returns As Rotating Medical Student | NBC Nightly News",
             "secondDuration": 164,
@@ -121,8 +115,14 @@
             "title": "First Lady Melania Trump Unveils ‘Be Best’ Campaign On Child Well-Being | NBC News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "wWBQdbEp-do",
+            "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2426,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Rx5MSge5fOM",
-            "title": "Urban Angling: Fishing on the East River | ABC News",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "qH5KJS6WbwI",
             "title": "California Bus Crash: NTSB Investigates Cause",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Trump - Hillary Debate VS Kennedy-Nixon Debate | ELECTION CYCLE",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "zZ_JqI8daWI",
+            "title": "EPA Administrator Scott Pruitt resigns amid scandals: Special Report",
+            "secondDuration": 638,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

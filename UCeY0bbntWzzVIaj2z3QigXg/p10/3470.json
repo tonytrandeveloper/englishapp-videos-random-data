@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "abPOP5vjxT8",
-            "title": "California School Board Members Caught Criticizing Parents On Hot Mic | NBC Nightly News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "6QBxqHz79aI",
             "title": "FBI Agent Robert Lasky On Probe Into 2017 Vlog Comment About Florida School Shooting | NBC News",
             "secondDuration": 62,
@@ -61,8 +55,14 @@
             "title": "360 Video: The World’s Fastest Zip Wire | NBC Nightly News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "K43WveeSexg",
+            "title": "Trump Delivers Remarks On Operation Warp Speed | NBC News",
+            "secondDuration": 1981,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

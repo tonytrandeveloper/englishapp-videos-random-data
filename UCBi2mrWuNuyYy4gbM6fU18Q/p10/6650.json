@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NW9iwS3rTvo",
-            "title": "Drug Testing for Middle Schoolers",
-            "secondDuration": 309,
-            "group": "group_7"
-        },
-        {
             "videoId": "GW_Qvr2l3hc",
             "title": "Russia-Ukraine Crisis: February 27, 2022",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Newtown, Connecticut Shooting: Motivations Behind Mass Shootings - ABC News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "7Y-hlzruH30",
+            "title": "Kyle Rittenhouse testifies, SpaceX launches, CMA surprise: World in Photos, Nov. 11",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

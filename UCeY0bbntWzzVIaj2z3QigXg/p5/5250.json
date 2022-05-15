@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EKTNQpqWbOY",
-            "title": "Morning News NOW Full Broadcast - Jan. 5",
-            "secondDuration": 3181,
-            "group": "group_7"
-        },
-        {
             "videoId": "Iz1jD1cJNQo",
             "title": "Klothes 4 Kids: One Teen’s Mission To Give Back",
             "secondDuration": 1462,
@@ -31,8 +25,14 @@
             "title": "Man Arrested After Crashing Truck Into Dallas News Station | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "9a6mzks55fM",
+            "title": "Ashton Kutcher: Every Citizen Has A Right To Pursue Happiness | NBC News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

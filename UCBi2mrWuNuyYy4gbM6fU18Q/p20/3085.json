@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Gh4oFZgvVts",
-            "title": "'If it's released I want it all released': Rep. Jim Jordan on Mueller report",
-            "secondDuration": 505,
-            "group": "group_7"
-        },
-        {
             "videoId": "kg-EAwifCG4",
             "title": "Pope Francis Calls Los Angeles Mother a 'Brave Woman': Part 2 | Moderated by David Muir",
             "secondDuration": 503,
@@ -121,8 +115,14 @@
             "title": "El Chapo Raid | Sean Penn on His Interview",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "10HNtL0rhRE",
+            "title": "‘We need to have race-conscious laws’: Warren | ABC News",
+            "secondDuration": 650,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

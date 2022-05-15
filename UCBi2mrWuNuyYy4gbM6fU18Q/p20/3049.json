@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "n5LH58-6ZLc",
-            "title": "Oklahoma City Thunder's midflight scare",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "jrlUo11Zhk4",
             "title": "President Bush Speaks at 9/11 Memorial in New York",
             "secondDuration": 87,
@@ -121,8 +115,14 @@
             "title": "Jessica Simpson Mimics Demi Moore Vanity Fair Pregnancy Photo in Elle",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "v7I8N2gHx_w",
+            "title": "WWE's Daniel Bryan, Brie Bella Speak Out on Concussions",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

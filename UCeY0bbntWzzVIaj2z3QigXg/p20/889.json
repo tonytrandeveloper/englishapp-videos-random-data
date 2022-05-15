@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dJfFqtjDx1Q",
-            "title": "Takata Airbag Recall Grows by 5 Million Vehicles | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "_zfOkzy_Lk0",
             "title": "Speaker Ryan: Meeting With Trump Was ‘Very Encouraging’ | NBC Nightly News",
             "secondDuration": 257,
@@ -121,8 +115,14 @@
             "title": "Pete Williams Overcome With Emotion Remembering Ruth Bader Ginsburg | NBC News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "TiFLh8pMAXM",
+            "title": "Graham, Durbin Clash Over Guantanamo Bay Releases",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

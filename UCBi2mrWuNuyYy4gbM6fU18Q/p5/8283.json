@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "llan8IGzpS8",
-            "title": "FDA investigates 127 cases of seizures after vaping l ABC News",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "gxwpO1_ZimE",
             "title": "Costa Rica rafting tragedy survivors, victims families warn of lax regulations",
             "secondDuration": 564,
@@ -31,8 +25,14 @@
             "title": "Inside Brazil's Model Factory",
             "secondDuration": 543,
             "group": "group_7"
+        },
+        {
+            "videoId": "OFf4z-lNiwo",
+            "title": "What Not to Ask Your Doctor",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

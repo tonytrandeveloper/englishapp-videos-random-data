@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sAMmg1vLINg",
-            "title": "The Hill's Shane D'Aprile on 'Top Line'",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "JJxSr7bSEKQ",
             "title": "Ghislaine Maxwell found guilty on 5 of 6 charges",
             "secondDuration": 316,
@@ -61,8 +55,14 @@
             "title": "John Bolton warns Americans that Trump poses danger to the republic",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "paSVWkOfSWQ",
+            "title": "Combating Rhino Poaching in Africa with Drones",
+            "secondDuration": 488,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

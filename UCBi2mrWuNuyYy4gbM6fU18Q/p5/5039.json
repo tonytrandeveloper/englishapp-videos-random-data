@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ivb579uIIDI",
-            "title": "Severe winter weather",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ek_L12mU-Vo",
             "title": "Joe Biden discusses President Donald Trump's foreign policy l ABC News Town Hall",
             "secondDuration": 228,
@@ -31,8 +25,14 @@
             "title": "Brazen fishnappers caught strolling off with shark",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "jQkqerPyOIk",
+            "title": "Police Searching for Driver of Empty Armored Truck in Amarillo, Texas",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

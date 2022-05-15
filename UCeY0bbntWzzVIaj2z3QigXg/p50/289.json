@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "5BdJL2I2xco",
-            "title": "Senate Races To Watch This Election Day | NBC News NOW",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "uy9fG4s7wPI",
             "title": "Coronavirus Pandemic: Your Questions Answered | NBC News NOW",
             "secondDuration": 3980,
@@ -301,8 +295,14 @@
             "title": "Buying Renewable Energy From Your Neighbor: Startup’s Mission To Reshape The Marketplace | NBC News",
             "secondDuration": 440,
             "group": "group_7"
+        },
+        {
+            "videoId": "60I4SaxSu0Q",
+            "title": "Closing Arguments Set For Monday In Kyle Rittenhouse Trial",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

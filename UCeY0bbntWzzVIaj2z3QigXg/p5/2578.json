@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "acXGG9vgG68",
-            "title": "North Carolina Family Decides To Not Evacuate Ahead Of Hurricane Florence | NBC Nightly News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "GD71ZElw5Go",
             "title": "Dr. Anthony Fauci Calls COVID-19 A Public Health Official’s ‘Worst Nightmare’ | NBC News NOW",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Deadly Sea Star Plague Stumps Scientists | NBC News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "A7MWrd_9e6U",
+            "title": "Meet The Press Broadcast (Full) - May 9th, 2021 | Meet The Press | NBC News",
+            "secondDuration": 2854,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

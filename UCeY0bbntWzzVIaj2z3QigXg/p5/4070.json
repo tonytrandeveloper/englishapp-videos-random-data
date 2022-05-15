@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZEUlfp2z8dU",
-            "title": "Food Bank Lines Surge Across America With The Rate Of Unemployment | NBC News NOW",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "PhBjKPjBoVQ",
             "title": "Schumer: Trump’s Lawyers Have ‘Work Cut Out For Them’ Defending The President | NBC News",
             "secondDuration": 72,
@@ -31,8 +25,14 @@
             "title": "Open Mic Catches Senator Shouting Expletives During Hearing | NBC News NOW",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "_PljxyXFqp0",
+            "title": "Tesla Recall Has Self-Driving Features In The Spotlight",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

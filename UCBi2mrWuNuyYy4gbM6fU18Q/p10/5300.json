@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ed3jOLPiDuw",
-            "title": "ABC News Live: Trial of Theranos founder Elizabeth Holmes to begin",
-            "secondDuration": 1510,
-            "group": "group_7"
-        },
-        {
             "videoId": "m17ymwvFOUM",
             "title": "Bear Attack Alaska - Victim Interview: 'I'm Extremely Lucky'; Hunt for Grizzly Continues (07.26.11)",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "GloZell Gives Lip Gloss To Obama's 'First Wife' (YouTube Interview)",
             "secondDuration": 30,
             "group": "group_7"
+        },
+        {
+            "videoId": "q1CdC2IGoYI",
+            "title": "Army Major Allegedly Kills Fellow Soldiers",
+            "secondDuration": 254,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

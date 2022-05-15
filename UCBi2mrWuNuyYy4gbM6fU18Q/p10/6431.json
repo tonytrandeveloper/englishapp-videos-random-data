@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JoHbeyGw3GA",
-            "title": "Cardi B files for divorce",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "ED05tu41P7M",
             "title": "Obama NBC Interview 2013: President is 'Sorry' for Americans' Losing Insurance",
             "secondDuration": 166,
@@ -61,8 +55,14 @@
             "title": "Battleground states gear up for 2022 midterms | ABC News",
             "secondDuration": 426,
             "group": "group_7"
+        },
+        {
+            "videoId": "iQvpGxVAS9k",
+            "title": "The Heavy Price of Bankruptcy",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3Sva0bvaoS8",
-            "title": "President Trump Says White House Counsel Don McGahn Will Leave In The Fall | NBC Nightly News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "M16zJ0AZVI4",
             "title": "Can Self-Taught Rocket Scientist Mike Hughes Prove Earth Is Flat? | NBC News",
             "secondDuration": 243,
@@ -121,8 +115,14 @@
             "title": "SpaceX Launches New Falcon 9 Block 5 Rocket | NBC News",
             "secondDuration": 2274,
             "group": "group_7"
+        },
+        {
+            "videoId": "xydPnMW3zjg",
+            "title": "Inside California’s Homeless Crisis | NBC Nightly News",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

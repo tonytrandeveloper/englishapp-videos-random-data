@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GBUxDMiZnDs",
-            "title": "A Sneak Peek At This Year’s Most Buzzworthy Super Bowl Ads | NBC Nightly News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "qjHBqU8cx-A",
             "title": "Trump Campaign Announces Federal Lawsuit In Nevada Over Vote Count | NBC Nightly News",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "Overwhelmed FDNY Encourages Calling 911 Only For True Emergencies | NBC News NOW",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "0UwiKB9t3WU",
+            "title": "White House Holds Press Briefing: March 15 | NBC News",
+            "secondDuration": 3136,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

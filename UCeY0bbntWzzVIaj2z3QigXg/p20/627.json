@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CXGR25neSEE",
-            "title": "Controversy After Fatal Police-Involved Shooting In Georgia | NBC Nightly News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "J-Ps6dzCQ3c",
             "title": "The Issues That Divide In Pennsylvania | NBC News Now",
             "secondDuration": 132,
@@ -121,8 +115,14 @@
             "title": "President Trump Once Again Talks About Background Checks After A Mass Shooting | Meet The Press",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "DiVx1Oo0AeA",
+            "title": "Derek Chauvin Trial Continues On George Floyd's Death - Day 12 | NBC News",
+            "secondDuration": 25242,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

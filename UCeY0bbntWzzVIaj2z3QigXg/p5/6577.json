@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C_Yoznn6U2Y",
-            "title": "NBC Nightly News Broadcast (Full) - May 5th, 2021 | NBC Nightly News",
-            "secondDuration": 1280,
-            "group": "group_7"
-        },
-        {
             "videoId": "BB2VcyMDtOE",
             "title": "Doorbell Video Shows Amazon Delivery Driver Praying For Baby At Risk Of COVID-19 | NBC Nightly News",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "Dems After Biden Touts Experience ‘Things Done’ With Two Segregationist Senators | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "FAeXLzlwRZg",
+            "title": "Trump Meets With Angela Merkel At NATO Meeting | NBC News (Live Stream Recording)",
+            "secondDuration": 4926,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

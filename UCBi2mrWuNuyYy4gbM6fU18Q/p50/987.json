@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "u_ehI8i6Fik",
-            "title": "Climate change blamed for deadly, damaging floods in Italy l ABC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "ucK3hrsTodM",
             "title": "How the Heck Do These Christmas Gadgets Work?",
             "secondDuration": 129,
@@ -301,8 +295,14 @@
             "title": "Embracing ‘The New Normal’ with Dr. Jen Ashton",
             "secondDuration": 410,
             "group": "group_7"
+        },
+        {
+            "videoId": "P0UjvgWS0zc",
+            "title": "Maryland Mall Shooting | Police Detail Scene, Suspect Remains on the Loose",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

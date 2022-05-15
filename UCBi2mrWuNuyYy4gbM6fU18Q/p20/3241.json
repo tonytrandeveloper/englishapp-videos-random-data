@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XZgkkI5kSzU",
-            "title": "What's at Stake on Primary Day?",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "4SZwwc9mlQA",
             "title": "Jim Clyburn takes the stage at the 2020 DNC",
             "secondDuration": 194,
@@ -121,8 +115,14 @@
             "title": "Russia figure skater competes after testing positive for banned substance | ABCNL",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "in_1YTg9S7c",
+            "title": "Roundtable: Crisis in Israel",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

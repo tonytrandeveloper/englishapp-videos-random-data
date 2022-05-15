@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bSMogTE5m0Q",
-            "title": "NOW Tonight with Joshua Johnson - April 14 | NBC News NOW",
-            "secondDuration": 3107,
-            "group": "group_7"
-        },
-        {
             "videoId": "pxKqxcOPfG8",
             "title": "2 Students, 1 Teacher Injured In S.C. School Shooting, Teen In Custody | NBC Nightly News",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Not Uber, Not TaskRabbit: Inside The Real Gig Economy | NBC News",
             "secondDuration": 501,
             "group": "group_7"
+        },
+        {
+            "videoId": "wi5nX5KU_Qc",
+            "title": "Nurses Cared For NICU Babies During Hurricane Ida",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

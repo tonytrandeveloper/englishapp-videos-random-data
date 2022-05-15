@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-zbvlPFc2N0",
-            "title": "WEBCAST: Two U.S. Skiers Killed in Avalanche Accident",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "pPYXC39Z_Hg",
             "title": "'Dancing' Stars Rock Out",
             "secondDuration": 221,
@@ -121,8 +115,14 @@
             "title": "Wilson Phillips Sings 'Hold On' on 'GAA'",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "hNsetw4mIJY",
+            "title": "Boston Bombing Suspect Allegedly Told Carjacking Victim 'I Will Kill You Right Now'",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

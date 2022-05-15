@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "81MzDiXKfMg",
-            "title": "Nightly News Full Broadcast - Jan. 27",
-            "secondDuration": 1281,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ka2nSFJ7z8o",
             "title": "Video Shows Unarmed Caregiver With Hands Up Before Being Shot by Police | NBC Nightly News",
             "secondDuration": 140,
@@ -121,8 +115,14 @@
             "title": "Trump Slams McCain: ‘He’s Not A War Hero’ | NBC Nightly News",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "5j9o2N-qNNs",
+            "title": "Most School Shootings Are Preventable According To New U.S. Secret Service Report | NBC Nightly News",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

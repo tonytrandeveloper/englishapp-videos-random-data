@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yzbiNN9iUbA",
-            "title": "New Information on Female Suspect in Paris Attacks",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "cIUptTUnfvQ",
             "title": "Bob Dylan: In A Minute",
             "secondDuration": 56,
@@ -31,8 +25,14 @@
             "title": "President Joe Biden's update on COVID-19 response",
             "secondDuration": 1118,
             "group": "group_7"
+        },
+        {
+            "videoId": "tFMX8bBynIA",
+            "title": "Capitol security ramps up ahead of weekend protests",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

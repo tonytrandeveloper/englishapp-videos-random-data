@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "W6QSGqDawBc",
-            "title": "Kira the gorilla delivers a 5-pound baby boy at the Philadelphia Zoo",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "u8bifoLbcqI",
             "title": "Johnny Manziel Indicted for Assault Against Former Girlfriend",
             "secondDuration": 108,
@@ -121,8 +115,14 @@
             "title": "White House tries to put FBI chief's firing behind them",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "h4edEda3124",
+            "title": "Tense showdown during traffic stop along a California highway",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

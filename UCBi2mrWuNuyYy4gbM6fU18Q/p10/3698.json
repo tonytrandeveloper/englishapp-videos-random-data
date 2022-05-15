@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cUxltMvsMyw",
-            "title": "Obama FULL SPEECH | Orlando Terror Attack, ISIS",
-            "secondDuration": 1889,
-            "group": "group_7"
-        },
-        {
             "videoId": "gunERcJ3C8w",
             "title": "ISIS Claims Beheading of Second American in Video",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "Father of child killed in Sandy Hook massacre dies of apparent suicide",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "E3py9UgM2bY",
+            "title": "American service member missing in Yemen",
+            "secondDuration": 47,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

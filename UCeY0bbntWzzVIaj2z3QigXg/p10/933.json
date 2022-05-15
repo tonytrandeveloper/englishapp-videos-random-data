@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "S4aI2froOk0",
-            "title": "Senate Democrats: GOP Health Care Plan Should Be Dead On Arrival | NBC News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "i41hvINacOA",
             "title": "U.S. Nursing Homes Recommend Limiting Family Visits Amid Coronavirus Concerns | NBC Nightly News",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "The New Strategy The U.S. Is Using In The Info War Against Russia",
             "secondDuration": 356,
             "group": "group_7"
+        },
+        {
+            "videoId": "1MBjlelTSrQ",
+            "title": "White House Covid Team Announces 100 Million U.S. Adults Fully Vaccinated | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

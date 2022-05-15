@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CBVtvBR8Xx4",
-            "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2583,
-            "group": "group_7"
-        },
-        {
             "videoId": "WY_c_7mW0AA",
             "title": "White House Holds Press Briefing: June 23 | NBC News",
             "secondDuration": 2880,
@@ -31,8 +25,14 @@
             "title": "Engel: Biden Sending Message To Iran With Airstrikes Against Militia Group | NBC News",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "hWzOHd6Pxdw",
+            "title": "Protests Outside Brooklyn Jail After Days Without Heat And Hot Water | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

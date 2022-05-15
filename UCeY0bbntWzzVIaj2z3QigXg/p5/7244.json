@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "d7hEMMKF8dc",
-            "title": "Army Veteran Mike Esper Sworn In As Secretary Of Defense | NBC News",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "QzPtiAhgvu4",
             "title": "Biden Delivers Remarks On Bipartisan Infrastructure Bill | NBC News",
             "secondDuration": 2259,
@@ -31,8 +25,14 @@
             "title": "Body Cam Video Shows Chaotic Scene After Officers Kill Homeowner | NBC News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "EEfiyEQM3mU",
+            "title": "White House Press Briefing - November 27, 2017 | NBC News",
+            "secondDuration": 992,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

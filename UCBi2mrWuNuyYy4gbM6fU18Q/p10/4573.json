@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3Hl0eDMMMrg",
-            "title": "Delta’s Latest Safety Video",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "6MD5SU1J97s",
             "title": "California’s escalating COVID-19 crisis",
             "secondDuration": 383,
@@ -61,8 +55,14 @@
             "title": "Piranha attacks in Paraguay kill 4, injure over 20",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "9KpB7KeJdV0",
+            "title": "Texas Cop Resigns After Pool Party Confrontation Video Goes Viral",
+            "secondDuration": 435,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

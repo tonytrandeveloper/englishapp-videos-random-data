@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "heRMfHDSEyA",
-            "title": "Former FBI director to testify before the Senate Intelligence Committee",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "S3TJtwUOmQg",
             "title": "Sugar: Latest Target in Diet Wars",
             "secondDuration": 314,
@@ -31,8 +25,14 @@
             "title": "Murder and Scandal in Chicagoland l 20/20 l PART 2",
             "secondDuration": 421,
             "group": "group_7"
+        },
+        {
+            "videoId": "mHzCazF1StQ",
+            "title": "Aaron Hernandez Arrested on Murder Charges: Patriots Drop Star After Arrest",
+            "secondDuration": 280,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

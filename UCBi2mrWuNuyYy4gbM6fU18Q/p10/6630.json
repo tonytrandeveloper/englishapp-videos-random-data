@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Q7bH8ZFw_Vk",
-            "title": "Person of the Week: 'A Christmas Story' Lives On",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "dDcBIIX8waE",
             "title": "Louisiana braces for impact as Tropical Storm Barry draws near",
             "secondDuration": 187,
@@ -61,8 +55,14 @@
             "title": "Endangered right whales spotted off Florida coast l ABC News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "52-0JQcixp4",
+            "title": "Check the Carfax",
+            "secondDuration": 449,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

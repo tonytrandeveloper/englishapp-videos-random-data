@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "klUb28Wa4Zw",
-            "title": "The Space Race | Flashback | NBC News",
-            "secondDuration": 361,
-            "group": "group_7"
-        },
-        {
             "videoId": "wLt0hmJC8C4",
             "title": "Q&A With Jada Pinkett Smith On Family And Career | Megyn Kelly | NBC News",
             "secondDuration": 196,
@@ -61,8 +55,14 @@
             "title": "Debunking Conspiracies Around The Coronavirus | NBC News NOW",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "ailGvF2n_OY",
+            "title": "Biden Holds Drive-In Rally In Florida | NBC News",
+            "secondDuration": 1440,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

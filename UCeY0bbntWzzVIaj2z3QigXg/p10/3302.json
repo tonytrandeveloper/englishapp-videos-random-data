@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X2CESL6Ej1M",
-            "title": "White House Covid-19 Response Briefing | NBC News",
-            "secondDuration": 3081,
-            "group": "group_7"
-        },
-        {
             "videoId": "wBHdkV1v2Tw",
             "title": "Direct Primary Care: A Better Way To Pay For Healthcare? | NBC Nightly News",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "Live: NYPD Commissioner Shea Holds News Conference With George Floyd's Brother  | NBC News",
             "secondDuration": 1087,
             "group": "group_7"
+        },
+        {
+            "videoId": "wW5j6DNeq4g",
+            "title": "Suspect In Custody After 2 Louisville Police Officers Shot | NBC News NOW",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

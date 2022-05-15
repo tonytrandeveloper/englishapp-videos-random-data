@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kBBhsY9Vees",
-            "title": "President Trump addresses media on the South Lawn",
-            "secondDuration": 2037,
-            "group": "group_7"
-        },
-        {
             "videoId": "yxgEeIv2iAY",
             "title": "Jon Gosselin: From Divorce to Dating Within Days",
             "secondDuration": 370,
@@ -31,8 +25,14 @@
             "title": "Removing Ovaries and Breasts to Cut Cancer Risk",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "2BNMvN49lVU",
+            "title": "Political Optimism in America's Government: 'This Week' Roundtable Discussion",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

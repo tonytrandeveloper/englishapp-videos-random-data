@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hJW-8t4XNbk",
-            "title": "Tropical storm Gordon slams Florida",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "QIFmh6s0_Dg",
             "title": "Surfside search and rescue paused amid structural concerns",
             "secondDuration": 471,
@@ -61,8 +55,14 @@
             "title": "Ukrainian President Zelenskyy's full virtual address to United States Congress I ABC News",
             "secondDuration": 4725,
             "group": "group_7"
+        },
+        {
+            "videoId": "1A3nmQ3bFtk",
+            "title": "'Shark Tank' sharks reveal their biggest deals made in the tank: Part 1",
+            "secondDuration": 382,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

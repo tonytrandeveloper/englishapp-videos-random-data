@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mtBODJefESg",
-            "title": "Top Line: Former Bush Official on Terrorism",
-            "secondDuration": 320,
-            "group": "group_7"
-        },
-        {
             "videoId": "o3_Xhp2a-Ng",
             "title": "Outrage grows over Russian bounties",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Blue Ivy Pictures Hit the Web",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "nGpgPHazvNU",
+            "title": "Lt. Johnny Mercil testifies at Derek Chauvin's trial",
+            "secondDuration": 645,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

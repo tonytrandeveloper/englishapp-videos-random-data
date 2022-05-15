@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dN1i_OTwhsE",
-            "title": "Mitt Romney, Rick Perry Touchy in GOP Debate",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "_b9IQL_gaZ8",
             "title": "Car crash involving semi-truck and SUV in California kills 13 | WNT",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "9 members of Mormon family killed in Mexico",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "62-OdWyCs68",
+            "title": "Obama Campaign Reconsidering Strategy?",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nUGhn06ij0o",
-            "title": "Catalonia Wants Independence From Spain | Long Story Short | NBC News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sj1AU5hpyKY",
             "title": "USA Olympic Gold Medalist Aly Raisman To Larry Nassar: ‘You Are Nothing’ | NBC News",
             "secondDuration": 738,
@@ -61,8 +55,14 @@
             "title": "Breaking Down Russia's Troop Withdrawal From Northern Ukraine",
             "secondDuration": 258,
             "group": "group_7"
+        },
+        {
+            "videoId": "20pLdOAMM8c",
+            "title": "Protesters Continue To Plague Bill Clinton’s Events | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

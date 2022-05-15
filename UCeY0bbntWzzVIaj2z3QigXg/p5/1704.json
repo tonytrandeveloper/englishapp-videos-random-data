@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_7_YRusumtc",
-            "title": "Two Arrested After Drone Brought Busy British Airport To A Standstill | NBC Nightly News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "IwAPrdr8dnY",
             "title": "Rescue Teams Search For Survivors After Italy Bridge Collapse | NBC Nightly News",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "White House Holds Press Briefing | NBC News",
             "secondDuration": 2035,
             "group": "group_7"
+        },
+        {
+            "videoId": "6znm7-jnWEc",
+            "title": "Virgin Galactic G-Force Training | NBC News",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qBhNGD1hnDI",
-            "title": "Tackling a Tough Job",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "5X699d2lA9s",
             "title": "ABC News Live: Manafort trial enters day 9, 'Manhattan Madam' meets Mueller's team",
             "secondDuration": 1606,
@@ -31,8 +25,14 @@
             "title": "Pot Candy Filled RV Catches Fire",
             "secondDuration": 35,
             "group": "group_7"
+        },
+        {
+            "videoId": "v993S1N6ETo",
+            "title": "'We have a plan that is affordable...paid for': Buttigieg on his health care plan | ABC News",
+            "secondDuration": 643,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

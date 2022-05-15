@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ER4kJzAXdg4",
-            "title": "Trump Administrators Resumes Federal Executions | NBC News Now",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "QNwqBOMbIRQ",
             "title": "Broward County Election Chief Confident Recount Deadline Will Be Met | NBC News",
             "secondDuration": 149,
@@ -31,8 +25,14 @@
             "title": "Russia, China, And Iran Launched Cyberattacks On Presidential Campaigns, Microsoft Says | NBC News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "GDJvdmZSnsQ",
+            "title": "How 3D Printers Could Be Used To Solve The U.S. Housing Crisis",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

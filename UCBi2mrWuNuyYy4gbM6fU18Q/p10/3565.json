@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ubx9CFLMf00",
-            "title": "Massive cruise ships collided in Mexico",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "rLaMk5tNN74",
             "title": "Osama bin Laden's son is believed to be dead: US sources",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "How Can You Cure a Mystery Malady?",
             "secondDuration": 424,
             "group": "group_7"
+        },
+        {
+            "videoId": "fl-OnTFHzG8",
+            "title": "Police body cameras capture aftermath of college party shooting: Part 2",
+            "secondDuration": 463,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

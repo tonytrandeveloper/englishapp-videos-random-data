@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Gfst1W3KcPI",
-            "title": "New Lights Installed Along Florida’s Coastline To Protect Baby Sea Turtles | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "5xZS6JXEkvw",
             "title": "California Governor Details Next Phase Of State's Covid Response",
             "secondDuration": 182,
@@ -61,8 +55,14 @@
             "title": "SpaceX Just Sent a Supercomputer to the International Space Station | Mach | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "m5T4BurWtvk",
+            "title": "Experts: Boosting Vaccine Production Could Take Weeks | NBC Nightly News",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

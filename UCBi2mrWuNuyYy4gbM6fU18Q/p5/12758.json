@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QJG9T-wVxgs",
-            "title": "Eyewitness to Pensacola naval base shooting speaks out l ABC News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "4UVnUCwANas",
             "title": "The latest on the first family after President Trump's COVID-19 diagnosis l GMA",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Johnson & Johnson looks to get emergency use authorization for its vaccine | GMA",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "lZzai0QNbtE",
+            "title": "Kentucky becomes epicenter of deadly tornado outbreak l WNT",
+            "secondDuration": 556,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

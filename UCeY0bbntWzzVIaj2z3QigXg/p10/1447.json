@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AYLEHD_ANQI",
-            "title": "Morning News NOW Full Broadcast - August 20",
-            "secondDuration": 3145,
-            "group": "group_7"
-        },
-        {
             "videoId": "2TbTY7w9n8Y",
             "title": "Mike Pompeo On North Korea: ‘I Am Not Advocating For Regime Change’ | NBC News",
             "secondDuration": 79,
@@ -61,8 +55,14 @@
             "title": "Rick Scott On Hurricane Matthew: 'We're Not Through This Yet' | NBC News",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "XH-HIqJhQ4Y",
+            "title": "Google Employees Walk Out To Raise Awareness About Workplace Sexual Harassment | NBC Nightly News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

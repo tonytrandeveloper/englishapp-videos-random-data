@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ro9bZpoZ9Vc",
-            "title": "Houston security guard loses job for not aiding police officer with arrest",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "fFD_-w4_BAs",
             "title": "Early Christmas",
             "secondDuration": 128,
@@ -121,8 +115,14 @@
             "title": "Captain America Chris Evans Interview: Becoming Marvel Comic Book's First Avenger",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qz3ZTUNB8ik",
+            "title": "Ken Jennings on his winning ‘Jeopardy!’ moment l ABC News",
+            "secondDuration": 260,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

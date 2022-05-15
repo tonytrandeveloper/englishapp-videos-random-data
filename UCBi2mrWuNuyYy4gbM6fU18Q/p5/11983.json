@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q95dZJIls1A",
-            "title": "WATCH LIVE: Pres. Trump, Turkish president hold joint press conference at the White House | ABC News",
-            "secondDuration": 2647,
-            "group": "group_7"
-        },
-        {
             "videoId": "NSAHO-XcJew",
             "title": "21 people aboard Grand Princess cruise ship test positive for coronavirus: Pence | ABC News",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Obama Signs Historic Health Care Bill",
             "secondDuration": 290,
             "group": "group_7"
+        },
+        {
+            "videoId": "CE1nswcALFM",
+            "title": "New York City gives final salute to fallen NYPD officer",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

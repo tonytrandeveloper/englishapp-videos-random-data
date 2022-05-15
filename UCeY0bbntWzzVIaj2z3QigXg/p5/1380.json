@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ABFKtC4JfhE",
-            "title": "Mike Pompeo Confirms US Citizens Killed In Sri Lanka Attacks | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "n21qmjHVWCw",
             "title": "Defense: ‘The Evidence Is Far Greater Than 9 Minuets And 29 Seconds’ | NBC News",
             "secondDuration": 179,
@@ -31,8 +25,14 @@
             "title": "Debate Major Opportunity For Hillary Clinton To Regain Lost Support | NBC Nightly News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "NuxcgxIsXpo",
+            "title": "'Hyperinflation': Concerns Rise Ahead Of Holidays, Economists Say It's Not Happening",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

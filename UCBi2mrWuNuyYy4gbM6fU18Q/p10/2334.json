@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9e13X3rttK8",
-            "title": "Nor'easter wreaks havoc, leaves thousands without power in New England l GMA",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "j10L6rLjM8U",
             "title": "How Flint, Michigan's Contaminated Water Was Discovered",
             "secondDuration": 423,
@@ -61,8 +55,14 @@
             "title": "US and Taliban announce agreement",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "eItaB8YBpI4",
+            "title": "Michigan secretary of state: ‘No legal or factual basis’ to question election results",
+            "secondDuration": 364,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

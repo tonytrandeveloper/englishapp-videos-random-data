@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5Ha12PIm124",
-            "title": "The Debrief: Mueller report submitted, Netanyahu visits White House, college admissions scam",
-            "secondDuration": 1813,
-            "group": "group_7"
-        },
-        {
             "videoId": "6pArkTyURW8",
             "title": "Celebrity Wife Swap: Tracey Gold and Carnie Wilson Trade Families",
             "secondDuration": 229,
@@ -31,8 +25,14 @@
             "title": "Black boxes in Ethiopian Airlines crash to be sent overseas",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "1S6nwCpO000",
+            "title": "State of the Union 2015: 'No More Campaigns to Run'",
+            "secondDuration": 40,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

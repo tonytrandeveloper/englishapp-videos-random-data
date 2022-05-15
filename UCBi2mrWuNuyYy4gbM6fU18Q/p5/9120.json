@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XB35PItAmLg",
-            "title": "WEBCAST: Baby Polar Bear Born",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "n_RmmzEVDJE",
             "title": "The Breakdown: Biden vows to 'do everything we can' to get US allies out of Kabul",
             "secondDuration": 3551,
@@ -31,8 +25,14 @@
             "title": "Joe Biden Cries Upon Being Nominated by Son at DNC",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "sPIAG5CftK8",
+            "title": "Alabama governor embroiled in alleged sex scandal",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

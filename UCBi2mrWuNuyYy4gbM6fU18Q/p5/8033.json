@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ihSSu6X8lUk",
-            "title": "Submarine with 53 people aboard goes missing l GMA",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "cdfET_Xlwd8",
             "title": "ABC News Prime: AZ audit reaffirms Biden win; Booster shot rollout; BTS exclusive",
             "secondDuration": 5526,
@@ -31,8 +25,14 @@
             "title": "Air Traffic Control: Falling Asleep at the Radar",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "p7zl9EO-bMA",
+            "title": "Fireworks may be to blame for fires, house explosion",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

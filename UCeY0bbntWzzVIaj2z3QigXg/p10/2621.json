@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kedGsT3iim8",
-            "title": "Michael Cohen On President Donald Trump: 'In His Way, He Was Telling Me To Lie' | NBC News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "EKUANxH7RYA",
             "title": "Virginia Tech Students Charged in 13-Year-Old Girl’s Stabbing Death | NBC Nightly News",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Cuomo Announces New Testing Sites, Encourages New Yorkers To Get Tested | NBC News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "YYrny7pQvYg",
+            "title": "Moscow Subway Derails: Raw Footage | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6ke2leudWEo",
-            "title": "Key moments from day 1 of the Derek Chauvin trial",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "V9f6CQ1zP-0",
             "title": "The Senate and House vote to end government shutdown",
             "secondDuration": 358,
@@ -31,8 +25,14 @@
             "title": "By the Numbers: COVID-19’s devastation on the arts",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "vULDw69Ne10",
+            "title": "Anna Kendrick on New Flick, Attending Comic-Con",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

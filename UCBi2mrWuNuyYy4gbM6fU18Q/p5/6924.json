@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R-O377IageU",
-            "title": "FBI Accuses Ex-Police Detective of Being 'Snow Bird' Bank Robber",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z8dS5acV5VU",
             "title": "ABC News Prime: Economic emergency in the US; Criminal charges dropped against Michael Flynn",
             "secondDuration": 3549,
@@ -31,8 +25,14 @@
             "title": "Road Rage Causes Driver to Call 911",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "g_auEFjvhGA",
+            "title": "Biden praises unions, calls on Congress to pass infrastructure packages",
+            "secondDuration": 338,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

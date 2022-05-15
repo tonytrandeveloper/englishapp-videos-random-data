@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7o8CYBgRMhc",
-            "title": "Graham Denies Asking Georgia Secretary Of State To Toss Ballots | NBC News NOW",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "MlfKusnT0-4",
             "title": "Maryland Officer Charged With Murder In Shooting Of Handcuffed Man Inside Cruiser | NBC Nightly News",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "Gordon Sondland Testifies ‘Yes’ There Was A Quid Pro Quo With Ukraine | NBC Nightly News",
             "secondDuration": 471,
             "group": "group_7"
+        },
+        {
+            "videoId": "MGxp4EuxAW8",
+            "title": "Syria’s Wounded Are Not The Only War Casualties | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

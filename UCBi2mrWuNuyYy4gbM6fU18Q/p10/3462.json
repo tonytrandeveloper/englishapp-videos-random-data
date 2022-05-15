@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XqJutlTWYHg",
-            "title": "Terror on Flight 253: Red Flags Missed?",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "wctJkjKIOT4",
             "title": "Comey testifies, revealing he took detailed notes about meetings with the president",
             "secondDuration": 370,
@@ -61,8 +55,14 @@
             "title": "Road Rage Causes Driver to Call 911",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "g_auEFjvhGA",
+            "title": "Biden praises unions, calls on Congress to pass infrastructure packages",
+            "secondDuration": 338,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

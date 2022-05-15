@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "CXOsVXybVJY",
-            "title": "Novel Coronavirus explained l ABC News",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "Cv344cYZF3A",
             "title": "Carnival Cruise Ship Stranded in the Caribbean",
             "secondDuration": 85,
@@ -301,8 +295,14 @@
             "title": "Parents with children under 5 feel like it’s still 2020",
             "secondDuration": 358,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZW9NgaENjCI",
+            "title": "Vanessa Williams on Returning to Miss America After Scandal",
+            "secondDuration": 374,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

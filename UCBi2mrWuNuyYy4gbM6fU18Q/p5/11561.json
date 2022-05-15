@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "al10XvSRyIs",
-            "title": "Trump Reacts to FBI Reopening Clinton Email Investigation",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "7Za2yh_A2fs",
             "title": "Inside Goldman Sachs",
             "secondDuration": 205,
@@ -31,8 +25,14 @@
             "title": "Morning Mix: Roethlisberger, SCOTUS and Larry King",
             "secondDuration": 383,
             "group": "group_7"
+        },
+        {
+            "videoId": "mk0-iLmf9C4",
+            "title": "RBG, whales and California fires: World in Photos, Sept 21",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "uRPqAq-Ptfk",
-            "title": "Full Sen. Johnson Interview: 'Biden Has Won [Wisconsin] By Twenty Thousand Votes' | Meet The Press",
-            "secondDuration": 574,
-            "group": "group_7"
-        },
-        {
             "videoId": "3CVcRrEAn5A",
             "title": "Puerto Rico Says Hurricane-Related Deaths Could Be More Than 1,400 | NBC Nightly News",
             "secondDuration": 105,
@@ -301,8 +295,14 @@
             "title": "Mike Pence Says Donald Trump 'Standing Stronger Than Ever' | NBC News",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "5jsRa0dFJcE",
+            "title": "The Complicated Ethics Of Self-Driving Cars | Think | NBC News",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KhIb4k-YfOE",
-            "title": "Tornado outbreaks in the south | ABC News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "LGkcv98cWMc",
             "title": "Gold Star widow speaks about phone call with Trump",
             "secondDuration": 448,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Otter Musicians",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "kJVKKtdLIgQ",
+            "title": "Getting real with the Kardashians",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

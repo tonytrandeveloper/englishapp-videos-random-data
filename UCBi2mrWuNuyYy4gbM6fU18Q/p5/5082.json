@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hx1mjT73xYE",
-            "title": "Final Presidential Debate 2012 Complete - Mitt Romney, Barack Obama on Foreign Policy",
-            "secondDuration": 5540,
-            "group": "group_7"
-        },
-        {
             "videoId": "uZNlG8dluFM",
             "title": "The Debrief: Trump-Kim 2nd summit, Cohen on the Hill, Maduro speaks out | ABC News",
             "secondDuration": 1633,
@@ -31,8 +25,14 @@
             "title": "Former NFL star claims he's living with CTE",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "4jsc82YbIDA",
+            "title": "Family of driver in limo crash speaks out",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Y2VIVF5A8w4",
-            "title": "South Carolina Attorney Alex Murdaugh Facing Fraud Charges",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "nfyW3rSmUII",
             "title": "Prince William And Kate Visit  NYC | NBC News",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Nearly 1 In 4 New York City Residents Test Positive For COVID-19 Antibodies | NBC Nightly News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "TaYmBM2stnk",
+            "title": "Growing Concerns Over China’s Control Of American Drug Supply | NBC Nightly News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

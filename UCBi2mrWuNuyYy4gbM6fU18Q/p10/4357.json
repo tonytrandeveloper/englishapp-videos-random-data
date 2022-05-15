@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4r0EEK0uJq0",
-            "title": "7 Comeback Stories That Prove You Should Never Give Up | ABC News Remix",
-            "secondDuration": 388,
-            "group": "group_7"
-        },
-        {
             "videoId": "F-eYTZIWJzs",
             "title": "Bolton 'has very relevant information and we want him to testify': Rep. Adam Schiff | ABC News",
             "secondDuration": 488,
@@ -61,8 +55,14 @@
             "title": "Man With Cerebral Palsy & His Father Prepare for Ironman Race",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "1GGSF8Kfxk8",
+            "title": "'Batman' Pulled Over By Police Caught on Tape",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

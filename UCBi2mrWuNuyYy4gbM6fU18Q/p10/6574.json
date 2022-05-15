@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QSc6QMAfuWc",
-            "title": "The North Korean Threat: Martha Raddatz 'This Week' Report",
-            "secondDuration": 272,
-            "group": "group_7"
-        },
-        {
             "videoId": "26hNxsCUxnI",
             "title": "Happy New Year!",
             "secondDuration": 242,
@@ -61,8 +55,14 @@
             "title": "Johnny Depp Mocks Apology to Australia Over Dog Smuggling",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dlcqssvl2qc",
+            "title": "Ivana Trump on Donald Trump's Presidential Campaign",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

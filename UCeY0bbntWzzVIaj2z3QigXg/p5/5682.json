@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VLTYz56THak",
-            "title": "Daring Cold-Weather Rescues Caught On Camera",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "wZHCwyp1kjw",
             "title": "In The Global Vaccine Race, The U.S. No Longer Holds The Top Spot",
             "secondDuration": 255,
@@ -31,8 +25,14 @@
             "title": "NYC Bodegas Shut Down To Protest Immigration Ban | NBC News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "guqh3opgQPU",
+            "title": "Snow And Record Breaking Cold In The South | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K1GEPp_r5BE",
-            "title": "This Morning’s Top Headlines – Dec. 24 | Morning News NOW",
-            "secondDuration": 1320,
-            "group": "group_7"
-        },
-        {
             "videoId": "B-vX82CQ-vA",
             "title": "'The Lion King' Is A Look Into The Future Of Virtual Reality Filmmaking | Mach | NBC News",
             "secondDuration": 162,
@@ -61,8 +55,14 @@
             "title": "NFL Veteran Leonard Marshall On Football Safety | Meet The Press",
             "secondDuration": 874,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ark9nhusWoU",
+            "title": "Russia Intensifies Attacks In Ukraine As Invasion Enters Seventh Day",
+            "secondDuration": 333,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

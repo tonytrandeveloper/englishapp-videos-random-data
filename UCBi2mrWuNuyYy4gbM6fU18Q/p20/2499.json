@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "kgqn73A-RPo",
-            "title": "Juju Juggles -- Family Secrets",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "5BjeKV64uto",
             "title": "Will Ferrell as 'Anchorman's' Ron Burgundy Sells Dodge Durango in New Ads",
             "secondDuration": 116,
@@ -121,8 +115,14 @@
             "title": "Edward Scissorhands-Inspired Burger| ABC News",
             "secondDuration": 286,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q9McdTRJfuQ",
+            "title": "Burning Cruise Ship Arrives Into Jamaican Port",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

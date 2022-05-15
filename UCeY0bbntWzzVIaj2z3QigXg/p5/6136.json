@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "25teFqvB5TU",
-            "title": "Joe Biden Delivers Remarks On His 'Made In America' Plans | NBC News",
-            "secondDuration": 1685,
-            "group": "group_7"
-        },
-        {
             "videoId": "90G2n1GqXZo",
             "title": "Florida Orders First Statewide Recount In History After Razor-Thin Margins | NBC Nightly News",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Elon Musk Offers To Buy Twitter",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "hAszNvSTogQ",
+            "title": "To Save Their Town, The People Of Torrey, Utah Are Turning To The Stars | NBC News",
+            "secondDuration": 410,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

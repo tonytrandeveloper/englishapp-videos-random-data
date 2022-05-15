@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PaENnyBMTe0",
-            "title": "Negotiations slow as government shutdown looms",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "uGTpYJRTmCM",
             "title": "Houston looks to overcome high rates of adult illiteracy",
             "secondDuration": 491,
@@ -31,8 +25,14 @@
             "title": "Charles Manson Breaks Silence: Discussse Obama, Global Warming, and Himself",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "k--GHNJc2rs",
+            "title": "Colorado Springs Preps to Fight Wildfire",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

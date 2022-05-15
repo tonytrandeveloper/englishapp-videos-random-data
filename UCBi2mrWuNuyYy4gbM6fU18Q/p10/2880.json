@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gb0SYj4bniw",
-            "title": "Oscars 2016 Predictions: Will Leonardo DiCaprio Win Best Actor?",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "vD4ETE9jdFo",
             "title": "Retailers Battling It Out Hoping to Break Black Friday Records",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "New developments in search for 2 missing Idaho children | ABC News Prime",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "TLlvX3K4oj8",
+            "title": "An exclusive look at the US withdrawal from Afghanistan",
+            "secondDuration": 510,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

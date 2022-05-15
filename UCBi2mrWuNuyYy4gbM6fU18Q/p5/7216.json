@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HLLd1JIE85w",
-            "title": "Bernie Sanders Discusses North Korea, Wall Street and More",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "lLDLWkandI4",
             "title": "Airport Gunman May Have Originally Targeted New York",
             "secondDuration": 161,
@@ -31,8 +25,14 @@
             "title": "Uber Self Driving Car Rolls Out in Pittsburgh",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "IozAW8en4fE",
+            "title": "Thousands of buried bones spark a new mystery at the Vatican",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

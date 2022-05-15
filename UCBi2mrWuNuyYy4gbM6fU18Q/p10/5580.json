@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uFFqJsMQ6-A",
-            "title": "Cruise Ship Disaster: Survivors Angry",
-            "secondDuration": 314,
-            "group": "group_7"
-        },
-        {
             "videoId": "0HUuQ57jzVA",
             "title": "Nearly every COVID-19 patient hospitalized in Boise, Idaho, is unvaccinated",
             "secondDuration": 399,
@@ -61,8 +55,14 @@
             "title": "‘Legacy traits’ give trans female athletes unfair advantage: Swimmer Diana Nyad",
             "secondDuration": 396,
             "group": "group_7"
+        },
+        {
+            "videoId": "EO2zZexk8ds",
+            "title": "ISIS forces now cornered in Syria",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

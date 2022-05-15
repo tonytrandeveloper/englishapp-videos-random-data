@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oEyYAfON9vk",
-            "title": "Thor, God of Thunder, as Told by Chris Hemsworth and Kenneth Branagh",
-            "secondDuration": 514,
-            "group": "group_7"
-        },
-        {
             "videoId": "2Vt3IfhvRwA",
             "title": "True Detective: Season 2 Preview",
             "secondDuration": 50,
@@ -61,8 +55,14 @@
             "title": "X-37b Space Plane: Pentagon Experiment For Unmanned Spaceship Spies?",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "7NN_waC542Y",
+            "title": "Hostage Situation at Delaware Prison [BREAKING NEWS] | ABC News",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

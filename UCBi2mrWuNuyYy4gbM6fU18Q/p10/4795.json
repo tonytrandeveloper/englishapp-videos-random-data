@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tJPcPd5s8vA",
-            "title": "Apple’s major environmental announcement | GMA3",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y3k5YwVSpLQ",
             "title": "Baby Koala Welcomed at Sydney's Taronga Zoo",
             "secondDuration": 44,
@@ -61,8 +55,14 @@
             "title": "Huge Alligator Walks Florida Golf Course",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "KsT3noe57dQ",
+            "title": "Trump campaign investigating cyberattack on website",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wAqAYWqiew0",
-            "title": "Beyonce's Blue Ivy to Sing With Coldplay",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZLcS4qRFwqM",
             "title": "Jan. 6 committee issues 10 more subpoenas",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Florida movie theater shooter Curtis Reeves speaks out after acquittal",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "NskLOmF046Y",
+            "title": "Private Jet Crashes in the Bahamas",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

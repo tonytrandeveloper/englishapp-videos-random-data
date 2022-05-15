@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "G-FrX80hTEc",
-            "title": "Israeli Ambassador Defends Use Of Force | Short Take | NBC News",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZETpCefN784",
             "title": "Confronting Russian President Vladimir Putin, Part 4 | Megyn Kelly | NBC News",
             "secondDuration": 435,
@@ -31,8 +25,14 @@
             "title": "NBC Nightly News Broadcast (Full) - June 10th, 2021",
             "secondDuration": 1173,
             "group": "group_7"
+        },
+        {
+            "videoId": "hNhdurSdQsc",
+            "title": "Wildfires Rage In The West With Heat Wave On The Way | NBC Nightly News",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

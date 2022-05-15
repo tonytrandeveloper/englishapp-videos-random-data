@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jecqNSyRgnE",
-            "title": "Severe Storms Continue Campaign of Nasty Weather",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "h03eDjvh76E",
             "title": "Cows Stranded by New Zealand Quake Rescued",
             "secondDuration": 30,
@@ -121,8 +115,14 @@
             "title": "The Hill's Sam Youngman on 'Top Line'",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "Orz2isFMo4w",
+            "title": "Trump insisting he has no concerns about the current state of the US economy",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

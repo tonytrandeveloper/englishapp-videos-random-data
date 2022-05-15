@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xYpK4TzpI0E",
-            "title": "Bill Cosby Is Found Guilty On All Three Counts | NBC News",
-            "secondDuration": 721,
-            "group": "group_7"
-        },
-        {
             "videoId": "zDuYGY7T5og",
             "title": "Full Beto: 'There's No One person' Who Can Solve All Problems | Meet The Press | NBC News",
             "secondDuration": 565,
@@ -31,8 +25,14 @@
             "title": "This Morning’s Top Headlines – August 24 | Morning News NOW",
             "secondDuration": 1697,
             "group": "group_7"
+        },
+        {
+            "videoId": "iUBXUuZiwmg",
+            "title": "'Now Is The Time For Racial Justice': Biden Speaks At George Floyd's Funeral | NBC News",
+            "secondDuration": 316,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

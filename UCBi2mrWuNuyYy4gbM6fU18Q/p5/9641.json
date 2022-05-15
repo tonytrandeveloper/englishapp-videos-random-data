@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vhuoinEjyF0",
-            "title": "ABC News Live: Heavy snow, freezing rain cause travel nightmare in the South",
-            "secondDuration": 1475,
-            "group": "group_7"
-        },
-        {
             "videoId": "xNned1RG63s",
             "title": "US averaging more than 110,000 new daily COVID-19 cases",
             "secondDuration": 431,
@@ -31,8 +25,14 @@
             "title": "President Trump Still Believes There Was Widespread Voting Fraud in the Election, White House Says",
             "secondDuration": 240,
             "group": "group_7"
+        },
+        {
+            "videoId": "zuA4Kkc3qZE",
+            "title": "Ukrainian authorities: rockets struck a train station as civilians were trying to flee | ABC News",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CCnTb_wea6Y",
-            "title": "Nightly News Full Broadcast - Nov. 15",
-            "secondDuration": 1287,
-            "group": "group_7"
-        },
-        {
             "videoId": "I0C4kxZnAhE",
             "title": "NBC News Producer Recounts Amtrak Train Crash | NBC Nightly News",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Inside Syria As Final Battle For Last ISIS Stronghold Is Underway | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "6jusQKKekFU",
+            "title": "NBC News Signal - February 14th, 2019",
+            "secondDuration": 1554,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

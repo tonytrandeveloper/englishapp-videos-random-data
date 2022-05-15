@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "39uB-WaXhW4",
-            "title": "A Conversation Between Black Men: Black Men and Trauma",
-            "secondDuration": 768,
-            "group": "group_7"
-        },
-        {
             "videoId": "2iJLKjYWjHY",
             "title": "Taylor Swift debuts new song 'New Year's Day'",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "Bruce Springsteen Cancels Show Over 'Bathroom Bill'",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "12ROcEmzWSY",
+            "title": "Airbnb Users Claim Hosts Rejected Them Over Race",
+            "secondDuration": 475,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3Kl10H_upS4",
-            "title": "Nancy Pelosi: President Donald Trump Showing 'Weakness' With Border Wall | Meet The Press | NBC News",
-            "secondDuration": 469,
-            "group": "group_7"
-        },
-        {
             "videoId": "5SAMd28gM40",
             "title": "Protesters In Mexico Fight For Abortion Decriminalization | NBC News",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Police Out In Force Across U.S. For July 4th Holiday Security | NBC Nightly News",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "bx1ZSuaSWbE",
+            "title": "Shane Doan: \"I have a dream that...\"",
+            "secondDuration": 5,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

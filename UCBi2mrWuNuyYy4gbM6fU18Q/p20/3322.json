@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3bqaWp61O8s",
-            "title": "Instant Index: James Gandolfini Laid to Rest",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "HmDKB0tMC-g",
             "title": "COVID-19 outbreak tracked to church event l GMA",
             "secondDuration": 244,
@@ -121,8 +115,14 @@
             "title": "CDC reports that the flu epidemic is the worst in nearly a decade",
             "secondDuration": 214,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hzg6BeuOqRM",
+            "title": "ISIS Claims Responsibility for Berlin Christmas Market Attack",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

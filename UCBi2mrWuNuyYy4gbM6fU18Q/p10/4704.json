@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sVXJlPSpcm4",
-            "title": "Supreme Court Battle Over BIrth Control",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "CL5bP0iEjGY",
             "title": "Takeaways from Biden's 1st address to joint session of Congress",
             "secondDuration": 446,
@@ -61,8 +55,14 @@
             "title": "Faking It: Knockoff Luxury Goods",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "nAp77N628P4",
+            "title": "Mueller report: What we know about obstruction of justice, collusion",
+            "secondDuration": 523,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

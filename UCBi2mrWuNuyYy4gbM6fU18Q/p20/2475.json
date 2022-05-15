@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QYAqlRsTDSU",
-            "title": "Trump Family Arrives in Washington",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "tM1ccbZmuHA",
             "title": "Vittorio Missoni's Plane Vanishes Off Coast of Venezuela",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "Turkey Failed Coup Leads to Chaos",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "ibaU2vRlpfY",
+            "title": "Democratic Frontrunners Square Off in Las Vegas | ABC News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

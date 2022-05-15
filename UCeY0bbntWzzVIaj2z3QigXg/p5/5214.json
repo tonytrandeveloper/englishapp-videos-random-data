@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AKWtBqbivDw",
-            "title": "Sandra Bullock: People's 'World's Most Beautiful Woman' | NBC Nightly News",
-            "secondDuration": 28,
-            "group": "group_7"
-        },
-        {
             "videoId": "XpPioXQ0jgs",
             "title": "Texas Governor Calls For Investigation Into Electrical Grid Operator | NBC Nightly News",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "WATCH: Videos Show Mount Etna Spewing Lava, Ash During Brief Volcano Eruption | NBC News NOW",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "d0TZala-fjU",
+            "title": "Nadler Unveils Articles Of Impeachment: 'No One Is Above The Law' | NBC News",
+            "secondDuration": 289,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

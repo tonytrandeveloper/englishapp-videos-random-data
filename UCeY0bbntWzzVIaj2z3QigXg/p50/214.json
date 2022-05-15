@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "QhXq0-CPu3w",
-            "title": "Watch: YouTuber Finds Submerged Car Of Missing Teens 21 Years Ago In Tennessee",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "IPrQcx5q3No",
             "title": "White House Holds Press Briefing: April 27 | NBC News",
             "secondDuration": 2620,
@@ -301,8 +295,14 @@
             "title": "Residents Near Epicenter Of 7.1 Earthquake Without Power Or Water | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "t7gKYHKcoL8",
+            "title": "Taliban Hails ‘Emancipation’ Of Afghanistan In First Kabul News Conference",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

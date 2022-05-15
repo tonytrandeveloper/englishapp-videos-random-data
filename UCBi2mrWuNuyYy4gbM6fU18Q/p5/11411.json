@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4LmyOvAgbg0",
-            "title": "Searching for Deals on Black Friday",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "2uImco7MKBw",
             "title": "Mariska Hargitay speaks at 2020 DNC",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "Gas prices soar after Russian oil banned in US",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "t8kFhlkl8lI",
+            "title": "Senator Cory Booker joins ABC News Live to discuss debate performance l ABC News",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

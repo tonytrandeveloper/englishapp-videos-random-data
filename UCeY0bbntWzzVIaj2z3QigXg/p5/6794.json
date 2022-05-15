@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T1XBM1IyU9I",
-            "title": "Biden Administration Holds First White House Press Briefing | NBC News",
-            "secondDuration": 2122,
-            "group": "group_7"
-        },
-        {
             "videoId": "i9OP8moLo3A",
             "title": "Los Angeles Businesses Vandalized After Weekend Protests | NBC News NOW",
             "secondDuration": 292,
@@ -31,8 +25,14 @@
             "title": "Charlottesville Violence: Investigation Begins As Victim’s Identity Revealed | NBC Nightly News",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "p9g8sjx0WWg",
+            "title": "President Biden & VP Harris Lay Wreath At Tomb Of The Unknown Soldier In Arlington National Cemetery",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

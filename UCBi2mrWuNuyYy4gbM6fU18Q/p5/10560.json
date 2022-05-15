@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sqSJJ4j_XH4",
-            "title": "Fenway's Home Field Advantage",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "v0h7B6ql4tQ",
             "title": "Georgia restaurants join other businesses in reopening but life is far from normal",
             "secondDuration": 677,
@@ -31,8 +25,14 @@
             "title": "Sen. Graham presents full Mueller report at Senate hearing",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "yLGiInip_lM",
+            "title": "Storm threats strengthen as Southeast reels from tornadoes",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

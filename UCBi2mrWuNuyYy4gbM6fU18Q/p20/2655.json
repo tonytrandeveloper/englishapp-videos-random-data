@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "k6Q2u_mrFn4",
-            "title": "President Donald Trump holds joint news conference with emir of Kuwait",
-            "secondDuration": 3085,
-            "group": "group_7"
-        },
-        {
             "videoId": "9stJmZrPnRQ",
             "title": "What the future of ‘Chocolate City’ will look like after demographic changes",
             "secondDuration": 410,
@@ -121,8 +115,14 @@
             "title": "American Airlines Reveals New Logo",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "weeWxHL7fjw",
+            "title": "'Duck Dynasty' Stars in Salary Standoff, Demand More Money",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

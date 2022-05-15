@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ReD1MCkr-Tg",
-            "title": "Trump remembers coronavirus victims",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "iVqkJ_yeQ0Y",
             "title": "Kevin Spacey responds to allegations he made sexual advances on a teen actor",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Utah authorities investigating missing mom case",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "034fNYyY9HU",
+            "title": "Kelly Clarkson Sings 'My Country, 'Tis of Thee' at Inauguration Day 2013",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

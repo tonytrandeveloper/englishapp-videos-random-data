@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pVYVZ85V5FI",
-            "title": "White House press briefing on Trump's tweets about Sen. Kirsten Gillibrand, immigration | ABC News",
-            "secondDuration": 2752,
-            "group": "group_7"
-        },
-        {
             "videoId": "un0N-NL8aQM",
             "title": "Happy birthday, Betty White",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Haircuts for Homeless: Celebrity Hairstylist Offers Free Cuts",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "JCb1uImewuk",
+            "title": "Analysis: A look into the FBI probe of Kavanaugh",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

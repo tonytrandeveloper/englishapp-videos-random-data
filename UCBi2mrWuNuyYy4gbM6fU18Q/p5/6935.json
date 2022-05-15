@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VqqgQff99HQ",
-            "title": "Hillary Clinton Campaigns with Pharrell, Bernie Sanders",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "krMdQOnZQy0",
             "title": "Kathleen Robertson: '90210' Star Leaves Sun for Windy City in 'Boss'",
             "secondDuration": 264,
@@ -31,8 +25,14 @@
             "title": "American Doctor Rescued From the Taliban",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "mSbPTIHBhKo",
+            "title": "15-Year-Old High School Football Player Killed Saving 3 Girls",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

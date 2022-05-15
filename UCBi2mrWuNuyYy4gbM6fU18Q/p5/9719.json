@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R07jTNExXsk",
-            "title": "Hillary Clinton Jokes About 'CP Time' With De Blasio",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "c7BYXVbl5Jc",
             "title": "'This is premature ... we have not finished counting votes': South Dakota governor | ABC News",
             "secondDuration": 245,
@@ -31,8 +25,14 @@
             "title": "At least 234 people have been diagnosed with coronavirus in US, according to CDC | ABC News",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "uZf2RLCyADY",
+            "title": "'Real Housewives of Beverley Hills' Debuts Season 2 After Suicide of Russell Armstrong",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

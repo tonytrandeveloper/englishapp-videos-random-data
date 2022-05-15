@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cCADSljlRnw",
-            "title": "Markets React to Donald Trump Victory",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "mSBXW1pplK4",
             "title": "Watch Adorable Otter Pup Cozy Up to Its Mom",
             "secondDuration": 57,
@@ -121,8 +115,14 @@
             "title": "Joe Biden projected to win North Carolina Democratic primary l ABC News",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "H7jA_gyRidI",
+            "title": "Former New York City mayor files to run in Alabama's presidential primary",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

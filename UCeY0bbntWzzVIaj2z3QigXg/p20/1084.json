@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7yAZ_RgsKZo",
-            "title": "Watch NBC News NOW Live - September 28",
-            "secondDuration": 42904,
-            "group": "group_7"
-        },
-        {
             "videoId": "i3NJ4stL43c",
             "title": "Bernie Sanders Against Raise In Gas Tax To Support Infrastructure",
             "secondDuration": 83,
@@ -121,8 +115,14 @@
             "title": "Ukrainian Refugees Begin To Spread Into Neighboring Countries",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "A7hfQ8mTVrU",
+            "title": "The Exxon Valdez Oil Spill | Flashback | NBC News",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

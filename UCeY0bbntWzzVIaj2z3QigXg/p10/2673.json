@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LLpCju9XaBM",
-            "title": "Live: Pentagon Holds Press Briefing Following U.S. Drone Strike In Afghanistan | NBC News",
-            "secondDuration": 1956,
-            "group": "group_7"
-        },
-        {
             "videoId": "tSiYyejGQRE",
             "title": "Joe Biden Outlines Economic Plan Based On ‘Jobs, Dignity’ | NBC News",
             "secondDuration": 252,
@@ -61,8 +55,14 @@
             "title": "Russia Steps Up Bombardment On Civilians As Momentum Stalls",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "pysdD9JSs2w",
+            "title": "'Twister' at 50: The Classic American Game Celebrates Five Decades | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

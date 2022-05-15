@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ehQ4PbPqaY8",
-            "title": "This Morning’s Top Headlines – September 20 | Morning News NOW",
-            "secondDuration": 1136,
-            "group": "group_7"
-        },
-        {
             "videoId": "TnfnEll0BDg",
             "title": "Cabinet Sings Praises To President Trump, Chuck Schumer Mocks With Staff Video | NBC News",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "'American Sniper' Trial Details Released: Why The Jury Convicted | NBC Nightly News",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "UeAkKjTWxXA",
+            "title": "Gunman Shot by Secret Service Near White House | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

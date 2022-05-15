@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8HvYREYD7YM",
-            "title": "Schumer Accuses McConnell Of Plotting ‘Most Unfair’ Senate Impeachment Trial | NBC News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "l40S4CjaAwo",
             "title": "Watch Bernie Sanders Shoots Hoops With Chris Jansing | NBC News",
             "secondDuration": 36,
@@ -61,8 +55,14 @@
             "title": "Romans Dive Into River Tiber To Mark New Year",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "ocrwoYZJTq4",
+            "title": "Study Examines Far-Right Group ‘Oath Keepers’ Alleged Role In January 6 Riot",
+            "secondDuration": 476,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

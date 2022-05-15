@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "7j7TZgAHhPY",
-            "title": "Full Booker: 'We Are Over-Policed As A Society' | Meet The Press | NBC News",
-            "secondDuration": 524,
-            "group": "group_7"
-        },
-        {
             "videoId": "8PMCxbTONLo",
             "title": "Top Story with Tom Llamas - Feb. 15 | NBC News NOW",
             "secondDuration": 2485,
@@ -301,8 +295,14 @@
             "title": "Pasco Washington Police Shooting: Eyewitness Video | NBC News",
             "secondDuration": 35,
             "group": "group_7"
+        },
+        {
+            "videoId": "m0ACAnWBmoE",
+            "title": "Pentagon Briefing On Strikes In Syria | NBC News",
+            "secondDuration": 1378,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

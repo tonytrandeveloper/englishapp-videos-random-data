@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E9ehq_0SgFc",
-            "title": "NJ Gov. Phil Murphy Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2698,
-            "group": "group_7"
-        },
-        {
             "videoId": "HulmPiWLIrU",
             "title": "U.S. Economy Adds 678K Jobs In February, Unemployment Down To 3.8 Percent",
             "secondDuration": 227,
@@ -61,8 +55,14 @@
             "title": "Fears Rise Of COVID-19 Pandemic As Death Toll Climbs In China | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "4zgl2nM-iCg",
+            "title": "Watch Live: Trump, Linda McMahon Meet After She Announces Cabinet Departure | NBC News",
+            "secondDuration": 839,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

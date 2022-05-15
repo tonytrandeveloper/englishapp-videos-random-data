@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R7Eel0B9uE8",
-            "title": "California Tour Bus Crash Kills More Than A Dozen | NBC Nightly News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "N0NwWWF0KJ0",
             "title": "U.K. Vaccine Rollout: P.M. Boris Johnson Warns Against ‘Over-Optimism’ | NBC News NOW",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Top Story with Tom Llamas - Feb. 4 | NBC News NOW",
             "secondDuration": 1885,
             "group": "group_7"
+        },
+        {
+            "videoId": "833K1OqNYoM",
+            "title": "GOP-Led Arizona Senate Passes 15-Week Abortion Ban",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

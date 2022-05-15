@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "r8Gl0PVXpY4",
-            "title": "Malia Obama Graduates From High School | NBC Nightly News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xkjb2bkKQjo",
             "title": "Trump Pardons Roger Stone, Paul Manafort, Charles Kushner And Others | NBC Nightly News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Trump May Do Fewer Coronavirus Briefings At Urging Of White House Allies | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "hhhhoOD9gqE",
+            "title": "President Donald Trump Warns Immigration Is ‘Changing The Culture’ Of Europe | NBC News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

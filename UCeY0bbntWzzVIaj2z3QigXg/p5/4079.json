@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ufBEe4jUBkI",
-            "title": "Harry Reid on Supreme Court Fight (Full Interview) | Meet The Press | NBC News",
-            "secondDuration": 405,
-            "group": "group_7"
-        },
-        {
             "videoId": "twZj3Hfl6xQ",
             "title": "Democratic Field Prepares For Unpredictable Iowa Caucus | Meet The Press | NBC News",
             "secondDuration": 203,
@@ -31,8 +25,14 @@
             "title": "Paul Ryan: President Donald Trump Had ‘Very Active’ First 100 Days | NBC News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "kyNacDa_QvQ",
+            "title": "New NBC/WSJ Poll: Two Separate Races Emerge In Democratic 2020 Primary | Meet The Press | NBC News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

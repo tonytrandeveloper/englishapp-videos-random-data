@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "btjWVmdY198",
-            "title": "Washington Post's Perry Bacon Jr., on 'Top Line'",
-            "secondDuration": 563,
-            "group": "group_7"
-        },
-        {
             "videoId": "EGgajyMsHhc",
             "title": "Alabama's Woman's Mysterious Death Raises Suspicions",
             "secondDuration": 611,
@@ -121,8 +115,14 @@
             "title": "U.S. Border Protection Head: Central American Immigrants Not Dangerous",
             "secondDuration": 420,
             "group": "group_7"
+        },
+        {
+            "videoId": "ThPycn4tXtE",
+            "title": "Food crisis",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "zhEmDlOiVWs",
-            "title": "The Year 2019: What were they thinking? l ABC News",
-            "secondDuration": 364,
-            "group": "group_7"
-        },
-        {
             "videoId": "COZ5L7aeEBE",
             "title": "The Nukes Next Door",
             "secondDuration": 293,
@@ -301,8 +295,14 @@
             "title": "Honey Boo Boo News: Mama June Wedding Rumors Fly After Star Renews Vows With Sugar Bear",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "RMp8ujFYktM",
+            "title": "Snow Causes Thousands of Car Crashes",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

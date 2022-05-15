@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7H7sj_I67KM",
-            "title": "Billionaire Killed in Small Plane Crash",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "GOZkyIm5G3s",
             "title": "Blind Chinese Activist's Daring Escape: Chen Guangcheng's Escape in China Raises Tensions with U.S.",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Pete Buttigieg attends abortion rights protest at US Supreme Court",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "liPc1DsZ5cg",
+            "title": "Family of High School Football Player Files Lawsuit",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

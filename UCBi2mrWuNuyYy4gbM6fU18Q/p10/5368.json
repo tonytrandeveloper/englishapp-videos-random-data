@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "F8nutsguPZA",
-            "title": "Line Psychology",
-            "secondDuration": 305,
-            "group": "group_7"
-        },
-        {
             "videoId": "L5LpaOy86EA",
             "title": "How a Massachusetts entrepreneur pivoted her small business to survive the pandemic",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "Team USA Hoping to Defy the Odds as Coach Takes Heat For Comments",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "1Sq5uzwbJK4",
+            "title": "Miami Beach announces new measures amid spring break chaos",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NIxoEnzdISU",
-            "title": "Memorial Day travel surge expected to reach record post-pandemic numbers l GMA",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z18xra6Bq0g",
             "title": "Sean Penn Launches Defamation Suit Against 'Empire' Co-Creator",
             "secondDuration": 271,
@@ -31,8 +25,14 @@
             "title": "Health Care Reform: What Went Wrong",
             "secondDuration": 571,
             "group": "group_7"
+        },
+        {
+            "videoId": "dbDKzUWTCRE",
+            "title": "Day 4 of Derek Chauvin trial",
+            "secondDuration": 281,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

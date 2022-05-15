@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SYmRNRH_ftQ",
-            "title": "U.S. Stealth Jet Fighters Conduct Huge Air Drill Over Korea | NBC News",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "y2BXBMJx_UY",
             "title": "Mass Evacuations From Abaco Islands After Dorian’s Destruction In The Bahamas | NBC Nightly News",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "Student Town Hall Audience Response",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "04-1q3fjDfY",
+            "title": "Morning News NOW Full Broadcast - Dec. 17",
+            "secondDuration": 3070,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

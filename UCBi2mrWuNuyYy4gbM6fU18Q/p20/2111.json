@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_yp7vAOrPFk",
-            "title": "Shock waves hit the economy as the number of COVID-19 cases soars in the US",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "AvbgWCGp93k",
             "title": "Plea deal falls apart for ex-officer involved in George Floyd’s death | WNT",
             "secondDuration": 288,
@@ -121,8 +115,14 @@
             "title": "Woman Delivers Baby While on the Phone With Dispatcher",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "tlXfGgAXQpE",
+            "title": "Oscar Pistorius Murder Case: Bail Granted",
+            "secondDuration": 259,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

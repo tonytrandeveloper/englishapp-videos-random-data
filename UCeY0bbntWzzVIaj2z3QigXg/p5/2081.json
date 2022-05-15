@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iUSUfCqA17w",
-            "title": "Sean Spicer Returns To Briefing Room, Avoids Specifics On Major Issues | NBC News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "UpRvmzT7ha0",
             "title": "Qassem Soleimani Strike: What War Powers Does The President Have? | NBC News NOW",
             "secondDuration": 190,
@@ -31,8 +25,14 @@
             "title": "Pope Francis Marries Couple During Flight | NBC Nightly News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "RU0gr0r5mpc",
+            "title": "New York Launches 'Subway Safety Plan' Amid Spike In Violent Crime",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

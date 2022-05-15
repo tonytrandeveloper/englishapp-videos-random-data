@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cJlRd0ifDAA",
-            "title": "Kanye West visits the White House for a meeting with Trump",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "AuKn5LVQ72A",
             "title": "Matt Lauer accused of sexual misconduct by more women",
             "secondDuration": 478,
@@ -31,8 +25,14 @@
             "title": "By the Numbers: Sea levels rising along US coastline",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "ajxSk_Y8768",
+            "title": "Storm threat sweeps across Midwest  GMA",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

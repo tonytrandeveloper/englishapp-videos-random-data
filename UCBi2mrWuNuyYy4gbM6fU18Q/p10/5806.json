@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bmDtqtv-jgU",
-            "title": "Morrissey Struck by Beer Bottle at Show",
-            "secondDuration": 29,
-            "group": "group_7"
-        },
-        {
             "videoId": "9TdEicoutYc",
             "title": "Amplified: CMJ",
             "secondDuration": 69,
@@ -61,8 +55,14 @@
             "title": "Experts predict more than 230,000 U.S. coronavirus deaths by November",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "dqAvWeo4fSU",
+            "title": "47 Years Since Dr. Martin Luther King Jr. Was Gunned Down",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

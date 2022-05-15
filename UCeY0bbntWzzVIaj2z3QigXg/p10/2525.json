@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xydPnMW3zjg",
-            "title": "Inside California’s Homeless Crisis | NBC Nightly News",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "u_xC6LmiHwQ",
             "title": "President Donald Trump Calls On Iran To ‘End Its Pursuit Of Death And Destruction’ | NBC News",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Watch: Asian American Couple Told ‘Go Back To China’ In New York City | NBC News NOW",
             "secondDuration": 285,
             "group": "group_7"
+        },
+        {
+            "videoId": "6kCibfG-hog",
+            "title": "Teens Charged With Murder After Man Killed By Falling Sandbag | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6kuByTAFrMU",
-            "title": "Portland Teenagers Fight Homelessness One Meal At A Time | NBC Nightly News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "J2iSiJCYvy0",
             "title": "Meet the Press - Colin Powell; Booker on the Roundtable - January 13, 2013",
             "secondDuration": 23,
@@ -61,8 +55,14 @@
             "title": "Turkey’s President Recep Erdogan Says Jamal Khashoggi Was Victim Of ‘Political Murder’ | NBC News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "7Jz2T6HL-Eo",
+            "title": "Jeff Bezos Accuses National Enquirer Owner Of ‘Blackmail And Extortion’ | NBC Nightly News",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

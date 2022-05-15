@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6NJGMUsG4Z0",
-            "title": "Chandra Levy Murder Trial Begins",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "PA25T1EBI2o",
             "title": "New cyberattack freezes computers across the globe",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Manitoba manhunt: Canadian officials give update on search for murder suspects  | ABC News",
             "secondDuration": 1231,
             "group": "group_7"
+        },
+        {
+            "videoId": "hDgY3w-nIFc",
+            "title": "Derek Chauvin addresses court with cryptic message",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

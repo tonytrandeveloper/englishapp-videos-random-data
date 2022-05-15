@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L01yYp3vTbA",
-            "title": "Campaign Flashback: Donald Trump Talks Rescinding DACA In 2015 | NBC News",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "_sFNFw605HE",
             "title": "Iowa Family’s Death Caused By Faulty Water Heater, Investigators Say | NBC Nightly News",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Uncovering The Gay Icons: 'I Owe It To The People Who Came Before Me' | NBC OUT | NBC News",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "ICzOm95wl1E",
+            "title": "Activist Group Works To Combat Gun Violence In NYC",
+            "secondDuration": 351,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

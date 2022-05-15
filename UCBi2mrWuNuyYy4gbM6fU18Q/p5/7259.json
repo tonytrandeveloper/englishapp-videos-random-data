@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yZEerhZwOWM",
-            "title": "Student Arrested in Jessica Ridgeway Murder",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "KYyOai2R7q8",
             "title": "11-Year-Old Girl 'Allergic' to Sunlight | ABC News",
             "secondDuration": 429,
@@ -31,8 +25,14 @@
             "title": "ABC's John Muller Joins Twitter",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "MKDkJMwRvBg",
+            "title": "Motorola is working on a new version of its foldable phone",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

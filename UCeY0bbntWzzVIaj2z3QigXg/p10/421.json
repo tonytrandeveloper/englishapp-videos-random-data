@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5pCmb6i1tWk",
-            "title": "NBC News NOW Full Broadcast - June 4th, 2021",
-            "secondDuration": 2887,
-            "group": "group_7"
-        },
-        {
             "videoId": "z8gEtf23OM8",
             "title": "Live: Astronauts Conduct Spacewalk To Upgrade International Space Station | NBC News",
             "secondDuration": 28481,
@@ -61,8 +55,14 @@
             "title": "WATCH: Protesters Try To Block Boris Johnson From Entering Buckingham Palace | NBC News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "DRudIWr-kk4",
+            "title": "Pelosi, Schumer Call For Trump’s Removal Through 25th Amendment | NBC Nightly News",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

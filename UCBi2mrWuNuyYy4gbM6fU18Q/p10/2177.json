@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Kr2ofAichmU",
-            "title": "Crocodile Goes Surfing Down Under",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "2ayeFVOxmjo",
             "title": "Temperatures plummet from Midwest to South, Northeast l ABC News",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Cleveland Officer Had Been Deemed Unfit to Handle Firearm",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fbnh4SdNzAA",
+            "title": "Urban Explorers: Taking Roads Untraveled",
+            "secondDuration": 293,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

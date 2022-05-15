@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9arHVC15LHw",
-            "title": "Senator Rand Paul: 'Unfair' To Call President Trump A Racist (Full) | Meet The Press | NBC News",
-            "secondDuration": 514,
-            "group": "group_7"
-        },
-        {
             "videoId": "nXj46KPaOVc",
             "title": "Earthquake Leaves More Than 200 Dead in Haiti",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Tax Plan Outline Unveiled By White House | NBC Nightly News",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "mSg6xiFbbRs",
+            "title": "Ron Allen: \"I have a dream that...\"",
+            "secondDuration": 20,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1zn9BOnuid8",
-            "title": "Biden declares that Putin 'cannot remain in power' | ABCNL",
-            "secondDuration": 303,
-            "group": "group_7"
-        },
-        {
             "videoId": "6KAxLZesS48",
             "title": "High gas prices continue to rise across nation l ABCNL",
             "secondDuration": 142,
@@ -121,8 +115,14 @@
             "title": "\"I Didn't Kill My Stepson\" Kyron Horman",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "r906ikuszjA",
+            "title": "Deadly California fire burns over 90,000 acres",
+            "secondDuration": 299,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

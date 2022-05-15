@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Aq_VRNlXkK4",
-            "title": "Biden Discusses Meeting With Putin: 'My Agenda Is Not Against Russia'",
-            "secondDuration": 492,
-            "group": "group_7"
-        },
-        {
             "videoId": "HqPGsQp_T-E",
             "title": "Russian Ambassador To The United Nations ‘Regrets’ Nikki Haley’s Departure | NBC News",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "Marco Rubio Discusses Campaign Strategy After South Carolina | Meet The Press | NBC News",
             "secondDuration": 317,
             "group": "group_7"
+        },
+        {
+            "videoId": "C7bO9DgD5Wg",
+            "title": "Frontline Workers Treat COVID-19 Patients As Cases Continue To Spike | NBC News NOW",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

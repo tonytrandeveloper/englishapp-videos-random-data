@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2f1cgU4r9uI",
-            "title": "Extreme Winter Weather: Blizzard Conditions Blanket Northeast",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "FgQQ1CKlYMA",
             "title": "Mayweather vs Pacquiao: Highlights of Fight of the Century (Pre-Game)",
             "secondDuration": 212,
@@ -61,8 +55,14 @@
             "title": "President Trump riles up his base by targeting immigrants entering illegally",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "eXQOnoXIoRY",
+            "title": "What is Juneteenth?",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

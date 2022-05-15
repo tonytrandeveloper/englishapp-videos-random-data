@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FFXHRYRmF0o",
-            "title": "Iran launches missiles at US military facilities in Iraq",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "UiIbjYVbj7U",
             "title": "Metrojet Official Denies Technical Fault in Russian Plane Crash",
             "secondDuration": 223,
@@ -61,8 +55,14 @@
             "title": "Victory Day, Rayshard Brooks funeral, Ron Jeremy arrest: World in Photos, June 24",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "6gRsfgwZmpw",
+            "title": "Family of Fallen Solider Gets a New Home",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

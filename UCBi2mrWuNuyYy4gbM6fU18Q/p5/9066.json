@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "97qQcojyv2o",
-            "title": "Wounded Bald Eagle Saved From Highway",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "x-RxMA55xzc",
             "title": "Chattanooga Shooter: Officials Investigating 'Typical American' Gone Wrong",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Bill Cosby Charged in Sexual Assault Case",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "UpSSQkGetgQ",
+            "title": "Volunteers clean up oil spill from ship that ran aground off the coast of Mauritius | ABC News",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

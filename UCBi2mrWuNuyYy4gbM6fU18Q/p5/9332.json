@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0m9sxhjruBE",
-            "title": "Klobuchar criticizes Trump for ‘siding with dictators over allies’ | ABC News",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "TWVUVMzWjbc",
             "title": "'10% Happier': Russell Simmons, philanthropist, entrepreneur, author and activist | ABC News",
             "secondDuration": 1579,
@@ -31,8 +25,14 @@
             "title": "Protests against governor expand across Puerto Rico",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "AasWQ9jXEzI",
+            "title": "Violent protests in Paris continue for the third straight weekend",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

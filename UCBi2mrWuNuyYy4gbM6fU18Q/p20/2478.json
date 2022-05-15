@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vVove7eQzK4",
-            "title": "Raging Wildfires Burn California",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ypti9LA82Wg",
             "title": "More than 700,000 Ukrainian refugees in Poland",
             "secondDuration": 466,
@@ -121,8 +115,14 @@
             "title": "Michelle Obama, Family's White House Christmas Tree",
             "secondDuration": 44,
             "group": "group_7"
+        },
+        {
+            "videoId": "SHXl_2Uw4OM",
+            "title": "Trump Slams Obamacare, Calls for Congress to Repeal It",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aMyMSXxELEM",
-            "title": "Duchess Camilla tests positive for COVID l GMA",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "x4vzbDo6HBE",
             "title": "Prince's Siblings Arrive in Court to Discuss Who Will Inherit the Artist's Fortune",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Urgent search for Texas police chief in Galveston Bay, Texas l ABC NEWS",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "y64xbQOW85k",
+            "title": "14 more Americans test positive for coronavirus | ABC News",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

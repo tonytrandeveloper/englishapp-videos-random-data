@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JsIkSFFspEw",
-            "title": "Webcast: Mom Murdered; Car Slams into Store",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "KAGn5zGybzQ",
             "title": "Chocolate Chip and E.Coli",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Omicron cancels Christmas flights",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "wxtYbR0kIzA",
+            "title": "Social Media Leads to Arrest of Potential Homegrown Radical",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

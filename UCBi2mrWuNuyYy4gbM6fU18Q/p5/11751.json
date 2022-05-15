@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FgxquuGHv3o",
-            "title": "The Royals Down Under",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "Whi8BBPzdYA",
             "title": "Women's March in Washington D.C.",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "Joe Biden and Kamala Harris answer questions on upcoming election",
             "secondDuration": 267,
             "group": "group_7"
+        },
+        {
+            "videoId": "i1EAk3qfeg4",
+            "title": "Pfizer requests vaccine authorization for children as young as 6 months",
+            "secondDuration": 233,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

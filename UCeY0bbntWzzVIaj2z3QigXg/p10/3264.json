@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2dcBBZ-MOSI",
-            "title": "Los Angeles Ambulances Told Not To Transport Patients With Small Chance Of Survival Amid Covid Surge",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "0arIJ3QzGgo",
             "title": "At Least 5 Killed In Pennsylvania Shooting | NBC News",
             "secondDuration": 211,
@@ -61,8 +55,14 @@
             "title": "WH Press Secretary Sarah Sanders: 'I Am Into Fiction' So Maybe I'll Read Woodward Book | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "XBYokZ-MQHw",
+            "title": "Bill Clinton Blasts Bernie Sanders' View on Economy, Wall Street | NBC News",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

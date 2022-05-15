@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AHuQABPyYFo",
-            "title": "Bernie Sanders In A Minute",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZdqhWCMKMTc",
             "title": "Instant Index: Led Zeppelin Under Fire For the Opening of \"Stairway to Heaven\"",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "The Debrief: border security/shutdown deal, Northeast winter weather, Denver teacher strike",
             "secondDuration": 4009,
             "group": "group_7"
+        },
+        {
+            "videoId": "w42kWoqPlaY",
+            "title": "Signs of strength with James Longman: Looking for hope in Sweden",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tA6345Q14kU",
-            "title": "Co-founder of veteran-led disaster-response group to be recognized",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "SJVi8LA4S3k",
             "title": "Julianne Moore's Oscar Acceptance Speech Inspiring Many",
             "secondDuration": 111,
@@ -121,8 +115,14 @@
             "title": "Famed New Jersey high school principal Joe Clark dies | WNT",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "kVT27w1-AJQ",
+            "title": "Police officer takes on phone scammer: 'Can I send a check?'",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

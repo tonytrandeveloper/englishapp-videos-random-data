@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WNbjkvnYP0w",
-            "title": "‘A Brilliant Mind’ gala seeks to shine spotlight on mental health",
-            "secondDuration": 449,
-            "group": "group_7"
-        },
-        {
             "videoId": "N9Qghel5mmM",
             "title": "Normal Weight, Yet Still Obese?",
             "secondDuration": 268,
@@ -61,8 +55,14 @@
             "title": "9 injured in apartment complex stabbing",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "gjeDXEiVGbk",
+            "title": "COVID-19 cases rising in nearly half of US",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

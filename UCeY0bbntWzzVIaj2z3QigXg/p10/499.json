@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E8lvOIXUVL4",
-            "title": "Meet The Man Responsible For The White Crosses In The Aftermath Of Tragedy | NBC Nightly News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "SKUFmSaV3lo",
             "title": "SCOTUS Considers Immigrants’ Rights To Bail Hearings While Fighting Deportation",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "Trump Publicly Calls For China And Ukraine To Investigate Joe Biden | NBC Nightly News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "QPY8YzTV7Dw",
+            "title": "Opening Statements Made In Rittenhouse Trial After 20 People Selected For Jury",
+            "secondDuration": 344,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

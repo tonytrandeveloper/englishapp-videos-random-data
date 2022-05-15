@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VnuvtXiIgZo",
-            "title": "Stacey Stites: The Girl in the Pines l 20/20 l PART 5",
-            "secondDuration": 478,
-            "group": "group_7"
-        },
-        {
             "videoId": "CTnEykjXL6o",
             "title": "Kermit & Miss Piggy Are Over | ABC News",
             "secondDuration": 217,
@@ -121,8 +115,14 @@
             "title": "Father of child killed in Sandy Hook massacre dies of apparent suicide",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "E3py9UgM2bY",
+            "title": "American service member missing in Yemen",
+            "secondDuration": 47,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

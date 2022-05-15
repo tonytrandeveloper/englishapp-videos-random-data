@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "N1ISZq0R1-I",
-            "title": "GPS Astray: Lost in Death Valley",
-            "secondDuration": 919,
-            "group": "group_7"
-        },
-        {
             "videoId": "XyVyEHECCtE",
             "title": "What Does a Recession Look Like?",
             "secondDuration": 168,
@@ -121,8 +115,14 @@
             "title": "Prince Harry and Meghan Markle visit Bondi Beach",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "yQNer4SX1Rk",
+            "title": "James Maslow, Peta Murgatroyd Eliminated From 'Dancing With the Stars'",
+            "secondDuration": 318,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NJMFW9TeC88",
-            "title": "New details emerge on situation at southern border",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "dZdw6z3vTw0",
             "title": "Anacondas: Tracking Elusive Giants in Brazil",
             "secondDuration": 334,
@@ -31,8 +25,14 @@
             "title": "Wall Street Rebounds After Donald Trump Victory",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "kQ_8Md4iK-o",
+            "title": "NASA's Curiosity Mars Rover: '7 Minutes of Terror' Animation Video",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

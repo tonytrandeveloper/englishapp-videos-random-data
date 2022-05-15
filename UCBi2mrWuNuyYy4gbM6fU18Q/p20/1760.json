@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4TPYxUxHmHI",
-            "title": "Homeland Security Secretary John Kelly Defends Travel Ban",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "NOY1crMNSA0",
             "title": "Evictions on the rise",
             "secondDuration": 74,
@@ -121,8 +115,14 @@
             "title": "Sen. Cory Booker speaks on Judge Ketanji Brown Jackson",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "RkL2sfCv4k0",
+            "title": "An Energy Drink Made in America in a Dorm Room",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

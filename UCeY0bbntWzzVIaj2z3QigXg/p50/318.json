@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Qi5RUj4qbYk",
-            "title": "This Is How One Company Is Bringing Down Costs of Generic Drugs | NBC Nightly News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "vpQs2ll8naM",
             "title": "'I've Been Deprived': Syesha Mercado And Partner Emotionally Plead For Custody Of Children",
             "secondDuration": 158,
@@ -301,8 +295,14 @@
             "title": "William Shatner Talks Star Trek, A Cancer Scare, And Our Current Political Moment | Think | NBC News",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "bsRqWPru5sc",
+            "title": "President Biden Attends G-20 Summit",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

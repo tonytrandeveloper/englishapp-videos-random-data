@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-AdsPObakTI",
-            "title": "Papa John's founder accused of sexual harassment",
-            "secondDuration": 204,
-            "group": "group_7"
-        },
-        {
             "videoId": "vdORuC6XUOc",
             "title": "London Jewelry Heist: $300 Million in Jewels Stolen",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Rajon Rondo Gets Ready for NBA Finals",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "k2q6MER07SI",
+            "title": "Academy of Country Music Awards",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

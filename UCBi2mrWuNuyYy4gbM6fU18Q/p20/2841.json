@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CwFC_-czUgY",
-            "title": "Roger Stone out on $250,000 bond with travel restricted by judge",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "zcnR2WEPw5c",
             "title": "Nelson Mandela Health: South African Leader Treated for Lung Infection",
             "secondDuration": 60,
@@ -121,8 +115,14 @@
             "title": "Teachers credited with saving lives in deadly school shooting",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "uMvnjBAR1pI",
+            "title": "Hurricane Sandy: Air Travel Shuts Down on East Coast",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

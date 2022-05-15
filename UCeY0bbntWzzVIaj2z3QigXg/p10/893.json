@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pHis1ls2k98",
-            "title": "Live: NYC Mayor Bill De Blasio Holds Press Conference Amid George Floyd Protests | NBC News",
-            "secondDuration": 5649,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yh-0lDaXwn0",
             "title": "President Donald Trump Makes Remarks On National Security | NBC News",
             "secondDuration": 1447,
@@ -61,8 +55,14 @@
             "title": "Daunte Wright’s Mother: ‘There Is Never Going To Be Justice For Us’ | NBC News NOW",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "VRYX-SlsS3w",
+            "title": "Nightly News Full Broadcast - Jan. 31",
+            "secondDuration": 1031,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

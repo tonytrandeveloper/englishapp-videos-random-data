@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5yZ5m3OM0BU",
-            "title": "President Obama Swipes at Donald Trump in Ramadan Statement",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "fZXSZJCdJPk",
             "title": "Deadly flooding, mudslides after storm in Brazil",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Superstorm Sandy: Your Pictures",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "VDzhCJeNSqE",
+            "title": "Homework ban sparks debate among educators, parents",
+            "secondDuration": 267,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

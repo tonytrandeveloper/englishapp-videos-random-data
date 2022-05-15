@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0HiNPZJV1J4",
-            "title": "Elon Musk offers to buy Twitter for $43 billion | ABCNL",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "jSy9HhMUurM",
             "title": "March Madness | Boy Sinks 2 Half-Court Shots to Win Championship",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Andrew Yang says campaign will give 10 people $1,000 a month for a year",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "MeRVG-3AI0s",
+            "title": "Candidates discuss gun policy | ABC News",
+            "secondDuration": 361,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

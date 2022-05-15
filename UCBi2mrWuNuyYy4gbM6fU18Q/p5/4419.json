@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "F72U5obykSc",
-            "title": "A Forgotten America: What really happened in Tulsa",
-            "secondDuration": 476,
-            "group": "group_7"
-        },
-        {
             "videoId": "PT3Ltl047LM",
             "title": "John Legend and Gillian Laub Team Up for an HBO Documentary",
             "secondDuration": 201,
@@ -31,8 +25,14 @@
             "title": "A Soundtrack to History: 'My Fellow Americans'",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "crjnaNF01cE",
+            "title": "SKINNY: Auctioning a Material World",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

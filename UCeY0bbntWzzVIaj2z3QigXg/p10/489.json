@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oNpSF6wW4Ag",
-            "title": "Pfizer Says Its Covid Pill Reduces Risk of Hospitalization, Death",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "YQ-0sauXXTU",
             "title": "Watch Joe Biden’s Full Speech After Nevada Caucuses | NBC Nightly News",
             "secondDuration": 660,
@@ -61,8 +55,14 @@
             "title": "Trump: Migrant Children Separated From Families Are 'Well Taken Care Of' | NBC News",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "0TypLpejgLo",
+            "title": "Biden Calls For Police Reform Meeting At White House If Elected | NBC News",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

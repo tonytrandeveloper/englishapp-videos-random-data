@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xByRZLmD8ko",
-            "title": "Best Images of 2016",
-            "secondDuration": 29,
-            "group": "group_7"
-        },
-        {
             "videoId": "-vbgLhEARbI",
             "title": "Man Celebrates 59th Anniversary With Tattoo of Wife",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Massive snowstorm slams center of the US",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "NSC9QDJoivE",
+            "title": "The Conversation: 'Ground Zero Mosque' Debate",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

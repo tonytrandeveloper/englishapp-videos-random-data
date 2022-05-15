@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7WQ1dZx8Uqk",
-            "title": "Romney's Nomination Marred By Low Popularity Poll",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "ArkIHIyAkdY",
             "title": "Orlando Nightclub Shooting | Obama FULL SPEECH",
             "secondDuration": 350,
@@ -61,8 +55,14 @@
             "title": "Marijuana Remains Illegal Under Federal Law",
             "secondDuration": 38,
             "group": "group_7"
+        },
+        {
+            "videoId": "mtBODJefESg",
+            "title": "Top Line: Former Bush Official on Terrorism",
+            "secondDuration": 320,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

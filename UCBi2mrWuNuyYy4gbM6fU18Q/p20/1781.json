@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QK-3YZ3-yKE",
-            "title": "Police Target: Michael Jackson's Doctor",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "ENgEOvUCUMQ",
             "title": "New sanctions on Russia coming?",
             "secondDuration": 141,
@@ -121,8 +115,14 @@
             "title": "Sen. Kennedy's Eulogy for His Mother",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "cZHkxfy0low",
+            "title": "LinkedIn Data Breach From 2012 Comes Back to Haunt Users",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

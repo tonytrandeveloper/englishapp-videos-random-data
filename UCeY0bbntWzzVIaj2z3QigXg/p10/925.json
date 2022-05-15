@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_RodRIZEXj8",
-            "title": "Full Fauci Interview: 'A Virus Will Not Mutate Unless You Allow It To Replicate'",
-            "secondDuration": 1012,
-            "group": "group_7"
-        },
-        {
             "videoId": "k-SkZeRJ8AY",
             "title": "Zelenskyy Addresses Possible Chemical Weapons Used In Mariupol",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Chauvin Trial: Medical Expert Testifies Floyd Died From ‘Low Level Of Oxygen’ | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "cpDLuw6d35k",
+            "title": "Actor And Comedian Ricky Gervais Opens Up on Why He Has “To Play the Outsider” | NBC News",
+            "secondDuration": 43,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

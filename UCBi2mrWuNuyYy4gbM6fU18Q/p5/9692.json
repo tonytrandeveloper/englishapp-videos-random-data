@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7tdiGFNVdwM",
-            "title": "Hurricane Irene Leaves 6 Dead in North Carolina",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "8FAbqkaI9HY",
             "title": "Amazon rainforest fires are now likely a net contributor to Earth's warming | Nightline",
             "secondDuration": 417,
@@ -31,8 +25,14 @@
             "title": "Get to Know the Silent Stars of \"The Artist\"",
             "secondDuration": 465,
             "group": "group_7"
+        },
+        {
+            "videoId": "RW02r7gy8eM",
+            "title": "Fire causes portion of Atlanta highway to collapse",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

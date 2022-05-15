@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NGNPAna2CJI",
-            "title": "Two Grieving Sisters Miss Saying Their Final Goodbyes to Their Dying Father",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "eBvhqGkx3I0",
             "title": "Brazil’s COVID-19 catastrophe",
             "secondDuration": 267,
@@ -121,8 +115,14 @@
             "title": "Khan Academy: Learn Everything, Online",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "MylGfTNgrOI",
+            "title": "The Debrief: Record-breaking cold, 2020 Democratic challengers, Jussie Smollet investigation",
+            "secondDuration": 1221,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

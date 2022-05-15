@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UOuYicMVA5s",
-            "title": "President Biden signs American Rescue Plan",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ll1ubmnqo6A",
             "title": "Jussie Smollett's attorney sharing new details on dropped charges",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Dust devil swirls through Queensland ranch",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "zu0c1ByZbh0",
+            "title": "NJ Police Chief Promoting Racial Profiling Placed On Leave",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

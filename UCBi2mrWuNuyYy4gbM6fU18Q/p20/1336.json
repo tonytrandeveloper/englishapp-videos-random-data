@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1n5xAA1M1f8",
-            "title": "Ukraine President Reportedly Agrees to Election Deal",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "gRwHyuqgwa8",
             "title": "NASA tests mission to knock asteroids off course",
             "secondDuration": 382,
@@ -121,8 +115,14 @@
             "title": "Orlando Attack Video Shows Horrific Moments",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "AHHrWBckrP8",
+            "title": "Obama on Deadly Attack in Munich",
+            "secondDuration": 25,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZFefTM1VAow",
-            "title": "Testimony From Ghislaine Maxwell, Jeffrey Epstein’s Alleged Accomplice, Unsealed | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "KmTLRSl28SU",
             "title": "Nightly News Full Broadcast - April 6",
             "secondDuration": 1165,
@@ -121,8 +115,14 @@
             "title": "Jeff Bezos To Step Down As Amazon CEO | NBC News NOW",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "3MHxyoDFfcY",
+            "title": "Covid Cases Spike In Michigan As Doctors Say Fourth Wave Takes Hold | NBC News NOW",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z4ozW8SFk8A",
-            "title": "Airline passenger captures bird’s-eye view of Colorado wildfire l ABC News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "ylJUppQqK-M",
             "title": "Judge ordered Roger Stone to not discuss criminal case after crosshairs post",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "\"In Case You Missed It\"",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "gba7pO_RuSs",
+            "title": "Assessing the Situation in Afghanistan",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

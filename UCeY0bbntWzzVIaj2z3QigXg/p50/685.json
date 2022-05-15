@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "f9saAkzoIhA",
-            "title": "Why Is This Flu Season So Bad? | NBC Nightly News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "h6F_uleSnMU",
             "title": "Border Patrol Agents Struggle As Migrant Crossings Surge",
             "secondDuration": 293,
@@ -301,8 +295,14 @@
             "title": "What's In A 'Black Box'? | 30 STK | NBC News",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "wgKOE3_aZgg",
+            "title": "Rate For Liver Transplants Surge As Alcohol Sales Boom During Pandemic",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

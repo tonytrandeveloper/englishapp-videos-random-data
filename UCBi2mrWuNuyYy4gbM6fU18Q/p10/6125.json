@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "k7xbdJ4vrfQ",
-            "title": "‘Right out of the Russian playbook’: Retired general on Russia’s strategy",
-            "secondDuration": 332,
-            "group": "group_7"
-        },
-        {
             "videoId": "TYYPTOWVsHU",
             "title": "The Debrief: Impeachment testimonies, 2020 candidates in Iowa, Delhi smog | ABC News",
             "secondDuration": 1557,
@@ -61,8 +55,14 @@
             "title": "Why kids should stay in school despite surge in pediatric COVID infections",
             "secondDuration": 419,
             "group": "group_7"
+        },
+        {
+            "videoId": "gLCE2pi8ShM",
+            "title": "Trump and allies accused of blocking 20 investigations and 79 requests for documents",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AV_gIhQNxoM",
-            "title": "Miss Teen USA Speaks Out Apology For Using of N-Word",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "pZzt3aslVnM",
             "title": "Ohio State Beats Oregon To Win the NCAA College National Championship",
             "secondDuration": 1350,
@@ -31,8 +25,14 @@
             "title": "Nationwide protests for George Floyd",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "hMu3HbeR4TQ",
+            "title": "Deadly Summer of Heat",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

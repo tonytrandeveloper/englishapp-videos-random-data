@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "isaDCXWEr3o",
-            "title": "Kevin Spacey posts bizarre tweet on the day he faces a felony charge",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "pbHIomDsDZo",
             "title": "Elizabeth Edwards in Grave Condition",
             "secondDuration": 262,
@@ -61,8 +55,14 @@
             "title": "Michigan Police Hunt for Possible Sniper Targeting Vehicles on Highways",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "2lWd_5otcNs",
+            "title": "‘Still hope’ on finding survivors in Surfside building rubble",
+            "secondDuration": 392,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

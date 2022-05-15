@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fJ4ojpj_-EU",
-            "title": "President Donald Trump Blames Democrats For Health Bill Defeat | NBC News",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "39hVUdBllM8",
             "title": "Snowboarder Is Rescued Alive After Avalanche In California | NBC Nightly News",
             "secondDuration": 76,
@@ -121,8 +115,14 @@
             "title": "Panel: Previous Presidents Didn’t Jump Into Primaries Like Trump (Full) | Meet The Press | NBC News",
             "secondDuration": 578,
             "group": "group_7"
+        },
+        {
+            "videoId": "n1iZPAny3ys",
+            "title": "Northeast Recovers From Blizzard Aftermath",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

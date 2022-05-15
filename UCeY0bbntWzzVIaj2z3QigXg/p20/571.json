@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DxcwJfrv1_c",
-            "title": "Ivana Trump: ‘I'm First Lady, OK?’ | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "x8uKMXNs36U",
             "title": "Kamala Harris Receives Coronavirus Vaccine | NBC News",
             "secondDuration": 293,
@@ -121,8 +115,14 @@
             "title": "Chuck Schumer: Vindman Should Be Given 'Appropriate Protections' After Testifying | NBC News",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "oejaHE5jUaA",
+            "title": "Video Shows New Angle Of George Floyd’s Arrest With Multiple Officers | NBC News NOW",
+            "secondDuration": 38,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

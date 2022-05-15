@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "k3TuE4Sunms",
-            "title": "Omar Mateen | Orlando Nightclub Shooter",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qlg3XkmF6Qk",
             "title": "Donald Trump Lays Out Tax Plan",
             "secondDuration": 165,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Nine Year Old Bowls Perfect Strikes",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "CYGTA74XvU8",
+            "title": "George Clooney's Political Career Could Be on the Horizon",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

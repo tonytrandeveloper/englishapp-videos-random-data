@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WLomL4uD2GM",
-            "title": "Trump announces death of ISIS leader | ABC News",
-            "secondDuration": 2910,
-            "group": "group_7"
-        },
-        {
             "videoId": "1eXrGeEyLH8",
             "title": "Voting shifts to Southwest, where there’s more diversity",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Football Players at Greater Risk of Alzheimer's, Lou Gehrig's Disease",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "wYhL_q5lYas",
+            "title": "Russia-Ukraine Crisis: February 26, 2022",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

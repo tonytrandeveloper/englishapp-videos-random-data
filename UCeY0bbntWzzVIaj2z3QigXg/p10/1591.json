@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bsRqWPru5sc",
-            "title": "President Biden Attends G-20 Summit",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "uqhyuc9akzE",
             "title": "Ukrainian College Students Speak Out About The Future",
             "secondDuration": 246,
@@ -61,8 +55,14 @@
             "title": "Schiff: Trump Tried To 'Take Advantage Of A Vulnerable Ally' | NBC News",
             "secondDuration": 755,
             "group": "group_7"
+        },
+        {
+            "videoId": "p231DtNjTrg",
+            "title": "Heatwaves: Everything You Need To Know To Stay Safe | Better | NBC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

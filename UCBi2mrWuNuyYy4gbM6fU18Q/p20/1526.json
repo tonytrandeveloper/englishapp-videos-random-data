@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "okE6aH-H2E4",
-            "title": "The Devil’s Triangle l 20/20 l PART 1",
-            "secondDuration": 466,
-            "group": "group_7"
-        },
-        {
             "videoId": "1P2RgyIQxWQ",
             "title": "Florida Senate Race",
             "secondDuration": 619,
@@ -121,8 +115,14 @@
             "title": "Paris Attacks: Terrifying Scenes From French Stadium",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "TM74IpCpz2w",
+            "title": "Arrest warrant issued for founder of Bikram yoga",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

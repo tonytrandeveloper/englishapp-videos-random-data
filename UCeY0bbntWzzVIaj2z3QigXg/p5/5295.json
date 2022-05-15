@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yE8CKZHflo8",
-            "title": "FDA Announces Rule Regulating E-Cigarettes And Cigars | NBC News",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "270rdx3kUQQ",
             "title": "Defense Rests In Derek Chauvin Trial, Closing Arguments Will Be Monday | NBC News NOW",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "James Comey Lashes Out At President Donald Trump In Soon-To-Be Released Book | NBC Nightly News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ol-UZUZY31E",
+            "title": "Hill Warns Against Pushing A 'Fictional Narrative' About Ukraine | NBC News",
+            "secondDuration": 508,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

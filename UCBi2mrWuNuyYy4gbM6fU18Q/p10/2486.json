@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_qaitg5bXDg",
-            "title": "Diane Sawyer's New Role at ABC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "GFn438K6904",
             "title": "NASA Shuttle Launch: Atlantis Blasts Off From Cape Canaveral",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Gal Gadot shines spotlight on women making an impact",
             "secondDuration": 423,
             "group": "group_7"
+        },
+        {
+            "videoId": "-RzDMGZ3kPA",
+            "title": "Defense expected to rest in case against Derek Chauvin",
+            "secondDuration": 366,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

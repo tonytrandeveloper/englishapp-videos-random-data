@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dnE8RON37mw",
-            "title": "‘Squid Game’ ignites dalgona candy craze",
-            "secondDuration": 277,
-            "group": "group_7"
-        },
-        {
             "videoId": "iI6_yX_pdmY",
             "title": "Trump approves $2 trillion stimulus to help Americans | WNT",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Index: 3 People From the NYC Area Test Positive for the Zika Virus",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "zG3LjzY_pw0",
+            "title": "Eye of hurricane to pass over area home to nearly half of America's oil refineries",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

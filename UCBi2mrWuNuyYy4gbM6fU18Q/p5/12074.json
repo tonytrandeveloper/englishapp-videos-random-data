@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BUP_kUwCe0c",
-            "title": "House Republicans respond to articles of impeachment l ABC News",
-            "secondDuration": 745,
-            "group": "group_7"
-        },
-        {
             "videoId": "iRLzt2LF-EQ",
             "title": "WEBCAST: Vegas Daredevil Breaks New World Record",
             "secondDuration": 161,
@@ -31,8 +25,14 @@
             "title": "Questions About Germanwings Co-Pilot’s Medical History",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "2KdSrZ3OZXc",
+            "title": "Democrats deny GOP claims that Russia probe was started as a political witch hunt",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

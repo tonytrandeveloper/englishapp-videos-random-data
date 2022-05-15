@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4vbraCXEbVc",
-            "title": "Stock market to open after worst 2-day slump since 2016",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "Da_QB1CwIGU",
             "title": "“The Bachelor” Season 20 Finale | ABC News",
             "secondDuration": 295,
@@ -61,8 +55,14 @@
             "title": "Jussie Smollett sentenced",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "1cyhMJDN4xE",
+            "title": "Osama bin Laden Photo: US-Pakistan Relationship at Risk?",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bhj0qoKv4ew",
-            "title": "Medical professionals dealing with COVID-19",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "67FAXnFQl8o",
             "title": "SKINNY: Walter White and Jesse Pinkman Make Comeback Appearance",
             "secondDuration": 230,
@@ -61,8 +55,14 @@
             "title": "Flood Nearly Sweeps Away Chinese Man: Caught on Tape",
             "secondDuration": 21,
             "group": "group_7"
+        },
+        {
+            "videoId": "VsTYlkD_B2g",
+            "title": "Trump has fired another member of his Cabinet",
+            "secondDuration": 272,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

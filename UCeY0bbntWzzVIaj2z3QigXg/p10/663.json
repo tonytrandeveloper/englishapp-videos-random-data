@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0293r9qeU1s",
-            "title": "Putin Missing, Mystery In Moscow | Chuck's Take | NBC News",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "SzoEVyYQv_c",
             "title": "Pfizer Seeks Emergency Use Authorization For Second Covid Booster Shot",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "President Trump Previews ‘Very Major Haircut’ To Dodd-Frank At CEO Town Hall | NBC News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "GdbvQtwkLNQ",
+            "title": "Inside Look At The Role Of Poll Watchers During An Election | NBC Nightly News",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "6F9zcjy2rNY",
-            "title": "End of Christmas Brings Clearance-Hunting Season",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "eAU9ikl1jYY",
             "title": "ABC News Prime: VA election fallout; Child COVID vaccination; Underwater solution to climate change?",
             "secondDuration": 5068,
@@ -301,8 +295,14 @@
             "title": "Warsaw mayor on refugee crisis: ‘We can’t improvise anymore’ I ABCNL",
             "secondDuration": 528,
             "group": "group_7"
+        },
+        {
+            "videoId": "-Op81-PDi84",
+            "title": "Lightning strikes at Guatemala's Fuego Volcano",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

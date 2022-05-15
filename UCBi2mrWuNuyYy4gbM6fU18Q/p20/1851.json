@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "v4yDb3avN4g",
-            "title": "Prince Charles officially opens new hospital to provide care for 4,000 COVID-19 patients | ABC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "UzCxBAoe-Lc",
             "title": "Chaos At the Mall: Survival Tips When Caught in a Dangerous Situation",
             "secondDuration": 135,
@@ -121,8 +115,14 @@
             "title": "20 Arrested in IRS Scam",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "63xg0b8jmFg",
+            "title": "Surgery: Vertical Sleeve Gastrectomy",
+            "secondDuration": 468,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

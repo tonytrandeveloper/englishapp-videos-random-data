@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Nvc2EUdTp20",
-            "title": "Watch President Biden’s Full Remarks On Anniversary Of Covid Pandemic | NBC News",
-            "secondDuration": 1452,
-            "group": "group_7"
-        },
-        {
             "videoId": "VtoULHV4H-k",
             "title": "Protests Demand States Reopen As Unemployment Filings Hit 36 Million | NBC Nightly News",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "Live: Trump Comments On Alabama Senate Primary, His Relationship With Dr. Fauci | NBC News",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "8WxBhiTTvso",
+            "title": "DHS, DOJ Plan Effort To Track Domestic Extremism On Social Media",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

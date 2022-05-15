@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "f5hA9ky_sQw",
-            "title": "Watch NBC News NOW Live - June 1",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "1GVNdKGMLBA",
             "title": "Detroit Gunshot Victim Inspired to Become a Doctor | NBC Nightly News",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Militarized Police Forces Raise Concern | NBC News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "sduCqdzdZ4E",
+            "title": "What Happens Now AstraZeneca's Covid Vaccine Has Completed Phase 3 Trial? | NBC News NOW",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

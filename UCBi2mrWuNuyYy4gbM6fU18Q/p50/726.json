@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "4SuO8MC5BVA",
-            "title": "Students Beaten During Mob Attacks at University",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "KxNg_6ltyPc",
             "title": "A look at the shocking investigation that put a serial killer behind bars",
             "secondDuration": 553,
@@ -301,8 +295,14 @@
             "title": "White House tries to put FBI chief's firing behind them",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "h4edEda3124",
+            "title": "Tense showdown during traffic stop along a California highway",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

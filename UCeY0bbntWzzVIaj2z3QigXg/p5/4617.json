@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tOIOgKbon6Q",
-            "title": "Sen. Warren Grills Health Secy. Azar Over President Trump’s Promise To Lower Drug Prices | NBC News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "7LZIMT1FvY0",
             "title": "Trump Abruptly Withdraws U.S. Troops From Northern Syria | NBC Nightly News",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "House And Senate Democrats Rally Against Immigration Order | NBC News",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZpG4CaCwdjc",
+            "title": "How Stress Impacts Olympic Athletes’ Performances",
+            "secondDuration": 265,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

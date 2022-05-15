@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "G9QzVlFfiOQ",
-            "title": "ABC News Prime: COVID-19 crisis deepens; Latest on Biden transition; Package delivery delays",
-            "secondDuration": 3611,
-            "group": "group_7"
-        },
-        {
             "videoId": "DLNDUrwDOP0",
             "title": "'Hamilton' Super Bowl Performance",
             "secondDuration": 245,
@@ -31,8 +25,14 @@
             "title": "Tyler Perry uses celebrity status to help with decades-old cold case",
             "secondDuration": 415,
             "group": "group_7"
+        },
+        {
+            "videoId": "G_JJSP3ymBY",
+            "title": "Officials say Omicron variant growing faster than all other COVID-19 variants | ABC News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

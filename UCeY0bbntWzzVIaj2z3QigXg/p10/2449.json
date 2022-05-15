@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pKiDLT5vt5E",
-            "title": "Lightning Round: What Foreign Relationship Would You Reset? | NBC News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "ueyrM4QSxsU",
             "title": "Matthew McConaughey Shows How To Make A Face Mask Using A Coffee Filter | NBC News",
             "secondDuration": 79,
@@ -61,8 +55,14 @@
             "title": "Protests Across The U.S. After No Officers Charged With Breonna Taylor’s Death | NBC Nightly News",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vy2k2HeIFUA",
+            "title": "Minneapolis Official Sings 'Amazing Grace' In Emotional Tribute To George Floyd | NBC News NOW",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

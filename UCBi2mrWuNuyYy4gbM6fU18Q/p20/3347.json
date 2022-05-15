@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "A95y_WozdOM",
-            "title": "Michelle Obama on Helping Military Families",
-            "secondDuration": 275,
-            "group": "group_7"
-        },
-        {
             "videoId": "d9PX2s0sc9s",
             "title": "The Conversation: Who is Captain Awesome",
             "secondDuration": 165,
@@ -121,8 +115,14 @@
             "title": "Behind the scenes of 'Recess Therapy'",
             "secondDuration": 232,
             "group": "group_7"
+        },
+        {
+            "videoId": "mEH_G9MVqMw",
+            "title": "Spoiler Alert: Over-the-Top Birthdays for Kids (02.21.11)",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

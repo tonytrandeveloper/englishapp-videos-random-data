@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "j8w6oxjVACE",
-            "title": "Mike Pence visits 3M plant l ABC News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "POvmZ3-MUaQ",
             "title": "Robert Duvall on \"Get Low,\" Bill Murray and Marlon Brando.",
             "secondDuration": 569,
@@ -61,8 +55,14 @@
             "title": "McDonald's customer gives car to drive-through worker",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "SgeDtb1MZB8",
+            "title": "Body found in search for Gabby Petito",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

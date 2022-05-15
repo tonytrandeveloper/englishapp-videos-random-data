@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FFQRW_X47iY",
-            "title": "Barcelona Terrorist Attack: Suspect In Custody As Death Toll Rises | NBC News",
-            "secondDuration": 538,
-            "group": "group_7"
-        },
-        {
             "videoId": "yMNvMexcV3o",
             "title": "Americans On The Move For Thanksgiving Despite Expert Warnings | NBC Nightly News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "This Mailman and Little Boy’s First Class Friendship Will Make You Smile | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "yTp6sE86jDE",
+            "title": "Biden Calls Trump First Racist President In U.S. After Immigrant Details Racial Profiling Story",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KxzEw-o_wTs",
-            "title": "How YouTube's Ad Placement Algorithm Got Its Targeting So Wrong | Mach | NBC News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "uPon0kytFPI",
             "title": "Trump Tweets He Did 'Nothing Wrong' Ahead Of House Vote On Impeachment | NBC News",
             "secondDuration": 166,
@@ -121,8 +115,14 @@
             "title": "Veterans With Incredible Bond Hike Together — One Carrying The Other On His Back | NBC Nightly News",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "6RnEj3UMDXM",
+            "title": "Biden Delivers Remarks At Tribute For U.S. Capitol Police Officer William Evans | NBC News",
+            "secondDuration": 2887,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

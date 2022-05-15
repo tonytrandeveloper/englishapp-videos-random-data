@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SUCXNooKQJo",
-            "title": "Wyoming projected to be won by Trump",
-            "secondDuration": 26,
-            "group": "group_7"
-        },
-        {
             "videoId": "ARUDoQ5nCZY",
             "title": "'Scandal' Star Tony Goldwyn Discusses Latest Season",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Harry, Markle take their first kiss as a married couple",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "5BXIB6m3l_o",
+            "title": "'Sesame Street' Says Goodbye to Maria",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

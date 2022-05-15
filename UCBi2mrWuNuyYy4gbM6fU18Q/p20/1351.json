@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0KKl7caJimY",
-            "title": "Honeymoon in Vegas Not What it Used to Be",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "V63TuSxrv4w",
             "title": "Latest jobs report looks promising | WNT",
             "secondDuration": 128,
@@ -121,8 +115,14 @@
             "title": "A cardiologist in Chicago dressed up as Chewbacca for his young patient",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "tCVy2iFRl7o",
+            "title": "Police trying to figure out what sparked deadly Seattle shooting spree",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

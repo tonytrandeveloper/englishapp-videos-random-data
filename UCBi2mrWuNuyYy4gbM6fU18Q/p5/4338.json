@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zDGVsqbcRvo",
-            "title": "Obama on $400M Paid to Iran",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "2j6nFM8U9Cw",
             "title": "500,000 deaths from COVID-19 l ABC News",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "Trinity Gay Shooting Suspects Plead Not Guilty",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "VERguOc0laE",
+            "title": "Femicide, Part 1: Honduras, one of the most dangerous places to be a woman | ABC News",
+            "secondDuration": 641,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

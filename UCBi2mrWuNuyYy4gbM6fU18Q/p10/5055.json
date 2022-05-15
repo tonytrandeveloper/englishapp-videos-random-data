@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OrvKKQoyYec",
-            "title": "Growing COVID-19 concerns as outbreak spreads in DC I ABCNL",
-            "secondDuration": 257,
-            "group": "group_7"
-        },
-        {
             "videoId": "3JgKbqpWWa4",
             "title": "Priest leads 1st mass after surviving plane crash",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "JFK's Love Letters Revealed",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "IzANCqaXGcU",
+            "title": "CDC: Half of US adults are fully vaccinated against COVID-19",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

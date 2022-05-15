@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3ukPcqH97x4",
-            "title": "Trump to speak at Mount Rushmore as COVID-19 cases trend upward",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "amy7YLNDtYc",
             "title": "Officer who fatally shot woman at home arrested l ABC News",
             "secondDuration": 126,
@@ -121,8 +115,14 @@
             "title": "2 pilots arrested for attempting to fly while intoxicated l ABC News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "f4sydisnhrI",
+            "title": "Desperate Search for Cargo Ship That Left Jacksonville Headed for the Bahamas",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

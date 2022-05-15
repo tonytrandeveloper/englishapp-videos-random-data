@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wySwY-MLYRs",
-            "title": "This New Website Is Helping Consumer’s Slash Their Doctor Bills | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "xdnLej7Yp9w",
             "title": "Full Warner Interview: Challenges of Cybersecurity",
             "secondDuration": 466,
@@ -121,8 +115,14 @@
             "title": "President Trump Nominates New FBI Director On Eve Of James Comey Testimony | NBC Nightly News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "PRP6JWjmhk4",
+            "title": "U.S. Intel: Strong Indications of Explosion on EgyptAir Flight | NBC Nightly News",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

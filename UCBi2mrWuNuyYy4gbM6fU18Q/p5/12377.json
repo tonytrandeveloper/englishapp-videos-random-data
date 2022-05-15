@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zrzEYJ32clg",
-            "title": "High School Sports Bus Crash Caught on Video",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "BLgmDv1SEyM",
             "title": "Economy reels from coronavirus pandemic as some states prepare to reopen",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "Lady Liberty's Crown Set to Reopen",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "WC_jhvbsIEE",
+            "title": "3 firefighters killed in row-home fire identified",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

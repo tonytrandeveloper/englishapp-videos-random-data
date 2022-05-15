@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XAvqyVDtuHM",
-            "title": "The Debrief: Impeachment hearings, Indiana Uni, Political ads | ABC News",
-            "secondDuration": 1362,
-            "group": "group_7"
-        },
-        {
             "videoId": "gXdAKBYJsMA",
             "title": "New details emerge in Otto Warmbier's medical condition",
             "secondDuration": 300,
@@ -121,8 +115,14 @@
             "title": "What Is Islam? Questions and Answers",
             "secondDuration": 549,
             "group": "group_7"
+        },
+        {
+            "videoId": "kExGmpGTdI0",
+            "title": "Doctor Accused of Attacking Uber Driver: 'I'm Ashamed' | ABC News",
+            "secondDuration": 384,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

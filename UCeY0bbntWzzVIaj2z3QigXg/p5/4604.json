@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ivSUoFjL0f0",
-            "title": "Meet Miss America's First Openly-Gay Contestant | NBC News",
-            "secondDuration": 56,
-            "group": "group_7"
-        },
-        {
             "videoId": "4fuVlh-l32g",
             "title": "France, Germany and Italy Record Highest Case Numbers In Months | NBC Nightly News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Two Brothers Get A Fresh Start After Battling Heroin Addiction | NBC News",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "CC_lBkIzpQ4",
+            "title": "Donald Trump Says An Interview With Special Counsel Robert Mueller ‘Seems Unlikely’ | NBC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

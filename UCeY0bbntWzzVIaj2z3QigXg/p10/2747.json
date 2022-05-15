@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RlW1S10slFo",
-            "title": "Tim Kaine: Latinos Will Be A Powerful Voice In This Election | NBC News",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "PXFy-6lA9BA",
             "title": "Investigation Underway After Georgia Officers Fire At Car With Minors Inside | NBC Nightly News",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Mulvaney Predicts Shutdown Stalemate Could Last Into New Congress | NBC Nightly News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "7PNTuIECZCE",
+            "title": "Drone Footage Of Frozen Niagara Falls | NBC Nightly News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "x9fNAQGsyWM",
-            "title": "U.S. Businesses Caught In Crossfire Of Trade War | NBC Nightly News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "b8CccpbIdNI",
             "title": "President Donald Trump Hosts Prison Reform Roundtable | NBC News",
             "secondDuration": 1480,
@@ -121,8 +115,14 @@
             "title": "Katko: The President’s Role In ‘Insurrection Is Undeniable’ | NBC News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "6x-18Hug3fs",
+            "title": "Timeline: How Did COVID-19 Spread Through The White House? | NBC News NOW",
+            "secondDuration": 296,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

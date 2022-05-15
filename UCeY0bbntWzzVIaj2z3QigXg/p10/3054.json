@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nAWgOnC3acA",
-            "title": "Lawmakers Reach $17 Billion Veterans Affairs Deal | NBC News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "dbJ4K8CWPl0",
             "title": "Parkland Survivor Demands Action On Gun Reform At Capitol Hill News Conference | NBC News",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Californians Capture Devastating Scenes From Wildfires | NBC News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "ddPs8ceJNJE",
+            "title": "President Donald Trump, Russia Spar Over Why He Ditched Putin Meeting | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

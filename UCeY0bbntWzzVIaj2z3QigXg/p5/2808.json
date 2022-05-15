@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_6YyATFi24U",
-            "title": "TD Bank ATM Surprises Customers | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sh9xylmwMww",
             "title": "White House Aide Who Testified In Impeachment Inquiry Removed From Job | NBC Nightly News",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Martin Luther King Jr.'s Daughter, Bernie King, Reflects On His Life And Impact | NBC News",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "g4leHnu_Nmo",
+            "title": "Watch: Mom Thwarts Kidnapping Attempt By Pulling Her Son Out The Car Window",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

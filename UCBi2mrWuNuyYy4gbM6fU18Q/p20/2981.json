@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "z6Ky6gOgsDk",
-            "title": "Some US states temporarily pause gas tax amid record-high prices",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "NvpEcsFln6o",
             "title": "Longest government shutdown in history hits 22-day mark",
             "secondDuration": 160,
@@ -121,8 +115,14 @@
             "title": "Trump's chief of staff defends 'candid and strong' relationship with president",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "-eSzhzgDn-s",
+            "title": "Making the Vote",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

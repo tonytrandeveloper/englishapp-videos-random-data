@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "M84azTAfPK0",
-            "title": "Biden race comments 'obviously (influence) the vice presidential selection': Emanuel | ABC News",
-            "secondDuration": 522,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZnkvP3oayb0",
             "title": "Ron Paul a 'Real Threat' to Win Iowa Caucus: James Carville on 'GMA'",
             "secondDuration": 250,
@@ -61,8 +55,14 @@
             "title": "Senator Kerry and Lugar on START",
             "secondDuration": 663,
             "group": "group_7"
+        },
+        {
+            "videoId": "HJvR-n13Mls",
+            "title": "ABC News Live Update: Wildfires claim lives and raze thousands of homes in the West",
+            "secondDuration": 616,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

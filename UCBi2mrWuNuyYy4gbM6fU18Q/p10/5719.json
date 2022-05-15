@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YMurtVLfKJ8",
-            "title": "MIX: Paper Bag Speed Dating",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "zBdK4L2RdKE",
             "title": "Debate Highlights | Hillary Clinton, Donald Trump Discuss WikiLeaks and Russia",
             "secondDuration": 320,
@@ -61,8 +55,14 @@
             "title": "Tom Brady in Hot Water Over Deflategate",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "EXwr0e9rreE",
+            "title": "Bill Gates faces allegations of inappropriate behavior l GMA",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

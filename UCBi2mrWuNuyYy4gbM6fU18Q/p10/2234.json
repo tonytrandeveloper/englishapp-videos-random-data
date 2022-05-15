@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dFpjDLYSZdA",
-            "title": "Middle East on the Brink:  Gaza Celebrates",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "heWrsykL6-Q",
             "title": "Elon Musk Tweets SpaceX Crash",
             "secondDuration": 42,
@@ -61,8 +55,14 @@
             "title": "Strong support for government-run health care at Bernie Sanders event",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ebw-jvD9eAs",
+            "title": "MTV Video Music Awards: Did Lady Gaga, Nicki Minaj and Katy Perry Hit or Miss?",
+            "secondDuration": 259,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

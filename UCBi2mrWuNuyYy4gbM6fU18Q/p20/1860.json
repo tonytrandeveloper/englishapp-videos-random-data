@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "E5UdzP2egIs",
-            "title": "Oregon Standoff: What Happened Between Armed Militia, Authorities",
-            "secondDuration": 474,
-            "group": "group_7"
-        },
-        {
             "videoId": "t4JZsHi4tFw",
             "title": "Bill Cosby Insists the Show Must Go On",
             "secondDuration": 132,
@@ -121,8 +115,14 @@
             "title": "Justin Bieber, All Grown Up",
             "secondDuration": 368,
             "group": "group_7"
+        },
+        {
+            "videoId": "gmJzhHnmQA8",
+            "title": "Top Health Officials Claim to Not Have the Money to Fight Zika",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

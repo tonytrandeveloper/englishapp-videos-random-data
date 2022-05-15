@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wX2PwXMZ638",
-            "title": "Nightly News Full Broadcast - Dec. 17",
-            "secondDuration": 1188,
-            "group": "group_7"
-        },
-        {
             "videoId": "xKRywpY6xkE",
             "title": "Postmaster Warns Of 'Unintended Consequences' From His Own Cuts To Service | Meet The Press",
             "secondDuration": 176,
@@ -61,8 +55,14 @@
             "title": "A Brief History Of President Donald Trump's Feud With LaVar Ball | NBC News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "gBda10tCwwk",
+            "title": "Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2680,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

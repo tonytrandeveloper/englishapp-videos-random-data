@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hTdx98DfpEo",
-            "title": "Felicity Huffman Sentenced To 14 Days In Prison And Community Service | NBC News Now",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "VJKz754x_9k",
             "title": "Hillary Clinton Comments on 'Overheating' at 9/11 Ceremony | NBC News",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Actress Glenn Close Calls For Normalizing Mental Health At Washington Event | NBC News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "fbemVo2B-9U",
+            "title": "At Least Nine Shot At Fort Lauderdale Airport | NBC News",
+            "secondDuration": 398,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

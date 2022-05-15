@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8dHrbEeQBjk",
-            "title": "Anita Hill Speaks Out In First TV Interview Since Biden Launched Presidential Bid | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "1FE_1GDnFhI",
             "title": "President Donald Trump Tells United Nations: ‘I Will Always Put America First’ | NBC News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "52 Years After His Death, Vietnam Veteran Finally Honored | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "cTS8uJ0YyUM",
+            "title": "Donald Trump On Clinton, Putin And Bush | Meet The Press | NBC News",
+            "secondDuration": 600,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ELq4ZexuOIg",
-            "title": "Christina Distler: \"For student success it takes...\"",
-            "secondDuration": 15,
-            "group": "group_7"
-        },
-        {
             "videoId": "In3nxeWCfzQ",
             "title": "What Are The Key Tools In 'The Confidence Code For Girls'? | NBC News",
             "secondDuration": 282,
@@ -61,8 +55,14 @@
             "title": "Record Rainfall in South Carolina | Short Take | NBC News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "3MNNX3IxTxM",
+            "title": "Julian Assange On DNC Emails And 2016 Election (Full Interview) | Meet The Press | NBC News",
+            "secondDuration": 704,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

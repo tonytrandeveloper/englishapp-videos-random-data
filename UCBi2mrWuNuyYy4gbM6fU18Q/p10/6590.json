@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1LzgDpOT2zE",
-            "title": "Trump in Public Spat With CIA",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "kBRP8iBkR54",
             "title": "Biden speaks on new gas plan as inflation intensifies",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Heaven’s Gate cult members record farewell messages: 20/20 ‘The Cult Next Door’ Preview",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "8LDO55GVbpY",
+            "title": "Robert Durst: Police Investigate Other Cases in California, New York, Vermont",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

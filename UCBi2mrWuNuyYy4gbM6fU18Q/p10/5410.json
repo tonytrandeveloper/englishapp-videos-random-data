@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PPLlRmOpH_Y",
-            "title": "From Good Life to Burning Bed",
-            "secondDuration": 403,
-            "group": "group_7"
-        },
-        {
             "videoId": "-qNjOByduh8",
             "title": "Donald Trump Tweets About Nuclear Weapons, Chicago Violence",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Arizona police officers asked to leave Starbucks",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "7cA3JzCqEGY",
+            "title": "Lawmakers react to Trump comments about foreign governments offering political dirt",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

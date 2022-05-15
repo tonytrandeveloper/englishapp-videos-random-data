@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T3bTBpyoYA8",
-            "title": "US prepares for potential Russian cyberattacks",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "fgi4egrpFzg",
             "title": "New York Times Columnist, Paul Krugman, Answers 'This Week' Viewer Questions",
             "secondDuration": 270,
@@ -31,8 +25,14 @@
             "title": "Israeli Soldiers Run Down by Truck in Suspected Terror Attack",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "NiPs6NjsawY",
+            "title": "ABC News Prime: Preventable COVID deaths surge; Surfside 911 calls released; Britney Spears latest",
+            "secondDuration": 5039,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

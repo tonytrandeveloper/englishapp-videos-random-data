@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SjAywdPStTM",
-            "title": "From Red To Blue: Driving Cross Country With Ted Cruz | NBC News",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "SVqMfjpxE3Y",
             "title": "Driverless Trucks Are Transforming The Way Packages Are Shipped | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Eight Massive Wildfires Rage Across California",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "M0p273uoFYc",
+            "title": "Ed Sheeran Tells Megyn Kelly ‘Prepare To Be Shut Down' If Compared To Adele | Megyn Kelly | NBC News",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

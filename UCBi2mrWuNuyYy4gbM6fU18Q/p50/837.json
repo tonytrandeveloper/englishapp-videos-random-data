@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "BioWIYk9PPI",
-            "title": "US State Department expels 2 Cuban diplomats",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "PubsvbsZ9JM",
             "title": "Biden addresses nation year after Jan. 6 Capitol attack",
             "secondDuration": 1495,
@@ -301,8 +295,14 @@
             "title": "Deadly Workplace Shooting in Texas",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "BXcRLY95JNs",
+            "title": "'GMA' Look-Alike Contest Results: Josh Elliott, Sam Champion's 'Bromance' With Doppelgangers",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

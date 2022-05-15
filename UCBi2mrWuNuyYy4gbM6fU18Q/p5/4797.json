@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ETsCtPDMzoA",
-            "title": "HIV survivors reflect on 40 years of AIDS epidemic l ABC News",
-            "secondDuration": 465,
-            "group": "group_7"
-        },
-        {
             "videoId": "-9iI1TjbkzY",
             "title": "Balloon boy's dad stands by story 10 years after airborne hoax l ABC News",
             "secondDuration": 322,
@@ -31,8 +25,14 @@
             "title": "Firefighter's Dramatic Rescue Caught on Tape in Brooklyn",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "k4eh36orYWw",
+            "title": "Weapons on Plane in Los Angeles",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

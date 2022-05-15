@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "yspZ-_9XAgY",
-            "title": "Freddie Gray’s Police Van Trip: Undisclosed Fourth Stop Revealed",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "zeAdH4NCWU8",
             "title": "Middle East on the Brink:  Israel and Hamas Agree to Cease-Fire",
             "secondDuration": 138,
@@ -301,8 +295,14 @@
             "title": "Dramatic first day of Kim Potter trial",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "sLv8o383DwQ",
+            "title": "Steph Curry Schools Summer Camper",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

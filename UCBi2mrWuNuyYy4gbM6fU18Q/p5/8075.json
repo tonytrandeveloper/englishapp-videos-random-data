@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SI3_Zot3djM",
-            "title": "National Journal's Sue Davis on 'Top Line'",
-            "secondDuration": 262,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ppm4QtAAOzs",
             "title": "Kamala Harris speaks to Joe Biden on the phone after historic win | ABC News",
             "secondDuration": 43,
@@ -31,8 +25,14 @@
             "title": "Trump defends Bill O'Reilly amid sexual harassment scandal",
             "secondDuration": 399,
             "group": "group_7"
+        },
+        {
+            "videoId": "taTGZcInpDw",
+            "title": "20/20 Mar 1 Pt 1: No leads three days into search for Sarah Stern",
+            "secondDuration": 442,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nB2AkKySDUc",
-            "title": "Watch NBC News NOW Live - October 5",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pb47AXrMm5c",
             "title": "Supreme Court Denies Request To Block Texas Abortion Law",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "A Year In Entertainment: 2014 Recap | NBC News",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "KZtCNLZnhO4",
+            "title": "CDC Director Dr. Robert Redfield Testifies Before House | NBC News (Live Stream Recording)",
+            "secondDuration": 10208,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

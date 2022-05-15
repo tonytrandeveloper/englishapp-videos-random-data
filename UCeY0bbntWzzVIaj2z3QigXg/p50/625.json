@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "L8Nwfnoc8v8",
-            "title": "CIA Director Mike Pompeo Shares The View Of America's Security From Langley (Full) | NBC News",
-            "secondDuration": 3484,
-            "group": "group_7"
-        },
-        {
             "videoId": "k2Nktx18lSk",
             "title": "‘Morning Joe’ Hosts: White House Tried To Leverage Tabloid Story Against Us | NBC Nightly News",
             "secondDuration": 145,
@@ -301,8 +295,14 @@
             "title": "How The Pandemic Highlights The Connection Between Health And Environment",
             "secondDuration": 716,
             "group": "group_7"
+        },
+        {
+            "videoId": "TpI8M2h_Dgk",
+            "title": "Sen. Kamala Harris Stresses 'Importance Of Voting' For Her Opening Remarks At The DNC | NBC News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

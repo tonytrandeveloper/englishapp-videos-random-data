@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_ZwCN2S1ygw",
-            "title": "Donald Trump Speaks at Rolling Thunder Veterans' Event",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "pOReVy2QXRA",
             "title": "Inmate Executed in Georgia",
             "secondDuration": 31,
@@ -61,8 +55,14 @@
             "title": "Spain Sunset, Washington, D.C., and COVID 19: World in Photos, Dec. 7",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zah_H4XNr8E",
+            "title": "Tragic death of Kobe Bryant: 1 year later",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

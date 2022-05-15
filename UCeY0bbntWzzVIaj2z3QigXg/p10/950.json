@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tN_KjzGRA3w",
-            "title": "Video Shows Lieutenant Mistakenly Shoot His Own Undercover Officer | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "Fxj5K9WLzKg",
             "title": "'Get Out Of My Pub!: Anti-Lockdown Pub Landlord Confronts U.K. Labour Party Leader | NBC News NOW",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "'American Sniper' Trial Details Released: Why The Jury Convicted | NBC Nightly News",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "UeAkKjTWxXA",
+            "title": "Gunman Shot by Secret Service Near White House | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

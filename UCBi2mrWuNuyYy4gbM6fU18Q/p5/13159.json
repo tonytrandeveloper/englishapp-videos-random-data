@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2xu3rfmG7cg",
-            "title": "'The Long Road Home' with the soldiers and families of Black Sunday",
-            "secondDuration": 375,
-            "group": "group_7"
-        },
-        {
             "videoId": "0DbcCyFq_hI",
             "title": "Marvel Comics' 'Darth Vader': Inside 'Star Wars' comic book series' 5th issue",
             "secondDuration": 2186,
@@ -31,8 +25,14 @@
             "title": "10 people taken to hospitals after severe turbulence on flight into Philadelphia",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "rxtJfgTN0Vo",
+            "title": "Scientists Await 'Baby Dragon' Hatchlings in Slovenian Cave",
+            "secondDuration": 56,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

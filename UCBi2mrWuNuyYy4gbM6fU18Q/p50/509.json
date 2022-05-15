@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "OPHzAqFKhkM",
-            "title": "People Magazine's Most Beautiful Woman Revealed",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "eAuTVHtIvZQ",
             "title": "Interview With Gen. Ray Odierno",
             "secondDuration": 582,
@@ -301,8 +295,14 @@
             "title": "Tiger Woods in Car Crash",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "iusFkgnzskI",
+            "title": "One World, One Pandemic: How South America is fighting COVID-19",
+            "secondDuration": 340,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

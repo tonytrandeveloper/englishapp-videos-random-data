@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ykWRon781HM",
-            "title": "Makeup Hoarders: Top 5 Beauty Essentials",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "9rdsY97MUfc",
             "title": "Golden Globes 2016: Hottest Looks and Fashion Trends",
             "secondDuration": 296,
@@ -301,8 +295,14 @@
             "title": "Vice Presidential Debate 2012: Joe Biden Hits Romney on 47 Percent",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "k_qFYJKxSJU",
+            "title": "GOP Roll Call: Mitt Romney Wins Nomination",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

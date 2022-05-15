@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "j7l9kFbw_zY",
-            "title": "Florida Sheriff David Shoar: Flooding Is 'Worst-Case Scenario' | NBC News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "8lLKc6rHKpM",
             "title": "California Wildfire Traps Hundreds In National Forest | NBC Nightly News",
             "secondDuration": 119,
@@ -301,8 +295,14 @@
             "title": "California’s Overflowing Rivers: At Least 19 Dead This Year Alone | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "xYteFN6akm8",
+            "title": "'Serial' Podcast's Adnan Syed Has Murder Conviction Reinstated | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

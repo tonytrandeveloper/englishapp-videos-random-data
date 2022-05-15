@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jqcWxLg4L-0",
-            "title": "ABC News Live Update: Dr. Anthony Fauci receives Moderna’s COVID-19 vaccine",
-            "secondDuration": 825,
-            "group": "group_7"
-        },
-        {
             "videoId": "_FMLn1eRqkU",
             "title": "ABC News Prime: George Floyd remembered; Police reform bill negotiations; Ohio's vaccine incentives",
             "secondDuration": 5202,
@@ -121,8 +115,14 @@
             "title": "17-year-old becomes youngest to reportedly die from vaping | ABC News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "X3vK5qVNOWw",
+            "title": "Malala Yousafzai Speaks Out",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

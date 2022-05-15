@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cD1cg12oSWI",
-            "title": "Biden faces critical issues at home after 1st foreign trip | ABC News",
-            "secondDuration": 257,
-            "group": "group_7"
-        },
-        {
             "videoId": "LNN3V-Hnh6Q",
             "title": "Maria Menounos Engaged to Boyfriend of 19 Years",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "Elephant Crashes Party on Safari",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "zJbH80wMAww",
+            "title": "Finding Flight 370: More Pings Heard in the Indian Ocean",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

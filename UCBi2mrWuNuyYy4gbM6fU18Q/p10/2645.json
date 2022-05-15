@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hEm5NC_8cT0",
-            "title": "Orlando Shooter Calls With Police Released",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "XRl_DIjMFAI",
             "title": "Wildfire scorches land near Los Angeles l ABC News",
             "secondDuration": 200,
@@ -61,8 +55,14 @@
             "title": "Steve Harvey Breaks Down Stepfamilies",
             "secondDuration": 645,
             "group": "group_7"
+        },
+        {
+            "videoId": "SbSrJtU-SCE",
+            "title": "President Donald Trump ays US will recognize Jerusalem as Israel's capital: Special Report",
+            "secondDuration": 2883,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yVfs5v8a1ds",
-            "title": "Pandemic causing an urban exodus",
-            "secondDuration": 238,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pue0STLxACY",
             "title": "Prescription Pot Is Power of State",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Dallas lawyer fired after argument with Uber driver",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "NW9iwS3rTvo",
+            "title": "Drug Testing for Middle Schoolers",
+            "secondDuration": 309,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

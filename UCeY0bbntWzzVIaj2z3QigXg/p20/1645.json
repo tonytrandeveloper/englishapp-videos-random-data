@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "C_Yoznn6U2Y",
-            "title": "NBC Nightly News Broadcast (Full) - May 5th, 2021 | NBC Nightly News",
-            "secondDuration": 1280,
-            "group": "group_7"
-        },
-        {
             "videoId": "BB2VcyMDtOE",
             "title": "Doorbell Video Shows Amazon Delivery Driver Praying For Baby At Risk Of COVID-19 | NBC Nightly News",
             "secondDuration": 74,
@@ -121,8 +115,14 @@
             "title": "Trump Supports Pandemic Protesters: 'I'm With Everybody' | NBC News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "lTprYLtE3ZA",
+            "title": "Defense Secretary Jim Mattis, Joint Chief Joe Dunford Testify At House Hearing | NBC News",
+            "secondDuration": 15015,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

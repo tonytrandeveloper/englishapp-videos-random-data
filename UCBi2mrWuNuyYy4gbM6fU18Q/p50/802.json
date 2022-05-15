@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "icrCWJoAmyo",
-            "title": "FBI Searches for Clues About DC Navy Yard Gunman",
-            "secondDuration": 490,
-            "group": "group_7"
-        },
-        {
             "videoId": "vdgizcWttJg",
             "title": "Details emerge as first accuser testifies in Ghislaine Maxwell trial",
             "secondDuration": 275,
@@ -301,8 +295,14 @@
             "title": "Trump's Plans First 100 Days in Office",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "kALI2Dan1dU",
+            "title": "Florida sees record hospitalizations as CDC sheds light on delta variant",
+            "secondDuration": 541,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

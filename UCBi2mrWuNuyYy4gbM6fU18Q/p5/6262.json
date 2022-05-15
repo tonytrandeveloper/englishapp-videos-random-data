@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NsPYYoL0vTw",
-            "title": "Paul Ryan Willing to Run for US House Speaker  | ABC News",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "tYd5W7MiNEk",
             "title": "End It Like Beckham",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "President Obama Reacts to Mass Shooting in San Bernardino",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "BEGPqpEGodI",
+            "title": "Twin Engine Plane Crashes Into Parking Lot",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

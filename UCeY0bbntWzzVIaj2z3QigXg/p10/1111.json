@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iIiw_WBfmPI",
-            "title": "Nightly News Full Broadcast - October 20th",
-            "secondDuration": 1286,
-            "group": "group_7"
-        },
-        {
             "videoId": "_uBZetRxygY",
             "title": "Inside The Rise Of Qanon-Affiliated Candidates For Congress | NBC News NOW",
             "secondDuration": 397,
@@ -61,8 +55,14 @@
             "title": "High School Seniors Apply For College Amid Pandemic | NBC News NOW",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "jg-uq9ig0cs",
+            "title": "The Evolution of Hillary Clinton, According To SNL | NBC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

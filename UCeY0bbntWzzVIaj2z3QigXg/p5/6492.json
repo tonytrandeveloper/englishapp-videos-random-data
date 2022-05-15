@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eNu8D9cdmcw",
-            "title": "Leon: \"For student success, it takes...\"",
-            "secondDuration": 10,
-            "group": "group_7"
-        },
-        {
             "videoId": "HL0rBrUWUNw",
             "title": "Britain's Queen Elizabeth Says Her Covid Vaccination Shot Was Painless | NBC News NOW",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "Coronavirus Outbreak: States Shutdown Restaurants And Bars To Slow Spread | NBC Nightly News",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "C2N7ObmgGbw",
+            "title": "'Now Is The Moment To Get Brexit Done': U.K. Prime Minister Hails E.U. Divorce Deal | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

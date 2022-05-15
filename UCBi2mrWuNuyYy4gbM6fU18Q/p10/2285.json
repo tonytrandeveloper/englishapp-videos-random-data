@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FbHn0Cqh_-k",
-            "title": "The Briefing Room | ABC News",
-            "secondDuration": 1046,
-            "group": "group_7"
-        },
-        {
             "videoId": "UzkZIRiZfRs",
             "title": "Republican National Convention 2012: Mitt Romney's 'Preview' of RNC Speech",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "Mitt Romney Pressured to Reveal Past Tax Returns",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "ytT2yQI2QUk",
+            "title": "Ebola drugs shows promise against COVID-19 | WNT",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

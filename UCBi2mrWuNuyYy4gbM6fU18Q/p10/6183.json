@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aGBalYvDrnA",
-            "title": "Sales of American-made Airstream RVs reach new heights",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZypttEbMx_s",
             "title": "Can Republicans Recover After Big Loss to President Obama?",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Department of Defense Seeks Space at Trump Tower",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "r-4sRo1wvEg",
+            "title": "The Conversation: Third World America",
+            "secondDuration": 282,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

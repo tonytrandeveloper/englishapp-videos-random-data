@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0x0xbQo7skY",
-            "title": "LIVE: Biden Delivers Infrastructure Remarks in Pittsburgh After Bridge Collapses in City | NBC News",
-            "secondDuration": 2286,
-            "group": "group_7"
-        },
-        {
             "videoId": "q3D7VG7sEmQ",
             "title": "Mental Health Professionals Working Overtime And Beyond During Pandemic | NBC News NOW",
             "secondDuration": 553,
@@ -31,8 +25,14 @@
             "title": "Polling Shows Demand For Covid Vaccine Lower Among Conservatives | NBC News NOW",
             "secondDuration": 245,
             "group": "group_7"
+        },
+        {
+            "videoId": "L5EHxsuPSl8",
+            "title": "Trump Speaks With Governors From FEMA HQ On Coronavirus Response | NBC News (Live Stream Recording)",
+            "secondDuration": 4086,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

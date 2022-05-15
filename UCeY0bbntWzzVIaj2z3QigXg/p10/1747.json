@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fOEcUiZg7Tk",
-            "title": "Kellyanne Conway Defends Refugee Ban, Cites False ‘Bowling Green Massacre’ | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "1TfUreYrAPA",
             "title": "President Donald Trump Wants Health Care Bill 'That Has Heart in It' | NBC News",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Inspiring America: From Homeless To College Heavyweight Wrestler | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "9rYVdNC1zhg",
+            "title": "D.C. Mayor Muriel Bowser Calls Police Response To Capitol Riot A ‘Failure’ | NBC News NOW",
+            "secondDuration": 395,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

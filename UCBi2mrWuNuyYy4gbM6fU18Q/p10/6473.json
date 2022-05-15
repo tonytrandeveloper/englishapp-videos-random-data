@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Aj7dJEAZxKg",
-            "title": "Family Fitness Challenge",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "w629aHj_7Us",
             "title": "2nd major retailer announces action on gun control",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "Queer teen activist fights for climate justice and LGBTQ inclusion",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "jMiewX97mWY",
+            "title": "Derek Chauvin behind bars in Minnesota max security prison | WNT",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

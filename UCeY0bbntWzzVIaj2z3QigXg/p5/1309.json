@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XzWEmZdbAmU",
-            "title": "This Organization Is Turning Drawings Into A Social Pastime | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "YmcQx1e0DoI",
             "title": "Seven-Year-Old Bana Alabed Tweets From War-Torn Aleppo | NBC News",
             "secondDuration": 75,
@@ -31,8 +25,14 @@
             "title": "Panel: 'Very Easy' To Create Distrust In Elections (Full) | Meet The Press | NBC News",
             "secondDuration": 657,
             "group": "group_7"
+        },
+        {
+            "videoId": "WFyHUdfmyVk",
+            "title": "How Hard-Hit Navajo Nation Is Flattening Its Coronavirus Curve | NBC Nightly News",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

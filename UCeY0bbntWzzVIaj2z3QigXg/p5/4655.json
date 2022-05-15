@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4EXLAhoTmVo",
-            "title": "NOW Tonight With Joshua Johnson Full Episode - Jan. 13 | NBC News NOW",
-            "secondDuration": 2981,
-            "group": "group_7"
-        },
-        {
             "videoId": "3sba4h85WkM",
             "title": "Michigan Sees Surge In Mail-In Ballots For State Primary | NBC News NOW",
             "secondDuration": 455,
@@ -31,8 +25,14 @@
             "title": "Iran Warns Against U.S. Withdrawal From Nuclear Deal | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "odOeFtN8e0U",
+            "title": "University Of Iowa Cataloging 4,000 Tiny Literary Jewels | NBC Nightly News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

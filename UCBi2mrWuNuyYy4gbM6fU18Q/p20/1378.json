@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "e98W7vP3Ib8",
-            "title": "Oscar Nominations 2017 Live (FULL LIST) | ABC News",
-            "secondDuration": 1071,
-            "group": "group_7"
-        },
-        {
             "videoId": "OsAl0Qp1rVM",
             "title": "Brooklyn Center police chief says shooting of Daunte Wright was accidental",
             "secondDuration": 424,
@@ -121,8 +115,14 @@
             "title": "GOP representative on Liz Cheney’s ouster: ‘Every party has divergent views’",
             "secondDuration": 400,
             "group": "group_7"
+        },
+        {
+            "videoId": "2SCHLQR8FLY",
+            "title": "Colonial Pipeline restarts operations, gas prices spike | WNT",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

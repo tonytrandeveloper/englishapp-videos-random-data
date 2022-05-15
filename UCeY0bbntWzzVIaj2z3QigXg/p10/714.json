@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YsMp5biWltQ",
-            "title": "One Quick Hack To Defrost Your Windshield | Better | NBC News",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "ijZciOVEjH4",
             "title": "What Is Quantum Computing? | NBC News Now",
             "secondDuration": 377,
@@ -61,8 +55,14 @@
             "title": "Senate Group Working On Health Care Has No Women | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "XInKfVKHXU0",
+            "title": "Live: Trump Holds News Conference With President Of Poland | NBC News",
+            "secondDuration": 2250,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

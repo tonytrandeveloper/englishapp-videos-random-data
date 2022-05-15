@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I0YqVKArOao",
-            "title": "Former NBA star Dwyane Wade on his journey, building a legacy",
-            "secondDuration": 467,
-            "group": "group_7"
-        },
-        {
             "videoId": "1XTLhL9Sa38",
             "title": "CEOs of major US airlines face tough questions on Capitol Hill",
             "secondDuration": 308,
@@ -31,8 +25,14 @@
             "title": "Donald Trump to be Called to Testify About His 'University'",
             "secondDuration": 28,
             "group": "group_7"
+        },
+        {
+            "videoId": "CwnXH1LOMoo",
+            "title": "Dan Wheldon, Indy 500 Winner, Dies; Crash Video Shows Multiple Cars on Fire",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

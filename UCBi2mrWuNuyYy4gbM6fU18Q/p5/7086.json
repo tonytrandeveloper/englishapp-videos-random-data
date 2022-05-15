@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XD97XWu4x8s",
-            "title": "WEBCAST: Suicide Bombing in Afghanistan",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "nmjibMUP3BE",
             "title": "New Yorkers Take on the Blizzard That Wasn’t",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Mel Gibson in Custody Battle With Ex",
             "secondDuration": 415,
             "group": "group_7"
+        },
+        {
+            "videoId": "CRgxzgYsW0E",
+            "title": "US employers added 327,000 jobs in February",
+            "secondDuration": 307,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

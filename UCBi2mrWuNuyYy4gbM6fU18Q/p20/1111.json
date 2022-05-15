@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NI21xI7rKjQ",
-            "title": "Wounded Fort Hood Soldier Speaks Out",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "h35TTsjPfGo",
             "title": "Minneapolis holds celebration of George Floyd’s life",
             "secondDuration": 505,
@@ -121,8 +115,14 @@
             "title": "Football Coach Allegedly Hits Player in Youth Football Game: Caught on Tape",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "WSdjpkoKhfY",
+            "title": "Welcome, Archie Harrison Mountbatten-Windsor!",
+            "secondDuration": 396,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

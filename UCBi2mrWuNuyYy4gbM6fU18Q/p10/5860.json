@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iYPmO-mwLOQ",
-            "title": "Bennett: 'I Don't Blame Speaker Pelosi'",
-            "secondDuration": 518,
-            "group": "group_7"
-        },
-        {
             "videoId": "i10TejjVUcQ",
             "title": "World in Photos 06/25/19: Michael Jackson tribute, rocket launch",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Top Line: Obama's State Dinner",
             "secondDuration": 596,
             "group": "group_7"
+        },
+        {
+            "videoId": "07WFnsag0Yg",
+            "title": "3.9 million acres burned in California wildfires",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

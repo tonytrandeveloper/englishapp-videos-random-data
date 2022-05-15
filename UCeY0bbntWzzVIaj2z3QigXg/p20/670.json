@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "u96wctwwHls",
-            "title": "How FEMA's Search And Rescue Task Force Prepares For A Deadly ‘What If’ Scenario | NBC Nightly News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "D_5dalBH4GU",
             "title": "​​20 Years Later, Medical Examiner’s Office Still Committed To Identifying 9/11 Victims",
             "secondDuration": 271,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump On Notre Dame Fire: 'A Terrible Sight To Behold' | NBC News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "-kiT122KG5Q",
+            "title": "Fauci: New Treatment Plan Will Help Prepare Against Future Pandemics",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

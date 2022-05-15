@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "P98OfA10X60",
-            "title": "Discovering You: Sosena Wood  | NBC Learn",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "XxkZ2wyd5Ps",
             "title": "This Morning’s Top Headlines – Jan. 12 | Morning News NOW",
             "secondDuration": 1610,
@@ -31,8 +25,14 @@
             "title": "Children At Risk: Kids And Sedation At The Dentist’s Office | NBC News",
             "secondDuration": 690,
             "group": "group_7"
+        },
+        {
+            "videoId": "kBjAdi3v9jg",
+            "title": "Hillary Clinton Takes A Ride On The NYC Subway | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

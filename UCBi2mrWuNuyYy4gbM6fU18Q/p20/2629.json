@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "60tnvkpnSjM",
-            "title": "'Up' For The Challenge",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "hlBN6XgJxUM",
             "title": "Does Your Dog Really Like You?",
             "secondDuration": 223,
@@ -121,8 +115,14 @@
             "title": "What It Feels Like to Be a Gamergate Target",
             "secondDuration": 498,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jp10vqY9mNw",
+            "title": "State of the race: Where do the campaigns go from here?",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

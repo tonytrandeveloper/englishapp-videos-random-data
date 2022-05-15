@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MPhHuOimgNY",
-            "title": "Tornadoes and Storms Kill 1 in Mississippi, 2 in Louisiana",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "dnrKfehbu7U",
             "title": "Sturgis, SD motorcycle rally renews fears of a potential COVID super-spreader event",
             "secondDuration": 352,
@@ -31,8 +25,14 @@
             "title": "White House extends COVID-19 guidelines to April 30th",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "Knf8j55CWD4",
+            "title": "Vaccinating US won't finish until fall, herd immunity could come sooner: Fauci",
+            "secondDuration": 740,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

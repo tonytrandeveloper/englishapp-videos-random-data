@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GskqgNXzPF4",
-            "title": "Harry And Meghan Take Part In Final Royal Events | NBC Nightly News",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "rjT8sJNLYbg",
             "title": "FDA Panel Meets To Vote On Moderna Covid Vaccine Authorization | NBC News",
             "secondDuration": 30000,
@@ -31,8 +25,14 @@
             "title": "Secretary Kevin McAleenan: 'No Intent' To Hold Detained Migrant Families Indefinitely | NBC News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "oOgEQpqg1mk",
+            "title": "Facebook Bans QAnon Accounts Across Platforms | NBC News NOW",
+            "secondDuration": 577,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-Qqph3KkSd4",
-            "title": "WEBCAST: Time-Lapse Weight Loss",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "8I4oN9-J0ew",
             "title": "The Perfect Liar l 20/20 l PART 4",
             "secondDuration": 394,
@@ -31,8 +25,14 @@
             "title": "Tea Party Candidate Talks About Political Rhetoric",
             "secondDuration": 346,
             "group": "group_7"
+        },
+        {
+            "videoId": "X1EnHhaHsIU",
+            "title": "Clemson Graduate Stuck in Iran, Barred From Entering the US",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

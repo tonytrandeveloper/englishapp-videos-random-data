@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wQ_RxkWxaA8",
-            "title": "Interview With Queen Rania",
-            "secondDuration": 461,
-            "group": "group_7"
-        },
-        {
             "videoId": "MS-PSofurA8",
             "title": "Texas Governor Rick Perry to Seek Rebulican Nomination in 2012 Presidential Race",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Fallout from Trump breaking quarantine for drive-by outside hospital l GMA",
             "secondDuration": 388,
             "group": "group_7"
+        },
+        {
+            "videoId": "NEIkNZvDFnU",
+            "title": "Alleged newsroom shooter sued Capital Gazette for defamation",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lMZHbuafj8A",
-            "title": "'Jimmy Kimmel Live' Kids Get Halloween Revenge",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "NzcJPVVt7zE",
             "title": "'Star Wars' | J.J. Abrams Discusses Rey's Parents",
             "secondDuration": 204,
@@ -121,8 +115,14 @@
             "title": "Pregnancy and Autism Threat: The Flu Factor",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "mg2mBIOqkTY",
+            "title": "Deadly twin bomb attacks in Syria kill at least 40 people",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

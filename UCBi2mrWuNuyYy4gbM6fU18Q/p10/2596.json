@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qbiLzky8CO8",
-            "title": "Winter Storm Slams Southern U.S.",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "puFCuMac0Vk",
             "title": "Gorilla Carries 3-Year-Old Boy to Safety in 1996 Incident",
             "secondDuration": 36,
@@ -61,8 +55,14 @@
             "title": "The Long and Complicated Task of Finding Flight 370",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "VW2ISRV0jRg",
+            "title": "Sofia Vergara Files $15 Million Lawsuit Against Beauty Brand",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wc2TwOVFF7s",
-            "title": "Second NYPD Officer Dies After Domestic Disturbance Call",
-            "secondDuration": 291,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y68wB4dOWl4",
             "title": "Supreme Court Hears Arguments On Power Of Public Employee Unions | NBC Nightly News",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Full BLM Co-Founder: 'Defund The Police' Means 'Invest In The Resources That Our Communities Need'",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "I-O4oTD8jWM",
+            "title": "K-Cup Inventor Compares Invention to 'Cigarettes for Coffee' | NBC Nightly News",
+            "secondDuration": 35,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

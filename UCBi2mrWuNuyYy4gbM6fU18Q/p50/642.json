@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "K_OQFah6Gog",
-            "title": "Scott Walker Survives Wisconsin Recall Election",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "OwR2yWKHzBM",
             "title": "Supersecret Savings Tips: Makeup at Drugstore Prices",
             "secondDuration": 217,
@@ -301,8 +295,14 @@
             "title": "A behind the scenes look at New England Patriots quarterback Tom Brady",
             "secondDuration": 502,
             "group": "group_7"
+        },
+        {
+            "videoId": "2f1cgU4r9uI",
+            "title": "Extreme Winter Weather: Blizzard Conditions Blanket Northeast",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

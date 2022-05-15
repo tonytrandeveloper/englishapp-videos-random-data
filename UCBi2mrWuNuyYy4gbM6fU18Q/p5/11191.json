@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nARvabBzBh4",
-            "title": "Biden to announce vaccine requirements for federal workers",
-            "secondDuration": 319,
-            "group": "group_7"
-        },
-        {
             "videoId": "GmGBVHmXflA",
             "title": "Freezing Temperatures Grip the Country",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Hotel Confidential: What You Didn't Know",
             "secondDuration": 294,
             "group": "group_7"
+        },
+        {
+            "videoId": "VYucah-Tjxo",
+            "title": "Deadly winter storm barreling across the country",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

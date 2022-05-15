@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vaRo3C4llt4",
-            "title": "White House Covid-19 Response Briefing | NBC News",
-            "secondDuration": 1818,
-            "group": "group_7"
-        },
-        {
             "videoId": "hJ5hjLz_U-w",
             "title": "SpaceX Dragon cargo craft launches to ISS",
             "secondDuration": 1244,
@@ -61,8 +55,14 @@
             "title": "Myanmar Military Takes Control Of Country In Coup, Leader Taken Into Custody | NBC News NOW",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "8aRgUVCxn-I",
+            "title": "British Prime Minister Theresa May Welcomes U.S. Support Over Suspected Russia Attack | NBC News",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

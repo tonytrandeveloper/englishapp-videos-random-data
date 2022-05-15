@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sD6sSbEVz7A",
-            "title": "Weinstein found guilty on 2 counts, not guilty on 3 others",
-            "secondDuration": 630,
-            "group": "group_7"
-        },
-        {
             "videoId": "heWD_7VpAD4",
             "title": "Donald Trump Says Hillary Clinton Has a 'Major Problem'",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Large waves crash along California coast amid tsunami advisory",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "gyhRnN4HKXY",
+            "title": "Uber CEO apologizes for newly released video",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fc8r7xW79QQ",
-            "title": "Diver frees starfish from sunglasses",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "I84qaiR4onk",
             "title": "Essential workers around the country are going to great lengths for the rest of us",
             "secondDuration": 265,
@@ -121,8 +115,14 @@
             "title": "White House Monitoring Gulf Oil Leak",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "2lTnOBYMxMM",
+            "title": "Tom Steyer ends his campaign for president l ABC News",
+            "secondDuration": 305,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

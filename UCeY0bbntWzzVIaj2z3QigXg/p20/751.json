@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "S6Z6F3VOJDM",
-            "title": "Dramatic Landslide Sweeps Away Homes In Bolivia’s Capital | NBC News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "zVpuOHeeMiU",
             "title": "Full Sanford: Talk Of Presidential Challenge Began The Day I Lost My Primary | Meet The Press",
             "secondDuration": 398,
@@ -121,8 +115,14 @@
             "title": "Decision 2016   Republican Convention",
             "secondDuration": 3634,
             "group": "group_7"
+        },
+        {
+            "videoId": "hyUED0mDPP8",
+            "title": "'We Have To Be Ready To Pivot': Colleges Develop Safety Plans For On-Campus Learning | NBC News",
+            "secondDuration": 312,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

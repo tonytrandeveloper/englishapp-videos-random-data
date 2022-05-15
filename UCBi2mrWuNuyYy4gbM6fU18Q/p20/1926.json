@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tUuNkGrKpsk",
-            "title": "By the Numbers: Women burned out in workplace",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZmfQgrVhLRU",
             "title": "360° New Years Rocking Eve '17 in Times Square",
             "secondDuration": 26005,
@@ -121,8 +115,14 @@
             "title": "NASA releases new images from Mars",
             "secondDuration": 371,
             "group": "group_7"
+        },
+        {
+            "videoId": "rdpFhptl04Q",
+            "title": "All-New 20/20 Event Special | Friday at 9/8c on ABC | ABC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

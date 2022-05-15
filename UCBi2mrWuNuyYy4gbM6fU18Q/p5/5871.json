@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XumT5RmsF8o",
-            "title": "Tropical Storm Beta expected to hit Texas l GMA",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "ApuqFI6FlJA",
             "title": "Top Line: Mike Allen on Obama's Challenges Ahead",
             "secondDuration": 387,
@@ -31,8 +25,14 @@
             "title": "New clue in the near-fatal poisoning of Russian opposition leader, Alexey Navalny",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "by-VugTIWAU",
+            "title": "High School Football Manager Suits Up for First Time",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zl9gZgyMbDE",
-            "title": "Morning News NOW Full Broadcast - August 6",
-            "secondDuration": 1728,
-            "group": "group_7"
-        },
-        {
             "videoId": "ConDkqI7r0Q",
             "title": "Schiff Questions Taylor On Overheard Trump Sondland Call Discussing 'Investigations' | NBC News",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Texas Bomb Squad Makes Easter Egg Hunt For Visually Impaired Kids | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "7Iq7xRgw4ow",
+            "title": "Hawaii’s Kilauea Volcano: Eruptions, Geysers, And Lava Streams Flowing Into The Ocean | NBC News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

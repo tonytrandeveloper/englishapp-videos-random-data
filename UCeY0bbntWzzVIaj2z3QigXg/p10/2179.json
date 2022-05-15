@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NPqv_uHYfC4",
-            "title": "Librarian Uses Creative Method Of Getting Books To Kids In Quarantine | Nightly News: Kids Edition",
-            "secondDuration": 680,
-            "group": "group_7"
-        },
-        {
             "videoId": "a05AYQLlECs",
             "title": "Trump Holds News Conference At The White House| NBC News",
             "secondDuration": 1715,
@@ -61,8 +55,14 @@
             "title": "The Evolving Message Around Mask Mandates In The U.S.",
             "secondDuration": 320,
             "group": "group_7"
+        },
+        {
+            "videoId": "vC76lAT87F0",
+            "title": "Nightly News Full Broadcast - November 4th",
+            "secondDuration": 1123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

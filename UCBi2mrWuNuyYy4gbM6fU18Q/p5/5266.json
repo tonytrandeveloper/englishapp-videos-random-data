@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ue4l8dLoyxQ",
-            "title": "Ring, Amazon sued over string of hacked security cameras | ABC News",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "grSckavQ1fk",
             "title": "How Glock Became America's Gun",
             "secondDuration": 369,
@@ -31,8 +25,14 @@
             "title": "Uber and Lyft passengers live streamed without their knowledge",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "rj5uNLI2REI",
+            "title": "Kate Middleton's First Royal Portrait Revealed at National Portrait Gallery in London",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

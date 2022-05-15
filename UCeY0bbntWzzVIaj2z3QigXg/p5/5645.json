@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oNaPS0PaBHY",
-            "title": "Senate Votes To Advance Bipartisan Infrastructure Bill",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "RQ2igTcJrlA",
             "title": "Trump Holds First In-Person Event Since Coronavirus Diagnosis | NBC News",
             "secondDuration": 1240,
@@ -31,8 +25,14 @@
             "title": "Biden Pledges To Tackle Supply Chain Crisis, Inflation ‘Head On’",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "PZNRLaJmmbo",
+            "title": "LIVE: Rep. Kevin McCarthy Holds Weekly Briefing On Capitol Hill | NBC News",
+            "secondDuration": 1651,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

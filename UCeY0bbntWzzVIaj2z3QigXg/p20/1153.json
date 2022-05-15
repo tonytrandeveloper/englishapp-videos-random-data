@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3lFxHBga03A",
-            "title": "Justin Trudeau Attends Broadway On International Friendship With Ivanka Trump | NBC Nightly News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "MDX0DYVRZnk",
             "title": "Why REI Says It’s Closing Its Stores on Black Friday | NBC Nightly News",
             "secondDuration": 138,
@@ -121,8 +115,14 @@
             "title": "Trump Deploys National Guard To Help States Respond To The Coronavirus | NBC News",
             "secondDuration": 318,
             "group": "group_7"
+        },
+        {
+            "videoId": "nsWmzyYaMew",
+            "title": "State Department, Pentagon Briefings Amid Taliban Takeover Of Afghanistan",
+            "secondDuration": 2626,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

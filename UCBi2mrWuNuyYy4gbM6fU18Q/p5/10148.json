@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B7r6AqimkGE",
-            "title": "Anti-vax sentiment slows Europe’s vaccine rollout",
-            "secondDuration": 307,
-            "group": "group_7"
-        },
-        {
             "videoId": "l8ZT5AaVp4k",
             "title": "Siblings Accused of Killing Stepfather",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "'This Week': Super Bowl Security",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "GwLJltThwlA",
+            "title": "COVID-19 winter surge driven by delta variant, concerns grow over omicron l WNT",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

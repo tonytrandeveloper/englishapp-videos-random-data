@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sfp-coYCuM0",
-            "title": "Cast of live-action 'Beauty and the Beast' dish on playing classic characters | ABC News",
-            "secondDuration": 422,
-            "group": "group_7"
-        },
-        {
             "videoId": "8qc1fyMrg-k",
             "title": "Obama Full Speech Honoring Veterans Day 2016",
             "secondDuration": 714,
@@ -61,8 +55,14 @@
             "title": "Charlotte Elizabeth Diana: Prince William and Kate Middleton Name Royal Daughter",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "BRtHusOji00",
+            "title": "President Obama Submits Plan To Close Guantanamo Bay",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

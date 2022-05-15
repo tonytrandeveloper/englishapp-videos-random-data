@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DqERLKRS8R4",
-            "title": "Baltimore's Mayor Mixed Messages | NBC News",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "mRdUy0n5zNY",
             "title": "Woman Trapped Under 1,500 Pound Boulder Rescued | NBC News",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "DNC Election Confessions: Bernie Fans Come To Terms | NBC News",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "HkIamsLggRs",
+            "title": "Commemorations To Mark One Year Since George Floyd’s Death",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

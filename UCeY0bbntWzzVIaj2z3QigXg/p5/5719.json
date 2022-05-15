@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vq9qfXVMOGE",
-            "title": "First Train Arrives In Hoboken Since September Crash | NBC News",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "OYT1GyNDedY",
             "title": "'Incompetence': Schumer Criticizes Trump's Handling Of Coronavirus | NBC News",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Mark Zuckerberg Comments On Cleveland Death Shared Via Facebook | NBC News",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "pMTmN36Db0w",
+            "title": "Bernie Sanders On Debate, Data And Hillary Clinton Disagreements | Meet The Press | NBC News",
+            "secondDuration": 431,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

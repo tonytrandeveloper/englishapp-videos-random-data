@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OKFN2D0gtz0",
-            "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3938,
-            "group": "group_7"
-        },
-        {
             "videoId": "el9C_aBY5RI",
             "title": "President Trump To Japan's Prime Minister: Your Economy Will Be Second After Ours, ‘OK?’ | NBC News",
             "secondDuration": 40,
@@ -31,8 +25,14 @@
             "title": "More Victims Come Forward After California Surgeon, Girlfriend Accused Of Rape | NBC Nightly News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "zDF2KTqEfKc",
+            "title": "ISIS Supporter Killed After Stabbing Attack At New Zealand Supermarket",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

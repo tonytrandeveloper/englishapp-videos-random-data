@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rSt4kwJiJ14",
-            "title": "The Defining Images That Moved Us In 2018 | NBC News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "7dEIkrr21C4",
             "title": "NBC Nightly News Full Broadcast - September 17th, 2021",
             "secondDuration": 1270,
@@ -61,8 +55,14 @@
             "title": "Donald Trump's Son In-Law Jared Kushner Named Senior Adviser To The President | NBC Nightly News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "3_d5dEJkswM",
+            "title": "United Flight Makes Emergency Landing After Passengers Fall Ill | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

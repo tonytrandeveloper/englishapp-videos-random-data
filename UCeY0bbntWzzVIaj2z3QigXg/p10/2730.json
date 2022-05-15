@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IxlSYQvGJuY",
-            "title": "London Apartment Building Burns In Massive Fire | NBC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "lBDF8WVqesQ",
             "title": "How Online Radicalization Can Turn Into Violence | NBC News Now",
             "secondDuration": 299,
@@ -61,8 +55,14 @@
             "title": "First Responders Attend Scene Of Stabbing Attack On U.K. Lawmaker",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "D72cCXxzuF8",
+            "title": "American Red Cross Fails To Pay Funds Promised To Many Hurricane Harvey Victims | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8Otzy8IC6xU",
-            "title": "Donald Trump Live-Tweets the DNC",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "naXDMTs6EzI",
             "title": "The Debrief: 2018 Midterms, Trump, Yoga studio shooting | ABC News",
             "secondDuration": 1434,
@@ -31,8 +25,14 @@
             "title": "Senators face health care backlash at town halls",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "oE8jJsV6Iak",
+            "title": "Donald Trump Looks to Stop Ted Cruz's Winning Streak",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

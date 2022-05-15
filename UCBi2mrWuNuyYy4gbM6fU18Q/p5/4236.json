@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NwYm4EaBlts",
-            "title": "ABC News Prime: Sweeping vaccine mandate; Uproar in trial over Arbery's death; Mexico resort panic",
-            "secondDuration": 5325,
-            "group": "group_7"
-        },
-        {
             "videoId": "TKRnbpoD3XQ",
             "title": "Abby Wambach Plays in Final Soccer Match for Team USA",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "Tensions continue to grow with North Korea",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "AEPTwYRD2HE",
+            "title": "CDC releases new guidelines for fully vaccinated people",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

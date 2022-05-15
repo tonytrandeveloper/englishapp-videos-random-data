@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PT6ivm-v-7Q",
-            "title": "New York Amazon warehouse facility unionizes in historic vote",
-            "secondDuration": 291,
-            "group": "group_7"
-        },
-        {
             "videoId": "E40c3pDD9KI",
             "title": "The Conversation: Child Sex Trade in Portland, Ore.",
             "secondDuration": 252,
@@ -31,8 +25,14 @@
             "title": "The life and legacy of George H.W. Bush",
             "secondDuration": 622,
             "group": "group_7"
+        },
+        {
+            "videoId": "32MGH4FNVis",
+            "title": "Pentagon Enlists Teenage 'Geeks' for Cyber War",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

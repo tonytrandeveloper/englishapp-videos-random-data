@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Prq-RZfDO8Y",
-            "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2517,
-            "group": "group_7"
-        },
-        {
             "videoId": "fZJE7p46ubI",
             "title": "This Counter Top Device Could Make Home Brewing Easier And More Compact | Mach | NBC News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "White House Holds Press Briefing: April 9 | NBC News",
             "secondDuration": 3868,
             "group": "group_7"
+        },
+        {
+            "videoId": "VrfrV6lnIao",
+            "title": "Hurricane Elsa Is First of The season, Could Impact Florida Next Week",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

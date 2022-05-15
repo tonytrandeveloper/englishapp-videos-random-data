@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DFJ9_qCfhCc",
-            "title": "What We Learned From Opportunity's Grand Journey Across Mars | Mach | NBC News",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "LR2M5SzJV6Y",
             "title": "N.C. Gov. Roy Cooper Gives Update On Tropical Storm Florence | NBC News",
             "secondDuration": 2089,
@@ -61,8 +55,14 @@
             "title": "Senior Pentagon Officials In Quarantine After Covid-19 Exposure | NBC News NOW",
             "secondDuration": 264,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xz8N5ZwZHXY",
+            "title": "Facebook, Twitter Officials Testify at Senate Hearing on Russia (Full) | NBC News",
+            "secondDuration": 11572,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

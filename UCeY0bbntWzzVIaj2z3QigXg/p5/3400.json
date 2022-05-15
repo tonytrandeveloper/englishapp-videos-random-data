@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CltqA8sHXUQ",
-            "title": "Battle Looms For Trump’s Picks For UN Ambassador And Attorney General | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "MxST8IcJ1aE",
             "title": "Astronomers Discover A New Earth-Like Planet That Could Sustain Life | Mach | NBC News",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Google’s Pixel Buds Let You Translate Up To 40 Languages In Real Time | Mach | NBC News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gb_5w-Iz12w",
+            "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3442,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "1YbuSq3dWjc",
-            "title": "Woody Allen's Adopted Daughter Resurrects Abuse Claim",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "4BfHQXpqqDE",
             "title": "Federal investigation opened into Catholic sex abuse scandal",
             "secondDuration": 160,
@@ -301,8 +295,14 @@
             "title": "West Virginia senator speaks on concerns for Trump’s proposed stimulus plan",
             "secondDuration": 483,
             "group": "group_7"
+        },
+        {
+            "videoId": "dnviB3mWGos",
+            "title": "Trump: Election is 'Rigged'",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

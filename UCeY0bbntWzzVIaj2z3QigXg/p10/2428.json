@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z8Ba6u8xEtU",
-            "title": "Facebook Announces Tools To Stem Fake News, Asks For Users' Help | NBC Nightly News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "40YCtMNGAis",
             "title": "President Trump's Leadership Announcement For Historically Black Colleges & Universities | NBC News",
             "secondDuration": 455,
@@ -61,8 +55,14 @@
             "title": "Doctor Starts Program To Close Gap For Black Organ Transplant Patients",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "AO9avQtsb14",
+            "title": "Wife Reopens Arizona Restaurant As Husband Fights Coronavirus On A Ventilator | NBC News NOW",
+            "secondDuration": 856,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

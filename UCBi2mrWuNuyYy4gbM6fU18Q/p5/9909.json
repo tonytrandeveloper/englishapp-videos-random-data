@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vVove7eQzK4",
-            "title": "Raging Wildfires Burn California",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ypti9LA82Wg",
             "title": "More than 700,000 Ukrainian refugees in Poland",
             "secondDuration": 466,
@@ -31,8 +25,14 @@
             "title": "COVID-19 cases climb in Mexico | ABC News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "YyqRsOPo4Ik",
+            "title": "A Tale of Two Countries: Sweden, Germany take different COVID-19 approaches",
+            "secondDuration": 670,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

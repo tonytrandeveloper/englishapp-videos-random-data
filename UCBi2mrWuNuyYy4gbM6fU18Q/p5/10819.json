@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PPLlRmOpH_Y",
-            "title": "From Good Life to Burning Bed",
-            "secondDuration": 403,
-            "group": "group_7"
-        },
-        {
             "videoId": "-qNjOByduh8",
             "title": "Donald Trump Tweets About Nuclear Weapons, Chicago Violence",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "State of the Union address",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "aEragEKH1Fk",
+            "title": "Inside the unraveling between Trump, Comey",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BqziQsXCqbU",
-            "title": "Becoming Beetlejuice - Behind the Scenes on Broadway",
-            "secondDuration": 276,
-            "group": "group_7"
-        },
-        {
             "videoId": "xvH3cOL6g_k",
             "title": "Kareem Abdul-Jabbar: Building ‘a bridge of understanding’ key to activism",
             "secondDuration": 481,
@@ -31,8 +25,14 @@
             "title": "Red Sox and Dodgers play longest game in World Series history",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "4BLA_YLAN3Q",
+            "title": "Las Vegas prepares to reopen with safety precautions",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

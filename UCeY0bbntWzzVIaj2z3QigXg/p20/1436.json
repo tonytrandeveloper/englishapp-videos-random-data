@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "arIwu52pCak",
-            "title": "Florida Citrus Growers Fight To Save Fruit From Deep Freeze",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "OFYXYTFU5Sk",
             "title": "President Donald Trump Threatens To Shut Down Government Over Immigration | NBC Nightly News",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "JonBenet Ramsey’s Brother Files $750 Million Lawsuit Against CBS | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "5nJATIzhFqM",
+            "title": "Most Annoying Passengers On A Plane | NBC News",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

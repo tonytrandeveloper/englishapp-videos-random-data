@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QvwcQbVqQCQ",
-            "title": "How to discuss the Jan. 6 attack on the Capitol",
-            "secondDuration": 444,
-            "group": "group_7"
-        },
-        {
             "videoId": "sfMlIHrsGxs",
             "title": "Prosecutor: Jodi Arias 'Knew She Was Going to Kill' Ex",
             "secondDuration": 353,
@@ -121,8 +115,14 @@
             "title": "Ben Affleck's Blackjack Blues",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "K0kbgI_YIjU",
+            "title": "Trump calls former FBI director an 'untruthful slime ball'",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

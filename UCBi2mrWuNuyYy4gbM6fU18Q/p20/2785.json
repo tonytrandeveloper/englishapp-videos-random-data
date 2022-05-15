@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CQ6vc5uLZsE",
-            "title": "Manhunt continues for sniper who shot LA deputy | ABC News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "rGNxBrjE-0k",
             "title": "Does Faith Help Bring the Nation Together?",
             "secondDuration": 317,
@@ -121,8 +115,14 @@
             "title": "Cancer Doctor Accused of Trying to Poison Her Lover",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "aEGEnbOndJk",
+            "title": "Feel-good Friday",
+            "secondDuration": 385,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

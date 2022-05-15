@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AS612raddDE",
-            "title": "What to expect on day 8 of Chauvin trial",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "xiiYgomSPEA",
             "title": "Increased police presence in the U.S. after London terror attack",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "Rescue efforts continue after devastating earthquake in Mexico City",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "XcQRQSkqHKY",
+            "title": "Trial begins for former officer involved in raid that killed Breonna Taylor",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

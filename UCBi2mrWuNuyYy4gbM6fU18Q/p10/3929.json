@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZPrdz7qCK_w",
-            "title": "Grosse Pointe Murder:  Bob Bashara Arrested for Hiring Second Hitman",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "32Rb2P4JcLU",
             "title": "Hillary Clinton Emails Released by the State Department",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "JFK: 'The Tide Is Unfavorable'",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "khrHs98DBd0",
+            "title": "US reports highest single-day of COVID-19 deaths | UPDATE",
+            "secondDuration": 365,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2EarGv-LLY8",
-            "title": "'Rust' production halted indefinitely after fatal shooting l GMA",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "CAadElha4s4",
             "title": "The Dancing Man Party",
             "secondDuration": 184,
@@ -61,8 +55,14 @@
             "title": "Prince Harry Starts Making Public Appearances With Girlfriend",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "eQgP9fq96vo",
+            "title": "Auschwitz Anniversary: Survivors Gather In Remembrance",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

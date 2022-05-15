@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mpB1VhSfWoE",
-            "title": "Oscar Pistorius Returns to Court for Reeva Steenkamp Murder Trial",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "0v6gJzI8BIc",
             "title": "Dr. Christine Blasey Ford says she welcomes FBI investigation",
             "secondDuration": 296,
@@ -61,8 +55,14 @@
             "title": "California experiences logjam of coronavirus test results",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "e-I_A8ovL0w",
+            "title": "Not in My Backyard! Gaddafi's Tent Trouble",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bximxPTi-xo",
-            "title": "Researchers discover possible cure for common cold l ABC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "wcacmVe-7y4",
             "title": "FBI Investigates the Release of Provocative Celebrity Photos",
             "secondDuration": 259,
@@ -31,8 +25,14 @@
             "title": "Thanksgiving Day Parade 2011 Balloon Preview",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "FgxP-FcEZ6s",
+            "title": "Police detained a man who tried to breach airport security in Orlando",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RW02r7gy8eM",
-            "title": "Fire causes portion of Atlanta highway to collapse",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "jo0KFMv2Khw",
             "title": "Buffalo Bills fan surprised with tickets to game",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Town Evacuated",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "cTpG8_BsPrc",
+            "title": "Ryan Lochte Apologizes for 'Not Being Candid' About Rio Robbery",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

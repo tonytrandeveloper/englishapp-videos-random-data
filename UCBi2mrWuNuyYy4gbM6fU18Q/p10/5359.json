@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-SRrl0UMHiU",
-            "title": "Jan. 6 was a 'coordinated activity on the part of a lot of people': Thompson | ABC News",
-            "secondDuration": 408,
-            "group": "group_7"
-        },
-        {
             "videoId": "emC3OCSVAoE",
             "title": "Candace Cameron Bure opens up about her faith",
             "secondDuration": 305,
@@ -61,8 +55,14 @@
             "title": "Federal lawsuit accuses police officer of wrongful arrest, excessive force",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "k60_2njrT7E",
+            "title": "George Zimmerman's Parents Speak Out",
+            "secondDuration": 459,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

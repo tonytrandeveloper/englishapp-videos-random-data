@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YDCd8Jn6MZs",
-            "title": "OJ Simpson Says in Testimony 'I Didn't Break Into Anybody's Room'",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "lbIVq0lgTIk",
             "title": "'The View's' Sunny Hostin on what motivated new cold case show, 'Truth About Murder' | Nightline",
             "secondDuration": 376,
@@ -31,8 +25,14 @@
             "title": "New videos prompt school to expand probe into alleged Nazi tributes",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zvy9hCrS5z0",
+            "title": "'Cartel Land' Explores Deadly Consequences of Illegal Drug Trade",
+            "secondDuration": 468,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

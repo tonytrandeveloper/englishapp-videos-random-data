@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X4nRdNTntrg",
-            "title": "Witness to History: The Real Life 'Butler'",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "AfjmsFPZXQA",
             "title": "John Boehner on Republican Convention Goals",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Five Year-Old Boy Genius Destined for Mensa",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "hGO2ZnNDAIY",
+            "title": "Bus hijacking ends in police shootout",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

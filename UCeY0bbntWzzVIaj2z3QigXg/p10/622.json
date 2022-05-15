@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "utL8oW5ZI7Q",
-            "title": "One Injured As Kilauea Volcano Destruction Continues | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "JZNSynMN7mA",
             "title": "Jacinda Arden On Mosque Shooting: ‘This Is One Of New Zealand’s Darkest Days’ | NBC News",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Takes On Ted Cruz's 'New York Values' | NBC News",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "vf33t_TOdPo",
+            "title": "Nine Dead In Waco Biker Gang Shooting | NBC Nightly News",
+            "secondDuration": 34,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

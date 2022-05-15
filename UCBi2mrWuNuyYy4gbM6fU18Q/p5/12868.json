@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "F5-b16chHtY",
-            "title": "Introducing the Safest 2010 Cars",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "02BpQJAKrwE",
             "title": "Grandmother Exonerated After Serving 17 Years in Prison for Murder",
             "secondDuration": 79,
@@ -31,8 +25,14 @@
             "title": "George Stephanopoulos Answers Viewer Questions on 'This Week'; Trivia: What Year Was It?",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "WSLCIkv7xrQ",
+            "title": "George on Health Care Town Hall Backlash",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

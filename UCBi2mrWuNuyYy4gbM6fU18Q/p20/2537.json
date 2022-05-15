@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qcP_YaVZ_ME",
-            "title": "Puerto Rico calls state of emergency after pre-dawn earthquake",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "yct7i9EXWSY",
             "title": "Rep. Don Young lies in state at US Capitol",
             "secondDuration": 114,
@@ -121,8 +115,14 @@
             "title": "'This Week': Super Bowl Security",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "GwLJltThwlA",
+            "title": "COVID-19 winter surge driven by delta variant, concerns grow over omicron l WNT",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

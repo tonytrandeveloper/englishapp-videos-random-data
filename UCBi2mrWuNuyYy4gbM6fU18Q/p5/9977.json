@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L81jbeEAXzA",
-            "title": "Making of the Mates of State video - \"True Love Will Find You in the End\"",
-            "secondDuration": 412,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qkwp7BbueqY",
             "title": "SCOTUS same-sex wedding cake decision: How both sides say they got here today",
             "secondDuration": 547,
@@ -31,8 +25,14 @@
             "title": "ABC News Update: Texas Democrats meet with key senators on voting rights",
             "secondDuration": 1476,
             "group": "group_7"
+        },
+        {
+            "videoId": "tIpaV-SwbQo",
+            "title": "Mental Patient Manhunt Continues",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

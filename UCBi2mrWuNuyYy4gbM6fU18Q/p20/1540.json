@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7xwZCRs3Sqc",
-            "title": "Details of new emergency order from the Department of Homeland Security",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "UVu8FTImLb4",
             "title": "Both sides debate amendments to impeachment trial rules",
             "secondDuration": 283,
@@ -121,8 +115,14 @@
             "title": "Washington Post's Scott Wilson on 'Top Line'",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "VN3nSbdZhvw",
+            "title": "Snow Fort Dangers",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

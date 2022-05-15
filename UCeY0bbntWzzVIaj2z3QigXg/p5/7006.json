@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eb5GKg64KhM",
-            "title": "U.S. Officials: Terrorists May Conceal Bombs In Laptops | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZI2JhMjrLOw",
             "title": "Charleston, Confederate Flag, Supreme Court Cap Historic Week | NBC Nightly News",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Russia On US Relations: We’ll Do ‘Whatever Necessary to Protect Our Interests’ | NBC News",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "nbnW0fKT5Nc",
+            "title": "CDC Director Urges Americans To Continue To Follow Covid Guidelines | NBC News NOW",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

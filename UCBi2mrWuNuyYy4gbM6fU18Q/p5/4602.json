@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ojlMwQyyv5I",
-            "title": "Jake Tapper on Executive Pay Cuts",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "7Je_Voq1L_Y",
             "title": "Police investigating officer's Russian roulette-style death",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "North Korea Claims 5th Successful Nuclear Test",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "0_FxZxza2nE",
+            "title": "Retailers Are Trying to Get a Head Start on This Year's Holiday Shopping Season",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

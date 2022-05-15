@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bCZYc1fEJt0",
-            "title": "Italian Olive Oil | ABC News",
-            "secondDuration": 1028,
-            "group": "group_7"
-        },
-        {
             "videoId": "symzgW1JzZU",
             "title": "Suspect accused of throwing 5-year-old from mall balcony pleads guilty",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "Morning Mix: Iraq, Oval Office and Glenn Beck",
             "secondDuration": 468,
             "group": "group_7"
+        },
+        {
+            "videoId": "QTmLYYQBZVE",
+            "title": "Trump at rally: ‘You have no choice but to vote for me’ | ABC News",
+            "secondDuration": 215,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

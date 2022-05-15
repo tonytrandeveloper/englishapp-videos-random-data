@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bKcu7RJwMcs",
-            "title": "Trump: List of Supreme Court possible contenders is 'outstanding'",
-            "secondDuration": 306,
-            "group": "group_7"
-        },
-        {
             "videoId": "Gp5QJQ8nwSo",
             "title": "Amtrak train derails in Washington state",
             "secondDuration": 1165,
@@ -61,8 +55,14 @@
             "title": "Trump reacts to Cohen's explosive Hill testimony",
             "secondDuration": 408,
             "group": "group_7"
+        },
+        {
+            "videoId": "QvwcQbVqQCQ",
+            "title": "How to discuss the Jan. 6 attack on the Capitol",
+            "secondDuration": 444,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

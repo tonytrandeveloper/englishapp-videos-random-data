@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BuZyVNgMu7Q",
-            "title": "NASA, SpaceX set for launch of historic manned mission to space",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tq0bJYvt_H0",
             "title": "Homeowners Sue Over Horror Film",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Osama bin Laden's Son-in-Law Faces NYC Trial",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "8S--DbQyHA4",
+            "title": "'GMA' Halloween Scare-tacular: 'DWTS' Secret Audition Tapes",
+            "secondDuration": 250,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

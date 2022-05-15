@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h4edEda3124",
-            "title": "Tense showdown during traffic stop along a California highway",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "b2ybpLEs0vQ",
             "title": "ABC News Prime: US shatters daily COVID-19 cases record; Maxwell found guilty, Harry Reid tributes",
             "secondDuration": 3580,
@@ -31,8 +25,14 @@
             "title": "North Korea launches short-range missiles into Sea of Japan",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "VcSSu0434V8",
+            "title": "Brussels: More Chaos in the Hunt for the Killers",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

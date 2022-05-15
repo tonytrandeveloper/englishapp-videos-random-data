@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-pbIwXbAMzg",
-            "title": "'This Week' Web Extra: George Will Answers Viewer Questions",
-            "secondDuration": 380,
-            "group": "group_7"
-        },
-        {
             "videoId": "kufDw1hxyxY",
             "title": "Teachers Across the Country Who Get Kids Excited About Returning to School",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Beluga whales relocated to open water sanctuary l ABC News",
             "secondDuration": 266,
             "group": "group_7"
+        },
+        {
+            "videoId": "t4uaFxdnNRw",
+            "title": "Teen Arrested for Alleged Columbine-like Plot",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

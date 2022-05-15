@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8PSzM20UVN0",
-            "title": "Paul Ryan On Whether He Would Rescind Support For Donald Trump | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "IpY-EiZ_t-o",
             "title": "Early Predictions For The 2016 Election | NBC News",
             "secondDuration": 153,
@@ -121,8 +115,14 @@
             "title": "Learn How Meditation Can Help Kids In Quarantine | Nightly News: Kids Edition",
             "secondDuration": 786,
             "group": "group_7"
+        },
+        {
+            "videoId": "nL986Lzt2Fs",
+            "title": "Mark Zuckerberg Struggles To Answer If Facebook Is A ‘Neutral Public Forum’ | NBC News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

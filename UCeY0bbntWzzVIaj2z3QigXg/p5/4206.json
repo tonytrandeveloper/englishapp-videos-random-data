@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LeZ39OEQiBc",
-            "title": "The Largest Underwater Volcano Explosion, We Almost Missed | Mach | NBC News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "uTRqavm9muw",
             "title": "Tens Of Thousands Of Syrians Have Disappeared Since Start Of Conflict | NBC Nightly News",
             "secondDuration": 151,
@@ -31,8 +25,14 @@
             "title": "Best Friends Tackle Bucket List After Cancer Diagnosis | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "pFH1t3nPM6g",
+            "title": "12-Year-Old Dead After Shooting At South Carolina Middle School",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

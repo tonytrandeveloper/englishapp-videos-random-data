@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "A4EN7etoQow",
-            "title": "Parkland deputy charged with 11 counts in connection with high school shooting",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "YtZquXwsiIs",
             "title": "Aleppo Children Splash Around After Strike Hits Water Main",
             "secondDuration": 60,
@@ -61,8 +55,14 @@
             "title": "Colorado Shooting at The Dark Knight Rises Movie Premiere",
             "secondDuration": 878,
             "group": "group_7"
+        },
+        {
+            "videoId": "epdsLqVDL1I",
+            "title": "Comey thinks Donald Trump is unfit to be president",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

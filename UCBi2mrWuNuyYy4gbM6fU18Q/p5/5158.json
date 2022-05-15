@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jn5yc3e60Z0",
-            "title": "Tropical Storm Cristobal batters Gulf Coast l ABC News",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "BVzmKsizrwA",
             "title": "Royal Hoax Tragedy: Could DJs Be Charged?",
             "secondDuration": 294,
@@ -31,8 +25,14 @@
             "title": "Clint Eastwood Backs President Obama on Gay Marriage",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "6yEtV3xIOZI",
+            "title": "Spiderman Revealed",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xhEVEBgFKA0",
-            "title": "Deadly School Bombing in Afghanistan | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "pPfK_EZDsPc",
             "title": "Cops Won’t Face Charges In Keith Lamont Scott’s Fatal Shooting | NBC News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "The Algorithms That Can Help Slash Your Tax Bill | Mach | NBC News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "ypuyLeY9A98",
+            "title": "Louisiana Flood Is Worst U.S. Disaster Since Sandy, Red Cross Says | NBC Nightly News",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

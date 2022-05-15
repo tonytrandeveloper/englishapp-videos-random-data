@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3B8UMTLL3OU",
-            "title": "Pelosi announces Trump impeachment inquiry l ABC News",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "s3hIxUedR8M",
             "title": "Video of Man Overboard: Rescued After Fall From Cruise Ship",
             "secondDuration": 90,
@@ -121,8 +115,14 @@
             "title": "Trump - Hillary Debate VS Kennedy-Nixon Debate | ELECTION CYCLE",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "zZ_JqI8daWI",
+            "title": "EPA Administrator Scott Pruitt resigns amid scandals: Special Report",
+            "secondDuration": 638,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

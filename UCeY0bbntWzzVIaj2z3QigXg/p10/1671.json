@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OXoAUzs4pjc",
-            "title": "Summer Ad Spending Shows Trump On Retreat In Many Battlegrounds | Meet The Press | NBC News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "kb7Yl9MZ2k4",
             "title": "New White House Precautions After Trump's Valet, Pence's Press Secretary Infected | NBC Nightly News",
             "secondDuration": 709,
@@ -61,8 +55,14 @@
             "title": "Australia Pledges Another $50M In 'Defensive Support' To Ukraine",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "vaRo3C4llt4",
+            "title": "White House Covid-19 Response Briefing | NBC News",
+            "secondDuration": 1818,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

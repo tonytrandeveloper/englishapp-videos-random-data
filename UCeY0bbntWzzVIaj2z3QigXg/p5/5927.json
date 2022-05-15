@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pAVB6yealEM",
-            "title": "Whole Foods CEO John Mackey On The Secret To Eating Healthy | Better | NBC News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "XUy1GgMWydE",
             "title": "Sen. Leahy Announces He Will Retire: 'It Is Time To Come Home'",
             "secondDuration": 76,
@@ -31,8 +25,14 @@
             "title": "Biden Speaks During White House's Getting America Back On Track Tour | NBC News",
             "secondDuration": 1236,
             "group": "group_7"
+        },
+        {
+            "videoId": "k9bu0NqxW4Y",
+            "title": "Hear Senator John McCain's Final Statement Read By Close Friend | NBC News",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

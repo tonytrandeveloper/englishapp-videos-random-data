@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YbEgZp8_1Lg",
-            "title": "Democrats Sharpen Attacks On Michael Bloomberg Ahead Of Las Vegas Debate | NBC News Now",
-            "secondDuration": 470,
-            "group": "group_7"
-        },
-        {
             "videoId": "lHrR-R_yTNM",
             "title": "Brothers In Blue Find Out They’re Brothers In Life, Too | NBC Nightly News",
             "secondDuration": 81,
@@ -121,8 +115,14 @@
             "title": "This Morning’s Top Headlines – February 9 | Morning News NOW",
             "secondDuration": 1627,
             "group": "group_7"
+        },
+        {
+            "videoId": "bylfiz4byps",
+            "title": "Rosetta Spacecraft To Land On Comet | NBC News",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

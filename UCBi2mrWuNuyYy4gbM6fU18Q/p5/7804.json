@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0UqMEg5bJzc",
-            "title": "How the Presidential Election May Affect the Trump Brand | ABC News",
-            "secondDuration": 400,
-            "group": "group_7"
-        },
-        {
             "videoId": "iARrRyk2fiY",
             "title": "Manhattan DA candidate on Trump Organization investigation he may inherit",
             "secondDuration": 360,
@@ -31,8 +25,14 @@
             "title": "WNN Webcast for Monday, June 4, 2012",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "5P85Bd0mwZg",
+            "title": "'This Week': Powerhouse Roundtable",
+            "secondDuration": 480,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

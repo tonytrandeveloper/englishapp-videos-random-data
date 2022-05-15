@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TX8MSZy5I3I",
-            "title": "Senator catches Mark Zuckerberg off guard by asking which hotel he stayed in",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wc4x7URD_tA",
             "title": "John Zawahri, Alleged Santa Monica Shooter, Reportedly Armed with 1,300 Rounds",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "Maryland Shooting Suspect to Appear in Court",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "UcaE5DNx0nU",
+            "title": "Television Icon Regis Philbin dead at 88",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

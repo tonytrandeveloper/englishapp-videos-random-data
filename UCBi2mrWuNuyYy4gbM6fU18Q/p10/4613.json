@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3U2bnprzc4I",
-            "title": "Vladimir Putin Takes Victory Lap in Crimea",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "DRXl6yA5jIk",
             "title": "Embattled Virginia governor breaks his silence",
             "secondDuration": 176,
@@ -61,8 +55,14 @@
             "title": "Deadly school bus crash in Texas",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "AyNFgJb7amk",
+            "title": "Hauntingly huge spider spotted in Australia",
+            "secondDuration": 40,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8FukmujpQ1w",
-            "title": "House GOP Leaders Hold Press Conference | NBC News",
-            "secondDuration": 2054,
-            "group": "group_7"
-        },
-        {
             "videoId": "jfIDh2yGn_g",
             "title": "Hasan Minhaj Calls Out Congress Over Student Loans: ‘You Paid Far Less For Your Degrees’ | NBC News",
             "secondDuration": 185,
@@ -61,8 +55,14 @@
             "title": "Police Search Terminally Ill Cancer Patient’s Hospital Room For Marijuana | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "OsE_ymaLXc0",
+            "title": "Life-Saving Air Ambulances Hit Patients With Hefty Medical Bills | NBC Nightly News",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

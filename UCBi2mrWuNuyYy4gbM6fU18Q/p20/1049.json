@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZkIraF8x5P8",
-            "title": "The Debrief: West Coast weather, Kushner's security clearance, Amazon HQ2, Bryce Harper's contract",
-            "secondDuration": 1378,
-            "group": "group_7"
-        },
-        {
             "videoId": "9YbwIssUba8",
             "title": "New case of omicron COVID variant detected in Minnesota | ABCNL",
             "secondDuration": 826,
@@ -121,8 +115,14 @@
             "title": "President Trump insists America’s mass shootings are a result of mental illness",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "XvOjaSqKMv0",
+            "title": "Missing Malaysia Plane: Radar Hits of 'Significant Size' in Indian Ocean",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

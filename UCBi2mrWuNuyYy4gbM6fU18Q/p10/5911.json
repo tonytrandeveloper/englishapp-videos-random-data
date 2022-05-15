@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L0pGGRenFwM",
-            "title": "Obama Rules Out Long-Term Ground War Against ISIS",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "95L_X1Ln9iM",
             "title": "New York Yankees step up to the plate for 4th-grader in need",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Front-line workers in Wisconsin and New Hampshire describe exhausting COVID-19 battle",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "DuV8-0vMc-I",
+            "title": "RNC chair takes jab at Biden’s VP pick",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

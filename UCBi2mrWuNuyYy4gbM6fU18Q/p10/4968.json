@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "upr8c9TQZFg",
-            "title": "Mysterious coronavirus kills 2, sickens dozens",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "E_vkkAVz7Ks",
             "title": "Manhunt on after deadly Barcelona attack",
             "secondDuration": 222,
@@ -61,8 +55,14 @@
             "title": "Astronauts prepare for return to space",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "VgQFdKeFSDE",
+            "title": "Weather emergencies are in effect as a powerful Nor'easter stalls over the East region | ABC News",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

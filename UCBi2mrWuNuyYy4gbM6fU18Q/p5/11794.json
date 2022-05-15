@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "siqYTbPaWbo",
-            "title": "Bus driver saves 2 children wandering alone in bitter cold l ABC News",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "_AF06yMmqss",
             "title": "Gap, Kohl's, Macy's to furlough workers due to coronavirus downturn",
             "secondDuration": 47,
@@ -31,8 +25,14 @@
             "title": "Bone chilling temperatures in Midwest",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "25B3zN8SQnc",
+            "title": "Bronx Bark-Off Shows Puppy Love",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

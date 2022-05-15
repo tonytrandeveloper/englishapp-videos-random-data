@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uXVeUcAnMhg",
-            "title": "National Guard Troops Called To The Capitol To Boost Security | NBC Nightly News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "7d0h3aEPdbo",
             "title": "Mars 2020 Perseverance Rover Launches | NBC News",
             "secondDuration": 1441,
@@ -31,8 +25,14 @@
             "title": "NBC News NOW Full Broadcast - July 16, 2021",
             "secondDuration": 2752,
             "group": "group_7"
+        },
+        {
+            "videoId": "S73sp1wIXmE",
+            "title": "Nunes Asks Williams And Vindman If They Discussed Trump's Call With The Press | NBC News",
+            "secondDuration": 306,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

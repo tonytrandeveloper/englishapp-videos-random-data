@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "h4Nbg8ozUZw",
-            "title": "New developments in the brutal murders of 4 young Pennsylvania men",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "KADpBA0HcQA",
             "title": "'50 Shades,' The Musical",
             "secondDuration": 155,
@@ -121,8 +115,14 @@
             "title": "Super Bowl 2012 Countdown: Eli Manning's New York Giants vs. Tom Brady's New England Patriots",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "e3DXNCkWTnc",
+            "title": "Bullied on the Bus: The Gift",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

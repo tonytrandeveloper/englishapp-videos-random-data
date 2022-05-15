@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bRDn92wOJPE",
-            "title": "Nigella Lawson's Legal Nightmares",
-            "secondDuration": 435,
-            "group": "group_7"
-        },
-        {
             "videoId": "cN3zDln_ldw",
             "title": "Steve Harvey Talks Golf, Inner Cities With Donald Trump",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "An Offer You Can't Refuse",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "NDbv9y6K8o0",
+            "title": "Trump, Clinton Polls Show Virtual Tie",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

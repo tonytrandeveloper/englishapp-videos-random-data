@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xSq-5QJu1_w",
-            "title": "Rocking With the Radio City Rockettes",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "OnoiynPnqoA",
             "title": "Popular Halloween Costumes In 2015 | ABC News",
             "secondDuration": 316,
@@ -61,8 +55,14 @@
             "title": "Syrian forces battle ISIS for the city of Raqqa",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "esNA4uJwmT8",
+            "title": "EPA Chief Scott Pruitt still won't say if President Trump believes climate change is a hoax",
+            "secondDuration": 437,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

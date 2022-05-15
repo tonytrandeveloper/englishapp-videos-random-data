@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DjNiKvbfEMw",
-            "title": "Orcas cruise alongside jet ski in New Zealand",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "hVZ6cWGhGEM",
             "title": "Drake's 'Hotline Bling' Interpreted by Celebrities",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Trump revokes security clearance for former CIA director",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "rgRlFnYl_hk",
+            "title": "Future of Roe v. Wade after Texas abortion law",
+            "secondDuration": 289,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

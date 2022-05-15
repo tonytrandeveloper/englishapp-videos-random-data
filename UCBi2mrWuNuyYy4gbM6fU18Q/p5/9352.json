@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V4RcJUwrBUc",
-            "title": "6.4 magnitude earthquake rocks Southern California | ABC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "A78B52Yfwv4",
             "title": "Breaking down attorney general's remarks on Jan. 6 attack",
             "secondDuration": 1035,
@@ -31,8 +25,14 @@
             "title": "Bernie Sanders' Campaign Under Fire Over DNC Data Breach",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "mNng8JxLbiI",
+            "title": "NFL wide receiver Tyreek Hill under fire for alleged child abuse",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

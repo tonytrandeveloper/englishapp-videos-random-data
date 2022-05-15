@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3ii4qTSBzEY",
-            "title": "ABC News Prime: CDC on the unvaccinated; Flooding in Europe; Bomb plot against Democratic HQ",
-            "secondDuration": 3630,
-            "group": "group_7"
-        },
-        {
             "videoId": "t8uXPQdXOBI",
             "title": "By the Numbers: Team USA strikes gold",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Harrisburg, Illinois, Devastated by Tornadoes",
             "secondDuration": 265,
             "group": "group_7"
+        },
+        {
+            "videoId": "t_u2Zy3Nvec",
+            "title": "Community Paints Over Racial Slurs Before Family Returns Home",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

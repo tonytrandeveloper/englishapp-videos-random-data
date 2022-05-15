@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Vwqx98wrCZY",
-            "title": "President Donald Trump: ‘I Appreciate Kim Jung Un’ Releasing Three U.S. Detainees | NBC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "CfJMOpOKq_M",
             "title": "Indonesia Volcano Eruption Kills At Least 34, More Than 20 Missing",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "Suspected Gas Attack Kills Dozens, Including Children, In Syria | NBC News",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "kcdfOUN5pvM",
+            "title": "How Llamas Are Helping Create Antibody Treatment For Coronavirus | NBC News NOW",
+            "secondDuration": 621,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

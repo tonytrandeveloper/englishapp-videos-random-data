@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7HmLsBRaFDY",
-            "title": "Solving Israeli-Palestinian Conflict Is ‘Golden Grail’ Of International Politics | NBC Nightly News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "uAGpA39RZ0I",
             "title": "Las Vegas Attack Makes History As Most Deadly Mass Shooting In U.S. | NBC Nightly News",
             "secondDuration": 125,
@@ -121,8 +115,14 @@
             "title": "FBI Arrests Suspected White Supremacists Ahead Of Virginia Gun Rally | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "9pRB-pRGpmE",
+            "title": "Astronauts Return After 90-day Mission To China's Space Station",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

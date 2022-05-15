@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hICpJZF4n8k",
-            "title": "The Briefing Room: What's at stake at the Democratic debate",
-            "secondDuration": 3590,
-            "group": "group_7"
-        },
-        {
             "videoId": "PmuX_iCIXGA",
             "title": "Baltimore high school staff member shot in school",
             "secondDuration": 83,
@@ -31,8 +25,14 @@
             "title": "Paris Attack: The Day of the Raid",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "oKoJSdUrsS0",
+            "title": "Man with fake gun causes standoff at Orlando airport",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

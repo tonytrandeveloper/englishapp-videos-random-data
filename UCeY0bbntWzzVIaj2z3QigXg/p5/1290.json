@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7Rx_81Ip6L4",
-            "title": "Real Christmas Tree Sales Soar | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "gwHpWNe0Pg4",
             "title": "Washington's Famed Cherry Blossoms Reach Peak Bloom | NBC News",
             "secondDuration": 50,
@@ -31,8 +25,14 @@
             "title": "A Day In The Life Of 'Badass And Blind' Musician Raul Midon | NBC BLK | NBC News",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "ej7BRM5RkzA",
+            "title": "Trump Tries To Replicate 2016 Win, But Virus Surge Undermines Public Trust | Meet The Press",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

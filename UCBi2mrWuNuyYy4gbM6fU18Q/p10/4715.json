@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3Ir61NMn6Fk",
-            "title": "Prince Harry Takes Manhattan",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "yC1vyIuwwo0",
             "title": "Amy Henslee, Have You Seen This Woman? Michigan Mother Still Missing 1/27/2011",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "Trump on John Glenn: 'Great American Hero'",
             "secondDuration": 35,
             "group": "group_7"
+        },
+        {
+            "videoId": "oOK9oNFphD0",
+            "title": "Russia downplays the impact of economic sanctions targeting banks, oligarchs",
+            "secondDuration": 485,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

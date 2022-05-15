@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KRayUjhA8vs",
-            "title": "NBC Nightly News Broadcast (Full) - August 2nd, 2021",
-            "secondDuration": 804,
-            "group": "group_7"
-        },
-        {
             "videoId": "6_tAXmEWqbU",
             "title": "This Morning’s Top Headlines – October 29 | Morning News NOW",
             "secondDuration": 1301,
@@ -31,8 +25,14 @@
             "title": "Jobs Report: Growth Slows Sharply In March | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "8LPAHzKidkw",
+            "title": "Popular Jogging Stroller Was Facing Recall. But That Changed With The New Admin. | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

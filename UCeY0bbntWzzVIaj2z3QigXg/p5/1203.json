@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "681F25y6nIA",
-            "title": "Eric Garner, Michael Brown Killings Protested In NYC | NBC News",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZpcVSiYFxhs",
             "title": "Tulsi Gabbard On Why LGBTQ Voters Should Trust Her | NBC News",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "Capitol Threat Suspect Identified As 25-Year-Old Indiana Man | NBC News NOW",
             "secondDuration": 360,
             "group": "group_7"
+        },
+        {
+            "videoId": "opV0Ja8gEls",
+            "title": "President Obama Surprises Josh Earnest at Last Press Briefing | NBC News",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

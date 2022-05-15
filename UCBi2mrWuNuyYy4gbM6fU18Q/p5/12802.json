@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YSxN_2Y2D_s",
-            "title": "Republicans storm impeachment hearing, California fire danger, Zuckerberg grilled | ABC News",
-            "secondDuration": 1534,
-            "group": "group_7"
-        },
-        {
             "videoId": "vslZi6_jbTU",
             "title": "SpaceX made history launching the first all-civilian flight crew into space | ABC News",
             "secondDuration": 182,
@@ -31,8 +25,14 @@
             "title": "Democrats take House, Republicans keep Senate in historic midterms",
             "secondDuration": 464,
             "group": "group_7"
+        },
+        {
+            "videoId": "oSy0IyJUVig",
+            "title": "What is the role of First Lady? | America 101",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

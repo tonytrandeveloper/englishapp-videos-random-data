@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G6Rte7NhCI0",
-            "title": "Trump: 'Bigly' or 'Big League'?",
-            "secondDuration": 26,
-            "group": "group_7"
-        },
-        {
             "videoId": "RoKt8mYbJuU",
             "title": "Examining extremism in the military l ABC News",
             "secondDuration": 798,
@@ -61,8 +55,14 @@
             "title": "Powerball: Some Winners Remain a Mystery",
             "secondDuration": 294,
             "group": "group_7"
+        },
+        {
+            "videoId": "qLF-eRdbvzc",
+            "title": "'Back to the Beginning' With Christiane Amanpour Part 1: Moses and the Burning Bush",
+            "secondDuration": 547,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

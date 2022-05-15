@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_1cGFqbMrpI",
-            "title": "Houston And New Orleans: Tested By Tragedy, Bound By Resilience | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "6nJ8wM56uAw",
             "title": "Texas Church Reopens One Week After Massacre | NBC Nightly News",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "White House Holds Press Briefing: February 2 | NBC News",
             "secondDuration": 2860,
             "group": "group_7"
+        },
+        {
+            "videoId": "kBOBstJ-RrM",
+            "title": "Biden: U.S. Will Reach Vaccination Goal Of 100 Million Doses After 58 Days In Office | NBC News NOW",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0GoL0wS8MqU",
-            "title": "Winter Storm Causes Commuter Chaos, Catches Millions Off Guard | NBC Nightly News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "ACE3Js6wJf0",
             "title": "Farmer & Logger Rescue Black Bear | NBC News",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Holds Coronavirus Press Conference | NBC News (Live Stream Recording)",
             "secondDuration": 3108,
             "group": "group_7"
+        },
+        {
+            "videoId": "uA9OaiUDrLk",
+            "title": "Trump Signs Bill To Sanction China Over Treatment Of Hong Kong | NBC News",
+            "secondDuration": 3793,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

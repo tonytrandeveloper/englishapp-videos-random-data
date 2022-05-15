@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XGbHbAbC-l0",
-            "title": "The Hidden Cost of Sleep Deprivation | Better | NBC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "DgHc0yHZjcA",
             "title": "Death Toll Rising After Ida’s Devastation In The Northeast",
             "secondDuration": 192,
@@ -61,8 +55,14 @@
             "title": "DNC Chair On 'Obscene' Amount Of Money In Politics | Meet The Press | NBC News",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "uBmLQqjmvN8",
+            "title": "Bill Cosby Sentenced To 3 To 10 Years In Prison For Sexual Assault | NBC News",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

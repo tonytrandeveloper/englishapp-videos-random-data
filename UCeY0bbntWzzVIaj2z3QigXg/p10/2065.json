@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pLq6yqL3Y9Q",
-            "title": "Nightly News Full Broadcast (May 16th)",
-            "secondDuration": 1135,
-            "group": "group_7"
-        },
-        {
             "videoId": "-jI26lVcfSc",
             "title": "White House Press Secretary Sarah Huckabee Sanders Press Briefing | NBC News",
             "secondDuration": 1330,
@@ -61,8 +55,14 @@
             "title": "California Hospitals Still Struggling With Influx Of Coronavirus Patients | NBC News NOW",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "WO4rDlNp9fw",
+            "title": "Does President Donald Trump Have Power To Pardon His Family And Himself? | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

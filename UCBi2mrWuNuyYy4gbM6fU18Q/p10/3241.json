@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ppugNHeM3ik",
-            "title": "The Conversation: Listening to 'Mom'",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "K7XIenGSypE",
             "title": "Race to vaccinate",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "North Korea Moves Missile to Coast",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "QFCcxIDuEbQ",
+            "title": "Monsoon storms moving into Southwest as heat wave fuels wildfires in the West l WNT",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

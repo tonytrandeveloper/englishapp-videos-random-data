@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WOtq897BRy0",
-            "title": "3 Men Indicted On Murder Charges In Death Of Ahmaud Arbery | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "jiA8HOfkdVo",
             "title": "Giuliani: 'I Never Said There Was No Collusion Between The Campaign' And Russia | NBC Nightly News",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "MTP Compressed: New NBC News/WSJ Poll Shows Growing Support For Impeachment | Meet The Press",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "dONrlAhKjDo",
+            "title": "Hundreds Of Thousand Across U.S. March For Their Lives | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

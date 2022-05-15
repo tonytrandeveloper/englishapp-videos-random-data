@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UJ62o7TGQlw",
-            "title": "The McCloskeys speak at 2020 RNC",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "4o-vJFoP8Bo",
             "title": "Olympics closing ceremony, Canadian protest removal: World in Photos, Feb. 21, 2022",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Philippine President to Obama: 'Go to Hell'",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "99_QT0k2pPo",
+            "title": "Team USA Soccer Stops by 'GMA'",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

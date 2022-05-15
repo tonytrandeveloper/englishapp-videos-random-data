@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ni9NZN2e_Jo",
-            "title": "President Donald Trump Still Mum On Roy Moore | NBC Nightly News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "ruuDcoWtqAg",
             "title": "LA Apartment Is Engulfed In Flames | NBC News",
             "secondDuration": 62,
@@ -31,8 +25,14 @@
             "title": "Mitch McConnell Presents 'Road Map' For First Phase Of Impeachment Trial | NBC News",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "myKnNLtHzg0",
+            "title": "White House Press Briefing - September 11, 2017 | NBC News",
+            "secondDuration": 2206,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

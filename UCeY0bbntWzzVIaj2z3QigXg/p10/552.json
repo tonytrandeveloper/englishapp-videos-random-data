@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9KHe_b8amSs",
-            "title": "Nightly News: Kids Edition (April 21, 2020) | NBC Nightly News",
-            "secondDuration": 544,
-            "group": "group_7"
-        },
-        {
             "videoId": "1kXZmZDtjcE",
             "title": "Chuck Todd: Ambassador Gordon Sondland Testimony 'Cements Impeachment' For Democrats | NBC News",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Gov. Hogan: 'We Need To Move On From The Cult Of Donald Trump' | Meet The Press | NBC News",
             "secondDuration": 377,
             "group": "group_7"
+        },
+        {
+            "videoId": "8H2XEnBT1J8",
+            "title": "Creepy Clowns Are Summer 2016’s Most Unnerving Occurrence | NBC News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

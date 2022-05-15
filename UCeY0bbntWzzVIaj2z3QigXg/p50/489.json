@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "bvZtbMtmuLs",
-            "title": "Saturn’s Rings Might Be Younger Than We Thought | Mach | NBC News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "HK_uluw5V5Y",
             "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
             "secondDuration": 1839,
@@ -301,8 +295,14 @@
             "title": "Huge Avalanche Caught On Camera Near Swiss Ski Resort | NBC News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "F9_ZtoyVYD0",
+            "title": "Paul Ryan: Russia ‘Did Interfere In Our Elections… No Doubt’ | NBC News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

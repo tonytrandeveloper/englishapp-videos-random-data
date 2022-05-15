@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8tk04DvrS1E",
-            "title": "Federal Judge Overturns Life Sentences For DC Sniper | NBC Nightly News",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "dWSXPQMf1pU",
             "title": "Secretary of State Mike Pompeo Testifies On North Korea, Russia | NBC News",
             "secondDuration": 10594,
@@ -61,8 +55,14 @@
             "title": "Recent High Profile Suicides Spark Concerns Of ‘Copycat’ Trend | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "P47P4ngVH_c",
+            "title": "Obama Discusses The ISIS Threat | NBC News",
+            "secondDuration": 365,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

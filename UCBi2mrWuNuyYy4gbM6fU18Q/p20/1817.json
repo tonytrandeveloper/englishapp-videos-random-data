@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TLyYOToVy5o",
-            "title": "Truck Plows Through Crowd in Nice, France",
-            "secondDuration": 254,
-            "group": "group_7"
-        },
-        {
             "videoId": "2EnmR2qakew",
             "title": "Weather on Mars",
             "secondDuration": 448,
@@ -121,8 +115,14 @@
             "title": "Cartoon Ogre Gives Onion Sales a Boost",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "g-thRPirdmU",
+            "title": "State of the Union 2016: Obama Takes on Climate Deniers in the State of the Union Address",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

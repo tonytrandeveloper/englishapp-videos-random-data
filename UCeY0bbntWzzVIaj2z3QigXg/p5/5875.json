@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5XmjPIMo3js",
-            "title": "Trump Speaks From White House Amid Coronavirus Crisis | NBC News",
-            "secondDuration": 3365,
-            "group": "group_7"
-        },
-        {
             "videoId": "AGap8zdksRc",
             "title": "Sandy Hook Families Take Gun Manufacturer Remington Outdoor Company To Court | NBC News",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "The Do’s And Don’ts Of Gloves And Masks | NBC News NOW",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "vACG3qeb3xE",
+            "title": "‘Everything Is A Total Loss’: Entire Towns Devastated By Oregon Wildfires | NBC News NOW",
+            "secondDuration": 266,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

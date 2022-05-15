@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fAk9GlQEWGU",
-            "title": "Dramatic drop of COVID-19 hospitalizations",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "SEW9Tw4Q5Hg",
             "title": "Trump chips away at Biden's lead in Arizona",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Pope Francis celebrates Mass in Cairo amid tight security",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "ISovw7GMfZg",
+            "title": "Prosecutors claim R. Kelly used his title to run ‘criminal enterprise’",
+            "secondDuration": 381,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "efPodmsnP8o",
-            "title": "The Rundown: Top headlines today: April 16, 2021",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "X2AWwY4eg9A",
             "title": "Pharmacy Raided in Jackson Drug Probe",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Breaking down Biden’s remarks on the Russia-Ukraine crisis",
             "secondDuration": 1066,
             "group": "group_7"
+        },
+        {
+            "videoId": "XJTgnqN_BoA",
+            "title": "US companies help Ukraine l WNT",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

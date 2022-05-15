@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JnfuL7uimr8",
-            "title": "ABC News Live: White House recommends COVID-19 vaccine booster shots",
-            "secondDuration": 3730,
-            "group": "group_7"
-        },
-        {
             "videoId": "aC2KF52SpX4",
             "title": "Post Malone's private plane makes harrowing emergency landing",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Town mourns student killed in train collision with school bus",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "ntfqHHK_cjA",
+            "title": "President Reagan Shooter John Hinckley Jr. to Be Released",
+            "secondDuration": 399,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

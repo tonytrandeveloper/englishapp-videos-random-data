@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-C31LliYvos",
-            "title": "Morning News NOW Full Broadcast - November 18",
-            "secondDuration": 3118,
-            "group": "group_7"
-        },
-        {
             "videoId": "B3Z2p9VzgXM",
             "title": "Dr. Fauci, CDC Dir. Walensky Testify at Senate Hearing On Next Steps in Covid Response",
             "secondDuration": 75,
@@ -31,8 +25,14 @@
             "title": "New Report Suggests There is Little Evidence That Flossing Works | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "LrFiwz7tDfg",
+            "title": "Blinken: Russia Planning To 'Manufacture A Pretext' To Invade Ukraine",
+            "secondDuration": 305,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

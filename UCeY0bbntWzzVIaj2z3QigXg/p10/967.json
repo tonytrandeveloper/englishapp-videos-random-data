@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "F2ul7yIX76M",
-            "title": "Raiders’ Player Henry Ruggs III Faces DUI Charges",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "P5Ad8957GaI",
             "title": "Speaker Paul Ryan: House To Vote On Broad Bill Addressing Family Separation At Border | NBC News",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "'Everything Gone:' Villager Surveys The Devastation Of Hurricane Maria In Dominica | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "IyCUb7bWnBw",
+            "title": "Aerials Show Heavy Flooding In North Carolina's Outer Banks | NBC News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "99_QT0k2pPo",
-            "title": "Team USA Soccer Stops by 'GMA'",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "Di5jU8i0DNk",
             "title": "Little Girl and Her Giant Dogs",
             "secondDuration": 75,
@@ -61,8 +55,14 @@
             "title": "Election Countdown: 30 Days to 2014 Midterms",
             "secondDuration": 472,
             "group": "group_7"
+        },
+        {
+            "videoId": "IMdZqm5jf3c",
+            "title": "5 Marines Rescued After Osprey Goes Down Off Coast of Okinawa",
+            "secondDuration": 49,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "njvAxbcAPeU",
-            "title": "This Morning’s Top Headlines – Nov. 24 | Morning News NOW",
-            "secondDuration": 1343,
-            "group": "group_7"
-        },
-        {
             "videoId": "cs4VjEsigiU",
             "title": "Live: Minnesota Governor Holds Press Conference On George Floyd Protests | NBC News",
             "secondDuration": 3758,
@@ -121,8 +115,14 @@
             "title": "Chelsea Clinton's New Daughter Greets World | NBC News",
             "secondDuration": 15,
             "group": "group_7"
+        },
+        {
+            "videoId": "eAcq6pCjJJs",
+            "title": "Plan To Send Ukraine Soviet-Era Fighter Jets Stalls",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

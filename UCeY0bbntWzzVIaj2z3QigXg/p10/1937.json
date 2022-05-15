@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GgSmNDXQd2E",
-            "title": "Lester Holt Goes Inside The NYPD's New Anti-Terror Unit | NBC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "_t2zbk1zudY",
             "title": "NASA Developing A New Way To Find Alien Life | Mach | NBC News",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "Biden Addresses 76th U.N. General Assembly",
             "secondDuration": 2635,
             "group": "group_7"
+        },
+        {
+            "videoId": "mTfMFHkPyyc",
+            "title": "Report Shows Ties Between Opioid Makers And Patient Groups | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

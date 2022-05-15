@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZlkrDgsow5g",
-            "title": "Trump Tower No-Fly Zone Implemented by FAA",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "zGS4JfiPEpU",
             "title": "Bronze Radio Return Interview: Band Discusses 'Up, On & Over' Album",
             "secondDuration": 309,
@@ -121,8 +115,14 @@
             "title": "Judge delays public release of police bodycam video of Andrew Brown Jr. shooting",
             "secondDuration": 292,
             "group": "group_7"
+        },
+        {
+            "videoId": "uFanNYbhm2g",
+            "title": "2015 Grammy Awards",
+            "secondDuration": 280,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

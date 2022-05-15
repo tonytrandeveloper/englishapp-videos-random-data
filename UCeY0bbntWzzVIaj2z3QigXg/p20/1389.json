@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-55YZCWzpAM",
-            "title": "Full Giror: 'It's Got To Be Science Driving The Policy' | Meet The Press | NBC News",
-            "secondDuration": 660,
-            "group": "group_7"
-        },
-        {
             "videoId": "7LP2X7H85Ss",
             "title": "Harris Criticizes Supreme Court Case Against The Affordable Care Act | NBC News",
             "secondDuration": 140,
@@ -121,8 +115,14 @@
             "title": "Flint Residents Face Uncertain Future Amid Ongoing Water Crisis | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "hOkNfdOstR8",
+            "title": "Full San Francisco Mayor: Politics Were 'Clearly A Distraction' For Recalled School Board Members",
+            "secondDuration": 617,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yMcqKRnhCIs",
-            "title": "Real-Life 7 Dwarfs Interviewed by Barbara Walters: Inspiring Family Tackles Life's Challenges",
-            "secondDuration": 274,
-            "group": "group_7"
-        },
-        {
             "videoId": "45q6g9s9cNY",
             "title": "SpaceX Falcon 9 Rocket Launches to International Space Station",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Texas District Splurges $63 Million on a High School Football Stadium",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "-LZoSyHJHfk",
+            "title": "COVID-19 crisis grows dire along US-Mexico border l GMA",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

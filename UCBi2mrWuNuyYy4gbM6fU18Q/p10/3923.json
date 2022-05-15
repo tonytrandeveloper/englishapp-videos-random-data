@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mMcnGjFKUmg",
-            "title": "Justice Stevens' First TV Interview",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "gtCtUCEG2VE",
             "title": "The Bottom Line on Health Care",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Widow takes stand in fatal NJ mall carjacking trial",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "ljNEK28RPrI",
+            "title": "'Hamilton' Audition | Thousands Show Up for the Broadway Hit",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "40J8_C7AUvc",
-            "title": "Phone Scam Caught on Tape",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "hpKUuQCoaAw",
             "title": "Jodi Arias Murder Trial: Defense's First Day of Witnesses",
             "secondDuration": 128,
@@ -121,8 +115,14 @@
             "title": "Pat Summitt ESPY Awards Speech",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "BmGN7ts1XOA",
+            "title": "Sean Kingston in Critical Condition After Jet-Ski Crashes Into Bridge",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

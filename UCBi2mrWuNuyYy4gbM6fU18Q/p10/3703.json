@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "63xg0b8jmFg",
-            "title": "Surgery: Vertical Sleeve Gastrectomy",
-            "secondDuration": 468,
-            "group": "group_7"
-        },
-        {
             "videoId": "DZ9vIzVZjS4",
             "title": "Biden and Trump discuss their views on immigration policy",
             "secondDuration": 379,
@@ -61,8 +55,14 @@
             "title": "2012 Presidential Election Betweeen Barack Obama, Mitt Romney: Obama Expects a Long Night",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "6MVoHFbBrP8",
+            "title": "Chick-fil-A: Thousands Show Support",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

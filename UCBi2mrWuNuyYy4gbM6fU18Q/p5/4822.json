@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UFYOs6xY-Dk",
-            "title": "Russia Olympics Ban Upheld After Doping Scandal",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tdj2JUJHN5M",
             "title": "Pope Benedict Final Public Address: Benedict XVI's Greets Christians at St. Peter's Square",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "Rep. Andy Barr responds to Biden’s State of the Union address",
             "secondDuration": 313,
             "group": "group_7"
+        },
+        {
+            "videoId": "EjCsK1NzuLc",
+            "title": "Martin Shkreli's fate in hands of the jury",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

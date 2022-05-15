@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EjCsK1NzuLc",
-            "title": "Martin Shkreli's fate in hands of the jury",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "qiMoTn74A78",
             "title": "'The Brady Bunch' house up for sale after 50 years",
             "secondDuration": 180,
@@ -31,8 +25,14 @@
             "title": "On Location With the Stars of 'Creed'",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "cjgUD9jaRUk",
+            "title": "DHS Warns Airlines of Updated Terror Tactics",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

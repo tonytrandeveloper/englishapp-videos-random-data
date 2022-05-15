@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CVloavoABiE",
-            "title": "Historic Flooding Swamps Louisiana  | ABC News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "yM1mZmpc0hs",
             "title": "Michigan Manhunt: Convict Escapes by Impersonating Another Prisoner",
             "secondDuration": 23,
@@ -61,8 +55,14 @@
             "title": "Joan Rivers 1933-2014",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "S_jpTGsWB-g",
+            "title": "Education Department opens investigation into ban of mask mandates l WNT",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

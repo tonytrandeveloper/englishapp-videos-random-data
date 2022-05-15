@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "csp4Ea_EILU",
-            "title": "Interview With Senator-elect Rand Paul",
-            "secondDuration": 867,
-            "group": "group_7"
-        },
-        {
             "videoId": "GD9sqH1tjMc",
             "title": "Chris Christie Exclusive: Republican Rock Star",
             "secondDuration": 394,
@@ -31,8 +25,14 @@
             "title": "New sanctions on Russia today",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "aNzTvKhJAF4",
+            "title": "Kate Middleton Meets Movie-Star Cat",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

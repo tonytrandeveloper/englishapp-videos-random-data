@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8rw3cybg7I4",
-            "title": "The State of the Union address, a Kyiv shelter and floods: World in Photos, March 2",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "EPSsiL4p9As",
             "title": "US prepares for withdrawal of American troops in Afghanistan",
             "secondDuration": 377,
@@ -31,8 +25,14 @@
             "title": "Intense Manhunt Underway for Convicted New Jersey Killer",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "3U2bnprzc4I",
+            "title": "Vladimir Putin Takes Victory Lap in Crimea",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

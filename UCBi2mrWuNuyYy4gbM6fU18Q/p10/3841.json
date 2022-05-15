@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "C1uOUJkrBv8",
-            "title": "Renowned violinist thanks childhood teacher for her dedication to music",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "zrZEs4xSKRs",
             "title": "Miami television producer pivots to producing pies during the pandemic",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "Police Say They've Found Place Where Escaped Prisoners Slept",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "41j5Yc7tW_4",
+            "title": "Fiscal Cliff Negotiations: The Odds of Striking a Deal",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

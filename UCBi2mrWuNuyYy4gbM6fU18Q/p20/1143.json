@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FbHn0Cqh_-k",
-            "title": "The Briefing Room | ABC News",
-            "secondDuration": 1046,
-            "group": "group_7"
-        },
-        {
             "videoId": "UzkZIRiZfRs",
             "title": "Republican National Convention 2012: Mitt Romney's 'Preview' of RNC Speech",
             "secondDuration": 66,
@@ -121,8 +115,14 @@
             "title": "On set with the cast of 'The Conners'",
             "secondDuration": 388,
             "group": "group_7"
+        },
+        {
+            "videoId": "YvL4izCGM8g",
+            "title": "Common, Ice Cube Talk 'Barbershop 3'",
+            "secondDuration": 400,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

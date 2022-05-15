@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ubYhcVWmrbE",
-            "title": "New space discovery has astronomers buzzing",
-            "secondDuration": 1084,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kf_R0M86SMM",
             "title": "Rep. Elijah Cummings on Lessons Learned From Baltimore",
             "secondDuration": 373,
@@ -121,8 +115,14 @@
             "title": "Cop tackles baseball bat-wielding man CAUGHT ON TAPE",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "6xuCIvVdiko",
+            "title": "Watch LIVE: Derek Chauvin Trial for George Floyd Death -  Day 4 | ABC News Live Coverage",
+            "secondDuration": 34240,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

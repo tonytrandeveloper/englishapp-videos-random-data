@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PNjCK4ONMYQ",
-            "title": "Meet The Men Behind ‘Impractical Jokers’ | NBC Nightly News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "RHNF57_RZxE",
             "title": "Pentagon Lifts Transgender Ban in Armed Forces | NBC Nightly News",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Biden Hits Speed Bumps On Second Day Of Presidential Campaign | NBC Nightly News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "oE_VHs6Z5VE",
+            "title": "Family Of Charleston Shooting Victim Family Speak Out | Meet The Press | NBC News",
+            "secondDuration": 325,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

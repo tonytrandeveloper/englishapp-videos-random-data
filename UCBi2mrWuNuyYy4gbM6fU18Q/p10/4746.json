@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2GPEmniLL2c",
-            "title": "5 days from critical Georgia Senate runoff",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "wsi7Dzz6evI",
             "title": "Inside the looming eviction crisis",
             "secondDuration": 402,
@@ -61,8 +55,14 @@
             "title": "NSA vs. Snowden - 'This Further Strengthens the Center on National Security' 'This Week' Roundtable",
             "secondDuration": 405,
             "group": "group_7"
+        },
+        {
+            "videoId": "SA-2OU1th-k",
+            "title": "A Soldier's Sacrifice",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

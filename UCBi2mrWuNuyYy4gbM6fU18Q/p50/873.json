@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "pXc1NLLjTqU",
-            "title": "Dog Saves Homeowner From Fire",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "2DabjDVgP9w",
             "title": "The Hustlers l 20/20 l PART 3",
             "secondDuration": 449,
@@ -301,8 +295,14 @@
             "title": "Captured Taliban Commander Talking",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "ehmG0fcV1js",
+            "title": "Black box data shows link between 2 crashes: Authorities",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

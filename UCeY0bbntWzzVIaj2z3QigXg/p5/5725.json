@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HyaQ7xw6BqA",
-            "title": "President Donald Trump Hosts Greek Independence Day Celebration | NBC News",
-            "secondDuration": 2335,
-            "group": "group_7"
-        },
-        {
             "videoId": "MI2ke9iEaTE",
             "title": "First Severe Reaction To Covid Vaccine Reported In U.S. | NBC Nightly News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "'I'm With Joe': Republican Women Voice Support For Biden At The 2020 DNC | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "RPEjLwoEvE4",
+            "title": "Trump Welcomes Stanley Cup Winning St. Louis Blues To White House | NBC News",
+            "secondDuration": 2802,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

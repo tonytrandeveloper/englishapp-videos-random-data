@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sXsOVAa8FAU",
-            "title": "Captain Surprises Son With Flight Back From Deployment",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "bVEaTJqY7uw",
             "title": "CT Screening Reduces Lung Cancer Deaths",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "Iowa caucus results delayed due to vote-counting system failures | ABC News",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "WI13OT16Hdw",
+            "title": "Trump caught on tape pressuring Georgia official to find votes",
+            "secondDuration": 248,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

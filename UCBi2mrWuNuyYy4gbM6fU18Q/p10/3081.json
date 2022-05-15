@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VN3nSbdZhvw",
-            "title": "Snow Fort Dangers",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "i16FAne2Gso",
             "title": "Severe storms devastate Heartland states",
             "secondDuration": 166,
@@ -61,8 +55,14 @@
             "title": "'Kate Plus 8': Will Anyone Watch?",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "cmCUY_e6YU4",
+            "title": "Powerful typhoon hits Philippines",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

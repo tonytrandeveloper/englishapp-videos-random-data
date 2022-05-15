@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3cZ6JbzbFQw",
-            "title": "President Joe Biden’s 1st full day in office",
-            "secondDuration": 356,
-            "group": "group_7"
-        },
-        {
             "videoId": "WA4Hlb6BSFI",
             "title": "'This Week' Your Voice; George Stephanopoulos Answers Viewer Questions.",
             "secondDuration": 31,
@@ -31,8 +25,14 @@
             "title": "The Long and Complicated Task of Finding Flight 370",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "VW2ISRV0jRg",
+            "title": "Sofia Vergara Files $15 Million Lawsuit Against Beauty Brand",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

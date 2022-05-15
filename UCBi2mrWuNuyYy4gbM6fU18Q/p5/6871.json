@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WNbjkvnYP0w",
-            "title": "‘A Brilliant Mind’ gala seeks to shine spotlight on mental health",
-            "secondDuration": 449,
-            "group": "group_7"
-        },
-        {
             "videoId": "N9Qghel5mmM",
             "title": "Normal Weight, Yet Still Obese?",
             "secondDuration": 268,
@@ -31,8 +25,14 @@
             "title": "Derek Chauvin's trial: Key moments",
             "secondDuration": 563,
             "group": "group_7"
+        },
+        {
+            "videoId": "kOakzFlQpOA",
+            "title": "Several deaths reported in the wake of Harvey",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ya3Pqasvyno",
-            "title": "Fast moving developments in the coronavirus outbreak",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "N72XXcFX32o",
             "title": "'Wolfpack' App Helps Men Find Bro-Friends",
             "secondDuration": 381,
@@ -31,8 +25,14 @@
             "title": "Did Trump do enough to beat Biden?",
             "secondDuration": 500,
             "group": "group_7"
+        },
+        {
+            "videoId": "X7bwhiK8iFM",
+            "title": "Amazon founder, wife announce they're divorcing after 25 years",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

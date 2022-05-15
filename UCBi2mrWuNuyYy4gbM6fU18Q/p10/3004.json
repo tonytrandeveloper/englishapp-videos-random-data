@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZCsaxlnJCR0",
-            "title": "Cooking Gives This Hurricane Katrina Survivor a Fresh Start: Part 3",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "khuMB1rnaIM",
             "title": "How do we handle historic films that don’t share our current values?",
             "secondDuration": 317,
@@ -61,8 +55,14 @@
             "title": "Trump fires back after rebuke from Chief Justice John Roberts",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "ym1tZVGWA0Q",
+            "title": "15-year-old tennis star notches 2nd-round win at Wimbledon",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oWIZZDfIkEQ",
-            "title": "Keith Lamont Scott Shooting Video Released by Charlotte Police",
-            "secondDuration": 274,
-            "group": "group_7"
-        },
-        {
             "videoId": "jhFGhTuc71A",
             "title": "Afghanistan Troop Withdrawal as of 06.12.11",
             "secondDuration": 350,
@@ -121,8 +115,14 @@
             "title": "NY Giants Release Kicker Amid Abuse Details Surfacing",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "AycjnH1FWA4",
+            "title": "'The Interview' Reportedly Pulled From Movie Theater Chain Amid Threats",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ci7n-Hmg4gI",
-            "title": "Bourbon Street Shooting | 1 Suspect Arrested",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "h8VjK0Vl4d0",
             "title": "Italy Quake: Country Hit BY Most Powerful Earthquake in Nearly Four Decades",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Boeing's Dreamliner Jet Springs Second Fuel Leak",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "H2cyt52IdG4",
+            "title": "Olympics | Michael Phelps, Katie Ledecky Win Gold, Smash Records",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

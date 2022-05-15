@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SHqTQWTtMgY",
-            "title": "Special prosecutor to investigate Michigan State",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "U_snbmcsoec",
             "title": "Tom Brady is back",
             "secondDuration": 178,
@@ -31,8 +25,14 @@
             "title": "Dallas officer investigated for deadly shooting",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "7tdiGFNVdwM",
+            "title": "Hurricane Irene Leaves 6 Dead in North Carolina",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

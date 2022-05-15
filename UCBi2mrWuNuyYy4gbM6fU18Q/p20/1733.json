@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yxSUVZWh2-A",
-            "title": "In Search of the Best Ballpark Hot Dog",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "YeFeckfKO6w",
             "title": "Independent audit reveals bad bookkeeping at Pentagon",
             "secondDuration": 97,
@@ -121,8 +115,14 @@
             "title": "Imagining the future of artificial intelligence and its potential impact",
             "secondDuration": 455,
             "group": "group_7"
+        },
+        {
+            "videoId": "ww5B6A_ca3Q",
+            "title": "More than just a tourist destination: Bolivia's salt flats are key to its future",
+            "secondDuration": 450,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

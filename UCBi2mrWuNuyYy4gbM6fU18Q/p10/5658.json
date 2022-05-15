@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TGobbEDwpno",
-            "title": "'This Week' Web Extra: Peter Baker's 'Days of Fire' - NY Times White House Corresponden on New Book",
-            "secondDuration": 340,
-            "group": "group_7"
-        },
-        {
             "videoId": "vN2b2eGf7Z8",
             "title": "'Tiered approach' needed for states to reopen",
             "secondDuration": 318,
@@ -61,8 +55,14 @@
             "title": "White House press briefing with Sarah Sanders | ABC News",
             "secondDuration": 3052,
             "group": "group_7"
+        },
+        {
+            "videoId": "Iuqkt0cn1hc",
+            "title": "ATT Wireless Bids to Acquire T Mobile",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

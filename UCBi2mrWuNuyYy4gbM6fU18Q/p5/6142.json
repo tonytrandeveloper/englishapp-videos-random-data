@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bI29tOQUuqI",
-            "title": "The Briefing Room: Climate strike, whistleblower investigation, Saudi Arabia, 2020",
-            "secondDuration": 1614,
-            "group": "group_7"
-        },
-        {
             "videoId": "1ErKF2YziK4",
             "title": "The Debrief: David Ortiz shot, NYC chopper crash, Hong Kong demonstrations | ABC News",
             "secondDuration": 1600,
@@ -31,8 +25,14 @@
             "title": "Oprah's Final Farewell",
             "secondDuration": 396,
             "group": "group_7"
+        },
+        {
+            "videoId": "90rm8K5NfdY",
+            "title": "Officer Accused of Sexually Assaulting Woman He Pulled Over: Part 1",
+            "secondDuration": 454,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

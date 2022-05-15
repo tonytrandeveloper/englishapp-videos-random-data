@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "97vqCmkxDRY",
-            "title": "ABC News Prime: COVID-19 US surge; Virus’ effects on doctors; US troops level out overseas",
-            "secondDuration": 3615,
-            "group": "group_7"
-        },
-        {
             "videoId": "f95r9MSVstM",
             "title": "Katie Couric on Her New Daytime Talk Show 'Katie'",
             "secondDuration": 324,
@@ -61,8 +55,14 @@
             "title": "Justin Timberlake's Special Invitation",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "h7gL4c9d8ic",
+            "title": "How Missing Man's Family Finds Him Alive 23 Years Later",
+            "secondDuration": 488,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

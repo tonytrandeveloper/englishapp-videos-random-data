@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ynGL938wLaM",
-            "title": "Dwayne 'The Rock' Johnson on Whether He Would Run for President",
-            "secondDuration": 270,
-            "group": "group_7"
-        },
-        {
             "videoId": "jg-oCzrKyXo",
             "title": "Uber CEO on company culture: 'We have further to go'",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Russian Diplomat Confirms Trump, Moscow Link",
             "secondDuration": 397,
             "group": "group_7"
+        },
+        {
+            "videoId": "TME9NoTIA3Q",
+            "title": "Bachelorette Season 12 Episode 8 Recap | ABC News",
+            "secondDuration": 235,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

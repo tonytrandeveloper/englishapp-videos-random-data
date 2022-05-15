@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OqcuGuclYgQ",
-            "title": "Robert Allenby Allegedly Kidnapped and Attacked in Hawaii",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "Gk3RMiCyoak",
             "title": "LIVE: Iowa Caucus in the 2020 Democratic Primary - ABC News Live",
             "secondDuration": 18400,
@@ -31,8 +25,14 @@
             "title": "Joe Biden widens lead in Nevada",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "H1nHcRIh2FM",
+            "title": "Biden, Harris make 1st appearance together as presidential ticket | WNT",
+            "secondDuration": 350,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

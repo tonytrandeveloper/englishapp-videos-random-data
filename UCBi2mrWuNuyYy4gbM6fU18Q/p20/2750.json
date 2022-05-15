@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EVl1VxNp_4Y",
-            "title": "About 1,000 people involved in search and rescue efforts",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "_FPpjFwYJ6o",
             "title": "Election day in Russia proves triumphant for Putin",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "Trading temporarily halted as markets plummet despite Fed intervention  | ABC News",
             "secondDuration": 378,
             "group": "group_7"
+        },
+        {
+            "videoId": "DsgviNiXKso",
+            "title": "Ferguson Reacts After Police Officer Cleared of Civil Rights Violations",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

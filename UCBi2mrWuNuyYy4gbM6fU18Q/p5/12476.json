@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7N-TL5HhMQM",
-            "title": "The Briefing Room: Oval Office showdown, Criminal Justice reform vote, | ABC News",
-            "secondDuration": 1444,
-            "group": "group_7"
-        },
-        {
             "videoId": "KOSSn_vGtok",
             "title": "Verizon dumps Tumblr for fraction of $1 billion purchase price | Techbytes",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Trinity Gay Shooting | Men Arrested to Appear in Court",
             "secondDuration": 30,
             "group": "group_7"
+        },
+        {
+            "videoId": "AyaZ0Ry6VzI",
+            "title": "Trump's legal team firing warning shot to his former lawyer",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

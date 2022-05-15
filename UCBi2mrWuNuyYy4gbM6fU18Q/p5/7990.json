@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ejYjKs0Og9E",
-            "title": "ABC News Prime: Hospitalizations spike due to Omicron; Travel nightmares; Town divided over Jan. 6th",
-            "secondDuration": 5281,
-            "group": "group_7"
-        },
-        {
             "videoId": "1VudwcmUMdk",
             "title": "Motive Elusive in San Bernardino Shooting",
             "secondDuration": 477,
@@ -31,8 +25,14 @@
             "title": "MIX: Woman Calls 911 On Her Own Cat",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "pAmtZaLVLBQ",
+            "title": "Interview with Tim Pawlenty",
+            "secondDuration": 381,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

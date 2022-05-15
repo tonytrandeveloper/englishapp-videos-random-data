@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Us_Ds3b1rOg",
-            "title": "CDC: Half of US adults are fully vaccinated against COVID-19 | ABC News",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "NaYAOqHDORA",
             "title": "Kim Kardashian West Robbery in Paris: 17 Arrested Police Say",
             "secondDuration": 462,
@@ -31,8 +25,14 @@
             "title": "Jet Blue Mechanical Failure Triggers Emergency Landing; FAA To Investigate",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "-36ppZsistU",
+            "title": "Sen. Joe Manchin to vote to begin debate on updated voting rights bill",
+            "secondDuration": 358,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

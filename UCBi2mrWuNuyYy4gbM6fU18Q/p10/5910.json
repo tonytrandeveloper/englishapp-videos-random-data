@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "k304N4JZBmA",
-            "title": "Toys That Teach | ABC News",
-            "secondDuration": 274,
-            "group": "group_7"
-        },
-        {
             "videoId": "_hlLGllkgE0",
             "title": "New Concern and Fears Over Supplement That Claims to Burn Fat",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "NTSB to Hold Hearing on Asiana 777 Crash",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "L0pGGRenFwM",
+            "title": "Obama Rules Out Long-Term Ground War Against ISIS",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

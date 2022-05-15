@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "X3vK5qVNOWw",
-            "title": "Malala Yousafzai Speaks Out",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "ot4jAIsA3YE",
             "title": "Navy SEAL Team 6 Member Killed in Parachute Accident",
             "secondDuration": 80,
@@ -121,8 +115,14 @@
             "title": "WWE Partners with ESPN | ABC News",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "lp3wkz-Vqt8",
+            "title": "Caitlyn Jenner Speaks Out During Vanity Fair Shoot",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Qz3ZTUNB8ik",
-            "title": "Ken Jennings on his winning ‘Jeopardy!’ moment l ABC News",
-            "secondDuration": 260,
-            "group": "group_7"
-        },
-        {
             "videoId": "pA0DoRBlq8Q",
             "title": "Colorado arson murder mystery",
             "secondDuration": 340,
@@ -61,8 +55,14 @@
             "title": "Frantic search for 8 climbers missing in the Himalayas",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "aFLZc9_rjjE",
+            "title": "Interview with David Plouffe",
+            "secondDuration": 675,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

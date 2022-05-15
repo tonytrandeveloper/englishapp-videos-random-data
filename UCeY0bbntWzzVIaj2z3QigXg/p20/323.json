@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7hjGpGYwPsY",
-            "title": "Venezuelan Opposition Leaders Call On Military To Support Them | NBC News",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "8bpXNV4tTHs",
             "title": "Michael Phelps: This Is How I Figured Out How To Conquer Pressure | Better | NBC News",
             "secondDuration": 154,
@@ -121,8 +115,14 @@
             "title": "Welker Fact Checks Trump On Covid-19 Timeline | NBC News",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "yEIl8u5Csso",
+            "title": "President Trump’s Tariff Proposal Causes The World To Retaliate With Warnings | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

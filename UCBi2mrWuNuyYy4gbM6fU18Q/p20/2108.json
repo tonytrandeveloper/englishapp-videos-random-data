@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WkLuPUN3YFY",
-            "title": "Family of American killed in Spain terror attack speaks out",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "_3X8RR3KUIY",
             "title": "Evolution of the Airplane | The Wright Flyer to the Antonov An-225 Mriya",
             "secondDuration": 145,
@@ -121,8 +115,14 @@
             "title": "The Conversation: Happy Birthday New Coke!",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "SaSdTGrCt6w",
+            "title": "Scandal Over Rolling Stone Article Detailing an Alleged Rape at UVA",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

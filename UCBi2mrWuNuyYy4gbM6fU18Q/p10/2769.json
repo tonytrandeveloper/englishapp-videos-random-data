@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-9-47UzzF10",
-            "title": "Inspector General of Intel Community testifies behind closed doors | ABC News",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "2G0UlfVu96U",
             "title": "Mayweather vs. Pacquiao Problems: Pacquiao Waited to Disclose Shoulder Injury",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Major retailers kicking off big Black Friday sales",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ci7egPF3XY",
+            "title": "It's back to school season despite the largest pediatric COVID-19 surge since start of the pandemic",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "RkL2sfCv4k0",
-            "title": "An Energy Drink Made in America in a Dorm Room",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "e4zIWUDbRss",
             "title": "Woman Abandoned as Newborn Searches for Her Birth Parents: Part 1",
             "secondDuration": 430,
@@ -301,8 +295,14 @@
             "title": "New ABC News/Washington Post Poll Shows Tight Race for White House",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "mhssgvBCGW0",
+            "title": "Britain's Future King, Prince George is Christened",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

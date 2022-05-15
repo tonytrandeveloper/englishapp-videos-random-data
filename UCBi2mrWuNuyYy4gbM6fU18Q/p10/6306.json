@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CyVkbyv6n5o",
-            "title": "Deadly altercation over parking spot caught on camera",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "B1L-Ip1vkXc",
             "title": "Firestorm over Roger Stone case as President Trump bashes prosecutors l ABC News",
             "secondDuration": 272,
@@ -61,8 +55,14 @@
             "title": "Democratic 2020 candidates target Bloomberg | ABC News",
             "secondDuration": 232,
             "group": "group_7"
+        },
+        {
+            "videoId": "VKJIeWIcsHk",
+            "title": "Hurricane Earl Hits New England",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

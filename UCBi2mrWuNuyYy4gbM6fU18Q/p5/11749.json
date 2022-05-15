@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "amYInZfgFHA",
-            "title": "First-hand look at the devastation in Bahamas from Hurricane Dorian | ABC News",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "dWbW7_kcIF8",
             "title": "Pelican's Incredibly Dramatic Yawn",
             "secondDuration": 51,
@@ -31,8 +25,14 @@
             "title": "Treating America's Bedbug Problem",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "ihQZ-fH0PZ4",
+            "title": "Boris Johnson named British prime minister",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

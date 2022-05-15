@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ywu-fE7b5UA",
-            "title": "Panera Bread Drops Artificial Ingredients From Menu | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "gzJgTRZiWgY",
             "title": "Attorney General William Barr Says Mueller Report Expected 'Within A Week' | NBC News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "FDA Advisers Recommend Moderna’s Covid Vaccine | NBC Nightly News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "tG8FjqrFFvk",
+            "title": "Brooklyn Center Mayor Calls On Minnesota AG To Investigate Shooting Of Daunte Wright | NBC News NOW",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

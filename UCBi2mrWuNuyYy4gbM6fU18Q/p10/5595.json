@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-xwASDCKV5U",
-            "title": "Kamala Harris delivers remarks at 2020 DNC [FULL SPEECH]",
-            "secondDuration": 1135,
-            "group": "group_7"
-        },
-        {
             "videoId": "NEK7_Z1EL4M",
             "title": "Hospital Workers in Isolation for MERS",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "SKINNY: Taylor Takes Over GMA",
             "secondDuration": 254,
             "group": "group_7"
+        },
+        {
+            "videoId": "nARvabBzBh4",
+            "title": "Biden to announce vaccine requirements for federal workers",
+            "secondDuration": 319,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

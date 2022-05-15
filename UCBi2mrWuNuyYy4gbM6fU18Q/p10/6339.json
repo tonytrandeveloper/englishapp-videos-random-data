@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xGycyBoY0ks",
-            "title": "Webcast: Newt Gingrich Falls in Polls; Fargo Dog Rescue",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lwp1mvEQcA0",
             "title": "'This Week': Powerhouse Roundtable",
             "secondDuration": 943,
@@ -61,8 +55,14 @@
             "title": "President Obama Tours New Jersey Storm Damage",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "g0PhihN_Gtg",
+            "title": "Dow dives again as stocks fall overseas",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4UV0aTejRnk",
-            "title": "NYC on Edge After Powerful Explosion in Harlem Kills 3",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vek14edcZEk",
             "title": "Instant Index: Bee Sets US Open Abuzz Holding Court for Two Minutes",
             "secondDuration": 82,
@@ -31,8 +25,14 @@
             "title": "House judiciary chairman delivers impeachment opening statement | ABC News",
             "secondDuration": 640,
             "group": "group_7"
+        },
+        {
+            "videoId": "IHCjMbogxWQ",
+            "title": "‘Stand up and clap for Col. Vindman’: Biden",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

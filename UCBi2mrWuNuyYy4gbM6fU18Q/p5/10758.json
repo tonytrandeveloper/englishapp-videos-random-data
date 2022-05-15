@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7V255pZK6XU",
-            "title": "Trump says he wanted Pence to overturn election",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "cLxfAwM5Cj4",
             "title": "Kyle Rittenhouse’s lawyer moves for mistrial",
             "secondDuration": 319,
@@ -31,8 +25,14 @@
             "title": "Will Japan Earthquake Influence U.S. Politics?",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "_3jzKAunCKE",
+            "title": "White supremacist, neo-Nazi organizers found liable for violence",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

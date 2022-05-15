@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NEIkNZvDFnU",
-            "title": "Alleged newsroom shooter sued Capital Gazette for defamation",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "2WaLIS9uIbE",
             "title": "Biden signs order to curb greenhouse gas emissions by transitioning to electric cars",
             "secondDuration": 435,
@@ -121,8 +115,14 @@
             "title": "Woman's affair turns into nightmare of cyber-stalking: Part 1",
             "secondDuration": 605,
             "group": "group_7"
+        },
+        {
+            "videoId": "zC9GYxrBZ2Q",
+            "title": "Kids crash their parent's teleconference call",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

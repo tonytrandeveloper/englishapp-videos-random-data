@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YaouAdmXgHs",
-            "title": "Inside The First Black-Owned Autonomous Grocery Store",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "REjoYL7jm2Q",
             "title": "Southern Wildfires: 5,000 Firefighters Battling Blazes | NBC Nightly News",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "George Floyd’s Brother To U.N: ‘I’m Asking You To Help Us, Black People In America’ | NBC News NOW",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "tWHlQHEMij4",
+            "title": "Watch NBC News NOW Live - September 9",
+            "secondDuration": 42901,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

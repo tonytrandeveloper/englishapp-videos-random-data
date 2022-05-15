@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "erZk3tDTP0w",
-            "title": "NBC News NOW Full Broadcast - June 14th, 2021",
-            "secondDuration": 3029,
-            "group": "group_7"
-        },
-        {
             "videoId": "tue5FZPV_CI",
             "title": "SpaceX Falcon 9 Lifts Off In Heavy Fog | Mach | NBC News",
             "secondDuration": 96,
@@ -301,8 +295,14 @@
             "title": "360 Video: The World’s Fastest Zip Wire | NBC Nightly News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "K43WveeSexg",
+            "title": "Trump Delivers Remarks On Operation Warp Speed | NBC News",
+            "secondDuration": 1981,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

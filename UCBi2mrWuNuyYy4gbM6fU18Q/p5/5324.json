@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LIOZWRt_WJg",
-            "title": "Drew Brees speaks out on controversial call, Super Bowl",
-            "secondDuration": 211,
-            "group": "group_7"
-        },
-        {
             "videoId": "TiukwI2RjO8",
             "title": "White House press briefing with Secretary of State Rex Tillerson",
             "secondDuration": 2796,
@@ -31,8 +25,14 @@
             "title": "Rahm Emanuel: Trump's 'base will follow him... over a cliff' even if no border wall",
             "secondDuration": 580,
             "group": "group_7"
+        },
+        {
+            "videoId": "O_dUAwXGK4E",
+            "title": "ABC News Prime: Johnson & Johnson vaccine hope; Will Tiger Woods golf again?; Anti-vaxxers in the EU",
+            "secondDuration": 3626,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

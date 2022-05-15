@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DieEon-2C7M",
-            "title": "Frontline Workers Reflect On Fighting Pandemic, Becoming New Mothers | NBC News NOW",
-            "secondDuration": 297,
-            "group": "group_7"
-        },
-        {
             "videoId": "PN0bDiOcD8Q",
             "title": "Boos Heard During President Trump's Comments About Immigrants Bringing In Relatives | NBC News",
             "secondDuration": 72,
@@ -61,8 +55,14 @@
             "title": "More Than 30 Million Americans Are Under Winter Storm Watches",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "FBOcJyvTQqg",
+            "title": "Intelligence Chief Briefs On Cyber Security For Political Candidates | NBC News",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

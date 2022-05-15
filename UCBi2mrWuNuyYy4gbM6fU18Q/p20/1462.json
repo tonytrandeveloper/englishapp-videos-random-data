@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xSq-5QJu1_w",
-            "title": "Rocking With the Radio City Rockettes",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "OnoiynPnqoA",
             "title": "Popular Halloween Costumes In 2015 | ABC News",
             "secondDuration": 316,
@@ -121,8 +115,14 @@
             "title": "Last night’s Democratic debate saw candidates uniting against Michael Bloomberg",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "MVHFOsuffQ4",
+            "title": "Donald Trump's Transition Team Gears Up for Senate Confirmation Hearings",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

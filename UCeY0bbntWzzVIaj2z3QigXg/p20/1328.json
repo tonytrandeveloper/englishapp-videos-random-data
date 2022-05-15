@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LyZSAQHzss8",
-            "title": "How Spell-Check Algorithms Detect Typos | Mach | NBC News",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "5D1ybUqkIHo",
             "title": "Watch: Dashcam Video Shows Michigan Police Officer Save Choking Infant | NBC News NOW",
             "secondDuration": 120,
@@ -121,8 +115,14 @@
             "title": "The Humanitarian Crisis In Plain Sight On The Streets Of L.A. | NBC News",
             "secondDuration": 913,
             "group": "group_7"
+        },
+        {
+            "videoId": "56GoBhh9XWA",
+            "title": "Drone Video Reveals Destruction As Raqqa Is Officially Declared ‘Liberated From ISIS’ | NBC News",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ReOE8sWNJZM",
-            "title": "Morning News NOW Full Broadcast - April 1",
-            "secondDuration": 2445,
-            "group": "group_7"
-        },
-        {
             "videoId": "-so1y6Q7Ml4",
             "title": "Russian Invasion A Historic Test For World Leaders",
             "secondDuration": 278,
@@ -31,8 +25,14 @@
             "title": "Facebook: 80,000 Russian-Backed Ads Potentially Reached A Third Of All Americans | NBC Nightly News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "-K_F7pI_Hko",
+            "title": "Gov. Jerry Brown: Ted Cruz 'Unfit To Be Running' For President | Meet The Press | NBC News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

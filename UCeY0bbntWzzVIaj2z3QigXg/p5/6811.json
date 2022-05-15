@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yKCoNCldNQk",
-            "title": "Biden Announces Executive Orders To 'Curb The Epidemic Of Gun Violence' | NBC News",
-            "secondDuration": 356,
-            "group": "group_7"
-        },
-        {
             "videoId": "l_-xZG2GqK8",
             "title": "EPA Chief Scott Pruitt Announces Revision Process On Fuel Economy Standards | NBC News",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "Dorian Passes Charleston, Flooding And Power Outages Major Concern | NBC News",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "n6viNbNzy9g",
+            "title": "Marcia Clark Reliving O.J. Verdict: ‘Justice Was Certainly Not Done’ | NBC Nightly News",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

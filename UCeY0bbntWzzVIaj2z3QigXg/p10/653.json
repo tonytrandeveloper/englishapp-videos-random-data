@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tverMdXk-sU",
-            "title": "Arctic Blast Dropping Temps Below Normal In 45 U.S. States | NBC Nightly News",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "qUmBp-TJMvc",
             "title": "Bernie Sanders Talks Patriot Act: 'Losing Our Privacy' | Meet The Press | NBC News",
             "secondDuration": 395,
@@ -61,8 +55,14 @@
             "title": "Donald Trump on Accepting Election Results: 'I'll Look At It At The Time' | NBC News",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "iESIZyQLgCE",
+            "title": "Trump: Economy 'May Be' Heading Toward Recession Due To Coronavirus | NBC News",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WYEuHmXLRcI",
-            "title": "Chasing Ivory Poachers, Smugglers in West Africa",
-            "secondDuration": 930,
-            "group": "group_7"
-        },
-        {
             "videoId": "FYbXyFlotnQ",
             "title": "Pope Francis Celebrates Easter Sunday",
             "secondDuration": 148,
@@ -121,8 +115,14 @@
             "title": "9-Year-Old Killed in 'Targeted Assassination' by Chicago Gang",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "AqyIWCT7_fM",
+            "title": "WH blasts Democrats' 'disgraceful' investigation",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

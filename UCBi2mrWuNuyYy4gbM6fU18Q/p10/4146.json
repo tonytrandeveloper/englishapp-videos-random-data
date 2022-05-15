@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pH7l5v0w4po",
-            "title": "New ABC drama ‘Queens’ puts spotlight on women in hip-hop, female empowerment | Nightline",
-            "secondDuration": 447,
-            "group": "group_7"
-        },
-        {
             "videoId": "7drVLJ3Wt7s",
             "title": "Super Bowl 2014: Seahawk's Derrick Coleman First Legally Deaf Player",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "A look inside the largest hospital in the US | WNT",
             "secondDuration": 405,
             "group": "group_7"
+        },
+        {
+            "videoId": "e3o3gHwkeNE",
+            "title": "President Joe Biden commits additional military assistance to Ukraine",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

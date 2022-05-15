@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XOL2hOuloyU",
-            "title": "NYC Health Care Workers Recovering From Stress, Struggle Of COVID Epicenter | NBC Nightly News",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "yZU7vbnMXPI",
             "title": "Biden Signs Juneteenth National Independence Day Act | NBC News",
             "secondDuration": 1350,
@@ -31,8 +25,14 @@
             "title": "Kim Jong Nam Murder: Newly-Released Security Video Shows Attack | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "z7XmcZQjRs8",
+            "title": "Short-Staffed Hospitals Asking Workers With Covid To Return To Work",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

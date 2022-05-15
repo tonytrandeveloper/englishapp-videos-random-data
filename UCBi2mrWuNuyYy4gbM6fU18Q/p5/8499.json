@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oEyYAfON9vk",
-            "title": "Thor, God of Thunder, as Told by Chris Hemsworth and Kenneth Branagh",
-            "secondDuration": 514,
-            "group": "group_7"
-        },
-        {
             "videoId": "2Vt3IfhvRwA",
             "title": "True Detective: Season 2 Preview",
             "secondDuration": 50,
@@ -31,8 +25,14 @@
             "title": "Australian Boy with Autism Found in Woods, Details Emerge",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "DyhhMa3JBRs",
+            "title": "SCOTUS returns case on transgender bathroom rights",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

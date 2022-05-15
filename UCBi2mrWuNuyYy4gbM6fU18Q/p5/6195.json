@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MUXDyBQjBeU",
-            "title": "ABC News Prime: States with record Covid cases; Pregnant in a pandemic; Tracking severe storms",
-            "secondDuration": 3635,
-            "group": "group_7"
-        },
-        {
             "videoId": "9GpcgKvrvxI",
             "title": "YouTube Video May Show Girl Who Has Been Missing for 7 Years",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "The Conversation: High School Kids in China",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "xlgd-fPuhG8",
+            "title": "Drilling the Gulf Relief Well",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PK5TmXFVmt0",
-            "title": "Ben Affleck Talks Gone Girl, Batman And More | NBC News",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "nG-DkYZTHa8",
             "title": "President Donald Trump Fires National Security Adviser John Bolton In Tweet | NBC Nightly News",
             "secondDuration": 148,
@@ -121,8 +115,14 @@
             "title": "Why States Like TX & MS Are Rolling Back Covid Restrictions, Lifting Mask Mandate | NBC News NOW",
             "secondDuration": 298,
             "group": "group_7"
+        },
+        {
+            "videoId": "H0v0xp2JGG0",
+            "title": "House Intel Chair Devin Nunes Responds To Release Of Democratic Memo | NBC News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SA6YgTZcdh4",
-            "title": "Hispanic Voters: Obama vs. Romney",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "ku1flhEKMkU",
             "title": "Presidential Debate 2012 on Jobs: Romney Decries 'Economy Tax'; President Obama Defends Record",
             "secondDuration": 1322,
@@ -121,8 +115,14 @@
             "title": "Prince Harry Opens Up about Princess Diana, Having Kids",
             "secondDuration": 351,
             "group": "group_7"
+        },
+        {
+            "videoId": "lTm6ch9Hu-M",
+            "title": "Cool Cats Who Love Cats",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

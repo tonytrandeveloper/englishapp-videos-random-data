@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GjkMcPkEb-Y",
-            "title": "Lone Gunman Assaults Police Station in Dallas",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sl_WRNGjEyM",
             "title": "Drone Has Near Miss With US Airways Jet in North Carolina",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Murder spree may have sprung from divorce: Police",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "5Izh4qRRvzk",
+            "title": "'To take (Trump's) bait time and time again is just a gift to him': Nancy Pelosi | ABC News",
+            "secondDuration": 352,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

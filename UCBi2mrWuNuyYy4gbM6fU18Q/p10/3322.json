@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fFv1B6e2Q9w",
-            "title": "'Briefing Room': Hurricane Florence, Trump's Puerto Rico comments, 538's 2018 Senate forecast",
-            "secondDuration": 1181,
-            "group": "group_7"
-        },
-        {
             "videoId": "2qE8ZlDgeOA",
             "title": "Senate expected to vote on witnesses today in impeachment trial l ABC News",
             "secondDuration": 202,
@@ -61,8 +55,14 @@
             "title": "The Personal Side of Troops in America's Wars",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ro9bZpoZ9Vc",
+            "title": "Houston security guard loses job for not aiding police officer with arrest",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

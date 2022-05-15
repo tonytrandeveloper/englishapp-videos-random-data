@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "42HqkMSNwA8",
-            "title": "President Donald Trump: North Korea Summit May Not Happen In June | NBC Nightly News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "7lQd7T5D9Ec",
             "title": "‘Miracle’ Baby Found Safe In Montana Forest After Being Buried Alive | NBC Nightly News",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump To AG Jeff Session: End Mueller Investigation ‘Right Now’ | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "PPuml0UWZWY",
+            "title": "NY AG Letitia James Faces Criticism For Daniel Prude Killing Investigation",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

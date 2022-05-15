@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WtELv-jCM0s",
-            "title": "Aurora, Colorado, Shooting: Portrait of James Holmes",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "jxZwwMhnHFk",
             "title": "Intel chiefs challenge President Trump's national security claims",
             "secondDuration": 1386,
@@ -31,8 +25,14 @@
             "title": "Fired Google engineer to file labor complaint",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "brJkOTrDZmM",
+            "title": "Will Smith Shooting Aftermath Caught on Video",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

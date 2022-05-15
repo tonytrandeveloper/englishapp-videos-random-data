@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "52-0JQcixp4",
-            "title": "Check the Carfax",
-            "secondDuration": 449,
-            "group": "group_7"
-        },
-        {
             "videoId": "gLorpoB3apA",
             "title": "LAPD: Tiger Woods’ car crash caused by high speed, hit tree",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "11-month-old girl shot in face in the Bronx l ABC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "VHOr-e8aB9Y",
+            "title": "Kellyanne Conway Interview on Clinton Aides Clash",
+            "secondDuration": 434,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VXzCVY5-zoE",
-            "title": "White House Holds Press Briefing: March 3 | NBC News",
-            "secondDuration": 3096,
-            "group": "group_7"
-        },
-        {
             "videoId": "sMlEuVm1DXw",
             "title": "If You Think About Kim Jong-Un As A CEO, He Might Not Look So Crazy | Think | NBC News",
             "secondDuration": 242,
@@ -61,8 +55,14 @@
             "title": "Hard Rock Hotel Construction Collapse Witness: ‘It Was Pandemonium’ | NBC News Now",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "C9hBft4frfo",
+            "title": "Translator Risked Life For U.S., Now Stranded By Donald Trump Travel Ban | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

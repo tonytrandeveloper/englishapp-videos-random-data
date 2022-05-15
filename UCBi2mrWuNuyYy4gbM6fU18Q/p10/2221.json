@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NI21xI7rKjQ",
-            "title": "Wounded Fort Hood Soldier Speaks Out",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "h35TTsjPfGo",
             "title": "Minneapolis holds celebration of George Floyd’s life",
             "secondDuration": 505,
@@ -61,8 +55,14 @@
             "title": "Ted Cruz, John Kasich Band Together to Stop Donald Trump",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "rQRDqAqwGAk",
+            "title": "'Sugar Daddies' Hook Up with Young Women | Nightline | ABC News",
+            "secondDuration": 436,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

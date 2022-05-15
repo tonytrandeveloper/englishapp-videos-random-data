@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K68-1Qujgq8",
-            "title": "Fishermen Rescued From Sinking Boat In Massachusetts",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "hp4aZiA6Uyo",
             "title": "Gabby Petito’s Family Speaks Out In Fifth Week Of Search For Brian Laundrie",
             "secondDuration": 248,
@@ -61,8 +55,14 @@
             "title": "Full Klobuchar: Bloomberg 'Just Can’t Hide Behind The Airwaves' | Meet The Press | NBC News",
             "secondDuration": 678,
             "group": "group_7"
+        },
+        {
+            "videoId": "aCKIJpBkxS8",
+            "title": "U.S. Military Bases Raise Security Level Over ISIS Threat | NBC Nightly News",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CAcnSN-ObnM",
-            "title": "Celebrities Take To Social Media To Be Voices In Reason In COVID-19 Pandemic | NBC News",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "tC4D8OFDkO4",
             "title": "NASA Tracks Greenland Glaciers To Understand Climate Change | NBC Nightly News",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Schools Offer Relief During Coronavirus Shutdown | NBC Nightly News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "I40bdaDmLYU",
+            "title": "Texas Dems Flee State To Avoid Voting In Special Legislative Session",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

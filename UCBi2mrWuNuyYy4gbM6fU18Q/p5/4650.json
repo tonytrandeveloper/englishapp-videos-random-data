@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hnwHUmWbmfM",
-            "title": "Nation braces for verdict in trial of Derek Chauvin",
-            "secondDuration": 309,
-            "group": "group_7"
-        },
-        {
             "videoId": "qXtVfb2YQzs",
             "title": "Helicopter Crashes in London, 2 Dead",
             "secondDuration": 45,
@@ -31,8 +25,14 @@
             "title": "Cuomo charged with misdemeanor sex crime",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "YES0b-xgWRI",
+            "title": "Lady Gaga pulls song with R. Kelly from streaming platforms",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

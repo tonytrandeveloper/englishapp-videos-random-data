@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HyaQ7xw6BqA",
-            "title": "President Donald Trump Hosts Greek Independence Day Celebration | NBC News",
-            "secondDuration": 2335,
-            "group": "group_7"
-        },
-        {
             "videoId": "MI2ke9iEaTE",
             "title": "First Severe Reaction To Covid Vaccine Reported In U.S. | NBC Nightly News",
             "secondDuration": 120,
@@ -121,8 +115,14 @@
             "title": "The American Muslim Experience | Meet The Press",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "i5Gqw7PKSX4",
+            "title": "Inside The Fight To Ban Conversion Therapy | NBC News NOW",
+            "secondDuration": 432,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

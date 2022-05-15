@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cJ_cnBv6epo",
-            "title": "'Can't just pick a date and flip a switch,' Maryland governor says | ABC News",
-            "secondDuration": 399,
-            "group": "group_7"
-        },
-        {
             "videoId": "X89lB-rDAU4",
             "title": "Devoted teacher invites her students to be in her wedding",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Hacking Hotel Locks in Seconds With Cheap Tools",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "8gQnOegZCS8",
+            "title": "Dems release depositions ahead of public impeachment hearings l ABC News",
+            "secondDuration": 346,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TY_tHs286SU",
-            "title": "A Slow-Motion View of the Women's March | NBC News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "lPL-Wqrz56g",
             "title": "Honoring The Life Of Desmond Tutu",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Haiti Hit By Serious Storm After Deadly Earthquake",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "Aq_VRNlXkK4",
+            "title": "Biden Discusses Meeting With Putin: 'My Agenda Is Not Against Russia'",
+            "secondDuration": 492,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

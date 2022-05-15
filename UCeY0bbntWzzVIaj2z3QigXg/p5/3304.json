@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vuJlFOIO0ok",
-            "title": "Biden Delivers Remarks To Mark Amtrak's 50th Anniversary | NBC News",
-            "secondDuration": 990,
-            "group": "group_7"
-        },
-        {
             "videoId": "19OuAxL08J8",
             "title": "Heart Attack Survivor Runs Marathon Again With Surgeon Who Saved His Life| NBC Nightly News",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Tom Brokaw Reports On A Half-Century Of History Around The World | NBC News",
             "secondDuration": 496,
             "group": "group_7"
+        },
+        {
+            "videoId": "oa8MbqRZQ4E",
+            "title": "Biden Delivers Remarks On U.S. Troop Withdrawal From Afghanistan | NBC News",
+            "secondDuration": 1895,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

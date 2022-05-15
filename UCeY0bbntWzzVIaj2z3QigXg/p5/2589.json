@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9QDWbse4wFU",
-            "title": "Live: L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
-            "secondDuration": 3179,
-            "group": "group_7"
-        },
-        {
             "videoId": "wQpqpmkIWPs",
             "title": "Two Parents Convicted In College Admissions Scandal Trial",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Number of coronavirus cases increases to 200, health officials confirm | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "DYYegFAH9K0",
+            "title": "Can Rudy Giuliani Defy A Congressional Subpoena? | NBC News Now",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

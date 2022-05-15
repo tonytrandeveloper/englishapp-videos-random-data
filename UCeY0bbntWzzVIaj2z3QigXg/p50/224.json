@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "hpcmHQWhkmY",
-            "title": "New Questions Over Trump’s Fiery Rhetoric After Suspicious Package Scares | NBC Nightly News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "Gfr6jOBvN9A",
             "title": "California Considers Rebates For Drivers To Help Offset Rising Gas Prices",
             "secondDuration": 99,
@@ -301,8 +295,14 @@
             "title": "Mitch McConnell: Senate Tax Reform Efforts Likely To Be Republican-Only | NBC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kk1suPRSqtg",
+            "title": "Wildfires Near Boulder, Colorado Force Thousands To Evacuate",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

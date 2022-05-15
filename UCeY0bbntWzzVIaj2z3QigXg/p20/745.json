@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "eoW-jpPa8t8",
-            "title": "White House Holds Press Briefing: July 16 | NBC News",
-            "secondDuration": 3441,
-            "group": "group_7"
-        },
-        {
             "videoId": "grY0YC8a9G0",
             "title": "George W. Bush Slams Russia For Attempts To ‘Exploit Our Country’s Divisions’ | NBC News",
             "secondDuration": 69,
@@ -121,8 +115,14 @@
             "title": "Chief Justice Roberts Arrives To Be Sworn In For Senate Impeachment Trial | NBC News",
             "secondDuration": 47,
             "group": "group_7"
+        },
+        {
+            "videoId": "lDk_TPZmEZg",
+            "title": "Biden On Vaccines: ‘I Trust Scientists, But I Don’t Trust Donald Trump’ | NBC News NOW",
+            "secondDuration": 692,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

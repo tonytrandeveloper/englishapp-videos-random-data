@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DeYPfCVthsE",
-            "title": "President Elect Trump Goes to Washington",
-            "secondDuration": 493,
-            "group": "group_7"
-        },
-        {
             "videoId": "YZxOfLH5bAY",
             "title": "Instant Index: Crash Test Dummies Get a Makeover",
             "secondDuration": 40,
@@ -31,8 +25,14 @@
             "title": "Trump vs. Biden on the issues: Health and COVID-19 | ABC News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "I8hAfZCtnjs",
+            "title": "Reince Priebus 'This Week' Interview",
+            "secondDuration": 372,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

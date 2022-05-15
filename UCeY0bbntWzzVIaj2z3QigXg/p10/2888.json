@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "d4mG-F4Attc",
-            "title": "16 Americans Kidnapped In Haiti",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "8VsP2WjuFxE",
             "title": "7 Injured When Camel Gets Spooked At Pittsburgh Circus | NBC Nightly News",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "Toddler Fatally Shoots Mother On Zoom Call After Finding Unsecured Gun",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "fOZpvTh31N0",
+            "title": "A Closer Look At Russia’s Global Influence Amid 2020 Election | NBC News NOW",
+            "secondDuration": 406,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

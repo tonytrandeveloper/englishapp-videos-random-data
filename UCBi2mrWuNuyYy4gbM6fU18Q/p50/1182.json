@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "79wgRgJYz4k",
-            "title": "Fiscal Cliff Countdown: Negotiations Still Stalled",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "F0SDqS6cBXA",
             "title": "Bristol Palin Talks About Teen Pregnancy",
             "secondDuration": 409,
@@ -301,8 +295,14 @@
             "title": "NTSB to Hold Hearing on Asiana 777 Crash",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "L0pGGRenFwM",
+            "title": "Obama Rules Out Long-Term Ground War Against ISIS",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

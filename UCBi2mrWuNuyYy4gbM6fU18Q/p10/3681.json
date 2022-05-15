@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oqAT74k9raI",
-            "title": "‘Star Wars’ stars talk about ending the legendary saga, ‘deep love’ between co-stars | Nightline",
-            "secondDuration": 412,
-            "group": "group_7"
-        },
-        {
             "videoId": "YON3WS-kxLA",
             "title": "Vaccine Watch: How a COVID-19 vaccine will be distributed",
             "secondDuration": 295,
@@ -61,8 +55,14 @@
             "title": "Vacation Alert",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "SmwMZOMt0FY",
+            "title": "CDC authorizes Pfizer booster for 16- and 17-year-olds l ABC News",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

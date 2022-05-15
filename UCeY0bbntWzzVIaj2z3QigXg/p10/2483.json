@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "joD_zmmrThw",
-            "title": "Hillary Clinton Talks Iran, Bernie Sanders (Full Interview) | Meet The Press | NBC News",
-            "secondDuration": 519,
-            "group": "group_7"
-        },
-        {
             "videoId": "Il-Kuc4M1lA",
             "title": "President Donald Trump Threatens ‘No More DACA Deal’ In Sunday Tweets | NBC Nightly News",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Shooter In Custody After Pittsburgh Synagogue Shooting | NBC News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "1SqQEn712xs",
+            "title": "Elderly Popsicle Man In Viral Photo Has Pushed His Cart For Last Time | NBC Nightly News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

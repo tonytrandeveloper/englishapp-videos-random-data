@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wFve9vdP0IQ",
-            "title": "American Group Helps Guide Ukrainian Orphans To Safety",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "3sWw3DuseVw",
             "title": "Full Johnson: 'I Understand The President's Frustration' | Meet The Press | NBC News",
             "secondDuration": 451,
@@ -61,8 +55,14 @@
             "title": "Live: Joe Biden Delivers Remarks At A Black Economic Summit | NBC News",
             "secondDuration": 2561,
             "group": "group_7"
+        },
+        {
+            "videoId": "KwH_3DodSdg",
+            "title": "Delta Variant Fuels Surge Of New Cases Across U.S.",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

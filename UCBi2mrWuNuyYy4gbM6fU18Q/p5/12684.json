@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ExWrJF7ftWM",
-            "title": "Inside last minute preparations for historic SpaceX launch l GMA",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "CJ3s4mSwV8I",
             "title": "Tracking Hurricane Delta as storm moves in l GMA",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Police in California searching for driver who struck 7-year-old girl",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "nJp3I5P0dBs",
+            "title": "Superstorm Sandy Wrecks Gas Lines in NJ",
+            "secondDuration": 336,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

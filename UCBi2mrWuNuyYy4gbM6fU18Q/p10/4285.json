@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DfIEMnHUEbg",
-            "title": "Firefighters Attempt to Save Multi-Million Dollar Mansion",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "vCPvRkMRYWA",
             "title": "Sen. Rand Paul on health care bill: 'We never ran on a replacement of Obamacare Lite'",
             "secondDuration": 404,
@@ -61,8 +55,14 @@
             "title": "Tensions high with Iran, fighter jet crash, Trump’s immigration plan",
             "secondDuration": 1554,
             "group": "group_7"
+        },
+        {
+            "videoId": "wpj6kJpV3Jo",
+            "title": "Should Americans reconsider travel plans in wake of coronavirus?",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

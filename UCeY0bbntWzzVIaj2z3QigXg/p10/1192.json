@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ydiNVnf9q_g",
-            "title": "Ukraine’s President Zelenskiy Alleges Russian Coup Plot",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "GAEW1ZlOm2k",
             "title": "Company Trying To Revolutionize Deliveries With Robot Delivery | NBC Nightly News",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Southern U.S. Experiences Winter Weather As Storm Moves Up The East Coast | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "k5m_-LxNBws",
+            "title": "Teen Survives 49 Days Adrift In Pacific Ocean | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

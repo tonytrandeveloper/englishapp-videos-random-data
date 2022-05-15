@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3fpyHEOkSbM",
-            "title": "A Better Way To Appreciate Your Mother | Better | NBC News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "sosDWzwU-Lo",
             "title": "Democratic Candidates Focused Attacks Against Donald Trump On The Second Night Of Debates | NBC News",
             "secondDuration": 232,
@@ -31,8 +25,14 @@
             "title": "Kids Rescued As Shelling, Airstrikes By Syrian Forces Kill At Least 98 In One Day | NBC News",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "cLYM76VbiiA",
+            "title": "Yakuza Boss Arrested In Undercover Bust Of Alleged Weapons-For-Drugs Plot",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

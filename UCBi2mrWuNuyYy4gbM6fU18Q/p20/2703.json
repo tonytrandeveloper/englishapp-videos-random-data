@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6fpbNlxJ5bs",
-            "title": "Super Bowl 51: Patriots, Falcons Step Into the Spotlight | ABC News",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "cYEKcHhZf_k",
             "title": "Rep. John Lewis calls Trump 'a racist' for his 's---hole countries' comment",
             "secondDuration": 256,
@@ -121,8 +115,14 @@
             "title": "Hurricane Laura barrels down on Texas, Louisiana as a monster storm | Nightline",
             "secondDuration": 688,
             "group": "group_7"
+        },
+        {
+            "videoId": "u78vLISDvKo",
+            "title": "The race to prevent the sudden death of mothers in childbirth in the U.S.",
+            "secondDuration": 607,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ut3bwGFLecI",
-            "title": "WEBCAST: Mandela Remembered",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "SgrNahS-EVA",
             "title": "Roger Ailes Resigns as Fox News Chairman",
             "secondDuration": 19,
@@ -31,8 +25,14 @@
             "title": "Donald Trump speaks briefly as he departs the White House l ABC News",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "Brru8ADSPGI",
+            "title": "Behind the Scenes at MAD Magazine",
+            "secondDuration": 250,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vFdCMTs5VnU",
-            "title": "Kamala Harris Holds Virtual Early Vote Event | NBC News",
-            "secondDuration": 2866,
-            "group": "group_7"
-        },
-        {
             "videoId": "AG61_CiZiEU",
             "title": "Sean Spicer's Comments On Adolf Hitler, Chemical Weapons Backfiring | NBC Nightly News",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Trump Threatens To Send Federal Agents To Major Cities Amid Surge In Violence | NBC Nightly News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "HH9H11HgbsE",
+            "title": "Rowdy Gaines Warns Others After Scammers Pretended To Hold His Daughter Hostage | NBC Nightly News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

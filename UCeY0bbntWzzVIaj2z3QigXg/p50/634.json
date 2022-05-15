@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "s_aXOSmuXoY",
-            "title": "An Algorithm Can Solve A Rubik's Cube Faster Than Any Human | Mach | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "DvOT8-Z7rvs",
             "title": "Before Colin Kaepernick, Mahmoud Abdul-Rauf's Silent Protest | Flashback | NBC News",
             "secondDuration": 109,
@@ -301,8 +295,14 @@
             "title": "Jerusalem Clashes Puts Damper On Christmas In Bethlehem | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "9D0zyNyvzaE",
+            "title": "Tension Between Trump And Macron As Leaders Gather In Paris For WWI Anniversary | NBC Nightly News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

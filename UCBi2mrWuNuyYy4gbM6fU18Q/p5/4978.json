@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_URqh0rvpOY",
-            "title": "Prince Harry Arrives in the U.S. | ABC News",
-            "secondDuration": 283,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vyx5XorTIck",
             "title": "Inside look at the de-aging technology used in ‘The Irishman’ | ABC News Prime",
             "secondDuration": 349,
@@ -31,8 +25,14 @@
             "title": "Exclusive:  American Apparel CEO",
             "secondDuration": 400,
             "group": "group_7"
+        },
+        {
+            "videoId": "I0bl5Eyig20",
+            "title": "Shimon Peres Dies at 93 | Ex-Israeli President and PM Remembered",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KTjnDpifwdI",
-            "title": "Armstrong Faces New Doping Charges",
-            "secondDuration": 304,
-            "group": "group_7"
-        },
-        {
             "videoId": "9f05dhkw9Uo",
             "title": "Obama Offers Year End Speech",
             "secondDuration": 86,
@@ -31,8 +25,14 @@
             "title": "Sandy Hook Style Shooting, Rochester Fire:  Death Toll Rises to 3",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "ahRD3xAkYFE",
+            "title": "Bob Cusak on What's Happening on the Hill",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

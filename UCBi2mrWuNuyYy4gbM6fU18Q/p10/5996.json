@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mlxe9B1tf_M",
-            "title": "Webcast: Most Amazing Stunt Ever",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "uSwLgzZgR3A",
             "title": "San Francisco Police Under Fire for Alleged Racist and Homophobic Slurs",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "Chuck Grassley: Obama Gun Argument Turns Constitution 'On Its Head'",
             "secondDuration": 581,
             "group": "group_7"
+        },
+        {
+            "videoId": "f83WBLWsUco",
+            "title": "President Donald Trump signs the VA Mission Act of 2018 | ABC News",
+            "secondDuration": 1112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

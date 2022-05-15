@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "2skOPUqNQ94",
-            "title": "Surgeon and his girlfriend accused of drugging, raping women",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "S3s1vlhOJuA",
             "title": "School Bus Slides Down Snow-Slick Hill",
             "secondDuration": 31,
@@ -301,8 +295,14 @@
             "title": "U.S. intelligence differs with Trump on global threats",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "WnCfs4wXOJQ",
+            "title": "Ferguson Shooting: Search Underway for Suspect",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

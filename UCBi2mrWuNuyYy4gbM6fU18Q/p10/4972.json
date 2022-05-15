@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FNcN4f796A4",
-            "title": "Man Finds $1300 in Domino's Pizza Box",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "b4zXrA9y9Yo",
             "title": "Missing child found after nearly 3 years l WNT",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Former Trump homeland security adviser talks North Korea meeting",
             "secondDuration": 424,
             "group": "group_7"
+        },
+        {
+            "videoId": "PWwapzwrtlc",
+            "title": "Ice Storm Sweeps Across America, Warmer Temperatures in Sight",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

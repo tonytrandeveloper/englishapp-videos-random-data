@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9O7MnCIhj_o",
-            "title": "The Bridge: Coming to America | Jubilee Project | NBC Asian America",
-            "secondDuration": 253,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tyk7rPYK8jE",
             "title": "Trump Doctor Admits He Did Not Reveal Key Information On Trump’s Condition | NBC Nightly News",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Strong Earthquake Shakes Central Italy | NBC News",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "L8Nwfnoc8v8",
+            "title": "CIA Director Mike Pompeo Shares The View Of America's Security From Langley (Full) | NBC News",
+            "secondDuration": 3484,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

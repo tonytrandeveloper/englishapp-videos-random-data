@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YCG5G_hryLY",
-            "title": "Royal Wedding Recap",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZgQzGkHgR_k",
             "title": "Kim Davis INTERVIEW | Defends Denying Same-Sex Marriage Licenses",
             "secondDuration": 323,
@@ -121,8 +115,14 @@
             "title": "Trump: 'The United States will withdraw from the Iran nuclear deal'",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "y7wB3BrttuM",
+            "title": "The Fame Game",
+            "secondDuration": 397,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DwAXGuNaVyU",
-            "title": "One-on-One With Joe Biden Ahead of Tuesday’s Debate | NBC Nightly News",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "Orbc7nrWEyI",
             "title": "A To Z 2018: Alton Wang Is Working Toward Stronger And Inclusive Representation | NBC Asian America",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - Feb. 22",
             "secondDuration": 1001,
             "group": "group_7"
+        },
+        {
+            "videoId": "aRsP2rR3r28",
+            "title": "FDA Panel Recommends Johnson & Johnson Booster For Emergency Use Authorization",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

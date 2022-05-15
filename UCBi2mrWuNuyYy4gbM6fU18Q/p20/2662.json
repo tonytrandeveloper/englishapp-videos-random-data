@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jxROk7NyDuo",
-            "title": "The Conversation: Tiger Woods Says He's Sorry",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "YnENgJoPkxw",
             "title": "‘Welcome to Chechnya’ documentarian on refugees escaping violence against LGBTQ+",
             "secondDuration": 697,
@@ -121,8 +115,14 @@
             "title": "Biden unveils $1.9 trillion COVID recovery plan",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "Io9BhxYDiCc",
+            "title": "Hurricane Sandy Sinks Replica Three-mast Ship; Helicopter Rescue Saves Stranded Passengers",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

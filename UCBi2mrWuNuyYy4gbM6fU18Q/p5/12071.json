@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2CQLBd5nIqA",
-            "title": "Mike Pence elaborates on Trump's joint address",
-            "secondDuration": 291,
-            "group": "group_7"
-        },
-        {
             "videoId": "fkozUzFX-tM",
             "title": "Karen Gillan and John Cho Shed Light on 'Selfie'",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "Black Americans create safe havens from racism",
             "secondDuration": 554,
             "group": "group_7"
+        },
+        {
+            "videoId": "PVQHKvAUS3E",
+            "title": "Former alt-right member wants to prevent others from joining these hate groups | Nightline",
+            "secondDuration": 544,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

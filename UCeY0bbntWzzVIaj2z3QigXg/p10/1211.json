@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KMon21NlNq4",
-            "title": "Chicago Trauma: Psychological Wounds Go Beyond the Bloodshed | NBC News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "7oGofOuai1k",
             "title": "Fact Check: There Are No Magnets In Your Covid Vaccine",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Tells Florida Supporters To ‘Pretend We’re Down’ | NBC News",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "i3iMj4cATB8",
+            "title": "Before Collapse, Florida Condo President Warned About ‘Concrete Deterioration’",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

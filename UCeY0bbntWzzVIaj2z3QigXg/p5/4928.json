@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RIPJXuBYAxg",
-            "title": "Eyewitness Video Captures Deadly Tornado Over New Orleans",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "cHdHXwaKXp0",
             "title": "Ford Urged To Recall 1.3 Million Vehicles Over Carbon Monoxide | NBC Nightly News",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Live: Illinois Gov. Pritzker Holds Coronavirus Briefing | NBC News",
             "secondDuration": 1830,
             "group": "group_7"
+        },
+        {
+            "videoId": "tXuFCYFrdDw",
+            "title": "Super! Nintendo Games Coming To iOS In Time For Christmas | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

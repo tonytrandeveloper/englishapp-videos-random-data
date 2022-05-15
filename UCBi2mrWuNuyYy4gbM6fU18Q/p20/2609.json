@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IfCvXqdq8rQ",
-            "title": "The Conversation: Stephen and Lucy Hawking",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "5vhB1fK66J4",
             "title": "White House Questions Trump's Invitation of Obama's Half-Brother",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "NYC expands vaccine mandate to private sector employers l ABC News",
             "secondDuration": 327,
             "group": "group_7"
+        },
+        {
+            "videoId": "ORa22pYoVUM",
+            "title": "Police Believe Canadian Gunman Was Lone Wolf",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

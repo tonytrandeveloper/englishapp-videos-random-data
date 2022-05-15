@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rULUEGmhTfQ",
-            "title": "The Debate Over No-Fly Zone Over Ukraine Heats Up",
-            "secondDuration": 726,
-            "group": "group_7"
-        },
-        {
             "videoId": "R08uJ1I9cLM",
             "title": "FEMA: Tests Of Presidential Alert System To Cell Phones Of Millions Of Americans | NBC Nightly News",
             "secondDuration": 92,
@@ -121,8 +115,14 @@
             "title": "Skydiver Suffers Seizure In Midair | NBC News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "8MO-tE8T-YQ",
+            "title": "Pence Addresses Protests In Kenosha: 'Rioting And Looting Is Not Peaceful Protest' | NBC News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

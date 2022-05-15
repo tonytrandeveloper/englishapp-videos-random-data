@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ewyVd2CBkQU",
-            "title": "Chadwick Boseman’s battle with colon cancer",
-            "secondDuration": 380,
-            "group": "group_7"
-        },
-        {
             "videoId": "yttbXi2w3W8",
             "title": "Tokyo Olympics come to a close",
             "secondDuration": 298,
@@ -61,8 +55,14 @@
             "title": "Lawyers for Derek Chauvin deliver closing arguments",
             "secondDuration": 897,
             "group": "group_7"
+        },
+        {
+            "videoId": "ewu4iWXTvRk",
+            "title": "Coronavirus, lemur twins and President Trump: World in Photos, March 30",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2a8PpYTXPqw",
-            "title": "Real Deal: Pain at the Pump",
-            "secondDuration": 588,
-            "group": "group_7"
-        },
-        {
             "videoId": "4SS-B3VGWH0",
             "title": "Sec. Pompeo was on Ukraine call, Giuliani subpoenaed, new law to pay college athletes | ABC News",
             "secondDuration": 1616,
@@ -31,8 +25,14 @@
             "title": "Nevada Middle School Shooting: Teacher Killed",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "A95y_WozdOM",
+            "title": "Michelle Obama on Helping Military Families",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

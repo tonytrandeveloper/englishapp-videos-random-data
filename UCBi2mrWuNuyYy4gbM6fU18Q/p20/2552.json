@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PMGAgjxdV7k",
-            "title": "Trump Officials Admit 'Missed Opportunities' at First Debate Against Hillary Clinton",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "jQK1SIrc-Ds",
             "title": "Florida officials give update on Surfside tragedy | ABC News",
             "secondDuration": 2569,
@@ -121,8 +115,14 @@
             "title": "The Debrief: Ivanka Trump interview, US-Mexico border tension, Manafort, alleged Md. hazing incident",
             "secondDuration": 1381,
             "group": "group_7"
+        },
+        {
+            "videoId": "h9bpvlTEDW4",
+            "title": "Parenting Poll: How Young is Too Young?",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

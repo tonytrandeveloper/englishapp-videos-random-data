@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SZqvlP4Y4Co",
-            "title": "Get Healthy: Exercise | NBC Learn",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "bOssEPTViP4",
             "title": "First Human Embryo Editing Experiment In U.S.; Possible Future ‘Designer Babies’? | Mach | NBC News",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "Meet The Press Broadcast (Full) - June 21st, 2020 | Meet The Press | NBC News",
             "secondDuration": 2859,
             "group": "group_7"
+        },
+        {
+            "videoId": "TNRwTj8mI9U",
+            "title": "Nancy Pelosi: President Donald Trump ‘Outing’ Afghanistan Trip Is Very Dangerous | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

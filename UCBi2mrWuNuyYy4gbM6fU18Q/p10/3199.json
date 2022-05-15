@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LmYCyfUcz9c",
-            "title": "Rabbits on the Loose at Long Beach City College",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "kdimBz1713Q",
             "title": "Federal hate crime charges filed in Ahmaud Arbery case",
             "secondDuration": 354,
@@ -61,8 +55,14 @@
             "title": "Half-Mile Drug Tunnel Found on California-Mexico Border",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "OsLuhPgIL3M",
+            "title": "Italians in lockdown assemble food baskets amid coronavirus pandemic lockdown | ABC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

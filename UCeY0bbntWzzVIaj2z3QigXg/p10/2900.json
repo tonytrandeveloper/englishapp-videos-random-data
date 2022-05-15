@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Lj5Vk7trCaw",
-            "title": "Sebastian Maniscalco Is Comedy’s New Superstar | NBC Nightly News",
-            "secondDuration": 253,
-            "group": "group_7"
-        },
-        {
             "videoId": "amuwbM_i5EE",
             "title": "Gary Cohn Breaks With President Donald Trump Over Charlottesville Response | NBC Nightly News",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Sandra Day O’Connor Announces Probable Alzheimer’s Diagnosis | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "taasWxX8NhE",
+            "title": "China Works To Contain Coronavirus Outbreak That Its Scientists Say Is An Old European Strain",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

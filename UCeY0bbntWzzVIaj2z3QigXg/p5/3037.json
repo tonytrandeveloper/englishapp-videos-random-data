@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4BfyxdFBrL8",
-            "title": "White House Defends President Donald Trump's Comments On NFL Players | NBC News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "0yuA1S_PZfw",
             "title": "Turks Tell U.S. Officials They Have Recordings Of Khashoggi Killing, Report Says | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - August 9",
             "secondDuration": 2875,
             "group": "group_7"
+        },
+        {
+            "videoId": "qXjMWBWU_fQ",
+            "title": "Oceanographer Dr. Sylvia Earle: 'We Are In Trouble As A Species'",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

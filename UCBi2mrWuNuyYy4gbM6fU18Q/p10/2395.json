@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ch3nnk04XnQ",
-            "title": "Former owner of Orchids of Asia spa speaks out",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "32bNZ5rEkWw",
             "title": "Ivanka Trump Full Speech at Republican Convention",
             "secondDuration": 925,
@@ -61,8 +55,14 @@
             "title": "How the Best Picture Oscar Winner Snafu Happened",
             "secondDuration": 462,
             "group": "group_7"
+        },
+        {
+            "videoId": "8HE3oyNhKH0",
+            "title": "Nevada Democratic Convention Chaos Raises Security Concerns",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

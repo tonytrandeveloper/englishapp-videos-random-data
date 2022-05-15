@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ewyVd2CBkQU",
-            "title": "Chadwick Boseman’s battle with colon cancer",
-            "secondDuration": 380,
-            "group": "group_7"
-        },
-        {
             "videoId": "yttbXi2w3W8",
             "title": "Tokyo Olympics come to a close",
             "secondDuration": 298,
@@ -121,8 +115,14 @@
             "title": "New sanctions on Russia today",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "aNzTvKhJAF4",
+            "title": "Kate Middleton Meets Movie-Star Cat",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

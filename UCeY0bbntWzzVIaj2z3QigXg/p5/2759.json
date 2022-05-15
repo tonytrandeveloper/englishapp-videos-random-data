@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jnoJitNBUxs",
-            "title": "NBC News NOW Full Broadcast – August 20, 2021",
-            "secondDuration": 2997,
-            "group": "group_7"
-        },
-        {
             "videoId": "b8xM95kyHws",
             "title": "Covid Long-Haulers Desperate To Find Treatment | NBC News NOW",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "Lori Loughlin Surrenders To FBI In College Cheating Scandal | NBC Nightly News",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "XDZmln5L4k0",
+            "title": "LAPD Shooting Of Homeless Man Caught On Camera | NBC Nightly News",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

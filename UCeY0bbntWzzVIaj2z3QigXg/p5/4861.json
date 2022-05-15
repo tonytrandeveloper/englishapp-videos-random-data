@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_uyC2iqeKQU",
-            "title": "Watch Eric Trump’s Full Speech At The 2020 RNC | NBC News",
-            "secondDuration": 548,
-            "group": "group_7"
-        },
-        {
             "videoId": "1RrMjExz-bY",
             "title": "NBC News/WSJ Poll: Biden Leads Trump By 10 Points | Meet The Press | NBC News",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Family Will Sue Phoenix Police For Excessive Force After 4yr Old Took Doll From Store | Nightly News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y9s0WB4A5gI",
+            "title": "Students Say They’re Sleeping Less During Pandemic | NBC Nightly News",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

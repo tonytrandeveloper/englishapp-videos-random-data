@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nLxq7E2Z41I",
-            "title": "Watch: Chauvin Declared Guilty On All Counts In Death Of George Floyd | NBC News",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "KAEloPKi-Ho",
             "title": "Grandfather Pleads Guilty In Toddler’s Cruise Ship Death | NBC Nightly News",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "White House Hosts Fourth of July Celebration",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Om7i_yfkps",
+            "title": "Meet the Press - June 17, 2012 - Sen. John McCain (R-AZ) David Plouffe, Roundtable",
+            "secondDuration": 24,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

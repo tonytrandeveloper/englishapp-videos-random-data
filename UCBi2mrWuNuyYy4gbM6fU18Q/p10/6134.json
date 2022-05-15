@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7THhEVffiJo",
-            "title": "Pro-Brexit leader Nigel Farage hit by milkshake",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "mJ-W96hMyVE",
             "title": "Stephen Baldwin Reacts to Donald Trump Win | Full Interview",
             "secondDuration": 283,
@@ -61,8 +55,14 @@
             "title": "Old Spice Commercial Kicks Off Super Bowl Ad Season",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "2euR1PZcSGY",
+            "title": "America's Backbone",
+            "secondDuration": 219,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

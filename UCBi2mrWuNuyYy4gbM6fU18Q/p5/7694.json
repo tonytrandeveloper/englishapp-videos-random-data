@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OOhtYFWeJBw",
-            "title": "WEBCAST: George Zimmerman's TV Interview",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "3iF2M_FtukI",
             "title": "The story behind the ‘Flamin’ Hot’ rise from janitor to marketing executive",
             "secondDuration": 408,
@@ -31,8 +25,14 @@
             "title": "Walmart Cashier Takes Stage at Grand Ole Opry: World News Instant Index",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "l3cgXPOiSoA",
+            "title": "Fraternity hazing scandal in Louisiana",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

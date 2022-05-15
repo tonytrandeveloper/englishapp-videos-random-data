@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EJ35HGJhYdQ",
-            "title": "Dangerous Wildfires Tear Through Colorado Neighborhoods",
-            "secondDuration": 273,
-            "group": "group_7"
-        },
-        {
             "videoId": "oueeOe5ha5Q",
             "title": "Berke On Trump Impeachment Defenses: ‘He Does Not Have The Right To Do Whatever He Wants’ | NBC News",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "Former Top FEMA Official Accused Of Sexual Harassment | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "NMeeqHYvQZk",
+            "title": "NBC News’ Lester Holt Goes Inside Lab Creating Potential Coronavirus Treatment | NBC Nightly News",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

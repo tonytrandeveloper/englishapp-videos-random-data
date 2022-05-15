@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zk0DYARJ6Xw",
-            "title": "Bob Saget dead at 65",
-            "secondDuration": 42,
-            "group": "group_7"
-        },
-        {
             "videoId": "wYQbI3kxVZo",
             "title": "White House facing a high-stakes global showdown",
             "secondDuration": 180,
@@ -31,8 +25,14 @@
             "title": "Famed New Jersey high school principal Joe Clark dies | WNT",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "kVT27w1-AJQ",
+            "title": "Police officer takes on phone scammer: 'Can I send a check?'",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

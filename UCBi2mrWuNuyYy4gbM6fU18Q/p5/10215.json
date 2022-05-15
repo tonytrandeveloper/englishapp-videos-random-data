@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aajEVNlewuE",
-            "title": "Trump University Employee Playbook Revealed",
-            "secondDuration": 213,
-            "group": "group_7"
-        },
-        {
             "videoId": "zIJvj6t3_wA",
             "title": "Harvey Weinstein expected to surrender to face criminal charges",
             "secondDuration": 62,
@@ -31,8 +25,14 @@
             "title": "Democrats intensify investigation of Trump",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "mC6Q7vSSXZA",
+            "title": "Hurricane Harvey | State of Emergency in Texas",
+            "secondDuration": 1833,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

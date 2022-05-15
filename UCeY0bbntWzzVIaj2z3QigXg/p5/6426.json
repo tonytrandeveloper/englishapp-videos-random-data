@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p1SmUX-lfWU",
-            "title": "Nightly News Full Broadcast - March 7",
-            "secondDuration": 1286,
-            "group": "group_7"
-        },
-        {
             "videoId": "QINvFuR2OPo",
             "title": "‘A Day Without a Woman’ Protest Leads To School Closings | NBC News",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Santa Claus Joins Forces With NYPD To Deliver Toys | NBC Nightly News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "DpnBEhxnjIg",
+            "title": "This Morning’s Top Headlines – Nov. 5 | Morning News NOW",
+            "secondDuration": 1091,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

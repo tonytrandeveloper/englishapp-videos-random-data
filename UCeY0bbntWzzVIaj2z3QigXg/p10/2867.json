@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K8YEDXrElr4",
-            "title": "Arizona GOP Recounts 2020 Ballots Behind Closed Doors | NBC News NOW",
-            "secondDuration": 288,
-            "group": "group_7"
-        },
-        {
             "videoId": "y_wxvcv63xo",
             "title": "New Orleans Removes 4 Confederate Monuments | NBC News",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "Tom Brokaw: Washington, National Media 'Too Walled Off' | NBC News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "SstxSY65Txc",
+            "title": "Biden Delivers Remarks At Campaign Event In Ohio | NBC News",
+            "secondDuration": 1553,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

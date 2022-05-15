@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-X1pdQx2658",
-            "title": "Woman Arrested for Leaving Her Child Alone in Scorching Car",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "4C0LS83g0Ko",
             "title": "Training Elephants With Love",
             "secondDuration": 199,
@@ -61,8 +55,14 @@
             "title": "Record number of passengers expected to pass through TSA checkpoints",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "k3JSmN1JVyc",
+            "title": "Future of the GOP remains in question",
+            "secondDuration": 366,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

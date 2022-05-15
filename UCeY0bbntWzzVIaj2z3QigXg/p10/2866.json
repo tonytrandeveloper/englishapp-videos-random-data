@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hXFi1ydqBqs",
-            "title": "Milwaukee Mayor: ‘Multiple People Who Have Died’ At Molson Coors Shooting | NBC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y_D3unYXoDY",
             "title": "What Can An Antibody Test Tell You? | NBC News NOW",
             "secondDuration": 200,
@@ -61,8 +55,14 @@
             "title": "Exclusive: Biden Speaks on Potential SCOTUS Pick on Nightly News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "K8YEDXrElr4",
+            "title": "Arizona GOP Recounts 2020 Ballots Behind Closed Doors | NBC News NOW",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

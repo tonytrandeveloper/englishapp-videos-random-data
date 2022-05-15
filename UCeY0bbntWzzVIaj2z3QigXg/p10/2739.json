@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UDrc3Jzb0rA",
-            "title": "Pete Buttigieg Talks South Bend Shooting, Systemic Racism | NBC News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "kXPE5cngrnU",
             "title": "Full Panel: Did Midterms Change Anything For Politics? | Meet The Press | NBC News",
             "secondDuration": 450,
@@ -61,8 +55,14 @@
             "title": "Follow This Money Rule Next Time You Shop | Better | NBC News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "3-4BOm9IjUM",
+            "title": "Live: New York Gov. Andrew Cuomo Holds Briefing On Coronavirus, George Floyd Protests | NBC News",
+            "secondDuration": 2688,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

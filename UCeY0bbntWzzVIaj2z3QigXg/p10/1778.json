@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2mV4HqdNJAQ",
-            "title": "Vice President Mike Pence In Aftermath Of Charlottesville: 'I Stand With The President’ | NBC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "ElBMvlO7FiM",
             "title": "William And Kate Visit Nazi Death Camp, Talk With Survivors | NBC News",
             "secondDuration": 61,
@@ -61,8 +55,14 @@
             "title": "Pete Williams Overcome With Emotion Remembering Ruth Bader Ginsburg | NBC News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "TiFLh8pMAXM",
+            "title": "Graham, Durbin Clash Over Guantanamo Bay Releases",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

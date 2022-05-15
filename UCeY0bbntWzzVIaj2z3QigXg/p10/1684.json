@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3MNNX3IxTxM",
-            "title": "Julian Assange On DNC Emails And 2016 Election (Full Interview) | Meet The Press | NBC News",
-            "secondDuration": 704,
-            "group": "group_7"
-        },
-        {
             "videoId": "olspeG20R8E",
             "title": "President Macron Tours Site Of Devastating Beirut Explosion | NBC News NOW",
             "secondDuration": 52,
@@ -61,8 +55,14 @@
             "title": "Pelosi Appoints Republican Rep. Liz Cheney to Jan 6th Committee",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "rvUet77hv2o",
+            "title": "Protesters Pull Back After Violent Demonstrations On U.S. Embassy In Iraq | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

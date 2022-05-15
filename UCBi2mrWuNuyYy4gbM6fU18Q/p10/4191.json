@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Jz-0w1xlt8I",
-            "title": "Flipping Houses: Not for the Faint of Heart",
-            "secondDuration": 478,
-            "group": "group_7"
-        },
-        {
             "videoId": "pzPiZZwtvXY",
             "title": "Intense Rainfall, Deadly Floods Ravage Texas",
             "secondDuration": 77,
@@ -61,8 +55,14 @@
             "title": "Libya, Cairo Unrest: Obama, Romney Fling Attacks",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "KgyEO1CZnjc",
+            "title": "Kris Jenner On O.J. Simpson Murder Trial",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

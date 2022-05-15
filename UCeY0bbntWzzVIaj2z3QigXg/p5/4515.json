@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eogOYpGAAv4",
-            "title": "Donald Trump Explains Objection To Boeing’s ‘Out of Control’ Air Force One Contract | NBC News",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "dNV56jOeoyw",
             "title": "Russian Adventurer Attempts To Break Hot Air Balloon Record | NBC News",
             "secondDuration": 62,
@@ -31,8 +25,14 @@
             "title": "McConnell:  No Further Votes Until Trump And Dems Reach Agreement | NBC News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "DK_UN4ujnwg",
+            "title": "Could Cosmic Interloper Be An Alien Spacecraft? Neil DeGrasse Tyson Isn’t Sure | Mach | NBC News",
+            "secondDuration": 249,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

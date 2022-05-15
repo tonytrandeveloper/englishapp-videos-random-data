@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YE47MA1T3qE",
-            "title": "Floods And Landslides Leave Dozens Dead in Maharashtra, India",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "jBFyWUaK6vE",
             "title": "Jay-Z Deal With NFL To Include Entertainment Ventures, Social Activism Campaign | NBC Nightly News",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "President Trump Once Again Talks About Background Checks After A Mass Shooting | Meet The Press",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "DiVx1Oo0AeA",
+            "title": "Derek Chauvin Trial Continues On George Floyd's Death - Day 12 | NBC News",
+            "secondDuration": 25242,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

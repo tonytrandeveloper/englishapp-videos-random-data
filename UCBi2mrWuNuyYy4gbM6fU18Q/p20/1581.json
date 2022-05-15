@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WGNkQrwG3MM",
-            "title": "Blinis: Russia's Fast-Food Frenzy",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ma5R5HMFBok",
             "title": "Parker Rice: Expelled SAE Frat Member Apologizes for Racist Chant",
             "secondDuration": 129,
@@ -121,8 +115,14 @@
             "title": "Virginia Holds Its Version of the 'Running of the Bulls'",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hz1wsmzPUI8",
+            "title": "Tim Kaine and Mike Pence Set to Face Off in Virginia",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

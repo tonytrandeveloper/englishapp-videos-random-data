@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2KqtBB25bLA",
-            "title": "World Leaders Gather For Second Day Of NATO Meetings | NBC News (Live Stream Recording)",
-            "secondDuration": 1019,
-            "group": "group_7"
-        },
-        {
             "videoId": "pYqLseKuHq4",
             "title": "'Biomimicry' Solves Complex Human Problems | Archives | NBC News",
             "secondDuration": 206,
@@ -31,8 +25,14 @@
             "title": "Trump On Defense Over Slow Vaccine Rollout | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "isn64lDqJb0",
+            "title": "Jenna Bush Hager: \"I have a dream that...\"",
+            "secondDuration": 10,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

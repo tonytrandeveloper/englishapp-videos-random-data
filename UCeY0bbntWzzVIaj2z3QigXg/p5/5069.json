@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "81MzDiXKfMg",
-            "title": "Nightly News Full Broadcast - Jan. 27",
-            "secondDuration": 1281,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ka2nSFJ7z8o",
             "title": "Video Shows Unarmed Caregiver With Hands Up Before Being Shot by Police | NBC Nightly News",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "John Bolton On Venezuela: ‘All Options Are On The Table’ | NBC News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "XWCwUGx5Yvs",
+            "title": "Bernie Sanders Faces Minority Voter Test After Resounding New Hampshire Win | NBC Nightly News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

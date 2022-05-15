@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1e3ApBC1-3Y",
-            "title": "President Donald Trump Did 'Not Specifically' Authorize Niger Mission | NBC News",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "nAzLwKenptY",
             "title": "How To Survive A Power Outage | Better | NBC News",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Watch Unattended Rioters Inside Capitol Building, Senate Chamber | NBC News NOW",
             "secondDuration": 46,
             "group": "group_7"
+        },
+        {
+            "videoId": "rNWXySnjtqc",
+            "title": "Mexico Rattled By 7.0 Magnitude Earthquake",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

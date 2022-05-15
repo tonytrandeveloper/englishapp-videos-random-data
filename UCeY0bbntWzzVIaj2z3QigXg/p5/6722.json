@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WWF8sUx8T9w",
-            "title": "NBC's Ali Weinberg: A day on the Herman Cain bus",
-            "secondDuration": 325,
-            "group": "group_7"
-        },
-        {
             "videoId": "ul7Q1v_F9Uc",
             "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4865,
@@ -31,8 +25,14 @@
             "title": "Long Island Cold Case Solved With DNA Evidence After 42 Years",
             "secondDuration": 263,
             "group": "group_7"
+        },
+        {
+            "videoId": "0nweiGSgaIg",
+            "title": "House Speaker Paul Ryan: Democrats ‘Disgraceful’ for Playing Politics With Debt Ceiling | NBC News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

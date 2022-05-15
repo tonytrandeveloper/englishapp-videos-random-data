@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "vPFk36Mi9-U",
-            "title": "Realizing The Dream Of Space: Astronaut Peggy Whitson On First Time Leaving Earth | Mach | NBC News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "gDQeFd3VB58",
             "title": "Trump Defends Coronavirus Response At Town Hall | NBC Nightly News",
             "secondDuration": 207,
@@ -301,8 +295,14 @@
             "title": "The 'Cromnibus' GOP Buzzword Explained | Long Story Short | NBC News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "amWoSSfzuiY",
+            "title": "NASA’s New Satellite TESS Will Look For Undiscovered Alien Worlds | Mach | NBC News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

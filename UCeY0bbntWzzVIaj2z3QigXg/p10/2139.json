@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7RAqXnzdfVk",
-            "title": "Way Too Early: The 2020 Election | NBC News",
-            "secondDuration": 19709,
-            "group": "group_7"
-        },
-        {
             "videoId": "tFxNgce1xTU",
             "title": "Greta Thunberg ‘Will Be Back On The Streets’ For Global Climate Strike",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Top Story With Tom Llamas – Dec. 22 | NBC News NOW",
             "secondDuration": 3060,
             "group": "group_7"
+        },
+        {
+            "videoId": "07IbrJ7Ejbo",
+            "title": "Blinken: Russian Forces In Place For 'Major Aggression Against Ukraine'",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

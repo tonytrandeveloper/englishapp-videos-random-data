@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FmrDn5lT2gk",
-            "title": "SKINNY: Stephen Colbert’s Final Report",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "5GqdwDVl-nw",
             "title": "Your Three Words: The Rifles",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "Man Escapes Jail 2nd Time by Impersonating Another Prisoner Set for Release",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "9e13X3rttK8",
+            "title": "Nor'easter wreaks havoc, leaves thousands without power in New England l GMA",
+            "secondDuration": 51,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

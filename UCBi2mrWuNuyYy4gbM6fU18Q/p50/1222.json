@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "6OFoLLNfMyU",
-            "title": "3 West Coast states issue travel advisories as COVID cases climb",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "amWmryKDXns",
             "title": "United Flight Crash Lands at San Antonio Airport",
             "secondDuration": 90,
@@ -301,8 +295,14 @@
             "title": "Ben Higgins Named The New \"Bachelor\" | ABC News",
             "secondDuration": 292,
             "group": "group_7"
+        },
+        {
+            "videoId": "hmMths89rTE",
+            "title": "Target tests expanding curbside services",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

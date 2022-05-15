@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yuGuFdmA3CQ",
-            "title": "Democrats, Republicans React After House Judiciary Hearing | NBC News",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q33xRQctwp4",
             "title": "WHO Warns Of ‘Second Peak’ In Virus Cases: This Has Happened In Past Pandemics | NBC News NOW",
             "secondDuration": 96,
@@ -121,8 +115,14 @@
             "title": "Trump Grants Pardon To Ex-Felon At 2020 RNC | NBC News",
             "secondDuration": 290,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ij0u1kM3YC0",
+            "title": "Live: NBC News Special Report: The President Hospitalized",
+            "secondDuration": 3579,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

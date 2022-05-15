@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "srFRSI4hCqY",
-            "title": "London’s Ex-Mayor: England’s Prime Minister ‘Cannot Be Me’ | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "rgvawzbLYVU",
             "title": "‘I Was Proud To Step Over The Line’: Trump Sits Down With Kim After DMZ Handshake | NBC News",
             "secondDuration": 281,
@@ -31,8 +25,14 @@
             "title": "How Animals Paved The Way For Human Space Flight | Mach | NBC News",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "lpbbo8x3Lv0",
+            "title": "Russia Paints Clean Picture Of Ukraine Invasion Efforts",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OnsLjqzbTJE",
-            "title": "Go Inside Mexican Drug Lord \"El Chapo\" Prison Escape Tunnel | Good Morning America | ABC News",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "huykJSnfbD0",
             "title": "Chauvin testimony and video backs up prosecutors’ arguments: Legal analyst",
             "secondDuration": 471,
@@ -121,8 +115,14 @@
             "title": "Deadly terror attack on streets of Barcelona",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "OSYH_v3YLIo",
+            "title": "John Stossel's '20/20' Special",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

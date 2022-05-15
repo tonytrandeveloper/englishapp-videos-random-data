@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "42fjt9a9qNs",
-            "title": "Suicide bomber in Kabul, Afghanistan, claims the lives of more than 50 people",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jeb58tRquXk",
             "title": "One Last Chance: The Trial of Scott Peterson l 20/20 l PART 1",
             "secondDuration": 511,
@@ -61,8 +55,14 @@
             "title": "Trump's legal team making moves in Stormy Daniels case",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "vt4Pl_1OdB8",
+            "title": "Coast Guard Saves Crew of Sinking Boat: Caught on Tape",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

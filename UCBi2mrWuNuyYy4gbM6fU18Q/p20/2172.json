@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "465I1iiJOdA",
-            "title": "Chris Cuomo fired from CNN",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nrd_bu6mgQI",
             "title": "Inside Talon Air’s Private Jet",
             "secondDuration": 231,
@@ -121,8 +115,14 @@
             "title": "Josh Duggar Enters Rehab After Ashley Madison Scandal | ABC News",
             "secondDuration": 241,
             "group": "group_7"
+        },
+        {
+            "videoId": "886Kqzu4Zas",
+            "title": "New accusations put ex-CBS chief's $120M payout at risk",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

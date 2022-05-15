@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6y3DzdsJpbE",
-            "title": "The Bachelorette: JoJo Fletcher, Jordan Rodgers Interview",
-            "secondDuration": 293,
-            "group": "group_7"
-        },
-        {
             "videoId": "vJDzIOhJJQ8",
             "title": "Snow Covers New York City | \"WINTER WEATHER EMERGENCY\"",
             "secondDuration": 178,
@@ -121,8 +115,14 @@
             "title": "Holiday shipping delays",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "0hBuynElRiw",
+            "title": "California is in a statewide emergency as 2 new fires ignite near San Francisco l ABC News",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

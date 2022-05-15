@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zh3BDsFKdFk",
-            "title": "Cory Booker Disagrees With Obama on Private Equity",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "5DoqIbTVJvs",
             "title": "Siblings allegedly held captive free for 1st time",
             "secondDuration": 197,
@@ -31,8 +25,14 @@
             "title": "Hurricane Matthew Devastates Les Cayes, Haiti",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "BIO1IG0Mnvo",
+            "title": "Viral Video Shows California Teen Standing Up for Visually-Impaired Boy",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9Wn63-FUCxQ",
-            "title": "Trump Delivers Remarks At New Hampshire Rally | NBC News",
-            "secondDuration": 5755,
-            "group": "group_7"
-        },
-        {
             "videoId": "PCDAerFGd5g",
             "title": "Meet The Artists Painting Donkeys For The DNC | NBC News",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "Georgia School Aims To Reinstate Paddling To Discipline Students | NBC Nightly News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "68Z3YvafhFo",
+            "title": "New Details And Arrests In Assassination of President Jovenel Moïse",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

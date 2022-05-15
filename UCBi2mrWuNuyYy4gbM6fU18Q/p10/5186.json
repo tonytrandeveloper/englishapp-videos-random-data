@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fkMqweNM_UA",
-            "title": "Vatican Christmas Tree Lighting",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "cZJvRN22rf8",
             "title": "Trump Meets With Former Enemies in Bid to Fill Cabinet Posts",
             "secondDuration": 227,
@@ -61,8 +55,14 @@
             "title": "Gene Wilder Dies at Age 83",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "sCoMsiVrVUs",
+            "title": "Roundtable I: Karl Rove and Jim Messina",
+            "secondDuration": 1680,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

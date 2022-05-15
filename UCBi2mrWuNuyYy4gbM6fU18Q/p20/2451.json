@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "efPodmsnP8o",
-            "title": "The Rundown: Top headlines today: April 16, 2021",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "X2AWwY4eg9A",
             "title": "Pharmacy Raided in Jackson Drug Probe",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "LA Motorist Pulled From Burning Vehicle",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "lJ_tpeJ8bPI",
+            "title": "Amazon's Voice-Activated Echo Dot One of the Best-Selling Devices Over the Holidays",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

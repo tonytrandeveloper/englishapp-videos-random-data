@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VT2uBnt-0PE",
-            "title": "New UN climate report: ‘Delay means death’",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "EuuJPhNL5HY",
             "title": "Capitol staffers protect Electoral College ballots",
             "secondDuration": 360,
@@ -31,8 +25,14 @@
             "title": "Storms bring hail to Dallas",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "8KYy3Ch8xoY",
+            "title": "Hawaii’s water crisis",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

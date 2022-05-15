@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C1NYmjnce6M",
-            "title": "Ivanka Trump On GOP Leaders Not Attending Republican National Convention",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "g0IAge_0YUs",
             "title": "Spotify reportedly removes more than 100 episodes of ‘The Joe Rogan Experience’ | Nightline",
             "secondDuration": 366,
@@ -31,8 +25,14 @@
             "title": "EBOLA IN AMERICA: NYC Doctor Tests Positive",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "J5PuSFgwUWM",
+            "title": "Limousine crash leaves 20 dead",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

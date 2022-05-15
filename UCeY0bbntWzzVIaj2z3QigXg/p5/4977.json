@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pQJjILhqj9A",
-            "title": "Watch Donald Trump's Keynote Speech In Warsaw, Poland | NBC News",
-            "secondDuration": 2194,
-            "group": "group_7"
-        },
-        {
             "videoId": "CYCWHNQe0l0",
             "title": "Arizona Coronavirus Curve Shows Signs Of Plateau | NBC News NOW",
             "secondDuration": 383,
@@ -31,8 +25,14 @@
             "title": "Snapshots Of 2017: Best Photos Of The Year | NBC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "FJyv_8EMUBs",
+            "title": "Trump Invites Kim Jong Un To Meet Him At The DMZ In A Tweet | NBC Nightly News",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

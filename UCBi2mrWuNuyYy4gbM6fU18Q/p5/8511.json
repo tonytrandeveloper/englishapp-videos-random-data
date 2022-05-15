@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gba7pO_RuSs",
-            "title": "Assessing the Situation in Afghanistan",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "QxRTWA4hdNg",
             "title": "Chris Christie 'This Week' Interview: NJ Governor on Romney Debate Prep, Slams Todd Akin Comments",
             "secondDuration": 501,
@@ -31,8 +25,14 @@
             "title": "By the Numbers: Duke vs. UNC",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "t98dRKCM9VE",
+            "title": "Autism Awareness Month: Mother pens special book on autism",
+            "secondDuration": 324,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PkqtEqjP8Yc",
-            "title": "Breakthrough Heart Surgery Gets FDA Approval | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "OVquVGYdlg0",
             "title": "Biden Delivers Remarks On Strengthening American Manufacturing | NBC News",
             "secondDuration": 1906,
@@ -61,8 +55,14 @@
             "title": "White House Holds Press Briefing: October 8 | NBC News",
             "secondDuration": 3037,
             "group": "group_7"
+        },
+        {
+            "videoId": "Pe3o_xY1jKg",
+            "title": "An End To Trump’s ‘Zero-Tolerance’ Migrant Family Separation Policy | NBC News NOW",
+            "secondDuration": 263,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

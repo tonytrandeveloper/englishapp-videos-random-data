@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g0CNpZavml8",
-            "title": "Epic Beatbox Battle Goes Viral",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "q5QIKP6meyU",
             "title": "Gov: Specter 'Lightning Rod' for Anti-incumbency",
             "secondDuration": 594,
@@ -61,8 +55,14 @@
             "title": "100-year-old veteran to be knighted",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "HSi35ybVux0",
+            "title": "The Statue of Liberty Opens Again",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

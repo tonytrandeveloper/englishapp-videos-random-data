@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yh4igs__UvA",
-            "title": "Inside Brazil Field Hospital Battling Coronavirus | NBC Nightly News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mk6grbZ8x0M",
             "title": "U.S. Race Relations Addressed By FBI Director | NBC Nightly News",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Rush Limbaugh Reveals He Is Suffering From Advanced Lung Cancer | NBC Nightly News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y1V0tthVBMQ",
+            "title": "NYC First Responders Adjust To Heavy COVID-19 Demand | NBC News NOW",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

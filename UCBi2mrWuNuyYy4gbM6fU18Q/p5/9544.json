@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9gR0ZHSD8dQ",
-            "title": "Virgina Serial Killer: Police Search for Suspected Murderer",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ywg1pTwUUgk",
             "title": "Nurse Duped by 'Queen's' Prank Call Found Dead",
             "secondDuration": 297,
@@ -31,8 +25,14 @@
             "title": "Scott Walker 'This Week' Interview",
             "secondDuration": 285,
             "group": "group_7"
+        },
+        {
+            "videoId": "j-K5nyV_jjQ",
+            "title": "Donald Trump Releases New Video Attacking Bill Clinton",
+            "secondDuration": 316,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

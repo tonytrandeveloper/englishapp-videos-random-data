@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p6_ZTPBAnuE",
-            "title": "Biden: US ‘prioritizing the safety of our troops’ as they leave Afghanistan",
-            "secondDuration": 858,
-            "group": "group_7"
-        },
-        {
             "videoId": "9Q5DNlhNGis",
             "title": "Massive Seattle Gas Explosion Rocks Neighborhood",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Girl Battling Cancer Becomes Honorary Firefighter",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "1DEVzDlggRY",
+            "title": "State of emergency declared in the Southern states",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

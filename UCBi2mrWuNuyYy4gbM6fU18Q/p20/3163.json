@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4UV0aTejRnk",
-            "title": "NYC on Edge After Powerful Explosion in Harlem Kills 3",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vek14edcZEk",
             "title": "Instant Index: Bee Sets US Open Abuzz Holding Court for Two Minutes",
             "secondDuration": 82,
@@ -121,8 +115,14 @@
             "title": "Idaho lawmakers pass abortion ban styled after Texas law",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "h30tGcrtdk8",
+            "title": "FACEBOOK WEBCAST 06-01-12.mov",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zrAgQN6Trz4",
-            "title": "Papal Conclave: Father John Wauck Gives a Must-Watch List",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "UQ6VtEs9c8E",
             "title": "Russia Launches Military Operation in Ukraine I ABC News",
             "secondDuration": 21685,
@@ -121,8 +115,14 @@
             "title": "Hospital beds fill up as new COVID surge targets younger people l GMA",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "JN3skOu0EDk",
+            "title": "Coast Guard searches for missing helicopter in Hawaii",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

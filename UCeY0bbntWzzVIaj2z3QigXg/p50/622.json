@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "CM9fD2aDJKQ",
-            "title": "Morning News NOW Full Broadcast - June 14",
-            "secondDuration": 2889,
-            "group": "group_7"
-        },
-        {
             "videoId": "qhPVOFaTJFU",
             "title": "9-Year-Old Girl Drowns While Crossing Rio Grande | NBC Nightly News",
             "secondDuration": 108,
@@ -301,8 +295,14 @@
             "title": "Newly Released Video Shows Deadly Shooting Of Unarmed Jogger | NBC Nightly News",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "xgB748oGI-M",
+            "title": "Macron Meets Zelenskyy, Says Putin Pledged ‘He Won't Be Initiating An Escalation’",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "c26d1sFhsFM",
-            "title": "Rep. Matt Gaetz requested pardon",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "IB6dwYx_dFM",
             "title": "Dylann Roof Shooting Footage Shows Him Enter, Exit Church",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Capybara Swimming in Wastewater Spotted by California Workers (08.18.11)",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "R4acs72KLVk",
+            "title": "'We're going to win': President Trump on coronavirus",
+            "secondDuration": 43,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

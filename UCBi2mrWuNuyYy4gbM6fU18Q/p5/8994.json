@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DJ0zdNbTBgE",
-            "title": "'This Week': Crisis in Egypt",
-            "secondDuration": 243,
-            "group": "group_7"
-        },
-        {
             "videoId": "y4x3Lobopus",
             "title": "Kobe Bryant’s basketball journey from high school passion to the NBA | Nightline",
             "secondDuration": 599,
@@ -31,8 +25,14 @@
             "title": "Pfizer vs. Moderna vaccines",
             "secondDuration": 391,
             "group": "group_7"
+        },
+        {
+            "videoId": "l51rxnKJRfk",
+            "title": "Generation of Dissolving Gender Roles",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

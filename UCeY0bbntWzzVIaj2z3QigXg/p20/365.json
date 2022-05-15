@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "10l7ECnrCNI",
-            "title": "Millennials Join Forces WithFriends To Buy Homes, Start Mortgages Together",
-            "secondDuration": 308,
-            "group": "group_7"
-        },
-        {
             "videoId": "Krgnp3wTt3c",
             "title": "Oscar-Winning Filmmaker Captures Vanishing World in ‘Racing Extinction’ | NBC Nightly News",
             "secondDuration": 183,
@@ -121,8 +115,14 @@
             "title": "Interpol’s Secretary General Sounds The Alarm On ISIS | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "7j7TZgAHhPY",
+            "title": "Full Booker: 'We Are Over-Policed As A Society' | Meet The Press | NBC News",
+            "secondDuration": 524,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

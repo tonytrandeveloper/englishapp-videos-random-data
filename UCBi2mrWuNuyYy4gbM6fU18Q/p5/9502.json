@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vBr_xKzsMyo",
-            "title": "Jeopardy Champ Loses Cancer Battle Before Episodes Air",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "_nyS8YfvhpE",
             "title": "Pregnant Soldier Among Fort Hood Victims",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Newtown, Connecticut Shooting: Timeline of Events at Sandy Hook Elementary",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "4jqKOjRm3v8",
+            "title": "Freddie Gray Trial | Evidence Withheld, Judge Finds",
+            "secondDuration": 38,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

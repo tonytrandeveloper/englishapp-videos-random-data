@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EtaQgOI1oXM",
-            "title": "Paul Ryan Officially Sworn In As House Speaker For 115th Congress | NBC News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "WqRn5u_KZCs",
             "title": "CDC Report: Opioid Prescriptions Drop, But Not Enough | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Robot Converts Urine Into Energy | Nerdwatch | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "rmeQkf5VU7I",
+            "title": "Cambridge Analytica Doesn’t Care About The Law, Whistleblower Chris Wylie Says | NBC News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

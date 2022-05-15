@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kqOx2sR9aTE",
-            "title": "Amazon CEO goes public about alleged extortion plot against him by National Enquirer",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "4ra94ceAjKg",
             "title": "Christian Bale Takes on Role of Moses in 'Exodus'",
             "secondDuration": 280,
@@ -31,8 +25,14 @@
             "title": "SCOTUS Nominee Gorsuch: Trump's Comments 'Demoralizing' & 'Disheartening'",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "ywMtHq2E-Us",
+            "title": "Biden honors those lost to COVID-19",
+            "secondDuration": 1077,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

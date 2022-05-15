@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "i74T9x7GQ3o",
-            "title": "'An Anomaly: Full Miami-Dade Mayor Interview After Florida Building Collapse",
-            "secondDuration": 427,
-            "group": "group_7"
-        },
-        {
             "videoId": "1_r5kevMIik",
             "title": "Underwater Photographer Takes You To Jellyfish Paradise | NBC Nightly News",
             "secondDuration": 62,
@@ -121,8 +115,14 @@
             "title": "Democrats Win House While Republicans Keep Senate | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "OJxpwujBTvg",
+            "title": "FAA Grounds Virgin Galatic's Spacecraft Amid Investigation Into Warning Light",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

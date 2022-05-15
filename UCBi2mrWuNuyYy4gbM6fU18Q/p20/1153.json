@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "kYwiVn0wh1U",
-            "title": "James Holmes' Notebook Discovered?",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "3KsPz9r1bPA",
             "title": "'GMA' Hot List: Laila Ali Remembers Her Father",
             "secondDuration": 81,
@@ -121,8 +115,14 @@
             "title": "Undercover Investigation Explores How Easily Guns Are Sold in US",
             "secondDuration": 510,
             "group": "group_7"
+        },
+        {
+            "videoId": "QRFPbtvClNQ",
+            "title": "Taming Exotic Pet Owners",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "VOZtn_DjGhM",
-            "title": "Icy roads caused 2 major pileups in Texas",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "sOh_9LVVLmA",
             "title": "WEBCAST: Lifetime Ban for Donald Sterling",
             "secondDuration": 130,
@@ -301,8 +295,14 @@
             "title": "Jessica Kingdon talks about Oscar-nominated documentary",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "ymAD88VeFTs",
+            "title": "President Trump delivers remarks at Arab Islamic American Summit",
+            "secondDuration": 2015,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

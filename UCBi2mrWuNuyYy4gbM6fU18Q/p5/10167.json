@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5LA3oiBToRg",
-            "title": "By the Numbers: NFL vaccination rates",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "TlDMcnKu3DQ",
             "title": "Police department launches high-tech effort to fight package thieves",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Homicide Probe",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "jAFQ5VT5OFo",
+            "title": "Baltimore TV Station Evacuated After Bomb Threat",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

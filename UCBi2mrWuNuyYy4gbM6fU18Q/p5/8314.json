@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7-k_ORVren4",
-            "title": "Taylor Swift 'Curse' Sweeps Baseball",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "tYO3tUFld04",
             "title": "Coronavirus’ devastating toll on black and brown Americans | WNT",
             "secondDuration": 197,
@@ -31,8 +25,14 @@
             "title": "'I really can't explain' Trump's disinfectant comments: Gov. Larry Hogan | ABC News",
             "secondDuration": 443,
             "group": "group_7"
+        },
+        {
+            "videoId": "XdbowNO0elM",
+            "title": "Texas projected to be won by Trump",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

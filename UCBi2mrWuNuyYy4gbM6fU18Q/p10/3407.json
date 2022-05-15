@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nkq2QeUaygw",
-            "title": "Trump to announce gun safety proposals",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "dcqsiDQrnv0",
             "title": "Gabby Giffords DNC Pledge of Allegiance: Delegates Moved at Democratic National Convention",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "NYC mayor requests federal help to stop gun violence l GMA",
             "secondDuration": 433,
             "group": "group_7"
+        },
+        {
+            "videoId": "fIvV9BMJ8Vo",
+            "title": "Protesters demand answers over man killed in no-knock warrant raid I GMA",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Truf0ktgYTA",
-            "title": "Equity Stars Share Their Story | Real Biz with Rebecca Jarvis | ABC News",
-            "secondDuration": 725,
-            "group": "group_7"
-        },
-        {
             "videoId": "EuWS97ACRL4",
             "title": "Swatting Trend Hits Justin Bieber, Miley Cyrus: Prank Phone Calls Lure Swat Teams",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "NBA Finals Preview | Warriors vs Cavaliers",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "8I3hr_5eE6g",
+            "title": "Mike Pence delivers remarks on Capitol breach",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

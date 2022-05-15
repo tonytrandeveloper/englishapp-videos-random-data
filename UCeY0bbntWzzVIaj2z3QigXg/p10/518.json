@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i3rrc3gkzGM",
-            "title": "Brenda Martin: \"For student success, it takes...\"",
-            "secondDuration": 22,
-            "group": "group_7"
-        },
-        {
             "videoId": "nkYb1cxlVTY",
             "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3730,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump: I 'Never Meant Mexico Would Write A Check' For Border Wall | NBC News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "3dn_ypo0JFk",
+            "title": "Iranian-Backed Lebanese Group Hezbollah Fires Rockets Toward Israeli Forces",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

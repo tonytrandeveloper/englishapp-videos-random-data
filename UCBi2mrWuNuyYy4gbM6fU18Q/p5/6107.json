@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9sCh7hGb2gA",
-            "title": "President Trump's Travel Ban Creates Uproar, Draws Protests",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "2JqYmincWxI",
             "title": "Tiger Woods' DUI arrest: What happened when police found him",
             "secondDuration": 489,
@@ -31,8 +25,14 @@
             "title": "4 Ways to Battle Bloating",
             "secondDuration": 294,
             "group": "group_7"
+        },
+        {
+            "videoId": "JYMpqQLlgCc",
+            "title": "Flu season is back and off to a deadly start | ABC News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

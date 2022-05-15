@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ven4pjNRZTE",
-            "title": "Latest on Trump’s 2nd impeachment trial",
-            "secondDuration": 424,
-            "group": "group_7"
-        },
-        {
             "videoId": "kOqTOa_yBnM",
             "title": "NYC Construction Accident Sends Equipment Plummeting 30 Stories",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Beijing Air Pollution Forces 20 Million People Indoors",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q2tMkBHcJqw",
+            "title": "Russia vs. Ukraine",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gUFheJMQYCM",
-            "title": "Solar Eclipse in South America 2019: Slooh coverage on ABC News Live",
-            "secondDuration": 3411,
-            "group": "group_7"
-        },
-        {
             "videoId": "B8GOQfz3zjo",
             "title": "Airline captain gives emotional thanks to traveling medical personnel | ABC News",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "Pennsylvania lieutenant governor says every vote will be counted",
             "secondDuration": 359,
             "group": "group_7"
+        },
+        {
+            "videoId": "QGWRfuLZkuQ",
+            "title": "Full Interview: Donald Trump, Melania & Family with George Stephanopoulos",
+            "secondDuration": 2126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

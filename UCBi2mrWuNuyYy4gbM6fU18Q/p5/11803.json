@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "28ORbJKa4LA",
-            "title": "Hamas Attacks Israel After Accepting Cease-Fire",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "WuNDr6VaUrg",
             "title": "CEO of Juul apologizes to parents for teen vaping epidemic",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "President Bill Clinton Weighs in on Obamacare",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "vuLl0pPU-5o",
+            "title": "Rick Santorum Drops Out of 2012 Race, Cites Daughter's Illness, Trisomy 18, In Decision",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xO11rLFzjt8",
-            "title": "Mid-Air Emergency as Pilot Loses Consciousness While Operating Small Plane",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "R6OpSMcM4q0",
             "title": "Storms bring dangerous flooding to the East Coast",
             "secondDuration": 135,
@@ -121,8 +115,14 @@
             "title": "White House economist responds to GOP infrastructure counteroffer",
             "secondDuration": 480,
             "group": "group_7"
+        },
+        {
+            "videoId": "L1zgcARNXk4",
+            "title": "Thousands of flights canceled as travel chaos continues | On Location",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

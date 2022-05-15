@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UewkbK8vt4U",
-            "title": "UK is locking down due to new COVID-19 variant",
-            "secondDuration": 343,
-            "group": "group_7"
-        },
-        {
             "videoId": "kwJz-7Obfgg",
             "title": "Unrest ensues after police-involved shooting of unarmed Black man l GMA",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Candidate for Congress allegedly body slams reporter",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "YD-QraQOqEY",
+            "title": "Afghanistan faces major humanitarian crisis",
+            "secondDuration": 408,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

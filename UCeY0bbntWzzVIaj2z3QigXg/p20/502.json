@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SMZGYmBUDiI",
-            "title": "House Republicans Vote To Elevate Rep. Elise Stefanik",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mp5QM1UMSwY",
             "title": "Biden’s German Shepherd Nips Second Person At White House | NBC News NOW",
             "secondDuration": 79,
@@ -121,8 +115,14 @@
             "title": "Food And Drug Administration Approves First Generic Version Of EpiPen | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "HmfMeEFMm8c",
+            "title": "Bernie Sanders Hits Joe Biden Over Support For Iraq War | NBC News",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

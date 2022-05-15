@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "B1dqQmULTtE",
-            "title": "Pfizer Begins Their Covid Vaccine Trial In Children Under 12 | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "SgULnELJwrU",
             "title": "Two Charged In Murder Of Mother, Kids, Partner In Troy, New York | NBC Nightly News",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Jeb Bush: \"For student success, it takes...\"",
             "secondDuration": 15,
             "group": "group_7"
+        },
+        {
+            "videoId": "Znj_mSvSUr0",
+            "title": "North Korea Tests New Hypersonic Ballistic Missile",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

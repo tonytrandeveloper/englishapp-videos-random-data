@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "j3eJI0x3BhQ",
-            "title": "Donald Trump is the Presumptive GOP Nominee | NBC Nightly News",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "SDozms4ng6Y",
             "title": "Busiest Travel Day Of The Year To Be Plagued By Winter Storm | NBC Nightly News",
             "secondDuration": 97,
@@ -301,8 +295,14 @@
             "title": "Whitmer: Days After Kidnapping Plot Revealed, Trump 'At It Again' | Meet The Press | NBC News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "RRTqyzJGjx0",
+            "title": "U.S. And NATO Officials Say They Can’t Confirm Russian Troop Pullback",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

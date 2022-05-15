@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PqJ5EBs8-s8",
-            "title": "President Donald Trump Delivers Remarks On National Security Strategy | NBC News",
-            "secondDuration": 3109,
-            "group": "group_7"
-        },
-        {
             "videoId": "pBllGPXNx_I",
             "title": "President Donald Trump On Muslims, Then And Now | NBC News",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Parents Of U.K. Teen Killed In Crash Involving U.S. Diplomat’s Spouse Speak Out | NBC Nightly News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ol57tZ9_9kI",
+            "title": "Meghan McCain: 'America of John McCain Has No Need To Be Made Great Again' | NBC News",
+            "secondDuration": 1029,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

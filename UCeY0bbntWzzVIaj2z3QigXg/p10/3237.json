@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dsXEM0q3C_Q",
-            "title": "Morning News NOW Full Broadcast - August 25",
-            "secondDuration": 2898,
-            "group": "group_7"
-        },
-        {
             "videoId": "7IZsIKtkgPI",
             "title": "Earliest Snowfall On Record Blankets Northern New Mexico | NBC News NOW",
             "secondDuration": 50,
@@ -61,8 +55,14 @@
             "title": "Young Witness Explains Seeing Floyd Arrested: ‘It Seemed Like He Knew It Was Over For Him’",
             "secondDuration": 350,
             "group": "group_7"
+        },
+        {
+            "videoId": "iK_9DQAso70",
+            "title": "Contrasting Lawmaker Reaction to the Florida Shooting with NRA Contributions | Think | NBC News",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

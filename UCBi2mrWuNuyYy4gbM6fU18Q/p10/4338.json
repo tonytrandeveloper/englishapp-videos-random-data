@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "w46a1voGahs",
-            "title": "Japan Devastated by Strong Earthquakes",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "qZpm8RE7LiY",
             "title": "5 Best-Kept Secrets to Getting Last-Minute Holiday Deals",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "Former Pro-Wrestler Latest to Retire Amidst Concussion Concerns",
             "secondDuration": 483,
             "group": "group_7"
+        },
+        {
+            "videoId": "3to4t8RM0FY",
+            "title": "FDA plans to authorize 3rd vaccine shot for immunocompromised",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

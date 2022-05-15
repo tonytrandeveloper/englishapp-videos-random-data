@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vnJCDXvj_2w",
-            "title": "Coyotes Coming Out of the Wild and Into Neighborhoods",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mo0323K7tTM",
             "title": "LAPD Killing: Caught on Tape",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "Melania Trump's office responds to Giuliani's comments on adult actress",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "GLoweLbQZ3g",
+            "title": "Emily Maynard, Jef Holm Interview on Life After the 'Bachelorette'",
+            "secondDuration": 283,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

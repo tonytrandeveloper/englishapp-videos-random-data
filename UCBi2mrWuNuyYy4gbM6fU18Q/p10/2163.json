@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cwGob1Vcx74",
-            "title": "Trump legal team begins impeachment defense",
-            "secondDuration": 1246,
-            "group": "group_7"
-        },
-        {
             "videoId": "FLJxsRGuH50",
             "title": "The Briefing Room: Shutdown looms, El Paso, toxic foam, vote 2020",
             "secondDuration": 1676,
@@ -61,8 +55,14 @@
             "title": "'This Week' Looks at Medal of Honor Ceremony: Honoring Clinton Romesha",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "DiVkx9WXsic",
+            "title": "Amazon Under Fire For Alleged Difficult Working Environment",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

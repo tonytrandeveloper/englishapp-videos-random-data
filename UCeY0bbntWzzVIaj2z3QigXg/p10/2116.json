@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CuKfp50k0U0",
-            "title": "Watch Live: Day 3 of CPAC 2019 | NBC News",
-            "secondDuration": 32963,
-            "group": "group_7"
-        },
-        {
             "videoId": "zSwdde4hd4Y",
             "title": "Why NASA Wants To Mine An Asteroid Full Of Precious Metals Worth $700 Quintillion | Mach | NBC News",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Track Star Allyson Felix’s Fifth Olympics Is About More Than Medals",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "v62B_ZlvXo8",
+            "title": "Growing Movement Honors Homeless Veterans With Dignified Farewell | NBC Nightly News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dOZq2RriOQ0",
-            "title": "World News Now Says Farewell to Paula Faris",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZXJEOdHJyBI",
             "title": "NYC Ebola: Officials Try to Calm Public Fears After Ebola Diagnosis",
             "secondDuration": 284,
@@ -61,8 +55,14 @@
             "title": "Liam Neeson Goes 'Grey'",
             "secondDuration": 350,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q95dZJIls1A",
+            "title": "WATCH LIVE: Pres. Trump, Turkish president hold joint press conference at the White House | ABC News",
+            "secondDuration": 2647,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

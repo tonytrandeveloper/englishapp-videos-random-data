@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "p2qvnbHy_mI",
-            "title": "New report reveals Mueller's investigation may have a new focus",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "zVUIGPfX3e8",
             "title": "Massive manhunt underway in NYC subway shooting l GMA",
             "secondDuration": 277,
@@ -61,8 +55,14 @@
             "title": "President Biden met with Pope Francis, ahead of climate summit with world leaders in Scotland",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "mb2AV-jmgGg",
+            "title": "'Neverwet' Spray Makes a Waterproof World",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

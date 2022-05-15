@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mTHBcbUgoD0",
-            "title": "The Debrief: Mueller memos, NC snow problems, volatile stock market | ABC News",
-            "secondDuration": 1700,
-            "group": "group_7"
-        },
-        {
             "videoId": "_OhB-RmoWjg",
             "title": "Deadly tornadoes strike the south, killing at least 8 people",
             "secondDuration": 232,
@@ -121,8 +115,14 @@
             "title": "Husband who shot and killed his wife left note saying he felt disrespected and needed closure",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xk5eKIapv10",
+            "title": "ABC News Prime: Storm looms in the Gulf coast; Delta variant now in 45 US states; Iran’s election",
+            "secondDuration": 3576,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

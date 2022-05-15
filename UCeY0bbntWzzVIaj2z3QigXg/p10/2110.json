@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XtT6hA5DBLE",
-            "title": "A Sleep Journal May Be The Sleep Hack You've Been Looking For | Better | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "OOhCs6h_HZA",
             "title": "Highlights From First Night Of 2020 DNC | NBC News",
             "secondDuration": 333,
@@ -61,8 +55,14 @@
             "title": "Chuck: Trump Will Feel 'Quite Vindicated' On Mueller Findings | NBC News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "shEV62Iyer0",
+            "title": "The 850 Year History That Went Up In Flames In The Notre Dame Fire | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

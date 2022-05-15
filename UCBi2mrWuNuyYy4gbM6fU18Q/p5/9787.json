@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EPhZoN4vaj4",
-            "title": "Fear of Food or \"Food Neophobia\" | Nightline | ABC News",
-            "secondDuration": 577,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kw6Dvpq0wM0",
             "title": "Alex Trebek Sets Record as Host of 'Jeopardy!'",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Wave of omicron variant triggers flight cancellations, school testing",
             "secondDuration": 335,
             "group": "group_7"
+        },
+        {
+            "videoId": "vCxXi8Rx7i8",
+            "title": "Orangutan Adopts Tiger Cubs",
+            "secondDuration": 26,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

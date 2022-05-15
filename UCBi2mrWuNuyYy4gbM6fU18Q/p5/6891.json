@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "m07QiSNP444",
-            "title": "Vice Presidential Debate 2012: Paul Ryan Rattles Off Obama's 'Broken Promises'",
-            "secondDuration": 473,
-            "group": "group_7"
-        },
-        {
             "videoId": "kPdL14hYInQ",
             "title": "Americans still picking up the pieces after 60 tornadoes ripped through 9 states",
             "secondDuration": 369,
@@ -31,8 +25,14 @@
             "title": "Show explores the world beneath the ocean's surface",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "Cjdu7kuyArA",
+            "title": "Truck driver's sentence lowered from 110 years to 10 l ABC News",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

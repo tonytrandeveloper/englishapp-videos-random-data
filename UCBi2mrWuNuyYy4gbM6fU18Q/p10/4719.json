@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RXWfBbsUvMg",
-            "title": "Growing tensions between Warren and Sanders",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "rIwqGegcr8w",
             "title": "'Game of Thrones' Star Lena Headey on Cersei Lannister's Motiviations",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "Transfixing electrical storm lights up Australian sky",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "taFZ1kDF5ZM",
+            "title": "Mom Arrested for Leaving Kids Home Alone",
+            "secondDuration": 376,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

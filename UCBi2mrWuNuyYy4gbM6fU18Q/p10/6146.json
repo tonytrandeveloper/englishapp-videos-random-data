@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kM92NloxGf4",
-            "title": "Tupac 's Mother Afeni Shakur Dead at 69",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "fE8HnR0-hMc",
             "title": "Vice Presidential Debate 2012: Joe Biden Makes Promises After Benghazi, Libya Terrorist Attack",
             "secondDuration": 29,
@@ -61,8 +55,14 @@
             "title": "Britney Spears, Kevin Bacon Apple Music Ad",
             "secondDuration": 234,
             "group": "group_7"
+        },
+        {
+            "videoId": "SUCXNooKQJo",
+            "title": "Wyoming projected to be won by Trump",
+            "secondDuration": 26,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

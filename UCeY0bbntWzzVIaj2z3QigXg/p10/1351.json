@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mJchca3SYT4",
-            "title": "CDC Recommends Shorter Isolation Time For Covid",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jq1OSo-OApM",
             "title": "Toyota Concert Series on TODAY: Kenny Chesney",
             "secondDuration": 20,
@@ -61,8 +55,14 @@
             "title": "NTSB Calling For Design Changes To Widely-Used Aircraft Engine | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "d34GbmIO6-E",
+            "title": "Prep School Rape Trial: Victim’s Mom Speaks Out in NBC News Exclusive | NBC Nightly News",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

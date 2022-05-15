@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "67i73RHnGP8",
-            "title": "Bernie Sanders is back home in Vermont",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "cV4_KgAd1lA",
             "title": "How to protect yourself from the hidden dangers of a faulty furnace",
             "secondDuration": 238,
@@ -61,8 +55,14 @@
             "title": "Elaborately Planned Proposal Goes Miserably Awry",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "1nfcYNQGwuo",
+            "title": "Synagogue shooting suspect appears in court",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

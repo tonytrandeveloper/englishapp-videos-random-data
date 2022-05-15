@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0XbHGcJqyrM",
-            "title": "See Footage Of New York City's Flash Flood Emergency",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "5g3ODJU3_zw",
             "title": "Boys From Mozambique Orphanage Found Each Other a World Away in U.S. | NBC Nightly News",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "North Korean President Issues Warning To U.S. During Workers' Party Speech | NBC News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "tFBxRtMMDYw",
+            "title": "What To Expect From President Donald Trump’s Prime Time Address | NBC Nightly News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

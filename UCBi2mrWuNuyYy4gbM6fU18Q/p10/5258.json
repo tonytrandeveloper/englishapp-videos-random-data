@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2nU-O3H51Q4",
-            "title": "ABC’s Jon Karl discusses his new book covering President Trump",
-            "secondDuration": 643,
-            "group": "group_7"
-        },
-        {
             "videoId": "FjeCxm9F1LQ",
             "title": "Women of Jihad: At least 10 American Women in Less Than 2 Years Arrested for Supporting ISIS",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "What It Feels Like to Be a Gamergate Target",
             "secondDuration": 498,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jp10vqY9mNw",
+            "title": "State of the race: Where do the campaigns go from here?",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

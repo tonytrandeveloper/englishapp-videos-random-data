@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "v5M94sFhoh4",
-            "title": "5 Fall Fashion Must-Haves",
-            "secondDuration": 317,
-            "group": "group_7"
-        },
-        {
             "videoId": "GWgmIRAfXaU",
             "title": "Investigating cheetah trafficking",
             "secondDuration": 342,
@@ -61,8 +55,14 @@
             "title": "Weekend Window: New Orleans Jazz Fest",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "FDe6RwitlAw",
+            "title": "US astronaut coming home",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

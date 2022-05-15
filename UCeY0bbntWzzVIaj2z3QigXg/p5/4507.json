@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UXKg2n_4CGw",
-            "title": "Desperate Search For Missing Maine Teacher | NBC Nightly News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "OZg98tv9bjY",
             "title": "Puerto Ricans Are Dying. These Volunteers Are Trying To Change That | NBC Latino | NBC News",
             "secondDuration": 321,
@@ -31,8 +25,14 @@
             "title": "Two GOP Lawmakers Slam Trump Administration After Iran Briefing | NBC Nightly News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "EubAMg-U87A",
+            "title": "Joe Biden Fires Back After President Donald Trump Tweets Video Mocking Him | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

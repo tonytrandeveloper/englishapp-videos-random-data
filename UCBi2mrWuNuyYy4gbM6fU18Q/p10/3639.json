@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6LCY_qyiPMU",
-            "title": "For Julia Roberts, Family Comes First",
-            "secondDuration": 288,
-            "group": "group_7"
-        },
-        {
             "videoId": "wKyC2ejA18I",
             "title": "James Gandolfini, Known for Playing Tony Soprano, Dead at 51",
             "secondDuration": 381,
@@ -61,8 +55,14 @@
             "title": "Defense Secretary Admits Using Personal E-Mail Account for Public Business",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "BzXtc4pedBk",
+            "title": "Good Morning America Says 'Thank You' to 100 Fans, With Help From Flo Rida",
+            "secondDuration": 33,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

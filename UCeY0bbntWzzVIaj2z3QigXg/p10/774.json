@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pQ1eVBDIf8k",
-            "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2011,
-            "group": "group_7"
-        },
-        {
             "videoId": "HEsuzdFM6Qg",
             "title": "Live: Republican National Convention | NBC News",
             "secondDuration": 11864,
@@ -61,8 +55,14 @@
             "title": "Jan. 6 Committee Investigates Events Up To A Year Before Capitol Riot",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "zaAJsjuYpFM",
+            "title": "White House Struggles To Defend Trump’s Wiretapping Claims | NBC News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jMnaOmsIkSw",
-            "title": "John McAfee Arrested in Guatemala",
-            "secondDuration": 295,
-            "group": "group_7"
-        },
-        {
             "videoId": "6PDBL6RASIo",
             "title": "President Biden at Ford plant: ‘The future of the auto industry is electric’",
             "secondDuration": 362,
@@ -31,8 +25,14 @@
             "title": "Investigation of London subway attack takes surprising turn",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "TUQ88oHp7zs",
+            "title": "Political experts on how Trump will fare with the Latino vote",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

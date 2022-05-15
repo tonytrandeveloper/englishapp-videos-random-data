@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "dHnzTKVWc_s",
-            "title": "Second Presidential Debate 2012: Obama Tells Romney, My Pension's 'Not As Big As Yours'",
-            "secondDuration": 33,
-            "group": "group_7"
-        },
-        {
             "videoId": "76m9K3KNOeA",
             "title": "Extreme Weather:  East Coast Storm Causes Hail in Manhattan",
             "secondDuration": 64,
@@ -301,8 +295,14 @@
             "title": "Larry Kudlow on U.N. climate change report: 'I don't think we should panic'",
             "secondDuration": 561,
             "group": "group_7"
+        },
+        {
+            "videoId": "V9IkHQDrSnI",
+            "title": "Greek activities halted at Texas State following student's death",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

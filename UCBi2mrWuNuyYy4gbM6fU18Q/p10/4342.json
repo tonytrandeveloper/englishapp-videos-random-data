@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "89GcLJAgTAI",
-            "title": "Amanda Knox Back in Court for Appeal",
-            "secondDuration": 376,
-            "group": "group_7"
-        },
-        {
             "videoId": "n16AOfxLq88",
             "title": "Holocaust book controversy",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "The Rising Cost of College",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "465I1iiJOdA",
+            "title": "Chris Cuomo fired from CNN",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

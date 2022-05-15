@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vygxwCtuX0c",
-            "title": "President Trump: 'I need 11,000 votes'",
-            "secondDuration": 483,
-            "group": "group_7"
-        },
-        {
             "videoId": "PXvKK0CSeco",
             "title": "Joe Biden takes the lead in Pennsylvania l ABC News",
             "secondDuration": 232,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Official Statement about Transition as President-Elect [FULL VIDEO]",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZMMyKgO7cME",
+            "title": "President Obama Wraps Africa Trip With Historic Meeting",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iHB-Za6aFEs",
-            "title": "Panda spotted in the wild in China",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "zKVXOIZkKCY",
             "title": "Putin and Obama Meet After Tough Words at the United Nations",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "President Obama in New Jersey: Calls Hurricane Recovery a Federal, State and Local Effort",
             "secondDuration": 642,
             "group": "group_7"
+        },
+        {
+            "videoId": "lerkMgPRBxw",
+            "title": "Story of survival as tornadoes ripped through Kentucky",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "f69XcGL239c",
-            "title": "Teen Binge Drinking Erupts in Scandal",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "jAjKEijzEGg",
             "title": "What Happened to the American Dream?",
             "secondDuration": 219,
@@ -61,8 +55,14 @@
             "title": "The volunteers protecting the right to vote",
             "secondDuration": 358,
             "group": "group_7"
+        },
+        {
+            "videoId": "32SZtn1Lbdo",
+            "title": "Children Could Have Undetected Heart Problems",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

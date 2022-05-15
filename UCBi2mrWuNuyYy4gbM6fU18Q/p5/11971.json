@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GLoweLbQZ3g",
-            "title": "Emily Maynard, Jef Holm Interview on Life After the 'Bachelorette'",
-            "secondDuration": 283,
-            "group": "group_7"
-        },
-        {
             "videoId": "BZjmErSQ4rc",
             "title": "What’s New With Alex Trebek?",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "FBI Director James Comey fired",
             "secondDuration": 324,
             "group": "group_7"
+        },
+        {
+            "videoId": "g0fBMbn6ymM",
+            "title": "Levi Johnston's Palin Family Tell-All",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

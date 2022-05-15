@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "k7OslN9_fVM",
-            "title": "U.S. Intel: Strong Indications Of Explosion On EgyptAir Flight | NBC Nightly News",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "GfaiZ8FcYwI",
             "title": "Trump Falsely Claims Biden Wants To Cancel Remaining Debates | NBC News NOW",
             "secondDuration": 89,
@@ -301,8 +295,14 @@
             "title": "Dr. Fauci Warns Americans To Take New Omicron Variant Seriously",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "uOXTBUBr0XM",
+            "title": "Full Sanders: 'Establishment Put A Great Deal Of Pressure' On Buttigieg & Klobuchar | Meet The Press",
+            "secondDuration": 699,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

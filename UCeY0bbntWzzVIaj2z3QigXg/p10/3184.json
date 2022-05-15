@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aWodQiZR06E",
-            "title": "President Donald Trump Calls To Terminate Diversity Visa Program After NYC Terror Attack | NBC",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "bCrpdPcWajg",
             "title": "Donald Trump On Obamacare: Open To Keeping Some Provisions | NBC Nightly News",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "NBC News NOW Full Broadcast - May 31st, 2021",
             "secondDuration": 2986,
             "group": "group_7"
+        },
+        {
+            "videoId": "KwOUVEZDQnA",
+            "title": "Full Angus King: 'I’m a conservative when it comes to impeachment' | Meet The Press | NBC News",
+            "secondDuration": 515,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

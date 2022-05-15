@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AasWQ9jXEzI",
-            "title": "Violent protests in Paris continue for the third straight weekend",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "wO5wh5BErQs",
             "title": "Bob Woodward Book Exposes Obama-Boehner Cracks",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Democrats racing to finalize Biden's social spending plan",
             "secondDuration": 396,
             "group": "group_7"
+        },
+        {
+            "videoId": "zrALcUK6hrc",
+            "title": "A Call for Justice in Ferguson, Missouri",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

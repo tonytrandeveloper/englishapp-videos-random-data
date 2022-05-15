@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s-ew0uqM1e8",
-            "title": "Hong Kong 'Umbrella Revoluion' Protests Enter Third Week | NBC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "ojv2-1HIFXM",
             "title": "Hurricane Michael Storm Surge Threatens Gulf Of Mexico, Florida Panhandle | NBC Nightly News",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "Why ‘Pokemon Go’ Is Taking Over the World | NBC Nightly News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "tKEc0Nl-Pew",
+            "title": "China's First Female Spacewalker Steps Outside Space Station",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

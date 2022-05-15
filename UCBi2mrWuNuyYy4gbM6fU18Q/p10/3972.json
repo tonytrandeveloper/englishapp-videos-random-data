@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L5PE9B9b_wI",
-            "title": "In Case You Missed It: 10-31-2014",
-            "secondDuration": 253,
-            "group": "group_7"
-        },
-        {
             "videoId": "cXxJe-fjNHg",
             "title": "Man found guilty on all counts in New York City subway bomb attack",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "United Airlines Passengers Stuck on Plane for Nearly 6 Hours",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "M84azTAfPK0",
+            "title": "Biden race comments 'obviously (influence) the vice presidential selection': Emanuel | ABC News",
+            "secondDuration": 522,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

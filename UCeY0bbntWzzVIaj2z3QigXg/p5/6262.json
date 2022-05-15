@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iTW17onLkJU",
-            "title": "President Donald Trump Supports Brett Kavanaugh, American Interests In Las Vegas Speech | NBC News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "TR0YGVNTUgo",
             "title": "White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 1875,
@@ -31,8 +25,14 @@
             "title": "Lindsey Graham Full Interview: On Russia, Trump 'Has a Blind Spot' | NBC News",
             "secondDuration": 504,
             "group": "group_7"
+        },
+        {
+            "videoId": "rdtmvnFAqEc",
+            "title": "Juul E-Cigarette Sparks Health Concerns Among Parents | NBC Nightly News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

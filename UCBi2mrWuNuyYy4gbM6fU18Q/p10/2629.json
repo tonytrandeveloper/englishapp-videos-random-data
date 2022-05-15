@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8gQnOegZCS8",
-            "title": "Dems release depositions ahead of public impeachment hearings l ABC News",
-            "secondDuration": 346,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ty-6z80M3eA",
             "title": "Nik Wallenda crosses active volcano in Nicaragua | ABC News",
             "secondDuration": 63,
@@ -61,8 +55,14 @@
             "title": "'A ton of excitement’: Florida teen accepted to 27 top colleges",
             "secondDuration": 335,
             "group": "group_7"
+        },
+        {
+            "videoId": "xwZeVhYex-w",
+            "title": "Nunes' secret White House visit on Trump surveillance triggers calls for recusal",
+            "secondDuration": 259,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

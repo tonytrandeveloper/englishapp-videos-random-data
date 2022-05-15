@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "T-4LsehjbIA",
-            "title": "Dead Anchovies Pile up in Los Angeles",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "dd18o09GQao",
             "title": "Polo Tycoon Manslaughter: Millionaire John Goodman Back on Trial",
             "secondDuration": 213,
@@ -61,8 +55,14 @@
             "title": "Warning Sign: Hasan Reached Out to al Qaeda",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "rTL-sRSD_l4",
+            "title": "Medical response underway during Hurricane Florence",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

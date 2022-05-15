@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "s6mkhDLhjlk",
-            "title": "Spielberg Looks Back On ‘Schindler’s List’ 25 Years After The Film’s Release | NBC Nightly News",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "l0EhdElvrso",
             "title": "Argentine Submarine Found One Year After Disappearing With 44 Aboard | NBC Nightly News",
             "secondDuration": 71,
@@ -121,8 +115,14 @@
             "title": "White House Holds Press Briefing: April 9 | NBC News",
             "secondDuration": 3868,
             "group": "group_7"
+        },
+        {
+            "videoId": "VrfrV6lnIao",
+            "title": "Hurricane Elsa Is First of The season, Could Impact Florida Next Week",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QIyAUI8isPo",
-            "title": "Afghanistan Bombing Timed to Coincide With Chuck Hagel Visit",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "8SJFAO3Bk50",
             "title": "'Lincoln' Actress Sally Field Reflects on Her Career",
             "secondDuration": 532,
@@ -61,8 +55,14 @@
             "title": "LA Wildfire: 3 Suspects Arrested",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "RCghlyciP_Y",
+            "title": "Queen Elizabeth marks 70-year reign",
+            "secondDuration": 292,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

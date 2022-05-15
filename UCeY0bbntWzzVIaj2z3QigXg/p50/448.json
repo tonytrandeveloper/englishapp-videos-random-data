@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "FAytVABXdpQ",
-            "title": "Democrats Debate Next Steps In Impeachment Debate | Meet The Press | NBC News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "5m5TO-YTcow",
             "title": "De Blasio On NYC Entering Phase 2 Reopening: 'This Is Where Most Of Our Economy Is’ | NBC News NOW",
             "secondDuration": 94,
@@ -301,8 +295,14 @@
             "title": "Search Teams Look For Missing People After Nearly 1,000 Homes Destroyed In CO Fires",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZLjiHY3qMZc",
+            "title": "Watch live: President Trump makes announcement on E.U. trade",
+            "secondDuration": 2751,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

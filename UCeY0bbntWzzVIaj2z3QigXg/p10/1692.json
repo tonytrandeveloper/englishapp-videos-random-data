@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jI3tuVnt4pQ",
-            "title": "Live: Trump Participates In Bilateral Meetings Before Abraham Accords Signing | NBC News",
-            "secondDuration": 1156,
-            "group": "group_7"
-        },
-        {
             "videoId": "FhIFeoiUBCQ",
             "title": "Trump Delivers Remarks on Reopening Schools | NBC News",
             "secondDuration": 2123,
@@ -61,8 +55,14 @@
             "title": "Police Departments Seeing Tragic Rise In Officer Suicides",
             "secondDuration": 317,
             "group": "group_7"
+        },
+        {
+            "videoId": "bsWfEj8nrbk",
+            "title": "ISIS Tries To Rebuild After Al-Baghdadi Killing | NBC News Now",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

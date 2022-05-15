@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "w18hMCwcVjE",
-            "title": "NBA stars help repair tornado damage in New Orleans",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "42KDSBxoffU",
             "title": "Chinese Quadruplets Shave Numbers on Heads to Differentiate Themselves",
             "secondDuration": 51,
@@ -301,8 +295,14 @@
             "title": "Authorities investigate major freight train derails in Pennsylvania",
             "secondDuration": 28,
             "group": "group_7"
+        },
+        {
+            "videoId": "6OFoLLNfMyU",
+            "title": "3 West Coast states issue travel advisories as COVID cases climb",
+            "secondDuration": 264,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

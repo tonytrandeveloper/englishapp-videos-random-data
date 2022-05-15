@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bNROWXgAWMk",
-            "title": "Hillary Clinton Attacks Donald Trump, Republicans On First Day Of RNC | NBC News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "xCsa5YHrqgk",
             "title": "Full Cramer Interview: ‘Not Every Transaction in Washington Requires A Loser’",
             "secondDuration": 531,
@@ -61,8 +55,14 @@
             "title": "Dateline Digital Series Preview: Conviction | Dateline NBC",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "ryRAAB0eYCY",
+            "title": "Brandon Towns: \"For student success it takes...\"",
+            "secondDuration": 24,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

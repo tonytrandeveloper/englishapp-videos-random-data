@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SVSrk-nrQNQ",
-            "title": "Manhunt underway for a suspect in the murder of Tessa Majors",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "NUmCWGPgU7g",
             "title": "Bill O'Reilly Defends White House Slave Comments",
             "secondDuration": 195,
@@ -61,8 +55,14 @@
             "title": "Officials Look at ISIS and Al-Shebab as Suspects in Plane Explosion",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "2Z6ecEeW2Ng",
+            "title": "Dr. Deborah Birx contradicts Trump about the virus",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5IjvGolBgds",
-            "title": "Inside A Florida Hospital During Nationwide Covid Surge",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "wdBAUDnEJBE",
             "title": "‘Field of Dreams’ Comes To Life As White Sox And Yankees Face Off in Iowa",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Dateline Google+ Hangout with Chris Hansen",
             "secondDuration": 1989,
             "group": "group_7"
+        },
+        {
+            "videoId": "2KgOoAS8Yhc",
+            "title": "National Guard Units Across The Country Join Puerto Rico Relief Effort | NBC Nightly News",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

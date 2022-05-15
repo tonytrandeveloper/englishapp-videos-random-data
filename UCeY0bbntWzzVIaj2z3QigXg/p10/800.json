@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5_3hoNXVHaI",
-            "title": "USPS Investigating Postal Worker Caught Carelessly Tossing A Package | NBC Nightly News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "oyFi_1pF6e4",
             "title": "We Might Not Be Alone In The Universe | The Overview",
             "secondDuration": 1101,
@@ -61,8 +55,14 @@
             "title": "U.S. Troops Who Came Under Fire From Russian Mercenaries Prepare For More Attacks | NBC Nightly News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "BMWSzOwF8eQ",
+            "title": "Live: President Donald Trump Meets with Florida Sheriffs | NBC News",
+            "secondDuration": 1894,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

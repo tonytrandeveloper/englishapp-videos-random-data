@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8Z8txKVtBlk",
-            "title": "Full Cummings Interview: 'We have to hit the ground flying' | Meet The Press | NBC News",
-            "secondDuration": 504,
-            "group": "group_7"
-        },
-        {
             "videoId": "_sQYJuDJHgk",
             "title": "Ukraine Prepared To Discuss Neutrality With Russia To End War",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Police: Four Stabbed At Brooklyn Subway Station After Fight",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "vhU4Cp72Vg0",
+            "title": "Nightly News Full Broadcast - April 5",
+            "secondDuration": 1149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

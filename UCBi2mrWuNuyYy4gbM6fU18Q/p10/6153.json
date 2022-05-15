@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8Tyos9E3dpk",
-            "title": "Hawaii’s COVID-19 shutdown hits tourism hard",
-            "secondDuration": 331,
-            "group": "group_7"
-        },
-        {
             "videoId": "KmIBPfzAgfc",
             "title": "Venezuelan opposition leads new uprising against Maduro",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Dental health do’s and don’ts",
             "secondDuration": 288,
             "group": "group_7"
+        },
+        {
+            "videoId": "-X0qg8FA2XY",
+            "title": "ABC News Prime: Oprah's interview with Harry and Meghan; Spring break amid COVID-19; Chauvin trial",
+            "secondDuration": 3590,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

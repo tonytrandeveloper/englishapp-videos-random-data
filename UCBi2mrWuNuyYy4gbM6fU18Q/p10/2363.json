@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3Km1GHvnM2E",
-            "title": "Tensions rise in Hong Kong over fears of coronavirus outbreak",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "8cXt3beSiTM",
             "title": "The Debrief: Trump's tweet fallout, Jeffrey Epstein latest, Puerto Rico protest governor | ABC News",
             "secondDuration": 1624,
@@ -61,8 +55,14 @@
             "title": "American SuperTanker headed to the Amazon",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "4lwEV6lCBvk",
+            "title": "Super Bowl MVP and NFL Hall of Famer on the nationwide protests",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

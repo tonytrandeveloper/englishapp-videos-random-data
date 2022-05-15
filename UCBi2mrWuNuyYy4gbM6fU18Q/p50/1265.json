@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-1_WusMd6R0",
-            "title": "'Dancing With the Stars' 2015: New Cast Answers Fan Questions",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "5ydsw3IbRQ8",
             "title": "ABC News Prime: Hurricane Sally’s epic deluge; Wall of flames fire fight; Trump ally takes leave",
             "secondDuration": 3614,
@@ -301,8 +295,14 @@
             "title": "The Accused l 20/20 l PART 2",
             "secondDuration": 463,
             "group": "group_7"
+        },
+        {
+            "videoId": "lm7MFRb38QI",
+            "title": "US border chief on child deaths in CBP custody: 'Absolutely devastating for us'",
+            "secondDuration": 647,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

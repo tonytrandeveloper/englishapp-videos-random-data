@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "V_243Goud7A",
-            "title": "Death toll in Haiti surpasses 1,400 after earthquake l GMA",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "ATakJEIZGrw",
             "title": "College Athletes Help Fellow Competitor Cross Finish Line",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Inside Texas Conjoined Twins' Harrowing Separation Surgery",
             "secondDuration": 593,
             "group": "group_7"
+        },
+        {
+            "videoId": "zGhr30n-OoU",
+            "title": "Trump to spend 3rd night at Walter Reed Medical Center",
+            "secondDuration": 540,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "b3QGoGl-oIE",
-            "title": "Washington, D.C. Launches Door-To-Door Effort To Vaccinate Older Adults | NBC News NOW",
-            "secondDuration": 423,
-            "group": "group_7"
-        },
-        {
             "videoId": "X3mzL1B7sgM",
             "title": "Senator Ted Cruz, Beto O'Rourke Trade Barbs In Senate Debate | NBC News",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Expected To Sign Executive Order That Could End Family Separations | NBC News",
             "secondDuration": 2016,
             "group": "group_7"
+        },
+        {
+            "videoId": "l6SYknPKonE",
+            "title": "NYC Mayor De Blasio Announces Mandatory Body Worn Camera Release Policy | NBC News NOW",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

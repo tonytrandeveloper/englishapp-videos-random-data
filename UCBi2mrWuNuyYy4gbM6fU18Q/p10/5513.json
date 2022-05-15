@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2KN_9CEVHSc",
-            "title": "Donald Trump Addresses GOP Debate Strategies and His Competitors",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "G7qBaM-v18A",
             "title": "New Holiday Food Flavors Around the Corner: Christmas Flavored Pringles",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Emails send shock waves across Capitol Hill",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "qZIxmhmENTA",
+            "title": "'Posse' program helps students stay in college",
+            "secondDuration": 458,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

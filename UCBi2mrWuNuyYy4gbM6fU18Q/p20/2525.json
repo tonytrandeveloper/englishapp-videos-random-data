@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "x9UYvYkLvfU",
-            "title": "The Two Obamas: How the President Changed in Four Years",
-            "secondDuration": 361,
-            "group": "group_7"
-        },
-        {
             "videoId": "G0oFXmwg_pE",
             "title": "Arsenal of Weapons Found in NYC | 3 Arrested",
             "secondDuration": 146,
@@ -121,8 +115,14 @@
             "title": "Ronda Rousey VS Holly Holm | Official Announcement of UFC Fight - Jan 2, 2016",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "4PVm9PKabYk",
+            "title": "Trump Nominates Neil Gorsuch to Supreme Court",
+            "secondDuration": 377,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

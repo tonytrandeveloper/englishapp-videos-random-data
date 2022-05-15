@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DlrsBNnbdPE",
-            "title": "Election 2016 Recounts Gains Momentum",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "ksC3FfWjR0w",
             "title": "YouTube Videos May Give New Insight Into Missing Doctor Case",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "What is net neutrality?",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "MoCrwcWvqJ8",
+            "title": "Avenatti charged with misappropriating Stormy Daniels' money",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Rn7192K7_XU",
-            "title": "Donald Trump's Convention Manager Paul Manafort (Full Interview) | Meet The Press | NBC News",
-            "secondDuration": 400,
-            "group": "group_7"
-        },
-        {
             "videoId": "IVNVz0oE9ns",
             "title": "Nor’easter Hits New England Leaving 200,000 Without Power | NBC News",
             "secondDuration": 92,
@@ -121,8 +115,14 @@
             "title": "Steve Kornacki To Join NBC’s ‘Football Night In America’ | NBC News NOW",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "ykpGzAi8qqk",
+            "title": "Changemakers: Women Of Color In STEM | Nightly News Films",
+            "secondDuration": 553,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

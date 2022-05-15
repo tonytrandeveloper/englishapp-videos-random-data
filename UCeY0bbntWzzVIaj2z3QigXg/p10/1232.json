@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pOXp-BIsC-s",
-            "title": "Deported: An Urgent Appeal (Part 3 of 5) | NBC Asian America",
-            "secondDuration": 438,
-            "group": "group_7"
-        },
-        {
             "videoId": "hvSPwB_stkQ",
             "title": "Pueblo, Colorado Teachers Join Strike: ‘Stop Starving Your Teachers’ | NBC News",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "Man Dies After Shark Attack On Cape Cod | NBC Nightly News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "QexKL3eWegk",
+            "title": "President Donald Trump Denies Being Interviewed by Michael Wolff | NBC News",
+            "secondDuration": 303,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

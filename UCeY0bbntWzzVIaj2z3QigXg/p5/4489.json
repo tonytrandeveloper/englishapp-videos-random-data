@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "awZh10rc3pk",
-            "title": "Cecile Richards Rallies for Reproductive Rights at Women’s March | NBC News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "-AyQJrib1CY",
             "title": "Bill Cosby Prosecutors Discuss Guilty Verdict | NBC News",
             "secondDuration": 476,
@@ -31,8 +25,14 @@
             "title": "Biden Nominates Shalanda Young To Be Office of Management & Budget Director",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "7yml7aSe3RI",
+            "title": "Federal Reserve Chairman Talks Labor Market Progress Ahead Of Interest Rate Hike",
+            "secondDuration": 295,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

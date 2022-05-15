@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZVAhmVrKUjc",
-            "title": "NOW Tonight With Joshua Johnson - Jan. 14 | NBC News NOW",
-            "secondDuration": 2468,
-            "group": "group_7"
-        },
-        {
             "videoId": "SZSU9ScSgqM",
             "title": "Husband Says Emergency System Failed, Wife Didn’t Dave To Die From Asthma Attack | NBC Nightly News",
             "secondDuration": 766,
@@ -31,8 +25,14 @@
             "title": "Donald Trump At UN Claims China Is Attempting To Interfere In U.S. Elections | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "OOn4y7KuQ8I",
+            "title": "Watch Rep. Adam Schiff Read The Articles Of Impeachment To The Senate | NBC News",
+            "secondDuration": 828,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

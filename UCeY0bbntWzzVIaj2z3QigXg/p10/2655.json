@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LyZSAQHzss8",
-            "title": "How Spell-Check Algorithms Detect Typos | Mach | NBC News",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "5D1ybUqkIHo",
             "title": "Watch: Dashcam Video Shows Michigan Police Officer Save Choking Infant | NBC News NOW",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Manchester Attack: Father And Brothers Of Suspected Bomber Are Arrested | NBC Nightly News",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "EbRuWaap_a8",
+            "title": "Prince Andrew Reaches Settlement In Lawsuit From Epstein Victim",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

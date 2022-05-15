@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZyfW0mqpoxo",
-            "title": "Michael Cohen reports to prison",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "jCvBFnxoc6Q",
             "title": "'Hora Cero': Venezuela's crisis through a mother's eyes",
             "secondDuration": 928,
@@ -61,8 +55,14 @@
             "title": "Deep Freeze",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "1oXUCPApv_w",
+            "title": "'Stand Up for Heroes': Disfigured Marine Finds New Hope",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

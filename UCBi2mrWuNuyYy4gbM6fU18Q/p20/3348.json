@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mEH_G9MVqMw",
-            "title": "Spoiler Alert: Over-the-Top Birthdays for Kids (02.21.11)",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "bJye0sx5ICk",
             "title": "WEBCAST: Elmo Creator Quits",
             "secondDuration": 169,
@@ -121,8 +115,14 @@
             "title": "Trump Blasts His Republican Rivals | ABC News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "A-Dj16-vt0U",
+            "title": "Fall Fix-Up",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

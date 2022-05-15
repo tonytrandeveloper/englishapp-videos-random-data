@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1JZkiOnxEs8",
-            "title": "'The U Experience' Hopes To Create An All-Inclusive 'College Bubble' For Students | NBC News NOW",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "8G8CjB1oeEk",
             "title": "How Covid Has Impacted Women In The Workplace | NBC News NOW",
             "secondDuration": 233,
@@ -61,8 +55,14 @@
             "title": "Videos Show Aerials Of Hurricane Laura Destruction, Overnight Rain And Winds | NBC News NOW",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "WpciAXsCEQQ",
+            "title": "Understanding The Fine Print Of The California Consumer Privacy Act | NBC News NOW",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

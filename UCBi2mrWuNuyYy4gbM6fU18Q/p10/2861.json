@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BjVOtwIjiVk",
-            "title": "First Confirmed Case of Ebola in The United States",
-            "secondDuration": 262,
-            "group": "group_7"
-        },
-        {
             "videoId": "fPXhgj8cNKo",
             "title": "Olive Garden Review by Marilyn Hagerty of 'Eatbeat' Goes Viral",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "'Bohemian Rhapsody' Guy's Encore Performance",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "t5lLcnA-xao",
+            "title": "3-year-old missing girl rescued by family dog",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

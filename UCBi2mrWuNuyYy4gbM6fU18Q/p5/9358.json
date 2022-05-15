@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "e2s3Kjvs-rM",
-            "title": "Spotlight on #GivingTuesday",
-            "secondDuration": 319,
-            "group": "group_7"
-        },
-        {
             "videoId": "3Ke0FDGJc6Y",
             "title": "Doctors, nurses contracting coronavirus at alarming rate l ABC News",
             "secondDuration": 205,
@@ -31,8 +25,14 @@
             "title": "Trump's actions part of an ‘incriminating pattern of conduct’: Schiff | ABC News",
             "secondDuration": 269,
             "group": "group_7"
+        },
+        {
+            "videoId": "qgQBAheNghw",
+            "title": "Deadly Ice",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

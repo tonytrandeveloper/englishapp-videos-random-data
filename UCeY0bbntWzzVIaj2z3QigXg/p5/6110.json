@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GiXEiT9BFfo",
-            "title": "American Dreaming With José Díaz-Balart: Dr. Alfredo Quiñones-Hinojosa",
-            "secondDuration": 674,
-            "group": "group_7"
-        },
-        {
             "videoId": "9Ge20jw1Too",
             "title": "Iran-Linked Hackers To Compromise 2020 Presidential Campaign, Microsoft Says | NBC Nightly News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "The 'Cromnibus' GOP Buzzword Explained | Long Story Short | NBC News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "amWoSSfzuiY",
+            "title": "NASA’s New Satellite TESS Will Look For Undiscovered Alien Worlds | Mach | NBC News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Sma6pOkGPhA",
-            "title": "Growing Mental Health Toll For Millions Of Unemployed Americans | NBC Nightly News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "zdA7ReNPv2Y",
             "title": "President Trump Pardons Former Arizona Sheriff Arpaio l NBC Nightly News",
             "secondDuration": 42,
@@ -61,8 +55,14 @@
             "title": "Mitch McConnell: Senate Tax Reform Efforts Likely To Be Republican-Only | NBC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kk1suPRSqtg",
+            "title": "Wildfires Near Boulder, Colorado Force Thousands To Evacuate",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

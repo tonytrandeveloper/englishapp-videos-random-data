@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nofCoj8WRs8",
-            "title": "NBC News NOW Full Broadcast - March 19th, 2021 | NBC News NOW",
-            "secondDuration": 3119,
-            "group": "group_7"
-        },
-        {
             "videoId": "U2d0qnZAF04",
             "title": "Manhunt Underway After Shooting Leaves Two Dead At Central Michigan University | NBC Nightly News",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "AG Merrick Garland Reverses Trump-era Immigration Policy",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "HZof-hedxFA",
+            "title": "WATCH: China, U.S. Trade Rebukes At Alaska Diplomatic Talks | NBC News NOW‌",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

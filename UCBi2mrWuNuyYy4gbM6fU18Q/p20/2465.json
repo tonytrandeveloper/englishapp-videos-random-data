@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sCk4W9M8SiA",
-            "title": "Inside the fires as the Amazon continues to burn l ABC News",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "zGVhMElKE74",
             "title": "Presidential Candidates Battle for New York City",
             "secondDuration": 215,
@@ -121,8 +115,14 @@
             "title": "Afghanistan: America's Longest War",
             "secondDuration": 336,
             "group": "group_7"
+        },
+        {
+            "videoId": "u_ehI8i6Fik",
+            "title": "Climate change blamed for deadly, damaging floods in Italy l ABC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

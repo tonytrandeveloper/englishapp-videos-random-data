@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1Oy6jHuNPMw",
-            "title": "California Residents Wondered If Today’s Earthquake Was ‘The Big One’ | NBC Nightly News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "L6KxMaxhIv0",
             "title": "Dear Mr. President: Letters On Cuba Relations | NBC News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "New ‘Gene Editing’ Cancer Treatment Saves Dying Baby Girl’s Life | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y-UIA9ja-h4",
+            "title": "FEMA Provides Update On Hurricane Florence | NBC News",
+            "secondDuration": 1519,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

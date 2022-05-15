@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NalXhQYPx50",
-            "title": "LIVE: Bob Dole Lies In State At U.S. Capitol | NBC News",
-            "secondDuration": 36800,
-            "group": "group_7"
-        },
-        {
             "videoId": "nbw-KHrEI2M",
             "title": "President Donald Trump Says He May Send 15,000 Troops To Border, Previously Said 5,000 | NBC News",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Breathalyzers: Are You Required To Take One? | 30STK |  NBC News",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "-yNVAx68FB0",
+            "title": "Donald Trump Participates in Commander-In-Chief Forum (Full) | NBC News",
+            "secondDuration": 1560,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

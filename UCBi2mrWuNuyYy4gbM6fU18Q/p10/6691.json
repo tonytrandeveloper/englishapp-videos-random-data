@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "n7HnVZHxHJ8",
-            "title": "Sam Smith Is Taking A Short Break From Music",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "exqoyRK6LTA",
             "title": "Warren asks Fauci if COVID-19 is contained",
             "secondDuration": 370,
@@ -61,8 +55,14 @@
             "title": "HHS Secretary on reaching vaccine goals, shoring up Obamacare",
             "secondDuration": 382,
             "group": "group_7"
+        },
+        {
+            "videoId": "twJ5njT-ZmU",
+            "title": "WEBCAST: Delta Plane Loses Part of Wing",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

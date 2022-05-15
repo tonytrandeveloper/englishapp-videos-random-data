@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S_QYCtt8pPE",
-            "title": "President Trump Holds News Conference | NBC News",
-            "secondDuration": 1816,
-            "group": "group_7"
-        },
-        {
             "videoId": "clOqW3t7Gng",
             "title": "Quarantine And Chill? Virtual Dating Becomes The New Normal Amid Social Distancing | NBC News",
             "secondDuration": 250,
@@ -31,8 +25,14 @@
             "title": "Resort Communities Feel Devastating Financial Effect Of The Coronavirus Pandemic | NBC Nightly News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "XOrAuveOWWc",
+            "title": "Thousands Of Flights Cancelled Due To Covid Surge And severe Weather",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

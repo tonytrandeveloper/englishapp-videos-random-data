@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tGOOb1uddiI",
-            "title": "Major Airline CEOs Warn About The Rollout Of 5G Service",
-            "secondDuration": 535,
-            "group": "group_7"
-        },
-        {
             "videoId": "XuWdvHucV4Y",
             "title": "White House Holds Moment Of Silence To Honor Covid Victims | NBC News",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Gaby Dunn On Polyamory, Bisexuality And 'The Bachelor’ Franchise | Think | NBC News",
             "secondDuration": 1242,
             "group": "group_7"
+        },
+        {
+            "videoId": "KGJ7A1FY194",
+            "title": "Veterans Day's History | NBC News",
+            "secondDuration": 56,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

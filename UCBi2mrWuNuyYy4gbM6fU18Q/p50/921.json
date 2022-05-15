@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-zbvlPFc2N0",
-            "title": "WEBCAST: Two U.S. Skiers Killed in Avalanche Accident",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "pPYXC39Z_Hg",
             "title": "'Dancing' Stars Rock Out",
             "secondDuration": 221,
@@ -301,8 +295,14 @@
             "title": "Senate receives impeachment article as Republicans are split on convicting Trump | Nightline",
             "secondDuration": 555,
             "group": "group_7"
+        },
+        {
+            "videoId": "IQ_mE_cNHu0",
+            "title": "Suspect shot outside Louisville supermarket",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

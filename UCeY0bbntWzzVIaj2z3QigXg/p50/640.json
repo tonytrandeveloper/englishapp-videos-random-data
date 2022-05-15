@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "edX_qqV9Fl8",
-            "title": "First Successful Transplant Of Pig Heart To Human Patient Performed In Maryland",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "U2ntfWSeMpY",
             "title": "Advocates Push For Alert System To Fight Hot Car Deaths | NBC Nightly News",
             "secondDuration": 98,
@@ -301,8 +295,14 @@
             "title": "Police Chief Describes Capture Of Florida Bank Mass Shooting Suspect | NBC News",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "UXlUAY2m34U",
+            "title": "Democratic Leaders Speak After Meeting With President Donald Trump About Shutdown | NBC News",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8_aNYpQhCBw",
-            "title": "NBC Nightly News Broadcast (Full) - July 7th, 2021",
-            "secondDuration": 1285,
-            "group": "group_7"
-        },
-        {
             "videoId": "bMcpLuFOFbw",
             "title": "Bernie Sanders: ‘We Have A New Vision For America’ | NBC News",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Pompeo Delivers Remarks On Iran | NBC News (Live Stream Recording)",
             "secondDuration": 2369,
             "group": "group_7"
+        },
+        {
+            "videoId": "TTcgT9ZSft8",
+            "title": "Police Officers Injured, Protesters Arrested In St. Louis Protests | NBC Nightly News",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

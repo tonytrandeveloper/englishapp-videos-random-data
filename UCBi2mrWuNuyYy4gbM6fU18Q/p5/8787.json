@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8uXYPc_BfkY",
-            "title": "Just Days Until Donald Trump's Inauguration",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "_ScMzTMejKw",
             "title": "Index: Mysterious Star Leads to Speculation of a Possible Alien Structure 1,500 Light-Years Away",
             "secondDuration": 54,
@@ -31,8 +25,14 @@
             "title": "Trump Rejected by GOP Senator, National Security Officials",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "UZ6REwlcpCg",
+            "title": "Anniversary of Jan. 6 insurrection",
+            "secondDuration": 537,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

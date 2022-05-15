@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Khj3q3Rce54",
-            "title": "85 injured in Mexico plane crash",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "wOfGokJc9CA",
             "title": "New COVID-19 variant discovered in South Africa | GMA",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Gets Booed",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "itX1AI8Z-nM",
+            "title": "Newtown, Connecticut Family on Losing Child in Sandy Hook Elementary School Shooting",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

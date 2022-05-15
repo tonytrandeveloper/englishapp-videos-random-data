@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RqQaRc-D3hw",
-            "title": "This Morning’s Top Headlines – Dec. 16 | Morning News NOW",
-            "secondDuration": 1289,
-            "group": "group_7"
-        },
-        {
             "videoId": "1C9js0eyIvM",
             "title": "Behind House Speaker Boehner’s Surprising Resignation | NBC Nightly News",
             "secondDuration": 204,
@@ -31,8 +25,14 @@
             "title": "How The Coronavirus Spread From Animals To Humans | NBC News NOW",
             "secondDuration": 340,
             "group": "group_7"
+        },
+        {
+            "videoId": "EZ7PSw5hm8I",
+            "title": "Trump Delivers Remarks At North Carolina Rally | NBC News",
+            "secondDuration": 4957,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

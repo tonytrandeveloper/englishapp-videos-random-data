@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qb9yBbJSVsQ",
-            "title": "ESPN reporter dies at 34",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "BWQQDAJQdxk",
             "title": "Amanda Bynes Claims She Was Assaulted by NYPD",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "New book details societal challenges boys and men face",
             "secondDuration": 372,
             "group": "group_7"
+        },
+        {
+            "videoId": "APvOfUZ7eW0",
+            "title": "Rain, Rain Not Going Away",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

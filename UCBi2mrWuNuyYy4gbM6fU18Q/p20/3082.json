@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TpWhoGfZa_E",
-            "title": "Late-Night Comics Joke About Latest News Headlines | ABC News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "3NEoU8sjaFk",
             "title": "Supreme Court upholds Affordable Care Act",
             "secondDuration": 319,
@@ -121,8 +115,14 @@
             "title": "Police Shoot Student Wielding Knife",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "JJoaKERFQ-0",
+            "title": "San Diego Zoo Performs C-Section on Gorilla",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TxyGLiFC4uc",
-            "title": "Workers left dangling after scaffold collapse in Atlanta",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "ED8fJWu6UF0",
             "title": "Reading, Writing and Running",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "White House press briefing on shutdown, DACA immigration negotiations| ABC News",
             "secondDuration": 3832,
             "group": "group_7"
+        },
+        {
+            "videoId": "EFpgoI64648",
+            "title": "White House climate adviser: Electric vehicles are the future",
+            "secondDuration": 556,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VDIc_IyU_Vk",
-            "title": "Extreme Winter Weather: Record Deep Freeze Covers Half The U.S.",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "i7s0UNglzRk",
             "title": "Rudy Giuliani Criticizes Terror Trial",
             "secondDuration": 261,
@@ -61,8 +55,14 @@
             "title": "Law enforcement on alert for threats on Capitol insurrection anniversary",
             "secondDuration": 289,
             "group": "group_7"
+        },
+        {
+            "videoId": "sOq1N1FZ8LE",
+            "title": "An almost perfect game",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XlOK1ptma5Q",
-            "title": "This Morning’s Top Headlines – Oct. 8 | Morning News NOW",
-            "secondDuration": 1316,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kw9pTJg-zBU",
             "title": "Beto O’Rourke Says He's ‘Throwing All Political Or Polling Caution To The Wind’ | NBC News",
             "secondDuration": 453,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump Visits Burned Building In Kenosha | NBC News NOW",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "bvv72eWC5pc",
+            "title": "'Every Day Counts So Much' Gov. DeWine And Gov. Pritzker Outline State Responses | Meet The Press",
+            "secondDuration": 500,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

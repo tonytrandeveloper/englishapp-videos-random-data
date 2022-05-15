@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BzmPgrug4SU",
-            "title": "Boston mayor on city's COVID-19 response",
-            "secondDuration": 253,
-            "group": "group_7"
-        },
-        {
             "videoId": "gpN7u0bB-BU",
             "title": "French Police Continue Raids To Capture Paris Terror Suspect",
             "secondDuration": 160,
@@ -121,8 +115,14 @@
             "title": "Tracing the Final Stops of the American Artist Who Was Murdered in Italy",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "0-0mzeBgjMA",
+            "title": "‘Clinton Cash’ Fallout",
+            "secondDuration": 423,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ACjO-zURM2U",
-            "title": "iPod Classic Worth Big Bucks | NBC News",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "jKk7syTWGdM",
             "title": "Border Patrol Stops Two Women In Montana For Speaking Spanish | NBC News",
             "secondDuration": 71,
@@ -301,8 +295,14 @@
             "title": "12 Candidate Swag Items For The Political Junkies In Your Life | Meet The Press | NBC News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "EJ35HGJhYdQ",
+            "title": "Dangerous Wildfires Tear Through Colorado Neighborhoods",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

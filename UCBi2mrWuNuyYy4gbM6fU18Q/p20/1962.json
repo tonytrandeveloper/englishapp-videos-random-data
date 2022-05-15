@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mMcnGjFKUmg",
-            "title": "Justice Stevens' First TV Interview",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "gtCtUCEG2VE",
             "title": "The Bottom Line on Health Care",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "Trump on Obama's Letter: 'Beautiful' | Trump Interview with David Muir | ABC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "TX8MSZy5I3I",
+            "title": "Senator catches Mark Zuckerberg off guard by asking which hotel he stayed in",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

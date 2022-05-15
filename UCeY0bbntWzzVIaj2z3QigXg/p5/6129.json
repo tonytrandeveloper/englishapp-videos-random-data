@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6JZbF9zeMK8",
-            "title": "Dennis Walcott: \"For student success, it takes...\"",
-            "secondDuration": 13,
-            "group": "group_7"
-        },
-        {
             "videoId": "YoWxvqvNn3g",
             "title": "Kamala Harris Promises Protection For DACA Recipients, Ending Private Detention Centers | NBC News",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "U.S. Coordinates With E.U. On Russia Sanctions | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "vv4xFWFbg1Q",
+            "title": "Housing Market Heats Up NationWide | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

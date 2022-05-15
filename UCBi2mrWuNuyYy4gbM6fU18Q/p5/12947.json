@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jMiewX97mWY",
-            "title": "Derek Chauvin behind bars in Minnesota max security prison | WNT",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "wUZwxkOrKDI",
             "title": "Investigators release new details in San Jose mass shooting",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Mitt Romney's Official Speech on Super Tuesday: 'I'm Going to Get This Nomination'",
             "secondDuration": 982,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZuKchSqRK-Q",
+            "title": "Sandra Bland's Sister: 'So Many Inconsistencies'",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

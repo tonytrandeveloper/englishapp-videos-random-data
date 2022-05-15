@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_uhhiZ8GVYE",
-            "title": "Sun And Suncreen Myths | Debunker | NBC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "yAhgxRYXoms",
             "title": "UNC-Chapel Hill Converts To Remote Learning After COVID-19 Spreads Among Students | NBC Nightly News",
             "secondDuration": 140,
@@ -121,8 +115,14 @@
             "title": "What 'A Day Without a Woman' Looks Like | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "4vCk_YsAzc4",
+            "title": "Academy Changing Rules to Make Oscars 'Significantly More Diverse' | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

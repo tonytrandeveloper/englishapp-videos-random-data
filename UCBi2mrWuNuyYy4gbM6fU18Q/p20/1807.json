@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xJhZza-Sv_M",
-            "title": "Felicity Huffman to plead guilty in college admissions cheating scandal",
-            "secondDuration": 330,
-            "group": "group_7"
-        },
-        {
             "videoId": "ti_Jr-sRaAs",
             "title": "Congressmen describe how the GOP baseball shooting unfolded",
             "secondDuration": 297,
@@ -121,8 +115,14 @@
             "title": "Inauguration 2013: Obamas Attend Church Service",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "4XrhLtF0204",
+            "title": "Trump meets D-Day vets on last day of UK visit",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

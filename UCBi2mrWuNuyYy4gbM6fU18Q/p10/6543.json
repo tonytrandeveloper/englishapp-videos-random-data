@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jecqNSyRgnE",
-            "title": "Severe Storms Continue Campaign of Nasty Weather",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "h03eDjvh76E",
             "title": "Cows Stranded by New Zealand Quake Rescued",
             "secondDuration": 30,
@@ -61,8 +55,14 @@
             "title": "Donald Trump calls Kamala Harris ‘phony’ | WNT",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "kjYsVqQ-6Ns",
+            "title": "A Road Rage Incident Ends With a Grand Jury Indictment",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

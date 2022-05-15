@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PwdqhPsYqf0",
-            "title": "ABC News Prime: Pfizer vaccine approved kids; Afghanistan neighbors fallout; NHL scandal fallout",
-            "secondDuration": 5230,
-            "group": "group_7"
-        },
-        {
             "videoId": "ek2SW_MuAuA",
             "title": "Fallen service members killed in Afghanistan arrive back in US | ABC News",
             "secondDuration": 1228,
@@ -31,8 +25,14 @@
             "title": "Lead FBI agent, performer share the story behind Chippendales’ murder-for-hire plot | Nightline",
             "secondDuration": 568,
             "group": "group_7"
+        },
+        {
+            "videoId": "d4uoKWa8yC0",
+            "title": "Pro-Ukrainian demonstrators scatter as Russian troops open fire",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bRfEA0oewsQ",
-            "title": "MIX: Mother Knows Best",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "5DaV0BKZeoc",
             "title": "Men vs. Women: Who Is Funnier?",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "Former Sen. Bob Dole gives final salute as Bush lies in state",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "E1MX2AySXvQ",
+            "title": "Trump set to make 1st address to UN General Assembly",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

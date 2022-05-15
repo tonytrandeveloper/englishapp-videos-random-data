@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1RV4l7yDrvA",
-            "title": "Papal Conclave Countdown: Discovering the Meaning of Miracles",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "HqBtIWFW-0k",
             "title": "9-Year-Old's 'My Little Pony' Backpack Banned by School | Good Morning America | ABC News",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Illegal Claims to Sell Dietary Supplements?",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "jxROk7NyDuo",
+            "title": "The Conversation: Tiger Woods Says He's Sorry",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

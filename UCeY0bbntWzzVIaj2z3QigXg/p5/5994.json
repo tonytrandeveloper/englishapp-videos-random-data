@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p4RQYKi-2d8",
-            "title": "Melania Trump In Africa To Promote Child Welfare | NBC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "SOHeYhT0LPw",
             "title": "‘Come, Holy Father, And Rescue Us’: Woman Prays After Dorian Rips Roof Off Apartment | NBC News",
             "secondDuration": 77,
@@ -31,8 +25,14 @@
             "title": "NASA Runs Final Tests On Rocket For Artemis I Mission",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "2vxY5Rm9C28",
+            "title": "Biden Delivers Remarks On Covid Response | NBC News",
+            "secondDuration": 910,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BkiUU8uFzuo",
-            "title": "Trump Speaks On World Drug Problem At U.N. Event | NBC News",
-            "secondDuration": 1198,
-            "group": "group_7"
-        },
-        {
             "videoId": "qeGCTxcIvtk",
             "title": "White House Holds Press Briefing: May 17 | NBC News",
             "secondDuration": 2226,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - Sept. 24",
             "secondDuration": 2922,
             "group": "group_7"
+        },
+        {
+            "videoId": "MAUnitL6hw4",
+            "title": "AstraZeneca Says Its Covid-19 Vaccine Is Highly Effective | NBC Nightly News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

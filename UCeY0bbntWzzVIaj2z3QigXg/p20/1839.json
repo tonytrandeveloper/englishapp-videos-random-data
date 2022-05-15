@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "M0zkX5KO6Fs",
-            "title": "Ukrainian Family Reunites With Relatives In U.S.",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "BF6pVu66XzM",
             "title": "Puerto Rico Rocked By Powerful Earthquake, At Least One Killed | NBC Nightly News",
             "secondDuration": 76,
@@ -121,8 +115,14 @@
             "title": "Americans React To CDC’s New Mask Guidance For Fully Vaccinated",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "ERgRtbQ7Xk8",
+            "title": "Who Will Win Best Picture At The 2018 Oscars? This Algorithm Is A Great Predictor | Mach | NBC News",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

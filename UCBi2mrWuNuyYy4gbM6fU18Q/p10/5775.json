@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iiQpA85NZ0M",
-            "title": "Proud dad cheers on his daughter",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "ji55VsQxlOg",
             "title": "SNOW | Dogs of the Storm",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Choir sings 'The Star-Spangled Banner' at 2020 DNC",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "ven4pjNRZTE",
+            "title": "Latest on Trump’s 2nd impeachment trial",
+            "secondDuration": 424,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Mh5TPdAWrxo",
-            "title": "President Trump On ‘Tough’ Phone Calls: ‘Don’t Worry About It’ | NBC News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "KKUT7mbxh0o",
             "title": "School Starts Using Facial Recognition Technology Amid Security Concerns | NBC Nightly News",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "First U.S. Case Of Deadly Mystery Virus Confirmed | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "vRhThDfjEGE",
+            "title": "Barr Won't Use 'Criminal Justice System As A Political Weapon' To Investigate Obama | NBC News NOW",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

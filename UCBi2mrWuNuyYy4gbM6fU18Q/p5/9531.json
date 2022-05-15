@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4Biw19-lo74",
-            "title": "Extreme weather on both U.S. coasts l On Location",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wbylb3rrmxI",
             "title": "FDA panel votes to recommend Moderna booster shot | WNT",
             "secondDuration": 277,
@@ -31,8 +25,14 @@
             "title": "John Oliver Buys, Then Pays Off $15 Million of Debt",
             "secondDuration": 43,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hg7ELSX5QcA",
+            "title": "Donald Trump Wins US Presidential Election",
+            "secondDuration": 35,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

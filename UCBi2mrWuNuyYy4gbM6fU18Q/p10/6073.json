@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PjosevoxinA",
-            "title": "What could the death of ISIS leader mean for shifting power dynamic in the region? | ABC News",
-            "secondDuration": 318,
-            "group": "group_7"
-        },
-        {
             "videoId": "1QffdIUZNec",
             "title": "'Dancing With the Stars': Marilu Henner Axed Ahead of Semifinals",
             "secondDuration": 55,
@@ -61,8 +55,14 @@
             "title": "Oakland Warehouse Fire Claims at Least 9 Lives",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "uAmYmW2v3RA",
+            "title": "Sound of Gas Leaks Spreads Fear in New Jersey Towns",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

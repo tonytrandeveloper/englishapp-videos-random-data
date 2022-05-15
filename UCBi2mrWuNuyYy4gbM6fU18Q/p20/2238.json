@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "n0EvOqKZjoc",
-            "title": "US sees another spike in coronavirus death toll l ABC News",
-            "secondDuration": 206,
-            "group": "group_7"
-        },
-        {
             "videoId": "c0sJJc1TqGg",
             "title": "Houston Police Search for Shooter in Highway Road Rage Incident",
             "secondDuration": 145,
@@ -121,8 +115,14 @@
             "title": "South Florida Drug Bust Targets Doctors 2/23/2011",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "EzKiV16uTL0",
+            "title": "Todd Fisher Addresses Carrie Fisher and Debbie Reynolds' Recent Deaths",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

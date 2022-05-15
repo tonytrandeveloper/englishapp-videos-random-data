@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EecndOgekd8",
-            "title": "Jake Tapper on Ahmadinejad's U.N. Speech",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "mBzHgMrBahg",
             "title": "Boston Marathon Security Plans",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "David Plouffe 'This Week' Interview: President Obama's Vision of America in His 2nd Term",
             "secondDuration": 823,
             "group": "group_7"
+        },
+        {
+            "videoId": "TSxhPEqrvEs",
+            "title": "'He's the evil': Kidnap victim faces off with captor in court",
+            "secondDuration": 443,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

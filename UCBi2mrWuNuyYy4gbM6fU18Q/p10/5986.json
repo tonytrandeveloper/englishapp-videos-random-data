@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GLoweLbQZ3g",
-            "title": "Emily Maynard, Jef Holm Interview on Life After the 'Bachelorette'",
-            "secondDuration": 283,
-            "group": "group_7"
-        },
-        {
             "videoId": "BZjmErSQ4rc",
             "title": "What’s New With Alex Trebek?",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "Jimmy Kimmel Dons Colorful 'Loom' Suit",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "8prOFh4KyQU",
+            "title": "‘Unlikely COVID-19 is going to disappear’: Fauci",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

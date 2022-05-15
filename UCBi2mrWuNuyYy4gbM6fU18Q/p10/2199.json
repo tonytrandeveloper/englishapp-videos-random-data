@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GMcoIN_vlXw",
-            "title": "Mission: Saving Money on a Last-Minute Summer Vacation",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "ErHfLbcKFAY",
             "title": "'The Bully Project' Film Fights 'R' Rating With Help from Justin Bieber, Demi Lovato and Johnny Depp",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Obama Receives Big Endorsement From New York Mayor Bloomberg",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "VO_TiveEfXE",
+            "title": "Airbnb User Throws Raucous New Year's Party, Trashes House",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

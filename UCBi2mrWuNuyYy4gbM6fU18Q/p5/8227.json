@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yuv-tktENAU",
-            "title": "French President Says, 'France Is at War,' After Priest Brutally Murdered",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "CdVt5UqjAZ8",
             "title": "Vaccines explained by Dr. Jen Ashton | ABC News",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "US reports 1st case of UK COVID-19 variant l GMA",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "NrPOpW53TJ0",
+            "title": "Tishaura Jones elected 1st Black female mayor of St. Louis",
+            "secondDuration": 337,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

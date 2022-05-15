@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OvmdHbYJVUA",
-            "title": "Michigan secretary of state: ‘Return your ballots in person, don't rely on the mail’",
-            "secondDuration": 382,
-            "group": "group_7"
-        },
-        {
             "videoId": "_xf6hHM2cno",
             "title": "Muhammad Ali | A Grand Farewell",
             "secondDuration": 69,
@@ -61,8 +55,14 @@
             "title": "Undocumented Immigrants Line Up for DREAM Act",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "wYM397dgj_k",
+            "title": "NFL player warns draftees about financial concerns",
+            "secondDuration": 392,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

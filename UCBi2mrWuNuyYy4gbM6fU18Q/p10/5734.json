@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9X6ltnsjChI",
-            "title": "The Conversation: Eating Strange Food",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "3m8ymhTWH-4",
             "title": "Remnants of Hurricane Zeta spread from Louisiana to New York",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "'Shark Tank's' most memorable moments as it launches Season 10",
             "secondDuration": 387,
             "group": "group_7"
+        },
+        {
+            "videoId": "qxLcBQNLsoA",
+            "title": "The Briefing Room: Amber Guyger found guilty, Impeachment showdown, 2020 candidates latest",
+            "secondDuration": 1701,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

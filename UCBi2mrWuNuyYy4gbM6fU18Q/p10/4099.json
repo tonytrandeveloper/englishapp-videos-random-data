@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hGO2ZnNDAIY",
-            "title": "Bus hijacking ends in police shootout",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "uspOrAwBj3s",
             "title": "Michael Jackson's Appearance at the Billboard Awards",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Olympic skiing, Colombia landslide, NATO forces train: World in Photos, Feb. 9",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "TM8MGIPzDzc",
+            "title": "Jimmy and Rosalynn Carter celebrate 75 years of marriage",
+            "secondDuration": 656,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

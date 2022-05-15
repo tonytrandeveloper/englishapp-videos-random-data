@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "brJkOTrDZmM",
-            "title": "Will Smith Shooting Aftermath Caught on Video",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "gzrpWnzwmw8",
             "title": "Newport Beach, California  Doctor Found Shot, Killed in His Office",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Deadly crash with Tesla vehicle on auto pilot",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "03QeNefxryA",
+            "title": "Disparity in police response: Black Lives Matter protests and Capitol riot l ABC News",
+            "secondDuration": 552,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3N41QU92aek",
-            "title": "'Django Unchained': Quentin Tarantino, Leonardo DiCaprio, Jamie Foxx Discuss Movie",
-            "secondDuration": 335,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xvol912cjjY",
             "title": "Orangutan and Dog: Odd Animal Pairs",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Estranged husband charged with murder, could post $6M bond l ABC News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "HhmYrQMJsSo",
+            "title": "Talking to Kids About Differences",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

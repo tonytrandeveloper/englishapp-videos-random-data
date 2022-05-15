@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tvbsEw79aCI",
-            "title": "New York DOH Investigating 100 Cases Of Possible COVID-Related Children's Illness | NBC News NOW",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vcqf7SSnoG0",
             "title": "Hurricane Harvey Survivor: 'I Didn't Imagine It Would Be This Catastrophic:' | NBC News",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Senator Jeff Flake: 'We Ought To Be' Outraged By Political Behavior | Meet The Press | NBC News",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "c8Uw_m4TIfE",
+            "title": "Special Report: Trump Arrives In London For U.K. State Visit | NBC News",
+            "secondDuration": 2374,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

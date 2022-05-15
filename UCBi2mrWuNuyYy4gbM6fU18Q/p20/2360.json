@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RXWfBbsUvMg",
-            "title": "Growing tensions between Warren and Sanders",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "rIwqGegcr8w",
             "title": "'Game of Thrones' Star Lena Headey on Cersei Lannister's Motiviations",
             "secondDuration": 98,
@@ -121,8 +115,14 @@
             "title": "Tuscaloosa, AL: Tornadoes Leave Many Children Homeless",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "WP7oJFLxGYU",
+            "title": "Michael Strahan Interview:  'Live' Co-Host on Super Bowl 2013, Morning Routine",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

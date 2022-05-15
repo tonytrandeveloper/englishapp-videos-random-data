@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XzfdGnEbyD4",
-            "title": "West Virginia Chemical Spill Threatens Health of Residents",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "wV28znAo8zk",
             "title": "Virginia official accuser demands a public hearing",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "Tactical Vehicle Swept Away by Floodwaters, Leaving 9 Dead",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "3ii4qTSBzEY",
+            "title": "ABC News Prime: CDC on the unvaccinated; Flooding in Europe; Bomb plot against Democratic HQ",
+            "secondDuration": 3630,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

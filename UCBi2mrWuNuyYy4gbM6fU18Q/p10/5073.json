@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qcP_YaVZ_ME",
-            "title": "Puerto Rico calls state of emergency after pre-dawn earthquake",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "yct7i9EXWSY",
             "title": "Rep. Don Young lies in state at US Capitol",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Record-Breaking October Heat Wave",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "JbSDR65zWiA",
+            "title": "Interview With Leon Panetta",
+            "secondDuration": 1480,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

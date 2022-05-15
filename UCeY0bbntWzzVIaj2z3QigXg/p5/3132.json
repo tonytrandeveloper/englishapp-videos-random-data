@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y6gUCa4289I",
-            "title": "Sarin Gas: The Colorless, Odorless Chemical Killer | NBC News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "fsItOhSrbxQ",
             "title": "West Virginia Drug Court Judge Determined To Rebuild Community One Life At A Time | NBC Nightly News",
             "secondDuration": 235,
@@ -31,8 +25,14 @@
             "title": "Dr. Azar: ‘Light At The End Of The Tunnel’ Despite New Covid Variants | NBC News NOW",
             "secondDuration": 219,
             "group": "group_7"
+        },
+        {
+            "videoId": "GZjo7aSFYn8",
+            "title": "Mexican Truckers Protest Texas Gov. Abbott's Security Measures At Border",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

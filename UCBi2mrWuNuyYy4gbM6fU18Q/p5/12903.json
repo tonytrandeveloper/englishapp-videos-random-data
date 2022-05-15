@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_D4Vzvo-cyY",
-            "title": "Harvey Weinstein faces new sex crime charges l ABC News",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "npk9XuDxoO4",
             "title": "Bernie Sanders projected to win Vermont l ABC News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Battle for control in Afghanistan worsens",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "rbFEa9X4kQs",
+            "title": "Final Act for the greatest show on Earth",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

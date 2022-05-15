@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7Z634plTanQ",
-            "title": "Opioid Crisis: Historic Cape Cod Town Experiencing Staggering Toll | NBC Nightly News",
-            "secondDuration": 211,
-            "group": "group_7"
-        },
-        {
             "videoId": "OH74R5u_bd8",
             "title": "How To Clean Your Remote | Better | NBC News",
             "secondDuration": 50,
@@ -61,8 +55,14 @@
             "title": "Major Winter Storm Sweeps Across Southern U.S., Threatening Millions | NBC Nightly News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "q5e_gA1ENqA",
+            "title": "Holocaust Survivors Mark 75th Anniversary Of Auschwitz Liberation | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

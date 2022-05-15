@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6aA8CIulVjg",
-            "title": "Meet Hexa, An Adorable, Terrifying, Spider-Like Robot | Mach | NBC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZH2f3M9q20I",
             "title": "Trump Defends Actions Of His Supporters At Violent Portland, Kenosha Protests | NBC News NOW",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "Donald Trump On North Korea: ‘Fire And Fury’ Comments Not Tough Enough | NBC Nightly News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "BIYU4ohNXK0",
+            "title": "Harvey Response: White House Says President Trump Will Visit Texas On Tuesday | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

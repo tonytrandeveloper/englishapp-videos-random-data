@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "spMRX0746QA",
-            "title": "Weekend Adventure: Cave Diving",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "WjcWfo92SXM",
             "title": "'Many people will not be able to afford' a public option: Sen. Bernie Sanders",
             "secondDuration": 506,
@@ -31,8 +25,14 @@
             "title": "Zelenskyy calls on UN Security Council to do more I ABCNL",
             "secondDuration": 483,
             "group": "group_7"
+        },
+        {
+            "videoId": "NKm-jSGRhbQ",
+            "title": "Rockets hit military airbase with US troops in Iraq l GMA",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

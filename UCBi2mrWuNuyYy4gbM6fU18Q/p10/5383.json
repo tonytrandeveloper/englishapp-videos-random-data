@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Y2zzh41GxbQ",
-            "title": "General John Allen's Relationship With Jill Kelley",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "KGx6kBLkZyA",
             "title": "'Dancing With the Stars' Season 13 Week 2: Ralph Macchio Picks Best, Worst Performances",
             "secondDuration": 235,
@@ -61,8 +55,14 @@
             "title": "Roseanne Barr appears to blame tweet on Ambien",
             "secondDuration": 357,
             "group": "group_7"
+        },
+        {
+            "videoId": "bJN0aKYk4Gg",
+            "title": "ABC News Update: Supreme Court strikes down part of ‘amateurism’ rules by NCAA",
+            "secondDuration": 814,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

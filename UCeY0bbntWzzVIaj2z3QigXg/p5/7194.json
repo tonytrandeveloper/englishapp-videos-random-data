@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MmZiJw9AZ4Q",
-            "title": "NOW Tonight with Joshua Johnson - Feb. 22 | NBC News NOW",
-            "secondDuration": 3102,
-            "group": "group_7"
-        },
-        {
             "videoId": "3JUhMu0_eyM",
             "title": "From Ted Cruz To Ted Kennedy: The Art Of Dropping Out | Long Story Short | NBC News",
             "secondDuration": 216,
@@ -31,8 +25,14 @@
             "title": "Whistleblower’s Explosive Complaint Revealed | NBC Nightly News",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "eValLXHFpA8",
+            "title": "FTC Warns Of Surge In Gift Card Scams",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

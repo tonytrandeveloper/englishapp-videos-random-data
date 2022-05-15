@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-02OubBWeRY",
-            "title": "Rogue Wave Pulls Onlookers Into Atlantic",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "5NY0OUNF2aY",
             "title": "US allies react to president's decision on Iran",
             "secondDuration": 276,
@@ -61,8 +55,14 @@
             "title": "Juju Juggles Child Safety",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "LlKOY396Fcc",
+            "title": "Police Say Speed a Factor in Deadly Crash Involving Caitlyn Jenner",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

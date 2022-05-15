@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XGcc424aMro",
-            "title": "George Michael Dead at 53",
-            "secondDuration": 489,
-            "group": "group_7"
-        },
-        {
             "videoId": "4GJhsnxcsrY",
             "title": "Who were David Koresh and the Branch Davidians?: Part 1",
             "secondDuration": 591,
@@ -61,8 +55,14 @@
             "title": "Rainn Wilson's Musical Side",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "0hlt_Em18Lg",
+            "title": "Investigation into sudden death of 27-year-old star MLB pitcher",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

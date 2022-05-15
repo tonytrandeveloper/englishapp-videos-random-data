@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uQZgIopMFIk",
-            "title": "Woman Found Dead at University of Texas at Austin",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "M6eJNlh_P7s",
             "title": "Flashpoint: Refugees In America (Part 2) | ABC News",
             "secondDuration": 539,
@@ -61,8 +55,14 @@
             "title": "Roundtable: This Week in Politics",
             "secondDuration": 1719,
             "group": "group_7"
+        },
+        {
+            "videoId": "dStyDTbSzcU",
+            "title": "Orphaned Puppy Adopted by Mother Cat",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

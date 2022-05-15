@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ul4zREqSTkg",
-            "title": "Donald Trump: When Putin Calls Me Brilliant I'll Take the Compliment | NBC News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "VGkcQc9smBM",
             "title": "Paul Ryan: GOP Having ‘Productive Talks’ On Next Health Care Bill | NBC News",
             "secondDuration": 80,
@@ -61,8 +55,14 @@
             "title": "This Organization Builds Sweet Dreams For Needy Families | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "3ux_rg_M9Ys",
+            "title": "Police Use Four-Legged Friends To Help Protect Royal Wedding | NBC News",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

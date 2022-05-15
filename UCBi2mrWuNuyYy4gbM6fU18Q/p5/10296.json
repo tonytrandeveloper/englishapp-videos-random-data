@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z_HAdlbpMHk",
-            "title": "Nelson Mandela Remembered for His Charismatic Leadership",
-            "secondDuration": 320,
-            "group": "group_7"
-        },
-        {
             "videoId": "KcWwdyvzgrg",
             "title": "Spirit Air Nightmare: 14-Hour Layover",
             "secondDuration": 271,
@@ -31,8 +25,14 @@
             "title": "Alton Sterling Shooting | Officers Involved Named by BRPD",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "mA3fIrQnLjk",
+            "title": "Finding the best deals on flights for the perfect winter getaway",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

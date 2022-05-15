@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L1zgcARNXk4",
-            "title": "Thousands of flights canceled as travel chaos continues | On Location",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "4I1vXnbV9GE",
             "title": "Former Vice President Joe Biden lays out plan to combat coronavirus | ABC News",
             "secondDuration": 241,
@@ -31,8 +25,14 @@
             "title": "Three Mile Island, Safety Fears in 1979",
             "secondDuration": 336,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dj6mAw2-tVA",
+            "title": "Remembering legendary PBS news anchor Jim Lehrer",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

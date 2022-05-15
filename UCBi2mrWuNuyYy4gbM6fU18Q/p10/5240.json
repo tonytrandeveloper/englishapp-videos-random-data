@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Id1x9VLFGEo",
-            "title": "'Gerrymandering' Director on 'Top Line'",
-            "secondDuration": 303,
-            "group": "group_7"
-        },
-        {
             "videoId": "T3RDAMLeXH4",
             "title": "Harrowing 911 call from brave 4-year-old saved mom’s life l ABC News",
             "secondDuration": 225,
@@ -61,8 +55,14 @@
             "title": "Servicemen Murder Investigation Reveals Acts of Heroism",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "UN8rZ4rJBXs",
+            "title": "More than 2 million homes in Florida are without power",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

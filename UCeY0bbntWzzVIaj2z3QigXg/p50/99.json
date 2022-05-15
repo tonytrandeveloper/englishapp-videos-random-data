@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "RD4gCdNGPhE",
-            "title": "Mob Swarms Media Outside Capitol, Damages Equipment | NBC News NOW",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "mhTsl6fagu0",
             "title": "Five Children Hit By Speeding Car At Tampa Bus Stop | NBC Nightly News",
             "secondDuration": 87,
@@ -301,8 +295,14 @@
             "title": "North Korea Has Constructed A Miniature Nuclear Warhead, U.S. Officials Believe | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "mrOLJ2QN6t8",
+            "title": "Fired Acting AG Sally Yates Testifies On Flynn Case | NBC Nightly News",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

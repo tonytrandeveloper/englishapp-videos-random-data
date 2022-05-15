@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cspTv2cWbJs",
-            "title": "Russian attack feared in next 2 days",
-            "secondDuration": 662,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rm20aRpG068",
             "title": "'Lucha Libre' Wrestler: Crusader Against Illegal Immigration",
             "secondDuration": 376,
@@ -61,8 +55,14 @@
             "title": "Biden makes historic Supreme Court nomination | WNT",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "00R_s3dStsk",
+            "title": "US joins search for soccer players trapped in cave",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

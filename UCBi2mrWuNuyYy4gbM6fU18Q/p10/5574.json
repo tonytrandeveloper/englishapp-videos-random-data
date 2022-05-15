@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9r7tr5xiJ60",
-            "title": "Iceberg breaks away from Antarctic ice shelf",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "R8WMEn2bQbs",
             "title": "Beijing Olympics, Carnival celebrations, Mt. Etna eruption: World in Photos: Feb. 14",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "Malala Yousafzai Exclusive Interview With Diane Sawyer Preview: 'I Wanted to Live My Life as I Want'",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "466aQOwZotA",
+            "title": "4 kids recovering from injuries after a car slammed into day care in Philadelphia",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

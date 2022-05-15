@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "BP-RHZqTEVs",
-            "title": "Medical Marijuana for Kids",
-            "secondDuration": 497,
-            "group": "group_7"
-        },
-        {
             "videoId": "NUsx2F50Ujw",
             "title": "Shakeup at the Pentagon after defense secretary fired l GMA",
             "secondDuration": 111,
@@ -301,8 +295,14 @@
             "title": "Adele Recovers, Will Sing at Grammys",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "x7tyenuJQnk",
+            "title": "American Who Survived Brussels, Paris, & Boston Terror Attacks Speaks Out",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

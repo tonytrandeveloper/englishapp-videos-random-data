@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gBda10tCwwk",
-            "title": "Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2680,
-            "group": "group_7"
-        },
-        {
             "videoId": "8RBff0LX2X8",
             "title": "Las Vegas Shooting Reignites Gun Debate | NBC Nightly News",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Polls Show Young Women Flocking to Sanders in New Hampshire | NBC Nightly News",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "eyGxZGU185U",
+            "title": "Inside The Mystery Of Iwo Jima’s Forgotten Flag-Raising Photograph | NBC News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

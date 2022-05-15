@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GRQVB_AYcCM",
-            "title": "Trump Swears in Senior Staff (FULL SPEECH) | ABC News",
-            "secondDuration": 843,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZEmnBCd7RoA",
             "title": "Deadly Tornadoes Tear Through Texas",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "Sen. Michael Bennet ending his presidential bid | ABC News",
             "secondDuration": 412,
             "group": "group_7"
+        },
+        {
+            "videoId": "SrYW-ENJqIQ",
+            "title": "Oscar nominees show wide diversity in a challenging year for filmmaking",
+            "secondDuration": 438,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

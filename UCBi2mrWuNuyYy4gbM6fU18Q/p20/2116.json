@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pFUGZro4dGY",
-            "title": "ISIS Urging 'Lone Wolves' to Launch Attacks",
-            "secondDuration": 413,
-            "group": "group_7"
-        },
-        {
             "videoId": "jD9aQmFgIQQ",
             "title": "Jimmy Carter Sends Video Message to the DNC | ABC News",
             "secondDuration": 153,
@@ -121,8 +115,14 @@
             "title": "'Back to the Beginning': A Preview",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "zJqyOv5cksk",
+            "title": "Thanksgiving Travel, Traffic Report 2012: Weather Causing Airline, Road Delays",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

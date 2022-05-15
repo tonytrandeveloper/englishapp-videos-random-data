@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "F33rrocnfaQ",
-            "title": "Woman is first to swim English Channel 4 times in a row l ABC News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "sC7THuzUJVU",
             "title": "Trains crash into truck on tracks, killing 3 people",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Worst 'Family Feud' Answer",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "nxYrwRRc1PA",
+            "title": "High Risk Patients Await Flu Vaccines",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "03h3i43uGkw",
-            "title": "Amy Grant: Baby, Baby",
-            "secondDuration": 277,
-            "group": "group_7"
-        },
-        {
             "videoId": "T0YSbbnnljo",
             "title": "Voices of the protests | ABCNews PRIME",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Obama Receives Big Endorsement From New York Mayor Bloomberg",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "VO_TiveEfXE",
+            "title": "Airbnb User Throws Raucous New Year's Party, Trashes House",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

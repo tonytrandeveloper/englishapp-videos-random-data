@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BBPZIlj1Vf4",
-            "title": "Donald Trump FULL Speech | Toledo, Ohio Rally (10/27/2016)",
-            "secondDuration": 2442,
-            "group": "group_7"
-        },
-        {
             "videoId": "AS1uCpPTKeY",
             "title": "Houston Astros claim first World Series title",
             "secondDuration": 273,
@@ -31,8 +25,14 @@
             "title": "Sanctions ‘with teeth’ needed on China cyber threat: Rep. John Katko",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "8YElmtznDEU",
+            "title": "New security precautions in effect for holiday season",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

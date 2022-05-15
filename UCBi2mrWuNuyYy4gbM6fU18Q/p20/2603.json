@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "la3ScT4XYrs",
-            "title": "Popcorn: My name is Paul Rudd",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "fG97djdaMxU",
             "title": "America Strong: Singing doctors on the front lines | WNT",
             "secondDuration": 108,
@@ -121,8 +115,14 @@
             "title": "Signature Injury: U.S. Service Members Suffer Concussions",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "tEIe5tT9hQ4",
+            "title": "Nepal Survivors: Amazing Rescues After Earthquake",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

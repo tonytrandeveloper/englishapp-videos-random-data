@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2G9xsBDxYAA",
-            "title": "7 sailors remain missing off the coast of Japan after Navy destroyer collides with a tanker",
-            "secondDuration": 233,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q2obTeL0olo",
             "title": "19-month-old and 21-year-old die from the flu",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Passengers rescue Boston woman caught between train and platform",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "UGqNJhInpso",
+            "title": "'GMA' Unclaimed Money Series: Free Cash at Mall of America?",
+            "secondDuration": 260,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

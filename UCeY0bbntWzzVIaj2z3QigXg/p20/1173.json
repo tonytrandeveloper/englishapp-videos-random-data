@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "layvM1Q3vE8",
-            "title": "Annapolis Authorities Update On Capital Gazette Shooting | NBC News",
-            "secondDuration": 356,
-            "group": "group_7"
-        },
-        {
             "videoId": "L1kYW3ftoCg",
             "title": "COVID-19 First Responders: 'A Matter Of Time' Before It Spreads To Your Community | NBC News NOW",
             "secondDuration": 204,
@@ -121,8 +115,14 @@
             "title": "Trump Goes After Left, Blames China For Coronavirus in July 4th Speech | NBC News",
             "secondDuration": 279,
             "group": "group_7"
+        },
+        {
+            "videoId": "pPVInGkXGso",
+            "title": "LIVE: White House Covid-19 Response Team Briefing | NBC News",
+            "secondDuration": 2031,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

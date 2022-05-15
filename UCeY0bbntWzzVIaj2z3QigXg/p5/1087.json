@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nn00bYV48r4",
-            "title": "Democratic Candidates Make Final Pitches Ahead Of Iowa Caucus | NBC Nightly News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "TZJobbrxAmQ",
             "title": "Jeff Sessions After Donald Trump Rebuke: 'I Plan To Continue' As Attorney General | NBC News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Surprise! White Bread Is Good For More Than Sandwiches | Better | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "aQd1WCsYdas",
+            "title": "Al Qaeda Claims Responsibility for Charlie Hebdo Attack | NBC Nightly News",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

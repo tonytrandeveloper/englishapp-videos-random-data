@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "eCQRhd-_4bw",
-            "title": "Nightly News Full Broadcast - Jan. 20",
-            "secondDuration": 1266,
-            "group": "group_7"
-        },
-        {
             "videoId": "ArR7KMApHaQ",
             "title": "At Least 9 Suspected Migrants Found Dead in Texas Tractor Trailer",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "What Harvey Weinstein’s 23-Year Sentence Means For His L.A. Trial | NBC News NOW",
             "secondDuration": 375,
             "group": "group_7"
+        },
+        {
+            "videoId": "eFSYJbmSG1o",
+            "title": "South African Anti-Apartheid Stalwart Winnie Nelson Mandela Dies At 81 | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

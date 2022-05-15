@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W3ZMGOYe99M",
-            "title": "NYC Mayor Bill de Blasio Holds Press Conference On Coronavirus | NBC News (Live Stream Recording)",
-            "secondDuration": 2674,
-            "group": "group_7"
-        },
-        {
             "videoId": "0v9DVTASozA",
             "title": "Coons: McConnell, Schumer Need To Sit Down, Begin ‘Real Bipartisan Negotiation’ | Meet The Press",
             "secondDuration": 463,
@@ -61,8 +55,14 @@
             "title": "Inside A Flight Attendant Self-Defense Training As Bad Passenger Behavior Surges",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "kV8s9kFMR2c",
+            "title": "Kurdish Fighters Gun Fight With ISIS | NBC News",
+            "secondDuration": 51,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

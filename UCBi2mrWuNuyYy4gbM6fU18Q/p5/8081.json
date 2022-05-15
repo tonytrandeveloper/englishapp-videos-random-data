@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s3zbU4aNQNQ",
-            "title": "20/20 - Your Biggest Fan - Part 2",
-            "secondDuration": 504,
-            "group": "group_7"
-        },
-        {
             "videoId": "fXcKedZ39M0",
             "title": "JetBlue Pilot Video Reveals Clayton Osbon's Apparent 'Panic Attack' Mid-Flight; Passengers Subdue",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "MIX: The Science Behind Tennis Players' Grunts",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "HXAVyb-ZsZE",
+            "title": "Will Mauries Hall testify at Derek Chauvin's trial?",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

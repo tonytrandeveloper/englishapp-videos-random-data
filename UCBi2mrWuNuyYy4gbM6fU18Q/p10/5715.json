@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EBJdnZfi3fw",
-            "title": "President Trump under fire after bombshell report on tax returns",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "q6UBJYnsSyM",
             "title": "Dog Costume Parade Looks to Crown Best in Show",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "Hondurans fleeing violence, corruption at home",
             "secondDuration": 386,
             "group": "group_7"
+        },
+        {
+            "videoId": "vM4jm540_eg",
+            "title": "Russian Truck Crash Caught on Camera",
+            "secondDuration": 38,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

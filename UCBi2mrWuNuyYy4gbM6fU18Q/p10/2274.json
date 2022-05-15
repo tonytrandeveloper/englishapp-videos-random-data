@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r9jMZ7-pzCo",
-            "title": "Taylor Swift breaks political silence",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "5DxfdANEv04",
             "title": "Kentucky High School's Natural Hair Ban Sparks National Debate",
             "secondDuration": 527,
@@ -61,8 +55,14 @@
             "title": "Gretchen Carlson Lawsuit Settled by Fox",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "QnBZkQjXZJs",
+            "title": "Barneys Department Store Accused of Racially Profiling Customers",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

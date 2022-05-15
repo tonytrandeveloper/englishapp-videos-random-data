@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qYfEvNEBBIs",
-            "title": "Moderna announces COVID-19 vaccine breakthrough | WNT",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "2cwFfuIcn7U",
             "title": "Federal authorities seize Backpage.com",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "State of the Union Confidential",
             "secondDuration": 443,
             "group": "group_7"
+        },
+        {
+            "videoId": "0nReJs6YIy8",
+            "title": "Ex-Penn State fraternity members due in court",
+            "secondDuration": 360,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

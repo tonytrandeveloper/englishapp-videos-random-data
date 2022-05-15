@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7NN_waC542Y",
-            "title": "Hostage Situation at Delaware Prison [BREAKING NEWS] | ABC News",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "D-ntwwUBiBM",
             "title": "Child Kidnapper May Be Linked to Other Crimes",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "'GMA' 40th Anniversary:  Most Memorable Places",
             "secondDuration": 524,
             "group": "group_7"
+        },
+        {
+            "videoId": "W6ZTo-4kLFI",
+            "title": "Flamin' Hot Salt Controversy",
+            "secondDuration": 375,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

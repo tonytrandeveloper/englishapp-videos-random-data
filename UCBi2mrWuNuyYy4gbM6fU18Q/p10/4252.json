@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W6ZTo-4kLFI",
-            "title": "Flamin' Hot Salt Controversy",
-            "secondDuration": 375,
-            "group": "group_7"
-        },
-        {
             "videoId": "kn5tsvSTKQ0",
             "title": "Oscar on the Cheap",
             "secondDuration": 270,
@@ -61,8 +55,14 @@
             "title": "Investigation into ‘white power’ symbol during Army-Navy football game l ABC News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "-dOmsVbgQig",
+            "title": "President Biden heads to storm zone today",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

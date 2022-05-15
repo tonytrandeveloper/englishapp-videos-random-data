@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cTnWWXtMQTk",
-            "title": "Steph Curry speaks out before showdown with Cavaliers",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "wP3ric80CWc",
             "title": "Bernie Sanders to Challenge Hillary Clinton for Democratic Nomination",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Chris Christie Bridge Scandal: Email Links New Jersey Governor to Traffic Jam Plot",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "T1BflS-calM",
+            "title": "One of the largest casinos in the world plans new safety measures in wake of COVID-19",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kcdfOUN5pvM",
-            "title": "How Llamas Are Helping Create Antibody Treatment For Coronavirus | NBC News NOW",
-            "secondDuration": 621,
-            "group": "group_7"
-        },
-        {
             "videoId": "ByJdUM7tkLY",
             "title": "Putin Critic Alexei Navalny Returns To Court To Face More Charges | NBC News NOW",
             "secondDuration": 50,
@@ -31,8 +25,14 @@
             "title": "Study: Patients Using iPad And Other Devices To Report Symptoms Live Longer | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "RFWeDQA8s1I",
+            "title": "James Comey:  No Evidence That Hillary Clinton Knew She Broke The Law | NBC News",
+            "secondDuration": 287,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

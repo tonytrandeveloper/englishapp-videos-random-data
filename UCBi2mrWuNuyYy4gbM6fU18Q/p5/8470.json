@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YGuhhjGayGU",
-            "title": "2015 American Music Awards Show Highlights | ABC News",
-            "secondDuration": 248,
-            "group": "group_7"
-        },
-        {
             "videoId": "CH8bqDm5mRA",
             "title": "Impeachment hearing key moments, Hong Kong chaos, Venice flooding | ABC News",
             "secondDuration": 1414,
@@ -31,8 +25,14 @@
             "title": "Fitness explained by Dr. Jen Ashton",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "iPxU_UT-jjE",
+            "title": "Mayo Clinic investigation reveals efficacy of COVID-19 antibody tests l ABC News",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

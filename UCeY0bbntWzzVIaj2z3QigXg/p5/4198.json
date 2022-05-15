@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "btvgct_HASg",
-            "title": "Drones, Robots And More Safely Deliver Supplies During Coronavirus Crisis | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "wbMGYEPwFoQ",
             "title": "NBC News NOW Full Broadcast - April 15th, 2021 | NBC News NOW",
             "secondDuration": 3082,
@@ -31,8 +25,14 @@
             "title": "Roger Goodell On NFL's New Personal Conduct Rules | NBC News",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "DaYYDsur8YA",
+            "title": "European Countries Report Cases of Omicron Covid Variant",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

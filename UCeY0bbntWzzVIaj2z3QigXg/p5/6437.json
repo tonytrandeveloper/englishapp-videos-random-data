@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VxyW9euFPOw",
-            "title": "Remembering Larry Edgeworth, NBC News Colleague Who Died After Coronavirus Test | NBC Nightly News",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "bb9HqwKDBaI",
             "title": "Venice Canals Nearly Empty As Tide Falls Drastically | NBC News",
             "secondDuration": 49,
@@ -31,8 +25,14 @@
             "title": "White House Holds Press Briefing: July 9 | NBC News",
             "secondDuration": 1935,
             "group": "group_7"
+        },
+        {
+            "videoId": "9Wn63-FUCxQ",
+            "title": "Trump Delivers Remarks At New Hampshire Rally | NBC News",
+            "secondDuration": 5755,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

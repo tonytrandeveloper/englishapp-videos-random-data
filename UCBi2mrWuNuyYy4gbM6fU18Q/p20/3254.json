@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "M05Ivizwk2w",
-            "title": "Hurricane Willa makes landfall as Category 3 in Mexico",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "hRCrzJNlBfs",
             "title": "WEBCAST: Scotland Rejects Plan for Independence",
             "secondDuration": 130,
@@ -121,8 +115,14 @@
             "title": "Russian forces transfer control of Chernobyl",
             "secondDuration": 619,
             "group": "group_7"
+        },
+        {
+            "videoId": "kQGMTPab9GQ",
+            "title": "President Obama - Gay Marriage: Gay Couples 'Should Be Able to Get Married' - ABC NEWS EXCLUSIVE",
+            "secondDuration": 463,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

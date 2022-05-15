@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Gzvmgx1OoDg",
-            "title": "Are new COVID-19 testing solutions enough?",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "pC0sifavWJ0",
             "title": "California braces for new storm after record floods",
             "secondDuration": 181,
@@ -61,8 +55,14 @@
             "title": "Piecing Together the Clues in the Deadly Train Derailment",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "KED_OUMH9Lc",
+            "title": "'The Queen of Soul' Aretha Franklin dies at the age of 76",
+            "secondDuration": 367,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

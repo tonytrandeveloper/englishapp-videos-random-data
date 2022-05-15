@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3iO57V9apcY",
-            "title": "President Trump Selects Amy Coney Barrett As Supreme Court Nominee | NBC Nightly News",
-            "secondDuration": 266,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZP4fB18YLMc",
             "title": "Watch Live: President Donald Trump Holds News Conference With The President Of Italy | NBC News",
             "secondDuration": 5723,
@@ -61,8 +55,14 @@
             "title": "Christine Peters: With Syria, America and Obama need to be bold",
             "secondDuration": 23,
             "group": "group_7"
+        },
+        {
+            "videoId": "9Y-21SuoFNg",
+            "title": "Gov. Cuomo Gives Update On Coronavirus Spread Across NY State | NBC News",
+            "secondDuration": 5013,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8IwAxImlrGE",
-            "title": "Hawaii’s Kilauea Lava Destroys More Homes | NBC Nightly News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "CtT5r6VIeB4",
             "title": "TikTok Users React To Trump’s Pledge To Ban The App In The U.S. | NBC Nightly News",
             "secondDuration": 126,
@@ -121,8 +115,14 @@
             "title": "Morning News NOW Full Broadcast - Feb. 2",
             "secondDuration": 2673,
             "group": "group_7"
+        },
+        {
+            "videoId": "-Y8fBVYBt3Q",
+            "title": "Violent Weekend Across U.S. | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

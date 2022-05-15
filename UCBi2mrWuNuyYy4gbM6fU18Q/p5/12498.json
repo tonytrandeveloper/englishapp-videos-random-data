@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TzTtDTEAe-A",
-            "title": "Tom Ford on Declining to Dress Melania Trump",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "afClw3uZkQk",
             "title": "WEBCAST: Couple Leaves Big Tip, Despite Bad Service",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "Former Attorney General on Trump’s false election claims: “There was nothing there”",
             "secondDuration": 487,
             "group": "group_7"
+        },
+        {
+            "videoId": "jMnaOmsIkSw",
+            "title": "John McAfee Arrested in Guatemala",
+            "secondDuration": 295,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "F6PXC-4q8WQ",
-            "title": "The Debrief: Midwest freeze, 7-alarm fire, Venezuela crisis | ABC News",
-            "secondDuration": 1371,
-            "group": "group_7"
-        },
-        {
             "videoId": "6SnaSfgzLKM",
             "title": "House GOP votes Cheney out",
             "secondDuration": 859,
@@ -31,8 +25,14 @@
             "title": "Senator says she was raped by Air Force officer",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "qLe1CryhSqY",
+            "title": "Nikki Haley Endorses Marco Rubio",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

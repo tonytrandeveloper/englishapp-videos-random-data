@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "c-SIIll_9m4",
-            "title": "MIX: Dancing In Protest",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "diFQIvqtRM4",
             "title": "Two unrelated cases of people killed by electrical currents in the water",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "'This Week': Washington's Night Out",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "LQ5arKPr7Yg",
+            "title": "How the new administration could investigate the Capitol riot",
+            "secondDuration": 376,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tGOOb1uddiI",
-            "title": "Major Airline CEOs Warn About The Rollout Of 5G Service",
-            "secondDuration": 535,
-            "group": "group_7"
-        },
-        {
             "videoId": "XuWdvHucV4Y",
             "title": "White House Holds Moment Of Silence To Honor Covid Victims | NBC News",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Democrats Banking On Health Care For Midterm Victories | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "sJ4AHNdnvlA",
+            "title": "Biden Faces Backlash With American Citizens Still Struggling To Flee Afghanistan",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

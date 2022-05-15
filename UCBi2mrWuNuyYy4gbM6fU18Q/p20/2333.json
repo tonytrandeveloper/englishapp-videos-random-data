@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hJW-8t4XNbk",
-            "title": "Tropical storm Gordon slams Florida",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "QIFmh6s0_Dg",
             "title": "Surfside search and rescue paused amid structural concerns",
             "secondDuration": 471,
@@ -121,8 +115,14 @@
             "title": "Protests against governor expand across Puerto Rico",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "AasWQ9jXEzI",
+            "title": "Violent protests in Paris continue for the third straight weekend",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

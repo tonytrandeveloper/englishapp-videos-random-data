@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zVt0xJUVALw",
-            "title": "Paris apartment fire kills 8, injures dozens",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "JhQ-Ui4-3Iw",
             "title": "Instant Index: Bond Singers Aim for Oscar Gold",
             "secondDuration": 79,
@@ -61,8 +55,14 @@
             "title": "Vanessa Williams and Her Mother Receive an  Apology From Miss America Organization",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ubgfz07mMpQ",
+            "title": "Special Report: 12 US service members killed in explosions near Kabul airport",
+            "secondDuration": 1701,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

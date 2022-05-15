@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Hbh6-sska08",
-            "title": "SpaceX Sends 4 Astronauts Into Space In Reused Rocket | NBC News NOW",
-            "secondDuration": 333,
-            "group": "group_7"
-        },
-        {
             "videoId": "pQFotIUg5MA",
             "title": "Donald Trump Delivers Statement Amid George Floyd Protests | NBC News",
             "secondDuration": 440,
@@ -31,8 +25,14 @@
             "title": "ACLU Files Lawsuit Against North Carolina LGBT Law | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "jpUazs0ljMo",
+            "title": "Full Panel: Trump Team Claims 'No Obstruction, No Collusion' | Meet The Press | NBC News",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Mx7fGcfDpR0",
-            "title": "Swedish Crown Jewels Stolen In Broad Daylight Heist | NBC Nightly News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q6FR_7w51Y4",
             "title": "Trump Attorney: Americans Should Feel ‘Better’ After Mueller Report Release | NBC News",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "Supersized Solar Farms Are Being Constructed Across The World (And Soon In Space) | NBC News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "BooiTrSXgz0",
+            "title": "NBC News projects Donald Trump Will Win North Dakota And Alabama | NBC News",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

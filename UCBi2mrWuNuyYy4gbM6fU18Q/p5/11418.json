@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yL-inKvDdaE",
-            "title": "Supreme Court rules against NCAA in landmark antitrust case",
-            "secondDuration": 522,
-            "group": "group_7"
-        },
-        {
             "videoId": "1UROlp1ASVo",
             "title": "President Trump delivers remarks at 'Salute to America' event on Lincoln Memorial",
             "secondDuration": 3332,
@@ -31,8 +25,14 @@
             "title": "Undocumented Immigrants Line Up for DREAM Act",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "wYM397dgj_k",
+            "title": "NFL player warns draftees about financial concerns",
+            "secondDuration": 392,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

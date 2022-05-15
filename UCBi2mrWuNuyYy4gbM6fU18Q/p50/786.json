@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "UcaE5DNx0nU",
-            "title": "Television Icon Regis Philbin dead at 88",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "-7AhzNiFI1w",
             "title": "NYPD Commanders Involved in Bribery Schemes, Allegedly",
             "secondDuration": 315,
@@ -301,8 +295,14 @@
             "title": "Remembering Dick Clark",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "0ZKCC-vMNAw",
+            "title": "Desperation in Haiti as tropical storm disrupts earthquake rescue efforts | Nightline",
+            "secondDuration": 523,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

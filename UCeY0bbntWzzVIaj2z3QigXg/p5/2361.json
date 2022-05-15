@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Nq4oak5yklw",
-            "title": "Americans Turn Against Social Media By Wide Margins | Meet The Press | NBC News",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "aDTX0N564lc",
             "title": "U.S. Surpasses 250,000 Covid Deaths With Record Hospitalizations | NBC Nightly News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Mike Pompeo Fires Back After Iran Warns U.S. To ‘Act With Wisdom’ | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "f7iC-JXp9yo",
+            "title": "At Least 15 Dead As California Wildfires Rage On | NBC Nightly News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

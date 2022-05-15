@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IG3Y0AhVTzs",
-            "title": "Baltimore‘s 911 System Hit With Cyber Hack | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "W6RoZHa1M4o",
             "title": "After California’s Two Earthquakes How Can We Best Prepare For The Next Big Jolt? | NBC Nightly News",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "Watch Live: Trump Delivers Remarks At Law Enforcement Memorial Service | NBC News",
             "secondDuration": 6123,
             "group": "group_7"
+        },
+        {
+            "videoId": "ON-5JxALfnQ",
+            "title": "North Korean TV Hails President Donald Trump’s Decision To Ax War Games | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

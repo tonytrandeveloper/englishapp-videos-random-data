@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ftd87dQ3gU0",
-            "title": "Live: Arizona Governor Gives Coronavirus Updates | NBC News",
-            "secondDuration": 4288,
-            "group": "group_7"
-        },
-        {
             "videoId": "FxKQWPDsAv8",
             "title": "Cindy McCain Honors Friendship Between Joe Biden And John McCain At The 2020 DNC | NBC News",
             "secondDuration": 198,
@@ -31,8 +25,14 @@
             "title": "First Lady Melania Trump's Chief Of Staff Stephanie Grisham Resigns | NBC News",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "r0n5spSYOSM",
+            "title": "Biden Campaigns In Detroit | NBC News",
+            "secondDuration": 1186,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

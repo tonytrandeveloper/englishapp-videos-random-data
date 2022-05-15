@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hccyNI97ev4",
-            "title": "Cinema-Inspired ‘Field of Dreams’ Baseball Game Has a Hollywood Ending",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "zKGIOX3FXio",
             "title": "Citigroup Refunding $330 Million To Customers After Overcharging Interest | NBC Nightly News",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Obama Arrives in Roseburg to Pro-Gun Protests, Grieving Families | NBC Nightly News",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "n0VA7c0eW74",
+            "title": "Facebook Bans 900 Pages And 1,500 Ads For Pro-Trump Conspiracy Theory Group QAnon | NBC News NOW",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

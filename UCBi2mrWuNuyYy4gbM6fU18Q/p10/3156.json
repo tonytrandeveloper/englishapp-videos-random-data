@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1S9GuweEaFY",
-            "title": "Super Tuesday | Donald Trump Projected to Win Georgia",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "eOx3yUxjcWk",
             "title": "Barbara Mikulski, Longest-Serving Woman in Senate, Retiring",
             "secondDuration": 557,
@@ -61,8 +55,14 @@
             "title": "Ben Affleck Wins Hollywood Honors Despite Lack of Oscar Nomination",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ccl3idHvGMA",
+            "title": "Trump breaks silence to defend Roy Moore",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

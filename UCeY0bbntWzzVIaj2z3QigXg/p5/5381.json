@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iMc9KUwROzQ",
-            "title": "FBI: Suspect Who Streamed Execution On Facebook Could Be Anywhere | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "eArOpKFinxU",
             "title": "U.S. Congressman Clay Higgins Criticized For Recording In Auschwitz Gas Chamber | NBC Nightly News",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Judge: Putin ‘Probably Approved’ Killing of Former Russian Spy | NBC Nightly News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "g9eDZVNPFHs",
+            "title": "Adam Schiff: Russians Trying To Interfere In Political Affairs | NBC News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

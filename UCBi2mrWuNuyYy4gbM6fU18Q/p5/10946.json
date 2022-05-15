@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3gLYa0LmVfE",
-            "title": "ABC News Prime: 16 million Americans file for unemployment, NY death toll, food banks help Americans",
-            "secondDuration": 3621,
-            "group": "group_7"
-        },
-        {
             "videoId": "_YzGNq50yZo",
             "title": "Dogs evacuated from Louisiana ahead of Hurricane Delta",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Trump calls Prime Minister Justin Trudeau ‘two-faced’",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "eWejoaD5JhE",
+            "title": "Cuomo responds to Trump's criticisms",
+            "secondDuration": 567,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

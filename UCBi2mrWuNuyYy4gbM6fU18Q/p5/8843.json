@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mQb2S4DIcNc",
-            "title": "Donald Trump Appears to Invite the Russians to Hack Hillary's Emails",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "b1QRiHIvSl8",
             "title": "Family of UNC student who risked his life against gunman on campus speaks out",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Man Falsely Accused of ISIS Allegiance",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "dD_j2RF8qjI",
+            "title": "Obama's Approval Ratings Take a Slide",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

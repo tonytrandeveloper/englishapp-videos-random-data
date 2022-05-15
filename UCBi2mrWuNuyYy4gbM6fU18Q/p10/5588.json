@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qlCg2OHLmxU",
-            "title": "Trump announces new CDC guidelines recommending masks | ABC News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "tdrEaprZuO8",
             "title": "Arizona Mother Walks Out of Mexican Jail",
             "secondDuration": 49,
@@ -61,8 +55,14 @@
             "title": "Peanut Exec Sentenced to 28 Years in Prison for Salmonella Deaths",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "N1ISZq0R1-I",
+            "title": "GPS Astray: Lost in Death Valley",
+            "secondDuration": 919,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

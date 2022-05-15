@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z8JifdhKEII",
-            "title": "Dr. Anthony Fauci: CDC changes ‘not done because of any statement by any CEO’",
-            "secondDuration": 377,
-            "group": "group_7"
-        },
-        {
             "videoId": "PCAlcxP1YVM",
             "title": "First lady Jill Biden unveils White House holiday decorations",
             "secondDuration": 83,
@@ -31,8 +25,14 @@
             "title": "Man on the moon 50 years later: Apollo 11 liftoff",
             "secondDuration": 288,
             "group": "group_7"
+        },
+        {
+            "videoId": "uhXbl132SAA",
+            "title": "Out of Control",
+            "secondDuration": 348,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

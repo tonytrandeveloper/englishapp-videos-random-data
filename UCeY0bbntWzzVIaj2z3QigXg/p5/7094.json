@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "m03DJJUu1hs",
-            "title": "President Donald Trump Accuses Hillary Clinton Campaign Of Russian Collusion | NBC News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "laVdDXWw4l8",
             "title": "Hurricane Maria Death Toll Raised To 2,975 In Puerto Rico | NBC Nightly News",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "New York Governor Admits Mistakes, Denies Underreporting In Nursing Home Deaths | NBC News NOW",
             "secondDuration": 457,
             "group": "group_7"
+        },
+        {
+            "videoId": "nWpkRL0ZZ_Y",
+            "title": "Ports of Los Angeles, Long Beach To Aperate 24/7 To Ease Supply Chain Backup",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

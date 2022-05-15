@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bnMP5ZQxtog",
-            "title": "What Is An Ecosystem? | Nightly News: Kids Edition",
-            "secondDuration": 811,
-            "group": "group_7"
-        },
-        {
             "videoId": "rP0AwR4U4Jg",
             "title": "House Democrats Hold Press Conference On Immigration Talks | NBC News",
             "secondDuration": 2345,
@@ -31,8 +25,14 @@
             "title": "Track Star Allyson Felix’s Fifth Olympics Is About More Than Medals",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "v62B_ZlvXo8",
+            "title": "Growing Movement Honors Homeless Veterans With Dignified Farewell | NBC Nightly News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

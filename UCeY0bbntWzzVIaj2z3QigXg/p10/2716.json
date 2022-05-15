@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zcvKYBwzMCI",
-            "title": "Kate Del Castillo On Returning For ‘La Reina Del Sur 2’ | NBC News",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "J541RlnnE9c",
             "title": "Doctors: Hurricane-Related Health Concerns Are Now Top Priority For Officials | NBC Nightly News",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Signs Measure, Imposing 30% Tariffs On Solar Panels | NBC News",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "KcSEAsRiCNo",
+            "title": "President Donald Trump Speaks From WH After North Korea Missile Launch, Tax Meeting | NBC News",
+            "secondDuration": 832,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

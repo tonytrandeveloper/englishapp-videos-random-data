@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H71GpNesTW0",
-            "title": "Trump Speaks With Putin In 1st Publicly-Revealed Convo Since Mueller Report | NBC Nightly News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "WNJYjSrJjUY",
             "title": "President Donald Trump: North Korea Nuclear Summit Is Back On | NBC Nightly News",
             "secondDuration": 161,
@@ -31,8 +25,14 @@
             "title": "LA Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
             "secondDuration": 3463,
             "group": "group_7"
+        },
+        {
+            "videoId": "pHuV1g-hbSg",
+            "title": "Biden Calls On Private Companies 'To Step Up With Vaccine Requirements'",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

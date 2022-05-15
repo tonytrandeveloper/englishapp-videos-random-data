@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9kWLtN-hKTE",
-            "title": "'1969': NASA engineers recall the historic Apollo 11 moon landing",
-            "secondDuration": 452,
-            "group": "group_7"
-        },
-        {
             "videoId": "2iJUD1LZORo",
             "title": "McConnell acknowledges Biden's victory after Electoral College vote l GMA",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "Lululemon Searches for CEO With Help Wanted Signs",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "bTSWrUDskwE",
+            "title": "Hong Kong’s COVID-19 surge",
+            "secondDuration": 327,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

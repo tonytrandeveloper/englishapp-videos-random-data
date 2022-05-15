@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7qC3XNTMalE",
-            "title": "LIVE: Kim Potter Testifies In Trial On Daunte Wright's Death | NBC News",
-            "secondDuration": 11151,
-            "group": "group_7"
-        },
-        {
             "videoId": "LuiUk03MUfs",
             "title": "Trump Removes Mask After Returning To White House From Walter Reed | NBC News",
             "secondDuration": 219,
@@ -61,8 +55,14 @@
             "title": "Dozens Of West Point Cadets Accused Of Cheating On A Math Exam | NBC Nightly News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "sA3nLLIYwM4",
+            "title": "Extended: Air Force Sergeant John Chapman Posthumously Awarded Medal Of Honor | NBC Nightly News",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

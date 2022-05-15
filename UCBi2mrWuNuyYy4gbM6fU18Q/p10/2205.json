@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fv8ODsjtBYQ",
-            "title": "IRS ends use of facial recognition technology",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "tF-sk2OK8YA",
             "title": "Entertain with Tupperware! | ABC News",
             "secondDuration": 271,
@@ -61,8 +55,14 @@
             "title": "Pastor Charged with Murder in Fatal Las Vegas Bar Fight",
             "secondDuration": 369,
             "group": "group_7"
+        },
+        {
+            "videoId": "QePj3RCz7sU",
+            "title": "Freddie Gray Protests Turn Violent in Baltimore",
+            "secondDuration": 394,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

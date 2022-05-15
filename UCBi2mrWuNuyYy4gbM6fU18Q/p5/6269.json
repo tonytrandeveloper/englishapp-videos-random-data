@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aaVLJbfpxF4",
-            "title": "Oscars 2017: Secrets about Hollywood's biggest night",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "qLa6C8hrmLc",
             "title": "Death toll rises in Bahamas amid Dorian destruction | ABC News",
             "secondDuration": 167,
@@ -31,8 +25,14 @@
             "title": "Ashton Kutcher, Demi Moore Divorce: Demi Releases Statement, Says She's 'Moving On'",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "CJ7GuQBgt8w",
+            "title": "LGBTQ communities react to the pope’s historic support of same-sex unions",
+            "secondDuration": 478,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

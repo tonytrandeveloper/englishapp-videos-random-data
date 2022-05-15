@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ykpGzAi8qqk",
-            "title": "Changemakers: Women Of Color In STEM | Nightly News Films",
-            "secondDuration": 553,
-            "group": "group_7"
-        },
-        {
             "videoId": "t6nIylCcaXw",
             "title": "Richard Branson Beats Jeff Bezos In Billionaire Space Race",
             "secondDuration": 263,
@@ -121,8 +115,14 @@
             "title": "Educated In Terror: Reshaping The Children Of ISIS | NBC News",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "uklosKdPYy0",
+            "title": "Tennesse Residents Survive Tornado: ‘I’m Numb, I’m Shocked’ | NBC News NOW",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

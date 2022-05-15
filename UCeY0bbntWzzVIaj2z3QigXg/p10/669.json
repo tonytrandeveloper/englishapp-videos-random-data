@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ark9nhusWoU",
-            "title": "Russia Intensifies Attacks In Ukraine As Invasion Enters Seventh Day",
-            "secondDuration": 333,
-            "group": "group_7"
-        },
-        {
             "videoId": "yA4NgY3T6fA",
             "title": "How Jan. 6 Changed One Man's Path Away From QAnon",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "Biden Celebrates Infrastructure Vote With New Challenges Ahead",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "WAkAgtGsvhU",
+            "title": "Series Of Suspicious Deaths At VA Hospital Under Investigation | NBC Nightly News",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

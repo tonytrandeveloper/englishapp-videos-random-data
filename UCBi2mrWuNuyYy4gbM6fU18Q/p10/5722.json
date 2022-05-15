@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6zBX7zi9s7c",
-            "title": "ABC News Prime: COVID-19 rise in US; Breonna Taylor cop interview; Pope's shift in same-sex marriage",
-            "secondDuration": 4181,
-            "group": "group_7"
-        },
-        {
             "videoId": "4P0zmqJ0dlU",
             "title": "World's Tallest Hotel Set to Open in Hong Kong",
             "secondDuration": 229,
@@ -61,8 +55,14 @@
             "title": "Apple will reportedly sell iPhone, iPad as subscription service",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "atpGDrbKuto",
+            "title": "Remdesivir shortages during COVID-19",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

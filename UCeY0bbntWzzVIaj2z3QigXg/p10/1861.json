@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NoSWLlVO6zM",
-            "title": "Federal Health Officials Say This Flu Season Is The Worst In Nearly A Decade | NBC Nightly News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "7Wd4KJmBmQQ",
             "title": "Obama Announces Historic Jobs Growth | NBC News",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "'Happy To Report No One Has Died': Police Discuss Austin Shooting",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vm4156f59MA",
+            "title": "Live: White House Holds Press Briefing | NBC News",
+            "secondDuration": 1456,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

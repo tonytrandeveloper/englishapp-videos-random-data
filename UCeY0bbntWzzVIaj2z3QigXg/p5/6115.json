@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "W3E2tbQaKk4",
-            "title": "President Donald Trump: 'This Is Our New American Moment' | NBC News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "atjxODFHwvQ",
             "title": "Florida Gov. DeSantis Gives Updates On The Coronavirus | NBC News (Live Stream)",
             "secondDuration": 1695,
@@ -31,8 +25,14 @@
             "title": "New York Gov. Andrew Cuomo Holds Briefing | NBC News",
             "secondDuration": 3206,
             "group": "group_7"
+        },
+        {
+            "videoId": "wkIPfnW_iiY",
+            "title": "How Esports Scholarships Offer Gamers A New Path To College | NBC News",
+            "secondDuration": 344,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

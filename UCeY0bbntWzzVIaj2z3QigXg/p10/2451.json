@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CLsvJC7j-iA",
-            "title": "Six Million Americans In Danger Of Eviction",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ots3BRI3iec",
             "title": "Authorities Search For Missing New Hampshire Boy After Mother Is Arrested",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Mysterious Remains Found In Idaho Cave Identified After 40 Years | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "cQT5tn0wzuc",
+            "title": "Pope Francis Holds Ukrainian Flag From ‘Martyred’ City Of Bucha",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

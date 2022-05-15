@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qKNp75Nni8w",
-            "title": "Virgin Orbit's 'Cosmic Girl' Launches 7 Satellites Into Orbit",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "55A2qG5gqMw",
             "title": "The LGBTQ Community And Mental Health During The Winter Months",
             "secondDuration": 276,
@@ -31,8 +25,14 @@
             "title": "America In Crisis: Mellody Hobson On Diversifying The Workforce | NBC News NOW",
             "secondDuration": 478,
             "group": "group_7"
+        },
+        {
+            "videoId": "ehqh6_H-KJA",
+            "title": "Prison Inmates Allegedly Abused in Interrogations, NYT Finds | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

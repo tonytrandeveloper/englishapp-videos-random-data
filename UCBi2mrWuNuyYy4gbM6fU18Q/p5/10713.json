@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9h7I2miotis",
-            "title": "President Trump and President Putin Meet at G-20 Summit (FULL VIDEO)",
-            "secondDuration": 1171,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q9hWyxojjh4",
             "title": "DNC Night 4: Political experts discuss the final night of the 2020 DNC | Nightline",
             "secondDuration": 535,
@@ -31,8 +25,14 @@
             "title": "In Case You Missed It - 7/26/2013",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "LcH9zyrbatg",
+            "title": "Lebanon’s prime minister and Cabinet resign after protests erupt",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3JtAiWUlFmQ",
-            "title": "'This Week' Roundtable: Second Term Slump",
-            "secondDuration": 697,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z6rNYPkh-Ss",
             "title": "Trump scolds NATO member nations",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Man jailed at age 11 for a murder he says he didn't commit speaks out",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "yPWGsghzNN0",
+            "title": "Suspect arrested after 3 killed, 5 injured in shooting on Dutch commuter train",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

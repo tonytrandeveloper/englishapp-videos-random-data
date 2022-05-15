@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6oUh2T4NUuk",
-            "title": "Arnold Schwarzenegger: 'Terminate Gerrymandering Once And For All' | NBC News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "f9ALINefW8M",
             "title": "Here's Why You Should Think Twice About Lighting Fireworks On The 4th | NBC News",
             "secondDuration": 60,
@@ -121,8 +115,14 @@
             "title": "Trump Signs Executive Order For Regulation Of Social Media’s ‘Unchecked Power’ | NBC News NOW",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "_MT6RiLub1E",
+            "title": "Conviction on Dateline",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

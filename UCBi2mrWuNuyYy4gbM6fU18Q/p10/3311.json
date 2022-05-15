@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JEeSpMyoCts",
-            "title": "Wicked Weather Whips Millions",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "mFr6cfHMcGk",
             "title": "A deeper dive into the outstanding votes in Pennsylvania",
             "secondDuration": 325,
@@ -61,8 +55,14 @@
             "title": "Inauguration: Freedom Riders, Crowd Reacts to Obama's Speech",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "iXML4C0rirM",
+            "title": "Jury in Bill Cosby's sexual assault trial begins deliberations",
+            "secondDuration": 323,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bcENYzBfafc",
-            "title": "Emmett Till Case Reopened | NBC Nightly News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "wVEpgbExUwU",
             "title": "President Donald Trump Holds Campaign Rally In Tennessee | NBC News",
             "secondDuration": 3633,
@@ -121,8 +115,14 @@
             "title": "North Korean Olympic Official: Unified Team Will Work Fine Together | NBC News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "v8b75GwP_Hc",
+            "title": "Long Lines And Overwhelming Demand For Covid Vaccine | NBC Nightly News",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

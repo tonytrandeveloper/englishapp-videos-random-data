@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OfE3ZpUFswM",
-            "title": "Multimillion-Dollar Jewel Heist Caught On Surveillance Camera | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "4xZyLBdXPVQ",
             "title": "Houston Family Loses Six Loved Ones In Hurricane Harvey Flooding | NBC Nightly News",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Morning News NOW Full Broadcast - April 21 | NBC News NOW",
             "secondDuration": 3185,
             "group": "group_7"
+        },
+        {
+            "videoId": "cmcm_9poak8",
+            "title": "What Issues Will Tip the Scales for Voters in South Carolina? | NBC Nightly News",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

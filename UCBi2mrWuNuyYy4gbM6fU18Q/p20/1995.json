@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ByBuRucmMB8",
-            "title": "Dean Smith's Surprising Gift to University of North Carolina’s Players",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "UTZN-lt-mtQ",
             "title": "'Touch DNA' Links Men to Car of Murdered College Student: Part 2",
             "secondDuration": 551,
@@ -121,8 +115,14 @@
             "title": "Dangerous Weather Conditions Threaten Holiday Travelers",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZGxyNjeLDN0",
+            "title": "NYC Bodegas Strike in Immigration Ban Protest",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

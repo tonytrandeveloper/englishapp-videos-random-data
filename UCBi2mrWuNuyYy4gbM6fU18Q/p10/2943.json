@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bSNRPSCf40c",
-            "title": "Treasury Secretary Jack Lew 'This Week' Interview",
-            "secondDuration": 555,
-            "group": "group_7"
-        },
-        {
             "videoId": "hUsQinizQqI",
             "title": "COVID vaccine could bring relief for long-haulers",
             "secondDuration": 330,
@@ -61,8 +55,14 @@
             "title": "Turpins plead guilty in California torture case",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "cspTv2cWbJs",
+            "title": "Russian attack feared in next 2 days",
+            "secondDuration": 662,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

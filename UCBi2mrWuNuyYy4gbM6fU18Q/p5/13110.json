@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "G1s_JKh9i2E",
-            "title": "Climate change affecting record wildfire season",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "8PlcALRh6Og",
             "title": "Obama Praises University of Missouri Protestors",
             "secondDuration": 433,
@@ -31,8 +25,14 @@
             "title": "Milwaukee Officials Thought They Had Wild Cat Cornered",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "cTE4m4HqP3U",
+            "title": "Florida COVID ward nurse: ‘We’re back to where we were in December’",
+            "secondDuration": 343,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

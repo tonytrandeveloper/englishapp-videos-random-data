@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bEffZD6hYzc",
-            "title": "Trump Signs Memorandum To Exclude Undocumented Immigrants From Census | NBC News NOW",
-            "secondDuration": 318,
-            "group": "group_7"
-        },
-        {
             "videoId": "i1NiYxQafow",
             "title": "NY Lt. Gov. Brian Benjamin Resigns After Arrest For Campaign Finance Fraud",
             "secondDuration": 196,
@@ -61,8 +55,14 @@
             "title": "Coming up on Meet the Press - ElBaradei on what comes next in Egypt",
             "secondDuration": 16,
             "group": "group_7"
+        },
+        {
+            "videoId": "oIYh_UBhp7A",
+            "title": "Samsung Issues Recall of Millions of Smartphones | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kTaIj91C9hI",
-            "title": "George Floyd’s brother testifies on police reform",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "Cw616w-U35w",
             "title": "Trump meets with astronauts, families for 50th anniversary of Apollo 11",
             "secondDuration": 378,
@@ -31,8 +25,14 @@
             "title": "Trump Wiretap Claim: 'No question that something happened' Spicer says",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ag4QvMtXK8w",
+            "title": "Updates on the growing humanitarian crisis in Puerto Rico",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

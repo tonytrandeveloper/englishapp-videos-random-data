@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KQblnhiNuRw",
-            "title": "Who Really Killed Osama Bin Laden?",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "p4Cx5n7EXgA",
             "title": "George H.W. Bush Interview With Diane Sawyer: A Life of Service",
             "secondDuration": 247,
@@ -31,8 +25,14 @@
             "title": "The battle over reopening America’s schools",
             "secondDuration": 386,
             "group": "group_7"
+        },
+        {
+            "videoId": "NngIvxCtA7s",
+            "title": "Global leaders express outrage over images of Russian atrocities l WNT",
+            "secondDuration": 410,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

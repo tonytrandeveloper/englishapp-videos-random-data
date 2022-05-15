@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9HzSlNzU-FM",
-            "title": "Pence Makes Surprise Visit To U.S. Troops In Iraq | NBC News",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "BwD92v9ma4s",
             "title": "Thermal Glasses Provide Quick, Portable Checks Of COVID-19 Symptom | NBC News",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "Kenan Thompson Reflects On Being Longest-Serving ‘SNL’ Member | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "XMT9KhwG5XY",
+            "title": "New York Governor Andrew Cuomo Holds Briefing | NBC News",
+            "secondDuration": 2032,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

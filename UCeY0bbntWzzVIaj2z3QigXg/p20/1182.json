@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "51Q9k9W8jd0",
-            "title": "'We're Close To The Edge': EPA Head Warns Of Ongoing Climate Crisis",
-            "secondDuration": 310,
-            "group": "group_7"
-        },
-        {
             "videoId": "k7KeKACfGKM",
             "title": "New Therapy For Cancer Patients Who Have Given Up Hope | NBC Nightly News",
             "secondDuration": 117,
@@ -121,8 +115,14 @@
             "title": "Obama Delays U.S. Troop Withdrawal in Afghanistan | NBC Nightly News",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "JamDJKL4Hd8",
+            "title": "Class Of 2020: Illinois High School Does Drive-Thru Graduation Ceremony | NBC News NOW",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

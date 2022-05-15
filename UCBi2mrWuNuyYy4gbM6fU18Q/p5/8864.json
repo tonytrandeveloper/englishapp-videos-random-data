@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YaovrXM9Fbg",
-            "title": "Donald Trump Jr. Compares Syrian Refugees to Skittles",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "5IabvuYUxFg",
             "title": "Trump on Education | Election 2016",
             "secondDuration": 54,
@@ -31,8 +25,14 @@
             "title": "Bush shares 'beautiful gesture' from his father after 9/11",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "YPZjQC5rYzU",
+            "title": "Whoopi Goldberg suspended",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

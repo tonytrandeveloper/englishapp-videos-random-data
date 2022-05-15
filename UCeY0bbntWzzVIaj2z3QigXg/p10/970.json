@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7JSzwZFqYUg",
-            "title": "U.S. Surpasses 4,000 Daily Deaths From Covid For First Time | NBC Nightly News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "weD4yb_G0Nk",
             "title": "Washington State University Football Coach Fired For Refusing Covid-19 Vaccine",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "Suspected Gas Attack Kills Dozens, Including Children, In Syria | NBC News",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "kcdfOUN5pvM",
+            "title": "How Llamas Are Helping Create Antibody Treatment For Coronavirus | NBC News NOW",
+            "secondDuration": 621,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

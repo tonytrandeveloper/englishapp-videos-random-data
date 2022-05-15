@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "V3bqPG2wiVo",
-            "title": "White House Holds Press Briefing: May 5 | NBC News",
-            "secondDuration": 3155,
-            "group": "group_7"
-        },
-        {
             "videoId": "-n-bqPX936s",
             "title": "Misinformation, Disinformation: What To Expect From Election 2020 | Meet The Press | NBC News",
             "secondDuration": 602,
@@ -121,8 +115,14 @@
             "title": "Newly Released Police Bodycam Video Reveals Moments Before George Floyds Death | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "tHPvgE3UTio",
+            "title": "Growing Health Concerns As Hawaii Fears More Volcanic Eruptions | NBC Nightly News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

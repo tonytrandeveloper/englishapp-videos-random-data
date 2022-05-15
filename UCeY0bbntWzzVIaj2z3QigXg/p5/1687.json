@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DZfZ6a8-GyE",
-            "title": "A Beginner’s Guide to Gender-Neutral Restrooms | Queer 2.0 | NBC Out",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "_vwOd5WbEtk",
             "title": "The Secret Behind Washington’s New 'Grocery Tax' Ban | NBC News Signal",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "Midterm Elections: Senate Control Hangs In Balance | NBC News",
             "secondDuration": 278,
             "group": "group_7"
+        },
+        {
+            "videoId": "olMh6TLXQkM",
+            "title": "Car Shopping Made Complicated By Chip Shortage: Should You Buy Or Lease?",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

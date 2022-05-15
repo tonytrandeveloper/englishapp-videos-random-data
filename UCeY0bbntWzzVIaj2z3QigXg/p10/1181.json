@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Nq4oak5yklw",
-            "title": "Americans Turn Against Social Media By Wide Margins | Meet The Press | NBC News",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "aDTX0N564lc",
             "title": "U.S. Surpasses 250,000 Covid Deaths With Record Hospitalizations | NBC Nightly News",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Trial Begins In Jussie Smollett Case",
             "secondDuration": 246,
             "group": "group_7"
+        },
+        {
+            "videoId": "1AtIaQob9Qc",
+            "title": "Images Show U.S. Postal Machines Removed And Dismantled | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

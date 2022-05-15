@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Em3vQW2-3lI",
-            "title": "Exploring the criminal underworld of black markets",
-            "secondDuration": 376,
-            "group": "group_7"
-        },
-        {
             "videoId": "zJDOwD8s9dQ",
             "title": "New York City Mayor Bill de Blasio Defies Traditional Pizza Norms",
             "secondDuration": 196,
@@ -61,8 +55,14 @@
             "title": "The Michael Sam Effect",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "Nosl-CiDqGo",
+            "title": "WEBCAST: British Royals Wrap Up NYC Visit",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

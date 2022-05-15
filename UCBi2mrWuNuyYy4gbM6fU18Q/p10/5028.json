@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "I9100--nCTw",
-            "title": "CDC: Worst of Swine Flu May Be Over",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ouo-DTG9Swc",
             "title": "Lady Gaga Raises Chickens with Fiancé Taylor Kinney",
             "secondDuration": 44,
@@ -61,8 +55,14 @@
             "title": "State Dept. Admits to Editing Iran Press Briefing Video",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "wZhlEsUoXZI",
+            "title": "The Walking Dead Premiere | Who Died & Fan Reactions",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

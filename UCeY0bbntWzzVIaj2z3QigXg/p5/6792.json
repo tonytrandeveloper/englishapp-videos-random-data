@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4zk_6doQ480",
-            "title": "Live: President Donald Trump Signs Coronavirus Relief Bill | NBC News",
-            "secondDuration": 1382,
-            "group": "group_7"
-        },
-        {
             "videoId": "XL1o_k-n0a4",
             "title": "Cuomo 'Considering' Quarantine On Floridians Traveling To New York | NBC News NOW",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Phoenix Serial Killer Now Linked to 9 Shootings, 7 Deaths | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "kJwmbsOuRsw",
+            "title": "FDA Advisory Committee Recommends Approval Of Pfizer Covid Vaccine | NBC News",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

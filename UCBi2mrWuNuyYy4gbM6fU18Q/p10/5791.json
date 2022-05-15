@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kIPbYB723ow",
-            "title": "Amanda Berry Found: Despite Unlocked Doors, Some Kidnap Victims Don't Run",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "c3ygmrBJZCw",
             "title": "After Landfall: Life after Hurricane Harvey",
             "secondDuration": 1088,
@@ -61,8 +55,14 @@
             "title": "The Breakdown: UN urges global action as Taliban takes control of Afghanistan",
             "secondDuration": 2145,
             "group": "group_7"
+        },
+        {
+            "videoId": "pSeLE5wsr2M",
+            "title": "Subway, Jared Fogle Suspend Ties After Raid Tied to Child Porn",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

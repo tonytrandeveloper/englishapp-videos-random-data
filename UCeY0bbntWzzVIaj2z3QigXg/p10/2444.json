@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mlO2OpfSajo",
-            "title": "Kellyanne Conway: With FBI Letter, Hillary Clinton is Passing the Blame | Meet The Press | NBC News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "8oIK6cfGFyo",
             "title": "Joe Biden Denies Former Senate Staffer's Sexual Assault Allegation | NBC Nightly News",
             "secondDuration": 213,
@@ -61,8 +55,14 @@
             "title": "NBC News Projects Joe Biden Will Win Minnesota | NBC News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "knPx0FEoonA",
+            "title": "An Alligator Is On The Loose In Chicago | NBC Nightly News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

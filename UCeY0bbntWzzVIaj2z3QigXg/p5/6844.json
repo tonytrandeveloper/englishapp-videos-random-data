@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yAM-xWxN89A",
-            "title": "NBC News Exclusive: Andrea Constand Breaks Her Silence | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "06NvB6EOqMw",
             "title": "North Korea Tested Long-Range Cruise Missiles, State Media Says",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Zelenskyy Addresses U.N. Security Council After Accusing Russia Of Genocide",
             "secondDuration": 1201,
             "group": "group_7"
+        },
+        {
+            "videoId": "0i4hfm2T7uo",
+            "title": "\"Kale And Bacon Are Over\" Says Zagat | 3rd Block | NBC News",
+            "secondDuration": 44,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

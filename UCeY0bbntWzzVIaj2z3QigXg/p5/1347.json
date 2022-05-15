@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ISRjZ6Mj_Ak",
-            "title": "Mayor de Blasio Introduces ‘Simpler And Safer’ COVID-19 Self-Swab Testing | NBC News NOW",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "vloO0DzRHZQ",
             "title": "Melania Trump's Republican National Convention Speech (Full) | NBC News",
             "secondDuration": 883,
@@ -31,8 +25,14 @@
             "title": "White House On Las Vegas Shooting: ‘Premature’ To Discuss Gun Control Policy | NBC News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "f054c9j57x8",
+            "title": "Heated Battles Over Vaccine Mandates Grow Across The Country",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

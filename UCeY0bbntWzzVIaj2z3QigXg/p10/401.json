@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hrahMOOqlLw",
-            "title": "Trump On Environmental Regulation: Big Government 'At It's Absolute Worst' | NBC News",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "kXlItOK4MM4",
             "title": "Pence Falsely Accuses Obama Admin Of Spying On 2016 Trump Campaign | NBC News",
             "secondDuration": 172,
@@ -61,8 +55,14 @@
             "title": "LA Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
             "secondDuration": 3598,
             "group": "group_7"
+        },
+        {
+            "videoId": "eAIREUYF4L4",
+            "title": "Severe Weather Causes Destruction Across The U.S. | NBC Nightly News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

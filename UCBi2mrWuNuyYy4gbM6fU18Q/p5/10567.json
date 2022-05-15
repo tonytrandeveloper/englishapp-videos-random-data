@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-3URa6tW2ig",
-            "title": "White House press briefing on Michael Wolff book, and Steve Bannon | ABC News",
-            "secondDuration": 2736,
-            "group": "group_7"
-        },
-        {
             "videoId": "Dvm2KZ1SMIk",
             "title": "Experts discuss the impact of the youth vote ahead of 2020 presidential election | Nightline",
             "secondDuration": 350,
@@ -31,8 +25,14 @@
             "title": "California Representative Katie Hill delivers final speech on House floor",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "CYkd6TUrl8s",
+            "title": "Putin Accuses Obama Administration of Spreading False Rumors to Undermine Trump",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

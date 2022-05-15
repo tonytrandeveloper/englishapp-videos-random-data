@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ZlBFbp_0jzo",
-            "title": "Trump prepares for 1-on-1 meeting with Kim Jong Un",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "MF0z1j6e-fs",
             "title": "Hurricane Dorian emergency, Brexit outrage, Italian volcano erupts l ABC News",
             "secondDuration": 1386,
@@ -301,8 +295,14 @@
             "title": "Trump - Hillary Debate VS Kennedy-Nixon Debate | ELECTION CYCLE",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "zZ_JqI8daWI",
+            "title": "EPA Administrator Scott Pruitt resigns amid scandals: Special Report",
+            "secondDuration": 638,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

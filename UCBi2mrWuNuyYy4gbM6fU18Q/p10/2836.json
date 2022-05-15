@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "espFmkk65v0",
-            "title": "Biden and Trump address national security threat of foreign influence during election",
-            "secondDuration": 1236,
-            "group": "group_7"
-        },
-        {
             "videoId": "-fIul15W7Gw",
             "title": "ABC World News Now 20 Years: POLKA",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "5 dead after plane crashes into home",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "FgriiB9oJbM",
+            "title": "Video shows officer shoot suspect during struggle",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

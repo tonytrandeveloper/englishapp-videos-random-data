@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kJwmbsOuRsw",
-            "title": "FDA Advisory Committee Recommends Approval Of Pfizer Covid Vaccine | NBC News",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "kKutZYZj7Os",
             "title": "Governor Greg Abbott Gives The Timeline Of Texas Shooter's Massacre | NBC News",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Charlottesville Violence: Investigation Begins As Victim’s Identity Revealed | NBC Nightly News",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "p9g8sjx0WWg",
+            "title": "President Biden & VP Harris Lay Wreath At Tomb Of The Unknown Soldier In Arlington National Cemetery",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

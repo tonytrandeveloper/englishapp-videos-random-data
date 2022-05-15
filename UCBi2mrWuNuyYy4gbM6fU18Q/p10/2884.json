@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ViNFhj2Gegk",
-            "title": "'Occupy' Protests: Cities Fight Back",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "gyUuEafj_EM",
             "title": "GM to Become 'Government' Motors?",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Catastrophic Quake",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "JYolEg4O8JM",
+            "title": "Simone Biles pulls out of Olympic team gymnastics final",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

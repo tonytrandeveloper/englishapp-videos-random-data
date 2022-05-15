@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "t_H8KY0F5eE",
-            "title": "In His Own Words: Air Force Pararescueman On Afghanistan",
-            "secondDuration": 266,
-            "group": "group_7"
-        },
-        {
             "videoId": "fa8m2KkHJuw",
             "title": "Netanyahu Calls ICC Investigation 'Undiluted Anti-Semitism' | NBC News NOW",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Shutdown Sparks Concerns For Those Who Rely On Government For Food Assistance | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "m9NSgxbGzhY",
+            "title": "President Donald Trump Salutes North Korean General In State Media Footage | NBC News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

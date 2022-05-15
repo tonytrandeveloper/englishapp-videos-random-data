@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qJeuKZ4q_zU",
-            "title": "'Empire' actor Jussie Smollett taken into custody by Chicago police",
-            "secondDuration": 508,
-            "group": "group_7"
-        },
-        {
             "videoId": "BdnQMkamj_I",
             "title": "ABC News Live: Top generals testify on Afghanistan withdrawal",
             "secondDuration": 2204,
@@ -31,8 +25,14 @@
             "title": "Lawyer pleads guilty to lying in Russia probe",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "zzGdDCom3pQ",
+            "title": "SpaceX Launch Successful, 1st Commercial Rocket Heads to International Space Station",
+            "secondDuration": 27,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

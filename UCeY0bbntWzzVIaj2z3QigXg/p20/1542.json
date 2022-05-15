@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bQkjmlA-hSM",
-            "title": "A Ring That Could Unlock Everything In Your Electronic Future | Mach | NBC News",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "maK2sthjlJU",
             "title": "Meet The Press Broadcast (FULL) - Dec. 12",
             "secondDuration": 2851,
@@ -121,8 +115,14 @@
             "title": "New Zealand Shooting Suspect Identified | NBC News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "i74T9x7GQ3o",
+            "title": "'An Anomaly: Full Miami-Dade Mayor Interview After Florida Building Collapse",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

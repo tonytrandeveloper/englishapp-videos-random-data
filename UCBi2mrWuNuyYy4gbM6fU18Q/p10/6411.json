@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "V9xMIDZeevk",
-            "title": "Paul Ryan Says He Will Run For Speaker of the House But With Some Conditions",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "OvKgQOawEEY",
             "title": "'The Briefing Room': Trump and Rosenstein, Kavanaugh confirmed, UN climate report | ABC News",
             "secondDuration": 1148,
@@ -61,8 +55,14 @@
             "title": "Best practices to take action against COVID-19 | ABC News",
             "secondDuration": 491,
             "group": "group_7"
+        },
+        {
+            "videoId": "bM5eF_4J7IE",
+            "title": "Jennifer Lawrence and Amy Schumer Dance on Billy Joel’s Piano and More in Pop News",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

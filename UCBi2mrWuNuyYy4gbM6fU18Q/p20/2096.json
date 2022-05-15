@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Jz-0w1xlt8I",
-            "title": "Flipping Houses: Not for the Faint of Heart",
-            "secondDuration": 478,
-            "group": "group_7"
-        },
-        {
             "videoId": "pzPiZZwtvXY",
             "title": "Intense Rainfall, Deadly Floods Ravage Texas",
             "secondDuration": 77,
@@ -121,8 +115,14 @@
             "title": "High school students in New York change senior dance venue for cancer patient",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "81oEHNLVfMY",
+            "title": "NTSB on scene of deadly train derailment in Montana",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

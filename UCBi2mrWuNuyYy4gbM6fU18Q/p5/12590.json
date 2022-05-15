@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VR3D5y2ur5M",
-            "title": "ABC News Live Update: Hurricane Laura ravages Texas and Louisiana",
-            "secondDuration": 1196,
-            "group": "group_7"
-        },
-        {
             "videoId": "JBwNbvqVVD4",
             "title": "North Carolina Fair Ride Accident: Police Say Ride's 'Safety Systems Deliberately Tampered With'",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Gabby Giffords' Last Day: Unity in Congress",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "6lG6jvc4NXo",
+            "title": "Modern Family Episode Filmed Entire On Mobile Apple Devices: Sneak Peek",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

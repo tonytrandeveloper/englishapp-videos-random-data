@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_lYjXsnHGoA",
-            "title": "Holiday parade disaster leaves 5 dead, over 40 injured l GMA",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "6YsVyIxoOUU",
             "title": "False Positives Prevalent in Breast Cancer Screenings",
             "secondDuration": 172,
@@ -61,8 +55,14 @@
             "title": "Clinton Senior Adviser on the Next Phase of the Campaign",
             "secondDuration": 334,
             "group": "group_7"
+        },
+        {
+            "videoId": "zZv9cUEhE1o",
+            "title": "Alleged highway sniper arrested in North Carolina",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

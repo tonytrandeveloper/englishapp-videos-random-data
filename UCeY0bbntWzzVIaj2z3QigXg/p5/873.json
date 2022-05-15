@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2h_43oLRdIA",
-            "title": "Man Sells Boston Snow Online | NBC Nightly News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "zHXKzUVMkjA",
             "title": "Stephanie Ruhle: To Weather A Financial Storm, Focus On These 3 Key Areas | NBC News Now",
             "secondDuration": 196,
@@ -31,8 +25,14 @@
             "title": "Trump Says He Will Bring Back Coronavirus Briefings, Will Focus On Vaccines | NBC News NOW",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "KGfBiU0Ztu4",
+            "title": "What Midlife Women Should Know About Their Health | NBC News",
+            "secondDuration": 400,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

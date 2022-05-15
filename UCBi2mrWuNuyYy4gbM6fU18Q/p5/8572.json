@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zH_HOqGvtFg",
-            "title": "Vladimir Putin Offers Solution to Super Bowl Ring Scandal",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "0up4nU7Q2Qo",
             "title": "Trump Criticizes Former Miss Universe | Alicia Machado Speaks Out",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "Tennessee man speaks out about his encounter with 2 dangerous escaped prisoners",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "6ks9ZU61Fpo",
+            "title": "Suspect Arrested in Erin Andrews Case",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

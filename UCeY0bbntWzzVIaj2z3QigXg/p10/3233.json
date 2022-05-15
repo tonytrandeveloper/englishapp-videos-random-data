@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7CyY4kbgiEo",
-            "title": "Thousands Of Kinder Eggs Wash Ashore In Germany Following Storm | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "GriRzb4WtJk",
             "title": "New Museum Dedicated To The Art Of The Selfie | NBC Nightly News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Is Travel Insurance Worth The Cost? | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "C7Sur_Kr78Q",
+            "title": "North Korea Fires Second ICBM Near Japan | NBC Nightly News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

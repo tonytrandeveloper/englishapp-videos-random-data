@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oGrwu4ClDn8",
-            "title": "Summer of the Bear",
-            "secondDuration": 447,
-            "group": "group_7"
-        },
-        {
             "videoId": "uz_wb31lWlc",
             "title": "First known ‘murder hornet’ nest found in US",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "Electoral College vote to be certified today",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "XBLeYmy0gQY",
+            "title": "North Korea Missile Launch",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

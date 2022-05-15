@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Tu-6C6KO4zA",
-            "title": "FBI Fires Agent Peter Strzok, Who Sent Anti-Trump Texts | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "_IAydlcgILw",
             "title": "Sacramento EMTs Overwhelmed Amid Omicron Wave",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "Bodycam Video Shows 2016 Shootout Between Central Florida Man And Police | NBC Nightly News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "arIwu52pCak",
+            "title": "Florida Citrus Growers Fight To Save Fruit From Deep Freeze",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

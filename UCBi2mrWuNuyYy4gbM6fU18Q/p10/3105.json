@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N7daNxe7JJI",
-            "title": "The Giz Wiz: Computer Add-Ons",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "vjkXNcyDvQI",
             "title": "Facebook IPO: Social Network to Go Public",
             "secondDuration": 172,
@@ -61,8 +55,14 @@
             "title": "SKINNY: 2014 MTV EMA's",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "oojjxnWkZU0",
+            "title": "LA Clippers Owner's Racist Remarks Spark Sponsors to Flee",
+            "secondDuration": 305,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

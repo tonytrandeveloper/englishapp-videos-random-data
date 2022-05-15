@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TjKHv9BevDU",
-            "title": "Ukraine emergency services evacuate building, put out fire in Kyiv",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "TgGhc5eVz3c",
             "title": "Donald Trump, Ted Cruz Fight for Delegates in Indiana",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Junk Food May Be Addictive as Drugs",
             "secondDuration": 350,
             "group": "group_7"
+        },
+        {
+            "videoId": "u6rNoAO4zAU",
+            "title": "Michael Bloomberg speaks at DNC 2020",
+            "secondDuration": 336,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

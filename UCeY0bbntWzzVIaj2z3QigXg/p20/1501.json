@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "77li4Xy8a_Q",
-            "title": "Watch Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3184,
-            "group": "group_7"
-        },
-        {
             "videoId": "YN5WdtkvD8c",
             "title": "Dogs Riding In Motorcycle Sidecars Are Awesome | NBC Nightly News",
             "secondDuration": 147,
@@ -121,8 +115,14 @@
             "title": "Army Orders Review Of Climate At Fort Hood After Death Of Vanessa Guillen | NBC Nightly News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "nPxvr-LWLoU",
+            "title": "President Donald Trump Calls Off Summit With North Korea’s Kim Jong Un | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

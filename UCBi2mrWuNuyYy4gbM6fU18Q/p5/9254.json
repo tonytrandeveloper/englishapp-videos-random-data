@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "w_iLjWLFhTc",
-            "title": "High Praise for Chile's Leader as Miners Rescued",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "Gw1dZFq6l44",
             "title": "Super Bowl 2013 Commercials: Viewers Call the Shots",
             "secondDuration": 167,
@@ -31,8 +25,14 @@
             "title": "Sheriff's deputy fatally shoots suspect in Florida",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "kMmu1xoBhZ8",
+            "title": "Chicago Teachers' Strike: Public Schools vs. Charter Schools",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j7_CkQ4SBps",
-            "title": "What Life’s Like 19 Years After A School Shooting | NBC News",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "YyBn-PeiHvQ",
             "title": "Full Mulvaney: ‘Absolutely Cannot’ Rule Out Another Government Shutdown | Meet The Press | NBC News",
             "secondDuration": 561,
@@ -31,8 +25,14 @@
             "title": "ROUGH CUT: John Hunter on the World Peace Game (and Tree Octopi)",
             "secondDuration": 258,
             "group": "group_7"
+        },
+        {
+            "videoId": "vrHLE8SAp9Q",
+            "title": "LIVE: White House Covid-19 Response Team Briefing | NBC News",
+            "secondDuration": 2076,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

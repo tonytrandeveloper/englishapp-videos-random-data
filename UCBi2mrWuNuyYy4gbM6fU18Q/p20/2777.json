@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HXRC5yCSkSs",
-            "title": "Bionic Suit Helps Paralyzed Patients Walk Again",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "DkR-0JkfGA4",
             "title": "Passengers and crew miraculously survive plane crash in Texas",
             "secondDuration": 242,
@@ -121,8 +115,14 @@
             "title": "Zodiac Sign Switch Brings Horoscope Horrors",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "b0jD2KnA0gQ",
+            "title": "Tupac Alive at Coachella, Performs with Snoop Dogg",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

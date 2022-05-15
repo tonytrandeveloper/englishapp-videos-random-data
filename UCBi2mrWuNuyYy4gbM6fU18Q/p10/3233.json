@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TZnH3nB7Q8w",
-            "title": "Senate impeachment trial of Trump officially begins",
-            "secondDuration": 317,
-            "group": "group_7"
-        },
-        {
             "videoId": "uGYUhcJcDnQ",
             "title": "Slicing Up the $564 Million Powerball Lottery Ticket",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "When Seconds Count: Hero Flight Attendant Helps Passengers to Safety",
             "secondDuration": 502,
             "group": "group_7"
+        },
+        {
+            "videoId": "0yPatNqCSsY",
+            "title": "Instant Index: Scientists Find Source of Russian Meteor Crash",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "n3BOiHqa_44",
-            "title": "Gas Prices Spike, Up 15 Cents in 1 Week",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "nBLGDrpvq2Y",
             "title": "NSA is withholding 'potentially relevant documents' to Ukraine: Rep. Schiff | ABC News",
             "secondDuration": 527,
@@ -61,8 +55,14 @@
             "title": "Walmart Cashier Gets Career Encouragement From Loretta Lynn",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "9Rb0R6qvZAo",
+            "title": "ABC News Prime: GOP takes aim at SCOTUS pledge; Parents struggle with COVID; Mayim Bialik convo.",
+            "secondDuration": 5496,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

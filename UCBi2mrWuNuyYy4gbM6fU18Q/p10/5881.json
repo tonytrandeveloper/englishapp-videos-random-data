@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cIiSHuv3NGE",
-            "title": "Breaking down Ahmaud Arbery murder trial as the jury deliberates",
-            "secondDuration": 766,
-            "group": "group_7"
-        },
-        {
             "videoId": "g3Srl6V-xaM",
             "title": "ISIS: Army National Guard Member Arrested for Allegedly Trying to Join",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Nicole Kidman Talks \"Rabbit Hole\"",
             "secondDuration": 569,
             "group": "group_7"
+        },
+        {
+            "videoId": "cClCDXkBpBk",
+            "title": "Citizen journalism on the frontlines",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

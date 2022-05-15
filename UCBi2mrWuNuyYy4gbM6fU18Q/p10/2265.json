@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TzxfC7CqbOQ",
-            "title": "Patient dies from severe respiratory illness, possibly from vaping",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "nAoePgiMjEI",
             "title": "Midwest, Northeast slammed by dangerous snow, ice",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Japan Tsunami: One Year Later",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gzd8Oxtj4xU",
+            "title": "A Whole City Turns Out to See the Pope",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YNAiqWJQ2Es",
-            "title": "Security breach revealed at JFK International Airport",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "e6KjC98VoqU",
             "title": "House cancels Thursday session after security threats",
             "secondDuration": 414,
@@ -61,8 +55,14 @@
             "title": "Paws for a Cause: Dogs Help Kids Read",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "2xu3rfmG7cg",
+            "title": "'The Long Road Home' with the soldiers and families of Black Sunday",
+            "secondDuration": 375,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

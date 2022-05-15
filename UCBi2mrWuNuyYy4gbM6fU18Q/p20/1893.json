@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tXh_RzWKCAw",
-            "title": "Young Miracle Cancer Survivor's Journey",
-            "secondDuration": 353,
-            "group": "group_7"
-        },
-        {
             "videoId": "DSps7bM4xJs",
             "title": "Olympic Terror Threat in Russia",
             "secondDuration": 115,
@@ -121,8 +115,14 @@
             "title": "Concussion Keeps Clinton From Testifying on Benghazi",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "DFSRi68YwzI",
+            "title": "Officers banned from guarding Chauvin?",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

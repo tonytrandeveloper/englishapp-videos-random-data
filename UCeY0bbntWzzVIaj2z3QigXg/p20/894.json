@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Aasfc2Ywppk",
-            "title": "President Donald Trump Addresses the United Nations General Assembly (Full) | NBC News",
-            "secondDuration": 2891,
-            "group": "group_7"
-        },
-        {
             "videoId": "RdzkjuhI7Tk",
             "title": "Virginia Beach Mayor Makes Emotional Statement: 'We Will Not Be Defined By This Horror' | NBC News",
             "secondDuration": 98,
@@ -121,8 +115,14 @@
             "title": "Coronavirus Cases Spike In Houston Amid Hospital Capacity Concerns | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "6oUh2T4NUuk",
+            "title": "Arnold Schwarzenegger: 'Terminate Gerrymandering Once And For All' | NBC News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

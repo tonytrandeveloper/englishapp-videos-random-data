@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IMdZqm5jf3c",
-            "title": "5 Marines Rescued After Osprey Goes Down Off Coast of Okinawa",
-            "secondDuration": 49,
-            "group": "group_7"
-        },
-        {
             "videoId": "EuFnzfLukqI",
             "title": "Rihanna Opens Up to Diane Sawyer",
             "secondDuration": 75,
@@ -61,8 +55,14 @@
             "title": "Trump Loyalists Warn Against Mitt Romney for Secretary of State",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "ahzwuFzeO3A",
+            "title": "30-year-old crime still haunts New York City",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

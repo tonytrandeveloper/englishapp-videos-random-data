@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QFCcxIDuEbQ",
-            "title": "Monsoon storms moving into Southwest as heat wave fuels wildfires in the West l WNT",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "0Br-gLk614w",
             "title": "Air France Report: What Went Wrong",
             "secondDuration": 299,
@@ -61,8 +55,14 @@
             "title": "Half-Court Shot Nets Student $10,000",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZlkrDgsow5g",
+            "title": "Trump Tower No-Fly Zone Implemented by FAA",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

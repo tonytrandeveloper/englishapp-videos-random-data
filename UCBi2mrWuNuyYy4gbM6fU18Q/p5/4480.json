@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ku9ApSGk8dc",
-            "title": "Hunting for ISIS Radicals in France",
-            "secondDuration": 449,
-            "group": "group_7"
-        },
-        {
             "videoId": "y9z_P9Tvp8A",
             "title": "Trump on Nuclear Weapons, His Temperament, and Hillary Clinton",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Close Call on the Arctic's Melting Sea Ice",
             "secondDuration": 347,
             "group": "group_7"
+        },
+        {
+            "videoId": "BcglVtJT8U4",
+            "title": "Real Life 'Blind Side'",
+            "secondDuration": 408,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

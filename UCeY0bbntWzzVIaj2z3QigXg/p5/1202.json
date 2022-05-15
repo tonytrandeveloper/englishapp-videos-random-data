@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yfr5Ql0C7Vw",
-            "title": "Biden Addresses Pipeline Cyberattack: FBI Is Engaged To Assess, Address This Attack | NBC News",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "7SXY2PuKZDE",
             "title": "Louisiana Plane Crash: What We Know About The Investigation And Victims | NBC Nightly News",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Congressional Baseball Game Returns One Year After Shooting | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "681F25y6nIA",
+            "title": "Eric Garner, Michael Brown Killings Protested In NYC | NBC News",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

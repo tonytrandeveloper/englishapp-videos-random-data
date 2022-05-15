@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dgkiRQ22zLs",
-            "title": "A Race Against Time To Evacuate Bay City, Texas | NBC Nightly News",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "1twWwf2TW5I",
             "title": "Ruth Bader Ginsburg: Public Appearance Days After Completing Cancer Treatment | NBC Nightly News",
             "secondDuration": 99,
@@ -121,8 +115,14 @@
             "title": "Thousands Line Up To Honor Firefighter Who Died Saving Others | NBC Nightly News",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "D2g0ZI9eCRg",
+            "title": "Meet Canada's Prime Minister Justin Trudeau | 101 | NBC News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

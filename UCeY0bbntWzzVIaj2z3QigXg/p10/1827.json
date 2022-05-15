@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NMeeqHYvQZk",
-            "title": "NBC News’ Lester Holt Goes Inside Lab Creating Potential Coronavirus Treatment | NBC Nightly News",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "dJYs_N_GaDo",
             "title": "Deadly Overnight Tornadoes Strike Several States",
             "secondDuration": 348,
@@ -61,8 +55,14 @@
             "title": "How To Become A Member Of The Academy | 30STK | NBC News",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "JrA9vioyM1U",
+            "title": "Violence Escalates Between Israel And Gaza As Death Toll Rises",
+            "secondDuration": 324,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

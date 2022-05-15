@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ym7fZUwu8Kw",
-            "title": "This Morning’s Top Headlines – October 20 | Morning News NOW",
-            "secondDuration": 1430,
-            "group": "group_7"
-        },
-        {
             "videoId": "0So0-tSPrXY",
             "title": "Chileans Celebrate Overwhelming Vote To Scrap Pinochet-Era Constitution | NBC News NOW",
             "secondDuration": 54,
@@ -301,8 +295,14 @@
             "title": "Navajo Nation President Asks For Federal Aid For 'High Vulnerable Population' | NBC News NOW",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "g_93hlEp4Bg",
+            "title": "Red Tide Devastates Coastal Communities And Marine Life, But What Is It? | Mach | NBC News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

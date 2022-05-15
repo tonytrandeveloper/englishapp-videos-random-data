@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rUqEzkd7TNI",
-            "title": "Collar Bomb Hoax: How Suspect Was Caught",
-            "secondDuration": 302,
-            "group": "group_7"
-        },
-        {
             "videoId": "tnu5oRUCiFo",
             "title": "White House press briefing on Trump's Sessions tweets, Philadelphia Eagles cancellation, tax cuts",
             "secondDuration": 3030,
@@ -61,8 +55,14 @@
             "title": "Four Injured After Jet Blue Flight Makes Emergency Landing",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "v4yDb3avN4g",
+            "title": "Prince Charles officially opens new hospital to provide care for 4,000 COVID-19 patients | ABC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jlYI0CvA1vs",
-            "title": "MSNBC: Ed Schultz",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "BZ9E5peYyvE",
             "title": "Watch: Homeless Man In GoFundMe Scam Sentenced To Five Years Probation | NBC News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Vindman Tells Jordan He Would 'Never' Leak Information | NBC News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "zcvKYBwzMCI",
+            "title": "Kate Del Castillo On Returning For ‘La Reina Del Sur 2’ | NBC News",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

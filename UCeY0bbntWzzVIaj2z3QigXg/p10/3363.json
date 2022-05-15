@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Tm41EMWXcOY",
-            "title": "News Helicpter Hunts Down Carjacking Suspect | NBC News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "2EwT-JUId-s",
             "title": "Texas Attorney General Says Transition Care For Minors Is Child Abuse Under State Law",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Watch Unattended Rioters Inside Capitol Building, Senate Chamber | NBC News NOW",
             "secondDuration": 46,
             "group": "group_7"
+        },
+        {
+            "videoId": "rNWXySnjtqc",
+            "title": "Mexico Rattled By 7.0 Magnitude Earthquake",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GMPjZe8PAgA",
-            "title": "Mike Pence: ‘Now We Need To See Results’ On North Korea Denuclearization | NBC News",
-            "secondDuration": 784,
-            "group": "group_7"
-        },
-        {
             "videoId": "ucz6gqpaqCM",
             "title": "FDA Review Finds Pfizer’s Covid Vaccine Is Effective | NBC Nightly News",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Live: Florida Governor DeSantis Gives Update On Coronavirus Response | NBC News",
             "secondDuration": 1821,
             "group": "group_7"
+        },
+        {
+            "videoId": "5WJIOoy7yIc",
+            "title": "Wisconsin City Prepares To Help Afghan Refugees",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

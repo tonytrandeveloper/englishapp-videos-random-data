@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "m1zTJi8Hes4",
-            "title": "President Donald Trump Speaks At New Hampshire Rally | NBC News",
-            "secondDuration": 7274,
-            "group": "group_7"
-        },
-        {
             "videoId": "kYVkPK8hW-0",
             "title": "California Gov. Newsom Speaks Out Amid Pandemic Response Criticism | NBC Nightly News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Sen. Harris: 'I Accept Your Nomination For Vice President' | NBC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "QtWP0KDx2hA",
+            "title": "How Hackers Can Target Voting Machines | NBC News Now",
+            "secondDuration": 287,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

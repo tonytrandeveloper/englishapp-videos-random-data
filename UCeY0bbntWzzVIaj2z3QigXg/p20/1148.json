@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "h7vdIW9EVUM",
-            "title": "Collins: Democrats Have 'Lowered The Standard' For Impeachment | NBC News",
-            "secondDuration": 162,
-            "group": "group_7"
-        },
-        {
             "videoId": "bKz9cI5uMeo",
             "title": "President Obama To Donald Trump: If You Succeed, The Country Succeeds | NBC News",
             "secondDuration": 184,
@@ -121,8 +115,14 @@
             "title": "Could FBI Analysis of Video Exonerate Officer in Walter Scott Shooting? | NBC Nightly News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "6lSUk9zQCxM",
+            "title": "LIVE: White House Holds Press Briefing | NBC News",
+            "secondDuration": 2481,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

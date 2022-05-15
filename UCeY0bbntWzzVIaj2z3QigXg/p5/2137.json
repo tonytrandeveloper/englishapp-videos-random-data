@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X10rUS1xod4",
-            "title": "Watch Live: President Donald Trump Speaks At A Keep America Great Rally In Louisiana | NBC News",
-            "secondDuration": 4584,
-            "group": "group_7"
-        },
-        {
             "videoId": "NJ54UNXwCJQ",
             "title": "United CEO Discusses Employee Covid Vaccine Mandate In Exclusive Interview",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "Arctic Scientists Stranded By Coronavirus Travel Restrictions | NBC News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "zas7hF9US84",
+            "title": "Republicans Face Off In First Big Debate As Focus Centers on Trump | NBC Nightly News",
+            "secondDuration": 281,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

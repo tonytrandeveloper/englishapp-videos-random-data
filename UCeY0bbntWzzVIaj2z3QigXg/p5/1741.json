@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S6mVn63MCZE",
-            "title": "Tim Armstrong: \"For student success, it takes...\"",
-            "secondDuration": 26,
-            "group": "group_7"
-        },
-        {
             "videoId": "Iwbxdt1Qd5I",
             "title": "Biden Says U.S. Will Respond If Russia Uses Chemical Weapons",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "Joe Biden: 60 Seconds In Debate ‘Can’t Do Justice’ To Lifetime Of Civil Rights Work | NBC News",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "jbMQ_yryoBQ",
+            "title": "Olympics President Calls Japanese People 'Chinese' During Speech In Tokyo",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

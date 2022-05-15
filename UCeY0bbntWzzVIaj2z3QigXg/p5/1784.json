@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TklcFTUM6_Y",
-            "title": "Donald Trump: I Hope Russia Has Hillary Clinton's Missing Emails | NBC News",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nt2-Sr00L2Q",
             "title": "SNL's Best Political Impressions Remebered | NBC News",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "McConnell: 'There Will Be Enough Votes' To Stop Trump's Emergency Order | NBC News",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "pHis1ls2k98",
+            "title": "Live: NYC Mayor Bill De Blasio Holds Press Conference Amid George Floyd Protests | NBC News",
+            "secondDuration": 5649,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

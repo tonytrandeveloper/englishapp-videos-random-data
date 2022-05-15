@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mmJAtyDKgKw",
-            "title": "NBA Finals Game 1 HIGHLIGHTS | Golden State Warriors vs Cleveland Cavaliers",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nb0LQiu4CUA",
             "title": "Trump touts tax benefits for businesses",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "Paul Ryan Blasts John Roberts On Supreme Court Health Care Decision",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gdm4zhpBWak",
+            "title": "Mississippi hits record single-day spike in coronavirus cases",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

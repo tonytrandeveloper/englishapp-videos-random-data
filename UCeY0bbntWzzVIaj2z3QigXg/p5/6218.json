@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mq4rm9kQSOE",
-            "title": "Morning News NOW Full Broadcast - July 20",
-            "secondDuration": 2368,
-            "group": "group_7"
-        },
-        {
             "videoId": "4--1hBie14Y",
             "title": "Chauvin Trial: Top Minneapolis Police Lieutenant Says Use Of Force ‘Totally Unnecessary’",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Mocks Man At Rally: 'That Guy's Got A Serious Weight Problem' | NBC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "YoL-HxAXV98",
+            "title": "Republicans Diverge On Party’s Route To Reclaim Power | NBC Nightly News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

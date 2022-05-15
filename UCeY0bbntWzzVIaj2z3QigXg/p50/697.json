@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-HzOqZeX3Yk",
-            "title": "Alex Jones Of 'Infowars,' Conspiracy Theories, And Trump Campaign (Full) | Megyn Kelly | NBC News",
-            "secondDuration": 1056,
-            "group": "group_7"
-        },
-        {
             "videoId": "w8MytkrG3z8",
             "title": "‘10 Years of My Life Gone’ Rockport Business Owner Tells Lester Holt | NBC Nightly News",
             "secondDuration": 79,
@@ -301,8 +295,14 @@
             "title": "California Gov. Newsom Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2829,
             "group": "group_7"
+        },
+        {
+            "videoId": "K7aZuCcbG64",
+            "title": "Frontier, Spirit Merge To Form Fifth Largest U.S. Airline",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

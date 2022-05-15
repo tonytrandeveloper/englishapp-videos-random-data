@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qgQBAheNghw",
-            "title": "Deadly Ice",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "5v9XpVCODO8",
             "title": "How to Survive a Plane or Train Crash (Episode 5)",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Surpasses 270 Electoral Votes Despite Calls for Protest",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "5affaeRSqME",
+            "title": "How UNICEF is responding to the Russia-Ukraine crisis l ABCNL",
+            "secondDuration": 386,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

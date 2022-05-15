@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "agk47wvrazI",
-            "title": "Lester Holt Pays A Virtual Visit To The San Diego Zoo | Nightly News: Kids Edition",
-            "secondDuration": 822,
-            "group": "group_7"
-        },
-        {
             "videoId": "hqUsByMr2DU",
             "title": "Stephen Hawking Laid To Rest In Westminster Abbey | NBC News",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Trump Defends Decision Not To Notify Top Democrats Before Baghdadi Raid | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "pQ1eVBDIf8k",
+            "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2011,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

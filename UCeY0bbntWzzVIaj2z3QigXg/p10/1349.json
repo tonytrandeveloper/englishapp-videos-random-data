@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qEhBEZYB6ck",
-            "title": "Nelson Mandela's 1994 Inauguration | Flashback | NBC News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "P4cW3ByAKWE",
             "title": "At Least 40 Dead After Historic Blizzard Hits East Coast | NBC Nightly News",
             "secondDuration": 187,
@@ -61,8 +55,14 @@
             "title": "WH Details Role Of Community Health Centers, Pharmacies In May 1 Vaccine Eligibility Order",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "BgWQX19qBIg",
+            "title": "Pence: 'The American People Should Anticipate That Cases Will Rise' | NBC News NOW",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

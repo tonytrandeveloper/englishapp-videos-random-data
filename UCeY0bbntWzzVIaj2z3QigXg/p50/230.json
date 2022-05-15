@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "J3sqYQEj3Os",
-            "title": "3 Babies Test Positive for Potentially Deadly Bacteria at Maryland Hospital | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "X97VthURQEY",
             "title": "Steven Sotloff Beheaded By ISIS | NBC News",
             "secondDuration": 122,
@@ -301,8 +295,14 @@
             "title": "Michelle Obama Steals DNC Spotlight in Powerful, Rousing Speech | NBC Nightly News",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "PCdx5ip1X58",
+            "title": "Nation Bids Farewell To President George H.W. Bush | NBC Nightly News",
+            "secondDuration": 292,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

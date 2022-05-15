@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xGsdMAZHU7Y",
-            "title": "'This Week' Roundtable: 'Duck Dynasty' Debate",
-            "secondDuration": 473,
-            "group": "group_7"
-        },
-        {
             "videoId": "qNMh1SEYmrw",
             "title": "New details of Prince's death revealed as documents are released",
             "secondDuration": 313,
@@ -31,8 +25,14 @@
             "title": "'Downtown Abbey': Cast Talks Season 3 Secrets",
             "secondDuration": 338,
             "group": "group_7"
+        },
+        {
+            "videoId": "VLaBUCqNflw",
+            "title": "Amplified: Cee Lo",
+            "secondDuration": 519,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

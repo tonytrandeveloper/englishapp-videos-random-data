@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "56bK99mbxo0",
-            "title": "Facebook Post Helps Toddler Get Kidney From Parents' HS Classmate",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "qbSWW9npLAY",
             "title": "At least 2 people killed, 3 wounded in terror attack on London Bridge",
             "secondDuration": 178,
@@ -61,8 +55,14 @@
             "title": "Murder and Scandal in Chicagoland l 20/20 l PART 2",
             "secondDuration": 421,
             "group": "group_7"
+        },
+        {
+            "videoId": "mHzCazF1StQ",
+            "title": "Aaron Hernandez Arrested on Murder Charges: Patriots Drop Star After Arrest",
+            "secondDuration": 280,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

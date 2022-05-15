@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ol6KWGMskCw",
-            "title": "Caught on Tape: Violent Black Friday Shopping Brawls",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "18pQG1lh_XU",
             "title": "Will and Kate: Should You Give Your Ex a Second Chance?",
             "secondDuration": 366,
@@ -31,8 +25,14 @@
             "title": "Vaccine Watch: Navigating signing up for the COVID-19 vaccine",
             "secondDuration": 340,
             "group": "group_7"
+        },
+        {
+            "videoId": "ya3Pqasvyno",
+            "title": "Fast moving developments in the coronavirus outbreak",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

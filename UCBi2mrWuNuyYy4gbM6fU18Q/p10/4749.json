@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XAvqyVDtuHM",
-            "title": "The Debrief: Impeachment hearings, Indiana Uni, Political ads | ABC News",
-            "secondDuration": 1362,
-            "group": "group_7"
-        },
-        {
             "videoId": "gXdAKBYJsMA",
             "title": "New details emerge in Otto Warmbier's medical condition",
             "secondDuration": 300,
@@ -61,8 +55,14 @@
             "title": "President Trump Full News Conference With Finnish President Sauli Niinistö",
             "secondDuration": 1958,
             "group": "group_7"
+        },
+        {
+            "videoId": "3rn6QC27cz0",
+            "title": "'Nightline's' Historic Nelson Mandela Interview",
+            "secondDuration": 428,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

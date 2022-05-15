@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rZEwu94hzHM",
-            "title": "Andrew Giuliani Announces Bid For New York Governor",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "8O8lhGFHKAQ",
             "title": "What Is In The Inspector General’s Report? | NBC News NOW",
             "secondDuration": 324,
@@ -31,8 +25,14 @@
             "title": "'This Is A Tsunami': Queens Food Pantry Overwhelmed In Face Of COVID-19 | NBC News NOW",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "JgsG7KvJUT4",
+            "title": "Nightly News Full Broadcast - March 2",
+            "secondDuration": 1377,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XgGSlRGYacw",
-            "title": "Live: New York Governor Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3448,
-            "group": "group_7"
-        },
-        {
             "videoId": "vW469jl2O2w",
             "title": "New Medical School Graduates Dive Into Work On Coronavirus Front Lines | NBC Nightly News",
             "secondDuration": 149,
@@ -121,8 +115,14 @@
             "title": "Police Department Teams Up With Amazon To Catch ‘Porch Pirates’ | NBC Nightly News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "YWbhjLt4fqc",
+            "title": "Two Bailiffs Killed, Deputy Injured in Michigan Courthouse Shooting | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

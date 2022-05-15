@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mPg5Jo7KswE",
-            "title": "Gen. Powell Discusses Grad Nation Campaign",
-            "secondDuration": 329,
-            "group": "group_7"
-        },
-        {
             "videoId": "RTzPqu-e7q0",
             "title": "Potential fallout after Theresa May's crushing defeat on Brexit",
             "secondDuration": 94,
@@ -121,8 +115,14 @@
             "title": "Women are running for office in Texas at record numbers",
             "secondDuration": 455,
             "group": "group_7"
+        },
+        {
+            "videoId": "sdtrMzm3URk",
+            "title": "John Rood resigns at Trump’s request",
+            "secondDuration": 47,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

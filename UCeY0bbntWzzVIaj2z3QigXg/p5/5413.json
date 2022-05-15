@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NiOKTu_QRXk",
-            "title": "Speaker Pelosi Holds Weekly Press Conference | NBC News",
-            "secondDuration": 1110,
-            "group": "group_7"
-        },
-        {
             "videoId": "70RHq2bXLqI",
             "title": "CDC Investigating Illness Linked To E-Cigs And Vaping Across The Country | NBC Nightly News",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "Trump Releases Statement Calling For 'Full Transparency' As Nation Awaits Election Results",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "abHDN5T_geQ",
+            "title": "How A Health Savings Account Could Save You Money | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

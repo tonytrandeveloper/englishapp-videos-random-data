@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pg_-JOqW4XM",
-            "title": "Guilty verdict in 1st Jan. 6 trial",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "gpNxY1rLmwc",
             "title": "World Series champs, California fires, Medal of Honor: World in Photos, Oct. 31, 2019",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "What’s next for Afghanistan under the Taliban",
             "secondDuration": 850,
             "group": "group_7"
+        },
+        {
+            "videoId": "GUIu0YC-Q5k",
+            "title": "By the Numbers: Colon cancer screenings should begin at age 45",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

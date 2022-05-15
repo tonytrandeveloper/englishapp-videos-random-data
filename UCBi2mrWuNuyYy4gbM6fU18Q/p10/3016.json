@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DSOr3Si3xOs",
-            "title": "Remnants of Tropical Storm Imelda slam southeast Texas",
-            "secondDuration": 273,
-            "group": "group_7"
-        },
-        {
             "videoId": "L82v9ltKWN8",
             "title": "Celebrating the Rev. Dr. Martin Luther King Jr.",
             "secondDuration": 262,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Anything Floats Race",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "7IO_cEBUWf0",
+            "title": "Urgent warning as experts brace for one of the worst tick seasons",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

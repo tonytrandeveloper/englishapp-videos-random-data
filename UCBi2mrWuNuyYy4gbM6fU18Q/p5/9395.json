@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KtqKTZsrZYU",
-            "title": "America Strong: The teacher who opened her home to a student",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "RjxoVVSTKUs",
             "title": "Oscars host Wanda Sykes speaks out on Will Smith l WNT",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "White House Confirms Death of Female US Hostage Held By ISIS",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "PiE3-r9xMB8",
+            "title": "Parents of slain woman speak out",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

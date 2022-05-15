@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pAVB6yealEM",
-            "title": "Whole Foods CEO John Mackey On The Secret To Eating Healthy | Better | NBC News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "XUy1GgMWydE",
             "title": "Sen. Leahy Announces He Will Retire: 'It Is Time To Come Home'",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "White House Touts Biden’s Trip After Putin Summit",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "5CzIDvoR39w",
+            "title": "DOJ Launches Gun Trafficking Strike Forces In Five Cities",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

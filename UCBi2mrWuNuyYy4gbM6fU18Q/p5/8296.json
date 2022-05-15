@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cEDbDnFbA0Y",
-            "title": "SpaceX ready for takeoff of 1st all-civilian journey to Earth’s orbit",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "u4BjmT80PX8",
             "title": "Health Insurance for the Sickest Americans",
             "secondDuration": 267,
@@ -31,8 +25,14 @@
             "title": "Ex-Cop Grilled in Pistorius Trial for Mishandled Evidence",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "0s7bzOBjAPg",
+            "title": "Trump attends D-Day commemoration, Parkland ex-deputy arrested, “Republican revolt” on tariffs",
+            "secondDuration": 1113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

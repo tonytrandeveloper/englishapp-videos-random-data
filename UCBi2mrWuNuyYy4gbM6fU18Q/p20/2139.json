@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dwYr-HuPLMc",
-            "title": "Continued airstrikes in Syria kill hundreds in East Ghouta",
-            "secondDuration": 376,
-            "group": "group_7"
-        },
-        {
             "videoId": "YknamOxdhqM",
             "title": "Democratic National Convention 2012: Preview",
             "secondDuration": 298,
@@ -121,8 +115,14 @@
             "title": "Jamie Foxx Welcomes Josh Elliott to 'GMA' (May 3, 2011)",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "SA6YgTZcdh4",
+            "title": "Hispanic Voters: Obama vs. Romney",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

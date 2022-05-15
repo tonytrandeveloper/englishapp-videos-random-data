@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oFcb3ysAmmY",
-            "title": "ABC News Prime: Supreme Court hears MS abortion case; Closer look at paid family leave debate",
-            "secondDuration": 5287,
-            "group": "group_7"
-        },
-        {
             "videoId": "5WAHw3h3sU0",
             "title": "WNN Preview: 05/29/2014",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Red Sox Win World Series 2013",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "b-m0sjzVe3g",
+            "title": "Alabama health official: ‘We need trusted voices’ to reduce mistrust in vaccines",
+            "secondDuration": 392,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pbHVpZTV03k",
-            "title": "Life Stories: Chef Martin Yan | NBC Asian America",
-            "secondDuration": 323,
-            "group": "group_7"
-        },
-        {
             "videoId": "hYit1eUheLE",
             "title": "HHS Secretary Azar Speaks Out On Slow Vaccine Rollout | NBC Nightly News",
             "secondDuration": 214,
@@ -31,8 +25,14 @@
             "title": "Lab-To-Table: How Synthetic Food Went From Flavorings To Hamburgers | Mach | NBC News",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "B--dyOWbIRw",
+            "title": "Schumer Gives Emotional Response To Supreme Court DACA Ruling: 'I Cried Tears Of Joy' | NBC News NOW",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

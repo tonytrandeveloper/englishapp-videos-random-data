@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3s97c7T54aY",
-            "title": "The Real-Life Dino Science Behind Jurassic World | Mach | NBC News",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "OAHQJ782W5I",
             "title": "Families And Small Businesses Desperate For Pandemic Relief | NBC Nightly News",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Voters And Lawmakers Weigh In On New Texas Voting Law",
             "secondDuration": 214,
             "group": "group_7"
+        },
+        {
+            "videoId": "uotjhmYru94",
+            "title": "FBI Divers Search Lake Near San Bernardino Massacre for Clues | NBC Nightly News",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

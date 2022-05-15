@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3i8hcD9NmIQ",
-            "title": "Mother Dies in Labor but Lives to Tell the Tale",
-            "secondDuration": 243,
-            "group": "group_7"
-        },
-        {
             "videoId": "8E17WCd09bY",
             "title": "Trump signs House resolution permanently authorizing 9/11 victim compensation fund | ABC News",
             "secondDuration": 1163,
@@ -31,8 +25,14 @@
             "title": "Presidential Debate: Fact Checking 2012 Denver Showdown Between Mitt Romney and President Obama",
             "secondDuration": 331,
             "group": "group_7"
+        },
+        {
+            "videoId": "50J83iVZsFo",
+            "title": "Sondland in the hot seat, Georgia church attack plot arrest, koalas in fire danger | ABC News",
+            "secondDuration": 1628,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

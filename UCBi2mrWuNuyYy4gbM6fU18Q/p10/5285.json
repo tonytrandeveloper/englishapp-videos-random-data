@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uuIeBDFuIQQ",
-            "title": "Security Officials Prepare for Holiday Terror Threat",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "vtplGzvNGHc",
             "title": "Drone Fitted With Firing Handgun Investigated by FAA",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "Dogs Hit By Flu Strain, Vets Urge Shots",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "Youg90VIxQg",
+            "title": "5 suspects killed after deadly Barcelona attack",
+            "secondDuration": 253,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

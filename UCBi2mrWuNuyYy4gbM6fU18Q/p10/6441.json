@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X9Hf0ZiibNg",
-            "title": "Juror Describes Tension in Blagojevich Case",
-            "secondDuration": 162,
-            "group": "group_7"
-        },
-        {
             "videoId": "r_UvIC5PZZg",
             "title": "Greg Kelly Accused of Rape, Son of New York Police Commissioner",
             "secondDuration": 36,
@@ -61,8 +55,14 @@
             "title": "New videos prompt school to expand probe into alleged Nazi tributes",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zvy9hCrS5z0",
+            "title": "'Cartel Land' Explores Deadly Consequences of Illegal Drug Trade",
+            "secondDuration": 468,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

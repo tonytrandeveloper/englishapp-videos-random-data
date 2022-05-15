@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kQXggaqbAUQ",
-            "title": "Watch Free: ABC News Live. America’s #1 Streaming News Service",
-            "secondDuration": 14,
-            "group": "group_7"
-        },
-        {
             "videoId": "X4FS7_mR4-Y",
             "title": "Paul Ryan Follows Ann Romney, Chris Christie at RNC",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "Target increases minimum wage to $15 company-wide l ABC News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "HmBpisGeBj0",
+            "title": "The Debrief: Bezos bombshell, Venezuela leadership crisis, Whitaker testifies | ABC News",
+            "secondDuration": 1651,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

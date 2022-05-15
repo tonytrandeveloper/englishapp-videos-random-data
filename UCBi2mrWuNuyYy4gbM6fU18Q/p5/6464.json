@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6n92hy8Cw9E",
-            "title": "Texas Meteor Shower Caught on Camera",
-            "secondDuration": 38,
-            "group": "group_7"
-        },
-        {
             "videoId": "CNntu6nfVBY",
             "title": "Inside the KKK",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Donald Trump's Final Inauguration Preparations",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "TZnH3nB7Q8w",
+            "title": "Senate impeachment trial of Trump officially begins",
+            "secondDuration": 317,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

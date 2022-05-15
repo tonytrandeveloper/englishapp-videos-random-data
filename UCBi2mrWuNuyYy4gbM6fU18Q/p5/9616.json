@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yFFjEkA_TIM",
-            "title": "WEBCAST: LAX ARREST",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZxlcU7OeYjk",
             "title": "'60 Minutes' boss reportedly fired for text sent to reporter",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "A breakdown of President Joe Biden's first year in office",
             "secondDuration": 741,
             "group": "group_7"
+        },
+        {
+            "videoId": "nJJc8ODT9to",
+            "title": "Teachers in Los Angeles strike for the first time in 30 years",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

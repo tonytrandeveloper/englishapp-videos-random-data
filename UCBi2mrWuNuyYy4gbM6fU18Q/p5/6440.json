@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xkW5XvhSAEA",
-            "title": "The Trump administration twice asked Don McGahn to reject Mueller report findings",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "fZisPwOjOw0",
             "title": "A new CDC report highlights the racial disparities in HIV in the United States",
             "secondDuration": 433,
@@ -31,8 +25,14 @@
             "title": "Fear of Copycat Terror Attacks Puts America on Edge",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "F6jHwpR_7RQ",
+            "title": "'10% Happier': Mark Epstein | ABC News",
+            "secondDuration": 4350,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

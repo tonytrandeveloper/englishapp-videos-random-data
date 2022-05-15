@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0hBuynElRiw",
-            "title": "California is in a statewide emergency as 2 new fires ignite near San Francisco l ABC News",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "OMZSnv0gCTI",
             "title": "President's Response to Questions of Security in Libya",
             "secondDuration": 107,
@@ -121,8 +115,14 @@
             "title": "Israel Refuses to Stop Settlement Construction",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "KuG1exc6UGM",
+            "title": "Turkish troops amass along border as Syria chaos grows | ABC News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

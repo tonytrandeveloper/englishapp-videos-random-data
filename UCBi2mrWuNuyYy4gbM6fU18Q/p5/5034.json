@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UIwAffFEvqA",
-            "title": "Bill Paxton dies at age 61",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "NYsAIa_Fbr4",
             "title": "Times Square Vendors Save Lives",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Darius Weems' Next Chapter",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "LCVdgWEZH8g",
+            "title": "The battle over abortion l ABC News",
+            "secondDuration": 218,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

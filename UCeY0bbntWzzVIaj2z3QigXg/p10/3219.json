@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VxyW9euFPOw",
-            "title": "Remembering Larry Edgeworth, NBC News Colleague Who Died After Coronavirus Test | NBC Nightly News",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "bb9HqwKDBaI",
             "title": "Venice Canals Nearly Empty As Tide Falls Drastically | NBC News",
             "secondDuration": 49,
@@ -61,8 +55,14 @@
             "title": "Georgia School Aims To Reinstate Paddling To Discipline Students | NBC Nightly News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "68Z3YvafhFo",
+            "title": "New Details And Arrests In Assassination of President Jovenel Moïse",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

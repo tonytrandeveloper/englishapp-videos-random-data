@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "agWq2_Kq7wk",
-            "title": "Meet The Press Broadcast (Full) - September 6th, 2020 | Meet The Press | NBC News",
-            "secondDuration": 2750,
-            "group": "group_7"
-        },
-        {
             "videoId": "jfwrtrTgJEU",
             "title": "10,000 Torches Light Tower Of London To Mark 100 Years Since End Of WWI | NBC News",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "Author Marianne Williamson Isn’t Your Run-Of-The-Mill Candidate | NBC News",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "CdoPVhGT8aE",
+            "title": "NBC Nightly News with Brian Williams: It's Personal (Covering Hurricane Sandy)",
+            "secondDuration": 21,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

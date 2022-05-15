@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sIAkB7JUwRY",
-            "title": "Fast-moving brush fire causes evacuations in Burbank, California",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "vYT4xg_kQCg",
             "title": "Signs of strength during COVID-19 pandemic | ABC NEWS PRIME",
             "secondDuration": 290,
@@ -61,8 +55,14 @@
             "title": "In Case You Missed It",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "lRe_p5t1rfo",
+            "title": "Anna Nicole Smith's Daughter Speaks Out",
+            "secondDuration": 345,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "al10XvSRyIs",
-            "title": "Trump Reacts to FBI Reopening Clinton Email Investigation",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "7Za2yh_A2fs",
             "title": "Inside Goldman Sachs",
             "secondDuration": 205,
@@ -61,8 +55,14 @@
             "title": "Woman Battling Breast Cancer Says TSA Pat Down Went Too Far",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "qCdJlQhSnrk",
+            "title": "Truck accident leaves July 4th traffic at standstill in New York City",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

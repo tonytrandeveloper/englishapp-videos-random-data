@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X8GM-TVtavA",
-            "title": "Tesla Model 3 Attracts Major Fanfare",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "WX-JZf-PhVM",
             "title": "Pope Francis to Meet With President Obama and Address Congress | David Muir Reporting",
             "secondDuration": 149,
@@ -31,8 +25,14 @@
             "title": "White House faces calls to confront Middle East crisis l GMA",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "5Ha12PIm124",
+            "title": "The Debrief: Mueller report submitted, Netanyahu visits White House, college admissions scam",
+            "secondDuration": 1813,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

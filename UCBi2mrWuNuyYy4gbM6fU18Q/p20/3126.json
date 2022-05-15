@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qqFJd5I3Z4U",
-            "title": "Bill Cosby trial juror speaks out after verdict",
-            "secondDuration": 366,
-            "group": "group_7"
-        },
-        {
             "videoId": "nPOr1bEmS64",
             "title": "Jamie Lynn Spears breaks her silence",
             "secondDuration": 499,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Sexy Felon Gets Agent",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "CS_Y1XCS3Vg",
+            "title": "In Chicago, Latinos struggle to find relief from devastation of COVID-19 | Nightline",
+            "secondDuration": 682,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

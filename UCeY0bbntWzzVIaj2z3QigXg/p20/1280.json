@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8JnRSNlw9IM",
-            "title": "‘Pink Legacy’ Diamond Sells For Record $50 Million To U.S. Jeweler | NBC News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "uxxk9CtrWUM",
             "title": "Dr. Ashish Jha Speaks On Omicron Variant",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "U.S. Secret Service Director Is Out, Latest Casualty In DHS Shakeup | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "DBzl9hTtZI4",
+            "title": "Growing Concern Over Coronavirus Testing Troubles Across The U.S. | NBC Nightly News",
+            "secondDuration": 766,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

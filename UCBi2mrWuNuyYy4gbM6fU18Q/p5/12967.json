@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CZ7DnU4ITLQ",
-            "title": "New York’s Attorney General seeks Trump deposition",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "N1JEg62cnNE",
             "title": "Brazil Court Rules in Favor of Dad",
             "secondDuration": 283,
@@ -31,8 +25,14 @@
             "title": "Dr. Lindsey Thomas testifies during Derek Chauvin’s trial",
             "secondDuration": 461,
             "group": "group_7"
+        },
+        {
+            "videoId": "V_RkoMDv3fE",
+            "title": "Obama's Historic Pro-Gay Marriage Stance",
+            "secondDuration": 367,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

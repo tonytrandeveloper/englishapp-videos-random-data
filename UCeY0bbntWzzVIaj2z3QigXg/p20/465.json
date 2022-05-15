@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OeOyRPxwTdM",
-            "title": "Manafort Lied About Sharing Polling Data With Russian Linked To Intelligence Services | NBC News",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "UIvXjKUYCyw",
             "title": "How Do Text Messages Work? | Nightly News: Kids Edition",
             "secondDuration": 1214,
@@ -121,8 +115,14 @@
             "title": "Donald Trump Knocks President Obama For Campaigning: ‘He Oughta Be Out Working’ | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "N6SJS7nKK1w",
+            "title": "Booker, Harris On Republican Police Reform plan: It would 'Lead Us Into A Dead End' | NBC News",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tCVy2iFRl7o",
-            "title": "Police trying to figure out what sparked deadly Seattle shooting spree",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vx390qHaJGs",
             "title": "Battle of the Bite: Tricks to Tackling Mosquito Season",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "Biden is projected to win Missouri primary",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "1vP10Ikqedg",
+            "title": "Officer's fatal shooting of wrong man at mall 'justified': Officials",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

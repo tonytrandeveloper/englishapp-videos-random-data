@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8I3hr_5eE6g",
-            "title": "Mike Pence delivers remarks on Capitol breach",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "e246-wCmnJ4",
             "title": "Louisiana, Mississippi still in need of necessities 5 days after storm l WNT",
             "secondDuration": 190,
@@ -121,8 +115,14 @@
             "title": "The strike on Syria's Shayrat air base",
             "secondDuration": 333,
             "group": "group_7"
+        },
+        {
+            "videoId": "HccRVQHrt7g",
+            "title": "D-Day squadron: Historic airplanes' journey from US to Normandy",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

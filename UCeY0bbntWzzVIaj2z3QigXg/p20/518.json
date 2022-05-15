@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3DH8WnLLT4I",
-            "title": "Senator Kamala Harris Grills Brett Kavanaugh On Robert Mueller Investigation | NBC News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "WITQpFnBt-M",
             "title": "Taylor Swift In Court Over Groping Claim | NBC Nightly News",
             "secondDuration": 95,
@@ -121,8 +115,14 @@
             "title": "Third Party Candidates Could Shake Up Senate Races In South Carolina, Georgia, Maine | NBC News NOW",
             "secondDuration": 241,
             "group": "group_7"
+        },
+        {
+            "videoId": "DAuop31TMDI",
+            "title": "America’s Oldest Working Nurse Retires at 96",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

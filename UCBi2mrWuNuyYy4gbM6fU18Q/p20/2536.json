@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GkNesNNobvo",
-            "title": "NFL Hero Battling ALS Creates Video Journal for Son",
-            "secondDuration": 402,
-            "group": "group_7"
-        },
-        {
             "videoId": "8GaVHY9m79c",
             "title": "War in Ukraine: March 12, 2022",
             "secondDuration": 206,
@@ -121,8 +115,14 @@
             "title": "Car Falls Into Expanding Sinkhole",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "qcP_YaVZ_ME",
+            "title": "Puerto Rico calls state of emergency after pre-dawn earthquake",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

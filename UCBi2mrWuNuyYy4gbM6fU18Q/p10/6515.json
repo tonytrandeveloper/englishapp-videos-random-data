@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2-LGAe8cjYw",
-            "title": "The Miners: After the Darkness",
-            "secondDuration": 364,
-            "group": "group_7"
-        },
-        {
             "videoId": "t3hzGmYPzBc",
             "title": "Donald Trump Boosts “SNL” Ratings | ABC News",
             "secondDuration": 240,
@@ -61,8 +55,14 @@
             "title": "Tehran explosion, Hong Kong security law, police protest: World in Photos, July 1",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "97vqCmkxDRY",
+            "title": "ABC News Prime: COVID-19 US surge; Virus’ effects on doctors; US troops level out overseas",
+            "secondDuration": 3615,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

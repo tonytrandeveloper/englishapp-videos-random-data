@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S0xw27THLJI",
-            "title": "Joe Rogan Apologizes For Using N-word",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "h6TFmlO4S5U",
             "title": "Hurricane Dorian Flooding Engulfs Bahamas International Airport | NBC News",
             "secondDuration": 77,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Tax Plan Outline Unveiled By White House | NBC Nightly News",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "mSg6xiFbbRs",
+            "title": "Ron Allen: \"I have a dream that...\"",
+            "secondDuration": 20,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3dOw4zUgoUM",
-            "title": "Houston Police ID Murder Suspect: 'This Absolutely Is The Killer' | NBC News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "s6ueQXas4qE",
             "title": "Federal Indictment: Drug Company Officials Bribed Doctors To Prescribe Opioid | NBC Nightly News",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "NOW Tonight With Joshua Johnson Full Episode- Dec. 22 | NBC News NOW",
             "secondDuration": 3076,
             "group": "group_7"
+        },
+        {
+            "videoId": "f9saAkzoIhA",
+            "title": "Why Is This Flu Season So Bad? | NBC Nightly News",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

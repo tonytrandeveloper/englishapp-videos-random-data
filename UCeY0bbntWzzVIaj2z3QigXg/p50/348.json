@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "hcBnZykDcAA",
-            "title": "A Grayer Blagojevich Thanks Trump For Commuting Prison Sentence | NBC News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "qvnJNqeKcRk",
             "title": "Houston Astros World Series Victory Parade | NBC News",
             "secondDuration": 8459,
@@ -301,8 +295,14 @@
             "title": "Kabul Airport Attack: What To Know About ISIS-K",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "dYBSYreY3Ak",
+            "title": "Will A High Speed Rail Network Ever Be Built In The U.S.?",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

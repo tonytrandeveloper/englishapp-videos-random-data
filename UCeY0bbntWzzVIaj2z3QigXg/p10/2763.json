@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dyOgVg9t4Sw",
-            "title": "Biden Holds Roundtable With Black Essential Workers | NBC News",
-            "secondDuration": 3220,
-            "group": "group_7"
-        },
-        {
             "videoId": "nT0CxwSbA7w",
             "title": "Tearful Eyewitness Describes Boulder Shooting: 'I Couldn't Help Anybody' | NBC News NOW",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "James Comey, Sessions Interviewed By Robert Mueller's Team In Russia Probe | NBC Nightly News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "mS7hfrFKuPM",
+            "title": "Guatemala Dispatch: Migrants Fleeing Lack Of Infrastructure, Absence Of Government | NBC News NOW",
+            "secondDuration": 429,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

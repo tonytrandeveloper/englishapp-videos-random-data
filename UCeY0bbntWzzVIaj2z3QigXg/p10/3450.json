@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W-6p8BqkPEM",
-            "title": "Officials Give Update On Jacksonville Shooting | NBC News",
-            "secondDuration": 783,
-            "group": "group_7"
-        },
-        {
             "videoId": "RpQg5TFmU1E",
             "title": "Attorney General Jeff Sessions Announces The End To DACA Program (Full) | NBC News",
             "secondDuration": 623,
@@ -61,8 +55,14 @@
             "title": "SpaceX’s Falcon 9 Prepares For Blast Off | NBC Nightly News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "tQJbvrt-7ms",
+            "title": "Live: Barr, FBI Director Wray Hold News Conference Amid Nationwide Protests | NBC News",
+            "secondDuration": 3709,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

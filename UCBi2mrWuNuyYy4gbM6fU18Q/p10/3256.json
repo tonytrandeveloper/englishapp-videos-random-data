@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "H1nHcRIh2FM",
-            "title": "Biden, Harris make 1st appearance together as presidential ticket | WNT",
-            "secondDuration": 350,
-            "group": "group_7"
-        },
-        {
             "videoId": "HSUoU1OaaaE",
             "title": "Warren addresses systematic racism in America | ABC News",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "Runner Juggles While Running Chicago Marathon",
             "secondDuration": 21,
             "group": "group_7"
+        },
+        {
+            "videoId": "hPWGTCH27d8",
+            "title": "1st-time voters reflect on what factors determined their votes",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

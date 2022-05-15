@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7yAZ_RgsKZo",
-            "title": "Watch NBC News NOW Live - September 28",
-            "secondDuration": 42904,
-            "group": "group_7"
-        },
-        {
             "videoId": "i3NJ4stL43c",
             "title": "Bernie Sanders Against Raise In Gas Tax To Support Infrastructure",
             "secondDuration": 83,
@@ -31,8 +25,14 @@
             "title": "Full Inglesby: 'I Don't Think We're Doomed To This Fate' | Meet The Press | NBC News",
             "secondDuration": 461,
             "group": "group_7"
+        },
+        {
+            "videoId": "rKXOXtPD9k0",
+            "title": "Supreme Court Justice Ruth Bader Ginsburg Dies At 87 | NBC Nightly News",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

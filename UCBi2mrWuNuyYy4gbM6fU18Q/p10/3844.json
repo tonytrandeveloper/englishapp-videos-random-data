@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D988hZPmxjE",
-            "title": "New Hampshire plans to sell rapid tests at liquor stores",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "No3U7KcVpic",
             "title": "Freedom Caucus Chair: Democrats holding military 'hostage' with government shutdown",
             "secondDuration": 356,
@@ -61,8 +55,14 @@
             "title": "Freed American pastor speaks about captivity, meeting with Trump",
             "secondDuration": 280,
             "group": "group_7"
+        },
+        {
+            "videoId": "zHaOe0RfatI",
+            "title": "Stimulus Status Report",
+            "secondDuration": 305,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

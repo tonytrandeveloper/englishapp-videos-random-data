@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l3cgXPOiSoA",
-            "title": "Fraternity hazing scandal in Louisiana",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "zj1mR_DwgV0",
             "title": "‘Self defense is something juries struggle with’: Legal analyst on Rittenhouse trial",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "Judge finds Trump 'likely' committed obstruction",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "m6X0BFnpdi8",
+            "title": "Police fire tear gas at Hong Kong protesters",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

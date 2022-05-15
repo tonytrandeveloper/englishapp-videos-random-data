@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ThPycn4tXtE",
-            "title": "Food crisis",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "FvqgvWx_l8g",
             "title": "Trump Meets Obama at White House for First Time | Full Special Report",
             "secondDuration": 514,
@@ -121,8 +115,14 @@
             "title": "Supermarkets of the Future | ABC News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "ME9bU0mrx-Q",
+            "title": "Allegations of Unnecessary Force as NY Man Dies After Arrest",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

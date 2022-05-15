@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "m3IU3zhvAmE",
-            "title": "Sasha and Malia Obama: Growing Up in the White House",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "i6RM-mLlHIE",
             "title": "BART Maintenance Workers Killed by Out-of-Service Train",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Admits to Mistakes Ahead of Wisconsin Primary",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "nJkS4E8pJac",
+            "title": "Republican National Convention | Benghazi Victim's Mother Speaks",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

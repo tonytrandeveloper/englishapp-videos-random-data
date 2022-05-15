@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7hnLEmcXPvc",
-            "title": "Jogger Strangled in New York | Killer Manhunt Continues",
-            "secondDuration": 237,
-            "group": "group_7"
-        },
-        {
             "videoId": "bL9rbk_qbe4",
             "title": "Index: E. Coli Outbreak Linked to Chipotle Expands",
             "secondDuration": 62,
@@ -121,8 +115,14 @@
             "title": "Inside the Obamas Living Quarters",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "CvbGdqpvdRs",
+            "title": "March on Washington: Young Girls Sing National Anthem as President Obama, MLK Family Look On",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

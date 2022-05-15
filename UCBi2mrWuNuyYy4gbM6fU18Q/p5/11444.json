@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9CG-k405j5E",
-            "title": "How will coronavirus impact Democratic primaries?",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "TiEf08EV5xw",
             "title": "Kim Potter sentenced to 16 months in prison for killing Daunte Wright",
             "secondDuration": 421,
@@ -31,8 +25,14 @@
             "title": "Apple will reportedly sell iPhone, iPad as subscription service",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "atpGDrbKuto",
+            "title": "Remdesivir shortages during COVID-19",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

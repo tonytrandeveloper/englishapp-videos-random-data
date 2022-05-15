@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KVkAduoARb8",
-            "title": "Thousands of firefighters battle 6 major wildfires",
-            "secondDuration": 233,
-            "group": "group_7"
-        },
-        {
             "videoId": "ejJmglvB7yk",
             "title": "A family used DNA-matching technology to find the remains of a loved one lost in war",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "President Obama on his Time in the White House",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "JnBvRpeMyKk",
+            "title": "New details emerge in hours long standoff that left mom of 3, pediatrician dead | WNT",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XzRbcL-a6M8",
-            "title": "E.L. James on Barbara Walters' 10 Most Fascinating People of 2012",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "af39Wgi45xA",
             "title": "Dozens of people are recovering after an apartment floor collapsed in South Carolina",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Naples, Fla., mayor on Hurricane Irma prep",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "q_ASi_P_Wn0",
+            "title": "FBI executes search warrant at Brian Laundrie’s family home in Gabby Petito case",
+            "secondDuration": 323,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

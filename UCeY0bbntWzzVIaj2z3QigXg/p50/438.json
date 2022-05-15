@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "nFXSpnWJ2nI",
-            "title": "Trump: Texas Shooting 'Really Hasn't Changed Anything' About Gun Control | NBC News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "D8TehiKK6N4",
             "title": "Water Main Break Causes Mayhem And Delays At JFK Airport | NBC Nightly News",
             "secondDuration": 90,
@@ -301,8 +295,14 @@
             "title": "Coming To America: 'Because His Hands Look Like That, Mine Can Look Like This' | Meet The Press",
             "secondDuration": 538,
             "group": "group_7"
+        },
+        {
+            "videoId": "uzDWp5CQifk",
+            "title": "What's Next For Policing in Minneapolis?",
+            "secondDuration": 308,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

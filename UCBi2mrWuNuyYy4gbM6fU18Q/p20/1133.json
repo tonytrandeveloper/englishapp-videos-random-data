@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TzxfC7CqbOQ",
-            "title": "Patient dies from severe respiratory illness, possibly from vaping",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "nAoePgiMjEI",
             "title": "Midwest, Northeast slammed by dangerous snow, ice",
             "secondDuration": 124,
@@ -121,8 +115,14 @@
             "title": "Crane Crushes Home While Installing Pool",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "eN-t2zURVmY",
+            "title": "Border Mayor on Immigration Crisis",
+            "secondDuration": 320,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

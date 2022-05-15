@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "u-sxdZ6OHDw",
-            "title": "Fantasy Forecast: Week 8",
-            "secondDuration": 640,
-            "group": "group_7"
-        },
-        {
             "videoId": "-Y0IKgpUa70",
             "title": "Virginia Shooting Caught on Live TV | Suspect \"Bryce Williams\" Sends 'Suicide Notes\"",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Ansel Elgort Interview 2014: 'Men, Women & Children' Trailer Premiere",
             "secondDuration": 299,
             "group": "group_7"
+        },
+        {
+            "videoId": "AcSI61_20Bc",
+            "title": "'House of Cards' Star Robin Wright Demands Equal Pay",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

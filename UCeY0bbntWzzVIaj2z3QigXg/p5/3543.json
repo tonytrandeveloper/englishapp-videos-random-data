@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y1V0tthVBMQ",
-            "title": "NYC First Responders Adjust To Heavy COVID-19 Demand | NBC News NOW",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tn2ldXuAUiI",
             "title": "Full Collins: 'Government shutdowns are never good policy' | Meet The Press | NBC News",
             "secondDuration": 460,
@@ -31,8 +25,14 @@
             "title": "California Voters Head To Polls As Battle Over Immigration Rages | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "YVKv5cNWftQ",
+            "title": "'Tonight is for you': Lebron James Honors High School Seniors At Virtual Graduation Special",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

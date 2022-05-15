@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dIiFNxtvNIk",
-            "title": "Costa Concordia Being Lifted from Shallow Gravein Tuscan Reef",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "B12V1U18Iu4",
             "title": "Gabrielle Giffords Returns to Vote: Rep. Wasserman-Schultz Discusses Surprise Entrance of Friend",
             "secondDuration": 214,
@@ -121,8 +115,14 @@
             "title": "11 dead after skydiving plane crash in Hawaii",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "GqUzd8-1kdY",
+            "title": "Jihadi Forces in Iraq Close in on Baghdad",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

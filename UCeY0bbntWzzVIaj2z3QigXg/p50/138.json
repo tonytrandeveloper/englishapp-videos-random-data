@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "3Nldn93P4Ds",
-            "title": "Cortez Reintroduces Postal Banking, Shares Positives It Could Have On Americans | NBC News NOW",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "5Qw8YQO_Clo",
             "title": "James Comey On Solo Meetings With President Donald Trump: ‘Lordy, I Hope There Are Tapes’ | NBC News",
             "secondDuration": 78,
@@ -301,8 +295,14 @@
             "title": "Debate Major Opportunity For Hillary Clinton To Regain Lost Support | NBC Nightly News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "NuxcgxIsXpo",
+            "title": "'Hyperinflation': Concerns Rise Ahead Of Holidays, Economists Say It's Not Happening",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xmSWoel2oUc",
-            "title": "President Vladimir Putin Tells Mike Pompeo He’s Keen To Improve U.S.-Russian Relations | NBC News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "OD75mF5cMlc",
             "title": "Ohio Protesters Smash Windows At Statehouse, Get Pepper Sprayed by Police | NBC News NOW",
             "secondDuration": 82,
@@ -31,8 +25,14 @@
             "title": "3 New York Children Die Of Mystery Illness Believed To be Linked To COVID19 | NBC Nightly News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "sW28JLVHOWQ",
+            "title": "Foreign Nationals And Students Fight To Escape War In Ukraine",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

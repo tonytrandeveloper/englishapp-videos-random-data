@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "10HNtL0rhRE",
-            "title": "‘We need to have race-conscious laws’: Warren | ABC News",
-            "secondDuration": 650,
-            "group": "group_7"
-        },
-        {
             "videoId": "5NTLVQYSlCs",
             "title": "Caught on Camera: Actors, Politicians Fall Asleep on the Job",
             "secondDuration": 383,
@@ -301,8 +295,14 @@
             "title": "Chris Hemsworth Joins 'Ghostbusters' Reboot as Receptionist",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "-OZhakCgwac",
+            "title": "Rhode Island couple ties the knot during snowstorm",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "f5GYXobjFZw",
-            "title": "'Avatar': Not Your Grandpa's 3-D",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "tBv38h53Lx0",
             "title": "Trump faces scrutiny over attacks on fair housing",
             "secondDuration": 144,
@@ -31,8 +25,14 @@
             "title": "Mother of 2 missing children held in Hawaii jail",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "llan8IGzpS8",
+            "title": "FDA investigates 127 cases of seizures after vaping l ABC News",
+            "secondDuration": 301,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

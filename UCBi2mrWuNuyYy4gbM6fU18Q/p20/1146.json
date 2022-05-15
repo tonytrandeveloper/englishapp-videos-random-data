@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bpkx1_EYC-0",
-            "title": "Pothole Epidemic in America?",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "8kn2urpSYcE",
             "title": "ISIS Deadline for Hostage Ransom Passes",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "Pet Chicken Thinks She Is a Dog",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "me_vpddqDPE",
+            "title": "Brian Ross Investigates: Exclusive: Video Shows Drunk US Defense Contractors",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

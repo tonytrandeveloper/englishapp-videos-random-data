@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TpI8M2h_Dgk",
-            "title": "Sen. Kamala Harris Stresses 'Importance Of Voting' For Her Opening Remarks At The DNC | NBC News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "dGGMnMxZ0-0",
             "title": "Gov. DeWine: 'Ohio Remains In A State Of Emergency' Due To Covid Case Rise | NBC News NOW",
             "secondDuration": 214,
@@ -31,8 +25,14 @@
             "title": "Trump Impeachment Defense Team Includes Ken Starr, Alan Dershowitz | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "jfkWSMfe4sY",
+            "title": "National Parks Overwhelmed With Trash Amid Government Shutdown | NBC Nightly News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

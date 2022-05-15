@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dcbxN7EjURY",
-            "title": "Glitz and Glamour at the 2014 State Dinner",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "2DwuQFPDKsc",
             "title": "Nearly 180 People Exposed to Drug-Resistant Superbug Known as CRE",
             "secondDuration": 229,
@@ -31,8 +25,14 @@
             "title": "East braces for dangerous temperatures after nor'easter",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "MnjZj9oFXBQ",
+            "title": "Donald Trump one-on-one with George Stephanopoulos",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

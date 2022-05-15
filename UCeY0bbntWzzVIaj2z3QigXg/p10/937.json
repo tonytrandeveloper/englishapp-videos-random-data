@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mcZS6zmDKnM",
-            "title": "Kalamazoo Shooting Suspect Dragged Out After Outburst | NBC News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "puB3Vtx6TdU",
             "title": "President Trump Tweets He’ll Be Announcing ‘Decision On Iran Deal’ On Tuesday | NBC Nightly News",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Mobile Kitchen Brings Community Service To Los Angeles Streets | NBC Asian America",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "hRpSJ8XyZ10",
+            "title": "Want to Reduce Your Cholesterol? Doctors Suggest Lowering Stress | NBC Nightly News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

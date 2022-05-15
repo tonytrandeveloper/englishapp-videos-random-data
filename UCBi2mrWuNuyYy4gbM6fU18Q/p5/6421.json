@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2f1cgU4r9uI",
-            "title": "Extreme Winter Weather: Blizzard Conditions Blanket Northeast",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "FgQQ1CKlYMA",
             "title": "Mayweather vs Pacquiao: Highlights of Fight of the Century (Pre-Game)",
             "secondDuration": 212,
@@ -31,8 +25,14 @@
             "title": "Dog Swims With Dolphin: Caught on Tape",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "9mKj7fn4mC4",
+            "title": "Lifeguard Fired for Saving a Man's Life",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

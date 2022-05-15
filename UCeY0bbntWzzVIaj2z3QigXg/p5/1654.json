@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yg8wsGCGJs0",
-            "title": "John McCain’s Legacy Of Reaching Across The Aisle | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "uHFs2a-2YxM",
             "title": "2019 On Track To Break Record For Most Measles Cases In 20 Years, Says CDC | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Pence Congratulates African American Women West Point Cadets: 'I Couldn't Be More Proud' | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "PqJ5EBs8-s8",
+            "title": "President Donald Trump Delivers Remarks On National Security Strategy | NBC News",
+            "secondDuration": 3109,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

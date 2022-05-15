@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WN9hqFgAU_0",
-            "title": "Tesla Under Federal Investigation For 'Phantom Braking'",
-            "secondDuration": 226,
-            "group": "group_7"
-        },
-        {
             "videoId": "wiehdYUvWMg",
             "title": "President Trump Backs Down From Border Wall Funding Requirement | NBC Nightly News",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "More Than 5,500 Titanic Artifacts Going On Auction | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "3JBBC1mx0xQ",
+            "title": "Chauvin Trial: Use Of Force Expert Testifies, Body Camera Audio Debate | NBC Nightly News",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

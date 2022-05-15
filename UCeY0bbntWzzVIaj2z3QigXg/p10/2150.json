@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GzrJfKyb1Cc",
-            "title": "Morning News NOW Full Broadcast - August 12",
-            "secondDuration": 2861,
-            "group": "group_7"
-        },
-        {
             "videoId": "g_E569__NM8",
             "title": "Wall Street And Tech Leaders To Testify At House Hearing On Gamestop Trading Frenzy | NBC News NOW",
             "secondDuration": 505,
@@ -61,8 +55,14 @@
             "title": "Senate Judiciary Committee Holds Hearing On Social Media Algorithms | NBC News NOW",
             "secondDuration": 325,
             "group": "group_7"
+        },
+        {
+            "videoId": "ilk0uq1FbJs",
+            "title": "Paris Terror Attacks:  As Many as 100 Dead as Violence Erupts Around City | NBC Nightly News",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

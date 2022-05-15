@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7BZnHa-4CI8",
-            "title": "Rising Together: Asian American Activists | Nightly News Films",
-            "secondDuration": 676,
-            "group": "group_7"
-        },
-        {
             "videoId": "aLac5rHgPsE",
             "title": "Top Story with Tom Llamas - October 29th | NBC News NOW",
             "secondDuration": 2583,
@@ -31,8 +25,14 @@
             "title": "North And South Korea Court Peace With Basketball Diplomacy In Pyongyang | NBC News",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "j7dsoHlaBmg",
+            "title": "A League Of Their Own: Playing \"Unorganized\" Basefull For Fun | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

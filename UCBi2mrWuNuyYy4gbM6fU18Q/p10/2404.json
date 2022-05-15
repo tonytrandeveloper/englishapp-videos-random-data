@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jl4HaUwtVd0",
-            "title": "Author on why Jeffrey Epstein case was a 'perversion of justice'",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "3dxjuHSFXVQ",
             "title": "Superstorm Sandy: 4 Things People Need Most; Hurricane 2012 Victims In Need of Supplies and Funding",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "Tornado hits New Orleans",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "4crIcBIU78I",
+            "title": "Swine Flu: How Bad Is It?",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

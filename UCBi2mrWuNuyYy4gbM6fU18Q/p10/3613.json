@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xJhZza-Sv_M",
-            "title": "Felicity Huffman to plead guilty in college admissions cheating scandal",
-            "secondDuration": 330,
-            "group": "group_7"
-        },
-        {
             "videoId": "ti_Jr-sRaAs",
             "title": "Congressmen describe how the GOP baseball shooting unfolded",
             "secondDuration": 297,
@@ -61,8 +55,14 @@
             "title": "'I can't predict when a vaccine will be available': Dr. Stephen Hahn | ABC News",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZgqsecnXJMY",
+            "title": "At least 6 killed and 7 still missing as Carr fire scorches miles of land | ABC News",
+            "secondDuration": 250,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

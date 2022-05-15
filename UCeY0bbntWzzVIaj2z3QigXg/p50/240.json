@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Lif4DzRkJQM",
-            "title": "Biden Delivers Remarks To Commemorate 100th Anniversary Of Tulsa Race Massacre",
-            "secondDuration": 2671,
-            "group": "group_7"
-        },
-        {
             "videoId": "ArOzi10VBhQ",
             "title": "NBC Nightly News Full Broadcast - August 25th, 2021",
             "secondDuration": 1157,
@@ -301,8 +295,14 @@
             "title": "Buttigieg Warns Republicans They’ll Be Remembered For Complicity On Racism | NBC News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "P2kWU-HmIhA",
+            "title": "Rep. McGovern Pushes Rep. Jordan To Acknowledge Biden Won A Fair Election | NBC News NOW",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

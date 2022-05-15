@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Sp9on-zwmK0",
-            "title": "America Commemorates September 11 Anniversary Amid Pandemic | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "E_omMWq80NY",
             "title": "How The Macy’s Thanksgiving Day Parade Comes To Life | NBC Nightly News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "There's A Better Way To Treat A Bee Sting | Better | NBC News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "R467C8vFRFE",
+            "title": "'Smart Glasses' Might Replace Your Bifocals | Mach | NBC News",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jv-m-Jme-tA",
-            "title": "Inside Lady Liberty's Crown",
-            "secondDuration": 345,
-            "group": "group_7"
-        },
-        {
             "videoId": "S8CwOHyhtLc",
             "title": "Biden again extends pause in federal student loan payments",
             "secondDuration": 75,
@@ -61,8 +55,14 @@
             "title": "House to set rules for impeachment debate, Iran protests death toll rises, heiress jewelry heist",
             "secondDuration": 1579,
             "group": "group_7"
+        },
+        {
+            "videoId": "afr5PBwUq0E",
+            "title": "Winter Whiteout",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

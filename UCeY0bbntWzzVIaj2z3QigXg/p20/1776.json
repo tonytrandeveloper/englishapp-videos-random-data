@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "X4PaIYa4oBY",
-            "title": "Briefing With Secretary Mike Pompeo Ahead Of G7 And Singapore Summits | NBC News",
-            "secondDuration": 921,
-            "group": "group_7"
-        },
-        {
             "videoId": "7A35YDdZizA",
             "title": "Embryo Adoption: Is it the Right Option For You? | NBC Nightly News",
             "secondDuration": 140,
@@ -121,8 +115,14 @@
             "title": "Trump hosts 'Make America Great Again' rally in Kansas",
             "secondDuration": 4433,
             "group": "group_7"
+        },
+        {
+            "videoId": "m3pLgIbUCQo",
+            "title": "What We Know About The Pittsburgh Synagogue Shooting Suspect | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

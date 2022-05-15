@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "v9LLdDqotBo",
-            "title": "Brett Kavanaugh Allegations Prompt Sexual Abuse Survivors To Come Forward | NBC Nightly News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "cw9vIPDxJyk",
             "title": "Trump Proposes $500 Million In Checks For Americans | NBC Nightly News",
             "secondDuration": 689,
@@ -61,8 +55,14 @@
             "title": "Video Shows Huge Capsized Cargo Ship | NBC News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "dmwuvUjyXfw",
+            "title": "Fact-Checking Day Two Of Trump's Second Impeachment Trial | NBC News NOW",
+            "secondDuration": 306,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

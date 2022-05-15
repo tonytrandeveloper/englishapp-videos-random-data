@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FNqoBgyowJY",
-            "title": "Man attempts record-breaking swim across Pacific Ocean",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "N7dOLTo3OMY",
             "title": "Breaking Down Food Authenticity | ABC News",
             "secondDuration": 315,
@@ -31,8 +25,14 @@
             "title": "Using Children to Gain Fame",
             "secondDuration": 425,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ff9s43PidRM",
+            "title": "New Rutgers Athletic Director Faces Abuse Allegations",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DzDulMNd5z4",
-            "title": "Vanessa Hudgens Makes Broadway Debut",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "6w_QGkIth3Q",
             "title": "Security heightened for New York City Thanksgiving Day Parade",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "American student detained in North Korea dies",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "PlhRj1ovxtA",
+            "title": "The Rundown: Top headlines today: Oct. 18, 2021",
+            "secondDuration": 252,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

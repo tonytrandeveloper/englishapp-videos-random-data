@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hrahMOOqlLw",
-            "title": "Trump On Environmental Regulation: Big Government 'At It's Absolute Worst' | NBC News",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "kXlItOK4MM4",
             "title": "Pence Falsely Accuses Obama Admin Of Spying On 2016 Trump Campaign | NBC News",
             "secondDuration": 172,
@@ -31,8 +25,14 @@
             "title": "John Legend Opens Up About Making History And Taking A Stand | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZFu2g_vqi1s",
+            "title": "Covid Cases Surge In China And Europe",
+            "secondDuration": 237,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

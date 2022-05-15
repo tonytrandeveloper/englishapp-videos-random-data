@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tMLK-kBjJwM",
-            "title": "Nearly 39 Million Americans File For Unemployment During Pandemic | NBC News NOW",
-            "secondDuration": 960,
-            "group": "group_7"
-        },
-        {
             "videoId": "f-xTrnSe404",
             "title": "Radioactive Scare At Hanford Nuclear Site In Washington State | NBC Nightly News",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "ISIS Beheads 21, Egypt Retaliates | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "J6VXbK4Gnyw",
+            "title": "This Adorable Jumping Robot Will Lear Right Into Your Heart | Mach | NBC News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

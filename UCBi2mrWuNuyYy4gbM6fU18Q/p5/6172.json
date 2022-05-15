@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2ZGcb-rVoEc",
-            "title": "Angry Principal's Racial Rant at Graduation Ceremony",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "SdjjFZx_qKQ",
             "title": "NY Governor Andrew Cuomo says it's important to remember people are worried and anxious | ABC News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Woman makes it onto plane without ID, boarding pass | ABC News",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "cFeiECoH_iY",
+            "title": "Paul Ryan on 'This Week'",
+            "secondDuration": 792,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CY-mhiUCPOk",
-            "title": "Watch: Republican National Convention Officially Nominates Trump | NBC News",
-            "secondDuration": 8837,
-            "group": "group_7"
-        },
-        {
             "videoId": "YmC17j2zEjs",
             "title": "Biden's Treasury Secretary Nominee Janet Yellen Delivers Remarks | NBC News",
             "secondDuration": 365,
@@ -61,8 +55,14 @@
             "title": "White Supremacists Cheer President Donald Trump’s Message | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "ESS4CFBgZIk",
+            "title": "Netflix Email Scam Targets 10 Million Customers | NBC Nightly News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7pn8RLkrVE0",
-            "title": "Trump suspends non-citizen travel to US from Brazil | ABC News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "mydta6NsXZo",
             "title": "Sarah Sanders' controversial legacy as press secretary",
             "secondDuration": 229,
@@ -61,8 +55,14 @@
             "title": "White House Monitoring Gulf Oil Leak",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "2lTnOBYMxMM",
+            "title": "Tom Steyer ends his campaign for president l ABC News",
+            "secondDuration": 305,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

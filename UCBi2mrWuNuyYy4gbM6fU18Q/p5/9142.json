@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ydTu0LJWqC8",
-            "title": "Biden speaks on law enforcement during State of the Union speech",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "IHbly0v2iqk",
             "title": "Jan. 6 committee investigates Trump's attempt to seize state voting machines",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "Gretchen Carlson on Dealing with Sexual Harassment on the Job",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "yhb_Jqz2lZA",
+            "title": "Record-breaking heat invades the Northeast",
+            "secondDuration": 215,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

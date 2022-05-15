@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DEg1buMdf30",
-            "title": "Morgan Freeman on the Trials of Race in Hollywood",
-            "secondDuration": 473,
-            "group": "group_7"
-        },
-        {
             "videoId": "R7EZ1BfOWp8",
             "title": "Facebook whistleblower claims site is dangerous for children, democracy",
             "secondDuration": 302,
@@ -31,8 +25,14 @@
             "title": "How Walmart is keeping up with consumer demand during the pandemic",
             "secondDuration": 252,
             "group": "group_7"
+        },
+        {
+            "videoId": "7_RYxQ9UsLk",
+            "title": "Legoland Hotel Offers Escape for Kids of All Ages",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

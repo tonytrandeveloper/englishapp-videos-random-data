@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "86-c0IPTdVQ",
-            "title": "Russia Launches Airstrikes Targeting ISIS in Syria",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "3iGoXDceyJ4",
             "title": "Idaho Families Walk 19 Miles in the Snow",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "President-elect Biden unveils $1.9 trillion stimulus plan",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "F9_U_9sxNdg",
+            "title": "After Dallas Shootings, Pro-Open Carry Crusaders Draw New Criticism",
+            "secondDuration": 519,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

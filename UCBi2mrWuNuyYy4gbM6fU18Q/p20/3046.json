@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sSZN8EEXjHA",
-            "title": "Heroic 7-Year-Old Saves Dad’s Life After Medical Emergency",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "RYKcVlli3zg",
             "title": "Venus and Serena Williams; Game, Set Documentary",
             "secondDuration": 153,
@@ -121,8 +115,14 @@
             "title": "Briefing Room:Troops deploying to Saudi Arabia, Trump/China meeting, House subpoena upheld",
             "secondDuration": 1670,
             "group": "group_7"
+        },
+        {
+            "videoId": "DUTWRhxFTpQ",
+            "title": "Leading Supreme Court pick has some Republicans concerned",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

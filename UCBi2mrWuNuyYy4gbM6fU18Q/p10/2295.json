@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wUsa3yh7UUw",
-            "title": "ABC News Prime: Pediatric COVID-19 surge; Biden visits NJ, NY after Ida; Wait for justice after 9/11",
-            "secondDuration": 5266,
-            "group": "group_7"
-        },
-        {
             "videoId": "w2tXhzo2cfs",
             "title": "Jesse James on Sandra Bullock Marriage: 'I Wanted to Get Caught' (05.04.2011)",
             "secondDuration": 311,
@@ -61,8 +55,14 @@
             "title": "Harris and Pence address US economy, jobs l Vice Presidential Debate 2020",
             "secondDuration": 575,
             "group": "group_7"
+        },
+        {
+            "videoId": "2skOPUqNQ94",
+            "title": "Surgeon and his girlfriend accused of drugging, raping women",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

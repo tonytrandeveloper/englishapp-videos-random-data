@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m5yPp5maK8s",
-            "title": "Trump lobbies for health care at Boy Scout jamboree",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "OgFZlXOqJpM",
             "title": "Nelson Mandela: World Awaits the Outcome of his Hospital Visit",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Plane Crashes Into Car on California Highway",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "tkknpYM8Dco",
+            "title": "WEBCAST: Ice Fall On Tape",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

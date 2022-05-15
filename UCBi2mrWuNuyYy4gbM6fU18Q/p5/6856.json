@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Rhaqfe5PGqk",
-            "title": "Taylor Swift, Selena Gomez's Girls Night In",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "StTd17X_O-E",
             "title": "'Dancing with the Stars' ('DWTS') 2012 Premiere for Season 14: Exclusive Rehearsal Footage",
             "secondDuration": 261,
@@ -31,8 +25,14 @@
             "title": "Inside serial entrepreneur and social influencer Gary Vaynerchuk's empire",
             "secondDuration": 412,
             "group": "group_7"
+        },
+        {
+            "videoId": "0snPCxOO0IE",
+            "title": "Parrot steals family's GoPro",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6JKU3SM931Q",
-            "title": "Meet the Press: March 25, 2012 - David Plouffe, Rachel Maddow, Political Roundtable",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "VfdrQIH2utw",
             "title": "Child Tax Credit Checks Begin Hitting Bank Accounts",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "NOW Tonight With Joshua Johnson Full Episode - Feb. 1 | NBC News NOW",
             "secondDuration": 3013,
             "group": "group_7"
+        },
+        {
+            "videoId": "AxBkJfFwrDI",
+            "title": "Coronavirus: Nationwide Protests Over Stay-In-Place Orders | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

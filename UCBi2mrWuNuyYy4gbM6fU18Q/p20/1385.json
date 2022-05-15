@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-9-47UzzF10",
-            "title": "Inspector General of Intel Community testifies behind closed doors | ABC News",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "2G0UlfVu96U",
             "title": "Mayweather vs. Pacquiao Problems: Pacquiao Waited to Disclose Shoulder Injury",
             "secondDuration": 113,
@@ -121,8 +115,14 @@
             "title": "Eagles Fly Safely Near Wind Turbines Thanks to Radar",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "MwaK-SmcIx0",
+            "title": "Americans brace for possible approach of coronavirus peak l ABC News",
+            "secondDuration": 353,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

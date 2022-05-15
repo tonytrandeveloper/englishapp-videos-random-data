@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-YBAyf53ePo",
-            "title": "What Does 'Unemployment Rate' Mean? | Show Me | NBC News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "qGWJ5ttsBKk",
             "title": "Two Best Friends Raise Money To Help Kids In Another Country | Nightly News: Kids Edition",
             "secondDuration": 742,
@@ -31,8 +25,14 @@
             "title": "Major Winter Storm Sweeps Across Southern U.S., Threatening Millions | NBC Nightly News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "q5e_gA1ENqA",
+            "title": "Holocaust Survivors Mark 75th Anniversary Of Auschwitz Liberation | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

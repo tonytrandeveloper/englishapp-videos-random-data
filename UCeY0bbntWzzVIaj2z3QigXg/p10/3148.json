@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XMT9KhwG5XY",
-            "title": "New York Governor Andrew Cuomo Holds Briefing | NBC News",
-            "secondDuration": 2032,
-            "group": "group_7"
-        },
-        {
             "videoId": "_3DVG0rAdNQ",
             "title": "Thousands Quarantined Aboard Cruise Ships Over COVID-19 Fears | NBC Nightly News",
             "secondDuration": 69,
@@ -61,8 +55,14 @@
             "title": "Pro-Brexit Protesters Flood London Streets After Parliament Rejects Deal | NBC News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "nUGhn06ij0o",
+            "title": "Catalonia Wants Independence From Spain | Long Story Short | NBC News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

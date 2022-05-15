@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vP4WKQGhqzY",
-            "title": "Biden Takes The Lead In Pennsylvania As Vote Count Continues | NBC News NOW",
-            "secondDuration": 256,
-            "group": "group_7"
-        },
-        {
             "videoId": "HVAR7fPxJCQ",
             "title": "U.S. Consulate In Chengdu, China, Closed In Retaliation For Houston Mission Closure | NBC News NOW",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Several Tornadoes Touch Down Across Midwest",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "MQiayVb4_p4",
+            "title": "NBC News Upfront",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

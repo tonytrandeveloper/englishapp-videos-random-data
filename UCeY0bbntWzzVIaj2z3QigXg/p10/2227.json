@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "w-GbTd-f0W4",
-            "title": "Top Story with Tom Llamas - October 22 | NBC News NOW",
-            "secondDuration": 3014,
-            "group": "group_7"
-        },
-        {
             "videoId": "uRvr64hwoXc",
             "title": "WATCH: Jet Suit Paramedic Joins Mountain Rescue Drill | NBC News NOW",
             "secondDuration": 69,
@@ -61,8 +55,14 @@
             "title": "What You Need To Know About Medical Care On Cruise Ships | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "sMioKngrZiI",
+            "title": "Navigating The Trauma Of Mass Shooting Survivors | NBC News Now",
+            "secondDuration": 352,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

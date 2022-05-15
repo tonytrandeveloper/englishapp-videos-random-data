@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bA3aqrGtV2A",
-            "title": "Former Google CEO: AI will be central to ‘how we live our lives’",
-            "secondDuration": 458,
-            "group": "group_7"
-        },
-        {
             "videoId": "2DV1OG_M46M",
             "title": "Alaska Earthquake: 7.0 magnitude quake. tsunami warning in Anchorage | ABC News",
             "secondDuration": 1835,
@@ -61,8 +55,14 @@
             "title": "The latest on Day 4 of Ahmaud Arbery murder trial",
             "secondDuration": 516,
             "group": "group_7"
+        },
+        {
+            "videoId": "7Loa3cFbjAk",
+            "title": "ABC News' Year in Review: Sports",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VqV7zsFfqlo",
-            "title": "Kellyanne Conway: President is prepared to work across the aisle with Dems",
-            "secondDuration": 342,
-            "group": "group_7"
-        },
-        {
             "videoId": "A50vw5o-oes",
             "title": "Johnson & Johnson manufacturer’s embattled history with the FDA",
             "secondDuration": 429,
@@ -61,8 +55,14 @@
             "title": "House fire claims lives of 3 family members in Quakertown, Pennsylvania",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "Emf74pdK374",
+            "title": "Southwest Plane Diverted, Man Tries to Open Plane Door Mid-Flight",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

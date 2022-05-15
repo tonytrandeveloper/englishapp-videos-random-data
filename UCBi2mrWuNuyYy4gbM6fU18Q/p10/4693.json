@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "q5LykzHFgYM",
-            "title": "Your Voice: The 1st dose of the COVID-19 vaccine",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "vhjGX3IoAVs",
             "title": "Backlash over new 'popular film' Oscar category",
             "secondDuration": 240,
@@ -61,8 +55,14 @@
             "title": "TN Wildfires Cause Terror and Devastation",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "zg7m8goh9uk",
+            "title": "South Africa floods, NYC subway shooting, Ramadan: Week in Photos",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

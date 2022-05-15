@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5ceDvwS_PuY",
-            "title": "Meet The Press Broadcast (Full) - Dec. 26",
-            "secondDuration": 2860,
-            "group": "group_7"
-        },
-        {
             "videoId": "iw9LScAs_v8",
             "title": "Why Muslim Men Are Asking for Hugs in Paris | NBC Nightly News",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Boeing Answers Complaints and Goes Bigger With Overhead Bins | NBC Nightly News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hqn2H3slAy4",
+            "title": "Zuckerberg To Testify Before Congress On Social Media’s Role In Extremism | NBC News NOW",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

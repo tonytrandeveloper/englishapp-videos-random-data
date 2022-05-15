@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4RfJCMpl_dI",
-            "title": "Michelle Obama DNC Speech Highlights: FLOTUS Shines at Democratic National Convention 2012",
-            "secondDuration": 302,
-            "group": "group_7"
-        },
-        {
             "videoId": "nK3mgyDtMZA",
             "title": "Key West resident speaks out as Irma approaches",
             "secondDuration": 167,
@@ -61,8 +55,14 @@
             "title": "Severe storms targeting South, East on Election Day",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "Mjj2S4EYqks",
+            "title": "Nate Silver on outstanding ballots in Nevada, Arizona, Pennsylvania",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

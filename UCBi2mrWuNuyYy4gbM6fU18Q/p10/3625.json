@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lLZbQRUX63M",
-            "title": "Ending analysis for Super Tuesday | ABC News",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "O-Oe9jtQuiU",
             "title": "Kim Jong Un's half-brother killed in Malaysia: Reports",
             "secondDuration": 39,
@@ -61,8 +55,14 @@
             "title": "Missing pregnant postal worker likely victim of foul play: Authorities",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "4SuO8MC5BVA",
+            "title": "Students Beaten During Mob Attacks at University",
+            "secondDuration": 32,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

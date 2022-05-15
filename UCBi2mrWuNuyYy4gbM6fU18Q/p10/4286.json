@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wpj6kJpV3Jo",
-            "title": "Should Americans reconsider travel plans in wake of coronavirus?",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rx-Rxpbwspo",
             "title": "Joe Biden delivers remarks on mass shooting in Boulder, Colorado",
             "secondDuration": 767,
@@ -61,8 +55,14 @@
             "title": "Tennessee man speaks out about his encounter with 2 dangerous escaped prisoners",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "6ks9ZU61Fpo",
+            "title": "Suspect Arrested in Erin Andrews Case",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

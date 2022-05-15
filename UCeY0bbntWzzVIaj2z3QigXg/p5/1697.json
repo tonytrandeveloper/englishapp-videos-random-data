@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DQS9zVzRMXQ",
-            "title": "White House Holds Annual 'Made In America Product Showcase' | NBC News",
-            "secondDuration": 2517,
-            "group": "group_7"
-        },
-        {
             "videoId": "y7_Wrr7V2mY",
             "title": "This Morning’s Top Headlines – Jan. 13 | Morning News NOW",
             "secondDuration": 1317,
@@ -31,8 +25,14 @@
             "title": "Police Investigating Death Of Fraternity Member At Washington State University | NBC Nightly News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "pCH83rhzMMQ",
+            "title": "Jeff Sessions Details Reasons for His Recusal from Russia Investigation | NBC News",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

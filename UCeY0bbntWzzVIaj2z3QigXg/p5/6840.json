@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CSMFeY-PJqU",
-            "title": "Study Examines The Silent Side Effects Of Heartburn Medications | NBC Nightly News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "AofW8uT4EXk",
             "title": "9/11 Survivors And First Responders ‘Forgotten’ By Health Program, Employees Say",
             "secondDuration": 258,
@@ -31,8 +25,14 @@
             "title": "NOW Tonight With Joshua Johnson Full Episode- Dec. 22 | NBC News NOW",
             "secondDuration": 3076,
             "group": "group_7"
+        },
+        {
+            "videoId": "f9saAkzoIhA",
+            "title": "Why Is This Flu Season So Bad? | NBC Nightly News",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

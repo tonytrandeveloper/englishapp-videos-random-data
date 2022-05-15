@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DG6WslGxH7k",
-            "title": "Traffic Stop Turns Deadly for 17-Year-Old",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "hLcy5ClzsfM",
             "title": "Ammunition found on ‘Rust’ movie set, warrant shows",
             "secondDuration": 174,
@@ -61,8 +55,14 @@
             "title": "Ted Cruz Vows to Decline Donald Trump VP Position",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "KWfYVxF2KhA",
+            "title": "Marco Rubio Interview 2012: Vice President Pick?",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

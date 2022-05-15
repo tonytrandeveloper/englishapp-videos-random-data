@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wehGcPmXixg",
-            "title": "ABC News Prime: Amy Coney Barrett grilled; Bias in real estate; 1st vaccine trial involving children",
-            "secondDuration": 3611,
-            "group": "group_7"
-        },
-        {
             "videoId": "MS7J1FY8If8",
             "title": "Record-Breaking Artic Blast",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "What the 'Roseanne' spinoff 'The Conners' could look like without Roseanne Barr",
             "secondDuration": 383,
             "group": "group_7"
+        },
+        {
+            "videoId": "wUsa3yh7UUw",
+            "title": "ABC News Prime: Pediatric COVID-19 surge; Biden visits NJ, NY after Ida; Wait for justice after 9/11",
+            "secondDuration": 5266,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

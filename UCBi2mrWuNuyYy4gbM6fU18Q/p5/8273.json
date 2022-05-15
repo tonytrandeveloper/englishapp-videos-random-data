@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "glVgdqM3Zjw",
-            "title": "Bindi Irwin Creates Wildlife Charity in Honor of Her Dad",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "fa7XKKr61Ng",
             "title": "Barbara Walters Asks Donald Trump About Banning Syrian Refugees",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "Obama Vows Retaliation for Russian Election Cyber Attacks",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "cnJAuoT0WY4",
+            "title": "Michelle Obama, Cleveland Cavaliers Mannequin Challenge",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

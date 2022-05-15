@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VyP43KnwsmM",
-            "title": "Gwyneth Paltrow Seeks to End the 'Mommy Wars'",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "KvdT-MbOM-Q",
             "title": "'Dancing With the Stars' Finalists Perform on 'GMA': Kirstie Alley and Maksim Chmerkovskiy's Cha-Cha",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "Hurricane Laura barrels down on Texas, Louisiana as a monster storm | Nightline",
             "secondDuration": 688,
             "group": "group_7"
+        },
+        {
+            "videoId": "u78vLISDvKo",
+            "title": "The race to prevent the sudden death of mothers in childbirth in the U.S.",
+            "secondDuration": 607,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

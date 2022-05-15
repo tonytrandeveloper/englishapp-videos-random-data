@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5dXSIJTbh1Y",
-            "title": "President Donald Trump Revokes Former CIA Director Brennan's Security Clearance | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "yKU_ELSI994",
             "title": "Inside Alabama Distillery That Shifted Its Entire Supply Chain To Make Hand Sanitizer | NBC News NOW",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Stormy Daniels: President Donald Trump 'Is A Man Who Has Gotten In Over His Head' | NBC News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "w-yLxJ1DHis",
+            "title": "Trump Supporters Discussed ‘Revolution’ Ahead Of Capitol Riot, Per FBI Agent",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

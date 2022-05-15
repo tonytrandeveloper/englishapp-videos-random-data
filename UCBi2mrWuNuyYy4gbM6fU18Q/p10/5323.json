@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jxROk7NyDuo",
-            "title": "The Conversation: Tiger Woods Says He's Sorry",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "YnENgJoPkxw",
             "title": "‘Welcome to Chechnya’ documentarian on refugees escaping violence against LGBTQ+",
             "secondDuration": 697,
@@ -61,8 +55,14 @@
             "title": "Will Leah Remini Testify Against Church of Scientology?",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "knVQemXvBMs",
+            "title": "Can Christian Bale Fight Off Oscar Competitors?",
+            "secondDuration": 384,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

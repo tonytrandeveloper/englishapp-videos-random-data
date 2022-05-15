@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Jp10vqY9mNw",
-            "title": "State of the race: Where do the campaigns go from here?",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "qD0Li3GXHsc",
             "title": "Debating Financial Regulation (Part 2)",
             "secondDuration": 501,
@@ -61,8 +55,14 @@
             "title": "Officer charged with murder in Andre Hill shooting | WNT",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "ITLsslJG8DM",
+            "title": "Police seeking man seen on video pummeling ride-share driver",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

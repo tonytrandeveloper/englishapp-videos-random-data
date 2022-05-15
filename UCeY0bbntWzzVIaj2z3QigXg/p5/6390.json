@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EZfyowC_0nE",
-            "title": "Tony Blair Discusses ‘Terrifying’ Economic Impact Of The Pandemic | NBC News",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "BPK4OBcG1-4",
             "title": "Trump: Military Is ‘Ready, Willing and Able’ To Deploy Amid Protests | NBC Nightly News",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Father And Son Rescue Bald Eagle | Archives | NBC News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "edX_qqV9Fl8",
+            "title": "First Successful Transplant Of Pig Heart To Human Patient Performed In Maryland",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "s3zbU4aNQNQ",
-            "title": "20/20 - Your Biggest Fan - Part 2",
-            "secondDuration": 504,
-            "group": "group_7"
-        },
-        {
             "videoId": "fXcKedZ39M0",
             "title": "JetBlue Pilot Video Reveals Clayton Osbon's Apparent 'Panic Attack' Mid-Flight; Passengers Subdue",
             "secondDuration": 170,
@@ -121,8 +115,14 @@
             "title": "Officials Look at ISIS and Al-Shebab as Suspects in Plane Explosion",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "2Z6ecEeW2Ng",
+            "title": "Dr. Deborah Birx contradicts Trump about the virus",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4z2zQhwozfc",
-            "title": "House Approves $8 Billion Harvey Disaster Relief As FEMA Runs Low On Cash | NBC Nightly News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "z86T6gNvnYU",
             "title": "North Korea Missile Is New Threat To America: What Are The Options Now? | NBC Nightly News",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "'Whole Towns Have Been Wiped Out' | Meet The Press | NBC News",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "seZJsKs5e4E",
+            "title": "Full Panel: 'We're Still In The Depths Of This Crisis' | Meet The Press | NBC News",
+            "secondDuration": 490,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

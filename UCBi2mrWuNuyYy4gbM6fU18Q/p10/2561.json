@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GuHduuMVMlQ",
-            "title": "Inside the break-up boot camp retreat designed to heal broken hearts",
-            "secondDuration": 465,
-            "group": "group_7"
-        },
-        {
             "videoId": "UVhhqDVTMKY",
             "title": "Trump holds firm on wiretapping claim in press conference with German Chancellor Angela Merkel",
             "secondDuration": 204,
@@ -61,8 +55,14 @@
             "title": "Croatia welcomes American travelers despite EU restrictions",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "5TN139Ny4_I",
+            "title": "Justice Stephen Breyer announces his retirement",
+            "secondDuration": 1015,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

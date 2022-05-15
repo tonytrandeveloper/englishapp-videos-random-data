@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7N4HJTuNJyA",
-            "title": "Oscars Speeches Turn Political | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "HkFBGa2DhV0",
             "title": "Fact-Checking January’s Democratic Debate | NBC News NOW",
             "secondDuration": 255,
@@ -31,8 +25,14 @@
             "title": "Parkland Victim Remembers School Shooting 3 Years Later | NBC News NOW",
             "secondDuration": 419,
             "group": "group_7"
+        },
+        {
+            "videoId": "XydOi-HobOY",
+            "title": "Nightly News Full Broadcast - April 13",
+            "secondDuration": 1261,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

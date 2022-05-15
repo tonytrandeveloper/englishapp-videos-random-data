@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QDyhcV623ag",
-            "title": "South Carolina primary coverage from ABC News Live",
-            "secondDuration": 12660,
-            "group": "group_7"
-        },
-        {
             "videoId": "QS7VOyPGeGg",
             "title": "Rebuilding Haiti: Fathers Day Gifts",
             "secondDuration": 420,
@@ -61,8 +55,14 @@
             "title": "Vote 2012 Politics & Latinos",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "sGqyuEmT9xs",
+            "title": "Syria's Chemical Weapon Threat",
+            "secondDuration": 455,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

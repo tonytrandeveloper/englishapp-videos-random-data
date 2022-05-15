@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6Zwt4hno-vk",
-            "title": "UK prime minister: 'We are not afraid'",
-            "secondDuration": 347,
-            "group": "group_7"
-        },
-        {
             "videoId": "S-RvIp52Eio",
             "title": "Firefighter dies while battling California wildfire",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Search intensifies for missing 6-year-old boy with autism in NC",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "4jP2DE8oXss",
+            "title": "Americans returning to work can be tested daily 'very soon,' says Trump",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

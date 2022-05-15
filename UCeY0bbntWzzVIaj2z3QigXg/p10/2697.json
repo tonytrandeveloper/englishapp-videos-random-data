@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hzU5h7uJfyA",
-            "title": "Trump Calls Mueller Report 'Complete And Total Exoneration' | NBC Nightly News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "lpD38gEi140",
             "title": "The Bridge: The Sex Talk | Jubilee Project | NBC Asian America",
             "secondDuration": 242,
@@ -61,8 +55,14 @@
             "title": "Battle Over Hospitalized 11-Month-Old Girl On Life Support Divides In Texas | NBC Nightly News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "eYzdWmVKxVE",
+            "title": "Team USA Athletes Head to Beijing",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

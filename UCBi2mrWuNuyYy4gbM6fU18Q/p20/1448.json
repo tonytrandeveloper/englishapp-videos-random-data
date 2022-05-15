@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gnmX_55Y4vY",
-            "title": "Trump faces 1st terror attack during time in office",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "GvFLXFCJvJA",
             "title": "Kennedy Mounts Ideological Attack on Bork",
             "secondDuration": 127,
@@ -121,8 +115,14 @@
             "title": "George Zimmerman Trial: What Happens If He's Acquitted?",
             "secondDuration": 506,
             "group": "group_7"
+        },
+        {
+            "videoId": "F3QBnrpGTqw",
+            "title": "Daughter's 5-year crusade to catch her mother's killer",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

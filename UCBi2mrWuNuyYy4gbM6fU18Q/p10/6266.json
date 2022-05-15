@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7pCoGBrSOo0",
-            "title": "Stanford freshman tackles water scarcity through 'grey water' concept",
-            "secondDuration": 326,
-            "group": "group_7"
-        },
-        {
             "videoId": "8RLd_p3iNJQ",
             "title": "'Knight and Day': The Ultimate Stunt",
             "secondDuration": 328,
@@ -61,8 +55,14 @@
             "title": "Cast of 'Avengers: Endgame' open up about past decade in Marvel universe",
             "secondDuration": 490,
             "group": "group_7"
+        },
+        {
+            "videoId": "cRxEUugenzA",
+            "title": "More than a quarter million displaced because of California fires",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

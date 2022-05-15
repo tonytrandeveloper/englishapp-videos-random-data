@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2tQ0bsaoOEs",
-            "title": "Trump Under Fire for African-American Comments",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "FuUqX93qbDo",
             "title": "Casey Anthony Video Diary: Lawyers Blast Release of Tape, Says Tape Was for Personal Use",
             "secondDuration": 199,
@@ -121,8 +115,14 @@
             "title": "What's Fueling the Volatility on Wall Street",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "_dTWUJI844U",
+            "title": "Ongoing problems plague Delta airlines; hundreds of flights cancelled",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

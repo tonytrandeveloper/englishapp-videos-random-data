@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5dUKiR3GzDo",
-            "title": "Gwen Stefani Says Rocky Year Inspired New Music | ABC News",
-            "secondDuration": 317,
-            "group": "group_7"
-        },
-        {
             "videoId": "a1wVRjuqniU",
             "title": "Baton Rouge Police Shooting Video",
             "secondDuration": 179,
@@ -31,8 +25,14 @@
             "title": "American Officer Accused Helping ISIS",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZEvyC5T88eA",
+            "title": "Federal judge rules the Trump administration must restore DACA",
+            "secondDuration": 368,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

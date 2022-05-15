@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "59WMgAXNvMU",
-            "title": "New York City Mayor Adams increased police presence in subways after shooting rampage I ABCNL",
-            "secondDuration": 360,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZyVjT7jPqCo",
             "title": "Frustrations for COVID-19 vaccinations mount as more cities open mega-sites l GMA",
             "secondDuration": 195,
@@ -61,8 +55,14 @@
             "title": "Webcast: Woman Knitts From Her Seat At Wimbledon",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "JJt2fAacKnw",
+            "title": "IYKYK: The great generational texting divide",
+            "secondDuration": 594,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3yeAeasvrNA",
-            "title": "COVID-19 killing health care workers on front lines | WNT",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "0Vn3_4PF5cE",
             "title": "George Zimmerman Trial for Trayvon Martin Death: Tracy Martin Says World Turned Upside Down",
             "secondDuration": 289,
@@ -31,8 +25,14 @@
             "title": "Giuliani: Trump reimbursed personal lawyer for 130K Stormy payment",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "qHkmDXwiGPo",
+            "title": "34 people at White House test positive for COVID-19",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

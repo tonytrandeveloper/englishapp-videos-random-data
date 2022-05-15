@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YhcxfWquufo",
-            "title": "Bundy 20/20 Pt 2: Ted Bundy murders women, whose disappearances cause fear around Washington",
-            "secondDuration": 435,
-            "group": "group_7"
-        },
-        {
             "videoId": "EVBBOZpD-SQ",
             "title": "Navajo Nation has highest COVID-19 infection rate in the US",
             "secondDuration": 243,
@@ -31,8 +25,14 @@
             "title": "A Final Farewell to 'American Idol'",
             "secondDuration": 366,
             "group": "group_7"
+        },
+        {
+            "videoId": "hjNonZDmZO4",
+            "title": "A murder mystery involving a mother and her two daughters in Ohio",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

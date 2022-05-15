@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4Hl0OlDmpiw",
-            "title": "Multiple Students Injured In Colorado School Shooting | NBC Nightly News",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "LqSljRMO9h0",
             "title": "President Donald Trump Slams AG Jeff Sessions Over GOP Indictments | NBC Nightly News",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "Inside A Mexico City Hospital Pushed To Its Limits With Coronavirus Patients | NBC Nightly News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "i-Lsud_C520",
+            "title": "Two National Guard Members Dead After Military C-130 Plane Crashes In Georgia | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

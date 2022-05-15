@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "at8QzTGTM5I",
-            "title": "Freak Storm Batters Istanbul With Golf Ball-Sized Hail | NBC News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "L4fJzw6-mGg",
             "title": "Hyundai Unveils Its ‘Walking Car’ At CES | NBC News",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "History Of The Boeing 777 | Long Story Short | NBC News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "eAs7vCyKJw0",
+            "title": "U.S. and U.K. Hail G7 Minimum Corporate Tax Deal",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

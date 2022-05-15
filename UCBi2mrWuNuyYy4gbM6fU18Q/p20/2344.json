@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yMcqKRnhCIs",
-            "title": "Real-Life 7 Dwarfs Interviewed by Barbara Walters: Inspiring Family Tackles Life's Challenges",
-            "secondDuration": 274,
-            "group": "group_7"
-        },
-        {
             "videoId": "45q6g9s9cNY",
             "title": "SpaceX Falcon 9 Rocket Launches to International Space Station",
             "secondDuration": 113,
@@ -121,8 +115,14 @@
             "title": "France says all options on table for Russian sanctions l ABCNL",
             "secondDuration": 396,
             "group": "group_7"
+        },
+        {
+            "videoId": "mRgZFAyaUL8",
+            "title": "Hillary Clinton Emails | FBI Director Testifies",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

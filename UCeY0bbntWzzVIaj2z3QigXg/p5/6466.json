@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dNdSvMI_Yzk",
-            "title": "This Morning’s Top Headlines – Jan. 28 | Morning News NOW",
-            "secondDuration": 1588,
-            "group": "group_7"
-        },
-        {
             "videoId": "yULT4ZPv49A",
             "title": "The Complicated Path To Getting A COVID-19 Vaccine On The Market | NBC News NOW",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "Is Travel Insurance Worth The Cost? | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "C7Sur_Kr78Q",
+            "title": "North Korea Fires Second ICBM Near Japan | NBC Nightly News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

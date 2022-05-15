@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L2G_mcYaa3w",
-            "title": "Police Give Turkeys, Not Tickets | NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z4I404VpO-Y",
             "title": "Pocket Avatars: A Medical Breakthrough? | Nerdwatch | NBC News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "New Video Shows Attack On Trump Hotel In Miami | NBC News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qpc19hChY5U",
+            "title": "Gen. Petraeus Speaks On Afghanistan Collapse, U.S. Withdrawal",
+            "secondDuration": 235,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

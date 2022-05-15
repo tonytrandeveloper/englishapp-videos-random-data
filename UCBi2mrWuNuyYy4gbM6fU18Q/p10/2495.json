@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MylGfTNgrOI",
-            "title": "The Debrief: Record-breaking cold, 2020 Democratic challengers, Jussie Smollet investigation",
-            "secondDuration": 1221,
-            "group": "group_7"
-        },
-        {
             "videoId": "LJT2DjWSXsY",
             "title": "ABC News Prime: COVID-19 reaches historic highs; Trump blocks Biden transition; Thanksgiving risks",
             "secondDuration": 3540,
@@ -61,8 +55,14 @@
             "title": "Space Shuttle Discovery Makes Final Flight",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "pr73lC9JgA8",
+            "title": "Tropical Storm Henri brings severe flooding to East Coast l GMA",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

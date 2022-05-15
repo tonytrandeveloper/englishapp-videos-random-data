@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7jIWDuQApRI",
-            "title": "Chelsea Bombing Investigation Focuses on 2 Men",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "bV2SVY9La5k",
             "title": "NFL faceoff",
             "secondDuration": 133,
@@ -121,8 +115,14 @@
             "title": "What does ‘flatten the curve’ mean?",
             "secondDuration": 272,
             "group": "group_7"
+        },
+        {
+            "videoId": "cWtATe_Orp0",
+            "title": "Beach, graffiti and Fukushima Nuclear Power Plant: World in Photos, April 20",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

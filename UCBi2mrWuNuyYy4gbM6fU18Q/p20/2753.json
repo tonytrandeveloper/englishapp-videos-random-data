@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yev1geFOABs",
-            "title": "Biden and Harris debut as historic Democratic ticket",
-            "secondDuration": 2945,
-            "group": "group_7"
-        },
-        {
             "videoId": "wxQMRdLXzaA",
             "title": "Bernie Sanders brushes off likability concerns",
             "secondDuration": 322,
@@ -121,8 +115,14 @@
             "title": "Student Beaten by Cops Fights Back",
             "secondDuration": 372,
             "group": "group_7"
+        },
+        {
+            "videoId": "XeqBLsp9s54",
+            "title": "How the AstraZeneca vaccine measures up",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

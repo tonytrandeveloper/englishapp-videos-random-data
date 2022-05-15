@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5V5jUdiARvo",
-            "title": "Ukraine Continues To Fend Off Russian Invasion",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "WCyrAX9ZjP0",
             "title": "Atlanta Mayor Lance Bottoms: 'We Are Serious About Policy Changes' | NBC News",
             "secondDuration": 392,
@@ -121,8 +115,14 @@
             "title": "Recent High Profile Suicides Spark Concerns Of ‘Copycat’ Trend | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "P47P4ngVH_c",
+            "title": "Obama Discusses The ISIS Threat | NBC News",
+            "secondDuration": 365,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

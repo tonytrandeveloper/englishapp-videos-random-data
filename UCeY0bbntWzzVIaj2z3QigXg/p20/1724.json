@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "a76qN3drKjs",
-            "title": "What To Know About the N.Y.-N.J. Bombings Suspect | 101 | NBC News",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "TgBMkI8pCXI",
             "title": "Daughter Of Ex-Russian Spy Gives First Statement After Nerve Agent Poisoning | NBC Nightly News",
             "secondDuration": 96,
@@ -121,8 +115,14 @@
             "title": "The Death Of The Business Suit | NBC News Now",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "rvB-PkiHHE4",
+            "title": "Growing Pressure In Race To Evacuate Afghanistan As Withdrawal Deadline Nears",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

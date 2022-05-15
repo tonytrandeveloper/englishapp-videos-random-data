@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "H7jA_gyRidI",
-            "title": "Former New York City mayor files to run in Alabama's presidential primary",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "uGDpFb0fwU8",
             "title": "Over 2 dozen tornadoes touch down in Southeast l GMA",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Barbara Walters to have Heart Surgery",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "xcY4nfQuePg",
+            "title": "Johnny Depp Ordered to Temporarily Stay Away from Estranged Wife Amber Heard",
+            "secondDuration": 478,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

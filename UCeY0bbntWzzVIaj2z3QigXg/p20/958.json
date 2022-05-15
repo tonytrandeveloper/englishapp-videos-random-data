@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KAoU_TQehRU",
-            "title": "Looks Matter In The First Televised Presidential Debate | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "9K8idpWlAK4",
             "title": "Hallie Jackson NOW - Jan. 24 | NBC News NOW",
             "secondDuration": 3032,
@@ -121,8 +115,14 @@
             "title": "One Heritage, Two Generations: Restaurateurs Jessica And Libia Sánchez | NBC News",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "T9kFevOzOH0",
+            "title": "CDC Director Warns Covid Outbreak Will Make Winter Months 'The Most Difficult Time' | NBC News NOW",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

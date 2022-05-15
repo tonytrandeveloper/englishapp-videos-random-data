@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "7pCoGBrSOo0",
-            "title": "Stanford freshman tackles water scarcity through 'grey water' concept",
-            "secondDuration": 326,
-            "group": "group_7"
-        },
-        {
             "videoId": "8RLd_p3iNJQ",
             "title": "'Knight and Day': The Ultimate Stunt",
             "secondDuration": 328,
@@ -301,8 +295,14 @@
             "title": "Women speak out after Sen. Al Franken's resignation announcement",
             "secondDuration": 590,
             "group": "group_7"
+        },
+        {
+            "videoId": "wve1wNHl7hE",
+            "title": "Prince Harry Given Invictus Games Winner's Gold Medal",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QTmLYYQBZVE",
-            "title": "Trump at rally: ‘You have no choice but to vote for me’ | ABC News",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "qpim6EJyvnI",
             "title": "Burger King Markets New Fries as Healthier",
             "secondDuration": 110,
@@ -121,8 +115,14 @@
             "title": "Trump Revised Travel Ban Executive Order Expected Today",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "uLIzeunzEyo",
+            "title": "ABC News Live Update: Biden says US making ‘historic progress’ on economic recovery",
+            "secondDuration": 2128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

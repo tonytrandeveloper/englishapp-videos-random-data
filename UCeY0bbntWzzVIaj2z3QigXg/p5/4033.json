@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uLQHCuLG41M",
-            "title": "Nightly News Full Broadcast - Jan. 10",
-            "secondDuration": 1056,
-            "group": "group_7"
-        },
-        {
             "videoId": "kxjm6eQaFwM",
             "title": "Pope Francis Celebrates Mass with 300,000 in Rain-Soaked Kenya | NBC Nightly News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "‘Hopelessness Is Dangerous’ In Middle East Violence | Meet The Press",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "iesR7pezew8",
+            "title": "Pentagon On The Death Of Journalist Brent Renaud, Injury Of Fox News’ Benjamin Hall",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

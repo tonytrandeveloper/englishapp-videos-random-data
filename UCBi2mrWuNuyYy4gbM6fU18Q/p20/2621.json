@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UN8rZ4rJBXs",
-            "title": "More than 2 million homes in Florida are without power",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "YlDv1u5qlIE",
             "title": "PA Attorney General Exposed Illicit Gov't Emails, Faces Own Scandal",
             "secondDuration": 515,
@@ -121,8 +115,14 @@
             "title": "Biden holds news conference at NATO summit",
             "secondDuration": 1525,
             "group": "group_7"
+        },
+        {
+            "videoId": "m5S5XN6JAmk",
+            "title": "Man Celebrates Bachelor Party Alone | ABC News",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

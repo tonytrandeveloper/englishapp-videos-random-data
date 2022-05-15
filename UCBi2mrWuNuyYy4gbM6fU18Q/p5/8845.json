@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TFVS-FrIccg",
-            "title": "Superstorm Sandy: Power Outages, Gas Shortages Continue",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "vKGJyVStU6Q",
             "title": "Attorney speaks out after FBI arrests longtime Jeffrey Epstein associate | ABC News",
             "secondDuration": 396,
@@ -31,8 +25,14 @@
             "title": "Chemical leak at YMCA in Durham, NC sends dozens of children to the hospital",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "JXNNyju1d-Y",
+            "title": "Presidential Inauguration 2013: Celebrating Democracy and People",
+            "secondDuration": 283,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nuRywf5kp9g",
-            "title": "California governor declares state of emergency after earthquakes",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "5BqTZ6J8tys",
             "title": "Ray Rice Becomes Potential Hire After Being Reinstated",
             "secondDuration": 178,
@@ -31,8 +25,14 @@
             "title": "One on One:  Matthew Dowd",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "0lr80E8GO64",
+            "title": "Alicia Keys Interview:  'Girl on Fire'",
+            "secondDuration": 408,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aCpSXDngmvA",
-            "title": "How The Coronavirus Is Impacting Small Businesses | NBC Nightly News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "CiW77IKLRnQ",
             "title": "Sunday on MTP: Ukraine, The Francis Effect | NBC News",
             "secondDuration": 15,
@@ -31,8 +25,14 @@
             "title": "Florida Gov. DeSantis Gives Updates On Coronavirus | NBC News (Live Stream Recording)",
             "secondDuration": 2171,
             "group": "group_7"
+        },
+        {
+            "videoId": "sfqf-SeIjM0",
+            "title": "Sinkhole Swallows Van In Cleveland | NBC News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cLkRqmU8WYA",
-            "title": "WEBCAST: Gun Control Recommendations",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "RQaXdCDyehE",
             "title": "Massive Hack Attack at Yahoo",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "Manhunt Out West for Alleged Bank Robber Called AK47 Bandit",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "L3-FnPd13Yo",
+            "title": "SKINNY: An All New Season of \"The Bachelor\" Starts Tonight",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

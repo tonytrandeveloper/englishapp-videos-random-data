@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SKnBkvQcYGA",
-            "title": "Ivanka Trump Testifies Virtually Before Jan. 6 Committee",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "BOlznqUk85M",
             "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4646,
@@ -61,8 +55,14 @@
             "title": "Ukrainian Refugees Held In ICE Detention Centers",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "ym7fZUwu8Kw",
+            "title": "This Morning’s Top Headlines – October 20 | Morning News NOW",
+            "secondDuration": 1430,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

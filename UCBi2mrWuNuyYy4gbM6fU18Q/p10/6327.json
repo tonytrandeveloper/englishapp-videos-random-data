@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "h30tGcrtdk8",
-            "title": "FACEBOOK WEBCAST 06-01-12.mov",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "zVwlHlqeeWM",
             "title": "Hugh Jackman Discusses Playing Against Type",
             "secondDuration": 288,
@@ -61,8 +55,14 @@
             "title": "Bill Cosby juror reveals what prevented guilty verdict",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "F8rqONyyoqw",
+            "title": "Special Needs Patients Forced to Spar",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

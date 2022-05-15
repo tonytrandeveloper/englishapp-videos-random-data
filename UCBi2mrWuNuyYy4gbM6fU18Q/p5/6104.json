@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NqEs3zcdAhM",
-            "title": "ABC News Live Update: House Democrats prepare to impeach President Trump for 2nd time",
-            "secondDuration": 1364,
-            "group": "group_7"
-        },
-        {
             "videoId": "ibeT9BJ4vKA",
             "title": "Hillary Clinton has harsh words for Bernie Sanders",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "Paris Attacks: Terrifying Scenes From French Stadium",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "TM74IpCpz2w",
+            "title": "Arrest warrant issued for founder of Bikram yoga",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

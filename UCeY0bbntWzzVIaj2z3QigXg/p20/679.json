@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KfWgPRHrxds",
-            "title": "Did Snowden Warn The NSA? | NBC News",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "O37LZfEb0NU",
             "title": "Official Details The Aftermath Of Kansas Bar Shooting That Left Four Dead | NBC News",
             "secondDuration": 62,
@@ -121,8 +115,14 @@
             "title": "Washington County Deputy On Saving A Boy From Frozen Pond: 'I'm Coming In. I Got Him' | NBC News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "xtWkuJg87Q8",
+            "title": "Robert Mueller Questioned On Why Donald Trump Jr. Was Not Charged With Conspiracy | NBC News",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

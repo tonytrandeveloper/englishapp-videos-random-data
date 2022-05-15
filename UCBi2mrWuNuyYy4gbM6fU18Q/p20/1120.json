@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "84ks0Y4P3lE",
-            "title": "India’s fight against COVID-19 l ABC News",
-            "secondDuration": 322,
-            "group": "group_7"
-        },
-        {
             "videoId": "oKvFW0-bAO4",
             "title": "Dog Loses Leg in Combat, Receives Highest Military Honor",
             "secondDuration": 91,
@@ -121,8 +115,14 @@
             "title": "Close Call on the Arctic's Melting Sea Ice",
             "secondDuration": 347,
             "group": "group_7"
+        },
+        {
+            "videoId": "BcglVtJT8U4",
+            "title": "Real Life 'Blind Side'",
+            "secondDuration": 408,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

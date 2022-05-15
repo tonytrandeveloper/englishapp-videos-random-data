@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XvZk8OARqp4",
-            "title": "Nine Dead In South Dakota Plane Crash | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "GP9E3kBVyII",
             "title": "Fred Warmbier Speaks Out In South Korea, 8 Months After Son’s Death | NBC Nightly News",
             "secondDuration": 178,
@@ -61,8 +55,14 @@
             "title": "Top Diplomat Testifies In Rare Saturday Session In Impeachment Inquiry | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "GNtcXyYGDa4",
+            "title": "Hillary Clinton Talks Iowa, Bernie Sanders (Full Interview) | Meet The Press | NBC News",
+            "secondDuration": 565,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

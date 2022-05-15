@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oiBnfcT-mCY",
-            "title": "A Look At The Emoji, Everyone’s Favorite Way To Text | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "gwJylyYkf8s",
             "title": "FDA Approves New Migraine Prevention Drug | NBC Nightly News",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "Major Federal Coronavirus Testing Site In Texas Closing As Cases Surge | NBC News NOW",
             "secondDuration": 658,
             "group": "group_7"
+        },
+        {
+            "videoId": "OM6oBVlD5sU",
+            "title": "Brett Kavanaugh: ‘I Will Not Be Intimidated Into Withdrawing’ | NBC Nightly News",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yBcO4NPNr6M",
-            "title": "High school shooter studied mass shootings: Sources",
-            "secondDuration": 272,
-            "group": "group_7"
-        },
-        {
             "videoId": "nJ3VluLRomg",
             "title": "Mitt Romney Campaigns in Florida",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Jeff Bezos announces space flight with his brother | WNT",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "qTbbi6Hmx0U",
+            "title": "Coworkers chip in to get new car for Fedex package handler",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

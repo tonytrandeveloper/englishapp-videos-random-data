@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2xu3rfmG7cg",
-            "title": "'The Long Road Home' with the soldiers and families of Black Sunday",
-            "secondDuration": 375,
-            "group": "group_7"
-        },
-        {
             "videoId": "0DbcCyFq_hI",
             "title": "Marvel Comics' 'Darth Vader': Inside 'Star Wars' comic book series' 5th issue",
             "secondDuration": 2186,
@@ -61,8 +55,14 @@
             "title": "Tweeting a Revolution in Tehran",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "5ZRQzN4qtkU",
+            "title": "'I think he almost walks on water': Ohio voter on Trump | ABC News",
+            "secondDuration": 563,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

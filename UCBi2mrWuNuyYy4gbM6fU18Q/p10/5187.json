@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sCoMsiVrVUs",
-            "title": "Roundtable I: Karl Rove and Jim Messina",
-            "secondDuration": 1680,
-            "group": "group_7"
-        },
-        {
             "videoId": "KtwUTDTcOdg",
             "title": "Landmark Toyota Case Could Set Tone for Wrongful Death Suits",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Ice sparkles on Long Island's Great South Bay",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "N6iPW9noTD8",
+            "title": "Springfield, Mass., Tornadoes: Lives Uprooted",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

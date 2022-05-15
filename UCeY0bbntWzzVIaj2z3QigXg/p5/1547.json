@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pQ1eVBDIf8k",
-            "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2011,
-            "group": "group_7"
-        },
-        {
             "videoId": "HEsuzdFM6Qg",
             "title": "Live: Republican National Convention | NBC News",
             "secondDuration": 11864,
@@ -31,8 +25,14 @@
             "title": "Ruth Bader Ginsburg Memorialized Across Country As Memorial Plans Set | NBC News NOW",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "WfPTlKQdAXQ",
+            "title": "Does President Donald Trump’s Impeachment Trial Set A Precedent? | NBC News NOW",
+            "secondDuration": 452,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

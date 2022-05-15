@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zVt0xJUVALw",
-            "title": "Paris apartment fire kills 8, injures dozens",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "JhQ-Ui4-3Iw",
             "title": "Instant Index: Bond Singers Aim for Oscar Gold",
             "secondDuration": 79,
@@ -121,8 +115,14 @@
             "title": "Russia acknowledges Russian soldier deaths l ABCNL",
             "secondDuration": 370,
             "group": "group_7"
+        },
+        {
+            "videoId": "cYlUK4Qhmf0",
+            "title": "Paris Attacks: Eyewitness Account of Terror",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

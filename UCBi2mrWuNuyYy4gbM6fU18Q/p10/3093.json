@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Y96f6s_nxmo",
-            "title": "Lone Survivor of 1987 Plane Crash Breaks Silence",
-            "secondDuration": 437,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZL6clqbU9e0",
             "title": "‘Gentleman is not recognized’: Schiff | ABC News",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "New twist in decades-long case of missing girl in Rome",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "-lXVoPE8ljg",
+            "title": "ABC News Live Update: Ruth Bader Ginsburg’s former clerk gives inside look at the cultural icon",
+            "secondDuration": 1101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

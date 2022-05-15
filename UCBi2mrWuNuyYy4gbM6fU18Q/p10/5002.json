@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x8wy1Rr4R_o",
-            "title": "'Dancing With the Stars': Donny Osmond's Predictions (2011)",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "KkFSG8UTObA",
             "title": "Watch Live: Derek Chauvin Trial Begins in Death of George Floyd | ABC News",
             "secondDuration": 23967,
@@ -61,8 +55,14 @@
             "title": "Meet the family that just adopted 7 brothers and sisters",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "9zfDbCj_cOw",
+            "title": "States step up to curb violence against police l GMA",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

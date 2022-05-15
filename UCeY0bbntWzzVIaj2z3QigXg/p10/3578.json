@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CppB08KFmLY",
-            "title": "Biden Delivers Remarks On Wilmington | NBC News",
-            "secondDuration": 2386,
-            "group": "group_7"
-        },
-        {
             "videoId": "pJRdv71uISE",
             "title": "Judge Ketanji Brown Jackson Poised For Supreme Court Confirmation After Senate Vote",
             "secondDuration": 242,
@@ -61,8 +55,14 @@
             "title": "Morning News NOW Full Broadcast - Dec. 3",
             "secondDuration": 3017,
             "group": "group_7"
+        },
+        {
+            "videoId": "FZ5JUHCu6wE",
+            "title": "Watch Highlights Of The Democratic Debate In 5 Minutes | NBC News",
+            "secondDuration": 310,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yvC0mGZ4vMM",
-            "title": "Jake Gyllenhaal is SMASHING",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "InuGf2eg6_c",
             "title": "Hillary Clinton Speaks About Presidential Election Loss",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Fallout Grows Over Trump's Pick for National Security Adviser",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "dV_4Ihh_xMs",
+            "title": "Jennifer Lawrence to Star in James Cameron-Produced Film 'The Dive'",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

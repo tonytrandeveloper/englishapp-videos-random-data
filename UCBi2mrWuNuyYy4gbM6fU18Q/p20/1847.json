@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-JcyZzXGymw",
-            "title": "Man Eats 10 Big Macs a Week, Says He's Healthy",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "McjR7KwimsM",
             "title": "Bells of Notre Dame remain silent on Easter",
             "secondDuration": 114,
@@ -121,8 +115,14 @@
             "title": "Italian Truffles | ABC News",
             "secondDuration": 1240,
             "group": "group_7"
+        },
+        {
+            "videoId": "0EU2_YMhT24",
+            "title": "University of Tennessee Coaches Hold Conference Amid Lawsuit",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

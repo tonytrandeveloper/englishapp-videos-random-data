@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hDw0kNREYpU",
-            "title": "White House Holds Press Briefing - Feb. 24 | NBC News",
-            "secondDuration": 3042,
-            "group": "group_7"
-        },
-        {
             "videoId": "vYZd-HTU_TA",
             "title": "Confederate Flag Merchandise Dropped By Top Retailers | NBC Nightly News",
             "secondDuration": 197,
@@ -61,8 +55,14 @@
             "title": "Watch Live: 2019 White House Correspondents' Dinner | NBC News",
             "secondDuration": 12494,
             "group": "group_7"
+        },
+        {
+            "videoId": "JAD9Zg_IojI",
+            "title": "More Than 1M Ordered To Evacuate Coastal South Carolina As Matthew Nears | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

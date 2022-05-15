@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OE-DQd2f-m8",
-            "title": "Behind Seacrest Studios: The Radio Stations At Children’s Hospitals | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "GF-F7e4WXiE",
             "title": "Boston Streets Awash During Its Worst Coastal Flooding In 40 Years | NBC News",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "New Bodycam Video Shows Investigation Of Missing Colorado Mother",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "GbVoQsA7N90",
+            "title": "Teen In Wheelchair Marches In Macy’s Thanksgiving Day Parade With Friend's Help | NBC Nightly News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

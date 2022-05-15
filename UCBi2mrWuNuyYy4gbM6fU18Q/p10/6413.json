@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "maG9saNud1A",
-            "title": "San Francisco mayor on keeping protests on message",
-            "secondDuration": 544,
-            "group": "group_7"
-        },
-        {
             "videoId": "e1MQ3-Bj2pE",
             "title": "By the Numbers: Gun violence increasing amid pandemic",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Case against former national security advisor who pleaded guilty dropped l ABC News",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "gXc1JWY1tso",
+            "title": "Trapped on an Elevator in Atlantic City",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

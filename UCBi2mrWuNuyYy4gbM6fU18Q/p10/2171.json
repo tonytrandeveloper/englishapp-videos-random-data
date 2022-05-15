@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KmZh89lWKJM",
-            "title": "Divided We Fail: Can Split Congress Work Together?",
-            "secondDuration": 319,
-            "group": "group_7"
-        },
-        {
             "videoId": "2lCiHSCZuhY",
             "title": "Rep. Bass on Biden Meeting: We'll 'Wait and See'",
             "secondDuration": 497,
@@ -61,8 +55,14 @@
             "title": "Superstorm Sandy: Residents Without Heat Face Cold Temperatures",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "q_HDIx-HC3o",
+            "title": "Hurricane Sally makes landfall on the Gulf Coast l GMA",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

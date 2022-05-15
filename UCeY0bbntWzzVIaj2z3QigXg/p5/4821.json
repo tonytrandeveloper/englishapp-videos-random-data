@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kV90vvVmAfY",
-            "title": "What Is The Background To Conflict Between Russia And Ukraine?",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "oAh0ZxoiYlQ",
             "title": "Telemedicine Fraud Surges Amid Pandemic",
             "secondDuration": 265,
@@ -31,8 +25,14 @@
             "title": "Boston Mayor Gives Coronavirus Updates | NBC News",
             "secondDuration": 1738,
             "group": "group_7"
+        },
+        {
+            "videoId": "FcDbmzu1yjg",
+            "title": "‘This Is Clearly Hyper-Political’ Kansas Rep. Watkins Responds To Voter Fraud Charges | NBC News NOW",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

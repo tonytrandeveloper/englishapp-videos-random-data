@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9ScUryoSZcQ",
-            "title": "Donald Trump Celebrates Victory In New Hampshire | NBC News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "6QgfYa-FjZA",
             "title": "New Details On Migrant Boy Who Approached Border Patrol Agents | NBC Nightly News",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "House Passes Police Reform Bill Named After George Floyd | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yr_kdwca03g",
+            "title": "Trump impeached after historic vote | NBC News (Live Stream Recording)",
+            "secondDuration": 42901,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

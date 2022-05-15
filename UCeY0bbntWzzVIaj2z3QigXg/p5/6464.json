@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZnyF4RmKIVc",
-            "title": "The Voters Who Chose Brexit, Divided By Age And Region | NBC News",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "M7XPK3AX3Yk",
             "title": "Deadly Oil Tanker Explosion, Fire Off Hong Kong’s Lamma Island | NBC News",
             "secondDuration": 57,
@@ -31,8 +25,14 @@
             "title": "Steep Gas Price Hike Sparks Angry Protests In Mexico | NBC News",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "7CyY4kbgiEo",
+            "title": "Thousands Of Kinder Eggs Wash Ashore In Germany Following Storm | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

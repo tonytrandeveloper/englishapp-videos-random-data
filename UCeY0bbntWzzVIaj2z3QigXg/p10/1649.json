@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "on7BRMxznxo",
-            "title": "A Better Way To Cut A Pineapple | Better | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "F21e2LFyC2Y",
             "title": "Politician Outbursts: Clinton To Weiner | Flashback | NBC News",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "'Show Us The Tape!': Ben Crump, Attorneys Call For Andrew Brown Jr. Bodycam Release | NBC News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "XoSsVzLwfhI",
+            "title": "Hallie Jackson NOW - March 21 | NBC News NOW",
+            "secondDuration": 3261,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

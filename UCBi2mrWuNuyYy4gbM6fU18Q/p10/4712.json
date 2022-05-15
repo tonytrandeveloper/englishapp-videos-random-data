@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5Q3taMgt2sc",
-            "title": "Hillary Joins Instagram",
-            "secondDuration": 233,
-            "group": "group_7"
-        },
-        {
             "videoId": "7JUrt9RRrC4",
             "title": "Long Lost Sisters Serendipitously Find Each Other at Columbia University",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "How WeWork plunged from almost $50 billion in value to nearly worthless",
             "secondDuration": 316,
             "group": "group_7"
+        },
+        {
+            "videoId": "HOr3n5-PCR8",
+            "title": "Steubenville: After the Party's Over",
+            "secondDuration": 477,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

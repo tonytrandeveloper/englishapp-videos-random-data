@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LGKpOdijKP0",
-            "title": "Unstoppable Athletes: Inside The World Of Power Soccer | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "sIXV0jDCVEY",
             "title": "George Floyd Family, Attorney Hold Press Briefing In Minneapolis | NBC News",
             "secondDuration": 5739,
@@ -31,8 +25,14 @@
             "title": "Handwritten Note Shows 9/11 Responder Luis Alvarez’s Personal Plea To McConnell | NBC Nightly News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "zVhzy91z1is",
+            "title": "NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2774,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "r8Gl0PVXpY4",
-            "title": "Malia Obama Graduates From High School | NBC Nightly News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xkjb2bkKQjo",
             "title": "Trump Pardons Roger Stone, Paul Manafort, Charles Kushner And Others | NBC Nightly News",
             "secondDuration": 104,
@@ -301,8 +295,14 @@
             "title": "China Pushes Three Child Policy",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "mbFGm8QQtc0",
+            "title": "How Summer Camps Aim To Keep Kids Safe Amid Coronavirus Concerns | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

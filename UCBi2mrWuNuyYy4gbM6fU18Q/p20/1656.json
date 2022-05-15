@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JEeSpMyoCts",
-            "title": "Wicked Weather Whips Millions",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "mFr6cfHMcGk",
             "title": "A deeper dive into the outstanding votes in Pennsylvania",
             "secondDuration": 325,
@@ -121,8 +115,14 @@
             "title": "Steve Carrell, Julianne Moore, Ellen Page on Making 'Freeheld'",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "DSIqbUeSn-8",
+            "title": "Counselor Thwarts Plan for Massive Shooting at a School in Tennessee",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

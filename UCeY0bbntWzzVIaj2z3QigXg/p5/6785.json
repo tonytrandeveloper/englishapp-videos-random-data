@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uezh63r8FxI",
-            "title": "Watch NBC News NOW Live - September 24",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "x7rpT0u0DWY",
             "title": "Hillary Clinton: Donald Trump’s ‘Locker Room Banter’ A ‘Weak Excuse For Behaving Badly’ | NBC News",
             "secondDuration": 220,
@@ -31,8 +25,14 @@
             "title": "Pompeo Says State Department Inspector General Should Have Been Fired 'Some Time Ago' | NBC News NOW",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "mKJchAbRDz4",
+            "title": "Robert Mueller Avoids Answering Rep. Eric Swalwell's Questions On Donald Trump Jr. | NBC News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

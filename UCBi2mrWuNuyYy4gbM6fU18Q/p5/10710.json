@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VTlG9d0Q9Hs",
-            "title": "Caught on Tape: Frightening Footage of Giraffe Attack",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "5sMjJpFoNqc",
             "title": "At Least 20 Dead in Moscow Subway Train Derailment",
             "secondDuration": 64,
@@ -31,8 +25,14 @@
             "title": "Bruce Springsteen Cancels Show Over 'Bathroom Bill'",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "12ROcEmzWSY",
+            "title": "Airbnb Users Claim Hosts Rejected Them Over Race",
+            "secondDuration": 475,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

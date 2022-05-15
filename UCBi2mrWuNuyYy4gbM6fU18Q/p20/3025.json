@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "kkxR4Via6Fo",
-            "title": "US Launches Operation in Somalia to Target Al Qaeda",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "jDqK0lCcbS8",
             "title": "Newlywed Murder Trial: Prosecution Calls Jordan Graham's Maid of Honor to Stand",
             "secondDuration": 235,
@@ -121,8 +115,14 @@
             "title": "Lowering Your Credit Card Interest Rate",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "0nGF-fEi3jI",
+            "title": "Deadly winter storm affects more than 200M Americans",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

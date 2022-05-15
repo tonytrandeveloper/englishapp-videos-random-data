@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BXYL9m6TY78",
-            "title": "Denver Zoo’s 'new normal'",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "HYzi1_LZogw",
             "title": "Jury selection begins for ex-officer charged in George Floyd death l GMA",
             "secondDuration": 181,
@@ -121,8 +115,14 @@
             "title": "Harrison Ford Plane Crash: New Images Released",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "67i73RHnGP8",
+            "title": "Bernie Sanders is back home in Vermont",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

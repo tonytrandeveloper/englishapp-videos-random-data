@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Lif4DzRkJQM",
-            "title": "Biden Delivers Remarks To Commemorate 100th Anniversary Of Tulsa Race Massacre",
-            "secondDuration": 2671,
-            "group": "group_7"
-        },
-        {
             "videoId": "ArOzi10VBhQ",
             "title": "NBC Nightly News Full Broadcast - August 25th, 2021",
             "secondDuration": 1157,
@@ -61,8 +55,14 @@
             "title": "Cold Case Solved Nearly 47 Years Later By Indiana Police | NBC Nightly News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "x2GVuf1fue0",
+            "title": "Trump: Immediate Cease-Fire After TR Forces Move Deeper Into Kurdish Enclaves | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

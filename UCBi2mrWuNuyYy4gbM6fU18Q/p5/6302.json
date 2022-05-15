@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GjnRQNKWR7A",
-            "title": "Miss America: Find Out What Contestants to Watch For",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "_HiXiCl-thU",
             "title": "Meningitis Contamination Hearing on Capitol Hill",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Mistrial in the case of Univ. of Cincinnati officer accused of killing an unarmed black motorist",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "w3DuI3RUrwU",
+            "title": "ABC News Live: Fallout after US withdrawal from Afghanistan | ABC News",
+            "secondDuration": 4484,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

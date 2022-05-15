@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "kIm3cnSqOWw",
-            "title": "Edina Police Release Video of Controversial Incident",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "TPTJSFk0Uo8",
             "title": "School shooting survivors announce march on Washington",
             "secondDuration": 146,
@@ -301,8 +295,14 @@
             "title": "LAPD Investigates Drowning In Demi Moore's Pool",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "_yp7vAOrPFk",
+            "title": "Shock waves hit the economy as the number of COVID-19 cases soars in the US",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

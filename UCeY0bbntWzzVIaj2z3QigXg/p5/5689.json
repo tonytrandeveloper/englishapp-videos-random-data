@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dGGIRDYGjwY",
-            "title": "Coverage of Hurricane Irma (Full) | NBC News",
-            "secondDuration": 25234,
-            "group": "group_7"
-        },
-        {
             "videoId": "707dZB-nVjU",
             "title": "Watch: Trump holds listening session on vaping",
             "secondDuration": 3462,
@@ -31,8 +25,14 @@
             "title": "Two Sailors Rescued After Five Months Lost At Sea | NBC Nightly News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "8zebT5WRF5s",
+            "title": "New Blood Test Could Change The Way Cancer Is Detected",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "btQ_l-S3T0c",
-            "title": "Felicity Huffman, Loughlin Among The 50 Charged In College Exam Cheating Scandal | NBC Nightly News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "n5imPnGZ2C4",
             "title": "Joe Biden On Rob Porter's Access To The President: \"I Can't Explain It' | NBC News",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "Germanwings Co-Pilot Andreas Lubitz Practice Run | NBC Nightly News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "ICuefgql6Kc",
+            "title": "First Female And African-American Librarian Of Congress 'Very Honored' By Confirmation | NBC News",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

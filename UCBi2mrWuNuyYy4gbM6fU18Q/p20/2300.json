@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "m25q2_RXyp8",
-            "title": "Road Rage Epidemic",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "6EQpaCO3oSU",
             "title": "Model Accused of Killing Husband Fights for Her Stepchildren",
             "secondDuration": 155,
@@ -121,8 +115,14 @@
             "title": "Shark Attacks on American Holiday",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "-zbvlPFc2N0",
+            "title": "WEBCAST: Two U.S. Skiers Killed in Avalanche Accident",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

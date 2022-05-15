@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7-i4AyH9gkU",
-            "title": "How 'Don’t Ask, Don’t Tell' still affects LGBTQ+ veterans",
-            "secondDuration": 339,
-            "group": "group_7"
-        },
-        {
             "videoId": "GzKNYak5AIQ",
             "title": "Multiple people shot at party venue in Dallas",
             "secondDuration": 57,
@@ -61,8 +55,14 @@
             "title": "ABC News Prime: Eviction Crisis; Hurricane Isaias; Father of Marine imprisoned in Russia",
             "secondDuration": 3663,
             "group": "group_7"
+        },
+        {
+            "videoId": "qtBLwYh4hHo",
+            "title": "SeaWorld to End Killer Whale Breeding",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

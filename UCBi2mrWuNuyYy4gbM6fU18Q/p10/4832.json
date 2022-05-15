@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "laP_xCiwTcM",
-            "title": "Third-String Quarterback Cardale Jones Leads Ohio State to Victory",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "aVRB62SRIyw",
             "title": "Biden declares Juneteenth a federal holiday",
             "secondDuration": 172,
@@ -61,8 +55,14 @@
             "title": "Joe Biden holds virtual town hall",
             "secondDuration": 583,
             "group": "group_7"
+        },
+        {
+            "videoId": "m8OwFYvCMHQ",
+            "title": "Tapper on Obama's Russian Outreach",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "z5cyhBoiB0Y",
-            "title": "Deplorable Living Conditions Found Inside Private Military Housing | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "BXvGhfnSOXc",
             "title": "Police Officers Learn Meditation To Tackle Job Tension | NBC Nightly News",
             "secondDuration": 129,
@@ -301,8 +295,14 @@
             "title": "New York City Nurses On Front Lines Say It's A 'Suicide Mission' | NBC Nightly News",
             "secondDuration": 686,
             "group": "group_7"
+        },
+        {
+            "videoId": "CICtU-QrpK4",
+            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
+            "secondDuration": 1606,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

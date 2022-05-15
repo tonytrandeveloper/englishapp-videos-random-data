@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fdP3MKquc0Q",
-            "title": "FDA's warning on the Johnson & Johnson vaccine | ABC News",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jf_0hlb6fcY",
             "title": "Sandra Bullock opens up about her experience as a mother of 2 Black children",
             "secondDuration": 569,
@@ -31,8 +25,14 @@
             "title": "High Speed Chase With Family Inside",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "XZgkkI5kSzU",
+            "title": "What's at Stake on Primary Day?",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

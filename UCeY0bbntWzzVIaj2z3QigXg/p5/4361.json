@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Yr_kdwca03g",
-            "title": "Trump impeached after historic vote | NBC News (Live Stream Recording)",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "wUHS-8CGrcE",
             "title": "Gov. DeSantis: ‘We Owe’ Florida Parents The Option To Send Children Back To School | NBC News NOW",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "‘Joker’ Movie Worries Families Of Mass Shooting Victims | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "649npNen6No",
+            "title": "W.H: 'Pre-Existing Conditions are Protected' in New Health Care Proposal | Meet The Press | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

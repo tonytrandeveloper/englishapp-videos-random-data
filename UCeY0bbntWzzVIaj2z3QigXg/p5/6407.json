@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Qq2ZqxHef9w",
-            "title": "This Record-Setting Suspension Bridge Is Not For The Faint-Hearted | NBC News",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tu5Wi2nOPKI",
             "title": "CDC Advisory Panel Votes On Who Should Get Covid Vaccine First | NBC Nightly News",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "North Korea Frees US Student Otto Warmbier | NBC Nightly News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "ulARU2uRBoo",
+            "title": "Utah Nurse Arrested For Refusing To Give Patient’s Blood To Police | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

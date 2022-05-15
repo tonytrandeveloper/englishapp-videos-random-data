@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TLlvX3K4oj8",
-            "title": "An exclusive look at the US withdrawal from Afghanistan",
-            "secondDuration": 510,
-            "group": "group_7"
-        },
-        {
             "videoId": "60tmSGxrV9o",
             "title": "Interview With Rep. Paul Ryan",
             "secondDuration": 567,
@@ -121,8 +115,14 @@
             "title": "Bill Cosby’s publicist 'very enthusiastic' about his appeal",
             "secondDuration": 346,
             "group": "group_7"
+        },
+        {
+            "videoId": "KFKpcyDKLX4",
+            "title": "Malala Yousafzai Returns to School",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

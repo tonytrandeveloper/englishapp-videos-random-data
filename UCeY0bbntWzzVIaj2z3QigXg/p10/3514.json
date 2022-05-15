@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vhU4Cp72Vg0",
-            "title": "Nightly News Full Broadcast - April 5",
-            "secondDuration": 1149,
-            "group": "group_7"
-        },
-        {
             "videoId": "gDj9Okw0i-0",
             "title": "Voters Respond To New Jersey Congressman’s Decision To Switch To Republican Party | NBC News NOW",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "Kate Snow: Why I Chose Cornell University | NBC News",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "bfWX0ARAqxA",
+            "title": "Dr. John Torres Explains His 'Guide To Surviving Everything' | NBC News NOW",
+            "secondDuration": 373,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

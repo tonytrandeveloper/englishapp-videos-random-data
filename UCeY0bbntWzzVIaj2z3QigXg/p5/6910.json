@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sbK5yX3mcqQ",
-            "title": "Meet the Press: Battleground Govs; Roundtable - October 28, 2012",
-            "secondDuration": 26,
-            "group": "group_7"
-        },
-        {
             "videoId": "iWc9EJ7mH2M",
             "title": "President Donald Trump On Obamacare: Republicans Close To Passing Replacement | NBC News",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "Does The Radical Left Pose A Violent Threat? | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wyn7NSJYoXQ",
+            "title": "Health Officials Warn Of Deadly Powassan Virus | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

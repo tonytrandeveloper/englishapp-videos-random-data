@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YpIJrZ_zk8s",
-            "title": "Watch LIVE: Impeachment Trial of President Donald Trump day 7 - ABC News Live Coverage",
-            "secondDuration": 7666,
-            "group": "group_7"
-        },
-        {
             "videoId": "IN2p7M0EBj0",
             "title": "Specter vs. Hatch: Health Care Debate",
             "secondDuration": 785,
@@ -31,8 +25,14 @@
             "title": "MIX: National Pizza With Everything (Except Anchovies) Day",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "oGMXln1ggrA",
+            "title": "Hurricane Matthew Hammers Florida",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

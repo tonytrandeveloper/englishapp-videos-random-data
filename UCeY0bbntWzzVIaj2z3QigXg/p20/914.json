@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NMeeqHYvQZk",
-            "title": "NBC News’ Lester Holt Goes Inside Lab Creating Potential Coronavirus Treatment | NBC Nightly News",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "dJYs_N_GaDo",
             "title": "Deadly Overnight Tornadoes Strike Several States",
             "secondDuration": 348,
@@ -121,8 +115,14 @@
             "title": "Record-Breaking, Dangerous Heat Blankets the Southwest US",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z3VAh6NEbqE",
+            "title": "Chris Paul: \"For student success, it takes...\"",
+            "secondDuration": 6,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

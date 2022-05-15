@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MZ0fzwt0f_c",
-            "title": "Central American drought creates climate change refugees",
-            "secondDuration": 460,
-            "group": "group_7"
-        },
-        {
             "videoId": "eIxRE_MwNrs",
             "title": "NYT reporter who broke Trump tax story details investigation",
             "secondDuration": 293,
@@ -121,8 +115,14 @@
             "title": "Jersey shore expects huge wind gusts from tropical storm Isaias l GMA",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "zuWV85jt8Wk",
+            "title": "Amplified: Superdrag",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

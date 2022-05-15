@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qn-VbZBTRcc",
-            "title": "GMA's 'Mad Men' Spoof",
-            "secondDuration": 23,
-            "group": "group_7"
-        },
-        {
             "videoId": "z5dasAkymXc",
             "title": "Philippines Sex Trafficking Raid",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Bill Cosby juror reveals what prevented guilty verdict",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "F8rqONyyoqw",
+            "title": "Special Needs Patients Forced to Spar",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vcH3XyobtBw",
-            "title": "Modern Polygamy: One Husband, Chosen by Multiple Wives",
-            "secondDuration": 632,
-            "group": "group_7"
-        },
-        {
             "videoId": "JL218EbDOXI",
             "title": "Democrats projected to win gubernatorial races",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "Inside the Fight to Drive ISIS from Iraq",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "opy5CP4qv2I",
+            "title": "FDA grants full approval to Pfizer COVID-19 vaccine",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

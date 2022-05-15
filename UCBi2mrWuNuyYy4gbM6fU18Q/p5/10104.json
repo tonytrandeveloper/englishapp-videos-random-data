@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PaSGpAPRW38",
-            "title": "Joe Biden takes narrow lead in Georgia",
-            "secondDuration": 260,
-            "group": "group_7"
-        },
-        {
             "videoId": "mPO7TY6Uwzo",
             "title": "Best of Jimmy Kimmel, David Letterman, Jimmy Fallon & More!",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Vampire Feeds on Donor's Blood",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "U1Vrbw9TJvA",
+            "title": "Attorney General William Barr clashes with lawmakers | WNT",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

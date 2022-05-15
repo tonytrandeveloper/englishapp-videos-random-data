@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6CTfS9uu7xo",
-            "title": "Explosion at Reno's Discovery Museum Injures 13",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "ChNGte7iDnA",
             "title": "NTSB searches for answers on Denver plane incident",
             "secondDuration": 208,
@@ -31,8 +25,14 @@
             "title": "Oscar nominations are out: Who's in and who's out",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "F_ozWybQtr8",
+            "title": "State of the Union 2016: Insulting Muslims 'Betrays Who We Are as a Country'",
+            "secondDuration": 625,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

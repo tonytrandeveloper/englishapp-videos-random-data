@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jngC30tXRps",
-            "title": "President Trump's valet tests positive for COVID-19 | WNT",
-            "secondDuration": 291,
-            "group": "group_7"
-        },
-        {
             "videoId": "DXLxgIWWYBI",
             "title": "NFL reaches deal to end use of 'race-norming' in concussion settlement program",
             "secondDuration": 503,
@@ -61,8 +55,14 @@
             "title": "Why Beautycon chose Cardi B to speak about financial literacy",
             "secondDuration": 513,
             "group": "group_7"
+        },
+        {
+            "videoId": "QP94ljijiqU",
+            "title": "NFL Players Union, Dallas Cowboys ask judge to dismiss the Ezekiel Elliot suspension",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

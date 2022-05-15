@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aaVLJbfpxF4",
-            "title": "Oscars 2017: Secrets about Hollywood's biggest night",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "qLa6C8hrmLc",
             "title": "Death toll rises in Bahamas amid Dorian destruction | ABC News",
             "secondDuration": 167,
@@ -121,8 +115,14 @@
             "title": "Downed power lines leave 2 people trapped in car",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "k_BhKmczYWg",
+            "title": "Amplified: Apex Manor 2/14/2011",
+            "secondDuration": 402,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WI13OT16Hdw",
-            "title": "Trump caught on tape pressuring Georgia official to find votes",
-            "secondDuration": 248,
-            "group": "group_7"
-        },
-        {
             "videoId": "D7Os2v6BTo0",
             "title": "Donald Trump Interview: Trump on Gas Prices",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "Briefing Room: Abortion rights fight, 2020 election latest, US Naval Academy monument climb",
             "secondDuration": 1722,
             "group": "group_7"
+        },
+        {
+            "videoId": "IjyE-WYZZsw",
+            "title": "Brian Kemp, Stacey Abrams make final push in tight Georgia governor's race",
+            "secondDuration": 496,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

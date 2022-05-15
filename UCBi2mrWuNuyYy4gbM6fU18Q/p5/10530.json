@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R7IYcPgfewc",
-            "title": "Trump says houses of worship to be declared 'essential'",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "WKVZbLKKWGM",
             "title": "Semi-truck plows into stopped traffic causing deadly highway pileup",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Safety of open-air events questioned after Vegas shooting",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "vbo_DMJFMb0",
+            "title": "Giuliani: No Successful Islamic Attacks Before Obama",
+            "secondDuration": 33,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

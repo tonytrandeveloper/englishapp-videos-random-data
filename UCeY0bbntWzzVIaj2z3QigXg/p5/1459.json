@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JsOqPS98sXA",
-            "title": "John Kasich On Foreign Policy, Supreme Court | Meet The Press | NBC News",
-            "secondDuration": 333,
-            "group": "group_7"
-        },
-        {
             "videoId": "aLThIZkFOyY",
             "title": "Government’s Free Covid Testing Site Launches One Day Early",
             "secondDuration": 167,
@@ -31,8 +25,14 @@
             "title": "Christmas Eve Mass In Bethlehem | NBC News",
             "secondDuration": 5810,
             "group": "group_7"
+        },
+        {
+            "videoId": "PFdHA-sSZ1o",
+            "title": "Top Story with Tom Llamas - March 11 | NBC News NOW",
+            "secondDuration": 2529,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

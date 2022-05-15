@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GoJuYXwZDL4",
-            "title": "Return To Broadway | NBC News NOW",
-            "secondDuration": 1551,
-            "group": "group_7"
-        },
-        {
             "videoId": "hUrEetCRMec",
             "title": "This 7-Year-Old Pianist Is Lifting Spirits One Note At A Time | Nightly News: Kids Edition",
             "secondDuration": 987,
@@ -61,8 +55,14 @@
             "title": "They Borrowed $40K To Pay For Their Children's College. 20 Years Of Payments Later, They Owe $100K",
             "secondDuration": 236,
             "group": "group_7"
+        },
+        {
+            "videoId": "ufBEe4jUBkI",
+            "title": "Harry Reid on Supreme Court Fight (Full Interview) | Meet The Press | NBC News",
+            "secondDuration": 405,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "L7sWfmR9EkY",
-            "title": "Disappearance of Miya Marcano: The Search For The Florida Teen Continues",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "XLsi4DzdaHY",
             "title": "The Pro-Trump Kids Of TikTok | NBC News",
             "secondDuration": 426,
@@ -121,8 +115,14 @@
             "title": "Video Shows Huge Capsized Cargo Ship | NBC News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "dmwuvUjyXfw",
+            "title": "Fact-Checking Day Two Of Trump's Second Impeachment Trial | NBC News NOW",
+            "secondDuration": 306,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

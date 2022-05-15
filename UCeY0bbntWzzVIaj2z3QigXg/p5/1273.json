@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zPdXJqOkNsM",
-            "title": "Watch Live: Trump meets with elected officials at Luke Air Force Base",
-            "secondDuration": 2785,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yu--IHEIaVM",
             "title": "Bernie Sanders To Women On 2016 Campaign Staff: 'I Apologize' | NBC News",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "Seven Words Banned At The CDC, With Apologies To George Carlin  | Meet The Press | NBC News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "fAVFtgG77cQ",
+            "title": "LIVE: White House Holds Press Briefing | NBC News",
+            "secondDuration": 3376,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

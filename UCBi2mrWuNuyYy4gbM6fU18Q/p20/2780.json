@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dHcyqV_LwrQ",
-            "title": "Officers engaged in firefight with accused shooter inside school: Police",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "HwtdLV1jscw",
             "title": "7 Killed, More Injured as Airshow Plane Crashes on UK Highway",
             "secondDuration": 112,
@@ -121,8 +115,14 @@
             "title": "Samsung Sends Fire-Resistant Packages to Turn In Note7s",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "K_UP2XlqdvY",
+            "title": "American Airlines jet makes emergency landing",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

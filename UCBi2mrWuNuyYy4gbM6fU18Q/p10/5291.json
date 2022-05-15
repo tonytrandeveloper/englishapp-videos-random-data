@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_ucT__BeG1E",
-            "title": "Decision expected on second COVID-19 boosters for older Americans",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "1ybDmIy5c1I",
             "title": "Paula Deen Racist Slur Comments: Chef Dropped From QVC",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Johnny Lewis Dead: 'Sons of Anarchy' Actor Suspected in Murder, Synthetic Drug Use",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "fAItPKtilMs",
+            "title": "California's High Court Upholds Prop 8",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HKy1psVl45U",
-            "title": "Bill Gates Tops Forbes 400 List for 21st Year in a Row With a Net Worth of $81 Billion",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "wM06kxPIXd4",
             "title": "Genius | Real Biz with Rebecca Jarvis",
             "secondDuration": 522,
@@ -31,8 +25,14 @@
             "title": "Watch Out, Your Laptop Could Burn You",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "vDbvFCPL01E",
+            "title": "Mali Hotel Attack: 170 Hostages Taken",
+            "secondDuration": 385,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

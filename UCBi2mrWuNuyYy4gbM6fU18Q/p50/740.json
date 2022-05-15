@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "UfsqbU1K8Ho",
-            "title": "ISIS leader vows to keep fighting in new video message",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "LpA52pIKMtc",
             "title": "Man Arrested for Allegedly Terrorizing His Neighbor for the Past 5 Years",
             "secondDuration": 120,
@@ -301,8 +295,14 @@
             "title": "Four Injured After Jet Blue Flight Makes Emergency Landing",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "v4yDb3avN4g",
+            "title": "Prince Charles officially opens new hospital to provide care for 4,000 COVID-19 patients | ABC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

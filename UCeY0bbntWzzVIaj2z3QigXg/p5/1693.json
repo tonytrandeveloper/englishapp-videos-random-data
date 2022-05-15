@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FgnBCZnR9hA",
-            "title": "Firefighter Befriends Boy He Saved After Texas Church Massacre | NBC Nightly News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "4ZvtMyeUhNc",
             "title": "'It Was An Attack!': Omar And Abrams Share Heated Exchange | NBC News",
             "secondDuration": 283,
@@ -31,8 +25,14 @@
             "title": "NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News (Live Stream Recording)",
             "secondDuration": 2941,
             "group": "group_7"
+        },
+        {
+            "videoId": "CD3LY1vVzdM",
+            "title": "President Donald Trump Answers Question Concerning Brett Kavanaugh Allegations | NBC News",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

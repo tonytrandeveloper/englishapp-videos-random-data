@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vIt1fzeBogE",
-            "title": "Scientists reverse brain damage in a toddler",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "6mnyfQ-oGPQ",
             "title": "Space Shuttle Atlantis Rockets Into History as NASA Ends U.S. Space Shuttle Program (07.08.11)",
             "secondDuration": 341,
@@ -61,8 +55,14 @@
             "title": "Unemployment Rates in Robin's Hometown",
             "secondDuration": 275,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q9U88SAclXg",
+            "title": "George W. Bush Says Wars Were 'Worth Fighting'; Discusses Working with Disabled Veterans",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

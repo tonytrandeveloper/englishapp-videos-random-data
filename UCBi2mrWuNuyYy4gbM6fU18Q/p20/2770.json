@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zGhr30n-OoU",
-            "title": "Trump to spend 3rd night at Walter Reed Medical Center",
-            "secondDuration": 540,
-            "group": "group_7"
-        },
-        {
             "videoId": "3fwXY8J3OgU",
             "title": "Trump Wins Iowa | 2016 Election Results",
             "secondDuration": 14,
@@ -121,8 +115,14 @@
             "title": "ABC News Prime: Stimulus deal deadline; El Paso crushed by COVID-19; Jeff Bridges’ lymphoma fight",
             "secondDuration": 3611,
             "group": "group_7"
+        },
+        {
+            "videoId": "ujZuIZ4zJIM",
+            "title": "September Jobs Report: Unemployment Falls to 7.8, 114,000 Jobs Added",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

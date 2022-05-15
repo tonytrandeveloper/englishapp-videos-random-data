@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "rtWihr1NflU",
-            "title": "Palestinians Clash With Israeli Police At Jerusalem Holy Site",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "-6QQOQ2zNwU",
             "title": "Army Helicopter Crash Debris And Human Remains Found | NBC Nightly News",
             "secondDuration": 161,
@@ -301,8 +295,14 @@
             "title": "House Passes Police Reform Bill Named After George Floyd | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yr_kdwca03g",
+            "title": "Trump impeached after historic vote | NBC News (Live Stream Recording)",
+            "secondDuration": 42901,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

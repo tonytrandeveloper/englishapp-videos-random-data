@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sKJTjoguYJE",
-            "title": "Virginia Pro-Gun Rally Draws Thousands Of Protesters | NBC Nightly News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "6UlDAuuXvMY",
             "title": "Don’t Blame Developers For The Housing Crisis, Blame The Homeowners | Think | NBC News",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "Tesla Driver Is First Person To Be Charged In A Fatal Crash Involving Autopilot",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "nrbmUOeMn-4",
+            "title": "Marco Rubio On 9/11: 'Don't Blame Bush' | Meet The Press | NBC News",
+            "secondDuration": 360,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

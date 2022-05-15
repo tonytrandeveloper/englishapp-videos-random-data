@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1HS6dOahr8M",
-            "title": "WHO Chief: ‘We Want Accountability More Than Anyone’ | NBC News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "BvLJKuUoYAo",
             "title": "Tom Brokaw Retires After Legendary NBC News Career | NBC News",
             "secondDuration": 166,
@@ -31,8 +25,14 @@
             "title": "Brennan: 'Absolutely Wrong' That CIA Asked for Hacked DNC Server",
             "secondDuration": 38,
             "group": "group_7"
+        },
+        {
+            "videoId": "TzzbvqK2mZY",
+            "title": "Biden Speaks Following Explosions Outside Kabul Airport | NBC News",
+            "secondDuration": 2103,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

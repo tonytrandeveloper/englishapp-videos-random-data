@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YnE9kKeOyTg",
-            "title": "Watch Joe Biden's Speech On Super Tuesday | NBC News",
-            "secondDuration": 835,
-            "group": "group_7"
-        },
-        {
             "videoId": "gKerq8Xc5yk",
             "title": "What Will Robert Mueller Tell Congress? His Past Testimonies May Give Clues | NBC News",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "Biden Grants Temporary Protected Status To Ukrainians Already in U.S.",
             "secondDuration": 295,
             "group": "group_7"
+        },
+        {
+            "videoId": "_-lnOQrf3V0",
+            "title": "Biden Delivers Remarks On Raising The Debt Ceiling | NBC News",
+            "secondDuration": 1045,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

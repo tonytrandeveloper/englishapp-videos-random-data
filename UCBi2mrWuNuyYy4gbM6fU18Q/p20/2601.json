@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HnEFiDC5PSg",
-            "title": "Kim has 'two paths in front of him ... we'll see which one they choose': O'Brien | ABC News",
-            "secondDuration": 676,
-            "group": "group_7"
-        },
-        {
             "videoId": "VPtDb7-9N9Q",
             "title": "3 Weirdest Wearable Gadgets at CES 2015",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "Webcast: Woman Knitts From Her Seat At Wimbledon",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "JJt2fAacKnw",
+            "title": "IYKYK: The great generational texting divide",
+            "secondDuration": 594,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CJ3rt5YoVXo",
-            "title": "Train derailment survivor describes being catapulted into seat in front of him",
-            "secondDuration": 302,
-            "group": "group_7"
-        },
-        {
             "videoId": "imbKe2nPENY",
             "title": "'Dancing With the Stars' Season 20 Finale Packed with Drama, Love",
             "secondDuration": 589,
@@ -61,8 +55,14 @@
             "title": "NYC subway shooting eyewitness on bloody aftermath",
             "secondDuration": 310,
             "group": "group_7"
+        },
+        {
+            "videoId": "exvXYb75sOw",
+            "title": "911 Call Before Josh Powell Blew Up House",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

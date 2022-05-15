@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PuyuEbZ99h8",
-            "title": "Biden gets 1st presidential daily briefing on national security | WNT",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "dNcZwbnHaPI",
             "title": "President Obama's Disappointing Approval Ratings",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "UK Prime Minister Theresa May resigns",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "RMOPjIrXpbs",
+            "title": "The Debrief: California wildfires, Trump in Paris, midterm recounts | ABC News",
+            "secondDuration": 1457,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

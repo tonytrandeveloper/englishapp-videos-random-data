@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nGpgPHazvNU",
-            "title": "Lt. Johnny Mercil testifies at Derek Chauvin's trial",
-            "secondDuration": 645,
-            "group": "group_7"
-        },
-        {
             "videoId": "smN2GzaBZrA",
             "title": "Eddie Murphy Returns to SNL",
             "secondDuration": 215,
@@ -121,8 +115,14 @@
             "title": "An urgent manhunt across state lines in the South",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "2EarGv-LLY8",
+            "title": "'Rust' production halted indefinitely after fatal shooting l GMA",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

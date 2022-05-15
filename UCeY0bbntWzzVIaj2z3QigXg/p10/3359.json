@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "O6Em6tY7iGI",
-            "title": "China Pushing Coronavirus Disinformation, U.S. Intelligence Officials Say | NBC Nightly News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "z--DoVo6hlw",
             "title": "Healthcare Workers Encourage Colleagues Treating COVID-19 | NBC News NOW",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "Latina ER Doctor Says Coronavirus Revealed Health Inequities | NBC News",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "EJHHudkrPfQ",
+            "title": "Roy Moore Is Invisible On His Own Campaign Trail | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bSNRPSCf40c",
-            "title": "Treasury Secretary Jack Lew 'This Week' Interview",
-            "secondDuration": 555,
-            "group": "group_7"
-        },
-        {
             "videoId": "hUsQinizQqI",
             "title": "COVID vaccine could bring relief for long-haulers",
             "secondDuration": 330,
@@ -121,8 +115,14 @@
             "title": "Biden makes historic Supreme Court nomination | WNT",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "00R_s3dStsk",
+            "title": "US joins search for soccer players trapped in cave",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

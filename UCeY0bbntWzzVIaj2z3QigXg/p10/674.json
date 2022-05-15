@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ISRjZ6Mj_Ak",
-            "title": "Mayor de Blasio Introduces ‘Simpler And Safer’ COVID-19 Self-Swab Testing | NBC News NOW",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "vloO0DzRHZQ",
             "title": "Melania Trump's Republican National Convention Speech (Full) | NBC News",
             "secondDuration": 883,
@@ -61,8 +55,14 @@
             "title": "Rosario Dawson References Monica Lewinsky In Bernie Sanders Warm-Up | NBC News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "53nfR_ScUKY",
+            "title": "PG&E Officially Declares Bankruptcy | NBC Nightly News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

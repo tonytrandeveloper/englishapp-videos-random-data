@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TOAQ2luxPWo",
-            "title": "M.J.'s Death: Family Fears Foul Play",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZecBKEprK5Y",
             "title": "Joe Paterno to Retire From Penn State",
             "secondDuration": 294,
@@ -121,8 +115,14 @@
             "title": "Steph Curry's Daughter, Riley, Appears on ‘Playhouse Masters’",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "cwGob1Vcx74",
+            "title": "Trump legal team begins impeachment defense",
+            "secondDuration": 1246,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ENtjZenln0g",
-            "title": "What Is Juneteenth? | NBC News Now",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "_YKDyf9p23Y",
             "title": "Drug-Resistant Superbugs Are ‘Fundamental Threat’ To Humans, WHO Says | NBC Nightly News",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Coming up on Meet the Press - ElBaradei on what comes next in Egypt",
             "secondDuration": 16,
             "group": "group_7"
+        },
+        {
+            "videoId": "oIYh_UBhp7A",
+            "title": "Samsung Issues Recall of Millions of Smartphones | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

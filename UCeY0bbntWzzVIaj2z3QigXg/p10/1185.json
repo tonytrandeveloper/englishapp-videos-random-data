@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vzwf1bTk8P0",
-            "title": "A Look Back On Who We Lost In 2019 | Meet The Press | NBC News",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "5OUKHRUuf3E",
             "title": "Hubble Space Telescope Captures 'Einstein Ring'",
             "secondDuration": 23,
@@ -61,8 +55,14 @@
             "title": "‘Entire Roof Is Collapsed In’: Witness Described Notre Dame Damage | NBC News",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "VNiUXkSlR0U",
+            "title": "Inaugural Poet Amanda Gorman Discusses Her Powerful Message | NBC Nightly News",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

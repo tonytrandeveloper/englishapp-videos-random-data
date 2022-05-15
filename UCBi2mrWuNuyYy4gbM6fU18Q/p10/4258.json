@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7ItTgd2oToM",
-            "title": "Tiger Cubs Being Raised By Unusual Mother",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jr88CPB9oYY",
             "title": "WEBCAST: Swimming With The Fish",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Amusement Park Ride Kills 4",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "bmu9E2MmpNw",
+            "title": "Fall Freeze: Frosty Temperatures Come Early",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

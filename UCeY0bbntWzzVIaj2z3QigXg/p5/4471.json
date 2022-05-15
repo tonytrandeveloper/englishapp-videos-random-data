@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FAytVABXdpQ",
-            "title": "Democrats Debate Next Steps In Impeachment Debate | Meet The Press | NBC News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "5m5TO-YTcow",
             "title": "De Blasio On NYC Entering Phase 2 Reopening: 'This Is Where Most Of Our Economy Is’ | NBC News NOW",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Melania Trump Condemns Capitol Riots, ‘Salacious Gossip’ About Her In Statement | NBC News NOW",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "F9tJ2_M-M28",
+            "title": "Some Teachers Leaving The Classroom For Good As Coronavirus Concerns Grow | NBC Nightly News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

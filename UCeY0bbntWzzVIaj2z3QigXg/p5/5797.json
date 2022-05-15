@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IZ3VIXyvRH4",
-            "title": "‘Shawshank Redemption’ Director Talks Film’s Enduring Appeal: Extended Interview | NBC Nightly News",
-            "secondDuration": 591,
-            "group": "group_7"
-        },
-        {
             "videoId": "9POqSlGXnAQ",
             "title": "Donald Trump Says Troops Will Use 'Lethal Force' At The Border 'If They Have To' | NBC Nightly News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Fuels Jeffrey Epstein Conspiracy Theories On Social Media | NBC Nightly News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "ovGJ18UB5pk",
+            "title": "VP Joe Biden Meets Turkish Prime Minister Amid Coup Attempt Dispute | NBC News",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

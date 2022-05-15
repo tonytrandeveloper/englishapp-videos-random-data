@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eYcEY59XBqc",
-            "title": "L.A. Mayor Garcetti: 'It's Time To Go Home' | NBC News",
-            "secondDuration": 412,
-            "group": "group_7"
-        },
-        {
             "videoId": "fifG4lgHVmY",
             "title": "Should Inmates Be Allowed To Vote Behind Bars? | NBC News Now",
             "secondDuration": 249,
@@ -61,8 +55,14 @@
             "title": "Search Teams Look For Missing People After Nearly 1,000 Homes Destroyed In CO Fires",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZLjiHY3qMZc",
+            "title": "Watch live: President Trump makes announcement on E.U. trade",
+            "secondDuration": 2751,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

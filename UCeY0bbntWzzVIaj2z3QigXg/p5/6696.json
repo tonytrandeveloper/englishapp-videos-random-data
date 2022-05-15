@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nJe-86ybdHE",
-            "title": "White House Press Briefing - February 12, 2018 (Full) | NBC News",
-            "secondDuration": 1121,
-            "group": "group_7"
-        },
-        {
             "videoId": "mxkD3Jxeqls",
             "title": "Poet Criticizes Donald Trump's Administration Through Spoken Word | NBC News",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "Biden Publicly Accuses Putin Of Committing ‘Genocide’ In Ukraine",
             "secondDuration": 366,
             "group": "group_7"
+        },
+        {
+            "videoId": "a2uP8XH6pxw",
+            "title": "Democrats Vote To Table Motion To Subpoena The Whistleblower | NBC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

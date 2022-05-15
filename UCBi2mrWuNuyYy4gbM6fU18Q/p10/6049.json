@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kkxR4Via6Fo",
-            "title": "US Launches Operation in Somalia to Target Al Qaeda",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "jDqK0lCcbS8",
             "title": "Newlywed Murder Trial: Prosecution Calls Jordan Graham's Maid of Honor to Stand",
             "secondDuration": 235,
@@ -61,8 +55,14 @@
             "title": "ABC News Live: California wildfires, East Coast flooding, Beijing embassy blast",
             "secondDuration": 1318,
             "group": "group_7"
+        },
+        {
+            "videoId": "y1LXqYv5qs8",
+            "title": "Ashley Greene Goes 'Rogue'",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

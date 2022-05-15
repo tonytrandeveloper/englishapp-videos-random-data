@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "K8YEDXrElr4",
-            "title": "Arizona GOP Recounts 2020 Ballots Behind Closed Doors | NBC News NOW",
-            "secondDuration": 288,
-            "group": "group_7"
-        },
-        {
             "videoId": "y_wxvcv63xo",
             "title": "New Orleans Removes 4 Confederate Monuments | NBC News",
             "secondDuration": 82,
@@ -121,8 +115,14 @@
             "title": "Thousands Of Android Apps Improperly Tracking Kids’ Data, New Study Shows | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "7OIJlqgUXoA",
+            "title": "Pope Francis Urges Catholics To ‘Tear Down Walls’ | NBC News",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

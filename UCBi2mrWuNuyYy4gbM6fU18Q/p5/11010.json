@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_t3bilY-O-k",
-            "title": "A Family Affair l 20/20 l PART 5 | ABC News",
-            "secondDuration": 532,
-            "group": "group_7"
-        },
-        {
             "videoId": "KaJD3EIXYdw",
             "title": "Bill Clinton DNC Speech COMPLETE: 'We're In This Together' vs. 'You're On Your Own'",
             "secondDuration": 2972,
@@ -31,8 +25,14 @@
             "title": "By the Numbers: Biden’s historic Cabinet picks",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "TS1ChOfWfRI",
+            "title": "Unemployment claims rise amid questions over benefits | WNT",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

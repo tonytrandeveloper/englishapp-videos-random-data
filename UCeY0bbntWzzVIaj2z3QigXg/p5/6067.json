@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qLM0b7iwe5k",
-            "title": "Survival Stories From Deadly Ferry Incident In Colombia | NBC Nightly News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "pAYh1EKPU54",
             "title": "Hot Car Death Dad Sentenced To Life Without Parole | NBC News",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Mayor de Blasio: 'We’re Going To Celebrate Our Nation's Birthday' | NBC News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "57SF3RqaeHY",
+            "title": "Donald Trump Defending Border Stance: ‘We Have Some Bad Hombres Here’ | NBC News",
+            "secondDuration": 35,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

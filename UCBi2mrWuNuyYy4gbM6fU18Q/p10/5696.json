@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6XvGaXGOWz8",
-            "title": "Best Moments of the First Presidential Debate",
-            "secondDuration": 387,
-            "group": "group_7"
-        },
-        {
             "videoId": "KkZGVGDNpio",
             "title": "Martin Luther King III: We Need More Love and Forgiveness",
             "secondDuration": 195,
@@ -61,8 +55,14 @@
             "title": "Mueller report -  AG Barr letter: No conclusion on justice obstruction | LIVE ABC News report",
             "secondDuration": 4999,
             "group": "group_7"
+        },
+        {
+            "videoId": "b5XiMiPZA4E",
+            "title": "‘A lot of joy’ in seeing vaccinated crowds: Former CDC director",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

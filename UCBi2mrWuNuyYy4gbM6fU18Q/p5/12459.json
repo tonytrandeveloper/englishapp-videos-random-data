@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XL99ing5nAI",
-            "title": "Ariana Grande concertgoers describe chaos after attack",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "TIEQgC4g6EE",
             "title": "Georgia secretary of state: 'These stolen election claims wreak havoc'",
             "secondDuration": 454,
@@ -31,8 +25,14 @@
             "title": "By the Numbers: The deadliest tornadoes in US history",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "PumC0G0aOqc",
+            "title": "Katie Couric Meets the Queen",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

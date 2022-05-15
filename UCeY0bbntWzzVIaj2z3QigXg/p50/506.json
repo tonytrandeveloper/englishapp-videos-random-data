@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "6kCibfG-hog",
-            "title": "Teens Charged With Murder After Man Killed By Falling Sandbag | NBC Nightly News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "3REUzaTCV_U",
             "title": "DACA Recipients Face Unknown Future | NBC News",
             "secondDuration": 83,
@@ -301,8 +295,14 @@
             "title": "Trump Defense Asks For Depositions To Be Done 'In My Office In Philadelphia' | NBC News",
             "secondDuration": 350,
             "group": "group_7"
+        },
+        {
+            "videoId": "7-WTLEMzbUw",
+            "title": "Live: George Floyd Death Protests Around The U.S. | NBC News",
+            "secondDuration": 30448,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

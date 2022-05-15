@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4fmvl7lB_ac",
-            "title": "Saudi Arabia Journalist Jamal Khashoggi Mystery Deepens | NBC Nightly News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "NbqkYDQR_U8",
             "title": "Omarosa's Exit Raises Questions About White House Diversity | NBC Nightly News",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Raging Fires Tell The Story Of Russia's Attack On Ukraine",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "vpnVOEfo1cQ",
+            "title": "Biden Announces Budget For Fiscal Year 2023  | NBC News",
+            "secondDuration": 1832,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

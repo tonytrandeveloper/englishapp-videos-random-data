@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6ke2leudWEo",
-            "title": "Key moments from day 1 of the Derek Chauvin trial",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "V9f6CQ1zP-0",
             "title": "The Senate and House vote to end government shutdown",
             "secondDuration": 358,
@@ -61,8 +55,14 @@
             "title": "College gymnast's perfect routine goes viral",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "L4Pfjn-L-Mg",
+            "title": "'DWTS' Season 22 Week 6 Recap",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

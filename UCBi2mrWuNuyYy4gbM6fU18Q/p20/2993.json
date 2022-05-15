@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vnJCDXvj_2w",
-            "title": "Coyotes Coming Out of the Wild and Into Neighborhoods",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mo0323K7tTM",
             "title": "LAPD Killing: Caught on Tape",
             "secondDuration": 145,
@@ -121,8 +115,14 @@
             "title": "Jimmy Kimmel Dons Colorful 'Loom' Suit",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "8prOFh4KyQU",
+            "title": "‘Unlikely COVID-19 is going to disappear’: Fauci",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

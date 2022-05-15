@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LOPI1yVo5i8",
-            "title": "Remembering David Bowie, From Ziggy Stardust to 'Lazarus'",
-            "secondDuration": 365,
-            "group": "group_7"
-        },
-        {
             "videoId": "OwDB7ZXRn00",
             "title": "London Terror Plot: Islamic Extremists Arrested",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "'Kate Plus 8': Will Anyone Watch?",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "cmCUY_e6YU4",
+            "title": "Powerful typhoon hits Philippines",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

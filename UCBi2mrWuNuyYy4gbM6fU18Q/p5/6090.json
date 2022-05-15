@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y3um1VuF7qA",
-            "title": "Space tourists safely return to Earth",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "EN_zBpp-Zvc",
             "title": "New numbers on price hikes expected l GMA",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Obama Responds to Alleged Russian Hacking",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "_LuA1FCjN9M",
+            "title": "Frustration grows with 90 million Americans holding out on vaccine",
+            "secondDuration": 345,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

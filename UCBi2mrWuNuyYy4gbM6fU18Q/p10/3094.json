@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-lXVoPE8ljg",
-            "title": "ABC News Live Update: Ruth Bader Ginsburg’s former clerk gives inside look at the cultural icon",
-            "secondDuration": 1101,
-            "group": "group_7"
-        },
-        {
             "videoId": "9BSpLodLn_4",
             "title": "White House press briefing with President Donald Trump's chief of staff Gen. John Kelly",
             "secondDuration": 2893,
@@ -61,8 +55,14 @@
             "title": "Holder: Terror Threat Is 'Real and Constant'",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "DGfv6D2R_xU",
+            "title": "Lupita Nyong'o steps forward with allegations of sexual harassment involving Harvey Weinstein",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

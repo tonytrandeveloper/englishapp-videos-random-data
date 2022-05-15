@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Cr2Z89HkxRs",
-            "title": "10% Happier with Dan Harris' and RuPaul",
-            "secondDuration": 2175,
-            "group": "group_7"
-        },
-        {
             "videoId": "oms7RVKaYzU",
             "title": "Sen. Pat Toomey thinks President Trump still has a chance to win the election",
             "secondDuration": 240,
@@ -121,8 +115,14 @@
             "title": "Joseph Mann Shooting Video Released by Sacramento Police",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "diOhfiUbOTE",
+            "title": "Trump demanded Mueller be fired, but backed off: Report",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

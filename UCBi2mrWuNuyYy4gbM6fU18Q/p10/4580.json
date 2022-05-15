@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4F8rWhTXgAg",
-            "title": "Private Contractor Rocket Explodes After Takeoff",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "xzVAiv1o5bc",
             "title": "Trump breaks his silence on John McCain",
             "secondDuration": 248,
@@ -61,8 +55,14 @@
             "title": "Soaring fuel prices already being felt by Americans",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "wdRE6OII-js",
+            "title": "Biden’s Supreme Court nominee would be first Black woman on the high court I ABCNL",
+            "secondDuration": 326,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

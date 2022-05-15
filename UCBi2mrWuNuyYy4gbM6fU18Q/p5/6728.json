@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "N7Jpq-BYlvQ",
-            "title": "George McGovern Dead: Former US Senator, 1972 Presidential Candidate Dies at Age 90",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "uobXYTe0YP4",
             "title": "President Trump refuses to concede",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "InSight mission landing on Mars | ABC News",
             "secondDuration": 2572,
             "group": "group_7"
+        },
+        {
+            "videoId": "pg_-JOqW4XM",
+            "title": "Guilty verdict in 1st Jan. 6 trial",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

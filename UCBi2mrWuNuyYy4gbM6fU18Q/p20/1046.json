@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-qb_MroP6z8",
-            "title": "Tony Award Winner | The Funny Side Of Murder",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "2-V6I5-EJkE",
             "title": "Warning: Zicam Blamed for Loss of Sense",
             "secondDuration": 128,
@@ -121,8 +115,14 @@
             "title": "Missing Alabama woman trapped in car for five days",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "mpB1VhSfWoE",
+            "title": "Oscar Pistorius Returns to Court for Reeva Steenkamp Murder Trial",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

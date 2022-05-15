@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VHqQfpUBauc",
-            "title": "EgyptAir Flight 804 Sent Data Suggesting Smoke, Fire Before Disappearance",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "kKaLu85TzRA",
             "title": "ABC News Live Update: CDC issues new quarantine rules for those fully vaccinated",
             "secondDuration": 630,
@@ -61,8 +55,14 @@
             "title": "CMA Awards 2016 HIGHLIGHTS | Beyonce Performs, Dolly Parton Honored",
             "secondDuration": 255,
             "group": "group_7"
+        },
+        {
+            "videoId": "kR8cC56cSoQ",
+            "title": "Supreme Court: President Trump not above the law",
+            "secondDuration": 317,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

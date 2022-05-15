@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C9z9qvUchcc",
-            "title": "WEBCAST: Fatal Colorado Fire!",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "wAbHPtNsQIY",
             "title": "The Debrief: California gunman at large, Rainforest fire, Taylor Swift mania | ABC News",
             "secondDuration": 1678,
@@ -31,8 +25,14 @@
             "title": "Senate Intelligence Committee releases final report on Russian interference in 2016 | WNT",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fv0rp2qTWdU",
+            "title": "MIX: Virtual Vacations",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5RrdfnKB4hM",
-            "title": "4 dead after Capitol stormed by rioters",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "x9_PxDkhyOg",
             "title": "ABC News Prime: KBJ public hearing wraps; Biden travels to Brussels; Remembering Madeleine Albright",
             "secondDuration": 5471,
@@ -61,8 +55,14 @@
             "title": "Biden delivers remarks in video played during funeral for George Floyd",
             "secondDuration": 317,
             "group": "group_7"
+        },
+        {
+            "videoId": "aw63zL3Ji8E",
+            "title": "Pat Summit Faces Personal Challenges Off-Court",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

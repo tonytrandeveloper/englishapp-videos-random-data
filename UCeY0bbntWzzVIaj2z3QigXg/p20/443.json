@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SKnBkvQcYGA",
-            "title": "Ivanka Trump Testifies Virtually Before Jan. 6 Committee",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "BOlznqUk85M",
             "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4646,
@@ -121,8 +115,14 @@
             "title": "Cruise Ships Are Back At Sea As Bookings Boom",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "_N3uuy3x4Zs",
+            "title": "Record-Setting Diamond Unearthed in Botswana",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

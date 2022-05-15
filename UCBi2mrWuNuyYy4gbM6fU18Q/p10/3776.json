@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "53ATAc1BOoc",
-            "title": "Guam residents react to North Korea missile threat",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "QDVckBlUDoY",
             "title": "Vice President Joe Biden Meets With Sen. Elizabeth Warren",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "Late-Night Hosts Recap the State of the Union Address",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "Pe9geSU68i0",
+            "title": "Team USA Olympians: Terror Won't Deter Us",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Rqx9uRUIQbw",
-            "title": "Opening Ceremony: London 2012 Olympics Begin",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "K4q95zt0Bl8",
             "title": "'Wheel of Fortune’ player loses big prize",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Did Policeman's Paternal Instinct Go to Far?",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "pkNCYtA7imk",
+            "title": "Health officials warn this is the worst year for ticks",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TsKUYzcPCFw",
-            "title": "High-stakes televised impeachment hearings set for next week",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "YyonTNn1FWk",
             "title": "New research shows Siri, Alexa vulnerable to hackers l ABC News",
             "secondDuration": 222,
@@ -31,8 +25,14 @@
             "title": "Mark Wahlberg Responds to Boston Marathon Explosions",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "espFmkk65v0",
+            "title": "Biden and Trump address national security threat of foreign influence during election",
+            "secondDuration": 1236,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

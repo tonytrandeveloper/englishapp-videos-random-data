@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DK2xBGi8Gqc",
-            "title": "Bay Area Wildfire Destroys More Than 8,000 Homes, At Least Five Dead | NBC News NOW",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "HCG64HVwMZA",
             "title": "Highlights: Top Health Officials Testify On Reopening Amid Pandemic | NBC News NOW",
             "secondDuration": 187,
@@ -121,8 +115,14 @@
             "title": "How Standing Desks Can Improve Your Memory | Better | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "77li4Xy8a_Q",
+            "title": "Watch Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3184,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

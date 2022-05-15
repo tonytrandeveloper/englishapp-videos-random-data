@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6ZT7bi8hIqI",
-            "title": "David Cameron Sings to Himself After Announcing Resignation",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "VFmqk8life0",
             "title": "Suspect Slashes Off-Duty NYPD Detective With Meat Cleaver",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "Jake Tapper on Obama's Speech to Wall Street",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "vZ6bixu3fIY",
+            "title": "Ted Cruz First GOP Candidate Set to Run in 2016 Presidential Race",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

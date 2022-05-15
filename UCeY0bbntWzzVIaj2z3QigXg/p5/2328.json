@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kej45oBMF7c",
-            "title": "Houston Hospital Reports First Case of Lambda Coronavirus Variant",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "bx4jC43qCOw",
             "title": "Mark Ruffalo’s ‘Toxic Tours’ Raise Awareness About L.A.’s Oil Drilling Sites | NBC Nightly News",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Gloria Steinem: ‘We Must Put Our Bodies Where Our Beliefs Are’ | NBC News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "uz6C57Sv2I0",
+            "title": "Covid-19 Cases On The Rise In At Least 38 States | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

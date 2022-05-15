@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EeIJC4lCGeo",
-            "title": "Rove vs. Plouffe (Part 2)",
-            "secondDuration": 448,
-            "group": "group_7"
-        },
-        {
             "videoId": "gcRu-4Nlvaw",
             "title": "Princeton University Fights Meningitis Outbreak",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Japanese robot peels bananas perfectly",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "-p-WyVx-o_c",
+            "title": "'More Than Human': Animal Portraits",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

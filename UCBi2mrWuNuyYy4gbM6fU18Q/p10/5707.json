@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NicMtHXauZM",
-            "title": "Concerns of the effects of coronavirus on young Americans heightens",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "X-56VOJnLPU",
             "title": "Bill Cosby Ordered to Stand Trial on Charges of Sexual Assault",
             "secondDuration": 166,
@@ -61,8 +55,14 @@
             "title": "The 'New' Justin Bieber?",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "N8dlDMEOckw",
+            "title": "Kentucky Sherriff Used Handcuffs on 'Misbehaving' 3rd-Grader",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

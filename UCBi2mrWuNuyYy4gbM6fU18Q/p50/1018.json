@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "djuMGskEwZw",
-            "title": "Kim Kardashian Releases First Photo of Saint West",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rq9P33gxuyg",
             "title": "Man Freed Decades Later, Still Denies Ariz. Double Murders",
             "secondDuration": 357,
@@ -301,8 +295,14 @@
             "title": "Women are running for office in Texas at record numbers",
             "secondDuration": 455,
             "group": "group_7"
+        },
+        {
+            "videoId": "sdtrMzm3URk",
+            "title": "John Rood resigns at Trump’s request",
+            "secondDuration": 47,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

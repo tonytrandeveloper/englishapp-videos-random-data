@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tCVy2iFRl7o",
-            "title": "Police trying to figure out what sparked deadly Seattle shooting spree",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vx390qHaJGs",
             "title": "Battle of the Bite: Tricks to Tackling Mosquito Season",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "Rescue efforts continue in Haiti",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "H0k4XpmgjlQ",
+            "title": "Prosecutor says officers were ‘justified’ in killing of Andrew Brown Jr.",
+            "secondDuration": 351,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

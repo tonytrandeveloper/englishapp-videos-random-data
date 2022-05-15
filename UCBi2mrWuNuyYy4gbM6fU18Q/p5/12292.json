@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5lH__6tZIPU",
-            "title": "Young girl attacked by shark in shallow water",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "kqwzoadQBXU",
             "title": "ABC News Live: Sec. Of State Blinken addresses UN Security Council",
             "secondDuration": 2333,
@@ -31,8 +25,14 @@
             "title": "Britney Spears, Kevin Bacon Apple Music Ad",
             "secondDuration": 234,
             "group": "group_7"
+        },
+        {
+            "videoId": "SUCXNooKQJo",
+            "title": "Wyoming projected to be won by Trump",
+            "secondDuration": 26,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

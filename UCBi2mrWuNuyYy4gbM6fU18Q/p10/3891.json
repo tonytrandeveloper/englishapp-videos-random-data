@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "39VStQjVv5s",
-            "title": "Former News Anchor Describes Gunfight With Alleged Robber",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "rRAvM93svQ8",
             "title": "Rick Santorum on the Payroll Tax Cut",
             "secondDuration": 61,
@@ -61,8 +55,14 @@
             "title": "Federal employees turn to food banks, retirement accounts",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "jPRGfAGqfmU",
+            "title": "N.D.'s Native Americans say new law blocks many of their population's right to vote",
+            "secondDuration": 484,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

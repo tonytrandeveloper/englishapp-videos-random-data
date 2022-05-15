@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "w_NQUZlhDw4",
-            "title": "Ben Stiller on Secret Cancer Battle",
-            "secondDuration": 409,
-            "group": "group_7"
-        },
-        {
             "videoId": "W_jDTl4ThzA",
             "title": "Everything we know about Rayshard Brooks’ killing in Atlanta | Nightline",
             "secondDuration": 540,
@@ -31,8 +25,14 @@
             "title": "'Karmin' Interview on 'GMA': Stars Nick Noonan and Amy Heidemann Discuss Covers, New Album",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "9oLaC1VYoTM",
+            "title": "NASA Mars Rover Landing: Curiosity Lands, Beams Back Pictures of Mars Surface",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zwDcR3dGgOY",
-            "title": "White House Holds Press Briefing: October 18 | NBC News",
-            "secondDuration": 2204,
-            "group": "group_7"
-        },
-        {
             "videoId": "E4rAbBaYdsc",
             "title": "Man Risks His Life To Save Yazidi Women From ISIS | NBC Nightly News",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Phoenix Serial Killer Now Linked to 9 Shootings, 7 Deaths | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "kJwmbsOuRsw",
+            "title": "FDA Advisory Committee Recommends Approval Of Pfizer Covid Vaccine | NBC News",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bylfiz4byps",
-            "title": "Rosetta Spacecraft To Land On Comet | NBC News",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "nMNEawGpwuI",
             "title": "U.S. Travel Restrictions To Go Into Effect As Omicron Variant Spreads",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "This Morning’s Top Headlines – September 1 | Morning News NOW",
             "secondDuration": 1184,
             "group": "group_7"
+        },
+        {
+            "videoId": "prcTBPF5b9Y",
+            "title": "Loughlin Reportedly Losing Netflix Show One Day After Being Dropped By Hallmark | NBC Nightly News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

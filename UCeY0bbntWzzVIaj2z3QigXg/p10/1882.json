@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x59CuRZa5IA",
-            "title": "Trump Rails Against Democrats At Louisiana Rally | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "KmRqBeC1uNI",
             "title": "‘Wonder Woman’ Sets Record, Shatters A Hollywood Glass Ceiling | NBC Nightly News",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Timelapse: Hawaii Lava Flow Scorches Earth | NBC News",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "WMYTaJBKUts",
+            "title": "MSU Athletic Director Resigns To Give Survivors And University A Chance 'To Heal' | NBC News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

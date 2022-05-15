@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "14xkvwQhhAo",
-            "title": "House To Hold Hearings On Bill Requiring Background Checks For Private Gun Sales | NBC Nightly News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "qb7I5iqVEKk",
             "title": "ICE Federal Agents Mistakenly Detains Innocent Man | NBC Latino | NBC News",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "Dissent In Hong Kong As Beijing Moves To Enact National Security Legislation | NBC News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "v_NwUVfflDU",
+            "title": "Inside the Favelas: A Look at Rio’s Most Impoverished Neighborhoods | NBC Nightly News",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

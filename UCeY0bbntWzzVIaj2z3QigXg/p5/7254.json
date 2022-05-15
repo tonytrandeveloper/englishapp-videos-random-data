@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yJm-uqbNUqQ",
-            "title": "‘I’m A Very Stable Genius,’ President Donald Trump Says As NATO Summit Ends | NBC News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "P27lr37kTfg",
             "title": "President Donald Trump Recognizes Jerusalem As Israel Capital, Delay Embassy Move | NBC Nightly News",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Meets With World Leaders At U.N. Assembly | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "zzCCQ633pkk",
+            "title": "Russia Preparing A 'False-Flag' Operation As Pretext for Ukraine Invasion, U.S. Intel Suggests",
+            "secondDuration": 341,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

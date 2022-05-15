@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "r7w3hENAnRs",
-            "title": "Trump Receives FEMA Briefing On Hurricane Laura | NBC News",
-            "secondDuration": 555,
-            "group": "group_7"
-        },
-        {
             "videoId": "lGalgUS1kC0",
             "title": "LIVE: Biden Delivers Remarks on U.S. Special Forces Raid That Killed ISIS Leader | NBC News",
             "secondDuration": 611,
@@ -31,8 +25,14 @@
             "title": "Massive Chemical Fire Could Burn For Two More Days, Officials Say | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "ck6ubRwBPd0",
+            "title": "Ex-Officer Involved In Police Raid That Killed Breonna Taylor Found Not Guilty",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

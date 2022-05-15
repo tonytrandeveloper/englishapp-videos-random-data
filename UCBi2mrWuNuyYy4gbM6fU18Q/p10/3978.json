@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x6E0gzPCRz0",
-            "title": "Deadly tornado outbreak hits Southeast l GMA",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "ESEo8fDCGv8",
             "title": "Mike Pence Takes Oath of Office | ABC News",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "The New Young Faces of the Anti-Abortion Movement",
             "secondDuration": 577,
             "group": "group_7"
+        },
+        {
+            "videoId": "XZSRJq9Fr-Q",
+            "title": "ABC News Prime: NATO, US tensions with Russia; Surging gun violence; Bitcoin mining sparks debate",
+            "secondDuration": 5280,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

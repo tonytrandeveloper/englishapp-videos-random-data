@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JU6cvnyUxE0",
-            "title": "Massive Explosions Claim Dozens of Lives in China | ABC News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "BYiKmd3ssKc",
             "title": "Jake Tapper on Obama's Big Speech",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Alla Verber: Leading Russia's Fashion Revolution",
             "secondDuration": 338,
             "group": "group_7"
+        },
+        {
+            "videoId": "OhVW5iafNHw",
+            "title": "8 Children Die From Heat in One Week",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

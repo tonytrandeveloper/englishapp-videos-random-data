@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YiEWqRmBSb8",
-            "title": "Mom Catches Son Trying to Riot in Baltimore",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "tP_dnyfATFw",
             "title": "Massive Flash Flood Watch Across the Midwest",
             "secondDuration": 205,
@@ -61,8 +55,14 @@
             "title": "Violence erupts in 3 major cities",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "70nFp_ZX_Eg",
+            "title": "Will Michele Bachmann Do Well in New Hampshire?",
+            "secondDuration": 265,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

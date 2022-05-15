@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "H8wxl-pNVuc",
-            "title": "Rick Santorum Sweeps 3 States",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "SIyZXPmngE0",
             "title": "Sandy Hook families reach historic settlement with Remington",
             "secondDuration": 271,
@@ -61,8 +55,14 @@
             "title": "Lifeguards use jet ski to save dog",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "HhTEWrHS3Qc",
+            "title": "Static Surrounds TV's New Digital Age",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "gd9XXYQYQiM",
-            "title": "Watch: Art Installation Of Ivanka Trump Vacuuming | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "7Hwkle4YPRI",
             "title": "California Gov. Newsom Gives Coronavirus Updates | NBC News (Live Stream Recording)",
             "secondDuration": 2836,
@@ -301,8 +295,14 @@
             "title": "President Obama Marks 15th Anniversary of 9/11 | NBC News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "8FukmujpQ1w",
+            "title": "House GOP Leaders Hold Press Conference | NBC News",
+            "secondDuration": 2054,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

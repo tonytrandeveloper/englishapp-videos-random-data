@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MvrpuwaFPTI",
-            "title": "Police discover 11 kids living in New Mexico compound",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "KAPpQA9SCwc",
             "title": "Navajo nation in crisis",
             "secondDuration": 519,
@@ -121,8 +115,14 @@
             "title": "Activist draws attention to looted African art through unconventional method",
             "secondDuration": 350,
             "group": "group_7"
+        },
+        {
+            "videoId": "Us_Ds3b1rOg",
+            "title": "CDC: Half of US adults are fully vaccinated against COVID-19 | ABC News",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

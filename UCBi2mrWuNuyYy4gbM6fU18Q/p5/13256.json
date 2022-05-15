@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1Fwm_iaqoTs",
-            "title": "WEBCAST: Heroic Parrot Saves Family From Burning Home",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "dD2ugk_-93Q",
             "title": "NASA Wants Meteor Warning System",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Buffet on Banks Survival",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "7fk90ppNA3g",
+            "title": "Tropical Storm Humberto strengthens overnight off Bahamian coast l ABC News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

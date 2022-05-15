@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EvkfxOIAK-o",
-            "title": "UVA Lacrosse Player's Troubled Past",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "3evJ6ulJdoY",
             "title": "'Super Dad' Photo Goes Viral",
             "secondDuration": 269,
@@ -31,8 +25,14 @@
             "title": "Calls for Miya Ponsetto’s arrest",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "haf8TnoqDxI",
+            "title": "Edward Snowden Tries to Make Deal With Russia",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

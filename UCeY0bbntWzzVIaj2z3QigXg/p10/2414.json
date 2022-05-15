@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MPhOfCXfDok",
-            "title": "Silent Killer: The Rising Toll Of Carbon Monoxide In Public Housing | NBC News",
-            "secondDuration": 556,
-            "group": "group_7"
-        },
-        {
             "videoId": "tLOOtf29FqA",
             "title": "World Health Organization Provides Update On Coronavirus | NBC News (Live Stream Recording)",
             "secondDuration": 2079,
@@ -61,8 +55,14 @@
             "title": "New Video Shows Suspected Bomber Moments Before Sri Lanka Attacks | NBC Nightly News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "nJqttjXTjTs",
+            "title": "Uber's Scandal-Plagued 2017 Explained From Sexual Harassment To Travel Ban | NBC News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

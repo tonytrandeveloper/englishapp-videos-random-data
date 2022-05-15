@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "gx-hgShRVL8",
-            "title": "California’s Bobcat fire explodes in size",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "w-JQdZM-ENc",
             "title": "New details on the death of a family from Iowa vacationing in Mexico",
             "secondDuration": 111,
@@ -301,8 +295,14 @@
             "title": "Have Fun With These Summertime Treats",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "2CQLBd5nIqA",
+            "title": "Mike Pence elaborates on Trump's joint address",
+            "secondDuration": 291,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

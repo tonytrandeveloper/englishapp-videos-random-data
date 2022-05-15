@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-iSOYzfoMeM",
-            "title": "Into the Future of DREAMers| Into America Podcast – Ep. 29 | NBC News and MSNBC",
-            "secondDuration": 1381,
-            "group": "group_7"
-        },
-        {
             "videoId": "O71d5Vwnukk",
             "title": "Missing California Camper Found Alive After Being Lost Since Friday | NBC Nightly News",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "U.S. Military Faces Danger As Congress Fails To Provide Immediate Funding | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "b2vOg37I3tI",
+            "title": "Warriors First: How Veterans Help Each Other Cope With Returning To Civilian Life | NBC News",
+            "secondDuration": 646,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

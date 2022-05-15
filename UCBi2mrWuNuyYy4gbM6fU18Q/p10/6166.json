@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vC5TaPzuMKg",
-            "title": "Jonah Mowry Interview: Explains 'Whats Goin On' Video - 'You Can Be Happy'",
-            "secondDuration": 309,
-            "group": "group_7"
-        },
-        {
             "videoId": "SOWqRBhxXiA",
             "title": "John Edwards Found Not Guilty",
             "secondDuration": 368,
@@ -61,8 +55,14 @@
             "title": "ABC News' Dr. Jennifer Ashton visits CDC's Emergency Operations Center",
             "secondDuration": 321,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fd_D8U4Syn0",
+            "title": "Dad survives son's murder plot that killed mom and brother: 20/20 Part 2",
+            "secondDuration": 451,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

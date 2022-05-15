@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CnNTjTmyOjM",
-            "title": "Hillary Clinton In A Minute",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "OywDNNDJT-g",
             "title": "Robin Roberts on MDS Battle",
             "secondDuration": 309,
@@ -61,8 +55,14 @@
             "title": "Neutrogena recalls popular acne mask",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "-41StQ679WA",
+            "title": "Trump and senate Republicans predict tax bill will pass",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

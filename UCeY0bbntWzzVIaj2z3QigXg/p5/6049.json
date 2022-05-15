@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fJ4ojpj_-EU",
-            "title": "President Donald Trump Blames Democrats For Health Bill Defeat | NBC News",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "39hVUdBllM8",
             "title": "Snowboarder Is Rescued Alive After Avalanche In California | NBC Nightly News",
             "secondDuration": 76,
@@ -31,8 +25,14 @@
             "title": "Bloomberg Preparing To Enter 2020 Presidential Race | NBC Nightly News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "wKvbrXzlakc",
+            "title": "Robert Mueller Recommends Little To No Prison Time For Michael Flynn | NBC Nightly News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

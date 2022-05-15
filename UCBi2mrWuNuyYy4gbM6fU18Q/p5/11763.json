@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cClCDXkBpBk",
-            "title": "Citizen journalism on the frontlines",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "mMNqYLyQqEg",
             "title": "Runaway Train on Boston's Red Line",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "NASA Tests LDSD 'Flying Saucer'",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "0d2Pn4dM1Tc",
+            "title": "Trump holds bilateral meeting with president of Ukraine | ABC News",
+            "secondDuration": 2492,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

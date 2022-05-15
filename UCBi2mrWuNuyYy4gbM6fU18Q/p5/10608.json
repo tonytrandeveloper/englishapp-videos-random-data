@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qbJw-CiWnZ4",
-            "title": "Meteor Shower 2012: Halley's Comet Brings Meteor Shower Over California Skies",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kfh19_P0B1o",
             "title": "FBI begins urgent search for information on Capitol rioters l GMA",
             "secondDuration": 270,
@@ -31,8 +25,14 @@
             "title": "Angelina Jolie on her new film 'The One and Only Ivan'",
             "secondDuration": 225,
             "group": "group_7"
+        },
+        {
+            "videoId": "deJHDQOR7Kk",
+            "title": "White House On the Defensive",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

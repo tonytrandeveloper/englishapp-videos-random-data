@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PbBRM6wDvHI",
-            "title": "Pope Francis Appears In Public For First Time Since Major Surgery",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "c9Dcb_PrZSE",
             "title": "Trump’s National Emergency Unites GOP, Amazon Exit Divides Dems | Meet The Press| NBC News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Special Report: At Least 18 Dead In El Paso Shooting | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "pxsqaYWQWnw",
+            "title": "Taylor And Kent Are Questioned On Hunter Biden's Qualifications | NBC News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

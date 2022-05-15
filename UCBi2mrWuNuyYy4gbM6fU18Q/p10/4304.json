@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SX30N0wdqcQ",
-            "title": "Why Bette Midler says she returned to 'Hello, Dolly!'",
-            "secondDuration": 415,
-            "group": "group_7"
-        },
-        {
             "videoId": "iS4IRA3UtYE",
             "title": "Fans flock to Detroit to pay final respects to Aretha Franklin",
             "secondDuration": 176,
@@ -61,8 +55,14 @@
             "title": "Ohio State VS. Oregon: First-Ever College Football Championship",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "a37dnFtnSqM",
+            "title": "The Conversation: World Cup, Digital Edition",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

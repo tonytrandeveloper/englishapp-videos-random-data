@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "b4pUdUDFiGM",
-            "title": "Deadly tornado outbreak as powerful storms strike millions",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "RpttHI_nbqg",
             "title": "Terror on the Tracks",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "What happened when former federal officials sounded the alarm on COVID-19: Nightline",
             "secondDuration": 634,
             "group": "group_7"
+        },
+        {
+            "videoId": "c26d1sFhsFM",
+            "title": "Rep. Matt Gaetz requested pardon",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

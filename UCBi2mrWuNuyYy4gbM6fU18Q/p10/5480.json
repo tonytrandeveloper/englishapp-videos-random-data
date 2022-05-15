@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "F-SoH_8WFFo",
-            "title": "'Making a Murderer' Subject Steven Avery Speaks Out From Prison",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "HsJrDWlegkk",
             "title": "Iran launches more than a dozen missiles at US military, coalition forces in Iraq | Nightline",
             "secondDuration": 618,
@@ -61,8 +55,14 @@
             "title": "Rolling Stones drummer Charlie Watts remembered",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "glpd5uzd624",
+            "title": "Micah Xavier Johnson Identified as Dallas Gunman",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

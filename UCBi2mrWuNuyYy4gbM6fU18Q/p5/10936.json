@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Qp9xSkOePC0",
-            "title": "Connecticut Shooting Tragedy:  The Victims",
-            "secondDuration": 262,
-            "group": "group_7"
-        },
-        {
             "videoId": "3TYaLnzpLq8",
             "title": "Colleges pledging to wipe out student debts spark a larger debate in Washington",
             "secondDuration": 698,
@@ -31,8 +25,14 @@
             "title": "Activists say new election laws make it harder for people to vote",
             "secondDuration": 308,
             "group": "group_7"
+        },
+        {
+            "videoId": "PaENnyBMTe0",
+            "title": "Negotiations slow as government shutdown looms",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qH8o9YVvvAU",
-            "title": "Fitness Guru, C.J. Senter, 10, Has Six-Pack: Too Fit, Too Soon? | Nightline | ABC News",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "LmnTVN19oGM",
             "title": "Takata recalls 2.7 million vehicles because of safety risk",
             "secondDuration": 61,
@@ -121,8 +115,14 @@
             "title": "Police search for killer suspected of targeting homeless people l WNT",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "s_8xyDpuRFk",
+            "title": "Santa Cycles for Kids",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

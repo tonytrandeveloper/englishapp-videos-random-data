@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xtkdzonBOtQ",
-            "title": "New England Patriots Victory Parade for Super Bowl 51 | ABC News",
-            "secondDuration": 5586,
-            "group": "group_7"
-        },
-        {
             "videoId": "7GU5VG014qw",
             "title": "Webcast: Payroll Tax Fight; Christmas Nor'easter",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Saving a global symbol of love: The Taj Mahal",
             "secondDuration": 269,
             "group": "group_7"
+        },
+        {
+            "videoId": "1O81mVy7SqE",
+            "title": "EgyptAir Transmitter Message Suggests Fire, Smoke Near Cockpit",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

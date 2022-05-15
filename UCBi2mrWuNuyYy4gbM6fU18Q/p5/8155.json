@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l9sOfW92unc",
-            "title": "In Case You Missed It: 9/13/2013",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "oQwEydUvBSo",
             "title": "Arrests made in suspected terror plot in Australia",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "Toddler slips between bars at Florida zoo",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "uDmSZX_zVuQ",
+            "title": "Hasan Minhaj full White House Correspondents Dinner speech",
+            "secondDuration": 1527,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

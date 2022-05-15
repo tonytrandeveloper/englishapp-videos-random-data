@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E0L0G3eh1DU",
-            "title": "Twin Babies Born on Utah Highway",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "XNKdZATBIbo",
             "title": "'Briefing Room': Kavanaugh allegations, Hurricane Florence latest, 50 days to midterms | ABC News",
             "secondDuration": 864,
@@ -61,8 +55,14 @@
             "title": "'Clearly there was a breakdown in process': Chris Christie on Porter's access to classified info",
             "secondDuration": 460,
             "group": "group_7"
+        },
+        {
+            "videoId": "XTd0GIuE_7I",
+            "title": "Nurse Falls in Love, Adopts Girl in Her Care",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

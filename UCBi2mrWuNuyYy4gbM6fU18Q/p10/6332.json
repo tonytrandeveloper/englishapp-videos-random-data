@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NvRaBCgA4wI",
-            "title": "The AK47 Bandit Strikes Again",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nu2Z98jYA1k",
             "title": "Judge Ketanji Brown Jackson eyed as possible Biden pick for Supreme Court",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "'This Week': Sneak Peak at Exclusive Hillary Clinton Interview",
             "secondDuration": 329,
             "group": "group_7"
+        },
+        {
+            "videoId": "8f8mA8rfVnQ",
+            "title": "Tyler Perry Plays New Role in Action Thriller 'Alex Cross'",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

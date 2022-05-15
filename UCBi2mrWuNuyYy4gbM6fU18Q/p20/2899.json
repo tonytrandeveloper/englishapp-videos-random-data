@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TME9NoTIA3Q",
-            "title": "Bachelorette Season 12 Episode 8 Recap | ABC News",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "8699fsiJco8",
             "title": "Rare severe weather threat in South",
             "secondDuration": 254,
@@ -121,8 +115,14 @@
             "title": "Marc Anthony: J. Lo Split, Affair Rumors",
             "secondDuration": 488,
             "group": "group_7"
+        },
+        {
+            "videoId": "s_5fpy_disY",
+            "title": "President Obama Responds to Muslim Family Murder",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

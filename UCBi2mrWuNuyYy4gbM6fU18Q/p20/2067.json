@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "g0CNpZavml8",
-            "title": "Epic Beatbox Battle Goes Viral",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "q5QIKP6meyU",
             "title": "Gov: Specter 'Lightning Rod' for Anti-incumbency",
             "secondDuration": 594,
@@ -121,8 +115,14 @@
             "title": "Bronx Zoo Tiger Attack; Powerful Animal Mauls Young Man",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "cXGBgiWCqZc",
+            "title": "Senate votes 53-47 to confirm Ketanji Brown Jackson",
+            "secondDuration": 502,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

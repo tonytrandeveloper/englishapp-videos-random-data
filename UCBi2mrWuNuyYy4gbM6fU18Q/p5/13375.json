@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FX9NEe8io5I",
-            "title": "Police Dashcam Captures Texas Woman Being Shot by Officer",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "aAHoECdlQHQ",
             "title": "Investigation update on ‘Rust’ set shooting",
             "secondDuration": 1396,
@@ -31,8 +25,14 @@
             "title": "Tori Kelly - Fill a Heart - \"Homemade Songs\" Artist Performs New Song on Child Hunger on 'GMA'",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "3ieDTOGa664",
+            "title": "Sen. Al Franken accuser speaks out about groping allegation",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

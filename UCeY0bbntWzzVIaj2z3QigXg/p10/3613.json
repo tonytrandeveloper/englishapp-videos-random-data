@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rzFAyn491SM",
-            "title": "Meghan Markle Attends First Joint Royal Visit With The Queen | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "fgriRru_1L4",
             "title": "Wray: China's 'Economic Espionage' Poses 'Greatest Long-Term Threat' To U.S. Economy | NBC News NOW",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Jussie Smollett Indicted By Special Prosecutor In Chicago | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "TTC2i8X2ftA",
+            "title": "Full Fauci Interview: 'We Really Need To Be Prepared' For Omicron Covid Transmission",
+            "secondDuration": 767,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

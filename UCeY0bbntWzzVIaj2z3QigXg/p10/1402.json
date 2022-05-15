@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2ZZjwGGny0Y",
-            "title": "Watch Live: Trump holds campaign rally in Pensacola, Florida",
-            "secondDuration": 5160,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZT2-J3GMvK4",
             "title": "Morning News NOW Full Broadcast - May 21 | NBC News NOW",
             "secondDuration": 2912,
@@ -61,8 +55,14 @@
             "title": "Does The End Of ‘GOT’ Mean Subscriber Churn? | NBC News NOW",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "ahvnz2ijhgs",
+            "title": "From DJ To Artist: Alex Sensation On the Reggaeton Movement, First Album | NBC News",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

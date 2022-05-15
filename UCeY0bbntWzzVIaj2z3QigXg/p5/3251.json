@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6FNFYU_aqwc",
-            "title": "La Machine: Organization Canvasses For Potential Voters | NBC News",
-            "secondDuration": 312,
-            "group": "group_7"
-        },
-        {
             "videoId": "hEIwzrHybjI",
             "title": "Inside Nashville’s Iconic Ryman Auditorium",
             "secondDuration": 169,
@@ -31,8 +25,14 @@
             "title": "Texas High School Band Spreads Holiday Cheer After Tragic Accident",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "og7PHR1Adz8",
+            "title": "Live: Michigan Gov. Gretchen Whitmer Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 1905,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

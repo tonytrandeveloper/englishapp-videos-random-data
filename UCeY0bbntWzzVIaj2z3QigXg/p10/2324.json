@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rcLCFSfMRq0",
-            "title": "Kentucky Derby Winner Medina Spirit Fails Second Drug Test",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "lZwqvvWVQCI",
             "title": "Liz Cheney: Voting To Impeach Trump Will 'Permanently Damage Our Republic' | NBC News",
             "secondDuration": 203,
@@ -61,8 +55,14 @@
             "title": "At Least 22 Killed In Manchester Arena Explosion | NBC News",
             "secondDuration": 331,
             "group": "group_7"
+        },
+        {
+            "videoId": "bXHml3VLNis",
+            "title": "Jeff Bezos Makes History With All-Civilian Spaceflight",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

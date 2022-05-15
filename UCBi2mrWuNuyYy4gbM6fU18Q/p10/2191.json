@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5e4RrfK49fY",
-            "title": "Southern California fire prompts mandatory evacuations",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "KGgSNmRgonI",
             "title": "Washington D.C. man wins groundbreaking election from behind bars | Nightline",
             "secondDuration": 353,
@@ -61,8 +55,14 @@
             "title": "Sens. Cornyn and Menendez on Midterm Elections",
             "secondDuration": 727,
             "group": "group_7"
+        },
+        {
+            "videoId": "IYByODlY74s",
+            "title": "Coronavirus, California fire and protest: World in Photos, Aug. 24",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

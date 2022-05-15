@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rUnBhMdcWsw",
-            "title": "UCLA Shooting | Professor Targeted During Alleged Murder-Suicide",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "oDKEinhllpw",
             "title": "WEBCAST: Five Baby Cheetahs",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Dangerous storms on the move l GMA",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "hv7oqTAbNME",
+            "title": "Michelle Obama: Most Memorable Moments as First Lady",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

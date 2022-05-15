@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uirah9JRweI",
-            "title": "UPS Cargo Jet Crashes Near Birmingham International Airport",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "4m-s4XUVljc",
             "title": "Trump launches political attacks in El Paso, Dayton visits l ABCNews",
             "secondDuration": 200,
@@ -121,8 +115,14 @@
             "title": "Articles of impeachment under debate, New Jersey shooting a hate crime, UK election | ABC News",
             "secondDuration": 1354,
             "group": "group_7"
+        },
+        {
+            "videoId": "2KN_9CEVHSc",
+            "title": "Donald Trump Addresses GOP Debate Strategies and His Competitors",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

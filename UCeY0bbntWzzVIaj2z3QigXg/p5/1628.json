@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AxBkJfFwrDI",
-            "title": "Coronavirus: Nationwide Protests Over Stay-In-Place Orders | NBC Nightly News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "BzGuQCcqiOA",
             "title": "Our Fascination With Fireworks Is Hard Wired Into Our Brains | Mach | NBC News",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "Homeland Security Sec. Kirstjen Nielsen Leaving Post | NBC Nightly News",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "F8e5kXkmtJE",
+            "title": "Federal Prison Workers Warn Of Dangerous Staffing Crisis",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

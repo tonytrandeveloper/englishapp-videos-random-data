@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L3YYIOCY5j4",
-            "title": "Troops Come Home, Gadhafi's Last Fight",
-            "secondDuration": 380,
-            "group": "group_7"
-        },
-        {
             "videoId": "HpEtSQU-qu4",
             "title": "Opening statements in first public impeachment hearing | ABC News",
             "secondDuration": 1397,
@@ -61,8 +55,14 @@
             "title": "Third American Airlines Flight Forced to Land Over Unbolted Seats",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "3ZGMzeWQRjY",
+            "title": "3 Kids Blown Away When Bounce House Becomes Unmoored",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

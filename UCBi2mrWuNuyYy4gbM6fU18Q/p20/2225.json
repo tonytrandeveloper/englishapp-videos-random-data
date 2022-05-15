@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FJRLJzyF9pE",
-            "title": "‘Winter warriors’ prepare for wars of the future with elite training in Vermont",
-            "secondDuration": 423,
-            "group": "group_7"
-        },
-        {
             "videoId": "FGVhuTp5ymM",
             "title": "New Poll Indicates Uphill Battle for Donald Trump",
             "secondDuration": 124,
@@ -121,8 +115,14 @@
             "title": "The Epic Journey of NFL's Michael Oher",
             "secondDuration": 459,
             "group": "group_7"
+        },
+        {
+            "videoId": "lzXsuPEZuvc",
+            "title": "Can Afghan Army Fight Taliban Alone?",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

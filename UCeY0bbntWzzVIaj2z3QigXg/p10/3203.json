@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pMBSEuPHfXk",
-            "title": "D.C. Police Department Faces Lawsuit From 10 Black Female Officers",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "BsE25zTUEZM",
             "title": "Helicopter In Kobe Bryant Crash Lacked Instrument Flight Certification | NBC Nightly News",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "DEA Seized 15,000 Pounds Of Fentanyl This Year",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qq2ZqxHef9w",
+            "title": "This Record-Setting Suspension Bridge Is Not For The Faint-Hearted | NBC News",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

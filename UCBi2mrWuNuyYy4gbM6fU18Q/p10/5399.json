@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "btjWVmdY198",
-            "title": "Washington Post's Perry Bacon Jr., on 'Top Line'",
-            "secondDuration": 563,
-            "group": "group_7"
-        },
-        {
             "videoId": "EGgajyMsHhc",
             "title": "Alabama's Woman's Mysterious Death Raises Suspicions",
             "secondDuration": 611,
@@ -61,8 +55,14 @@
             "title": "President Admits 'We Don't Have a Strategy Yet' on ISIS",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "Oyuo7fSswNU",
+            "title": "Road rage manhunt underway across three states",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

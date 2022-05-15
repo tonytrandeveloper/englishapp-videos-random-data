@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cI3oViGiTWU",
-            "title": "East Village Explosion: Two Bodies Recovered",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "FXWvo9_52Ik",
             "title": "Superstorm Sandy: Status of Returning Electricity, Gas Shortages",
             "secondDuration": 237,
@@ -31,8 +25,14 @@
             "title": "Flight for one?",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "wrvKcvk5oJc",
+            "title": "Victims of the Pensacola terror attack remembered by loved ones | Nightline",
+            "secondDuration": 621,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PJ8v1WngFS8",
-            "title": "Raven Abaroa suspected of killing his wife in 2005 [Nightline]",
-            "secondDuration": 605,
-            "group": "group_7"
-        },
-        {
             "videoId": "O-kHkhTe8Pw",
             "title": "Russia unleashes brutal military assault on Ukraine | WNT",
             "secondDuration": 773,
@@ -61,8 +55,14 @@
             "title": "Trump New York Times Interview: What Does it Tell Us?",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "Txm_nHbi4IQ",
+            "title": "Crimea Residents Vote on Whether to Leave Ukraine and Join Russia",
+            "secondDuration": 204,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

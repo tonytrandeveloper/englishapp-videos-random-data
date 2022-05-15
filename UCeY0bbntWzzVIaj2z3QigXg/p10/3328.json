@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4emQLz_5uW0",
-            "title": "Satoshi Nakamoto No More: Bitcoin Founder Revealed | 101 | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "3QM7wLZJYiE",
             "title": "No Answers In Death Of Border Patrol Agent | NBC Nightly News",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "Coronavirus: Colleges Cancel Study Abroad Programs As Outbreak Spreads | NBC News NOW",
             "secondDuration": 1350,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ec9LxDbpq9E",
+            "title": "Jon Ossoff: This Is A 'Victory For The Ages' In Georgia Special Election | NBC News",
+            "secondDuration": 266,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

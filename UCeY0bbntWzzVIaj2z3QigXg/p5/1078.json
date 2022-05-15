@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4U0bcsGZSc0",
-            "title": "U.S. Nonprofit Helping Evacuate Americans From Ukraine",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "4Dsy8QRK2nY",
             "title": "Lin-Manuel Miranda’s Music Gives A Voice To Puerto Rico | NBC Nightly News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Flu Concerns Among Super Bowl Crowds | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "fq2hedfn69s",
+            "title": "Justice Department Announces Indictment Of 2 Chinese Hackers | NBC News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

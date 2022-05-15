@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H-1CTNA7DpY",
-            "title": "Tampa Police on Alert Over 'Suspicious' Discovery",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "8pV0QLcBBMw",
             "title": "SPECIAL REPORT: Police respond to active shooter at Capital Gazette newspaper",
             "secondDuration": 320,
@@ -31,8 +25,14 @@
             "title": "Fireball: Train Carrying Crude Oil Derails",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "PU1l6wc5S2s",
+            "title": "Charles Oakley Fight with Knicks Security CAUGHT ON CAMERA",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

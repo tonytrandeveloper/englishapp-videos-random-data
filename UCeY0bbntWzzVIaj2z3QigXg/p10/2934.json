@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_rzoBHP5r-E",
-            "title": "Breaking Down How The Top Legal Cases Of 2021 Could Impact 2022",
-            "secondDuration": 284,
-            "group": "group_7"
-        },
-        {
             "videoId": "yrJK5Mm4V00",
             "title": "Alaska Gov. Dunleavy Gives Update On Coronavirus Response | NBC News (Live Stream Recording)",
             "secondDuration": 3101,
@@ -61,8 +55,14 @@
             "title": "RAW: Iraqi Forces Battle ISIS In Tikrit | NBC News",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "jY5fj9xSlNU",
+            "title": "Remembering Elijah Cummings: Remarks From His First Speech On The House Floor | NBC Nightly News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

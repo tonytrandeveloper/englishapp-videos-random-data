@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CXOsVXybVJY",
-            "title": "Novel Coronavirus explained l ABC News",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "Cv344cYZF3A",
             "title": "Carnival Cruise Ship Stranded in the Caribbean",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "U.S. Department of State facilitated evacuation of the 1st Americans to leave Afghanistan | ABC News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "UqnMWWrnmks",
+            "title": "Egyptian President Mohamed Morsi Forced Out of Power",
+            "secondDuration": 465,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

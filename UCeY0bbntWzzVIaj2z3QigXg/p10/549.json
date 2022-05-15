@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HPhtjK3TSOI",
-            "title": "Gas Prices On The Rise Nationwide",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "MdbEk8PcPb4",
             "title": "Biden Delivers Remarks On Passage Of Infrastructure Bill | NBC News",
             "secondDuration": 1900,
@@ -61,8 +55,14 @@
             "title": "Justice Dept. Announces Charges Against Chinese Fentanyl Traffickers | NBC News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "IrDa5LMhhb0",
+            "title": "First Generation College Students Speak On Covid’s Impact | NBC News NOW",
+            "secondDuration": 304,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

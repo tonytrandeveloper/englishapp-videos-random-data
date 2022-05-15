@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5JyRRr3OqIk",
-            "title": "Briefing Room: Alleged North Carolina election fraud, 2020 election latest | ABC News",
-            "secondDuration": 1297,
-            "group": "group_7"
-        },
-        {
             "videoId": "S2bw9n4GGCc",
             "title": "Trump Attacks Media, Clintons After Sexual Assault Allegations",
             "secondDuration": 250,
@@ -31,8 +25,14 @@
             "title": "Suspect charged with plotting to bomb LGBTQ nightclubs and synagogue",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "C5405XjDCFs",
+            "title": "Former top NRA official: Gun owners ‘should be horrified’ by what I saw",
+            "secondDuration": 249,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

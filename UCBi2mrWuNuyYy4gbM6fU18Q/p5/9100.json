@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rBkUmRACGXM",
-            "title": "DNC Chair Jaime Harrison: 'Democrats are unified'",
-            "secondDuration": 366,
-            "group": "group_7"
-        },
-        {
             "videoId": "9ghG5eUy1WE",
             "title": "Meet the real-life couple behind 'The Hot Zone'",
             "secondDuration": 172,
@@ -31,8 +25,14 @@
             "title": "Stimulus stalemate leaves economy on the brink | ABC News",
             "secondDuration": 346,
             "group": "group_7"
+        },
+        {
+            "videoId": "Run6UA8zn5I",
+            "title": "Politico's Alex Isenstadt on 'Top Line'",
+            "secondDuration": 430,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3WX7OwN8Njg",
-            "title": "Navajo Nation Desperate For Resources During Coronavirus Pandemic | NBC News NOW",
-            "secondDuration": 256,
-            "group": "group_7"
-        },
-        {
             "videoId": "czoKM8rscPg",
             "title": "Deadly Earthquake Shakes Albania’s Capital, Injures Hundreds | NBC Nightly News",
             "secondDuration": 64,
@@ -31,8 +25,14 @@
             "title": "NFL Suspends Tom Brady Four Games Over Deflate-Gate | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "DU-CG2NKv9Q",
+            "title": "How The West Was Lost: Climate Change | Meet The Press Reports",
+            "secondDuration": 1645,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

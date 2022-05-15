@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-KodLuzD0Qc",
-            "title": "Florida Student Recounts School Shooting | NBC News",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "TBdcy8Yt7sQ",
             "title": "Atlanta Airport Loses Power, Trapping Travelers In Planes And Terminals | NBC Nightly News",
             "secondDuration": 96,
@@ -121,8 +115,14 @@
             "title": "Mira Sorvino On Talking To Our Children About Sexual Harassment | NBC News",
             "secondDuration": 420,
             "group": "group_7"
+        },
+        {
+            "videoId": "oIXZcTR9Eyc",
+            "title": "How To Clean Your Smelly Sink | Better | NBC News",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

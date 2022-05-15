@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VOA1UsWZyVA",
-            "title": "New York City subway shooter timeline l ABC News",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "iOLCBrdrupY",
             "title": "Challenger Explosion: Remembering 7 Extraordinary Astronauts",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "New twist in decades-long case of missing girl in Rome",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "-lXVoPE8ljg",
+            "title": "ABC News Live Update: Ruth Bader Ginsburg’s former clerk gives inside look at the cultural icon",
+            "secondDuration": 1101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

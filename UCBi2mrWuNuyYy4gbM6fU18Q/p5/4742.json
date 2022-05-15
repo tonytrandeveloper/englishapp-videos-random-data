@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1nsvAntP1mw",
-            "title": "ABC News Prime: Inauguration preview; Unprecedented security measures; US COVID-19 deaths reach 400K",
-            "secondDuration": 3600,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yt3xgS8vFbI",
             "title": "ABC News Prime: Outrage over Andrew Brown Jr’s death; India’s COVID-19 surge; Housing market crunch",
             "secondDuration": 5090,
@@ -31,8 +25,14 @@
             "title": "Coldplay to Headline Super Bowl Halftime Show | ABC News",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "tfOZ0xH3vZE",
+            "title": "Keeping Soot Off Santa | Holiday Cycle",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

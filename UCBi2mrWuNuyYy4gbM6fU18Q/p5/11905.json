@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GEXCvGw-cBY",
-            "title": "US, Russia spar over Ukraine at UN Security Council meeting",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "eX65h3Hhbps",
             "title": "France and Allies Target ISIS With Airstrikes in Syria",
             "secondDuration": 163,
@@ -31,8 +25,14 @@
             "title": "''Briefing Room': Troops to the Border, Trump to reinstate Iran sanctions, 538 midterm forecast",
             "secondDuration": 3035,
             "group": "group_7"
+        },
+        {
+            "videoId": "6SG_a6OBtHc",
+            "title": "NASA announces plans to let tourists visit International Space Station",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

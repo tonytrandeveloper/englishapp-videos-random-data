@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "thF40EjhrtI",
-            "title": "Watch LIVE: Fourth of July Fireworks - Independence Day fireworks display over the National Mall",
-            "secondDuration": 12515,
-            "group": "group_7"
-        },
-        {
             "videoId": "oV09Df_TkIw",
             "title": "Dangerous road rage incidents from across the country",
             "secondDuration": 447,
@@ -31,8 +25,14 @@
             "title": "First Lady Melania Trump receives White House's 2017 Christmas tree",
             "secondDuration": 278,
             "group": "group_7"
+        },
+        {
+            "videoId": "7N-mCVkATQc",
+            "title": "Accusations of Patient Dumping",
+            "secondDuration": 259,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

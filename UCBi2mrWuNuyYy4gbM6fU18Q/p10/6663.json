@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ph8SfoF3vg4",
-            "title": "Trump's medical team updates on president's condition | ABC News",
-            "secondDuration": 1165,
-            "group": "group_7"
-        },
-        {
             "videoId": "LmYo8s8Cq4c",
             "title": "Horses, opera and balloon race: World in Photos, May 18",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Tense moments in Texas town",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "0hySYIaH38w",
+            "title": "How US can ramp up its vaccination effort",
+            "secondDuration": 331,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

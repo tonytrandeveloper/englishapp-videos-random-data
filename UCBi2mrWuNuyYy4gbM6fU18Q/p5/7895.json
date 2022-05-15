@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XmRBxy7osSM",
-            "title": "Texas hospital awaits patients",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "BkFEI3IWpq8",
             "title": "Jerry Falwell Jr. resigns from Liberty University after alleged sex scandal l GMA",
             "secondDuration": 225,
@@ -31,8 +25,14 @@
             "title": "Queen's Estate Turns Up Woman's Body",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "H-1CTNA7DpY",
+            "title": "Tampa Police on Alert Over 'Suspicious' Discovery",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

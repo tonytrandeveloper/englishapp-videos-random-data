@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "40rzOXd3i3Q",
-            "title": "Adam Driver Teams With Snickers for Live Super Bowl Commercial",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "wTu-do3SkGo",
             "title": "Violent Arrest of Black Woman at Traffic Stop Investigated",
             "secondDuration": 208,
@@ -61,8 +55,14 @@
             "title": "Trump continues to attack FBI deputy director on Twitter",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "o7T7GYl0xvg",
+            "title": "Tuscaloosa, Alabama Terrorized by Tornadoes, Hundreds Dead",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

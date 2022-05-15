@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PtVoyUPy1Qo",
-            "title": "Hurricane Danielle Stirs Things Up",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "6uNYXOcGGME",
             "title": "Hillary Clinton, Bernie Sanders Make Final New York Push",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "Authorities Storm Paris Theater, Gunmen Dead",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "uUO2nQntRHs",
+            "title": "Toddlers Cover House in Flour, Mom's 'Family Home Destroyed by Avalanche' Video Goes Viral",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

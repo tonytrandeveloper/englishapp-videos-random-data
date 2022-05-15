@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1DEVzDlggRY",
-            "title": "State of emergency declared in the Southern states",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "laZC_mUOX8s",
             "title": "15th coronavirus case confirmed in US l ABC News",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "30 Years Searching l 20/20 l PART 4",
             "secondDuration": 494,
             "group": "group_7"
+        },
+        {
+            "videoId": "fNayPiGPKmI",
+            "title": "Made in America Under the Christmas Tree",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

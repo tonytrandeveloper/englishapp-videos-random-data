@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "o11dEwAAyuQ",
-            "title": "World News Now Polka: Painted Piano",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "z7AGCic9wVk",
             "title": "The Amazing Race for Holiday Delivery",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Aftershock Fears",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "hHz_bgj2Rq4",
+            "title": "Is a Big Tobacco Company Profiting From Kids?",
+            "secondDuration": 323,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

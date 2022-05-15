@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "51xkyFAf8fw",
-            "title": "SPECIAL REPORT: Roger Stone indicted by special counsel",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "e1vnFdTCAro",
             "title": "Trump fights back after release of Ukraine call transcript | ABC News",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "Alfred Olongo Shooting | Fresh Protests Over Police Shooting",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "dHcyqV_LwrQ",
+            "title": "Officers engaged in firefight with accused shooter inside school: Police",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

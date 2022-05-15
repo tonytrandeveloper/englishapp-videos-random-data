@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "K_UP2XlqdvY",
-            "title": "American Airlines jet makes emergency landing",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "QB45wxR2XzI",
             "title": "The Jubilee Queen: When She Became Queen",
             "secondDuration": 373,
@@ -121,8 +115,14 @@
             "title": "2020 democratic hopefuls continue to visit key primary states",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "UiIHABiS4-4",
+            "title": "Black lab named Alpha gets his own school ID and a picture in the yearbook",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

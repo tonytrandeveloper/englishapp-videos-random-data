@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IeyxqTe2kr4",
-            "title": "Thanksgiving Dinner Holiday Hacks | ABC News",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "C44r3EP9zjo",
             "title": "TOP LINE: Rep. Schock Concerned About Homegrown Terror",
             "secondDuration": 692,
@@ -61,8 +55,14 @@
             "title": "Investigation into helicopter crash that killed Kobe Bryant | WNT",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "kZVfOnwjHCM",
+            "title": "Police Smash Car Window, Use Stun Gun During Traffic Stop",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

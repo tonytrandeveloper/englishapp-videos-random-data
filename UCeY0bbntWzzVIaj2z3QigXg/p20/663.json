@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-8FvNc7y9fM",
-            "title": "Los Angeles Schools Have Served 10 Million Meals During Lockdown | NBC News NOW",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rv0S0E11MN8",
             "title": "Arrest In Florida Road Rage Shooting | NBC Nightly News",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "Full Speech: Biden Gives Update On Rising Tensions Between Russia And Ukraine",
             "secondDuration": 671,
             "group": "group_7"
+        },
+        {
+            "videoId": "d2tHm6aB6io",
+            "title": "Boeing 737 Max Returns To Commercial Passenger Flying | NBC News NOW",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

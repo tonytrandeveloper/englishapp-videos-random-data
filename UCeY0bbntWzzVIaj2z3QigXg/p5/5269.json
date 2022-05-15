@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SZqvlP4Y4Co",
-            "title": "Get Healthy: Exercise | NBC Learn",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "bOssEPTViP4",
             "title": "First Human Embryo Editing Experiment In U.S.; Possible Future ‘Designer Babies’? | Mach | NBC News",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Jr. Releases His Emails About Meeting With Russian Lawyer | NBC Nightly News",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "fXNaea3u6LY",
+            "title": "Millennials Targeted In New Scams Using Fake Checks | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dY2ChLvpI40",
-            "title": "SpaceX Successfully Launches Crew Dragon On First Test Flight | Mach | NBC News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "hue2mBnaP5Q",
             "title": "PA Governor Candidate: 'I’m Going To Stomp All Over Your Face With Golf Spikes' | NBC News",
             "secondDuration": 73,
@@ -31,8 +25,14 @@
             "title": "Four Additional Oath Keepers Arrested And Charged Over Capitol Riot",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "7qC3XNTMalE",
+            "title": "LIVE: Kim Potter Testifies In Trial On Daunte Wright's Death | NBC News",
+            "secondDuration": 11151,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

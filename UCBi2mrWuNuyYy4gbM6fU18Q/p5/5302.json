@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BdFwkpmkUYM",
-            "title": "'Trump has no appreciation for diplomacy': Sen. Ben Cardin",
-            "secondDuration": 331,
-            "group": "group_7"
-        },
-        {
             "videoId": "XiJZm0nmJRg",
             "title": "Judge sentences the 3 men convicted of murdering Ahmaud Arbery",
             "secondDuration": 1451,
@@ -31,8 +25,14 @@
             "title": "$50 Million in Diamonds Stolen on Belgium Runway",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "f8qWQGedfOk",
+            "title": "NYC Jogger Murdered | Desperate Manhunt For a Killer",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

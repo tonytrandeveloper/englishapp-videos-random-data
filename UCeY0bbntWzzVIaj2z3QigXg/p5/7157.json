@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FZ5JUHCu6wE",
-            "title": "Watch Highlights Of The Democratic Debate In 5 Minutes | NBC News",
-            "secondDuration": 310,
-            "group": "group_7"
-        },
-        {
             "videoId": "WZrx7YYlLSg",
             "title": "Beto O’Rourke Announces 2020 Presidential Run | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Brian Laundrie's Death Determined To Be Suicide, According To Family Attorney",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "cGwihQ6t58Y",
+            "title": "Full New Bern Mayor Interview: 'We’re Trying Hard' | Meet The Press | NBC News",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

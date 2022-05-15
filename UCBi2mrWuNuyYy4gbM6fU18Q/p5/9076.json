@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "buc8MqJM7Lw",
-            "title": "Trump announces pursuit of anti-viral therapies to fight COVID-19 | ABC News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "JXr8JIMXWyU",
             "title": "Hawaii Police Chase Blows by President Obams's Vacation Home",
             "secondDuration": 54,
@@ -31,8 +25,14 @@
             "title": "Coronavirus crisis around the nation",
             "secondDuration": 410,
             "group": "group_7"
+        },
+        {
+            "videoId": "fl1d4CvIxq8",
+            "title": "Florida school shooting: Details emerge in timeline, what we know about suspect | ABC News",
+            "secondDuration": 539,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

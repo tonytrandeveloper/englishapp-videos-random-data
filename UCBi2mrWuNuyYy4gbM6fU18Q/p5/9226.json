@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EApzqJJR4d4",
-            "title": "Dr. Richard Besser on the state of the pandemic: 'It's far from over'",
-            "secondDuration": 298,
-            "group": "group_7"
-        },
-        {
             "videoId": "i-oeEaRPFhA",
             "title": "Golden State Killer sentenced to life without parole, apologizes to victims",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Deadly school bus crash in Texas",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "AyNFgJb7amk",
+            "title": "Hauntingly huge spider spotted in Australia",
+            "secondDuration": 40,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

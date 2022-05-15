@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AYLEHD_ANQI",
-            "title": "Morning News NOW Full Broadcast - August 20",
-            "secondDuration": 3145,
-            "group": "group_7"
-        },
-        {
             "videoId": "2TbTY7w9n8Y",
             "title": "Mike Pompeo On North Korea: ‘I Am Not Advocating For Regime Change’ | NBC News",
             "secondDuration": 79,
@@ -121,8 +115,14 @@
             "title": "As Coronavirus Hits, Navajo Nations Fights To Protect Their Elders And Culture | NBC News",
             "secondDuration": 308,
             "group": "group_7"
+        },
+        {
+            "videoId": "HESpTnsd75I",
+            "title": "Yahoo Hack: Russian Spies Charged By U.S. Over Hack Of 500M Accounts | NBC Nightly News",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

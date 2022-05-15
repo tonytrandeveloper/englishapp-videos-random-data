@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pPVInGkXGso",
-            "title": "LIVE: White House Covid-19 Response Team Briefing | NBC News",
-            "secondDuration": 2031,
-            "group": "group_7"
-        },
-        {
             "videoId": "qsfnBjUhjQo",
             "title": "Behind Charlie Hebdo Terrorists' Path To Extremism | NBC Nightly News",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Ted Cruz And Beto O’Rourke Clash In First Debate For Texas Senate Seat | NBC Nightly News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "b1naDtDQT3E",
+            "title": "Thousands Of Arizona Teachers Protest For Better Education Funding | NBC Nightly News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

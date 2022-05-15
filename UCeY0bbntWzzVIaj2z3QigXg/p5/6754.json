@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "J-Xbo5esmik",
-            "title": "Rand Paul: Calling Donald Trump 'Racist' Hurts Immigration Negotiations | Meet The Press | NBC News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "IlRFukApiyQ",
             "title": "President Donald Trump and German Chancellor Merkel Hold Joint News Conference | NBC News",
             "secondDuration": 3788,
@@ -31,8 +25,14 @@
             "title": "Iceland Volcano Erupts For First Time in 6,000 Years | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dgn7V5BGs9Q",
+            "title": "Trump To Nominate Amy Coney Barrett For Supreme Court | NBC Nightly News",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

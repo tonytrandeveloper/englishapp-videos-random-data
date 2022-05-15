@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MGcxinwFcbs",
-            "title": "O.J.Simpson: I Wish This Never Would Have Happened | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "j60oQgMJbNs",
             "title": "Mystery Sightings In The Sky Raise National Security Concerns | NBC Nightly News",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Weight Watchers Relaxes Its Guidelines For 200 New 'Freebie Foods' | NBC Nightly News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "AG5SueiQ0eM",
+            "title": "Pope Francis Makes Surprise Appearance At TED Talk | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kzCaJZuJc4g",
-            "title": "Boo Beasts! When Animals Attack Pumpkins",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "7ovQRLk7Gxs",
             "title": "Man describes surviving blizzard on Taco Bell hot sauce",
             "secondDuration": 182,
@@ -31,8 +25,14 @@
             "title": "America celebrates Juneteenth amid cries for justice",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "t7jGLm4DZUE",
+            "title": "Hundreds of demonstrators and counter protestors filled the streets of Portland, Oregon",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

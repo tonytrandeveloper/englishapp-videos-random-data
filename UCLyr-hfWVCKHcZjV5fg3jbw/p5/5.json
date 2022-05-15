@@ -3,18 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s-i3Z7EZRpA",
-            "title": "ENGLISH SPEECH | ANUSHKA SHARMA: Presents Anya Singh (English Subtitles)",
-            "secondDuration": 952,
-            "group": "group_1"
-        },
-        {
-            "videoId": "pqQBl-cMY84",
-            "title": "ENGLISH SPEECH | MAYA RUDOLPH: Say Yes (English Subtitles)",
-            "secondDuration": 783,
-            "group": "group_1"
-        },
-        {
             "videoId": "vAn96hY1LGw",
             "title": "ENGLISH SPEECH | TREVOR NOAH: The Power of Information (English Subtitles)",
             "secondDuration": 606,
@@ -31,8 +19,20 @@
             "title": "ENGLISH SPEECH | JEFF BEZOS and SRK: Amazon in India (English Subtitles)",
             "secondDuration": 1042,
             "group": "group_1"
+        },
+        {
+            "videoId": "46yStqMV4eY",
+            "title": "ENGLISH SPEECH | HILLARY CLINTON: Be Resilient (English Subtitles)",
+            "secondDuration": 1572,
+            "group": "group_1"
+        },
+        {
+            "videoId": "dgkxN6RASpg",
+            "title": "ENGLISH SPEECH | TOM CRUISE & BEN STILLER: Footprint Ceremony (English Subtitles)",
+            "secondDuration": 755,
+            "group": "group_1"
         }
     ],
-    "nbPages": 35,
-    "nbResults": 172
+    "nbPages": 34,
+    "nbResults": 168
 }

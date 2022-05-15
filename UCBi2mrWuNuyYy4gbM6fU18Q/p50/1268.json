@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "2CquFhN5G38",
-            "title": "37 states, 90 million people brace for hazardous weather l ABC News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "idN46W-epM0",
             "title": "CDC issues Thanksgiving travel warning as COVID-19 cases soar",
             "secondDuration": 488,
@@ -301,8 +295,14 @@
             "title": "Pressure Mounts as Russian Troops Take Control of Crimea",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "LJ4ZuCPInrY",
+            "title": "One Night in Central Park l 20/20 l PART 4 | ABC News",
+            "secondDuration": 465,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

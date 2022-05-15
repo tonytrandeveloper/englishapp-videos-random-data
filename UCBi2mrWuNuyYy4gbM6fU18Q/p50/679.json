@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "gMVSNPzuMJs",
-            "title": "New documentary on the alt-right sheds light on the movement's beginnings",
-            "secondDuration": 430,
-            "group": "group_7"
-        },
-        {
             "videoId": "zg4Epvrn4mo",
             "title": "#LikeaBoy Social Media Campaign Celebrates Boys' Sensitive Sides",
             "secondDuration": 151,
@@ -301,8 +295,14 @@
             "title": "New Year's Eve celebration kicks off in Australia",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "AwpXLhLUY3A",
+            "title": "Russians claims suspected Syrian chemical attack was staged by aid group",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

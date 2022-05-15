@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3HoU23D-8_M",
-            "title": "NBC News NOW Full Broadcast – August 17, 2021",
-            "secondDuration": 2965,
-            "group": "group_7"
-        },
-        {
             "videoId": "UV9u9zdlii8",
             "title": "Obama Releases Statement On MH17 | NBC News",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "U.S. Is The Most Dangerous Place To Give Birth In The Developed World | NBC Nightly News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jxeni92GD7o",
+            "title": "Protests Erupt At Airports Across The U.S. In Defiance Of Immigration Ban | NBC News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

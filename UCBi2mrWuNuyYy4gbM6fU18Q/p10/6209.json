@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-QvpYzFP1ZM",
-            "title": "Shaq Is All Wrapped Up",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "IOBG6fkDoRI",
             "title": "Remembering Sidney Poitier, 1st Black actor to win Oscar for a leading role",
             "secondDuration": 316,
@@ -61,8 +55,14 @@
             "title": "Identity of the 6th victim confirmed in deadly Christmas parade",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "u_FxWl2lCF8",
+            "title": "Powerhouse Roundtable: This Week in Politics",
+            "secondDuration": 784,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

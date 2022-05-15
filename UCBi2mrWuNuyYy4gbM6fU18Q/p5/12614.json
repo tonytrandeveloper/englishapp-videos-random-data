@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vnjA-Ihmckg",
-            "title": "'GMA' Loves It Mash-Up",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "hub7eUn1lZs",
             "title": "Search for Thanksgiving Killer in Florida",
             "secondDuration": 359,
@@ -31,8 +25,14 @@
             "title": "Urgency grows to evacuate Americans, allies before deadline",
             "secondDuration": 425,
             "group": "group_7"
+        },
+        {
+            "videoId": "R9i-jIEAL1o",
+            "title": "Sen. Franken says he's 'embarassed' by groping claims, needs to 'rebuild' trust",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

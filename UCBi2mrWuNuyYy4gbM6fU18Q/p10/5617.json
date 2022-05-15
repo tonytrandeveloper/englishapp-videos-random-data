@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8jaxnd83fy8",
-            "title": "\"Bad Lip Reading\" Releases New Video",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "rE8MzY3aJOc",
             "title": "Little League Tribute to Christina-Taylor Green",
             "secondDuration": 168,
@@ -61,8 +55,14 @@
             "title": "Biden fighting to keep his agenda moving",
             "secondDuration": 384,
             "group": "group_7"
+        },
+        {
+            "videoId": "B5qYcit6EZg",
+            "title": "Vaccine Watch: Testing a vaccine for future pandemics",
+            "secondDuration": 315,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fAk9GlQEWGU",
-            "title": "Dramatic drop of COVID-19 hospitalizations",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "SEW9Tw4Q5Hg",
             "title": "Trump chips away at Biden's lead in Arizona",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Trump Has More Unconfirmed Cabinet Nominees Than All Former US Presidents Combined at 2-Week Mark",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "JIIxWfgrfZQ",
+            "title": "Biden announces global effort to deliver COVID-19 vaccines to other countries",
+            "secondDuration": 920,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

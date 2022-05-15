@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D2CMuUdBFfo",
-            "title": "Warren Buffett Speaks Out on Economy",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "uRsDtIsp3vI",
             "title": "Test Flights Land Safely Amid Ash Cloud",
             "secondDuration": 75,
@@ -61,8 +55,14 @@
             "title": "Kevin Strickland awaits ruling after long-awaited exoneration hearing",
             "secondDuration": 404,
             "group": "group_7"
+        },
+        {
+            "videoId": "NBR8tpZnGN4",
+            "title": "Hollywood stars speak out amid Weinstein scandal",
+            "secondDuration": 355,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

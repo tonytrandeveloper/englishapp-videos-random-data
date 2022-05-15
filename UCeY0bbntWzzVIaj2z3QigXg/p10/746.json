@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qjYzSVCXrzA",
-            "title": "Gigi Pritzker: How I Became A Hollywood Producer | Better | NBC News",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ii-BVfOrMU8",
             "title": "Vaccination Debate: Public Safety vs. Personal Freedom | Meet The Press",
             "secondDuration": 232,
@@ -61,8 +55,14 @@
             "title": "'Nobody Is Going To Break Us': Zelenskyy Receives Standing Ovation At European Parliament",
             "secondDuration": 441,
             "group": "group_7"
+        },
+        {
+            "videoId": "9qIU53H6blw",
+            "title": "White House Holds Press Briefing: July 27 | NBC News",
+            "secondDuration": 2331,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

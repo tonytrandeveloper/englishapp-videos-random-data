@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "koKAa9p0la0",
-            "title": "Coronavirus Survivor Speaks Out After 6-Week Hospitalization: ‘This Is Serious’ | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "v9MyhDxchL0",
             "title": "DNA Links Former Federal Corrections Officer To Sexual Assaults | NBC Nightly News",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "LIVE: Sentencing For Men Convicted Of Killing Ahmaud Arbery | NBC News",
             "secondDuration": 17300,
             "group": "group_7"
+        },
+        {
+            "videoId": "FuMr3b_rpn8",
+            "title": "'I'm Going To See The Vastness Of Space': William Shatner On Heading To Space",
+            "secondDuration": 162,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

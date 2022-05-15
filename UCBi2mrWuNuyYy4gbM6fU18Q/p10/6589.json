@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WZwwzP6ANQo",
-            "title": "Remembering the Victims That Died In Sandy Hook Elementary Shooting | Nightline | ABC News",
-            "secondDuration": 298,
-            "group": "group_7"
-        },
-        {
             "videoId": "GJZ8_fMtS1s",
             "title": "Captain Marvel star Brie Larson on taking landmark role",
             "secondDuration": 524,
@@ -61,8 +55,14 @@
             "title": "Man rescues deer from freezing river",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "1LzgDpOT2zE",
+            "title": "Trump in Public Spat With CIA",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

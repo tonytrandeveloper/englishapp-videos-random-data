@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Jn8Xs5kroPE",
-            "title": "White House Prepares To Roll Out Plan Addressing Opioid Crisis | NBC Nightly News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "jc__vgmzc88",
             "title": "Genetic Engineering Has Created Disease Resistant Pigs | Mach | NBC News",
             "secondDuration": 96,
@@ -121,8 +115,14 @@
             "title": "The Hidden Covid-19 Crisis: Elderly People Are Dying From Isolation | NBC News",
             "secondDuration": 618,
             "group": "group_7"
+        },
+        {
+            "videoId": "IDwtRA0VUL4",
+            "title": "Morning News NOW Full Broadcast - July 15",
+            "secondDuration": 2987,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

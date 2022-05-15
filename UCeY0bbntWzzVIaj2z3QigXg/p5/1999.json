@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7KnvC5RzVSg",
-            "title": "Silicon Valley Kicks Hate Groups Offline | NBC Nightly News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "ucmY_zmw7so",
             "title": "College Athletes Now Mining Social Media To Earn Money As Influencers",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Full Stacey Abrams Interview: ‘Pattern of behavior’ for GOP opponent to remove voters",
             "secondDuration": 344,
             "group": "group_7"
+        },
+        {
+            "videoId": "T_l934AVhxc",
+            "title": "NFL Selects Controversial Referee For Super Bowl | NBC Nightly News",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

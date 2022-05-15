@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2GcgFJ3wQtU",
-            "title": "Morning Mix: Elena Kagan to Budget Struggles",
-            "secondDuration": 390,
-            "group": "group_7"
-        },
-        {
             "videoId": "jYjg8xXJZck",
             "title": "Met Gala 2017: This year’s most outrageous, memorable looks | ABC News",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Three New Studies on Alzheimer's",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "YihvRKkDHS8",
+            "title": "Approaching 100,000 US deaths due to COVID-19",
+            "secondDuration": 291,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

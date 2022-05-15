@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bBnS0mft2Jo",
-            "title": "Violent surge in shootings in Chicago l WNT",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "ljUIf6je2ao",
             "title": "'This Week': Typhoon Haiyan Strikes Philippines and John Kerry Attends Nuclear Talks with Iran",
             "secondDuration": 250,
@@ -31,8 +25,14 @@
             "title": "UN climate report issues a ‘code red for humanity’",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "qmaEYbQPCuk",
+            "title": "Grand jury declines to charge 3 officers involved in Breonna Taylor’s death",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

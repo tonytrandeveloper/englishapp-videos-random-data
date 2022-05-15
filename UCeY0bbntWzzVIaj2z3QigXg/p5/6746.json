@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oXgC5KpD2Q8",
-            "title": "America’s Rebound: Orlando’s Tourism Comeback Amid The Pandemic",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "gXC9Qz0-geo",
             "title": "Meet The Press Broadcast (Full) - March 20",
             "secondDuration": 2854,
@@ -31,8 +25,14 @@
             "title": "Martin Luther King Accepts Nobel Prize | Flashback | NBC News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "UOmfBHksABk",
+            "title": "House Impeachment Managers Present New Security Footage Of Capitol Attack | NBC Nightly News",
+            "secondDuration": 479,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

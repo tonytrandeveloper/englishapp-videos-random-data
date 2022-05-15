@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yf21YQBaSI4",
-            "title": "Chicago Police Officer Found Guilty Of Second-Degree Murder | NBC News",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "oYQbFwhV5l8",
             "title": "New York Gov. Andrew Cuomo Holds Briefing On Covid | NBC News",
             "secondDuration": 2191,
@@ -61,8 +55,14 @@
             "title": "White House Responds To Donald Trump's Reaction Tweet On Obama Endorsement | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "VKZ1w3Ejs6M",
+            "title": "European Covid Restrictions Spark Protests As Omicron Spreads",
+            "secondDuration": 304,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

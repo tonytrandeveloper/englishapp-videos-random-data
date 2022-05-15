@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pZ1yJnqvYZY",
-            "title": "NYC Mayor Addresses Security Concerns Around Trump Tower",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "fo1n_3pRBXQ",
             "title": "Bangladesh Restaurant Standoff | 20 Hostages Killed",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "'GMA' Hot List: Behind the Scenes at 'GMA'",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "44Pb17jILIQ",
+            "title": "Bridgett Floyd: ‘I will forever keep his memory alive’",
+            "secondDuration": 386,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

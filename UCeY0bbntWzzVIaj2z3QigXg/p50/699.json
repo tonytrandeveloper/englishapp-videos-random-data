@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "6dXFUctMxts",
-            "title": "American Killed While Fighting ISIS In Syria | NBC News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "dqIYjPAPx00",
             "title": "This Morning’s Top Headlines – Dec. 2 | Morning News NOW",
             "secondDuration": 1515,
@@ -301,8 +295,14 @@
             "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
             "secondDuration": 1969,
             "group": "group_7"
+        },
+        {
+            "videoId": "A3msFRaCqT0",
+            "title": "Texas Teen Raises $30,000 For Hospital That Treated Her Cancer",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

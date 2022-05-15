@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YvpEz6_sAok",
-            "title": "Brock Long: ‘I Don’t Know Why The Studies Were Done’ In Puerto Rico | Meet The Press | NBC News",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "HI3u9AJyLfw",
             "title": "Trump Delivers Remarks To Workers At Mariotti Building Products | NBC News",
             "secondDuration": 3815,
@@ -31,8 +25,14 @@
             "title": "A New Crisis At The U.S. Southern Border: COVID-19 | NBC News NOW",
             "secondDuration": 386,
             "group": "group_7"
+        },
+        {
+            "videoId": "G86CBpPr6nM",
+            "title": "White House Covid-19 Response Briefing | NBC News",
+            "secondDuration": 1691,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

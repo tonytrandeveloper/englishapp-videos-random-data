@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wlo0mT0ECVQ",
-            "title": "Outbreak in America",
-            "secondDuration": 398,
-            "group": "group_7"
-        },
-        {
             "videoId": "iBi0kUUvpr8",
             "title": "Taliban retaking territory in Afghanistan amid troop withdrawal",
             "secondDuration": 218,
@@ -61,8 +55,14 @@
             "title": "Kurt Warner: A Real Home Town Hero",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "zfaWhJ55MIk",
+            "title": "First responders struggle with long-term health effects 20 years after 9/11",
+            "secondDuration": 742,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gerjfWnWevo",
-            "title": "President Obama Makes Jokes at White House Correspondents Dinner",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "bAYJuScEnuc",
             "title": "NY investigates 157 cases of possible COVID-related illnesses in children",
             "secondDuration": 431,
@@ -31,8 +25,14 @@
             "title": "Russia acknowledges Russian soldier deaths l ABCNL",
             "secondDuration": 370,
             "group": "group_7"
+        },
+        {
+            "videoId": "cYlUK4Qhmf0",
+            "title": "Paris Attacks: Eyewitness Account of Terror",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

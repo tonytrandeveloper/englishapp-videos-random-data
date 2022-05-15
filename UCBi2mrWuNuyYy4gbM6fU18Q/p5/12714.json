@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C2K6ctBW6mw",
-            "title": "ABC News Live: Ukrainians say they have taken back a village in Chernihiv region | ABC News",
-            "secondDuration": 1394,
-            "group": "group_7"
-        },
-        {
             "videoId": "tsv-77FeqHI",
             "title": "A family of Eagles fans surprise their father with tickets to the Super Bowl",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Harrison Ford Returning as 'Indiana Jones'",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "rTvhtiV1mXQ",
+            "title": "Tucson Police Audio of Shooting Released",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

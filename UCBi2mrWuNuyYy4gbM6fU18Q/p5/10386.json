@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VGVb-sVwyXY",
-            "title": "Eclipse fever hits the nation",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "0meqcKTAcMU",
             "title": "Westboro Baptist Goes to the Supreme Court",
             "secondDuration": 468,
@@ -31,8 +25,14 @@
             "title": "Manhunt for man who opened fire on car in traffic l GMA",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "9vXwcOtwTPE",
+            "title": "Newt Gingrich Closes Gap in South Carolina",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

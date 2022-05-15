@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H88CT3FCTGU",
-            "title": "NOW Tonight With Joshua Johnson - Feb. 21 | NBC News NOW",
-            "secondDuration": 2709,
-            "group": "group_7"
-        },
-        {
             "videoId": "rwDTWJyURgs",
             "title": "Justin Trudeau Pledges To Ban Assault Rifles In Canada | NBC News",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Rep. Ilhan Omar Vows To Continue Working For Her District | NBC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "5vs6goobsIw",
+            "title": "What’s Next For The Nor’easter | NBC Nightly News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

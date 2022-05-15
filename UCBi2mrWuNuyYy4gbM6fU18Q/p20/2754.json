@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XeqBLsp9s54",
-            "title": "How the AstraZeneca vaccine measures up",
-            "secondDuration": 278,
-            "group": "group_7"
-        },
-        {
             "videoId": "3Ht2HptJ6DI",
             "title": "Trump spends the weekend lashing out against the media on Twitter",
             "secondDuration": 154,
@@ -121,8 +115,14 @@
             "title": "Clinton Holds Double-Digit Lead in New Poll",
             "secondDuration": 293,
             "group": "group_7"
+        },
+        {
+            "videoId": "PFNJeS_m16o",
+            "title": "Gas Prices in America Expected to Plunge After Reaching Record Highs",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

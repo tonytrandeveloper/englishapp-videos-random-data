@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XlOK1ptma5Q",
-            "title": "This Morning’s Top Headlines – Oct. 8 | Morning News NOW",
-            "secondDuration": 1316,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kw9pTJg-zBU",
             "title": "Beto O’Rourke Says He's ‘Throwing All Political Or Polling Caution To The Wind’ | NBC News",
             "secondDuration": 453,
@@ -31,8 +25,14 @@
             "title": "Nancy Pelosi Vs. Alexandria Ocasio-Cortez And 'The Squad' | NBC News Now",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "DNmCjV44mNQ",
+            "title": "Kids Share What It’s Like To Learn During Coronavirus Pandemic | NBC News NOW",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

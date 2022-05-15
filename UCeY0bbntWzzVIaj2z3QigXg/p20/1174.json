@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pPVInGkXGso",
-            "title": "LIVE: White House Covid-19 Response Team Briefing | NBC News",
-            "secondDuration": 2031,
-            "group": "group_7"
-        },
-        {
             "videoId": "qsfnBjUhjQo",
             "title": "Behind Charlie Hebdo Terrorists' Path To Extremism | NBC Nightly News",
             "secondDuration": 140,
@@ -121,8 +115,14 @@
             "title": "Climate Myths Heat Up Global Warming Debate | Debunker | NBC News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "iswiLt29UOU",
+            "title": "Obama: I Haven't Given Up On Immigration Reform | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KVZ5uVQFKs4",
-            "title": "PTrump Lashes Out at Intelligence Community Over Russian Hacking",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "aePv83KVBko",
             "title": "Wreckage from Kobe Bryant crash did not show evidence of engine failure: NTSB | ABC News",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Webcast: GOP Debate; Taco Bell Breakfast",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "SbHv5J-aSYo",
+            "title": "Obama vs. Romney: Debate Countdown",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

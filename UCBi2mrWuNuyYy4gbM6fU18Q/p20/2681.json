@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oXsE0fKX6tg",
-            "title": "Katy Perry, Elton John Perform at Hillary Clinton Fundraiser",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "unfgyR6NXuI",
             "title": "Inside look at the dangerous trek thousands make chasing the American dream",
             "secondDuration": 396,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Super Bowl Media Day",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "H8wxl-pNVuc",
+            "title": "Rick Santorum Sweeps 3 States",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

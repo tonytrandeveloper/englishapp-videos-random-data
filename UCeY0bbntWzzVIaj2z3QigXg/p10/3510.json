@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iZONSTz9pz4",
-            "title": "In Seattle, Alt-Right Rally Draws Counter Protest",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "qWtJAZI_3Mk",
             "title": "Justice Department Announces Action Against Texas Abortion Law | NBC News",
             "secondDuration": 570,
@@ -61,8 +55,14 @@
             "title": "Brussels Spirits Remain High Through Increased Police Presence | Short Take | NBC News",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "8R1A9JxbRnY",
+            "title": "‘A Wrinkle In Time’ Is Probably Right About Multiple Dimensions | Mach | NBC News",
+            "secondDuration": 209,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qOVXbTh_DLA",
-            "title": "President Donald Trump: We've Done 'A Great Job' In Puerto Rico | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "JTtiFdYHEME",
             "title": "Soccer Star Megan Rapinoe Speaks To Frontline Workers At DNC | NBC News",
             "secondDuration": 255,
@@ -61,8 +55,14 @@
             "title": "Fifth NYPD Officer Dies By Suicide Since June | NBC Nightly News",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "00uj2KCgvvI",
+            "title": "'Hillary Clinton: Bernie Sanders Is ‘Trying to Divert Attention' | NBC Nightly News",
+            "secondDuration": 258,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

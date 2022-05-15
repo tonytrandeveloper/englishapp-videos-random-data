@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KgyEO1CZnjc",
-            "title": "Kris Jenner On O.J. Simpson Murder Trial",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y85e_m4MX4g",
             "title": "5 Detained in Turkey New Year's Eve Terror Attack Investigation",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "High school students in New York change senior dance venue for cancer patient",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "81oEHNLVfMY",
+            "title": "NTSB on scene of deadly train derailment in Montana",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

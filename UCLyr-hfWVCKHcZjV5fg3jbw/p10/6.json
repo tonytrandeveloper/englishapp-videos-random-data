@@ -3,18 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yrwhd4coEAU",
-            "title": "ENGLISH SPEECH | ED SHEERAN: Embrace Your Weirdness (English Subtitles)",
-            "secondDuration": 324,
-            "group": "group_1"
-        },
-        {
-            "videoId": "r5-5nFa6oW0",
-            "title": "ENGLISH SPEECH | CHIMAMANDA NGOZI ADICHIE: Be Courageous (English Subtitles)",
-            "secondDuration": 1564,
-            "group": "group_1"
-        },
-        {
             "videoId": "Mt_3yRHYmj4",
             "title": "ENGLISH SPEECH | DEMI LOVATO: Mental Health (English Subtitles)",
             "secondDuration": 650,
@@ -61,8 +49,20 @@
             "title": "ENGLISH SPEECH | MERYL STREEP: Stand Up and Speak Up (English Subtitles)",
             "secondDuration": 847,
             "group": "group_1"
+        },
+        {
+            "videoId": "RH58QUkNVis",
+            "title": "ENGLISH SPEECH | CHADWICK BOSEMAN: What You Fight For? (English Subtitles)",
+            "secondDuration": 1564,
+            "group": "group_1"
+        },
+        {
+            "videoId": "KMEe2ni92rQ",
+            "title": "ENGLISH SPEECH | BILL GATES: Harvard Commencement Address (English Subtitles)",
+            "secondDuration": 1563,
+            "group": "group_1"
         }
     ],
-    "nbPages": 18,
-    "nbResults": 172
+    "nbPages": 17,
+    "nbResults": 168
 }

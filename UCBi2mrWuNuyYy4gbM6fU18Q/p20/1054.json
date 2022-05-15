@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7d30v1wfP7w",
-            "title": "State of the Union 2016: Obama Stresses the Importance of Voting",
-            "secondDuration": 348,
-            "group": "group_7"
-        },
-        {
             "videoId": "2Nqa72MWzc4",
             "title": "Powerful storm system to move East",
             "secondDuration": 141,
@@ -121,8 +115,14 @@
             "title": "Sandy Hook Style Shooting, Rochester Fire:  Death Toll Rises to 3",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "ahRD3xAkYFE",
+            "title": "Bob Cusak on What's Happening on the Hill",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

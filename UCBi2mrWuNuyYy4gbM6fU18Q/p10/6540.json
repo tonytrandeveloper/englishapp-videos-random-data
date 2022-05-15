@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5SYikFxQJRo",
-            "title": "Real Money: Cut Costs on Medical Expenses",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "AHd1d2OAglo",
             "title": "'10% Happier': Arianna Huffington | ABC News",
             "secondDuration": 3611,
@@ -61,8 +55,14 @@
             "title": "U.S. and Allies Strike in Libya",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "0ILDR2z-HLs",
+            "title": "ABC News Live: Senate passes $1 trillion bipartisan infrastructure deal",
+            "secondDuration": 4809,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

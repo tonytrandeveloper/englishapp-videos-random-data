@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jYsonW7dXyk",
-            "title": "How To Demolish An Old Hard Drive (And Keep Your Data Safe) | NBC News",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "AQVVN2bam9g",
             "title": "Sen. Robert Menendez Indicted On Corruption Charges | NBC Nightly News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
             "secondDuration": 1611,
             "group": "group_7"
+        },
+        {
+            "videoId": "so5n6a-AHk0",
+            "title": "Governors In Coronavirus Hot Spots Urge Widespread Testing Before Reopening Economy | NBC",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

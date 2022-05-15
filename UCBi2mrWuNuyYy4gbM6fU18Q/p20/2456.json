@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "O3qJuqM2B5M",
-            "title": "Sen. Marco Rubio: Assad and ISIS are 'two sides of the same coin'",
-            "secondDuration": 469,
-            "group": "group_7"
-        },
-        {
             "videoId": "MWZuMyEAu9g",
             "title": "Barbara Walters' Fascinating People: Katy Perry, Derek Jeter, Herman Cain, Eric Stonestreet On List",
             "secondDuration": 352,
@@ -121,8 +115,14 @@
             "title": "Sen. Bob Corker Discusses Chuck Hagel on 'This Week'",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "EnuKB1J-0KM",
+            "title": "Stormy Daniels ready to reveal details of alleged affair",
+            "secondDuration": 361,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

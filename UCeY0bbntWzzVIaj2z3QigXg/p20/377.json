@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "E093gSomC0I",
-            "title": "Tornado Damage Across Multiple States",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "BtEKedzuurQ",
             "title": "New Report Shows Overall Crime In The U.S. Decreased During 2020",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "‘Comic-Can’ Competition Aims To Help The Hungry | NBC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "KWUH6ZBOb7k",
+            "title": "Oscar Pistorius To Leave Prison For House Arrest After Year Behind Bars | NBC Nightly News",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

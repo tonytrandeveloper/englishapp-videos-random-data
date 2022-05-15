@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SfG0M2VhMSk",
-            "title": "Nightly News Full Broadcast - March 16",
-            "secondDuration": 1264,
-            "group": "group_7"
-        },
-        {
             "videoId": "YKditCmU_yw",
             "title": "The Marines Are Taking 'Man' Out Of Gendered Job Titles | NBC News",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "Schiff: Trump Asking China To Investigate Bidens 'Endangers Our Elections' | NBC News",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "T6F7y5eY1OQ",
+            "title": "Women Across U.S. React As Harris Makes History As Vice President | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

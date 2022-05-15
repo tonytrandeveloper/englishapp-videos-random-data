@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5bYoTIPS5qA",
-            "title": "Donald Trump In 2015: Confederate Flag Belongs In A Museum | NBC News",
-            "secondDuration": 40,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wr8oGLXrMJQ",
             "title": "Oklahoma Governor Commutes Julius Jones’ Death Sentence",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Biden Accuses Trump Appointees Of Obstructing Transition Process | NBC Nightly News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "EBdpBXG7C9Q",
+            "title": "President Donald Trump On Europe Trip: 'Vladimir Putin May Be The Easiest' | NBC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

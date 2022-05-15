@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YIQvl5IWr78",
-            "title": "Germany Starts Easing Coronavirus Restrictions As Infection Rate Slows | NBC News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "HYd5g3AZygg",
             "title": "Nightly News Full Broadcast - March 8",
             "secondDuration": 1265,
@@ -31,8 +25,14 @@
             "title": "NBC News NOW Full Broadcast - March 5th, 2021 | NBC News NOW",
             "secondDuration": 3134,
             "group": "group_7"
+        },
+        {
+            "videoId": "KsCvK4EUBHw",
+            "title": "Austria On Lockdown For The Unvaccinated",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

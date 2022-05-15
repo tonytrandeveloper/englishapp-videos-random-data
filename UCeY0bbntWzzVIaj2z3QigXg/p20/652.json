@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Znj_mSvSUr0",
-            "title": "North Korea Tests New Hypersonic Ballistic Missile",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "E-hYkjqdusQ",
             "title": "Justice Department Drops Case Against Ex-Trump Adviser Michael Flynn | NBC Nightly News",
             "secondDuration": 53,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump On ‘Spygate’: ‘I Hope It’s Not True’ That FBI Used Informant | NBC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "yI6it13xOGI",
+            "title": "Coronavirus Livestream Coverage: News On The COVID-19 Outbreak | NBC News (Live Stream Recording)",
+            "secondDuration": 7732,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

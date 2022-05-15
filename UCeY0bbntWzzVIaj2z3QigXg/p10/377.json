@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PYWC3uk8jis",
-            "title": "Lilly Ruiz: \"For student success it takes...\"",
-            "secondDuration": 18,
-            "group": "group_7"
-        },
-        {
             "videoId": "_yAGPpGkIfA",
             "title": "Sunday on MTP: The Sterling Controversy",
             "secondDuration": 16,
@@ -61,8 +55,14 @@
             "title": "Where Michael Cohen Goes When He Reports To Prison | NBC News Signal",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "U9ocDNk2jPc",
+            "title": "Experts Blame Mount Everest Deaths On Overcrowding | NBC News Now",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

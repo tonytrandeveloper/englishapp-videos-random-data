@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CQcso7LnC3M",
-            "title": "Paris Widower Antoine Leiris Delivers Powerful Message to Terrorists | NBC Nightly News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "_adf2ZJtV3g",
             "title": "Watch Australian Surfers Save Woman Drowning In Hawaii | NBC News",
             "secondDuration": 80,
@@ -61,8 +55,14 @@
             "title": "Live: NY Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2472,
             "group": "group_7"
+        },
+        {
+            "videoId": "yKCoNCldNQk",
+            "title": "Biden Announces Executive Orders To 'Curb The Epidemic Of Gun Violence' | NBC News",
+            "secondDuration": 356,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "U1Vrbw9TJvA",
-            "title": "Attorney General William Barr clashes with lawmakers | WNT",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "GnQQtFJrRu0",
             "title": "Nelson Mandela Hospitalized With Lung Infection in Pretoria, South Africa",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "Tourists escape sinking van in Amsterdam l ABC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "OrvKKQoyYec",
+            "title": "Growing COVID-19 concerns as outbreak spreads in DC I ABCNL",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

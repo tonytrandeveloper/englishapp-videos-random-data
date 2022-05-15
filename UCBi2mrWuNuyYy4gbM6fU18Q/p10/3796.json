@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jU7HAlp-XqI",
-            "title": "Putin's spokesman denies hacking allegations",
-            "secondDuration": 462,
-            "group": "group_7"
-        },
-        {
             "videoId": "8DdNUNiMIzw",
             "title": "\"Dancing With the Stars\" Finalist Rob Kardashian, Cheryl Burke Dance the Samba on \"GMA\"",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "New curfews set as protests continue across America | WNT",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "khJlv5ieaBI",
+            "title": "Joe Biden announces 2020 run",
+            "secondDuration": 295,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

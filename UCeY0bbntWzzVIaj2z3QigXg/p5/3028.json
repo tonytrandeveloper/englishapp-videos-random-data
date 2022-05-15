@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ex7aAjMsad8",
-            "title": "Conviction Episode 6: Video Extra | Conviction | Dateline NBC",
-            "secondDuration": 1017,
-            "group": "group_7"
-        },
-        {
             "videoId": "Po20kYZhJz4",
             "title": "Superspreader 'Explosions' Are Driving Latest COVID-19 Surge In U.S.",
             "secondDuration": 222,
@@ -31,8 +25,14 @@
             "title": "‘The Irishman’: Robert De Niro Digitally De-Aged Shows How Far Tech Has Come | Mach | NBC News",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "vjqPzjGBuzI",
+            "title": "Aleppo Under Siege As Ceasefire Crumbles | 101 | NBC News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

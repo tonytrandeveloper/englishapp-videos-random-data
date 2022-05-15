@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mHxg1WmVZMs",
-            "title": "Russian dissident: ‘Only vote that matters in a dictatorship like Russia is Putin's’",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "EAV-d5cvRHI",
             "title": "'Real Housewives of NJ' Couple Handed Prison Sentences",
             "secondDuration": 383,
@@ -61,8 +55,14 @@
             "title": "Texas Mother May Be Wrongly Imprisoned",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "nAh297EyYpc",
+            "title": "The Murder, the Mobster and the FBI",
+            "secondDuration": 908,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zM80F4tlYz0",
-            "title": "GMA's 'Game of Thrones' Spoof",
-            "secondDuration": 25,
-            "group": "group_7"
-        },
-        {
             "videoId": "dp1DSIeuHXU",
             "title": "JetBlue Flight Turbulence Severely Injures 24",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Never Have a Bad Cup of Coffee With These Barista Secrets",
             "secondDuration": 422,
             "group": "group_7"
+        },
+        {
+            "videoId": "a_HVXiTXMLM",
+            "title": "Top Line: Mass. Upset and Education Reform",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y5KMFb0gdrQ",
-            "title": "Lady Liberty Back for Fourth of July Festivities",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "FABMuNDB-gM",
             "title": "3-year-old recites affirmation on way to school | ABC News",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Battleground Virginia: What the Voters Think",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "ed3jOLPiDuw",
+            "title": "ABC News Live: Trial of Theranos founder Elizabeth Holmes to begin",
+            "secondDuration": 1510,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

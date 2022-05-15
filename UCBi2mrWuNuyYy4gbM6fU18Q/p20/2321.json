@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SEIXlCJDuPs",
-            "title": "DOJ to investigate Minneapolis police after Chauvin verdict",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "BmasDf8goeU",
             "title": "The Conversation: Health Care End Game in Sight?",
             "secondDuration": 177,
@@ -121,8 +115,14 @@
             "title": "Rescuers search for survivors after Mexico earthquake",
             "secondDuration": 306,
             "group": "group_7"
+        },
+        {
+            "videoId": "gRipjQZcY5c",
+            "title": "ISIS in the Crosshairs in Syria",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L18EbtUrSrU",
-            "title": "Wildfire Threatens Homes In Southern California",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "jkXIjyr5gTU",
             "title": "Wildfires Will Change How People Live Around The Planet | NBC News",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2802,
             "group": "group_7"
+        },
+        {
+            "videoId": "SyHuQBs-B18",
+            "title": "Mulvaney On Coronavirus Precautions: 'We Know How To Handle This' | NBC News",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tEIe5tT9hQ4",
-            "title": "Nepal Survivors: Amazing Rescues After Earthquake",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "h2E6X4W68AQ",
             "title": "Medal of Honor recipient James McCloughan inducted into Pentagon’s ‘Hall of Heroes’ in ceremony",
             "secondDuration": 4340,
@@ -121,8 +115,14 @@
             "title": "Olympic Swimmer Michael Phelps Arrested for DUI",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "lMu-KGp8Qq8",
+            "title": "Elephants Escape from St. Louis Circus",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

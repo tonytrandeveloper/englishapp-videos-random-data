@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4akFLFq3b-g",
-            "title": "President Donald Trump Holds Press Conference After Summit With Kim Jong Un | NBC News",
-            "secondDuration": 5028,
-            "group": "group_7"
-        },
-        {
             "videoId": "quhgEVYHCLQ",
             "title": "Full Panel: Over 66,000 Deaths Reported In The U.S. | Meet The Press | NBC News",
             "secondDuration": 500,
@@ -121,8 +115,14 @@
             "title": "Hospitals in the South Exceeding Capacity",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "IVL6MHkCYAs",
+            "title": "Comey In Senate Hearing: 'I'm Proud Of The Work' Of The Russia Investigation | NBC News NOW",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

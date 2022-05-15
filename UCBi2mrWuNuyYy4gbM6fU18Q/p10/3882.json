@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "q3NfN9F3BhY",
-            "title": "Extreme Weather: Deadly Tornadoes in Oklahoma",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "i62wxAQRlu8",
             "title": "Memorial Day 2012: Children in Military Families Remember Lost Fathers",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "Carly Fiorina: Men must say 'we're not going to respect someone who disrespects women'",
             "secondDuration": 623,
             "group": "group_7"
+        },
+        {
+            "videoId": "PuH8COugcmA",
+            "title": "Parkland school shooter suspect to plead guilty | WNT",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

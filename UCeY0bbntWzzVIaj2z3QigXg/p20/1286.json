@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "g4HUwqMsh1c",
-            "title": "George Floyd's Brother Philonise Testifies In Chauvin Trial | NBC Nightly News",
-            "secondDuration": 162,
-            "group": "group_7"
-        },
-        {
             "videoId": "tMe3pWOL2ho",
             "title": "Sen. Lindsey Graham And Sen. Patrick Leahy Clash On Reasons For Committee Absences | NBC News",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump Doubles Down On Labeling MS-13 Gang Members As ‘Animals’ | NBC News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "eOxziFANMVU",
+            "title": "General Jeff Sessions: No Pressure To Launch New Hillary Clinton Investigation | NBC Nightly News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T63-CYZwbmo",
-            "title": "Bill Engvall and Emma Slater Booted From 'DWTS'",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "nOZhPOLxIA8",
             "title": "Infra Red Video of Chaotic Cruise Ship Rescue Operation",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Jacqueline Kennedy's Favorite Things",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "ka1bIUf63ac",
+            "title": "Devastating earthquake in Mexico leads to race for survival",
+            "secondDuration": 506,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

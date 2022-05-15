@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X4PaIYa4oBY",
-            "title": "Briefing With Secretary Mike Pompeo Ahead Of G7 And Singapore Summits | NBC News",
-            "secondDuration": 921,
-            "group": "group_7"
-        },
-        {
             "videoId": "7A35YDdZizA",
             "title": "Embryo Adoption: Is it the Right Option For You? | NBC Nightly News",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Paul Ryan: President Trump ‘Made Right Decision’ To Ask For Michael Flynn’s Resignation | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "VmXwSYP7_2o",
+            "title": "New Calls For Expanded Access To Coronavirus Antibody Testing | NBC Nightly News",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

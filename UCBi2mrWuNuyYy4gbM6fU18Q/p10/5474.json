@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eWejoaD5JhE",
-            "title": "Cuomo responds to Trump's criticisms",
-            "secondDuration": 567,
-            "group": "group_7"
-        },
-        {
             "videoId": "uFN92oGS0Ww",
             "title": "The President, the Primaries, and an Oil Spill",
             "secondDuration": 283,
@@ -61,8 +55,14 @@
             "title": "High speed chase turns deadly in Kentucky",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "6t-Ts61kEKc",
+            "title": "Memorial Day Weekend to See Rain in Parts of US",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

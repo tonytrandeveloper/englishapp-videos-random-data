@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AJGGqI9vCkg",
-            "title": "200 People, Including Americans, Set To Fly From Afghanistan To Doha",
-            "secondDuration": 270,
-            "group": "group_7"
-        },
-        {
             "videoId": "nIxlH46HzJo",
             "title": "Man Returns Home To See What Hurricane Harvey Destroyed | NBC News",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - Dec. 8",
             "secondDuration": 3100,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZVRifzURzbo",
+            "title": "New Details In The Case Of Missing Connecticut Mother Of Five | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

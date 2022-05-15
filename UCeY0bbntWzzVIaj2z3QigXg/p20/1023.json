@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7zpvyGBq7is",
-            "title": "NY Gov. Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2403,
-            "group": "group_7"
-        },
-        {
             "videoId": "wX4BqRBckMM",
             "title": "George Floyd’s Nephew Says He Walked Out Of Courtroom During Graphic Video: ‘I Couldn’t Watch It’",
             "secondDuration": 112,
@@ -121,8 +115,14 @@
             "title": "ISIS: British Woman Actively Recruiting Teens | NBC Nightly News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "EXlyLPGI9W0",
+            "title": "Inside Pittsburgh Children’s Hospital Overwhelmed By Covid Cases",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

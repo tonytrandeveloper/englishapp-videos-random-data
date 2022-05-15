@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tHbUTw8j_Ao",
-            "title": "'The Joker' receives 11 Oscar nominations, including best picture",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ox8nxoJIEaM",
             "title": "New Details Emerge about Unarmed Man Shot By Florida Cops",
             "secondDuration": 505,
@@ -61,8 +55,14 @@
             "title": "2 pilots arrested for attempting to fly while intoxicated l ABC News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "f4sydisnhrI",
+            "title": "Desperate Search for Cargo Ship That Left Jacksonville Headed for the Bahamas",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

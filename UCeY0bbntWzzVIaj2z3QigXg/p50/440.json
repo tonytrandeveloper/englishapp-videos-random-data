@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ZmCFzTmPWjM",
-            "title": "Surfside Condo Collapse Death Toll Climbs To 94",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "LCWlQyeazO0",
             "title": "Full Nadler: 'Executive Privilege Cannot Be Used To Hide Wrongdoing' | Meet The Press | NBC News",
             "secondDuration": 482,
@@ -301,8 +295,14 @@
             "title": "Holmes: ‘I Have A Clear Recollection' Of Overhearing Trump-Sondland Call | NBC News",
             "secondDuration": 2308,
             "group": "group_7"
+        },
+        {
+            "videoId": "PMSDBJdq4_s",
+            "title": "Keystone Pipeline Vote Leaves Landrieu Disappointed | NBC News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

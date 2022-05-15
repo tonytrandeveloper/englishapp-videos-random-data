@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hEm5NC_8cT0",
-            "title": "Orlando Shooter Calls With Police Released",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "XRl_DIjMFAI",
             "title": "Wildfire scorches land near Los Angeles l ABC News",
             "secondDuration": 200,
@@ -121,8 +115,14 @@
             "title": "Serial Killer Manhunt Continues in Phoenix",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "iTCr_gY_BtY",
+            "title": "Trump begins 17-day vacation as Russia investigation heats up",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

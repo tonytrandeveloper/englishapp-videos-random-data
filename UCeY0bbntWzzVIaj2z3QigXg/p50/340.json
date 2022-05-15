@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "OMDDyFpspKQ",
-            "title": "Meet The Press Broadcast (Full) - May 16th, 2021 | Meet The Press | MSNBC",
-            "secondDuration": 2852,
-            "group": "group_7"
-        },
-        {
             "videoId": "xhdX4moR8vQ",
             "title": "Civil Rights Activists 'Friendship Nine' Exonerated | NBC Nightly News",
             "secondDuration": 147,
@@ -301,8 +295,14 @@
             "title": "Google’s Pixel Buds Let You Translate Up To 40 Languages In Real Time | Mach | NBC News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gb_5w-Iz12w",
+            "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3442,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

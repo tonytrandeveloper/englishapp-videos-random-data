@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3N41QU92aek",
-            "title": "'Django Unchained': Quentin Tarantino, Leonardo DiCaprio, Jamie Foxx Discuss Movie",
-            "secondDuration": 335,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xvol912cjjY",
             "title": "Orangutan and Dog: Odd Animal Pairs",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Senate Candidate Ken Buck on 'Top Line'",
             "secondDuration": 644,
             "group": "group_7"
+        },
+        {
+            "videoId": "5Inqi5wx2aA",
+            "title": "Michigan AG: Domestic terrorists pose ‘existential threat’",
+            "secondDuration": 382,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

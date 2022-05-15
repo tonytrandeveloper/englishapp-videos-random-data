@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Eq-UYVXGYj8",
-            "title": "NASA Celebrates Juno Entering Jupiter's Orbit",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "TUU1QjV6gFo",
             "title": "Top Line: Health Care: Start Over or Scale Down",
             "secondDuration": 393,
@@ -61,8 +55,14 @@
             "title": "Siege at the Capitol, COVID mourning, a magical snowfall: World in Photos, Jan. 7",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "I28_9eAwEW4",
+            "title": "Americans Struggling to Make Ends Meet | A Hidden America with Diane Sawyer (Nightline)",
+            "secondDuration": 571,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

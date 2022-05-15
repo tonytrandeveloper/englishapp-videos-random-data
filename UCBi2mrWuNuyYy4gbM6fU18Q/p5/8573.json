@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6ks9ZU61Fpo",
-            "title": "Suspect Arrested in Erin Andrews Case",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "wsFlp36Z1To",
             "title": "Fed considers 3 interest rate hikes in 2022 l ABC News",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "States see record spike in coronavirus cases l ABC News",
             "secondDuration": 321,
             "group": "group_7"
+        },
+        {
+            "videoId": "MaTygm8uB98",
+            "title": "NFL star quarterback Aaron Rodgers acknowledges COVID-19 fallout",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

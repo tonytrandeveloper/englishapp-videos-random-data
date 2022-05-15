@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i-F9J_mE50g",
-            "title": "Terror Alert",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "_uKMzlzQ4Lw",
             "title": "House Democrats present articles of impeachment against Trump l ABC News",
             "secondDuration": 237,
@@ -61,8 +55,14 @@
             "title": "Penn State frat brother may have deleted video",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "nb1cTpn5fGo",
+            "title": "Teen Cancer Patient Throws Goodbye Party",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Sh32-AZwA58",
-            "title": "Mueller testifies on Capitol Hill about Russia, Trump",
-            "secondDuration": 515,
-            "group": "group_7"
-        },
-        {
             "videoId": "6vsLpNZW0ms",
             "title": "8-year-old girl marshals in her father’s final military flight | WNT",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "Nurses in Texas Continue to Recover From Ebola as Treatment Procedures in US Improve",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "G6i8gk2qDIE",
+            "title": "Find Out How Two Little Boys Just Made a Million Dollars",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

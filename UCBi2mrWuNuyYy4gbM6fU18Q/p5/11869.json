@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IXsE2U7xyO8",
-            "title": "Documents show Scott Pruitt spent $832,000 of taxpayer funds on security",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "_cPfYGpEt9Y",
             "title": "Democratic debate heats up, Trump meets Putin, Women’s World Cup preview",
             "secondDuration": 1655,
@@ -31,8 +25,14 @@
             "title": "Trump delivers first public speech since meeting with Kim Jong Un",
             "secondDuration": 216,
             "group": "group_7"
+        },
+        {
+            "videoId": "yZu9BSE6g2w",
+            "title": "Global Powers Hold Talks With Iran",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

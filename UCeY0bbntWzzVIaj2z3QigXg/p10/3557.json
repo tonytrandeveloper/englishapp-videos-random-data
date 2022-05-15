@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eCQRhd-_4bw",
-            "title": "Nightly News Full Broadcast - Jan. 20",
-            "secondDuration": 1266,
-            "group": "group_7"
-        },
-        {
             "videoId": "ArR7KMApHaQ",
             "title": "At Least 9 Suspected Migrants Found Dead in Texas Tractor Trailer",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Labor Day Key In Trying To Control COVID-19 This Fall | NBC News NOW",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "FgC2RxsJff0",
+            "title": "DHS Secretary Admits He ‘Should Have Delayed’ Immigration Order, Briefed Congress | NBC News",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

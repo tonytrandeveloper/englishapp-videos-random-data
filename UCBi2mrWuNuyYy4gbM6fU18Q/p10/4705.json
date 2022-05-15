@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nAp77N628P4",
-            "title": "Mueller report: What we know about obstruction of justice, collusion",
-            "secondDuration": 523,
-            "group": "group_7"
-        },
-        {
             "videoId": "04b9eKA-wMo",
             "title": "Newly Released Video Shows Moments Before Police Shooting",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Unleashing the Mississippi River",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "vfmY94yU95Y",
+            "title": "Airlines issue travel waivers ahead of Midwest blizzard",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

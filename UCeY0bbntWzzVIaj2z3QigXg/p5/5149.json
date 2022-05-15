@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y2VIVF5A8w4",
-            "title": "South Carolina Attorney Alex Murdaugh Facing Fraud Charges",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "nfyW3rSmUII",
             "title": "Prince William And Kate Visit  NYC | NBC News",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "U.S. Officials: Iran And Russia Hacked Voter Data To Influence Election | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "LU25d3hoZ6g",
+            "title": "LIVE: Russian Forces Invade Ukraine As Biden Imposes Stronger Sanctions | NBC News",
+            "secondDuration": 42896,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

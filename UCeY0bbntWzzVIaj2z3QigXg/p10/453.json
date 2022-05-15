@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rjqtDBiq1a8",
-            "title": "White House Greenlights FBI To Expand Brett Kavanaugh Investigation | NBC Nightly News",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "aMYEHcpf5kU",
             "title": "New impeachment Inquiry Subpoenas Issued After Second Whistleblower Emerges | NBC Nightly News",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Can An Algorithm Save America's Justice System? | NBC News",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "LNwAlh6eKB4",
+            "title": "Live: Trump Participates in Signing Ceremony for the Great Outdoors Act | NBC News",
+            "secondDuration": 2008,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

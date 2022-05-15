@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kXybEAxL1tE",
-            "title": "Live: L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
-            "secondDuration": 3027,
-            "group": "group_7"
-        },
-        {
             "videoId": "5xioPxfKGA0",
             "title": "Russian Invasion: Ukraine and U.S. Officials Warn of Mayor Kidnappings",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "FBI: China Is Targeting U.S. Coronavirus Research Through Cyberattacks | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "Nq4oak5yklw",
+            "title": "Americans Turn Against Social Media By Wide Margins | Meet The Press | NBC News",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

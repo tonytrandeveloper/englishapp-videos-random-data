@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Khi_Tzoithg",
-            "title": "Everything Pumpkin For Fall",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "5gNEYYQMosA",
             "title": "House Dems Pass Health Care Bill",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Investigator Decapitated in Search for Killers",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "dnE8RON37mw",
+            "title": "‘Squid Game’ ignites dalgona candy craze",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

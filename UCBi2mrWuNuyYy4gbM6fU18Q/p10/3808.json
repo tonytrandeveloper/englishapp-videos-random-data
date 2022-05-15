@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9NwZKd_wdBE",
-            "title": "Melanie Oudin: The Next Cold Warrior",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "h93Cf_AojYM",
             "title": "SCOTUS rules to block citizenship question in end-of-term decision",
             "secondDuration": 244,
@@ -61,8 +55,14 @@
             "title": "Monica Lewinsky: 'I Was Patient Zero' of Online Shaming",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "Uf8sQnwVDE0",
+            "title": "Woman Accidentally Shot by Her Dad Tries to Save His Life",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "w6iKNMD-2RU",
-            "title": "Live: White House Holds Press Briefing | NBC News",
-            "secondDuration": 1357,
-            "group": "group_7"
-        },
-        {
             "videoId": "dWca27kUXkA",
             "title": "Protests In Charlottesville Result Of New Police Trainings After 2017 Violence | NBC News NOW",
             "secondDuration": 220,
@@ -31,8 +25,14 @@
             "title": "Journey Of A Bullet: Shot By Kidnapper | NBC News",
             "secondDuration": 475,
             "group": "group_7"
+        },
+        {
+            "videoId": "RxL4DYmqZXw",
+            "title": "Mike Pompeo Touts ‘Real Progress’ After Series Of Meetings With North Korean Envoy | NBC News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

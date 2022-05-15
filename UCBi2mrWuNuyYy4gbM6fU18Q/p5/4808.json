@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uOkiAClYJNc",
-            "title": "The Political Positioning Surrounding America's Budget, Sequester Cuts: 'This Week' Roundtable",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "fCFIhqXx2Bo",
             "title": "Soylent | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 389,
@@ -31,8 +25,14 @@
             "title": "Tornado hits New Orleans",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "4crIcBIU78I",
+            "title": "Swine Flu: How Bad Is It?",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

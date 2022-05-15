@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "csq4_gPa0Eo",
-            "title": "Greta Van Susteren Speaks Out Against Roger Ailes and Fox News",
-            "secondDuration": 318,
-            "group": "group_7"
-        },
-        {
             "videoId": "UQOgL30C0mg",
             "title": "Trump Fires Back on Supreme Court Nominee",
             "secondDuration": 196,
@@ -61,8 +55,14 @@
             "title": "Israel gives vulnerable citizens COVID-19 booster shots in world first",
             "secondDuration": 392,
             "group": "group_7"
+        },
+        {
+            "videoId": "sIAkB7JUwRY",
+            "title": "Fast-moving brush fire causes evacuations in Burbank, California",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

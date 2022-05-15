@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "h71PVTs-fBA",
-            "title": "'Newsies' Stars Use Signature Dance Moves for Wellness Campaign",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "RUcycIc7o_4",
             "title": "Newt Gingrich: President Obama, Mitt Romney the Same Person",
             "secondDuration": 247,
@@ -61,8 +55,14 @@
             "title": "Britney Spears Launches Lingerie Collection",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "QDyhcV623ag",
+            "title": "South Carolina primary coverage from ABC News Live",
+            "secondDuration": 12660,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

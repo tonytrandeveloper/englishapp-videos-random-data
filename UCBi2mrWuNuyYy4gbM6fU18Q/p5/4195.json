@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qHkmDXwiGPo",
-            "title": "34 people at White House test positive for COVID-19",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "WlFCX8vcxQ0",
             "title": "Oscar Pistorius's Bail Hearing: Prosecutors Argue Premeditated Murder",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "Gainesville Racetrack Crash: Larry Dixon Survives",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "9dRPK-03AVY",
+            "title": "Killer Bees Swarm California Town",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

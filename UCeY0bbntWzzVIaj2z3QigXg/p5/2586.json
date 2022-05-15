@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-K_F7pI_Hko",
-            "title": "Gov. Jerry Brown: Ted Cruz 'Unfit To Be Running' For President | Meet The Press | NBC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "ye2TKplLqp0",
             "title": "360 Video: Inside Boeing’s Starliner Capsule | Mach | NBC News",
             "secondDuration": 268,
@@ -31,8 +25,14 @@
             "title": "College Students Share Analysis On The Democratic Presidential Debates | NBC News Now",
             "secondDuration": 278,
             "group": "group_7"
+        },
+        {
+            "videoId": "gB2bvJWpbMg",
+            "title": "Dear Mr. President: Letters From The American People | NBC News",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

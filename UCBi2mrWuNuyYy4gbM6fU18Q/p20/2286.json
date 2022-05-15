@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wanfNUSz1Fg",
-            "title": "Finding Kelsie l 20/20 l PART 4",
-            "secondDuration": 502,
-            "group": "group_7"
-        },
-        {
             "videoId": "vyUITOX26g4",
             "title": "President Donald Trump welcomes World Series champion Houston Astros to White House | ABC News",
             "secondDuration": 1332,
@@ -121,8 +115,14 @@
             "title": "Pregnant and in Peril",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "3Hl0eDMMMrg",
+            "title": "Delta’s Latest Safety Video",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

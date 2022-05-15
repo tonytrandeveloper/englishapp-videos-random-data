@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gl3lmSOCHDY",
-            "title": "Privacy And Power: Your Digital Fingerprint (Part 1) | NBC Nightly News",
-            "secondDuration": 743,
-            "group": "group_7"
-        },
-        {
             "videoId": "iKgm4o03PLo",
             "title": "EPA Administrator Scott Pruitt On Phone Booth Spending: 'I Would Have Refused It' | NBC News",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Parents Are Not Cooperating With Investigation Of Children Who’ve Been Missing | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "4akFLFq3b-g",
+            "title": "President Donald Trump Holds Press Conference After Summit With Kim Jong Un | NBC News",
+            "secondDuration": 5028,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

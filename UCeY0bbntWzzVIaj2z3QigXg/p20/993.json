@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rrOQbFFnmmQ",
-            "title": "Vice President  Mike Pence Speaks On Charlottesville And Donald Trump's Comments | NBC News",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "MJ2p10BqotY",
             "title": "A Closer Look At What Laws Were Broken During The Capitol Hill Riots | NBC News NOW",
             "secondDuration": 217,
@@ -121,8 +115,14 @@
             "title": "Tropical Storm Nicholas Slams Gulf Coast",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "scFntygqgQA",
+            "title": "Trebek’s Diagnosis Highlights Struggle Of Catching And Treating Pancreatic Cancer | NBC Nightly News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

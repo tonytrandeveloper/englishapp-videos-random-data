@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MNiQYIINwlo",
-            "title": "At Least 20 Dead in Historic West Virginia Flooding | NBC Nightly News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "LFUyoPYKhPY",
             "title": "Meet The Crew of Inspiration4, The First All-Civilian Space Mission | NBC Nightly News",
             "secondDuration": 236,
@@ -61,8 +55,14 @@
             "title": "Concert In Rotterdam Canceled After Terror Threat Tipoff | NBC News",
             "secondDuration": 44,
             "group": "group_7"
+        },
+        {
+            "videoId": "KckRLmlJ8pw",
+            "title": "The Fight For Medical Marijuana For Epileptic Children | NBC Nightly News",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

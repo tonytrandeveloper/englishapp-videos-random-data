@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9Y-21SuoFNg",
-            "title": "Gov. Cuomo Gives Update On Coronavirus Spread Across NY State | NBC News",
-            "secondDuration": 5013,
-            "group": "group_7"
-        },
-        {
             "videoId": "_wD26igPUV4",
             "title": "Donald Trump, Jr. Likens American Public School To Soviet-Era Department Stores | NBC News",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "Timeline Of The Florida School Mass Shooting | NBC Nightly News",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "JTFlw-gM9gY",
+            "title": "Iran Marks 39th Anniversary Of Islamic Revolution Amid Tension | NBC Nightly News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

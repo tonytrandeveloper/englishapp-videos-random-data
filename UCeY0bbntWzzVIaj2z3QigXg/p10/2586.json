@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "M9y_ObB6B60",
-            "title": "Senator Elizabeth Warren Calls Out Mitch McConnell For Declaring Mueller Report Closed | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "2ZDX4RCvHgg",
             "title": "How Beer Can Benefit Your Health | Better | NBC News",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Announces U.S. Withdrawal From Iran Nuclear Deal | NBC News",
             "secondDuration": 2929,
             "group": "group_7"
+        },
+        {
+            "videoId": "idkWliod394",
+            "title": "Rescue Underway After Climber Falls On Mount Hood, Others Stranded | NBC Nightly News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

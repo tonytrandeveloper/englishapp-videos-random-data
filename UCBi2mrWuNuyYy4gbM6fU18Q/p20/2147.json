@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "K7WCSwEWjdk",
-            "title": "Does Acetaminophen Cause Liver Damage?",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "CB1FIzk_ZSo",
             "title": "Ted Cruz Scores Victory Over Donald Trump in Wisconsin",
             "secondDuration": 184,
@@ -121,8 +115,14 @@
             "title": "US Air Force Posts UFO Reports Online",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "DSP5hW0AwyU",
+            "title": "Man Shot Through Heart by Nail Gun Survives",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

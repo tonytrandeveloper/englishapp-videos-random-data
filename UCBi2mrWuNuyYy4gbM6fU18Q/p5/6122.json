@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BYpD8x1MTFA",
-            "title": "Interview With the David Plouffe",
-            "secondDuration": 621,
-            "group": "group_7"
-        },
-        {
             "videoId": "tHTXqdzMXMo",
             "title": "Zuccotti Park Cleanup Canceled, Occupy Wall Street Protesters Claim Victory; Russell Simmons Joins",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "After Super Tuesday, Where Election 2016 Goes From Here | ABC News",
             "secondDuration": 310,
             "group": "group_7"
+        },
+        {
+            "videoId": "2Hc-BckG1Bo",
+            "title": "Trump Revokes Washington Post's Credentials",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

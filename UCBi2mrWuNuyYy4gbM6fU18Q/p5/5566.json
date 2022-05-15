@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mDhsRztNIa4",
-            "title": "John Glenn Receives the Presidential Medal of Freedom in 2012 | ARCHIVAL VIDEO",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "zQJPA2Aqwhw",
             "title": "Pope Francis' Meets the Media",
             "secondDuration": 220,
@@ -31,8 +25,14 @@
             "title": "R. Kelly prosecutor: ‘This case is about a predator’",
             "secondDuration": 375,
             "group": "group_7"
+        },
+        {
+            "videoId": "1VM8CpRhkc4",
+            "title": "DA announces results of review into police-involved shooting of Stephon Clark",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

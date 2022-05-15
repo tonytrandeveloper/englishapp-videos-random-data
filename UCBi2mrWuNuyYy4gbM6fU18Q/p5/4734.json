@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "55SuGzBrt6U",
-            "title": "Ryan Lochte, US Swimmers Not Robbed, Police Say",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "MCNN12VN0e0",
             "title": "Joe Biden FULL Speech at the Democratic National Convention",
             "secondDuration": 1138,
@@ -31,8 +25,14 @@
             "title": "Amtrak derailment survivor, eyewitnesses, describe scary scene",
             "secondDuration": 444,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZhmLcxyzc4s",
+            "title": "Tim McGraw Performs 'Shotgun Rider' Live",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

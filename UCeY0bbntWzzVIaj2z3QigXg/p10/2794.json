@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2cowDYYGuCQ",
-            "title": "Indianapolis Police Sergeant Facing Charges After Bodycam Shows Excessive Force",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "5-z2EGirzXc",
             "title": "Watch Full Coronavirus Coverage - May 12 | NBC News Now (Live Stream)",
             "secondDuration": 42900,
@@ -61,8 +55,14 @@
             "title": "Della Britton Baeza: \"For student success it takes...\"",
             "secondDuration": 22,
             "group": "group_7"
+        },
+        {
+            "videoId": "LPORF1rZU2w",
+            "title": "Trump Admits He Discussed Joe And Hunter Biden On Call With Ukraine’s Leader | NBC Nightly News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

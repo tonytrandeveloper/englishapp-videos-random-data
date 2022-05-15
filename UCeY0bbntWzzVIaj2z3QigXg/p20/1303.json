@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dFiZuGbTAdU",
-            "title": "What Set John McCain Apart From So Many Politicians | NBC Nightly News",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pv6UXBsaoMA",
             "title": "Facebook Won’t Verify Political Ads, Introduces New Transparency Feature | NBC News NOW",
             "secondDuration": 297,
@@ -121,8 +115,14 @@
             "title": "Weinstein Trial Is Major Step In #MeToo Movement, But Will Justice System Deliver? | NBC News NOW",
             "secondDuration": 265,
             "group": "group_7"
+        },
+        {
+            "videoId": "SSTC8tOvRyc",
+            "title": "Race To Restore Power in Louisiana",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

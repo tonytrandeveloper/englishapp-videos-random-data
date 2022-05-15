@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "rKclqyDTmlw",
-            "title": "Boston Bombing Trial:Carjacking Victim's Escape Caught on Tape",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sexp3Ve52j4",
             "title": "Mortgage Scandals: J.P. Morgan Chase Admits Targeting Service Members 2/9/2011",
             "secondDuration": 138,
@@ -301,8 +295,14 @@
             "title": "Tom Hanks and Steven Spielberg Discuss 'Bridge of Spies'",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "jngC30tXRps",
+            "title": "President Trump's valet tests positive for COVID-19 | WNT",
+            "secondDuration": 291,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

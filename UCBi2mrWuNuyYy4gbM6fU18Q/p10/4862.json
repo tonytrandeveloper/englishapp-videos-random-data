@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zZv9cUEhE1o",
-            "title": "Alleged highway sniper arrested in North Carolina",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "Cc5JwcGJ_Bk",
             "title": "Live Stream: Oscars 2017 Watch Party | ABC News",
             "secondDuration": 19140,
@@ -61,8 +55,14 @@
             "title": "Milestones celebrated across US despite pandemic | WNT",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "jqcWxLg4L-0",
+            "title": "ABC News Live Update: Dr. Anthony Fauci receives Moderna’s COVID-19 vaccine",
+            "secondDuration": 825,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

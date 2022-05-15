@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "62yTBqkKR-A",
-            "title": "Pope Francis Discharged From Hospital 11 Days After Surgery",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "6dSPKzgG8SI",
             "title": "Former CIA Director: Investigation Needed To Determine If There Was Collusion | NBC Nightly News",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2194,
             "group": "group_7"
+        },
+        {
+            "videoId": "bboMJrFcjeI",
+            "title": "Suspect In Murder Of Cardiologist Dies By Suicide | NBC Nightly News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

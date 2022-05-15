@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "b1OdeUUevPc",
-            "title": "Britney Spears’ Father Suspended From Conservatorship",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "n0FGg0Uznz8",
             "title": "How To Choose The Most Effective Sunscreen | NBC Nightly News",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "Watch Hurricane Dorian Creep Over The Bahamas As 'Catastrophic' Category 5 | NBC News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "c0TELBMW-00",
+            "title": "Illinois Gov. Pritzker Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3225,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

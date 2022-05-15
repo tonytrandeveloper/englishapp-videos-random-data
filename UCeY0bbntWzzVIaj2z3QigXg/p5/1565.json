@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jQHvGUjqrFM",
-            "title": "White House Doctor: Trump ‘Has Met Or Exceeded All Standard Hospital Discharge Criteria’ | NBC News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "b0zXp3rwQKA",
             "title": "White House Holds Press Briefing: June 25 | NBC News",
             "secondDuration": 2716,
@@ -31,8 +25,14 @@
             "title": "South America Leads Vaccination Rate Numbers Amid Efficacy Concerns",
             "secondDuration": 244,
             "group": "group_7"
+        },
+        {
+            "videoId": "dZpFMNEUP0s",
+            "title": "GOP State Bills Restrict Voting Access, Loosen Gun Laws, Crackdown On Protests | Meet The Press",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

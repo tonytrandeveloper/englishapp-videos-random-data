@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pkv9l0SHncc",
-            "title": "ABC News exclusive: Ukraine-Russia negotiation analysis",
-            "secondDuration": 393,
-            "group": "group_7"
-        },
-        {
             "videoId": "xBSMykXr2u8",
             "title": "Oscar Nominations 2012: Jean Dujardin, George Clooney, Octavia Spencer, Among Actors Honored",
             "secondDuration": 310,
@@ -61,8 +55,14 @@
             "title": "Equifax data breach could affect more than 140M Americans",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "jjJHE343nxQ",
+            "title": "The Briefing Room: House investigations, Kushner's clearances, Trump's wall emergency declaration",
+            "secondDuration": 1189,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

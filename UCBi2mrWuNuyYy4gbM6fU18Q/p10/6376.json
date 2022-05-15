@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XPmLIwUe924",
-            "title": "Putin orders Russia’s nuclear deterrent forces on alert l ABC News",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "7-kGF9IDoWU",
             "title": "Casey Anthony Trial: Defense Rests",
             "secondDuration": 301,
@@ -61,8 +55,14 @@
             "title": "Concerns grow for children as COVID-19 cases soar",
             "secondDuration": 242,
             "group": "group_7"
+        },
+        {
+            "videoId": "4uuuOdul7ys",
+            "title": "St. Patrick's Day Celebrations Around the World",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

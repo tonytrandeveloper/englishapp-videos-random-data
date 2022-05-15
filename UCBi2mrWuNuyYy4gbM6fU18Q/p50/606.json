@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "IHCV0tqd1Sk",
-            "title": "Scientists in New York focused on popular heartburn drug for treatment of COVID-19 | WNT",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "8N5RcMWpsXs",
             "title": "'GAA' Rumor Has It: Robert Pattinson Interviews",
             "secondDuration": 228,
@@ -301,8 +295,14 @@
             "title": "How the education wars are expanding beyond critical race theory",
             "secondDuration": 568,
             "group": "group_7"
+        },
+        {
+            "videoId": "PmYT7kFWxrc",
+            "title": "Scam Artists Target Your Tax Refund",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

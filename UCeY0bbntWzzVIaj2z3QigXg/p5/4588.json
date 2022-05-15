@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oWLQOdABac0",
-            "title": "Facebook Just Announced Affordable Virtual Reality | Mach | NBC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "QrQLRMDzftw",
             "title": "Full Surgeon General: 'There Is No Magic Bullet' To Stop Spread Of COVID-19 | Meet The Press",
             "secondDuration": 568,
@@ -31,8 +25,14 @@
             "title": "Biden Discusses September Jobs Report Numbers: 'We're Continuing To Make Progress'",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "h7vdIW9EVUM",
+            "title": "Collins: Democrats Have 'Lowered The Standard' For Impeachment | NBC News",
+            "secondDuration": 162,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

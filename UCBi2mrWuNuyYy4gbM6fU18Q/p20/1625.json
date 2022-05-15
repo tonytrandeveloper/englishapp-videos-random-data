@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fx13vq2lu5I",
-            "title": "'This Week': Kevin Spacey",
-            "secondDuration": 307,
-            "group": "group_7"
-        },
-        {
             "videoId": "KHZ8eQMpysA",
             "title": "Orlando Shooter Texted Wife During Rampage",
             "secondDuration": 144,
@@ -121,8 +115,14 @@
             "title": "Lena Dunham defends her writer from sexual assault claim",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "R0a2s2MbDWk",
+            "title": "'Glee' Star Arrested in Child Pornography Case",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

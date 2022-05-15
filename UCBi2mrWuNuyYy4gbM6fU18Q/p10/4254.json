@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gYaOZzbX3rg",
-            "title": "Donald Trump Meets Mexico's President",
-            "secondDuration": 238,
-            "group": "group_7"
-        },
-        {
             "videoId": "iZmvGl3EUm0",
             "title": "Chaos After Chile Quake",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Dancing With the Stars, Matchups Revealed (03.02.11)",
             "secondDuration": 30,
             "group": "group_7"
+        },
+        {
+            "videoId": "37r-TOOaTOg",
+            "title": "Children affected in YMCA chemical leak doing much better",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NvcwW4jUYFo",
-            "title": "Day 4 of Ketanji Brown Jackson's confirmation hearing",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vjb4vxsHfDU",
             "title": "Trump promises 'middle class miracle' with tax plan",
             "secondDuration": 173,
@@ -31,8 +25,14 @@
             "title": "Backpage.com CEO Facing Sex Trafficking Charges",
             "secondDuration": 454,
             "group": "group_7"
+        },
+        {
+            "videoId": "DKfn54WhewE",
+            "title": "Florida high school resource officer accused of using excessive force",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1zn9BOnuid8",
-            "title": "Biden declares that Putin 'cannot remain in power' | ABCNL",
-            "secondDuration": 303,
-            "group": "group_7"
-        },
-        {
             "videoId": "6KAxLZesS48",
             "title": "High gas prices continue to rise across nation l ABCNL",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Bernie Sanders speaks after projected 2nd-place finish in South Carolina primary",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "n8i9_tQpjP8",
+            "title": "NFL suspends Cowboy Ezekiel Elliott for 6 games",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

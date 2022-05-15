@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1LBkuSC4vOg",
-            "title": "Donald Trump arrives in Paris at the invitation of France's president, Emmanuel Macron",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "niqNimO-2Vo",
             "title": "Ben Cardin Says Budget Will Be A 'True Compromise'",
             "secondDuration": 512,
@@ -121,8 +115,14 @@
             "title": "LAPD Investigates Drowning In Demi Moore's Pool",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "_yp7vAOrPFk",
+            "title": "Shock waves hit the economy as the number of COVID-19 cases soars in the US",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sflHT_L-Tos",
-            "title": "Kim Jong Un Reportedly Makes First Appearance In 20 Days | NBC Nightly News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "6ft7soPEIO0",
             "title": "Pipeline Cyberattack Raises Questions Over U.S. Infrastructure Vulnerabilities | NBC News NOW",
             "secondDuration": 247,
@@ -31,8 +25,14 @@
             "title": "LIVE: White House Holds Press Briefing | NBC News",
             "secondDuration": 1277,
             "group": "group_7"
+        },
+        {
+            "videoId": "QUt8rcD9qLc",
+            "title": "Trump To Utah Governor: ‘How’s Mitt Romney? You Keep Him, We Don’t Want Him.’ | NBC News",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7Y-TVZktMg8",
-            "title": "This Morning’s Top Headlines – August 31 | Morning News NOW",
-            "secondDuration": 926,
-            "group": "group_7"
-        },
-        {
             "videoId": "-UiC5vCmI2Q",
             "title": "Saudi Arabia Mobilizes Ground Troops To Fight In Yemen | NBC Nightly News",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Ice Jams Trigger Flooding, Dangerous Conditions | NBC Nightly News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZXaBtGdSU4k",
+            "title": "Some Members Of Congress Call For Ban Of Bump Stocks | NBC Nightly News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wJ-3xzNQXr8",
-            "title": "LIVE: Biden Delivers Remarks on March Jobs Report | NBC News",
-            "secondDuration": 496,
-            "group": "group_7"
-        },
-        {
             "videoId": "zQOEL-UB1Ew",
             "title": "Ukrainian President: ‘Russia Will Pay A Huge Price If They Attack Us’ | NBC Nightly News",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "President Obama Makes Final Trip On Air Force 1 | NBC News",
             "secondDuration": 516,
             "group": "group_7"
+        },
+        {
+            "videoId": "DLo_-uX0OYk",
+            "title": "Inspiring America: Hometown Hero Turns Family Bar Into Safe Haven For Kids | NBC Nightly News",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

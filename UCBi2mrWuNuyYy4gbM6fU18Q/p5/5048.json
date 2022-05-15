@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "v8vGyWc8f34",
-            "title": "Miami's Luxury Condo Boom",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "PZHug4yc9cs",
             "title": "Sen. Lincoln: Let's Shine Light on Wall St.",
             "secondDuration": 600,
@@ -31,8 +25,14 @@
             "title": "Kenyan hotel, sanctuary allows visitors to have breakfast with giraffes",
             "secondDuration": 344,
             "group": "group_7"
+        },
+        {
+            "videoId": "JR-hAviMj4M",
+            "title": "High-Tech Toys Unboxing",
+            "secondDuration": 264,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

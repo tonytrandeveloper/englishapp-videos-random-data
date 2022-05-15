@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "s3zbU4aNQNQ",
-            "title": "20/20 - Your Biggest Fan - Part 2",
-            "secondDuration": 504,
-            "group": "group_7"
-        },
-        {
             "videoId": "fXcKedZ39M0",
             "title": "JetBlue Pilot Video Reveals Clayton Osbon's Apparent 'Panic Attack' Mid-Flight; Passengers Subdue",
             "secondDuration": 170,
@@ -301,8 +295,14 @@
             "title": "Michelle Obama on Keeping Marriage, Politics Separate",
             "secondDuration": 423,
             "group": "group_7"
+        },
+        {
+            "videoId": "TkFmi5iGfN0",
+            "title": "Germanwings Plane Crash's Terrifying Final Moments",
+            "secondDuration": 458,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

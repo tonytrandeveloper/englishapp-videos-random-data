@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "45CtVg9b5hQ",
-            "title": "President Trump presents Medal of Valor to Dayton, Ohio officers who responded to shooting",
-            "secondDuration": 2710,
-            "group": "group_7"
-        },
-        {
             "videoId": "42W_qiERMPE",
             "title": "Cold Weather Tips 1/23/2011",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Fewer Household Chores May Lead to Weight Gain in Women",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "mGEsffSbi5s",
+            "title": "Georgia election day",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

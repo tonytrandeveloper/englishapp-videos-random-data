@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bL5LbiaudsU",
-            "title": "Webcast: Whitney Houston Coroner Report",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "kNtYObhLFWI",
             "title": "Dad Who Encouraged His Son to Fight on Tape Explains His Actions (2011)",
             "secondDuration": 347,
@@ -121,8 +115,14 @@
             "title": "Man jailed at age 11 for a murder he says he didn't commit speaks out",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "yPWGsghzNN0",
+            "title": "Suspect arrested after 3 killed, 5 injured in shooting on Dutch commuter train",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

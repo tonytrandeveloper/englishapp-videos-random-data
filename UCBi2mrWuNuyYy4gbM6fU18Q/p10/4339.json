@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3to4t8RM0FY",
-            "title": "FDA plans to authorize 3rd vaccine shot for immunocompromised",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "5eD6r5NnMgg",
             "title": "US Women's Soccer Team Takes Over NYC",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "Four decades before ‘I can’t breathe’ | ABC News Live Prime",
             "secondDuration": 635,
             "group": "group_7"
+        },
+        {
+            "videoId": "HJh4pHgy5gw",
+            "title": "Cruise Ship Trapped in Antarctic Awaits Rescue",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

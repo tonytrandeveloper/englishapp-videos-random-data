@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DvEfpbYx1kU",
-            "title": "Texas Biker Brawl puts Police on High Alert",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "vbvZhRd3EQM",
             "title": "Selena Gomez, Vanessa Hudgens, 'Spring Breakers' Role Draws Controversy, Rave Reviews",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "Dustin Diamond Back in Jail",
             "secondDuration": 27,
             "group": "group_7"
+        },
+        {
+            "videoId": "1n5xAA1M1f8",
+            "title": "Ukraine President Reportedly Agrees to Election Deal",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5SYikFxQJRo",
-            "title": "Real Money: Cut Costs on Medical Expenses",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "AHd1d2OAglo",
             "title": "'10% Happier': Arianna Huffington | ABC News",
             "secondDuration": 3611,
@@ -31,8 +25,14 @@
             "title": "Mitt Romney Concession Speech: 2012 Presidential Election GOP Candidate Delivers Remarks from Boston",
             "secondDuration": 328,
             "group": "group_7"
+        },
+        {
+            "videoId": "LR6gAYzZSFc",
+            "title": "ABC News Live Update: Biden to address 1st joint session of Congress",
+            "secondDuration": 2413,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0OFGoP_X4i4",
-            "title": "Extreme weather from coast to coast",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "nS8NAeA1Dt4",
             "title": "More answers to your COVID-19 questions",
             "secondDuration": 436,
@@ -121,8 +115,14 @@
             "title": "Walmart Cashier Gets Career Encouragement From Loretta Lynn",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "9Rb0R6qvZAo",
+            "title": "ABC News Prime: GOP takes aim at SCOTUS pledge; Parents struggle with COVID; Mayim Bialik convo.",
+            "secondDuration": 5496,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

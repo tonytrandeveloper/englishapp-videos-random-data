@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hxDROjRWk9E",
-            "title": "University of Texas Homicide | Suspect In Custody",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "8-z_NHKVlxk",
             "title": "Can blood of recovered COVID-19 patients help treat disease?",
             "secondDuration": 297,
@@ -61,8 +55,14 @@
             "title": "Daniel Radcliffe Recalls Time on 'Harry Potter'",
             "secondDuration": 431,
             "group": "group_7"
+        },
+        {
+            "videoId": "FTqSngxua6M",
+            "title": "NY Man Accused of Killing His Son: Never-Before-Heard Tapes",
+            "secondDuration": 489,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

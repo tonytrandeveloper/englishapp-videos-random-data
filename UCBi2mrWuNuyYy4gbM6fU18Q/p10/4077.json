@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0x3OVR2g7x8",
-            "title": "Race for House seat neck and neck in GOP-held Pa. district",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "L2QCDmJWhO0",
             "title": "Waffle House secrets revealed",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "New Hampshire Primary 2012: Now I Get It",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "l9sOfW92unc",
+            "title": "In Case You Missed It: 9/13/2013",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

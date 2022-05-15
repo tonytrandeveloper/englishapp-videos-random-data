@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ol6KWGMskCw",
-            "title": "Caught on Tape: Violent Black Friday Shopping Brawls",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "18pQG1lh_XU",
             "title": "Will and Kate: Should You Give Your Ex a Second Chance?",
             "secondDuration": 366,
@@ -61,8 +55,14 @@
             "title": "Did Trump do enough to beat Biden?",
             "secondDuration": 500,
             "group": "group_7"
+        },
+        {
+            "videoId": "X7bwhiK8iFM",
+            "title": "Amazon founder, wife announce they're divorcing after 25 years",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

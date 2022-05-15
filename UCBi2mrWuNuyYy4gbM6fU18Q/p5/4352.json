@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sPJQmf4P8GU",
-            "title": "Inauguration 2013: Bernice King Reflects on Obama Using the King Bible",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZLj_5XXBLWU",
             "title": "'This Week': From Pope to Saint",
             "secondDuration": 270,
@@ -31,8 +25,14 @@
             "title": "Sen. Mike Rounds: Russia ‘can't handle the Ukrainian armed forces’",
             "secondDuration": 455,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kr2ofAichmU",
+            "title": "Crocodile Goes Surfing Down Under",
+            "secondDuration": 32,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

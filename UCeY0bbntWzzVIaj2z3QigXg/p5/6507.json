@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GUC9mJ0rDRs",
-            "title": "Wildfires In California Cost Millions | NBC News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "OBVdAslh89E",
             "title": "Russia Launches Full-Scale Invasion of Ukraine",
             "secondDuration": 243,
@@ -31,8 +25,14 @@
             "title": "Robert Mueller: Russia Was 'Absolutely' Trying To Impact Our Election | NBC News",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "XqufTOKDn48",
+            "title": "Thousands Protest Donald Trump’s Victory Around US | NBC News",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

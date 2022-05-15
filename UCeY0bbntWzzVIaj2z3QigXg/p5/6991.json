@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "A3msFRaCqT0",
-            "title": "Texas Teen Raises $30,000 For Hospital That Treated Her Cancer",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "RO2CT-fPufE",
             "title": "Into a New Voting Rights Act | Into America Podcast – Ep. 49 | NBC News and MSNBC",
             "secondDuration": 1751,
@@ -31,8 +25,14 @@
             "title": "Mike Pence On Robert Mueller Investigation: 'We'll Continue To Cooperate' | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "c4ZPBma4UvI",
+            "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 5552,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

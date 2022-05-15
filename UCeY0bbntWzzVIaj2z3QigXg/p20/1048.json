@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hSwwfIhMXU0",
-            "title": "White House Holds Press Briefing | NBC News",
-            "secondDuration": 1470,
-            "group": "group_7"
-        },
-        {
             "videoId": "GTuJwent62E",
             "title": "North Carolina School Officer Fired After Video Shows Him Body-Slamming A Student | NBC Nightly News",
             "secondDuration": 96,
@@ -121,8 +115,14 @@
             "title": "Non-Profit Sees Surge Of Asylum Seekers Released Into U.S. As Biden Reverses Trump Policies",
             "secondDuration": 334,
             "group": "group_7"
+        },
+        {
+            "videoId": "8PSzM20UVN0",
+            "title": "Paul Ryan On Whether He Would Rescind Support For Donald Trump | NBC News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

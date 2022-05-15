@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mpA0Nx0FYBE",
-            "title": "Tensions boil over during protests on both coasts",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "C2GyiCwLCho",
             "title": "Osama Bin Laden Was Planning Attack According to Officials (2011)",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "5 Injured in Search for Missing Firefighter",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "OT6j2Adi2uk",
+            "title": "FBI agent under investigation after his gun goes off at Denver nightclub",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

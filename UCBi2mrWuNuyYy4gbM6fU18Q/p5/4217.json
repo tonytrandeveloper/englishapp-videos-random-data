@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ahRD3xAkYFE",
-            "title": "Bob Cusak on What's Happening on the Hill",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "g2h8uYRMRLU",
             "title": "Debbie Wasserman Schultz Says 'There Was No Fight at All' Over Platform Change on God, Israel",
             "secondDuration": 333,
@@ -31,8 +25,14 @@
             "title": "The Rundown: Top headlines today: Dec. 7, 2021",
             "secondDuration": 274,
             "group": "group_7"
+        },
+        {
+            "videoId": "faiPHazl6bI",
+            "title": "Pres. Donald Trump signs a Presidential Memorandum targeting China’s economic aggression | ABC News",
+            "secondDuration": 1558,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

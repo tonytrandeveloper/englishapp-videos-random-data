@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x9UYvYkLvfU",
-            "title": "The Two Obamas: How the President Changed in Four Years",
-            "secondDuration": 361,
-            "group": "group_7"
-        },
-        {
             "videoId": "G0oFXmwg_pE",
             "title": "Arsenal of Weapons Found in NYC | 3 Arrested",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "Jet Stream Dip Brings Arctic Air",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "RuPX15LM5DI",
+            "title": "Hillary Clinton May Be Considering Run for NYC Mayor: Report",
+            "secondDuration": 317,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

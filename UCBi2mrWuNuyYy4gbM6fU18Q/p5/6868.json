@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l55-cbJjJSY",
-            "title": "Taliban attacks US base over weekend",
-            "secondDuration": 249,
-            "group": "group_7"
-        },
-        {
             "videoId": "XQertdaJjJo",
             "title": "'GMA' honoring true American hero for Fourth of July",
             "secondDuration": 211,
@@ -31,8 +25,14 @@
             "title": "Royal Milestone for Queen Elizabeth.",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "xFkwXPrTtDg",
+            "title": "'Jack Goes Boating' Stars on New Film",
+            "secondDuration": 504,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

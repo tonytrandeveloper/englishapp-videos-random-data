@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WI13OT16Hdw",
-            "title": "Trump caught on tape pressuring Georgia official to find votes",
-            "secondDuration": 248,
-            "group": "group_7"
-        },
-        {
             "videoId": "D7Os2v6BTo0",
             "title": "Donald Trump Interview: Trump on Gas Prices",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Massive evacuation underway due to fires in Australia l ABC News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "KCRIt47hpfE",
+            "title": "Nerves of Steel",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

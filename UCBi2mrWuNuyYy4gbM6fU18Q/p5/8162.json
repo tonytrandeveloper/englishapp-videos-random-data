@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "419tLxjmfvc",
-            "title": "Cutting Edge: Inside the Brain",
-            "secondDuration": 272,
-            "group": "group_7"
-        },
-        {
             "videoId": "utY7nUpDOtA",
             "title": "Puzzling Movie Messages",
             "secondDuration": 224,
@@ -31,8 +25,14 @@
             "title": "Trump Mar-a-Lago resort security concerns",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "8jmAbgohO8Y",
+            "title": "White House official to testify, California fire emergency, Brexit in gifs | ABC News",
+            "secondDuration": 1577,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

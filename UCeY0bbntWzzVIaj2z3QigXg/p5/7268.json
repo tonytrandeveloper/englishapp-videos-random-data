@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tUTm76lCwYM",
-            "title": "NBC News Facebook Debate on Meet The Press",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "6D56lE671PA",
             "title": "Inside Senate Passage Of $1.9 Trillion Covid Relief Bill | Meet The Press | NBC News",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "When Will Kids Be Eligible To Receive Covid Vaccine Shots? | NBC News NOW",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "GZnOBt8FzXE",
+            "title": "ISIS Beheads Aid Worker Peter Kassig | NBC News",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

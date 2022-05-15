@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PMAp1hIYHAU",
-            "title": "Michelle Obama, Laura Bush Discuss Support For US Troops, Veterans | NBC News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "4uW1QhJjCbs",
             "title": "Bruce Willis To Step Away From Acting After Aphasia Diagnosis",
             "secondDuration": 52,
@@ -31,8 +25,14 @@
             "title": "Dan Crenshaw Defends Criticism Of Ilhan Omar's 9/11 Comments | NBC News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "M8eflPEUZXk",
+            "title": "President Donald Trump Says GOP Memo ‘Vindicates’ Him | NBC Nightly News",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

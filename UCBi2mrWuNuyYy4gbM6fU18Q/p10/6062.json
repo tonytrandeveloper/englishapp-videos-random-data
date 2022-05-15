@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "03x1XO5-zHo",
-            "title": "America, Russia Agree on Syrian Chemical Weapons Deal",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "-LIWFe2qxS4",
             "title": "Dick Cheney 'This Week' Interview - Former Vice President on NSA Spying Revelations and GOP Politics",
             "secondDuration": 547,
@@ -61,8 +55,14 @@
             "title": "Cops Shoot, Kill 66-Year-Old Woman",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "_e5Xe6mjzeo",
+            "title": "Same-Sex Couple Welcomes Triplets Via Surrogate",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

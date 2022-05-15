@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jrc6sho022E",
-            "title": "Sarah Michelle Gellar: Worst Advice",
-            "secondDuration": 28,
-            "group": "group_7"
-        },
-        {
             "videoId": "576am9Kfb3o",
             "title": "14 Killed in California Shooting Rampage",
             "secondDuration": 279,
@@ -61,8 +55,14 @@
             "title": "Kim Kardashian West meets grandmother she helped free from prison",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "W-9xsu6cnoE",
+            "title": "Soldier Returns Home Early, Surprises Mother",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fHtV0i8W-b0",
-            "title": "Two Meteors Sighted Over the US",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "jj8LstGYWE0",
             "title": "Liam Neeson faces new fallout from violent racial comment",
             "secondDuration": 278,
@@ -61,8 +55,14 @@
             "title": "Pres. Trump makes EU trade announcement at White House",
             "secondDuration": 939,
             "group": "group_7"
+        },
+        {
+            "videoId": "0n-6CxIWEIY",
+            "title": "Mother's Loss Helps Man Receive Rare Face Transplant",
+            "secondDuration": 595,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

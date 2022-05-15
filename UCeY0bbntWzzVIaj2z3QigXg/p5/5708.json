@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Dxy6zzHnouc",
-            "title": "These Volunteers Work Day And Night To Save Lives In Syria | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "qNvQyD_qFAM",
             "title": "Three Headlines From The Release Of The Robert Mueller Report | NBC News",
             "secondDuration": 203,
@@ -31,8 +25,14 @@
             "title": "David Petraeus Will Plead Guilty Over Leaks | NBC Nightly News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "h8TQ75dRalE",
+            "title": "What The Internet Looked Like In The 1990s | Flashback | NBC News",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

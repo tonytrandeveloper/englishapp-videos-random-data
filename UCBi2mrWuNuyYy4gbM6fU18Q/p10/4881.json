@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ov5a7LHFQBs",
-            "title": "JetBlue: All You Can Fly for $599",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "Squrm3nvV1g",
             "title": "The Debrief: Deadly shooting at Pensacola naval base, border death outrage and more | ABC News",
             "secondDuration": 1507,
@@ -61,8 +55,14 @@
             "title": "Special Delivery Leads to Amazing Rescue",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "zcvKmgZwgMM",
+            "title": "Meaning Behind Putin's Shirtless Poses",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H9W4W5x-aoc",
-            "title": "FBI Conducts Undercover Sting in Las Vegas",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "uo2bvNOhKh8",
             "title": "New health care plan could leave millions uninsured",
             "secondDuration": 201,
@@ -31,8 +25,14 @@
             "title": "Activist draws attention to looted African art through unconventional method",
             "secondDuration": 350,
             "group": "group_7"
+        },
+        {
+            "videoId": "Us_Ds3b1rOg",
+            "title": "CDC: Half of US adults are fully vaccinated against COVID-19 | ABC News",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

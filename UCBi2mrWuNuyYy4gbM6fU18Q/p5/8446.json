@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aWG1jtXlEeM",
-            "title": "Texas sees steady rise in COVID-19 cases since reopening 2 weeks ago",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "6WFTxVoAylY",
             "title": "State of the Union 2015: Obama Calls Ideas 'Practical, Not Partisan'",
             "secondDuration": 321,
@@ -31,8 +25,14 @@
             "title": "President Trump’s doctors say he has ‘continued to improve’",
             "secondDuration": 594,
             "group": "group_7"
+        },
+        {
+            "videoId": "NL8_rSaiI1E",
+            "title": "At least 9 swimmers confirmed dead from flash flood in Arizona",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

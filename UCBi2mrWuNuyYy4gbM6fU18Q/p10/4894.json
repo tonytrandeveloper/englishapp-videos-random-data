@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EPhZoN4vaj4",
-            "title": "Fear of Food or \"Food Neophobia\" | Nightline | ABC News",
-            "secondDuration": 577,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kw6Dvpq0wM0",
             "title": "Alex Trebek Sets Record as Host of 'Jeopardy!'",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "Michelle Obama Post-White House Plans",
             "secondDuration": 440,
             "group": "group_7"
+        },
+        {
+            "videoId": "8iBzhkvZlJI",
+            "title": "Rep. Jim Jordan won't say if Trump asking China to investigate Biden is appropriate | ABC News",
+            "secondDuration": 732,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

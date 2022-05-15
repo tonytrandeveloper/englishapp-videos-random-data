@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "g4HUwqMsh1c",
-            "title": "George Floyd's Brother Philonise Testifies In Chauvin Trial | NBC Nightly News",
-            "secondDuration": 162,
-            "group": "group_7"
-        },
-        {
             "videoId": "tMe3pWOL2ho",
             "title": "Sen. Lindsey Graham And Sen. Patrick Leahy Clash On Reasons For Committee Absences | NBC News",
             "secondDuration": 100,
@@ -301,8 +295,14 @@
             "title": "Nearly 1 In 4 New York City Residents Test Positive For COVID-19 Antibodies | NBC Nightly News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "TaYmBM2stnk",
+            "title": "Growing Concerns Over China’s Control Of American Drug Supply | NBC Nightly News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

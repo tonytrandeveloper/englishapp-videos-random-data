@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KRayUjhA8vs",
-            "title": "NBC Nightly News Broadcast (Full) - August 2nd, 2021",
-            "secondDuration": 804,
-            "group": "group_7"
-        },
-        {
             "videoId": "6_tAXmEWqbU",
             "title": "This Morning’s Top Headlines – October 29 | Morning News NOW",
             "secondDuration": 1301,
@@ -61,8 +55,14 @@
             "title": "Biden And Sanders Battle For Votes Ahead Of Critical Set Of Primaries | NBC Nightly News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "xKYGJz0a8zY",
+            "title": "Young Entrepreneurs Get Creative With Their Summer Lemonade Stands | Nightly News: Kids Edition",
+            "secondDuration": 931,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

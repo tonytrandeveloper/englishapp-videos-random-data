@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pLq6yqL3Y9Q",
-            "title": "Nightly News Full Broadcast (May 16th)",
-            "secondDuration": 1135,
-            "group": "group_7"
-        },
-        {
             "videoId": "-jI26lVcfSc",
             "title": "White House Press Secretary Sarah Huckabee Sanders Press Briefing | NBC News",
             "secondDuration": 1330,
@@ -121,8 +115,14 @@
             "title": "Video Shows Man Scaling Quickly Down 19-Story Philadelphia High-Rise During Fire | NBC Nightly News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "v3fKiD4iavw",
+            "title": "Lives Lost At Pulse Nightclub Shooting Honored On Anniversary | NBC News",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

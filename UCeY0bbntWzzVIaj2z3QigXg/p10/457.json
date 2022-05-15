@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D16_LpAcanc",
-            "title": "McConnell Speaks Against Republicans Objecting To Electoral College Vote Count | NBC News",
-            "secondDuration": 529,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hjx7XgJM0sg",
             "title": "WATCH: Time-Lapse Video Shows Bobcat Fire Spread From Smoke To Wildfire | NBC News NOW",
             "secondDuration": 62,
@@ -61,8 +55,14 @@
             "title": "Biden Campaign Continues Ahead Of Vice Presidential Debate | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "PpVbBhZPbKY",
+            "title": "Boston Health Centers Work To Vaccinate Massachusetts’ Most Vulnerable | NBC News NOW",
+            "secondDuration": 331,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

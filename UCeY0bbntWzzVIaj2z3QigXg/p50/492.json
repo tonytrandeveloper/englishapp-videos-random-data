@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "hIcSyKZyEW4",
-            "title": "The Great Wall Of China Partially Reopens As Coronavirus Cases Drop In Country | NBC News",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "k1Az95F_1bM",
             "title": "4 Clever Hacks For A Day At The Beach | Better | NBC News",
             "secondDuration": 103,
@@ -301,8 +295,14 @@
             "title": "Over 100 People Unaccounted For In Kentucky After Tornado Disaster",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "RAETwCmaV2o",
+            "title": "15-Year-Old Suspected Shooter In Custody After Killing Three At Michigan High School",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BAuoL22HuBo",
-            "title": "Emeril Lagasse's Gluten-free Pizza, Flourless Chocolate Almond Cake Recipes",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "pUZ15QVv_Y0",
             "title": "Arlington's 'Saddest Acre in America'",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Woman who kidnapped baby girl 20 years ago tells her story for the first time",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "MHAkP21levA",
+            "title": "'Game of Thrones' EXCLUSIVE Cast Interview",
+            "secondDuration": 292,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

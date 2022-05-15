@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5qyiUVfp4nA",
-            "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3390,
-            "group": "group_7"
-        },
-        {
             "videoId": "sWGrLWqZ9T4",
             "title": "New Tax Proposal Could Affect 401K Plans For Millions Of Americans | NBC Nightly News",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "The Battle Over Free Speech Rages On | NBC Nightly News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "oYfQgM2Q5vI",
+            "title": "How Black Families Are Still Feeling Impacts Of The Tulsa Massacre",
+            "secondDuration": 497,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

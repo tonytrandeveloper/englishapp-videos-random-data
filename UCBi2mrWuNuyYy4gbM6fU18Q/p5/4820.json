@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Xt0RtfYilYE",
-            "title": "George Stephanopoulos Answers 'This Week' Viewer Questions, What Year Was It?",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "FdxxueNyzu8",
             "title": "Ukraine refugee count surpasses 2 million I ABCNL",
             "secondDuration": 199,
@@ -31,8 +25,14 @@
             "title": "Stew Leondard's Supermarket CEO talks food shortage prevention l ABC News",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "KAyirI4T0_o",
+            "title": "Inside Mississippi’s last abortion clinic as Supreme Court battle looms",
+            "secondDuration": 551,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

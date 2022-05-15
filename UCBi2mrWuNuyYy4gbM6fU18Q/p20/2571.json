@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RailU176mLc",
-            "title": "Video of Dramatic El Chapo Raid  | ABC News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z9iF-qrj9kg",
             "title": "Judge berates former USA Gymnastics doctor Larry Nassar in court",
             "secondDuration": 136,
@@ -121,8 +115,14 @@
             "title": "Extreme Strategies for Winning the Lotto",
             "secondDuration": 314,
             "group": "group_7"
+        },
+        {
+            "videoId": "fekeYVUnIzA",
+            "title": "World Reacts to Donald Trump's Muslim Immigration Plan",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

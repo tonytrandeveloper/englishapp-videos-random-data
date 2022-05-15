@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vzMi4gHdzcI",
-            "title": "ABC News Live: ISIS leader killed in Syria raid",
-            "secondDuration": 345,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lku0wFIBCCA",
             "title": "Donald Trump Delivers Florida Victory Speech in [FULL SPEECH]",
             "secondDuration": 946,
@@ -31,8 +25,14 @@
             "title": "Istanbul Explosion Kills at Least 10",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "MBRcIYG350g",
+            "title": "Wildfire Jumps Highway in California and Vehicles Catch Fire |  World News Tonight | ABC News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

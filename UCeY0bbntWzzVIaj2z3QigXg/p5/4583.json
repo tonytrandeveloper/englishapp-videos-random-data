@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jNF2V29upvM",
-            "title": "Prosecutor Releases New Details on Pennsylvania Killing Spree | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "ByoeF1DgJ3c",
             "title": "One Last Time: President Obama’s Final State of the Union Address | NBC Nightly News",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "What if: America's Four Political Parties | Meet The Press | NBC News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "8myg0Q8kbKM",
+            "title": "Trump Tells Republicans To Stop ‘Wasting Their Time’ On Immigration Legislation | NBC Nightly News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

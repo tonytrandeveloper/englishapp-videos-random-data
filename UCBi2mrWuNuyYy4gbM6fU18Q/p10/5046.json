@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UeCOpeJyX2A",
-            "title": "Patricia Arquette on Her Role in 'Boyhood'",
-            "secondDuration": 292,
-            "group": "group_7"
-        },
-        {
             "videoId": "2SbLAh7nIwU",
             "title": "WEBCAST: \"Up\" Paint Job",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Trump: 'The United States will withdraw from the Iran nuclear deal'",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "y7wB3BrttuM",
+            "title": "The Fame Game",
+            "secondDuration": 397,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

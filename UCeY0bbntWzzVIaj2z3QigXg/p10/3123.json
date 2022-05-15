@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CAcnSN-ObnM",
-            "title": "Celebrities Take To Social Media To Be Voices In Reason In COVID-19 Pandemic | NBC News",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "tC4D8OFDkO4",
             "title": "NASA Tracks Greenland Glaciers To Understand Climate Change | NBC Nightly News",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Race To Recount Votes In Florida | NBC Nightly News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "j1bpnLUl8gs",
+            "title": "Derek Chauvin Indicted On Federal Civil Rights Charges | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Wjitk-wvHiU",
-            "title": "3rd drug maker announces 'highly effective' vaccine l GMA",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "3qyfbHjQYsM",
             "title": "President Biden shares his new 6-part strategy to tackle the pandemic | ABC News",
             "secondDuration": 182,
@@ -121,8 +115,14 @@
             "title": "Historically Black colleges making moves to forgive student debt",
             "secondDuration": 443,
             "group": "group_7"
+        },
+        {
+            "videoId": "zUuc6Q1u0q0",
+            "title": "Trump focuses on immigration in State of the Union address",
+            "secondDuration": 334,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

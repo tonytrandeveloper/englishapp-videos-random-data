@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Zba8ElvQf_I",
-            "title": "'I think the President will win Ohio': Gov. Mike DeWine | ABC News",
-            "secondDuration": 456,
-            "group": "group_7"
-        },
-        {
             "videoId": "A7OugC5-6oY",
             "title": "Despite heavy rains, Greece lights up for the New Year",
             "secondDuration": 205,
@@ -31,8 +25,14 @@
             "title": "Pilots report encounters with high-flying objects",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "TQ3pFkRBxqY",
+            "title": "Former WH Chief Strategist Bannon says Trump has never lied: 'Not to my knowledge'",
+            "secondDuration": 625,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

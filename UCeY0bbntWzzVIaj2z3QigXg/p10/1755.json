@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bcENYzBfafc",
-            "title": "Emmett Till Case Reopened | NBC Nightly News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "wVEpgbExUwU",
             "title": "President Donald Trump Holds Campaign Rally In Tennessee | NBC News",
             "secondDuration": 3633,
@@ -61,8 +55,14 @@
             "title": "Trump Delivers Remarks At Spirit Of America Showcase | NBC News NOW",
             "secondDuration": 1600,
             "group": "group_7"
+        },
+        {
+            "videoId": "o8MdRn7tVZU",
+            "title": "What Does The New CDC Mask Guidance Mean For Families With Young Kids?",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

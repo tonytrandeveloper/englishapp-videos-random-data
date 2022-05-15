@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zmvTu1Q3ZE8",
-            "title": "Jeff Bezos, Blue Origin crew hold press conference after successful spaceflight",
-            "secondDuration": 469,
-            "group": "group_7"
-        },
-        {
             "videoId": "8p1URa48loU",
             "title": "Harry Potter and the Cursed Child | Live Play vs Movie Cast | The Real Reel",
             "secondDuration": 40,
@@ -61,8 +55,14 @@
             "title": "Affordable Care Act and Roe v. Wade at stake in SCOTUS confirmation",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "lG5rvjzY96I",
+            "title": "Airline CEOs face lawmakers on flight cancellations l ABC News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

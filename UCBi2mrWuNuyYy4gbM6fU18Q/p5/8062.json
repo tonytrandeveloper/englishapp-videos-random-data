@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Cq7TX4RybSU",
-            "title": "ABC News Prime: CDC reverses guidance; Chilling Jan 6th testimony; COVID-19 crisis in Indonesia",
-            "secondDuration": 5339,
-            "group": "group_7"
-        },
-        {
             "videoId": "WZCuzrperuc",
             "title": "Once-green part of Madagascar now a dust bowl",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "New signs Michael Flynn may be cutting deal with special counsel Robert Mueller",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "E2S8FC8eabs",
+            "title": "Jury finds Kyle Rittenhouse not guilty on all charges",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "H3hjxJoDFs0",
-            "title": "The Briefing Room: Michael Cohen's tapes, Trump to invite Putin to White House",
-            "secondDuration": 1510,
-            "group": "group_7"
-        },
-        {
             "videoId": "5RFWD7DRkAs",
             "title": "Final 2012 Presidential Debate on Foreign Policy; 'This Week' Roundtable Discussion",
             "secondDuration": 1027,
@@ -121,8 +115,14 @@
             "title": "'Rachel Zoe Project' Star to Present Clothing Line During New York Fashion Week Fall 2011",
             "secondDuration": 225,
             "group": "group_7"
+        },
+        {
+            "videoId": "hpf9scYCp3s",
+            "title": "Adele Won't Stream New Album '25'",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

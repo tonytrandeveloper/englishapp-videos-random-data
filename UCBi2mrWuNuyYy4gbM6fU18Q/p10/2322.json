@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4Jn6cb12tRc",
-            "title": "Makeup artists turns herself into horrifying monsters",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "IYsIgUJzIlg",
             "title": "Hillary Clinton Sweeps Bernie Sanders in 4 Primary States",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Derek Jeter Wins Last Game at Yankee Stadium",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "yhSdTBNSVC0",
+            "title": "Can Hillary Clinton Avoid 2008 Mistakes?",
+            "secondDuration": 338,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

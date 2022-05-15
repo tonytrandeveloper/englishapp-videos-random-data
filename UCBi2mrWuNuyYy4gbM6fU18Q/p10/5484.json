@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BOpIWKKR7L4",
-            "title": "Window cracks on Southwest flight",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "T2FoV2NF4wI",
             "title": "Frank Sinatra Jr. Dies While on Tour",
             "secondDuration": 27,
@@ -61,8 +55,14 @@
             "title": "Dude Perfect: 'Trick Shots Are Forever'",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rcj8ZZAn7EQ",
+            "title": "Santa Claus makes special visit to Kentucky l ABC News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

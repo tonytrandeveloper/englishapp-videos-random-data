@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cFdh08PpjH0",
-            "title": "CES 2013 in 60 Seconds: Tobii Rex CES Review, Control Computer with Eyes",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "hFAxDj-dApM",
             "title": "Tinder Adds New Desirability Rating Code",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Prince Harry Opens Up about Princess Diana, Having Kids",
             "secondDuration": 351,
             "group": "group_7"
+        },
+        {
+            "videoId": "lTm6ch9Hu-M",
+            "title": "Cool Cats Who Love Cats",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

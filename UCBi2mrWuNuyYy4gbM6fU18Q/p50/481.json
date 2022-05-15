@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "xFa2h8yk9kw",
-            "title": "White House press briefing 7/19/17 with break down from 'The Briefing Room'",
-            "secondDuration": 2860,
-            "group": "group_7"
-        },
-        {
             "videoId": "GUFKiFBA3fk",
             "title": "Pres. Donald Trump remarks on Santa Fe school shooting in speech at the Prison Reform Summit",
             "secondDuration": 966,
@@ -301,8 +295,14 @@
             "title": "Astronaut Christina Koch returns home after 1 year in space | ABC News Prime",
             "secondDuration": 308,
             "group": "group_7"
+        },
+        {
+            "videoId": "IEsp918Yelo",
+            "title": "Angelina Jolie Faces the Executive Who Criticized the Hollywood Star",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

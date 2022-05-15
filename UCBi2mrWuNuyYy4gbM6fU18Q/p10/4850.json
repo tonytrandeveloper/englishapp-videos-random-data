@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "I2MJuNxjZao",
-            "title": "'Loud Music' Murder Trial: Michael Dunn Testifies",
-            "secondDuration": 448,
-            "group": "group_7"
-        },
-        {
             "videoId": "PXWbGHdK3CQ",
             "title": "UFC president takes stage at the 2020 RNC",
             "secondDuration": 354,
@@ -61,8 +55,14 @@
             "title": "Angelina Jolie Says Sometimes It's \"Fine to Get Dirty and Tough\"",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "FjRd0i6CsYg",
+            "title": "Son, Dad and Seahawks",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

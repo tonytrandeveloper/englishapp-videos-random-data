@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2r75cjd16kA",
-            "title": "A big night at the Oscars",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "eLrBNCIeaUk",
             "title": "Diane Sawyer Takes You Inside 'A Nation of Women Behind Bars' | A Hidden America (GMA)",
             "secondDuration": 234,
@@ -31,8 +25,14 @@
             "title": "London attack | 4 killed including suspect, at least 29 hospitalized in London terror attack",
             "secondDuration": 225,
             "group": "group_7"
+        },
+        {
+            "videoId": "DXEvD2u-h7I",
+            "title": "Pope Francis Touches Millions of Lives During Brazil Trip",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

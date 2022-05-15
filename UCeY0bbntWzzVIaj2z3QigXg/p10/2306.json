@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "h242c18N1Sg",
-            "title": "USS John McCain Collision: Families Of Missing Sailors Speak Out | NBC Nightly News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "KeiPbv-EL6Y",
             "title": "SCOTUS Nominee Neil Gorsuch Pressed About Legality Of President Trump’s Travel Ban | NBC News",
             "secondDuration": 199,
@@ -61,8 +55,14 @@
             "title": "Trump Deploys National Guard To Help States Respond To The Coronavirus | NBC News",
             "secondDuration": 318,
             "group": "group_7"
+        },
+        {
+            "videoId": "nsWmzyYaMew",
+            "title": "State Department, Pentagon Briefings Amid Taliban Takeover Of Afghanistan",
+            "secondDuration": 2626,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

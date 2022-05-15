@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6cEiTxS9HlU",
-            "title": "Police Use Force In Attempt To Stop Brawl In Jersey City | NBC News NOW",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "wzPFuCgxdVY",
             "title": "Trump ‘Prepared To Take Whatever Action Is Necessary’ If Iran Retaliates | NBC Nightly News",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
             "secondDuration": 1969,
             "group": "group_7"
+        },
+        {
+            "videoId": "A3msFRaCqT0",
+            "title": "Texas Teen Raises $30,000 For Hospital That Treated Her Cancer",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

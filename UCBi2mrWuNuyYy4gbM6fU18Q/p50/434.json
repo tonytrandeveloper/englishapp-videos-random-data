@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "wlROB3uzC6s",
-            "title": "Marine's Best Friend",
-            "secondDuration": 312,
-            "group": "group_7"
-        },
-        {
             "videoId": "SXHBTKR_FFs",
             "title": "Major retailers part of FTC supply chain investigation | ABC News",
             "secondDuration": 70,
@@ -301,8 +295,14 @@
             "title": "Melania's Gift to Michelle Obama",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "KmZh89lWKJM",
+            "title": "Divided We Fail: Can Split Congress Work Together?",
+            "secondDuration": 319,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

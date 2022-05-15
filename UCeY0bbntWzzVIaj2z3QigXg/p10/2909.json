@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Vgnf_aylyAM",
-            "title": "George H.W. Bush's Dog Sully Visits Former President In Capitol Rotunda | NBC News",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "9T1ruVGkVTg",
             "title": "What To Know For Next Tax Season If You Don’t Want To Owe The IRS | NBC Nightly News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "'Info-Demic' : How Misinformation Is Spreading As Fast As Coronavirus Itself | NBC News",
             "secondDuration": 1397,
             "group": "group_7"
+        },
+        {
+            "videoId": "WV7HcQzJpSs",
+            "title": "Biden Marks First Memorial Day As Commander-In-Chief",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

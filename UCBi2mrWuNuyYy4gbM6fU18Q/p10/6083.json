@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Afv9e2EdJxk",
-            "title": "Trump Calls Cruz-Kasich Alliance 'Pathetic' and 'Weak'",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "IQ9ra_poT3w",
             "title": "President Trump announces Virginia shooting suspect's death",
             "secondDuration": 264,
@@ -61,8 +55,14 @@
             "title": "Extreme Weather Slams Heartland, East Coast Awaits Winter",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "4yvxHjjoGCU",
+            "title": "Parents of ex-Marine detained in Russia protest at White House",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

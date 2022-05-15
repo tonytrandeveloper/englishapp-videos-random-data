@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "w1XH4VYk9tc",
-            "title": "NBC News NOW Full Broadcast - July 9, 2021",
-            "secondDuration": 3014,
-            "group": "group_7"
-        },
-        {
             "videoId": "xL3q46y2ljY",
             "title": "Top Story with Tom Llamas - Jan. 5 | NBC News NOW",
             "secondDuration": 3129,
@@ -31,8 +25,14 @@
             "title": "Trump: Migrant Children Separated From Families Are 'Well Taken Care Of' | NBC News",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "0TypLpejgLo",
+            "title": "Biden Calls For Police Reform Meeting At White House If Elected | NBC News",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

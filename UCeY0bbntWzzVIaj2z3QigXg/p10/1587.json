@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G_RVCvIMTsQ",
-            "title": "Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3068,
-            "group": "group_7"
-        },
-        {
             "videoId": "3uvSlON04qc",
             "title": "President Donald Trump Speaks To U.S. Troops In Japan (Full) | NBC News",
             "secondDuration": 1245,
@@ -61,8 +55,14 @@
             "title": "Why Covid-19 Is Not Like The Flu For Children",
             "secondDuration": 214,
             "group": "group_7"
+        },
+        {
+            "videoId": "dAo8hXoNAn8",
+            "title": "Texas Landowners Hinder Trump’s Efforts To Build Southern Border Wall | NBC News NOW",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0PEfO__QY84",
-            "title": "'Jeopardy's' Alex Trebek on stage 4 cancer diagnosis: 'I'm fighting through it'",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "T9Bt7wEW87M",
             "title": "Sergeant surprises family at State of the Union | ABC News",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "Penn State Frat Under Criminal Investigation Over Secret Facebook Page",
             "secondDuration": 403,
             "group": "group_7"
+        },
+        {
+            "videoId": "1cBL2zPnif8",
+            "title": "University suspends fraternity after brawl leaves student injured",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

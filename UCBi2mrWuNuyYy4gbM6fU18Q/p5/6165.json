@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Zr4pRupLQGY",
-            "title": "WNBA star marries newly-free man",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "-q9DhSYsNAY",
             "title": "ABC News Live Update: Joe Biden and Kamala Harris to take the stage",
             "secondDuration": 495,
@@ -31,8 +25,14 @@
             "title": "FULL SPEECH: Hillary Clinton, Alicia Machado at Dade City, Florida Rally",
             "secondDuration": 2490,
             "group": "group_7"
+        },
+        {
+            "videoId": "TBE9q2sMsGk",
+            "title": "Smithsonian collects artifacts from Jan. 6 attack",
+            "secondDuration": 749,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

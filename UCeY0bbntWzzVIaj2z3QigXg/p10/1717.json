@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sGaPPJZczhQ",
-            "title": "Ferguson Elects First Black Mayor Nearly 6 Years After Michael Brown's Death | NBC News NOW",
-            "secondDuration": 660,
-            "group": "group_7"
-        },
-        {
             "videoId": "M425X3NWbbA",
             "title": "WHO Leaders: ‘Vaccines Do Not Equal Zero Covid’ | NBC News",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Greta Thunberg Says U.S. ‘Not Really Treating The Climate Crisis As An Emergency’",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "lj9j8uySgW4",
+            "title": "Pfizer Pushes For Covid Vaccine Booster Ahead of FDA Decision",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

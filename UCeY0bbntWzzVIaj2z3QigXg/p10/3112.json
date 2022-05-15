@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6TGghnNQXUA",
-            "title": "Tropical Depression Imelda Brings Heavy Rain, Flooding To Texas | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "1g5ddNLFtfE",
             "title": "Lawsuits Accuse Major Retailers Of Advertising Fake Sales | NBC Nightly News",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "MH370 Relatives Show Debris, Ask Authorities To Do More | NBC News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZVxjGs4GKL4",
+            "title": "Biden Marks Pandemic Losses In Thanksgiving Video Message",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "D3uJezMh2mw",
-            "title": "11-Year-Old Sales Pitch Wins Hearts & A Hundred Dollars",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "X8e2lxx6yPU",
             "title": "Sarah Palin's Path: Iowa First, White House Next?",
             "secondDuration": 163,
@@ -121,8 +115,14 @@
             "title": "Japanese robot peels bananas perfectly",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "-p-WyVx-o_c",
+            "title": "'More Than Human': Animal Portraits",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

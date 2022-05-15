@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OwWfa0UM4vQ",
-            "title": "What Did Your Father Teach You?",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "92_Ng3tocc8",
             "title": "Americans Face Federal Government Shutdown",
             "secondDuration": 254,
@@ -31,8 +25,14 @@
             "title": "Russia and the United States Locked in a Duel of Super Powers",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "4YQFu4UURfY",
+            "title": "Shooting at Southern California bar",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

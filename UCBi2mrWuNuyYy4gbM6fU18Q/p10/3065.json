@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AP-BEXZSRiA",
-            "title": "At least 11 injured in shooting at California bar",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "h0TBcFFa3HM",
             "title": "Coffee's Effects Against Cancer",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Dick Cheney vs. Colin Powell",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "mxHU454yBW8",
+            "title": "Popcorn: Tracy Morgan",
+            "secondDuration": 524,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

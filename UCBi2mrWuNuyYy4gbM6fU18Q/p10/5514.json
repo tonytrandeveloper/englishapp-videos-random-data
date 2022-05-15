@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qZIxmhmENTA",
-            "title": "'Posse' program helps students stay in college",
-            "secondDuration": 458,
-            "group": "group_7"
-        },
-        {
             "videoId": "otP_NUxlwjo",
             "title": "The mental toll on health care workers",
             "secondDuration": 242,
@@ -61,8 +55,14 @@
             "title": "Special counsel says Paul Manafort broke cooperation deal",
             "secondDuration": 270,
             "group": "group_7"
+        },
+        {
+            "videoId": "ViSk0wZqyzw",
+            "title": "Simon Cowell to Leave 'American Idol'",
+            "secondDuration": 357,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HdfuSDxApwE",
-            "title": "Latest updates on COVID-19: July 15, 2020",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "r1QoIPnKfqk",
             "title": "Mitt Romney supports election-year Senate vote on Trump’s Supreme Court nominee | WNT",
             "secondDuration": 234,
@@ -31,8 +25,14 @@
             "title": "US COVID-19 death toll tops 900,000 | WNT",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "qhYiIC20UvA",
+            "title": "Homeowner Tracks Down Alleged Package Thief From Home Security Video",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

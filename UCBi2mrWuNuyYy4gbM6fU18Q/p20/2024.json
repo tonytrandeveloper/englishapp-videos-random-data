@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dARN6WZTo2w",
-            "title": "Baked goods empire founder Charles Entenmann dies at 92",
-            "secondDuration": 33,
-            "group": "group_7"
-        },
-        {
             "videoId": "zQw77q_KAOM",
             "title": "The mysterious case of missing couple found dead in Belize",
             "secondDuration": 423,
@@ -121,8 +115,14 @@
             "title": "Suspect in custody for stabbing in Nashville",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "SQtVkdrKFZY",
+            "title": "Parents charged in torture allegedly held 13 siblings 'captive': Officials",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

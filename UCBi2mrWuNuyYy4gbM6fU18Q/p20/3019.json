@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "opy5CP4qv2I",
-            "title": "FDA grants full approval to Pfizer COVID-19 vaccine",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "ql69qX3AToQ",
             "title": "America’s hospitals brace for potential surge of patients",
             "secondDuration": 156,
@@ -121,8 +115,14 @@
             "title": "Fallout from Trump breaking quarantine for drive-by outside hospital l GMA",
             "secondDuration": 388,
             "group": "group_7"
+        },
+        {
+            "videoId": "NEIkNZvDFnU",
+            "title": "Alleged newsroom shooter sued Capital Gazette for defamation",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

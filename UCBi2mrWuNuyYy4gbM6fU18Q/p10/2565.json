@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3epJWi9jAII",
-            "title": "Glickman: Public Said 'No' to 'Hyper-partisanship'",
-            "secondDuration": 694,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nz0DMxEuG4g",
             "title": "Feeling Stuck in Your Job?",
             "secondDuration": 259,
@@ -61,8 +55,14 @@
             "title": "Actor Jussie Smollett found guilty of filing false police report",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "4lOGIkNITMg",
+            "title": "Billy Ray Cyrus Performs 'Amazing Grace'",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

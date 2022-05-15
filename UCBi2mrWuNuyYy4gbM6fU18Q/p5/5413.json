@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Fp8xrBaGMIE",
-            "title": "ABC News’ Powerhouse Politics team breaks down the town hall with Joe Biden",
-            "secondDuration": 715,
-            "group": "group_7"
-        },
-        {
             "videoId": "UTJqjb1RF5s",
             "title": "Kitten Given New Home by Mustached Cop",
             "secondDuration": 34,
@@ -31,8 +25,14 @@
             "title": "VMA 2016 Highlights",
             "secondDuration": 266,
             "group": "group_7"
+        },
+        {
+            "videoId": "YD-kzHFDjLs",
+            "title": "Andrew Cuomo talks concerns of 2nd wave of coronavirus l ABC News",
+            "secondDuration": 520,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "g3O2Ss0t31k",
-            "title": "'I wouldn't cooperate with Adam Schiff': Giuliani | ABC News",
-            "secondDuration": 894,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lzm-vAmBoXw",
             "title": "Passenger ejected from car after crash into toll plaza",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "The Rundown: Top headlines today: Feb. 11, 2022",
             "secondDuration": 269,
             "group": "group_7"
+        },
+        {
+            "videoId": "X7M1q7SetU4",
+            "title": "Colorado Shooting Victims",
+            "secondDuration": 606,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

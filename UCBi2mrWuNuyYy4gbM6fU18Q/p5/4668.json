@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9iC2lHeeIms",
-            "title": "El Paso shooting: Officials give update on mass shooting  | ABC News",
-            "secondDuration": 1793,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qic-eF4mOKA",
             "title": "Deadly Tornadoes Slam the South",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "US and Taliban announce agreement",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "eItaB8YBpI4",
+            "title": "Michigan secretary of state: ‘No legal or factual basis’ to question election results",
+            "secondDuration": 364,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

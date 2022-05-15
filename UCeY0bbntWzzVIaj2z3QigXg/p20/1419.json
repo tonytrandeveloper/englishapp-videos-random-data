@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-w5mJqJzxtw",
-            "title": "Examining Ukraine’s History Of Corruption | NBC News Now",
-            "secondDuration": 360,
-            "group": "group_7"
-        },
-        {
             "videoId": "PnJJJ9seILU",
             "title": "Millions of Americans Struggling Without Paid Family Leave",
             "secondDuration": 110,
@@ -121,8 +115,14 @@
             "title": "Debunking Conspiracies Around The Coronavirus | NBC News NOW",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "ailGvF2n_OY",
+            "title": "Biden Holds Drive-In Rally In Florida | NBC News",
+            "secondDuration": 1440,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

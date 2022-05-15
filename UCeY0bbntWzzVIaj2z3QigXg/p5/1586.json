@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Dbpfmg0OliQ",
-            "title": "Hallie Jackson NOW - Feb. 7 | NBC News NOW",
-            "secondDuration": 2599,
-            "group": "group_7"
-        },
-        {
             "videoId": "iSd5zrR-Vuc",
             "title": "Healthcare Workers In Coronavirus Hotspots Face A Shortage of Staff | NBC Nightly News",
             "secondDuration": 164,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - October 4th",
             "secondDuration": 1259,
             "group": "group_7"
+        },
+        {
+            "videoId": "ahwd64hW8i8",
+            "title": "Dow Rallies After Strong Jobs Report, Comments By Federal Reserve Chairman | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

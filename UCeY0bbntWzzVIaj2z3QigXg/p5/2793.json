@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fpWOPevvYag",
-            "title": "President Obama Sings Happy Birthday To Daughter Malia | NBC News",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y3I_gSYPTqA",
             "title": "ISIS Survivor Nadia Murad Becomes UN Goodwill Ambassador | NBC News",
             "secondDuration": 406,
@@ -31,8 +25,14 @@
             "title": "House Holds Hearing on Afghanistan Withdrawal | NBC News",
             "secondDuration": 16375,
             "group": "group_7"
+        },
+        {
+            "videoId": "2alFuE4BHsg",
+            "title": "South Carolina Governor Calls For Confederate Flag’s Removal | NBC Nightly News",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

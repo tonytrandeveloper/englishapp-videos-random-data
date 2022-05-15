@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qAviXjrI9lU",
-            "title": "Afghan refugees work to start a new life in the US",
-            "secondDuration": 492,
-            "group": "group_7"
-        },
-        {
             "videoId": "BOXw459aiMk",
             "title": "Town of Ferguson on Edge",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Economic impact of COVID-19 on small businesses",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "zQz5hJny8pw",
+            "title": "Sexting Scandal Envelops Colorado High School",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SEIXlCJDuPs",
-            "title": "DOJ to investigate Minneapolis police after Chauvin verdict",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "BmasDf8goeU",
             "title": "The Conversation: Health Care End Game in Sight?",
             "secondDuration": 177,
@@ -31,8 +25,14 @@
             "title": "Charlie and Brooke File for Divorce",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "1RB8ICFmhXs",
+            "title": "New concerns about election security as voters head to the polls",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9LjBaKBro5w",
-            "title": "Brutally Cold Weather Spreads Across The Country |  NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "VEJWCvnAMlc",
             "title": "Elizabeth Warren Announces She Is Suspending Her Presidential Campaign | NBC News",
             "secondDuration": 527,
@@ -61,8 +55,14 @@
             "title": "Late Night Host Jimmy Kimmel Vs Judge Roy Moore: A Twitter Feud | NBC News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "ftd87dQ3gU0",
+            "title": "Live: Arizona Governor Gives Coronavirus Updates | NBC News",
+            "secondDuration": 4288,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

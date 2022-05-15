@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "l6SYknPKonE",
-            "title": "NYC Mayor De Blasio Announces Mandatory Body Worn Camera Release Policy | NBC News NOW",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "FrvhqnauxtQ",
             "title": "What Changed President Donald Trump's Mind On Family Separation At Border? | NBC News",
             "secondDuration": 102,
@@ -301,8 +295,14 @@
             "title": "America In Crisis: Economic Turning Point | NBC News",
             "secondDuration": 3060,
             "group": "group_7"
+        },
+        {
+            "videoId": "u2zydqZXlfk",
+            "title": "Mike Bloomberg Says He Spoke To Pete Buttigieg And Amy Klobuchar: ‘I’m In It To Win It’ | NBC News",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

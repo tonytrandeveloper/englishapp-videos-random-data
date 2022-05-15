@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DrbNPYsmcow",
-            "title": "Top Story with Tom Llamas – Jan. 12 | NBC News NOW",
-            "secondDuration": 3158,
-            "group": "group_7"
-        },
-        {
             "videoId": "3uQvmnEzTHc",
             "title": "WHO: ‘Europe Has Now Become The Epicenter Of The Pandemic’ | NBC News",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Watch: Trump Presents Medal of Freedom to Dan Gable | NBC News",
             "secondDuration": 1141,
             "group": "group_7"
+        },
+        {
+            "videoId": "vvYneKGbxS4",
+            "title": "NASA Announces Two New Missions To Explore Venus",
+            "secondDuration": 301,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

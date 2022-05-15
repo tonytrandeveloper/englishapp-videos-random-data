@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "veXwjS3B2WU",
-            "title": "White House Aide Mocks Senator John McCain’s Cancer: ‘He’s Dying Anyway’ | NBC Nightly News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "4lBe119tjRI",
             "title": "Hochul Allocates $65 Million Towards Booster Shot Programs Across New York",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Receives Hacking Briefing, Doesn't Antagonize Intel Community | NBC Nightly News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "87gwt7Fv5U4",
+            "title": "Full Sanders: 'I Am In Good Health' | Meet The Press | NBC News",
+            "secondDuration": 673,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

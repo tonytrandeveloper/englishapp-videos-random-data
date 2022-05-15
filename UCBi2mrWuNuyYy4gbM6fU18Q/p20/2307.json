@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3U2bnprzc4I",
-            "title": "Vladimir Putin Takes Victory Lap in Crimea",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "DRXl6yA5jIk",
             "title": "Embattled Virginia governor breaks his silence",
             "secondDuration": 176,
@@ -121,8 +115,14 @@
             "title": "'Madam President' Forum Calls for Clinton in 2016",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "2GcgFJ3wQtU",
+            "title": "Morning Mix: Elena Kagan to Budget Struggles",
+            "secondDuration": 390,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

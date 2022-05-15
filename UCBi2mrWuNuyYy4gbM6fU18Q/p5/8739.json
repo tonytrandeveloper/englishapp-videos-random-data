@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mGEsffSbi5s",
-            "title": "Georgia election day",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "3rTPnctrJCM",
             "title": "Woman Wakes From Surgery With British Accent",
             "secondDuration": 179,
@@ -31,8 +25,14 @@
             "title": "Republicans focus on tone of Supreme Court hearings",
             "secondDuration": 1485,
             "group": "group_7"
+        },
+        {
+            "videoId": "FIx4u-s4Uzs",
+            "title": "CEO of Instagram testifies to Senate",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

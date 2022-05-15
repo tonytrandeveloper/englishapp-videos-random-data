@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7Pwc5h5ugPA",
-            "title": "WEBCAST: Anthony Weiner",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "BLa8o2WcVXQ",
             "title": "Isaias now a hurricane, heads toward Bahamas and US East Coast l GMA",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Garth Brooks Announces He Is Coming Out of Retirement",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "LngcZIIoZSc",
+            "title": "Anniversary of Capitol siege approaches",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

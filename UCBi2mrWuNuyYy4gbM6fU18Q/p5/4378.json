@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ccopgXr6ZyU",
-            "title": "US ambassador to the UN describes her relationship to Trump as 'perfect'",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yy_g2LeK9-U",
             "title": "LIVE: Sean Spicer Full Press Briefing (2/23/17) | ABC News",
             "secondDuration": 3282,
@@ -31,8 +25,14 @@
             "title": "ABC News Live, Update: Pipeline back in operation after cyberattack",
             "secondDuration": 1575,
             "group": "group_7"
+        },
+        {
+            "videoId": "lw8IgDFBQ10",
+            "title": "Getting to Know Gold Medalist Evan Lysacek",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L2jOEEYsOtU",
-            "title": "Sloth Snuggles With Cat",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "zAso-GDxwoQ",
             "title": "Ed Sheeran | Countdown to the Billboard Music Awards 2015",
             "secondDuration": 23,
@@ -61,8 +55,14 @@
             "title": "Trump says he was being 'sarcastic' when he suggested injecting disinfectant",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "nBxaUvGypF0",
+            "title": "Woman found guilty in texting suicide trial",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

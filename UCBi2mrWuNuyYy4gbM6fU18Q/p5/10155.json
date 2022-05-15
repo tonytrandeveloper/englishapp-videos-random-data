@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WrzGsXdtUq8",
-            "title": "Cruise Ship Passenger Details Conditions",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "or9SqQDoDw0",
             "title": "John Oliver on Making Current Events Funny",
             "secondDuration": 210,
@@ -31,8 +25,14 @@
             "title": "Final Farewell to First Lady Nancy Reagan",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "NwPLGgdUDew",
+            "title": "Glassman To McCain: 'Retire'",
+            "secondDuration": 582,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

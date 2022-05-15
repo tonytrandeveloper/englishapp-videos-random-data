@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vvlYFIKKMlM",
-            "title": "Sessions recuses himself from Russia investigation",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "ap552MRW2lE",
             "title": "Trump reaches out as government shutdown enters day 11",
             "secondDuration": 151,
@@ -121,8 +115,14 @@
             "title": "Ben Affleck Wins Hollywood Honors Despite Lack of Oscar Nomination",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ccl3idHvGMA",
+            "title": "Trump breaks silence to defend Roy Moore",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

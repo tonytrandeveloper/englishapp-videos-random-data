@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z8ir9CMua4k",
-            "title": "Covid Confusion: Savannah Sellers Reveals Contradictory Covid Test Results | NBC News NOW",
-            "secondDuration": 525,
-            "group": "group_7"
-        },
-        {
             "videoId": "50sNZlV8QE4",
             "title": "NBC News' Miguel Almaguer Gets Emotional Watching the Solar Eclipse | NBC News",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "Representative Mark Meadows Faces Strong Reactions About Health Care | NBC News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "i1ojH_qHNG8",
+            "title": "NTSB Investigating Cause Of New Mexico Bus, Semi-Truck Crash | NBC Nightly News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

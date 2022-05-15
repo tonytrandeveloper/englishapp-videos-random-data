@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ldnidDIXhbg",
-            "title": "Michigan Courthouse Shooting | 3 Dead [BREAKING NEWS]",
-            "secondDuration": 28,
-            "group": "group_7"
-        },
-        {
             "videoId": "fUboQWTNTHE",
             "title": "Trump cancels Florida portion of RNC, citing COVID-19 surge | ABC News",
             "secondDuration": 187,
@@ -61,8 +55,14 @@
             "title": "White House lawyers probing embattled EPA chief's 2017 apartment deal",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "0HiNPZJV1J4",
+            "title": "Elon Musk offers to buy Twitter for $43 billion | ABCNL",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

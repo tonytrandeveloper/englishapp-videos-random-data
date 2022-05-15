@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eo2dMLs3rAI",
-            "title": "Dog's Intuition Confirmed by Science",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "uqQhq0uU9tU",
             "title": "Democrats propose 'Green New Deal' to counter climate change",
             "secondDuration": 79,
@@ -31,8 +25,14 @@
             "title": "Officer Fires Gun After Teen Confrontation Video, Investigation Underway",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "87HH8fnlcbw",
+            "title": "Biden’s new COVID-19 strategy",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

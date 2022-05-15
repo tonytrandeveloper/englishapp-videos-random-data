@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "67i73RHnGP8",
-            "title": "Bernie Sanders is back home in Vermont",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "cV4_KgAd1lA",
             "title": "How to protect yourself from the hidden dangers of a faulty furnace",
             "secondDuration": 238,
@@ -31,8 +25,14 @@
             "title": "GA Dem Senate candidate discusses runoff elections, Trump | ABC News",
             "secondDuration": 337,
             "group": "group_7"
+        },
+        {
+            "videoId": "DYL09Oc5ff8",
+            "title": "Tony Awards 2012 Recap",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KYJE1XNTOCk",
-            "title": "Mysterious hanging death investigated | WNT",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "l28yMjgqaQI",
             "title": "Pres. Donald Trump confirms VP Mike Pence's press secretary tests positive for COVID-19 | ABC News",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "Person of the Week:  Kirk Douglas",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "AtVl2ZUP07Q",
+            "title": "Inside look at unprecedented Super Bowl security",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

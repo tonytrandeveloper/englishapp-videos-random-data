@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DR6rA2QjGO8",
-            "title": "Ted Cruz Fights Political Cartoon Featuring His Daughters",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "KaUVfgkgLlU",
             "title": "Berlin Attack: American Eyewitness Details Attack",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "White House Correspondent Helen Thomas Dies at 92",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "rYHPcKd3iRc",
+            "title": "Obama's Inaugural Speech: 'Our Time' for Changing Nation",
+            "secondDuration": 415,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

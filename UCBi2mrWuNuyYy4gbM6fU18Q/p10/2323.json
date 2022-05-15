@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yhSdTBNSVC0",
-            "title": "Can Hillary Clinton Avoid 2008 Mistakes?",
-            "secondDuration": 338,
-            "group": "group_7"
-        },
-        {
             "videoId": "bcIm6a_g-fU",
             "title": "Natalie Dormer Talks 'The Hunger Games: Mockingjay Part 1'",
             "secondDuration": 226,
@@ -61,8 +55,14 @@
             "title": "George Clooney's Toughest Critic: Why His Wife Amal Didn't Like 'Gravity'",
             "secondDuration": 791,
             "group": "group_7"
+        },
+        {
+            "videoId": "zh3BDsFKdFk",
+            "title": "Cory Booker Disagrees With Obama on Private Equity",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

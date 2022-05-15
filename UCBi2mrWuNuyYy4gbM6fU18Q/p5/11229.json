@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6xGVbJQIXd4",
-            "title": "Growing Up Hollywood: Celebrity Families",
-            "secondDuration": 335,
-            "group": "group_7"
-        },
-        {
             "videoId": "F-NSMKkNg9g",
             "title": "President Trump reacts to failed GOP health care bill",
             "secondDuration": 1069,
@@ -31,8 +25,14 @@
             "title": "Caught on Tape: Arizona Man Hit by Truck Survives",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "vgQPqIAlIg0",
+            "title": "Army Capt. William Swenson Receives Medal of Honor",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

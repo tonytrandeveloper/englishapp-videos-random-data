@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KdtcUV-1Cig",
-            "title": "Kobe’s ‘Last Human Act Was Heroic,’ Says Lakers’ GM | NBC News",
-            "secondDuration": 49,
-            "group": "group_7"
-        },
-        {
             "videoId": "R0y0XxX5MAs",
             "title": "A Yemeni Family Reunited, Thanks To Immigration Ban Stay | NBC News",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Sessions Announces Return To Previous Civil Asset Forfeiture Policy | NBC News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "Lj_1HNNtv1w",
+            "title": "Bruce’s Beach Returned To Black Family Years After City Seizure",
+            "secondDuration": 252,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "O07wE6j2Q-Q",
-            "title": "Sen. John Ensign Admits Cheating on Wife",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "W818_eG4V9s",
             "title": "$590 Million Powerball Winner is 84-Year Old Grandmother Gloria MacKenzie",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "'The Debrief': Migrant caravan, Khashoggi latest, Georgia manhunt, royal baby | ABC News",
             "secondDuration": 1665,
             "group": "group_7"
+        },
+        {
+            "videoId": "ebrHs1knoE0",
+            "title": "Jake Tapper on the Stimulus Funds",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

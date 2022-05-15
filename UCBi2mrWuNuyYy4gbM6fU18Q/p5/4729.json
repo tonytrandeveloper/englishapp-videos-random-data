@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S2b1ckTCCJY",
-            "title": "Instant Index: John Oliver Fills in as Temporary 'Daily Show' Host",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "UPykHPedqoU",
             "title": "New GM CEO Mary Barra: 'I Stayed Focused'",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "SKINNY: Baby On Board!",
             "secondDuration": 219,
             "group": "group_7"
+        },
+        {
+            "videoId": "8jWQP7QQ2es",
+            "title": "A mass shooting at a FedEx facility in Indianapolis leaves 8 people dead",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

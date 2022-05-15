@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9-m91nYvgZo",
-            "title": "TBT Nancy Kerrigan Attacked Jan. 6, 1994",
-            "secondDuration": 34,
-            "group": "group_7"
-        },
-        {
             "videoId": "8UIfoPR4Rqo",
             "title": "'Space Invaders' Attack Expenses",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "Parents Re-create Daughter’s Selfies | ABC News",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "vv8gIIfiRJM",
+            "title": "Are Telemarketing Calls to Your Cell Phone Driving You Nuts?",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

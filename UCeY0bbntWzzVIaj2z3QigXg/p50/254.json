@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "mrUgCe4e7t4",
-            "title": "Voices: Do You Have A 'Tiger Mom'? | NBC Asian America",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "yU6F7MqsLqE",
             "title": "NBC News NOW Full Broadcast - June 11th, 2021",
             "secondDuration": 2946,
@@ -301,8 +295,14 @@
             "title": "Trump On Defense Over Slow Vaccine Rollout | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "isn64lDqJb0",
+            "title": "Jenna Bush Hager: \"I have a dream that...\"",
+            "secondDuration": 10,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BKHBFiVLLa0",
-            "title": "I ‘disagree strongly’ with Georgia governor’s decision to reopen: Trump",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "8AxwBP2wWU0",
             "title": "Biden: Sharing vaccines with the world is 'the right thing to do'",
             "secondDuration": 290,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton Wins Coin Toss in Iowa | ABC News",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "UkCFlu_ImUI",
+            "title": "Instant Index: First Lady Michelle Obama to Continue Working With Veterans",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

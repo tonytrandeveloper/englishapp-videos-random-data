@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ORoXHwAUwhE",
-            "title": "Pro Spring Cleaning Tips | ABC News",
-            "secondDuration": 277,
-            "group": "group_7"
-        },
-        {
             "videoId": "vGiZ20vVp_I",
             "title": "U.S. diplomats suddenly fall ill in Cuba",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Black Widow Part 4 l 20/20",
             "secondDuration": 514,
             "group": "group_7"
+        },
+        {
+            "videoId": "gg-xchC7Vzg",
+            "title": "Tracking endangered lemurs in the heart of Madagascar",
+            "secondDuration": 365,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lm_HbOsBfP8",
-            "title": "Family Of 6 Survives After Plane Crashes Into Their Florida Home | NBC Nightly News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "3SzVLZPUJfw",
             "title": "White House Will Not Support Painting 'Black Lives Matter' On Fifth Avenue In NYC | NBC News NOW",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "Why Doctors Should Know Your Drinking Habits | Archives | NBC News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "LyZSAQHzss8",
+            "title": "How Spell-Check Algorithms Detect Typos | Mach | NBC News",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

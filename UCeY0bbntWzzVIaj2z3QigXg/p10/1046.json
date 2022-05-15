@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ebT8C8OTmRU",
-            "title": "Inside The Guatemalan Communities Many Migrant Children Leave Behind",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "8QaD9Yx1LPI",
             "title": "NYPD Ramps Up Security Ahead Of Times Square New Year’s Eve Celebration | NBC Nightly News",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "LIVE: White House Holds Press Briefing | NBC News",
             "secondDuration": 3310,
             "group": "group_7"
+        },
+        {
+            "videoId": "6adSD-Gat_I",
+            "title": "Canceled Flights Cause Travel Chaos For Busy Holiday Weekend",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

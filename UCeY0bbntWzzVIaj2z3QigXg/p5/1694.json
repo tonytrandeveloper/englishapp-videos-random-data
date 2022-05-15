@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CD3LY1vVzdM",
-            "title": "President Donald Trump Answers Question Concerning Brett Kavanaugh Allegations | NBC News",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "iclpEmivA4U",
             "title": "LAPD: Body Cam Footage Of Officers Fatally Shooting Hostage, Knife-Wielding Man | NBC Nightly News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Kansas City Program Helps Children Improve Reading Skills | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "_8SnInrJZr4",
+            "title": "Teen Migrant Recovers From Covid, Reunites With Mother After Years Apart | NBC News NOW",
+            "secondDuration": 360,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

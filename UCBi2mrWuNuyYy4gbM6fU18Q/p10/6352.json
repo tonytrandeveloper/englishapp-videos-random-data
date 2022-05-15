@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oKoJSdUrsS0",
-            "title": "Man with fake gun causes standoff at Orlando airport",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "a1sOAX3hH7Q",
             "title": "Pharmaceutical company announces pause of COVID-19 antibody treatment trial | WNT",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "Colorado man clawed by bear inside his own home",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZzInScX3MrU",
+            "title": "New Star Wars: The Force Awakens Teaser",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

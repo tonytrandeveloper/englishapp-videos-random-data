@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j-K5nyV_jjQ",
-            "title": "Donald Trump Releases New Video Attacking Bill Clinton",
-            "secondDuration": 316,
-            "group": "group_7"
-        },
-        {
             "videoId": "o0ENguq1ssA",
             "title": "New warning involving teenagers and caffeine",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "The Rundown: Top headlines today: May 17, 2021",
             "secondDuration": 272,
             "group": "group_7"
+        },
+        {
+            "videoId": "C3Eiu52X5gM",
+            "title": "James Holmes Murder Case Goes to the Jury",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

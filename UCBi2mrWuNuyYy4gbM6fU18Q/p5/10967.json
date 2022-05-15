@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BOpIWKKR7L4",
-            "title": "Window cracks on Southwest flight",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "T2FoV2NF4wI",
             "title": "Frank Sinatra Jr. Dies While on Tour",
             "secondDuration": 27,
@@ -31,8 +25,14 @@
             "title": "Former police officer Ricky Minshew testifies in Ahmaud Arbery murder trial",
             "secondDuration": 820,
             "group": "group_7"
+        },
+        {
+            "videoId": "buGzLID1YEk",
+            "title": "Authorities offer reward in Austin bombings investigation",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

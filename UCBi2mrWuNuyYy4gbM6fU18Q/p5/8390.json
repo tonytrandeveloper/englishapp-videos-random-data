@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1SUIpA1PFsM",
-            "title": "Sen. Kamala Harris and Vice President Mike Pence debate tonight",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "1tymjXx6n_M",
             "title": "Stock Market Up Thanks to High Jobs Numbers",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Louisiana reporting more than 5,000 COVID-19 cases a day l ABC News",
             "secondDuration": 469,
             "group": "group_7"
+        },
+        {
+            "videoId": "fGScAEC9vTw",
+            "title": "American Band Opens Up on Paris Concert Hall Attack",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

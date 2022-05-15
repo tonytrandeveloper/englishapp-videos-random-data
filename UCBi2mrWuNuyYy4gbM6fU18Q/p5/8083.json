@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SVSrk-nrQNQ",
-            "title": "Manhunt underway for a suspect in the murder of Tessa Majors",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "NUmCWGPgU7g",
             "title": "Bill O'Reilly Defends White House Slave Comments",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "Arrests in new college admissions scandal",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "m0IJOfOZIZ0",
+            "title": "FBI Director James Comey has been fired",
+            "secondDuration": 780,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dMI44lvML4c",
-            "title": "'This Surge Is Different': Idaho Hospital Converts Classroom Into Covid Ward",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vk-PFssIqnA",
             "title": "Tom Brokaw: What’s Suddenly Gone Missing on the Campaign Trail | NBC Nightly News",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "Breaking Down Global  U.S. Covid Vaccine Donation Effort",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "NM4fI6cwvCw",
+            "title": "Janine Driver On How To Communicate Confidently | NBC News",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

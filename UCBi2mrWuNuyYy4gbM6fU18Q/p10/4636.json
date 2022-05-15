@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4VtrozzJ2m4",
-            "title": "Unlikely porch pirate",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "mOVDGkQ7XLQ",
             "title": "Aleppo Hospital Airstrikes Cut Off Civilian Access to Care",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "White House Receives Extradition Petition for Dentist Who Killed Cecil The Lion",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "9hUOmHTFjbI",
+            "title": "Oklahoma Double Murder Suspect Manhunt Underway",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

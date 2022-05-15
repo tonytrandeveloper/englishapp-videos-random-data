@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "p8jvkynjR20",
-            "title": "Dominos Sued by NY Attorney General Over Employee Wages",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "XjQ04b3ZFQk",
             "title": "Anne Hathaway vs. Jennifer Lawrence",
             "secondDuration": 268,
@@ -61,8 +55,14 @@
             "title": "Paris Attacks: Terrifying Scenes From French Stadium",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "TM74IpCpz2w",
+            "title": "Arrest warrant issued for founder of Bikram yoga",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

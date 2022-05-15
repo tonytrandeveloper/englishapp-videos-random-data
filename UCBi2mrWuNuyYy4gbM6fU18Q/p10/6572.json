@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hK3idZb9HFE",
-            "title": "Former prisoner on mission to change solitary confinement",
-            "secondDuration": 477,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bog2U9tGbC4",
             "title": "United Airlines issues new rules to employees for dealing with overbooked flights",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Classroom Confidential: Food Fight",
             "secondDuration": 373,
             "group": "group_7"
+        },
+        {
+            "videoId": "XxBBYNqqr1g",
+            "title": "The Last Days of Phil Hartman l PART 4",
+            "secondDuration": 512,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

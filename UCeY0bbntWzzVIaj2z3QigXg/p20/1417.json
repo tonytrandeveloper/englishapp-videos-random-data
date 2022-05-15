@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KRayUjhA8vs",
-            "title": "NBC Nightly News Broadcast (Full) - August 2nd, 2021",
-            "secondDuration": 804,
-            "group": "group_7"
-        },
-        {
             "videoId": "6_tAXmEWqbU",
             "title": "This Morning’s Top Headlines – October 29 | Morning News NOW",
             "secondDuration": 1301,
@@ -121,8 +115,14 @@
             "title": "Cracker Barrel Ordered To Pay $9 Million After Serving Guest Cleaning Solution",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "mUE8RjfifQA",
+            "title": "Video Shows Scene Of Deadly Southern California Crash Between Vehicle And Semitruck | NBC News NOW",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

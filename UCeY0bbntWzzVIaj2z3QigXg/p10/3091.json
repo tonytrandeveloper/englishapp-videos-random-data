@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DhWlPo3qxak",
-            "title": "From 2003: Colin Powell Addresses United Nations Security Council On Iraq",
-            "secondDuration": 391,
-            "group": "group_7"
-        },
-        {
             "videoId": "5Wyf8YE_Dac",
             "title": "Danish Police Officers Searching For Missing Journalist Find Headless Torso | NBC Nightly News",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Black Female Cadets Make History At West Point | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y61HxtiR4og",
+            "title": "Stories That Made Us Smile | NBC Nightly News",
+            "secondDuration": 939,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

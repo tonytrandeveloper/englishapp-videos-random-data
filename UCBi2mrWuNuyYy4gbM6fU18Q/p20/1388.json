@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rIihIV7uuwY",
-            "title": "Alaskan Camper Survives Brown Bear Attack",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "lEQ1pTp0STQ",
             "title": "Remembering Mike Nichols",
             "secondDuration": 235,
@@ -121,8 +115,14 @@
             "title": "Spotlight on voter turnout this election",
             "secondDuration": 350,
             "group": "group_7"
+        },
+        {
+            "videoId": "1WtNvu9rEa4",
+            "title": "ABC News Live: Manafort guilty, Cohen plea deal and Mollie Tibbitts' body found",
+            "secondDuration": 1423,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OE-DQd2f-m8",
-            "title": "Behind Seacrest Studios: The Radio Stations At Children’s Hospitals | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "GF-F7e4WXiE",
             "title": "Boston Streets Awash During Its Worst Coastal Flooding In 40 Years | NBC News",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "Watch Full Coronavirus Coverage - April 13 | NBC News Now (Live Stream)",
             "secondDuration": 42901,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wu6FW9hlg30",
+            "title": "Kansas City: Americans weigh in on possible action in Syria at town hall event",
+            "secondDuration": 38,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

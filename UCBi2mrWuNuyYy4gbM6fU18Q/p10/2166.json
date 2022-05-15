@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wlROB3uzC6s",
-            "title": "Marine's Best Friend",
-            "secondDuration": 312,
-            "group": "group_7"
-        },
-        {
             "videoId": "SXHBTKR_FFs",
             "title": "Major retailers part of FTC supply chain investigation | ABC News",
             "secondDuration": 70,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Testimony Begins in the Michael Jackson Wrongful Death Trial",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "5szdt04bJKQ",
+            "title": "Inside President Trump's First Days in the Oval Office | ABC News",
+            "secondDuration": 550,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

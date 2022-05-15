@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DDJuFO-NsKU",
-            "title": "Capitol Police arrest suspected white supremacist",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "dBtqD_Qq290",
             "title": "Police probe death of teen found in van",
             "secondDuration": 161,
@@ -31,8 +25,14 @@
             "title": "ABC News Update: Hope turns to desperation after Surfside building collapse",
             "secondDuration": 1645,
             "group": "group_7"
+        },
+        {
+            "videoId": "9mXEwoVP8wY",
+            "title": "Interview With Reps. Steny Hoyer and John Boehner",
+            "secondDuration": 804,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

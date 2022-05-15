@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZR3GtqPLAxA",
-            "title": "South Korea Conducts Missile Drill In Response To North Korean Launch | NBC News",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "b7t5RYLKqxg",
             "title": "College Physics Professor Inspires With Viral Classroom Lessons | NBC Nightly News",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "Scale Of Destruction Revealed After Battle For Marawi | NBC News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "rPvTUTpBXwk",
+            "title": "Live: Trump Signs Executive Order On Policing | NBC News",
+            "secondDuration": 1691,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8UCLwTLgOXg",
-            "title": "Stuart Stevens During 'This Week' Roundtable: 'We don't have a 140 character problem'",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "63re5GhdH84",
             "title": "Donald Trump Defends Roger Ailes Amid Sexual Harassment Allegations",
             "secondDuration": 335,
@@ -61,8 +55,14 @@
             "title": "East braces for dangerous temperatures after nor'easter",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "MnjZj9oFXBQ",
+            "title": "Donald Trump one-on-one with George Stephanopoulos",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0sEfuzqiRFw",
-            "title": "GOP Responds to Obama's Economic Plan",
-            "secondDuration": 318,
-            "group": "group_7"
-        },
-        {
             "videoId": "JwJ2JjhtRdQ",
             "title": "TSA sickouts increase as government shutdown drags on",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Meat Loaf Collapses During Concert",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ubx9CFLMf00",
+            "title": "Massive cruise ships collided in Mexico",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

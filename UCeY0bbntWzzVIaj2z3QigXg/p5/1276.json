@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_P-QEmIvmS4",
-            "title": "Watch Ivanka Trump’s Full Speech At 2020 RNC | NBC News",
-            "secondDuration": 1100,
-            "group": "group_7"
-        },
-        {
             "videoId": "juvI359cnoA",
             "title": "Russian Invasion Likely To Continue Driving Up Gas Prices And Inflation",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "Chuck Schumer: Coronavirus Aid Should Be 'Aimed At People, Not At Corporations' | NBC News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "gvGwHyQrBts",
+            "title": "Donald Trump Touts Small Business Action With Alibaba’s Jack Ma | NBC News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

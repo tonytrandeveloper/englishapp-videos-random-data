@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PumC0G0aOqc",
-            "title": "Katie Couric Meets the Queen",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "7SKISrsr_-8",
             "title": "Rare Pygmy Elephant Spotted",
             "secondDuration": 41,
@@ -31,8 +25,14 @@
             "title": "Oscar 2015 Trivia Cheat Sheet",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "kAbw74ew9HU",
+            "title": "Trump Tax Plan Potential Impact on Your Wallet",
+            "secondDuration": 296,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

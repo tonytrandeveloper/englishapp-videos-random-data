@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_oUqGKInzUw",
-            "title": "Vote on Senate health care bill delayed",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "lavyvncz8J0",
             "title": "ABC News Live: Justice Department outlines new actions against Russia I ABCNL",
             "secondDuration": 1441,
@@ -61,8 +55,14 @@
             "title": "WNN TODAY: 6/19/2013",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "EIA2njsTr4E",
+            "title": "Immigration Splits the Nation",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

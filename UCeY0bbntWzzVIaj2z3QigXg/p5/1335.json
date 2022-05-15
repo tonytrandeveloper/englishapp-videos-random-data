@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "K1GEPp_r5BE",
-            "title": "This Morning’s Top Headlines – Dec. 24 | Morning News NOW",
-            "secondDuration": 1320,
-            "group": "group_7"
-        },
-        {
             "videoId": "B-vX82CQ-vA",
             "title": "'The Lion King' Is A Look Into The Future Of Virtual Reality Filmmaking | Mach | NBC News",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "James Comey: Twitter A 'Dive Bar,' But 'Free Speech' | NBC News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "U7XDC4Cyu4s",
+            "title": "Biden Urges GOP To ‘Do The Right Thing’ On Filling SCOTUS Seat After Election | NBC News NOW",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-Zs-KsnyvoU",
-            "title": "Harrison Ford Plane Crashes in California",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "VuvX0K8MaIA",
             "title": "The Flint Mom and the City Official Who Discovered Lead Contaminated Water",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Mitt Romney Wins Texas; Donald Trump's Birther Theory",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "RJ82NO0AAKA",
+            "title": "Was Robert Pattinson About to Propose to Kristen Stewart Before Cheating Scandal?",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

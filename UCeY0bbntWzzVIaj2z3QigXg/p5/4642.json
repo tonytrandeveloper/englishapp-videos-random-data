@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yK9wl1dCMhg",
-            "title": "Fat Tire Biking: A Cool Way To Cycle Around Snowy Alaska | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "M5Cf4-KRk8s",
             "title": "MLB Comissioner Bud Selig's Impact On Baseball | Long Story Short | NBC News",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Marine Le Pen, Emmanuel Macron Gear Up For French Presidential Election Runoff | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "AON9RKs3Q8s",
+            "title": "Who's In Charge At The Consumer Finance Protection Bureau?  | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

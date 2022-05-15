@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "I9CwPzHTfXQ",
-            "title": "EgyptAir Mystery: No Claims of Responsibility",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "Opy_DVjjwus",
             "title": "Junior Seau Had Brain Disease Caused by Repeated Head Trauma",
             "secondDuration": 187,
@@ -61,8 +55,14 @@
             "title": "Veteran Killed in Skydiving Tragedy at Chicago Air and Water Show",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "NUjUOnArUrE",
+            "title": "LA Sheriff's Department Accidentally Releases a Suspected Murderer Awaiting Trial",
+            "secondDuration": 49,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

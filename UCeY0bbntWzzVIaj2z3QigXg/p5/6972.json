@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iANRYaaS9eY",
-            "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 5426,
-            "group": "group_7"
-        },
-        {
             "videoId": "iF5ce0f51xc",
             "title": "Pelosi On Border Security: 'There Is Not Going To Be Any Wall Money' | NBC News",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "‘You Need Your Voting Power’: Florida’s Ex-Felons Fight For Their Voting Rights | NBC News",
             "secondDuration": 342,
             "group": "group_7"
+        },
+        {
+            "videoId": "msoMXVDQu1I",
+            "title": "A Look At Omicron Variant’s Spread In South Africa",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

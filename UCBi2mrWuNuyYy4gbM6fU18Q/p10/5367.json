@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eG1LjqdaTwM",
-            "title": "Mass shooting at Indianapolis FedEx Ground operations center | Special Report",
-            "secondDuration": 872,
-            "group": "group_7"
-        },
-        {
             "videoId": "JTkBSRoZd14",
             "title": "WEBCAST: The First Presidential Debates are Tonight!",
             "secondDuration": 166,
@@ -61,8 +55,14 @@
             "title": "Trump to Hold 'Tech Summit' in New York",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "F8nutsguPZA",
+            "title": "Line Psychology",
+            "secondDuration": 305,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

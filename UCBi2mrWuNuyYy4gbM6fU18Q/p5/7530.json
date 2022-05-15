@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wztJJilqbGY",
-            "title": "Louisiana residents struggling after Hurricane Laura destruction",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "fx6tFiW3ML8",
             "title": "'Jeopardy!' host has stage 4 pancreatic cancer",
             "secondDuration": 339,
@@ -31,8 +25,14 @@
             "title": "American Airlines Pilot Dies While in Flight",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "gjnvSx-7O4A",
+            "title": "Who Really Needs College?",
+            "secondDuration": 410,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

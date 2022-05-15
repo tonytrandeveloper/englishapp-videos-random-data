@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T5_2X85rNlQ",
-            "title": "Dallas Attack: How the Deadly Police Ambush Unfolded | NBC Nightly News",
-            "secondDuration": 253,
-            "group": "group_7"
-        },
-        {
             "videoId": "gUeNnCGd4TE",
             "title": "Full Panel: Who Is In Charge Of The Federal Response? | Meet The Press | NBC News",
             "secondDuration": 457,
@@ -31,8 +25,14 @@
             "title": "'One Day At A Time' Showrunner, Star On The Netflix Series' Universal Appeal | NBC News",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "caajToGsAQY",
+            "title": "Donald Trump Meets El Paso Officer Whose Uncle Was Killed In Shooting | NBC News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "b9ZjQCxu8yY",
-            "title": "White House Holds Press Briefing: January 25 | NBC News",
-            "secondDuration": 2656,
-            "group": "group_7"
-        },
-        {
             "videoId": "B-0BzOo1KPU",
             "title": "Meet The Heroes Who Stepped Up To Help Manchester’s Survivors | NBC Nightly News",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Breaking Down Elon Musk’s Most “Painful” Year Yet | Mach | NBC News",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "CAcnSN-ObnM",
+            "title": "Celebrities Take To Social Media To Be Voices In Reason In COVID-19 Pandemic | NBC News",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

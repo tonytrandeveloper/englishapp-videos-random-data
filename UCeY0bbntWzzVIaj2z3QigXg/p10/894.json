@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VRYX-SlsS3w",
-            "title": "Nightly News Full Broadcast - Jan. 31",
-            "secondDuration": 1031,
-            "group": "group_7"
-        },
-        {
             "videoId": "xlU_eO-Rol0",
             "title": "New York Mayor Bill DeBlasio: No Evidence Of Credible Threat Against Parade | NBC News",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "How Much Did ‘Back To The Future’ Get Right About October 2015? | NBC Nightly News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "wee2ERfDjcM",
+            "title": "Morning News NOW Full Broadcast - May 28 | NBC News NOW",
+            "secondDuration": 2888,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

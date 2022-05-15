@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HzI6YVl1PvM",
-            "title": "President Trump's 2019 State of the Union address: ANALYSIS",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "O4SJYSrlTnA",
             "title": "President Biden departs, storm in New York, wedding bliss: World in Photos, June 9",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "ABC News Prime: Derek Chauvin trial begins; Brazil's COVID-19 nightmare; Suez Canal unclogged",
             "secondDuration": 5406,
             "group": "group_7"
+        },
+        {
+            "videoId": "6nsiak-j2DM",
+            "title": "Ex-frat member pleads guilty in hazing death",
+            "secondDuration": 270,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

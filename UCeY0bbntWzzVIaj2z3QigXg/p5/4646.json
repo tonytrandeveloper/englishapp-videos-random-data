@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lTCWiOTnhDY",
-            "title": "GOP Seeks To Eliminate Obamacare’s Individual Mandate | NBC Nightly News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "4j81usMvHgY",
             "title": "NBC Elections Director: Biden’s Best Path To 270 Through Pennsylvania | NBC News",
             "secondDuration": 182,
@@ -31,8 +25,14 @@
             "title": "How Russian Alleged War Crimes Could Impact The U.S. Response To War In Ukraine",
             "secondDuration": 280,
             "group": "group_7"
+        },
+        {
+            "videoId": "rcLCFSfMRq0",
+            "title": "Kentucky Derby Winner Medina Spirit Fails Second Drug Test",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

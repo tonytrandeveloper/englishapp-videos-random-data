@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6kuByTAFrMU",
-            "title": "Portland Teenagers Fight Homelessness One Meal At A Time | NBC Nightly News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "J2iSiJCYvy0",
             "title": "Meet the Press - Colin Powell; Booker on the Roundtable - January 13, 2013",
             "secondDuration": 23,
@@ -31,8 +25,14 @@
             "title": "Biden Announces New Sanctions To Raise 'Economic Cost' of Russia's Invasion of Ukraine",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "LHRwNgujgJk",
+            "title": "Inspiring Kids: Sending Postcards Encouraging People to Vote | Nightly News: Kids Edition",
+            "secondDuration": 735,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

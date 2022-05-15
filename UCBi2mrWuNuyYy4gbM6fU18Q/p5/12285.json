@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hpf9scYCp3s",
-            "title": "Adele Won't Stream New Album '25'",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "UjefUM6bAX8",
             "title": "SPECIAL REPORT: 'Multiple casualties' reported in Pittsburgh synagogue shooting",
             "secondDuration": 814,
@@ -31,8 +25,14 @@
             "title": "Former USA Gymnastics team doctor Larry Nassar says victims' words 'have shaken me to my core'",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "AknWjcZDDOM",
+            "title": "Tinder date kidnapping nightmare",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

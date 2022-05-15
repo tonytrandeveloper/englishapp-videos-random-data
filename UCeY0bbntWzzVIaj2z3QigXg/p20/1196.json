@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "srFRSI4hCqY",
-            "title": "London’s Ex-Mayor: England’s Prime Minister ‘Cannot Be Me’ | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "rgvawzbLYVU",
             "title": "‘I Was Proud To Step Over The Line’: Trump Sits Down With Kim After DMZ Handshake | NBC News",
             "secondDuration": 281,
@@ -121,8 +115,14 @@
             "title": "A Year In Entertainment: 2014 Recap | NBC News",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "KZtCNLZnhO4",
+            "title": "CDC Director Dr. Robert Redfield Testifies Before House | NBC News (Live Stream Recording)",
+            "secondDuration": 10208,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

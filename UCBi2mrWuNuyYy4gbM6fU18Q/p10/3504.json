@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "o7T7GYl0xvg",
-            "title": "Tuscaloosa, Alabama Terrorized by Tornadoes, Hundreds Dead",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "L0ELb7hLYnU",
             "title": "Ukrainian teacher worries about family while waiting in Ohio",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Frozen Pizza Lawsuit Claims Brands Use Trans Fats",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "KFasRRxomjE",
+            "title": "All eyes on stock markets after worst week since 2008 l ABC News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

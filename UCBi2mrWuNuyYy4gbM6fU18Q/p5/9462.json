@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "m_klykXNwoU",
-            "title": "“Sesame Street” Is Heading To HBO | ABC News",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "100xSDeFmQ4",
             "title": "New Information About Deadly Attack in Paris",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "World War II veterans travel to Normandy hoping for 'closure'",
             "secondDuration": 336,
             "group": "group_7"
+        },
+        {
+            "videoId": "9loiUj7Chks",
+            "title": "America's Youngest Billionaire",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

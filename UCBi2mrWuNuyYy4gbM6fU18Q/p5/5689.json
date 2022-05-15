@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q8dME6N_xFo",
-            "title": "Landslide Rips Houses, Roads Apart",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "1u-7c9FADvI",
             "title": "Audit ordered for Boeing after Ethiopian Airlines crash",
             "secondDuration": 216,
@@ -31,8 +25,14 @@
             "title": "Trump's conflicting rhetoric on border separations muddles immigration debate",
             "secondDuration": 234,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hlaf9vFAkiU",
+            "title": "Robin Roberts Visits the \"Late Show\"",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

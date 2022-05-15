@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9oqjHTZ_Rcc",
-            "title": "2012 Education Nation Preview",
-            "secondDuration": 243,
-            "group": "group_7"
-        },
-        {
             "videoId": "yE3JWqPrPp0",
             "title": "Capitol Rioters Wanted To Capture, kill Lawmakers, Prosecutors Say | NBC News NOW",
             "secondDuration": 337,
@@ -31,8 +25,14 @@
             "title": "Watch Live: President Donald Trump Participates In NYC Veterans Day Events | NBC News",
             "secondDuration": 2632,
             "group": "group_7"
+        },
+        {
+            "videoId": "fO9EWw-RcJk",
+            "title": "Nightly News Full Broadcast - October 26th",
+            "secondDuration": 1143,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

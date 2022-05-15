@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3s97c7T54aY",
-            "title": "The Real-Life Dino Science Behind Jurassic World | Mach | NBC News",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "OAHQJ782W5I",
             "title": "Families And Small Businesses Desperate For Pandemic Relief | NBC Nightly News",
             "secondDuration": 102,
@@ -121,8 +115,14 @@
             "title": "Meet The Press Broadcast (Full) - September 26th, 2021",
             "secondDuration": 2845,
             "group": "group_7"
+        },
+        {
+            "videoId": "SMg8xCFS_Ec",
+            "title": "Cory Booker’s Favorite Moment In Presidential History, Book Collection, And VP Pick | NBC News Now",
+            "secondDuration": 350,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PdszHXn_fHY",
-            "title": "Paris Attacks: Dozens Dead, Hostage Situation Reported",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "pr4IbQiftU8",
             "title": "The Conversation: Can Wedding Couple",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Legal analyst breaks down the Chauvin trial closing arguments",
             "secondDuration": 425,
             "group": "group_7"
+        },
+        {
+            "videoId": "iqsSwxmtP94",
+            "title": "André Leon Talley's legacy should be ‘inclusive': model Beverly Johnson",
+            "secondDuration": 418,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

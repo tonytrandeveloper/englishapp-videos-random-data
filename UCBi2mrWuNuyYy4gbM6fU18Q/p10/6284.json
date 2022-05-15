@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2YI4geDy7y4",
-            "title": "Snooki Gets Pregnant",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "hbi_u0f4nPM",
             "title": "Women and children flee Syria",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Alexander Vindman on reporting Trump call: ‘I knew the right thing to do’",
             "secondDuration": 640,
             "group": "group_7"
+        },
+        {
+            "videoId": "_juRYik8OjM",
+            "title": "'American Idol' Scott McCreery on Winning Title, Next Steps",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

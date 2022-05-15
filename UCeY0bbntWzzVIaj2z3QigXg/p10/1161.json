@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ojQyJUbM8nQ",
-            "title": "University of Missouri President Abruptly Resigns Following Racial Unrest | NBC Nightly News",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "KJRVgiVhP_c",
             "title": "Common Medications May Increase Depression Risk For Adults | NBC Nightly News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Gov. Chris Christie Tests Positive For Covid Day After Trump Diagnosis Announced | NBC News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "LTdH15BjpYA",
+            "title": "NBC Projects Democrats Take Control Of House | NBC News",
+            "secondDuration": 308,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fimAxjfQCyU",
-            "title": "White House prepares for Senate trial as new evidence emerges l ABC News",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "2pPtZMFkVxA",
             "title": "‘We have barely scratched the surface’ of the medicinal value of plants: Expert",
             "secondDuration": 363,
@@ -121,8 +115,14 @@
             "title": "Charleston Recovers",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "SaN5i0Ie5FM",
+            "title": "New York City Mayor Eric Adams tests positive for COVID-19",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

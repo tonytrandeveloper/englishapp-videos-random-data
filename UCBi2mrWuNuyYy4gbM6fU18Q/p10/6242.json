@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iCtiJOwzmN0",
-            "title": "Donald Trump Speaks Out on Plan to Ban Muslims",
-            "secondDuration": 495,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vdgkw-tgF4Q",
             "title": "Clayton Davis offers predictions leading into 93rd Academy Awards",
             "secondDuration": 303,
@@ -61,8 +55,14 @@
             "title": "Venus Williams Defeated at Australian Open by Teen Player",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "nQqsIbwJrYY",
+            "title": "Hillary Clinton Wins in Nevada, Looks Towards the Future",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Rav9HLuIoqY",
-            "title": "'We can lay out the differences without hitting below the belt': Buttigieg on debate",
-            "secondDuration": 484,
-            "group": "group_7"
-        },
-        {
             "videoId": "iwVGc8qeO-c",
             "title": "Tropical storm Elsa is roaring up the east coast | ABC News",
             "secondDuration": 186,
@@ -301,8 +295,14 @@
             "title": "Naked Man Protests TSA at Portland Airport",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "hPc1f8Rgavw",
+            "title": "Lincoln: Daniel Day-Lewis, Steven Spielberg on Movie's Personal Impact",
+            "secondDuration": 357,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

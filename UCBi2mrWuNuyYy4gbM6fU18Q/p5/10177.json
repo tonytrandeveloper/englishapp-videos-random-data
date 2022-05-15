@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mPg5Jo7KswE",
-            "title": "Gen. Powell Discusses Grad Nation Campaign",
-            "secondDuration": 329,
-            "group": "group_7"
-        },
-        {
             "videoId": "RTzPqu-e7q0",
             "title": "Potential fallout after Theresa May's crushing defeat on Brexit",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Blackout at Atlanta airport leaves thousands stranded",
             "secondDuration": 236,
             "group": "group_7"
+        },
+        {
+            "videoId": "2sRHIU74KzI",
+            "title": "Rep. Jim Clyburn discusses election-altering support for Biden",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "A_CmbvJpRyk",
-            "title": "Judge rules Britney Spears' dad, Jamie, suspended from conservatorship | WNT",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "vMZ_4dlzXlc",
             "title": "American lawyer fatally gunned down in Micronesia | ABC News",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "An urgent manhunt across state lines in the South",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "2EarGv-LLY8",
+            "title": "'Rust' production halted indefinitely after fatal shooting l GMA",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

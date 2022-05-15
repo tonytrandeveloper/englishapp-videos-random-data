@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Hbh6-sska08",
-            "title": "SpaceX Sends 4 Astronauts Into Space In Reused Rocket | NBC News NOW",
-            "secondDuration": 333,
-            "group": "group_7"
-        },
-        {
             "videoId": "pQFotIUg5MA",
             "title": "Donald Trump Delivers Statement Amid George Floyd Protests | NBC News",
             "secondDuration": 440,
@@ -121,8 +115,14 @@
             "title": "One Direction: \"I have a dream that...\"",
             "secondDuration": 12,
             "group": "group_7"
+        },
+        {
+            "videoId": "6p2o4AkLjd0",
+            "title": "Biden: 'Pride Is Back At The White House'",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GQBomShpq6w",
-            "title": "Karyn Ruiz: \"For student success it takes...\"",
-            "secondDuration": 20,
-            "group": "group_7"
-        },
-        {
             "videoId": "4gO19nG6rFw",
             "title": "How Biden Executive Orders Can Set The Tone For First 100 Days | NBC News NOW",
             "secondDuration": 480,
@@ -121,8 +115,14 @@
             "title": "America’s History With Universal Child Care",
             "secondDuration": 317,
             "group": "group_7"
+        },
+        {
+            "videoId": "GdYqAv8w2_E",
+            "title": "Widow of D.C. Metropolitan Police Officer Speaks Out",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

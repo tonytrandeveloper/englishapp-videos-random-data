@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IDwtRA0VUL4",
-            "title": "Morning News NOW Full Broadcast - July 15",
-            "secondDuration": 2987,
-            "group": "group_7"
-        },
-        {
             "videoId": "2pefBBHvprU",
             "title": "Fighting Against Racism And Systemic Oppression: A First-Time Protester Finds Her Voice | NBC News",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "How Important Opening Statements Will Be In Derek Chauvin’s Trial | NBC News NOW",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "lXkFX6NGRdc",
+            "title": "WH Adviser Stephen Miller: A Single Judge 'Cannot Make Immigration Law' | Meet The Press | NBC News",
+            "secondDuration": 204,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

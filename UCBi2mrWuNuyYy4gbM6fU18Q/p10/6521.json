@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Fqub0GF8-Ng",
-            "title": "Trump Plane Flies Over Ted Cruz Event",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "l0YgSQQgzuw",
             "title": "Russian forces get closer to Ukraine border as tensions rise l GMA",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "Brazen Jewelry Heist In Texas",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "VSKcu8jsr7Q",
+            "title": "Bernie Sanders announces 2020 presidential run",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

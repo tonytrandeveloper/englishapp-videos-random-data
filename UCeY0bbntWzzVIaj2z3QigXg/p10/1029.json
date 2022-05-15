@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gFKcUOSTtH4",
-            "title": "President Donald Trump Hosts Joint Press Conference With Japan Prime Minister Shinzō Abe | NBC News",
-            "secondDuration": 2411,
-            "group": "group_7"
-        },
-        {
             "videoId": "30o_-1RhTwc",
             "title": "Al Gore Says Principles Of 2000 Election Still Hold: Obey The Will Of The American People | NBC News",
             "secondDuration": 523,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Assures NRA Crowd Their Gun Rights Are Safe While He’s In Office | NBC News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "7NTr4jy3dIo",
+            "title": "White House Holds Press Briefing: August 26 | NBC News",
+            "secondDuration": 2303,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

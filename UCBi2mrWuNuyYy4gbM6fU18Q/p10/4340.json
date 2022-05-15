@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HJh4pHgy5gw",
-            "title": "Cruise Ship Trapped in Antarctic Awaits Rescue",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "_IhYsPw48qc",
             "title": "Quentin Tarantino apologizes for Uma Thurman incident",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Jessica Kingdon talks about Oscar-nominated documentary",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "ymAD88VeFTs",
+            "title": "President Trump delivers remarks at Arab Islamic American Summit",
+            "secondDuration": 2015,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

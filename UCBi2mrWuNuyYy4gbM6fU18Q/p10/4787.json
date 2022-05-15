@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uhXbl132SAA",
-            "title": "Out of Control",
-            "secondDuration": 348,
-            "group": "group_7"
-        },
-        {
             "videoId": "sXSBbdki3hg",
             "title": "At least 5 killed after SUV drives through Wisconsin Christmas parade",
             "secondDuration": 309,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Puts GOP Through Five Stages of Grief",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "ykX6N-Q-3KY",
+            "title": "Olympic doping investigation intensifies I ABCNL",
+            "secondDuration": 270,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

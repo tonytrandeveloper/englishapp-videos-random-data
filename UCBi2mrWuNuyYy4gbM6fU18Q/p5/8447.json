@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NL8_rSaiI1E",
-            "title": "At least 9 swimmers confirmed dead from flash flood in Arizona",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "wlbCZG-wGuY",
             "title": "Bird Survives Flight Through Hurricane Irene",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Passenger With Measles Takes Amtrak Train to Penn Station",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "70tbu4eprfI",
+            "title": "Derek Jeter Interview on Life After the Yankees",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

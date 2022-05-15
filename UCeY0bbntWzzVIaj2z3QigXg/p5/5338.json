@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X6bLjD7q42I",
-            "title": "Will North Korea Release Three American Prisoners? | NBC Nightly News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "u04XMjgNGZ8",
             "title": "Doctors Perform First Penile Transplant In US | NBC News",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Senators Dick Durbin, Tammy Duckworth Present Letter Supporting Dr. Christine Blasey Ford | NBC News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "meK38k1RgZ8",
+            "title": "Putin Critic Alexei Navalny's Doctors Concerned Over 'Lack Of Treatment,' Lawyers Say | NBC News NOW",
+            "secondDuration": 218,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

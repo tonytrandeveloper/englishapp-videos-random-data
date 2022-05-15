@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NB4PzOkWBFo",
-            "title": "NBC News Signal - March 7th, 2019",
-            "secondDuration": 1932,
-            "group": "group_7"
-        },
-        {
             "videoId": "2gzRVWaWE9g",
             "title": "White House Covid-19 Response Briefing | NBC News",
             "secondDuration": 1607,
@@ -31,8 +25,14 @@
             "title": "Turn Up A Dull July 4th Party With These DIY Speakers | Better | NBC News",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "_8Ao3CYdXeI",
+            "title": "Nightly News Full Broadcast - Feb. 12",
+            "secondDuration": 625,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

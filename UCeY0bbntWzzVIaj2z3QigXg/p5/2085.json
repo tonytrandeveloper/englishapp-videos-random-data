@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QJXi0KJhj4E",
-            "title": "ISIS Coalition: What You Need To Know  | NBC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "CtFkOtqVJ5M",
             "title": "Biden Delivers Remarks About Ongoing Covid Pandemic | NBC News",
             "secondDuration": 791,
@@ -31,8 +25,14 @@
             "title": "Earthquake Off Coast Of Turkey, Greece Causes Tsunami, Collapsed Buildings | NBC News NOW",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "IFWpy8reu44",
+            "title": "'It's Everywhere': Latino Communities Mobilize Against Misinformation",
+            "secondDuration": 511,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

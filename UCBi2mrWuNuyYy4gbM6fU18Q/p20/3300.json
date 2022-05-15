@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8o7UMdDpZT0",
-            "title": "What's Next for America?",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "GBSXzJu24K8",
             "title": "'Briefing Room': Acting AG Whitaker, possible Florida recounts, Michelle Obama interview",
             "secondDuration": 1405,
@@ -121,8 +115,14 @@
             "title": "Pope Francis celebrates Mass in Cairo amid tight security",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "ISovw7GMfZg",
+            "title": "Prosecutors claim R. Kelly used his title to run ‘criminal enterprise’",
+            "secondDuration": 381,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ID9faCwI3VA",
-            "title": "Biden: 'We'll Follow ISIS To The Gates Of Hell' | NBC News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pu08C1IEoX0",
             "title": "Donald Trump Praises Saddam Hussein For How Well He Killed Terrorists | NBC News",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "LIVE: White House Holds Press Briefing | NBC News",
             "secondDuration": 3310,
             "group": "group_7"
+        },
+        {
+            "videoId": "6adSD-Gat_I",
+            "title": "Canceled Flights Cause Travel Chaos For Busy Holiday Weekend",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

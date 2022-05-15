@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ubgfz07mMpQ",
-            "title": "Special Report: 12 US service members killed in explosions near Kabul airport",
-            "secondDuration": 1701,
-            "group": "group_7"
-        },
-        {
             "videoId": "raouHKAyIfA",
             "title": "New TikTok guidelines",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Russia acknowledges Russian soldier deaths l ABCNL",
             "secondDuration": 370,
             "group": "group_7"
+        },
+        {
+            "videoId": "cYlUK4Qhmf0",
+            "title": "Paris Attacks: Eyewitness Account of Terror",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

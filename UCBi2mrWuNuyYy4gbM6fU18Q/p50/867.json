@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "uFDlgoKKRqc",
-            "title": "'Blood Moon' Captivates Stargazers",
-            "secondDuration": 40,
-            "group": "group_7"
-        },
-        {
             "videoId": "FB-nuyl7yaY",
             "title": "Halle Berry Rushed to Hospital After Hitting Head on Concrete After Fall",
             "secondDuration": 27,
@@ -301,8 +295,14 @@
             "title": "'Dancing With the Stars' Results: Chris Jericho Booted (2011)",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "VOZtn_DjGhM",
+            "title": "Icy roads caused 2 major pileups in Texas",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6mG9l28oKyI",
-            "title": "Will Smith Raps 'Fresh Prince' After Dare from British TV Host",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "KcRZKlL3xf4",
             "title": "'The Debrief': California wildfires, Thousand Oaks shooting, midterms | ABC News",
             "secondDuration": 1496,
@@ -31,8 +25,14 @@
             "title": "Police announce person of interest in missing Utah student case",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "kqOx2sR9aTE",
+            "title": "Amazon CEO goes public about alleged extortion plot against him by National Enquirer",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

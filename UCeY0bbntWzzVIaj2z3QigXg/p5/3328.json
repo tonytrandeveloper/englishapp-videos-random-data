@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sLVy7MEZIwY",
-            "title": "Texas Officials: Over 60 People Decontaminated After Chemical Leak At Water Park",
-            "secondDuration": 322,
-            "group": "group_7"
-        },
-        {
             "videoId": "tLw-Bjb6bJ4",
             "title": "Testimony Continues On Day 2 Of Chauvin Trial | NBC Nightly News",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "Inside Race To Save World’s Largest Tree From Wildfire",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "KipNwWo-ILw",
+            "title": "Man Rescued By Neighbor After Kentucky Tornado Destruction",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

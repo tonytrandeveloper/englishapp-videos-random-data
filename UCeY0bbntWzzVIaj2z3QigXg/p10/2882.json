@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cPs3VUrQhgw",
-            "title": "Jerry Nadler: Judiciary Committee Could Subpoena Unreleased Parts Of Mueller Report | NBC News",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "S43JAQDrINM",
             "title": "U.S. Telecom Companies Use Chinese Tech That May Pose Security Risk | NBC Nightly News",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "FDA Issues Sweeping Safety Rules After Deadly Food Poisoning Outbreaks | NBC Nightly News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "4mMP4gquXlE",
+            "title": "White House Covid Response Team Holds Briefing | NBC News",
+            "secondDuration": 2076,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

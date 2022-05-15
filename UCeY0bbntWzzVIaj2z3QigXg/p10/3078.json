@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FkF6Vbk0beU",
-            "title": "Teachers Use Online Crowdfunding To Support Classroom | NBC Nightly News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "ypi0PbkpNLk",
             "title": "American Airlines Says It’s Returning To Normal After Canceling Thousands Of Flights",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Biden Announces New Deal To Reduce Europe's Reliance On Russian Energy",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "9E5Njs1pWq8",
+            "title": "With Hurricanes Harvey and Irma, 'This is Going to Stretch FEMA' | Meet The Press | NBC News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

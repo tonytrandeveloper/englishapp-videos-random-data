@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TNZgngsL64I",
-            "title": "Nightly News Full Broadcast - Nov. 14",
-            "secondDuration": 1310,
-            "group": "group_7"
-        },
-        {
             "videoId": "yCa23drV7Sc",
             "title": "Morning News NOW Full Broadcast - Oct. 14",
             "secondDuration": 2775,
@@ -61,8 +55,14 @@
             "title": "Dr. Oz Strikes Back At Critics | NBC Nightly News",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "WoYhT3T8lYE",
+            "title": "Juul Breaks FDA Rule Marking Vaping Device As ‘Safe’ | NBC News Now",
+            "secondDuration": 261,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

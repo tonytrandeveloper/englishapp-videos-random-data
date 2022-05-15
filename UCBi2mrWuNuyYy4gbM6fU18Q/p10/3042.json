@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NdASlCGZFHk",
-            "title": "Donald Trump Responds to Rand Paul's Attack Ad: 'He's a Mess'",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "Iu7IGqBzNfE",
             "title": "Jada Pinkett Smith on the Eroticism of 'Magic Mike XXL'",
             "secondDuration": 289,
@@ -61,8 +55,14 @@
             "title": "Foreign affairs minister talks Panama’s role in the migrant crisis",
             "secondDuration": 419,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wf1_wZtWctE",
+            "title": "Marriott accused of hidden fees",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

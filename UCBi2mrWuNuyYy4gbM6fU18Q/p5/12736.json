@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XMZrW1YgJLI",
-            "title": "President Trump Reacts to Women's Rights Marches Across the Nation",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "EUIE-RDGW2k",
             "title": "Jackson faces Senate Judiciary Committee on 2nd day of confirmation hearing",
             "secondDuration": 664,
@@ -31,8 +25,14 @@
             "title": "Chicago Cop Who Allegedly Shot Teen Charged With Murder",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "fOC-Ml8yNAs",
+            "title": "A Black Capitol Police officer’s story of the Jan. 6 riot",
+            "secondDuration": 576,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

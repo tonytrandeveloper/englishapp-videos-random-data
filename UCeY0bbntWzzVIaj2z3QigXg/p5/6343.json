@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "324maBUUKPk",
-            "title": "'Out Of Control': Poll Shows 80% Of Voters Are Concerned About U.S. | Meet The Press | NBC News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "YoC3SqNySo0",
             "title": "Massive Inferno Erupts At D.C. Senior Living Apartment Complex | NBC Nightly News",
             "secondDuration": 62,
@@ -31,8 +25,14 @@
             "title": "Biden Lays Out His Plan For Coronavirus  | NBC News NOW",
             "secondDuration": 656,
             "group": "group_7"
+        },
+        {
+            "videoId": "nBxSBb1UiR4",
+            "title": "Live: Trump Holds News Conference At The White House | NBC News",
+            "secondDuration": 2715,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

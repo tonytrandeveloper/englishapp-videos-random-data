@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TZ0ZVPmEp5A",
-            "title": "Life After Winning An Olympic Gold | NBC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "Dl3kcsOWDJM",
             "title": "Trump’s Niece Says He Used Racist, Anti-Semitic Slurs | NBC Nightly News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Stage Set For President Donald Trump’s Meeting With Kim Jong Un | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "I70bEIO_psc",
+            "title": "Roy Moore And His Wife Ride Horseback To Vote In Alabama Senate Race | NBC News",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

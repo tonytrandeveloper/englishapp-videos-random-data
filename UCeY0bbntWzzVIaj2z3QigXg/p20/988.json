@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JPd0x14cfKQ",
-            "title": "Commencement 2016: Our Annual Salute to the Year’s Graduating Class | NBC Nightly News",
-            "secondDuration": 296,
-            "group": "group_7"
-        },
-        {
             "videoId": "WOQOYAhDnw0",
             "title": "Improving Food Safety: Tracking Contaminated Products Faster | NBC Nightly News",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "Fresh Faces On Capitol Hill Making History | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "7ctxMS9hrus",
+            "title": "Why Americans Are Still Split On Impeachment After Public Hearings | NBC News Now",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

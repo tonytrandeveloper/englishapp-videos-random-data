@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hEm5NC_8cT0",
-            "title": "Orlando Shooter Calls With Police Released",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "XRl_DIjMFAI",
             "title": "Wildfire scorches land near Los Angeles l ABC News",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "David, the Bible's First Real Hero",
             "secondDuration": 451,
             "group": "group_7"
+        },
+        {
+            "videoId": "HPj4yp_LCZo",
+            "title": "US and Russia blame each other after their Navy ships nearly collide",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

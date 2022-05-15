@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qm9ZtdR467k",
-            "title": "Doctors And Nurses Describe ‘Shocking’ Experience From The Front Lines | NBC News NOW",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "YMfUWb1Km7I",
             "title": "Biden Says U.S. Is 'Back At The Table' To Lead On Climate Change At COP26",
             "secondDuration": 364,
@@ -61,8 +55,14 @@
             "title": "Gruesome Murder Leaves 2 Children, 2 Adults Dead | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "BVYXBGARSSo",
+            "title": "Trump Administration Declares COVID-19 A Public Health Emergency | NBC News",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-7-DDlpAMko",
-            "title": "Worst Advice: Tamera Mowry",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "mizPZWL3PZs",
             "title": "Real Deal: Future of American Fuel",
             "secondDuration": 500,
@@ -61,8 +55,14 @@
             "title": "14-Year-Old Suspended From School Over Homemade Clock",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "KLFhZyVUGBM",
+            "title": "Attacks against civilian areas in Kyiv escalate I ABCNL",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

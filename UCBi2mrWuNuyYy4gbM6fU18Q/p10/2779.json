@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3ukPcqH97x4",
-            "title": "Trump to speak at Mount Rushmore as COVID-19 cases trend upward",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "amy7YLNDtYc",
             "title": "Officer who fatally shot woman at home arrested l ABC News",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump full remarks on his infrastructure initiative in Cincinnati live",
             "secondDuration": 1907,
             "group": "group_7"
+        },
+        {
+            "videoId": "tHbUTw8j_Ao",
+            "title": "'The Joker' receives 11 Oscar nominations, including best picture",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

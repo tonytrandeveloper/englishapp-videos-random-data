@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dMI44lvML4c",
-            "title": "'This Surge Is Different': Idaho Hospital Converts Classroom Into Covid Ward",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vk-PFssIqnA",
             "title": "Tom Brokaw: What’s Suddenly Gone Missing on the Campaign Trail | NBC Nightly News",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "USA Gymnastics President On Larry Nassar Abuse: 'Those Days Are Over' | NBC News",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "bBzvkMvTtXQ",
+            "title": "Postmaster General Louis DeJoy Testifies At Senate Hearing | NBC News",
+            "secondDuration": 8180,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

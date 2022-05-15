@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VgQFdKeFSDE",
-            "title": "Weather emergencies are in effect as a powerful Nor'easter stalls over the East region | ABC News",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "UAItoLvGim0",
             "title": "EU could start welcoming vaccinated tourists, but hurdles remain",
             "secondDuration": 182,
@@ -121,8 +115,14 @@
             "title": "Marine Corps Instructors Hazing Investigation",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "kkFtHeTeRss",
+            "title": "The Briefing Room: Trump on guns, 2020 Dems at Iowa State Fair, Acting DHS head interview| ABC News",
+            "secondDuration": 1446,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

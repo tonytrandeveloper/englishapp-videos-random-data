@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Gzd8Oxtj4xU",
-            "title": "A Whole City Turns Out to See the Pope",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "cVWmwhGWlT8",
             "title": "New California Wildfires Displace Hundreds",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Crane Crushes Home While Installing Pool",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "eN-t2zURVmY",
+            "title": "Border Mayor on Immigration Crisis",
+            "secondDuration": 320,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

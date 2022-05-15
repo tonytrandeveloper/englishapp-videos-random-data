@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RD4gCdNGPhE",
-            "title": "Mob Swarms Media Outside Capitol, Damages Equipment | NBC News NOW",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "mhTsl6fagu0",
             "title": "Five Children Hit By Speeding Car At Tampa Bus Stop | NBC Nightly News",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2194,
             "group": "group_7"
+        },
+        {
+            "videoId": "bboMJrFcjeI",
+            "title": "Suspect In Murder Of Cardiologist Dies By Suicide | NBC Nightly News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ADz_I8ALKzM",
-            "title": "Beirut struggles year after explosion devastated city",
-            "secondDuration": 490,
-            "group": "group_7"
-        },
-        {
             "videoId": "NzY8HIU7P1c",
             "title": "Great White Shark Attack [GoPro Footage]",
             "secondDuration": 15,
@@ -31,8 +25,14 @@
             "title": "SpaceX Demo-2 astronauts wave goodbye to their families",
             "secondDuration": 234,
             "group": "group_7"
+        },
+        {
+            "videoId": "eBP9TYwEYHg",
+            "title": "New Year Setting Off Heated Debates Over Gun Laws",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

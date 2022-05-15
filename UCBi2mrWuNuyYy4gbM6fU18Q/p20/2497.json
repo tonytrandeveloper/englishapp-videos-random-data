@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_oUqGKInzUw",
-            "title": "Vote on Senate health care bill delayed",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "lavyvncz8J0",
             "title": "ABC News Live: Justice Department outlines new actions against Russia I ABCNL",
             "secondDuration": 1441,
@@ -121,8 +115,14 @@
             "title": "'Star Wars: The Force Awakens' Trailer Reveals New Secrets",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "yOsMiDHdwpY",
+            "title": "The Rundown: Top headlines today: June 2, 2021",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

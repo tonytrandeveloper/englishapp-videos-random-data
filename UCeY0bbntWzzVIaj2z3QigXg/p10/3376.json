@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CmDl2rMrRKQ",
-            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
-            "secondDuration": 1525,
-            "group": "group_7"
-        },
-        {
             "videoId": "5n1GMZiLKmg",
             "title": "Fallen U.S. Soldiers Finally Return From North Korea | NBC News",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Wrongfully Convicted Man Hopes For Release As Coronavirus Hits Prisons | NBC Nightly News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "nA8x4lYeYxs",
+            "title": "Thousands Of Migrants Shelter Under Bridge In Texas",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

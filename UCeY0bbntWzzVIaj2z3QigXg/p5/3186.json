@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CmkOi43DX00",
-            "title": "Video Shows Small Plane Crash Onto Busy California Freeway And Burn | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wo034ta0qtw",
             "title": "Hacking Your DNA: The Big Business — And Risk — Of Home Tests | Think | NBC News",
             "secondDuration": 672,
@@ -31,8 +25,14 @@
             "title": "Supreme Court Appears Skeptical Of NY Handgun Law",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qck4834HixM",
+            "title": "White House Responds to Pressure After Fallout from Trump Remarks",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

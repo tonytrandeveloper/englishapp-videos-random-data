@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fTAagrD0-dQ",
-            "title": "Return of Johnson & Johnson vaccine elicits mixed reactions",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "AcJYMddLhfE",
             "title": "Lena Dunham Is Not 'Not That Kind of Girl'",
             "secondDuration": 339,
@@ -61,8 +55,14 @@
             "title": "Investigation grows as no survivors from plane crash",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "e-T08cz1Sxc",
+            "title": "Rocky Mountain Weather Increases Travel Risks",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

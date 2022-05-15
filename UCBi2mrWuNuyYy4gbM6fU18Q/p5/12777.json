@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7Nk4WPMqpZw",
-            "title": "US and Cuba Begin Attempts to Normalize Relations",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "HMUXbakKynw",
             "title": "American Soldier Killed by ISIS in Iraq",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Jacqueline Kennedy's White House Tour",
             "secondDuration": 856,
             "group": "group_7"
+        },
+        {
+            "videoId": "esFbYOXY8cQ",
+            "title": "Penn State's Joe Paterno Will Retire; Speaks to Crowd Gathered at Home",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

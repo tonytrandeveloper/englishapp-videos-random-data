@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CSPtIcZt5_o",
-            "title": "Passengers Recount Turbulent United Flight",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "bCLl8Zdc24o",
             "title": "ABC News Prime: Omicron expected to be dominant variant; Humanitarian crisis in Afghanistan",
             "secondDuration": 5247,
@@ -31,8 +25,14 @@
             "title": "Dust, Blood and War: The Question of Afghanistan",
             "secondDuration": 690,
             "group": "group_7"
+        },
+        {
+            "videoId": "-X1pdQx2658",
+            "title": "Woman Arrested for Leaving Her Child Alone in Scorching Car",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

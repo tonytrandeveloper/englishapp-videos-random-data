@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Dv6y9eZ2LLk",
-            "title": "How the Clinton Campaign Won in the South",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "BskHiPoaI0E",
             "title": "Extreme Weather: 8 Tornadoes Reportedly Hit Missouri, Southern Iowa",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "NYC Bomb Probe | Men With Suitcase ID'd Officials Say",
             "secondDuration": 44,
             "group": "group_7"
+        },
+        {
+            "videoId": "f-q3T4jiCBQ",
+            "title": "Melinda Gates takes on ‘crisis in caregiving’",
+            "secondDuration": 619,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nA8CqTD8Rac",
-            "title": "What If 'Star Wars' Had A Different Soundtrack | NBC News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "7Nw_VUGeVYE",
             "title": "Asian Americans Speak Out Amid Alarming Surge In Violent Attacks | NBC Nightly News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Speaks On Deregulation Efforts (Full) | NBC News",
             "secondDuration": 839,
             "group": "group_7"
+        },
+        {
+            "videoId": "hBmxSweQqrs",
+            "title": "Jon Ossoff Delivers Remarks On Election Results | NBC News",
+            "secondDuration": 305,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

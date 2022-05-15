@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "M-divkoZBRs",
-            "title": "Satellite Photos Show Work On North Korean Site Linked To Long-Range Missiles | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "pTE0bvuUASQ",
             "title": "Eastern U.S. Slammed With Severe Weather | NBC Nightly News",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Israeli Airstrike Hits Residential Building in Gaza | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "K1_qWGTCn6k",
+            "title": "Trump Speaks At Mount Rushmore Event | NBC News",
+            "secondDuration": 7200,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

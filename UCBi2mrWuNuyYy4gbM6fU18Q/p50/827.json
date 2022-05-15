@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "B5F094yu380",
-            "title": "Trump cancels press conference at G20 as Michael Cohen asks for leniency",
-            "secondDuration": 427,
-            "group": "group_7"
-        },
-        {
             "videoId": "M9kloN2LtuU",
             "title": "George Zimmerman Verdict: The Night Trayvon Martin Died - What Took Place?",
             "secondDuration": 551,
@@ -301,8 +295,14 @@
             "title": "Senators who vote against witnesses are 'complicit in a cover-up': Dem senator | ABC News",
             "secondDuration": 493,
             "group": "group_7"
+        },
+        {
+            "videoId": "Utqht6PWF9g",
+            "title": "Astroworld festival: Tracking the tragedy l ABC News",
+            "secondDuration": 382,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "H02PZKK1SGY",
-            "title": "A banker from Connecticut is charged with killing a hotel worker in the Caribbean | ABC News",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "fjTwvC96W7I",
             "title": "Haitians grieve as earthquake death toll rises to more than 1,400",
             "secondDuration": 177,
@@ -61,8 +55,14 @@
             "title": "RFK's son calls for new investigation into father's assassination",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "Lu0zBIMOVEw",
+            "title": "Who is Kamala Harris? | WNT",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

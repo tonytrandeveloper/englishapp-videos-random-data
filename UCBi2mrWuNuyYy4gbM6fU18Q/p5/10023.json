@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "r377L5cuPOw",
-            "title": "Rep Aaron Schock Answers 'This Week' Viewer Questions: Discusses 2014 Plans, Fitness Regime",
-            "secondDuration": 469,
-            "group": "group_7"
-        },
-        {
             "videoId": "X62VOG1beKw",
             "title": "California COVID-19 cases surge, straining the health care system",
             "secondDuration": 218,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Deadly Tornadoes",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "6JV_q-vrfBw",
+            "title": "Athletes, fans divided over Trump's Kaepernick comments",
+            "secondDuration": 382,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

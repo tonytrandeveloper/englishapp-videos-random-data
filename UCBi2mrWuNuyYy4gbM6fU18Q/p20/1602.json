@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OFlGHqXo4UI",
-            "title": "Man and Dog Narrowly Escape Black Bear Attack in Virginia State Park",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "qPy9u33CHEw",
             "title": "Body cam released in trial of ex-cop who shot man in his apartment l ABC News",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "Pacific Northwest battles record snowstorm",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "ELiVQlgJBnw",
+            "title": "The Conversation: Lady Gaga and Cyndi Lauper",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

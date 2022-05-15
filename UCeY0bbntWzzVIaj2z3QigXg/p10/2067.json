@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "v3fKiD4iavw",
-            "title": "Lives Lost At Pulse Nightclub Shooting Honored On Anniversary | NBC News",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "_lJJVhFlb4I",
             "title": "North Korea Could Have Submarine Capable Of Launching Nuclear Missiles | NBC Nightly News",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Blasts Growing Whistleblower Firestorm As ‘Ridiculous’ | NBC Nightly News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "RiDse6DBuLg",
+            "title": "Provocative New Report Sparks Pushback From Donald Trump White House | NBC Nightly News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

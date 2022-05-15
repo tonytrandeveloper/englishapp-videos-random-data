@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Lsh1IMrrGB4",
-            "title": "White House orders its former lawyer not to comply with congressional subpoena",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "QHvzenRLJrc",
             "title": "Paying tribute to brave Capitol Police officers who may have averted a mass shooting",
             "secondDuration": 115,
@@ -301,8 +295,14 @@
             "title": "Can Democrats flip key Georgia Senate seat?",
             "secondDuration": 422,
             "group": "group_7"
+        },
+        {
+            "videoId": "chGW3WEsK1I",
+            "title": "Military dad surprises son at school pep rally",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

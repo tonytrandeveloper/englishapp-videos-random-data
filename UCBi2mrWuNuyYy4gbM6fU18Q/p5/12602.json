@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vAzuCnY9YY8",
-            "title": "NASA discovers traces of water on the moon",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "fBtBwz2Zo6s",
             "title": "First lady Melania Trump unveils 2018 White House Christmas decorations",
             "secondDuration": 77,
@@ -31,8 +25,14 @@
             "title": "Nearly two million refugees now in Poland | ABCNL",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "AHRCf98Xx9I",
+            "title": "Warriors vs Cavs NBA Finals Game 4 HIGHLIGHTS",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

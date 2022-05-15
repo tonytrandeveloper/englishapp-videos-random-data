@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4ButcmFpeUs",
-            "title": "Survivors share the truth of horrific 1921 Tulsa massacre: Part 1",
-            "secondDuration": 390,
-            "group": "group_7"
-        },
-        {
             "videoId": "KB8eVQoaHbk",
             "title": "Matthew McConaughey on \"The Lincoln Lawyer\"",
             "secondDuration": 425,
@@ -61,8 +55,14 @@
             "title": "Paul Rudd on the Size-Alternating Role of 'Ant-Man'",
             "secondDuration": 295,
             "group": "group_7"
+        },
+        {
+            "videoId": "oNE-7Wqwd7g",
+            "title": "The Scooter Dog Scoots Onto 'GMA' (03.18.11)",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "P9zR9pWTkVg",
-            "title": "What Rebecca Schaeffer's father and co-star want you to know 30 years after her death",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "UAPWDMe_dZo",
             "title": "Donald Trump Says Ben Carson 'Doesn't Have the Experience' to Be President",
             "secondDuration": 380,
@@ -61,8 +55,14 @@
             "title": "NASA releases new images from Mars",
             "secondDuration": 371,
             "group": "group_7"
+        },
+        {
+            "videoId": "rdpFhptl04Q",
+            "title": "All-New 20/20 Event Special | Friday at 9/8c on ABC | ABC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

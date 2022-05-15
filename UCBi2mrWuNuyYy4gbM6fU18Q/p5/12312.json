@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5e15KtGc0nM",
-            "title": "Federal Budget Battle Takes Center Stage on Senate Floor",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "zKE0O_uqGYQ",
             "title": "Stocks tumble as new variant detected in South Africa, officials on high alert l GMA",
             "secondDuration": 190,
@@ -31,8 +25,14 @@
             "title": "What is net neutrality?",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "MoCrwcWvqJ8",
+            "title": "Avenatti charged with misappropriating Stormy Daniels' money",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

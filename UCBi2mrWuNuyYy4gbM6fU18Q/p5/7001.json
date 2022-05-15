@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Xt_8IV9PHT0",
-            "title": "Clinton Clobbers Trump in Fundraising",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "0weZ-zt3YPU",
             "title": "Trump on ABC News town hall: Comments on military ‘were never made by me’",
             "secondDuration": 497,
@@ -31,8 +25,14 @@
             "title": "Amplified: MGMT",
             "secondDuration": 482,
             "group": "group_7"
+        },
+        {
+            "videoId": "kbvNeQRx248",
+            "title": "The lawmakers still voting by proxy",
+            "secondDuration": 375,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

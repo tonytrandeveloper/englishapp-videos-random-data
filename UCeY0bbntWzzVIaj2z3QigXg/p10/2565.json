@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dMI44lvML4c",
-            "title": "'This Surge Is Different': Idaho Hospital Converts Classroom Into Covid Ward",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vk-PFssIqnA",
             "title": "Tom Brokaw: What’s Suddenly Gone Missing on the Campaign Trail | NBC Nightly News",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Biden Holds Press Conference With South Korean President | NBC News",
             "secondDuration": 2065,
             "group": "group_7"
+        },
+        {
+            "videoId": "XB_QsjHru4g",
+            "title": "Biden, Putin Call Scheduled As Fears Of Ukraine Invasion Looms",
+            "secondDuration": 322,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

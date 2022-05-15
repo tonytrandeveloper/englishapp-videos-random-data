@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "l1PinvsARE4",
-            "title": "The Rundown: Top headlines today: Nov. 23, 2020",
-            "secondDuration": 211,
-            "group": "group_7"
-        },
-        {
             "videoId": "ahK7ycO1LKU",
             "title": "Deadly Storms",
             "secondDuration": 117,
@@ -301,8 +295,14 @@
             "title": "Steve Jobs Dead: Vigil Outside Apple Headquarters in Cupertino, California",
             "secondDuration": 13,
             "group": "group_7"
+        },
+        {
+            "videoId": "AIDBvD3kGKg",
+            "title": "David Koresh and his multiple 'wives' of Waco: Part 2",
+            "secondDuration": 559,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

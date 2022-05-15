@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fTAagrD0-dQ",
-            "title": "Return of Johnson & Johnson vaccine elicits mixed reactions",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "AcJYMddLhfE",
             "title": "Lena Dunham Is Not 'Not That Kind of Girl'",
             "secondDuration": 339,
@@ -121,8 +115,14 @@
             "title": "Adorable miniature horses race a dog around a barn",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "VHqQfpUBauc",
+            "title": "EgyptAir Flight 804 Sent Data Suggesting Smoke, Fire Before Disappearance",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

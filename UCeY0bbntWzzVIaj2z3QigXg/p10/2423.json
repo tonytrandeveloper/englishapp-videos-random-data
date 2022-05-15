@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9pRB-pRGpmE",
-            "title": "Astronauts Return After 90-day Mission To China's Space Station",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "4-GA_dInl78",
             "title": "How Much Do You Know About Medical Marijuana And CBD? | NBC News Now",
             "secondDuration": 291,
@@ -61,8 +55,14 @@
             "title": "Tyson Foods Warns 'The Food Supply Chain Is Breaking' Amid Coronavirus Pandemic | NBC Nightly News",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "7-Ic2c69CRk",
+            "title": "Sheriff's Department Outlines Abuses Adopted Child Faced | NBC News",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uUk2dKC7Rxc",
-            "title": "Deadly Tornado Outbreak Leaves Bowling Green, Kentucky Unrecognizable",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "sS-C2T4QI2Q",
             "title": "Brett Kavanaugh Has The Votes To Be Confirmed To The Supreme Court | NBC Nightly News",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "CDC: Fully Vaccinated People Can Stop Wearing Masks",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "6jshAKNAOuE",
+            "title": "Bernie Sanders Says 'You Cannot Win 'em All' After Losing In S.C. | NBC News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

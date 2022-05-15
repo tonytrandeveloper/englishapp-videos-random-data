@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "9445baaZ-rk",
-            "title": "MICHAEL JACKSON DOCUMENTARY | \"Journey From Motown to Off the Wall\" by Spike Lee",
-            "secondDuration": 410,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Ikg1DdFPhw",
             "title": "Brenda Delgado Behind Bars",
             "secondDuration": 108,
@@ -301,8 +295,14 @@
             "title": "Boston Bombing Day 4 | The Firefight: 'I Thought We Were Gonna Die'",
             "secondDuration": 571,
             "group": "group_7"
+        },
+        {
+            "videoId": "bnR5OR6cGM0",
+            "title": "Moore, Oklahoma Tornado Video: Father Reunited With Son After Storm Hits",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

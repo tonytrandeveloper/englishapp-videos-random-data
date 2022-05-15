@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ESyMRU3jQSw",
-            "title": "How To Execute Your New Year’s Resolutions | ABC News",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ruawci7YoFA",
             "title": "Hurricane Sandy: Power Outage Forces NYU Hospital Evacuation",
             "secondDuration": 192,
@@ -31,8 +25,14 @@
             "title": "Clinton Wins Early Vote in NH Town of 8 Voters",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "5xYUFa0Kz_I",
+            "title": "Chance the Rapper Leads Hundreds to Vote | Election 2016",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

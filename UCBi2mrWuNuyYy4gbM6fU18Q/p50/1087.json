@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "9Bsjle6kVc8",
-            "title": "The Debrief: Florida recount, California wildfires, cruise ship mystery | ABC News",
-            "secondDuration": 1567,
-            "group": "group_7"
-        },
-        {
             "videoId": "uZEAjHsWYrU",
             "title": "Gadgets For The Outdoors | ABC News",
             "secondDuration": 258,
@@ -301,8 +295,14 @@
             "title": "StoryCorps' mission to bridge the US political divide | ABC News",
             "secondDuration": 308,
             "group": "group_7"
+        },
+        {
+            "videoId": "0UHHYoipuVg",
+            "title": "Housing Market Bounces Back",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

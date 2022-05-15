@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iZB3sv0mRlY",
-            "title": "Snow, ice from massive winter storm makes travel dangerous",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "A3BpGfvLNxI",
             "title": "CMA 2015 Award Nominations Announced Live on 'GMA'",
             "secondDuration": 276,
@@ -31,8 +25,14 @@
             "title": "Lightning flashes across Manhattan sky",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "lnX8pgGHTX4",
+            "title": "Oregon middle school on lockdown after police shooting",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

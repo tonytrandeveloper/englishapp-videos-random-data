@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "dZLhFrgmpD4",
-            "title": "Police search for a possible serial arsonist in Washington state",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "wxFPcUZlcms",
             "title": "Webcast: Holiday Travel; Navy's Traditional Kiss",
             "secondDuration": 116,
@@ -301,8 +295,14 @@
             "title": "Town Hall Debate: Setting Up the Debate",
             "secondDuration": 385,
             "group": "group_7"
+        },
+        {
+            "videoId": "J54jyx37dSc",
+            "title": "Breonna Taylor grand jury tapes released",
+            "secondDuration": 350,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

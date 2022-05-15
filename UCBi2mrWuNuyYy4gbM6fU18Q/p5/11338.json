@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yDSJIvWeqpQ",
-            "title": "Gourmet Eats In The Air | ABC News",
-            "secondDuration": 238,
-            "group": "group_7"
-        },
-        {
             "videoId": "7vVrd3mJSeg",
             "title": "Ryan Lochte's Best Moments",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "Ashton Kutcher Punk'd in Latest Celebrity 'Swatting' Prank?",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "z_seirpAkm8",
+            "title": "President Donald Trump delivers remarks on the economy | ABC News",
+            "secondDuration": 1660,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

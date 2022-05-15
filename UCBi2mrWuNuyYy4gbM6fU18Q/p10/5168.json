@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sGqyuEmT9xs",
-            "title": "Syria's Chemical Weapon Threat",
-            "secondDuration": 455,
-            "group": "group_7"
-        },
-        {
             "videoId": "uf0aPy9rgDU",
             "title": "Man trying to get a song on the radio since the ‘50s",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Senate prepares to vote on $1.9 trillion COVID relief bill",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "7hnLEmcXPvc",
+            "title": "Jogger Strangled in New York | Killer Manhunt Continues",
+            "secondDuration": 237,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

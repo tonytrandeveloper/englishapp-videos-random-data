@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8PSzM20UVN0",
-            "title": "Paul Ryan On Whether He Would Rescind Support For Donald Trump | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "IpY-EiZ_t-o",
             "title": "Early Predictions For The 2016 Election | NBC News",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "States Ease Restrictions As Pandemic Enters Next Phase",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "VRsGB3kmiVo",
+            "title": "Deadly Wildfires Burn Out Of Control, Threaten Australia’s Biggest City | NBC News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "r0n1GiJdPJY",
-            "title": "Tesla’s Cybertruck Launch Goes Terribly Wrong | NBC Nightly News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "JyB0uTZcWao",
             "title": "Hill: It Was 'Very Apparent' Giuliani Linked Burisma To The Bidens | NBC News",
             "secondDuration": 169,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Utters Comment That Delayed Sergeant Bowe Bergdahl's Sentencing | NBC News",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "mIFDzswcrMI",
+            "title": "NBC WSJ Poll: Democratic Favorability Highest Since 2008 | Meet The Press | NBC News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

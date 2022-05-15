@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "B_xSirHTPyU",
-            "title": "Shot of equity for vaccine rollout",
-            "secondDuration": 263,
-            "group": "group_7"
-        },
-        {
             "videoId": "P7OC0dUW4ps",
             "title": "Legal analyst calls Chauvin courtroom 'thick with emotion’",
             "secondDuration": 302,
@@ -61,8 +55,14 @@
             "title": "Dog Rescued From Italian Earthquake Rubble",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "tLnJYhKErqY",
+            "title": "Snowboarder Catches Avalanche on Camera",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

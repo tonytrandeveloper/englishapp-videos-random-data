@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "76npaHULaBw",
-            "title": "Robot Performs Successful Surgery On Pig | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "CmJoUPwxu0o",
             "title": "Crash That Killed California Family May Have Been Intentional | NBC Nightly News",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "White House Holds Press Briefing: June 28 | NBC News",
             "secondDuration": 3085,
             "group": "group_7"
+        },
+        {
+            "videoId": "oRcOBlQEhgI",
+            "title": "Oregon Officials Say Vote-By-Mail System Improves Security And Turnout | NBC Nightly News",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

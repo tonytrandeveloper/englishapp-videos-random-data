@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GSOeMatUbGM",
-            "title": "Family Of Gabby Petito Holds News Conference",
-            "secondDuration": 1111,
-            "group": "group_7"
-        },
-        {
             "videoId": "YxrAxu440ao",
             "title": "Hurricane Sally Rapidly Intensifies In The Gulf Ahead Of Forecasted Landfall | NBC News NOW",
             "secondDuration": 293,
@@ -61,8 +55,14 @@
             "title": "Watch Protesters Take A Stand Against The Vote To Confirm Brett Kavanaugh | NBC News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "DyqK3Iimtk4",
+            "title": "Israel Giving Third Dose of Pfizer Vaccine To Older Residents",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

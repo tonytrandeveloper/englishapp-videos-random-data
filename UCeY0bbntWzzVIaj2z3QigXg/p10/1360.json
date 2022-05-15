@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6Nq3sv2m_c4",
-            "title": "Leonardo Da Vinci's \"Salvator Mundi\": Is The Painting Worth $450 Million? | NBC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "vF_Aho7CE1U",
             "title": "President Donald Trump Announces National Monument Changes In Utah (Full) | NBC News",
             "secondDuration": 1518,
@@ -61,8 +55,14 @@
             "title": "Florida Gov. DeSantis Gives Updates On Coronavirus | NBC News (Live Stream Recording)",
             "secondDuration": 2171,
             "group": "group_7"
+        },
+        {
+            "videoId": "sfqf-SeIjM0",
+            "title": "Sinkhole Swallows Van In Cleveland | NBC News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

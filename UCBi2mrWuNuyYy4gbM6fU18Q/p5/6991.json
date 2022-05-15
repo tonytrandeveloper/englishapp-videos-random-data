@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pQ864I6oooo",
-            "title": "WEBCAST: Bill Cosby's TV Wife Speaks Out",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "f067j3QvqSM",
             "title": "EXCLUSIVE: Biden's Iraq Mission",
             "secondDuration": 1034,
@@ -31,8 +25,14 @@
             "title": "Trump's Family Defends Controversial Tweet",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "JTYzum7TESw",
+            "title": "NJ Garden State Plaza Mall Shooter Found Dead",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

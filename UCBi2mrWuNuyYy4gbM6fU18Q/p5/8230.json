@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7Q8RKOzyJQQ",
-            "title": "Why Pennsylvania is considered a battleground state",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z4KH7FOe7ls",
             "title": "ABC News Live Update: 837,000 applied for unemployment last week",
             "secondDuration": 582,
@@ -31,8 +25,14 @@
             "title": "CDC releases new guidance for those who are fully vaccinated",
             "secondDuration": 314,
             "group": "group_7"
+        },
+        {
+            "videoId": "c8hcFpIJq-s",
+            "title": "President Obama to Make Historic Trip to Cuba",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

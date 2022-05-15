@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZGLYe82dcbA",
-            "title": "US launches military strike on Syria",
-            "secondDuration": 288,
-            "group": "group_7"
-        },
-        {
             "videoId": "fgZ7X9x6bbw",
             "title": "Iowa Governor: 'Wide Open Race'",
             "secondDuration": 300,
@@ -61,8 +55,14 @@
             "title": "50th anniversary of Martin Luther King Jr. assassination",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "x_iVw3I9C1E",
+            "title": "Girl Born With No Hands Awarded Penmanship Prize",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

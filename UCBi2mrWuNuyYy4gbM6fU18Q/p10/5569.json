@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CQ6vc5uLZsE",
-            "title": "Manhunt continues for sniper who shot LA deputy | ABC News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "rGNxBrjE-0k",
             "title": "Does Faith Help Bring the Nation Together?",
             "secondDuration": 317,
@@ -61,8 +55,14 @@
             "title": "Iraqi leaders declare victory over ISIS in Mosul",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "RqcDb8XXdD8",
+            "title": "By the Numbers: Climate change’s impact on hurricanes l ABCNL",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

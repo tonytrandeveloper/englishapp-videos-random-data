@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "at0Cvqz8sHk",
-            "title": "Paramedic returns home after helping out in New York | WNT",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "H2MN8biexxY",
             "title": "New York community upset over fatal police shooting of mentally ill man",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Dr. Fauci testifies about 'disturbing surge' of infections",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "mjKusa1sdA0",
+            "title": "Latest on shooting of Ma’Khia Bryant in Ohio",
+            "secondDuration": 325,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

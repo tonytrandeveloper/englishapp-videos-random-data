@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uRPqAq-Ptfk",
-            "title": "Full Sen. Johnson Interview: 'Biden Has Won [Wisconsin] By Twenty Thousand Votes' | Meet The Press",
-            "secondDuration": 574,
-            "group": "group_7"
-        },
-        {
             "videoId": "3CVcRrEAn5A",
             "title": "Puerto Rico Says Hurricane-Related Deaths Could Be More Than 1,400 | NBC Nightly News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "This Morning’s Top Headlines – Nov. 17 | Morning News NOW",
             "secondDuration": 1055,
             "group": "group_7"
+        },
+        {
+            "videoId": "iV1ycBdfbbo",
+            "title": "Damien Hirst Unveils ‘Unbelievable’ Exhibit Featuring Medusa, Mickey Mouse | NBC News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

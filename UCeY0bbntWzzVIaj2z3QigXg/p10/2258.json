@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eogOYpGAAv4",
-            "title": "Donald Trump Explains Objection To Boeing’s ‘Out of Control’ Air Force One Contract | NBC News",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "dNV56jOeoyw",
             "title": "Russian Adventurer Attempts To Break Hot Air Balloon Record | NBC News",
             "secondDuration": 62,
@@ -61,8 +55,14 @@
             "title": "Capitol Riot: Dozens Arrested, Officials Working To Identify Suspects | NBC Nightly News",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "HhA2NXJRBvM",
+            "title": "Outpouring Of Gratitude Surrounds Las Vegas Strip | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

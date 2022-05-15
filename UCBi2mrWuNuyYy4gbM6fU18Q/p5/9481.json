@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ArFlTIRKIjY",
-            "title": "Dad Poses Son as US Olympian",
-            "secondDuration": 33,
-            "group": "group_7"
-        },
-        {
             "videoId": "plUVog7AZlc",
             "title": "Trump calls Michael Flynn a 'wonderful man'",
             "secondDuration": 198,
@@ -31,8 +25,14 @@
             "title": "Princes William and Harry Visit Memphis For Friend's Wedding",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "MibYgP3JqAQ",
+            "title": "Phone scam targets grandparents",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

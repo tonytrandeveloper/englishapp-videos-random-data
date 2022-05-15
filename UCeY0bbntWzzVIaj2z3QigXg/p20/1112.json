@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VvQbyqvAHAs",
-            "title": "Remembering ‘Everybody Loves Raymond’ Star Doris Roberts | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "6RD9mrh5B74",
             "title": "Three U.S. Soldiers Killed In Training Exercise In Georgia | NBC Nightly News",
             "secondDuration": 108,
@@ -121,8 +115,14 @@
             "title": "Vindman: ‘Decision Was Made On The Fly’ To Move Ukraine Call Record To Secure System | NBC News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "UHLKkgWZza0",
+            "title": "U.S. Added 194,000 Jobs In September, Unemployment Rate Down",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

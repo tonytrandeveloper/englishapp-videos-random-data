@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oVN3ybq_kdo",
-            "title": "2010: A 'Referendum' on Obama",
-            "secondDuration": 639,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yx1nDubg4Ts",
             "title": "Trump Picks Lt. Gen. Michael Flynn as National Security Adviser",
             "secondDuration": 218,
@@ -121,8 +115,14 @@
             "title": "David Petraeus Apologizes for Affair",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "LNHlTLvRhJ0",
+            "title": "Upcoming American Music Awards",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

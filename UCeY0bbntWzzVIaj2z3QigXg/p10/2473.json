@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "so1SdZmZuvc",
-            "title": "Hong Kong Protestor Beaten By Police | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "8alguMVNMMU",
             "title": "Schiff: Ukraine Aide Was 'Conditioned On What Trump Wanted' | NBC News",
             "secondDuration": 439,
@@ -61,8 +55,14 @@
             "title": "California ‘Valley’ Fire Send Thousands On the Run | NBC Nightly News",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "uxh52j9kmEw",
+            "title": "Fed. Chair Yellen: Raising Rate Is 'The End Of An Extraordinary 7 Year Period' | NBC News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

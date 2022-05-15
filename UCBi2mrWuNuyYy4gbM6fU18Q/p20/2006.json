@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "kALI2Dan1dU",
-            "title": "Florida sees record hospitalizations as CDC sheds light on delta variant",
-            "secondDuration": 541,
-            "group": "group_7"
-        },
-        {
             "videoId": "QSJrnTliejA",
             "title": "Juggler breaks 52 Guinness World Records in 52 weeks",
             "secondDuration": 275,
@@ -121,8 +115,14 @@
             "title": "Gunman opens fire at Waffle House outside Nashville",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "JjGdZt01Zjw",
+            "title": "Chris Klein talks about Alcoholism and 'Mamma Mia'",
+            "secondDuration": 412,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

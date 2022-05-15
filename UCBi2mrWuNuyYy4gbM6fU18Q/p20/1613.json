@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2DVw_BbVzCg",
-            "title": "Iowa caucuses voting results delayed | ABC News",
-            "secondDuration": 295,
-            "group": "group_7"
-        },
-        {
             "videoId": "dDIIc7Rz3X8",
             "title": "ABC News Live: John Deere workers on strike for 2nd day in a row",
             "secondDuration": 1582,
@@ -121,8 +115,14 @@
             "title": "New bombshell book expected from Watergate reporter",
             "secondDuration": 352,
             "group": "group_7"
+        },
+        {
+            "videoId": "d3GQlqJDKIg",
+            "title": "Furloughed hospitality publicist pivots to cookie cake company during pandemic",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

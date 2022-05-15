@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yExcBk00bxE",
-            "title": "Fact Checking Round One Of The Democratic Presidential Debates | NBC News Now",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "GlaAy3mnXAc",
             "title": "Pay-To-Stay Jails: A Look At The Amenity-Filled Jails Offered At A Cost | NBC Nightly News",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Hallie Jackson NOW - March 25 | NBC News NOW",
             "secondDuration": 3202,
             "group": "group_7"
+        },
+        {
+            "videoId": "A7cyMqXXEys",
+            "title": "Gina Haspel, President Trump’s Controversial CIA Nominee, Threatens To Withdraw | NBC Nightly News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

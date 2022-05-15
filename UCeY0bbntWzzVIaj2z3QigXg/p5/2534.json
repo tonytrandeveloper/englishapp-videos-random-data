@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ziWl6rLE4fw",
-            "title": "Live: White House Holds Press Briefing | NBC News",
-            "secondDuration": 1290,
-            "group": "group_7"
-        },
-        {
             "videoId": "lKDMiwdPQhM",
             "title": "Watch Live: President Donald Trump Participates In White House Diwali Ceremony | NBC News",
             "secondDuration": 633,
@@ -31,8 +25,14 @@
             "title": "Political Battle Raging Over Police Reform | NBC Nightly News",
             "secondDuration": 734,
             "group": "group_7"
+        },
+        {
+            "videoId": "bPIzpc0qt8c",
+            "title": "Five Years Later: Remembering The Nine Killed At Emanuel AME Church | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FBOcJyvTQqg",
-            "title": "Intelligence Chief Briefs On Cyber Security For Political Candidates | NBC News",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "I1pghPEhx50",
             "title": "Texas Tribune Festival: One-on-One with Gary Cohn | NBC News",
             "secondDuration": 2016,
@@ -121,8 +115,14 @@
             "title": "What The Constitution Says About A President’s Illness | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "CDrNcFedgUM",
+            "title": "Dozens Injured When Floor Collapses At South Carolina Party | NBC Nightly News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RJS8UsRvXak",
-            "title": "Iran Attacks Iraqi Air Base Where U.S. Troops Are Based | NBC News",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "WzaDyKBWUq0",
             "title": "Sanders And Biden Address Coronavirus On The Campaign Trail | NBC Nightly News",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Olympian Chris Mazdzer: If You Want To Succeed, Reframe Failure | Better | NBC News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "X10rUS1xod4",
+            "title": "Watch Live: President Donald Trump Speaks At A Keep America Great Rally In Louisiana | NBC News",
+            "secondDuration": 4584,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3_9IFXgDYRM",
-            "title": "White House Holds Press Briefing: January 26 | NBC News",
-            "secondDuration": 3620,
-            "group": "group_7"
-        },
-        {
             "videoId": "zSBR7E65FG0",
             "title": "Full Sen. Marshall: ‘Shame On You, If You Haven’t Gotten A Booster’",
             "secondDuration": 588,
@@ -31,8 +25,14 @@
             "title": "NOW In Focus: Children & Covid | NBC News NOW",
             "secondDuration": 1717,
             "group": "group_7"
+        },
+        {
+            "videoId": "BqWga0JZqbs",
+            "title": "Emirates Flight With Multiple Sick Passengers And Crew Members Lands At JFK | NBC Nightly News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

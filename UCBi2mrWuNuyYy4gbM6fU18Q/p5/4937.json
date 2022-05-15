@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LPtxkvPYdMk",
-            "title": "Bill O'Reilly fires back after New York Times report",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "5qqaSrWfPf4",
             "title": "UN reports over 2 million refugees have fled Ukraine",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "White House press briefing: Michael Flynn sentencing delayed, looming government shutdown | ABC News",
             "secondDuration": 1351,
             "group": "group_7"
+        },
+        {
+            "videoId": "O6qbY4gPTow",
+            "title": "Obama, Japan PM Shinzo Abe Full Speech at Pearl Harbor | ABC News",
+            "secondDuration": 2177,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

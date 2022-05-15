@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zw01_1EPD8I",
-            "title": "Navy SEAL Walks Free On Time Served In War Crimes Trial | NBC Nightly News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "gGts8oGNy4M",
             "title": "Treasury Secretary Steve Mnuchin Sanctions Venezuelan VP For Narcotics Trafficking | NBC News",
             "secondDuration": 77,
@@ -121,8 +115,14 @@
             "title": "360 Video: Residents Return To Damaged Homes In Key West, Florida After Hurricane Irma | NBC News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "GeRVT97_bkU",
+            "title": "Dr. Fauci Says We’re In A Race Against Time To Beat Covid Variants | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

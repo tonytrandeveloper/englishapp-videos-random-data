@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mF4S5_-7ct8",
-            "title": "Former Secretary of State Madeleine Albright dead at 84 l ABCNL",
-            "secondDuration": 340,
-            "group": "group_7"
-        },
-        {
             "videoId": "hzSo6YfVYH0",
             "title": "New audio appears to capture Trump saying he wants Ukraine ambassador fired",
             "secondDuration": 243,
@@ -121,8 +115,14 @@
             "title": "Experts predict more than 230,000 U.S. coronavirus deaths by November",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "dqAvWeo4fSU",
+            "title": "47 Years Since Dr. Martin Luther King Jr. Was Gunned Down",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

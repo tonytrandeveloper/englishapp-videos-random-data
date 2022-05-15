@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zFPLbhrnLJA",
-            "title": "Boris Johnson ‘Deeply Sorry’ As U.K. Covid Toll Passes 100,000 | NBC News NOW",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZwlccbJEkHI",
             "title": "Women Fighting For Representation Run For Local Office | NBC News NOW",
             "secondDuration": 318,
@@ -61,8 +55,14 @@
             "title": "Body Cam Footage Released In Police Stop Of Paraplegic Man",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "-U5uISn4f0k",
+            "title": "Military Vehicle Plows Into Protesters In Venezuela | NBC News",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

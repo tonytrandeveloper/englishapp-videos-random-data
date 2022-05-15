@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "brdrFrU-3O0",
-            "title": "Manhunt for smash-and-grab robbers",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "2lmv6ZDm0vw",
             "title": "Democratic candidates debate: Education | ABC News",
             "secondDuration": 857,
@@ -61,8 +55,14 @@
             "title": "'Life of Pi' Tiger Interview: Sam Champion Channels Wild Side",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "NnLoNyYG4gU",
+            "title": "Government shutdown begins",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

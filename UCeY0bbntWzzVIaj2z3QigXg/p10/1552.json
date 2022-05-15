@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GyOq6FRjkr0",
-            "title": "Meet The Press Broadcast (Full) - June 6th, 2021",
-            "secondDuration": 2851,
-            "group": "group_7"
-        },
-        {
             "videoId": "VnSJVpbTMu4",
             "title": "Texas Primary Day: What To Expect As Voters Head To Polls For First Primary Of 2022",
             "secondDuration": 200,
@@ -61,8 +55,14 @@
             "title": "How Amazon Is Defending Itself Against Weighted Search Result Accusations | NBC News Now",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "asfzn-ZbwsI",
+            "title": "Russian Intelligence Service Arrests Members of Ransomware Gang REvil",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

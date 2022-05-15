@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VnCOWH6o2lY",
-            "title": "Kelly Clarkson, John Legend Talk 'Duets'",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "CD0f5zNG8SM",
             "title": "8 winners make history at 2019 Spelling Bee",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "US Servicemen Help Rescue Children, Mother From Burning Building",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "NI21xI7rKjQ",
+            "title": "Wounded Fort Hood Soldier Speaks Out",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

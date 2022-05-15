@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mHEVaKMRhak",
-            "title": "Dems focus on health care in Barrett hearing, families share opposing views on ACA",
-            "secondDuration": 648,
-            "group": "group_7"
-        },
-        {
             "videoId": "OhvZzFVB4fM",
             "title": "Florida Boy Survives Alligator Attack With Only Scratches",
             "secondDuration": 160,
@@ -121,8 +115,14 @@
             "title": "St. Louis’ 1st black prosecutor files lawsuit against city",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "_s5Da8TMipw",
+            "title": "George Zimmerman's New Run in With the Law",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

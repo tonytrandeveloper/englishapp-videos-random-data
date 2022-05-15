@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "a_S-DyiwD0E",
-            "title": "Boy Thrown From Water Slide At California Water Park | NBC Nightly News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "H7mb3714xGI",
             "title": "Legal Experts Debate Presidential Powers And Russia Probe | Meet The Press | NBC News",
             "secondDuration": 549,
@@ -31,8 +25,14 @@
             "title": "Opioid Epidemic: Inside A Police Raid To Take Down A Drug Dealer | NBC Nightly News",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "hVCtBFqwWxE",
+            "title": "Public Viewing For Rayshard Brooks In Atlanta | NBC News",
+            "secondDuration": 3332,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

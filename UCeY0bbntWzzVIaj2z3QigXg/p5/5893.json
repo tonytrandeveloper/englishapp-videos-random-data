@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LJZKGBllIDA",
-            "title": "This Morning’s Top Headlines – March 3 | Morning News NOW",
-            "secondDuration": 1244,
-            "group": "group_7"
-        },
-        {
             "videoId": "jfapP7P3060",
             "title": "John Elway On Painful Hand Condition: The Disease Gets ‘Worse And Worse’ | NBC News Now",
             "secondDuration": 533,
@@ -31,8 +25,14 @@
             "title": "Live: Trump Speaks To Reporters Before Departing For Florida | NBC News",
             "secondDuration": 240,
             "group": "group_7"
+        },
+        {
+            "videoId": "u2tuxaLRN3o",
+            "title": "Jacob Blake Family Attorney Responds To Announcement Of No Charges In Shooting | NBC News NOW",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

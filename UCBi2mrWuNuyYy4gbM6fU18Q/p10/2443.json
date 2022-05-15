@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SPPwk7onDA4",
-            "title": "MIX: Chocolate Drought",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "EXvXoMxgGgo",
             "title": "Deputy Dies When Car Goes Into Sinkhole",
             "secondDuration": 48,
@@ -61,8 +55,14 @@
             "title": "Electoral College vote to be certified today",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "XBLeYmy0gQY",
+            "title": "North Korea Missile Launch",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

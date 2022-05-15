@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "47Aj_w0wZqw",
-            "title": "Is It Bear-Proof? Grizzlies Put Products To The Test At Montana Wildlife Park | NBC Nightly News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "OgqNcgxN0Ik",
             "title": "French President Emmanuel Macron Pays Respects At Strasbourg Christmas Market | NBC News",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "How An Algorithm Is Fighting The Opioid Epidemic | Mach | NBC News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "j3eJI0x3BhQ",
+            "title": "Donald Trump is the Presumptive GOP Nominee | NBC Nightly News",
+            "secondDuration": 219,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

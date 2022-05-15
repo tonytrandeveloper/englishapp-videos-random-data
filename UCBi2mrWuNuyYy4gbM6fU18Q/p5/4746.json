@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KDKtlu2KYw4",
-            "title": "NASCAR:  Terror on the Track",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "7r6uOPKrkYk",
             "title": "Trump, Clinton Start Their Sprint to the Finish",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "Crisis in Urkaine: US Responds to 'Irresponsible' Russian Jet Movement",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "InSr8R8SNC8",
+            "title": "WEBCAST: Potato Salad Madness",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r377L5cuPOw",
-            "title": "Rep Aaron Schock Answers 'This Week' Viewer Questions: Discusses 2014 Plans, Fitness Regime",
-            "secondDuration": 469,
-            "group": "group_7"
-        },
-        {
             "videoId": "X62VOG1beKw",
             "title": "California COVID-19 cases surge, straining the health care system",
             "secondDuration": 218,
@@ -61,8 +55,14 @@
             "title": "Protests in Sacramento continue after an unarmed man is killed by police",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "E2Ct99OEWrA",
+            "title": "NYC doctors on COVID-19 this fall l ABC News",
+            "secondDuration": 218,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

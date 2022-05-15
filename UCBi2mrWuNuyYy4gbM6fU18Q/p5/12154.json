@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tRKRW-4Dt3s",
-            "title": "ABC News Prime: Call for Trump's removal, Capitol Hill security failure, Global reaction to riots",
-            "secondDuration": 3720,
-            "group": "group_7"
-        },
-        {
             "videoId": "65vfSxym41k",
             "title": "Dow Jones, NASDAQ Drop: Stock Market Plunges More Than 200-Points",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "One-on-one with Gov. Chris Christie",
             "secondDuration": 404,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xx9QofZvaas",
+            "title": "Bolton: '4 countries' could interfere in midterm elections",
+            "secondDuration": 1312,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

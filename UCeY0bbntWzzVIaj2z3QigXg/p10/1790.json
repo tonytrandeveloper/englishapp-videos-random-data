@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-ooLrD7Om-8",
-            "title": "Trump, Pence Meet With Insurance Executives, Agree To Waive Copays, Extend Treatment | NBC News",
-            "secondDuration": 253,
-            "group": "group_7"
-        },
-        {
             "videoId": "816lFUPQXFE",
             "title": "First Responders Race To Save Lives After Ida’s Destruction",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Trump Signs Executive Order For Regulation Of Social Media’s ‘Unchecked Power’ | NBC News NOW",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "_MT6RiLub1E",
+            "title": "Conviction on Dateline",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z1ggwQXmLCs",
-            "title": "Amber Guyger Found Guilty Of Murder In Neighbor’s Shooting Death | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "KR6NU5gqbm8",
             "title": "Meet The 86-Year-Old Soaring To Great Heights As The World’s Oldest Trapeze Artist | Nightly News",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Markeis McGlockton Attorney Speaks Out Against 'Stand Your Ground' | NBC News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "F-wEXoJHXLY",
+            "title": "The Role Of Fastly In Massive Outage That Took Major Websites Offline",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

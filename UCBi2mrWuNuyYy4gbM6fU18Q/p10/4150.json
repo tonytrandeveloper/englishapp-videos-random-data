@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QcQt5NFrSkM",
-            "title": "Daisy Ridley Sings With Barbra Steisand",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "ACj8NPTZoKs",
             "title": "Colin Kaepernick Back on the Field Despite Critics Calling For His Removal",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "Facebook CEO Mark Zuckerberg's Big Pledge",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "P42qqo10S10",
+            "title": "COVID-19 cases rising ahead of holiday weekend",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

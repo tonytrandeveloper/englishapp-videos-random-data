@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YK52GNAPEJo",
-            "title": "Victory at the Supreme Court Over Contraception",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "9FQh3dGx8fg",
             "title": "Polar Plunge Causes Temperatures to Plummet as Icy Rescues Are Underway",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "Community raises $5K to buy school bus driver Super Bowl LII tickets",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "upr8c9TQZFg",
+            "title": "Mysterious coronavirus kills 2, sickens dozens",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

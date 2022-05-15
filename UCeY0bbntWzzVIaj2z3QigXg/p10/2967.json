@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uBmLQqjmvN8",
-            "title": "Bill Cosby Sentenced To 3 To 10 Years In Prison For Sexual Assault | NBC News",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "b62CIafhCz4",
             "title": "Icon Lauren Bacall Dies At 89 | NBC News",
             "secondDuration": 167,
@@ -61,8 +55,14 @@
             "title": "Man Who Shot And Killed Joe McKnight Arrested On Manslaughter Charge | NBC News",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "jKG0HmfjFg8",
+            "title": "Senate Holds First Hearing On Capitol Riot | NBC News",
+            "secondDuration": 14115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

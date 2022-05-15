@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-bGW6g0Dzk8",
-            "title": "Man Gets Death Penalty Case Tossed 30 Years Later",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hs2f6C2-Q-I",
             "title": "Texas Biker Shootout Leads to Nearly 200 Arrests",
             "secondDuration": 175,
@@ -301,8 +295,14 @@
             "title": "Donald Trump Takes Gentler Approach in Presidential Campaign",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "DSOr3Si3xOs",
+            "title": "Remnants of Tropical Storm Imelda slam southeast Texas",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

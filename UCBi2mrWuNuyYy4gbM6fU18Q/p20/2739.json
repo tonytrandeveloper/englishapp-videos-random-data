@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ookjWP7jcjE",
-            "title": "The Conversation: Netroots Nation Flexes Muscles",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "gpIDqqg4dxA",
             "title": "Michigan Shooting Spree | 6 Killed",
             "secondDuration": 295,
@@ -121,8 +115,14 @@
             "title": "'Real Housewives' Play 'Name That Blow Up' on 'GAA'",
             "secondDuration": 258,
             "group": "group_7"
+        },
+        {
+            "videoId": "KAC50ILgIxY",
+            "title": "Boy With Cerebral Palsy Competes in Triathlon",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

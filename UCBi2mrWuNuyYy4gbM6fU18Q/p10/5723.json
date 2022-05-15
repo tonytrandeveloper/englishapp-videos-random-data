@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "atpGDrbKuto",
-            "title": "Remdesivir shortages during COVID-19",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "P-TFhUq3otQ",
             "title": "Taylor Swift Barbra Walters Interview | Barbra Walters Most Facinating People | ABC News",
             "secondDuration": 376,
@@ -61,8 +55,14 @@
             "title": "Exclusive: Aerialist's Amazing Survivor Story",
             "secondDuration": 303,
             "group": "group_7"
+        },
+        {
+            "videoId": "JxggPKCIZSg",
+            "title": "ABC News Live Update: House to send Trump impeachment article to Senate on Monday",
+            "secondDuration": 531,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

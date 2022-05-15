@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xYa6UuwwfB8",
-            "title": "The Family Behind The 80-Year Success Of Goya Foods | NBC News",
-            "secondDuration": 278,
-            "group": "group_7"
-        },
-        {
             "videoId": "3QImPqK33fU",
             "title": "President Donald Trump: James Comey Is 'A Showboat' (Excerpt) | NBC Nightly News",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Oklahoma’s Female Prison Population Is Reaching Epidemic Levels | NBC Left Field",
             "secondDuration": 357,
             "group": "group_7"
+        },
+        {
+            "videoId": "LZNNii2gcFc",
+            "title": "White House Holds Press Briefing: July 19 | NBC News",
+            "secondDuration": 2676,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

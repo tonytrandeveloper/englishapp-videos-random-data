@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fOkVr8jfjyA",
-            "title": "White House Holds Press Briefing: August 5 | NBC News",
-            "secondDuration": 3505,
-            "group": "group_7"
-        },
-        {
             "videoId": "wDtTegLHV-Q",
             "title": "Airlines Push For Criminal Prosecution Of Unruly Passengers",
             "secondDuration": 218,
@@ -31,8 +25,14 @@
             "title": "Hamilton's Leslie Odom Jr.'s Journey From Stage To Studio | NBC BLK | NBC News",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "6SGca--Wx2Y",
+            "title": "World Health Organization Provides Update On Coronavirus | NBC News (Live Stream Recording)",
+            "secondDuration": 2957,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

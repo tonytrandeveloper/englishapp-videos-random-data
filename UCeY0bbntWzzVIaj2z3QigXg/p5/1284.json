@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lT4FxQQiGxg",
-            "title": "Hillary Clinton: 'Gay Rights Are Human Rights' | NBC News",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "a7SCEQknvFg",
             "title": "Places Of Worship Take Steps To Stop Coronavirus Spread | NBC Nightly News",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "NBC Nightly News Broadcast (Full) - July 19th, 2021",
             "secondDuration": 1090,
             "group": "group_7"
+        },
+        {
+            "videoId": "CDNGXGuDLmE",
+            "title": "Brett Kavanaugh Supreme Court Confirmation Hearings (Full) | NBC News",
+            "secondDuration": 26788,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

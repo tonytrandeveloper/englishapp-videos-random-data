@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yRlE03xaN18",
-            "title": "NBC News NOW Full Broadcast - April 8th, 2021 | NBC News NOW",
-            "secondDuration": 3115,
-            "group": "group_7"
-        },
-        {
             "videoId": "IfEsfGc6oUk",
             "title": "White House ‘Very Confident’ Government Shutdown Will Be Avoided | NBC News",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Restaurant Owners Pleading For Congress’s Help Following Omicron Surge",
             "secondDuration": 321,
             "group": "group_7"
+        },
+        {
+            "videoId": "HN82CGCKFjU",
+            "title": "Penn State Frat Members In Court To Face Charges Over Timothy Piazza’s Death | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

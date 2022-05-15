@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yhb_Jqz2lZA",
-            "title": "Record-breaking heat invades the Northeast",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "6pho5bNfVNc",
             "title": "Target Confirms Encrypted Personal Data Was Stolen",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Pregnant and in Peril",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "3Hl0eDMMMrg",
+            "title": "Delta’s Latest Safety Video",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

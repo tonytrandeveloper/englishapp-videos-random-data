@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fIqb5hoyfQ8",
-            "title": "Billionaire Eliminates Student Debt For Morehouse College Grads Of 2019 | NBC News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "9urIS4h1heo",
             "title": "Alexandria Ocasio-Cortez: 'We Have To Keep Organizing, We Can Not Stop' | NBC News",
             "secondDuration": 243,
@@ -31,8 +25,14 @@
             "title": "Fauci, Medical Experts Grilled On National Covid-19 Response As Stimulus Talks Stall | NBC News NOW",
             "secondDuration": 725,
             "group": "group_7"
+        },
+        {
+            "videoId": "d2-jnplGfzc",
+            "title": "Harris In Guatemala To Address Migrant Surge | NBC Nightly News",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

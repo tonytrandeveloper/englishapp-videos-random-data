@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uEayB51lbrM",
-            "title": "On the Hunt for Wild Burmese Pythons in Florida",
-            "secondDuration": 382,
-            "group": "group_7"
-        },
-        {
             "videoId": "MdYT-BohzyI",
             "title": "New Cuomo allegations",
             "secondDuration": 1022,
@@ -31,8 +25,14 @@
             "title": "Caravan carrying dozens of migrants seeking asylum from Central America",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sk-73Rv1Wko",
+            "title": "More than 300 killed after mosque terror attack in Egypt",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YoRLsO4941w",
-            "title": "De Blasio Announces Task Force To Crack Down On Illegal Firework Sellers | NBC News NOW",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "P5o7LOVBmwM",
             "title": "Record 3.2 Million Americans Seeking Unemployment Benefits | NBC Nightly News",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Ukrainian Forces Perform Controlled Explosion On Mines Left By Russian Troops",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "5ggU6eI1SNQ",
+            "title": "Ruben Decoen: \"For student success, it takes...\"",
+            "secondDuration": 6,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

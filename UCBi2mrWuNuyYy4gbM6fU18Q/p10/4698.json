@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KtqKTZsrZYU",
-            "title": "America Strong: The teacher who opened her home to a student",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "RjxoVVSTKUs",
             "title": "Oscars host Wanda Sykes speaks out on Will Smith l WNT",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "Student helps discover 65 million-year-old Triceratops skull",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "0b5TmvaO0Mw",
+            "title": "40 kids taken to hospitals after chemical leak at pool",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

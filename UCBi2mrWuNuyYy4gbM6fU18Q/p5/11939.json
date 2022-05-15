@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "37rlvPNliSY",
-            "title": "Car Slides Down Icy Driveway Into Backyard Swimming Pool",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "zQlPPEU39Jc",
             "title": "Takata Industries, Maker of Defective Airbags, Subject of Preliminary Criminal Investigation",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Republican Response to Obama's Speech",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "AYuNbd7hzgQ",
+            "title": "House Speaker John Boehner Uses Taylor Swift in Latest Political Message",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

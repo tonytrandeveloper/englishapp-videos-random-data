@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2uQnaeOtKdQ",
-            "title": "Samsung Recalls Nearly 1M Galaxy Note 7s",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "4WJD5kXB1_Y",
             "title": "Caught on Tape: 'Jetman' Rides Along B17 With Jet-Propelled Wing Suit",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Late-Night Hosts Recap the State of the Union Address",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "Pe9geSU68i0",
+            "title": "Team USA Olympians: Terror Won't Deter Us",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

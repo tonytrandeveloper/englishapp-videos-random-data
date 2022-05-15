@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4llvHzVgQuw",
-            "title": "CDC Investigators Unsure How MERS Is Spread",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "9W9J8g3sv94",
             "title": "Maintaining mental health amid a pandemic",
             "secondDuration": 451,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Police Helicopter Pulls Two People From River",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "0Vby6jtbAxE",
+            "title": "Trump's physician gives update from Walter Reed | ABC News",
+            "secondDuration": 1317,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

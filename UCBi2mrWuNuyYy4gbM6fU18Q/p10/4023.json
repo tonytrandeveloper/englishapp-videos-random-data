@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CSdKxDuFTS8",
-            "title": "Presidential Debate 2012: Mitt Romney, President Barack Obama Prepare - Behind the Scenes",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "DehiAw1cSz8",
             "title": "Mia Farrow's Son Thaddeus Found Dead in Car",
             "secondDuration": 40,
@@ -61,8 +55,14 @@
             "title": "Daniel Radcliffe Goes Dark in 'The Woman in Black'",
             "secondDuration": 456,
             "group": "group_7"
+        },
+        {
+            "videoId": "zeFnYT00ALM",
+            "title": "Police speak to Prince Philip 2 days after his traffic accident",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

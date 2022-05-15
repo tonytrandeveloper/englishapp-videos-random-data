@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6fpbNlxJ5bs",
-            "title": "Super Bowl 51: Patriots, Falcons Step Into the Spotlight | ABC News",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "cYEKcHhZf_k",
             "title": "Rep. John Lewis calls Trump 'a racist' for his 's---hole countries' comment",
             "secondDuration": 256,
@@ -31,8 +25,14 @@
             "title": "Steubenville Rape Trial: High School Football Players Guilty",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "0SvpCwrsdIo",
+            "title": "France Hostage Standoff Video: 3 Suspects Dead in Dual Hostage Standoffs in Paris",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

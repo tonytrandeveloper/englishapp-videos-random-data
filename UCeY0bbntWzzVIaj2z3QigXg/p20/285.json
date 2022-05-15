@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qxL8oMIOQhw",
-            "title": "Senate Votes To Confirm Amy Coney Barrett To Supreme Court | NBC News NOW",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "YLQXnIxOe6I",
             "title": "‘Lava Bomb’ Showers Hawaii Tour Boat With Molten Rock, Injuring More Than 20 | NBC News",
             "secondDuration": 88,
@@ -121,8 +115,14 @@
             "title": "Wind Down With These Three Meditation Apps | Better | NBC News",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "M-divkoZBRs",
+            "title": "Satellite Photos Show Work On North Korean Site Linked To Long-Range Missiles | NBC Nightly News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

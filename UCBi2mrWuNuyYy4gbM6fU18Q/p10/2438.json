@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g_5blBm_Y1s",
-            "title": "Inside President Obama's Secret White House Party",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "IKBnQlba0WM",
             "title": "Nick Cannon Kidney Failure: Mariah Carey Tweets That Condition 'Is Not Easy'",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "American Idol Series Finale Surprises | ABC News",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "c-SIIll_9m4",
+            "title": "MIX: Dancing In Protest",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

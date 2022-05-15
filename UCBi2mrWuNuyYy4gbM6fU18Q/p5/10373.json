@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sCoMsiVrVUs",
-            "title": "Roundtable I: Karl Rove and Jim Messina",
-            "secondDuration": 1680,
-            "group": "group_7"
-        },
-        {
             "videoId": "KtwUTDTcOdg",
             "title": "Landmark Toyota Case Could Set Tone for Wrongful Death Suits",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Assault Rocks California Community",
             "secondDuration": 316,
             "group": "group_7"
+        },
+        {
+            "videoId": "dkeRT4GD4hs",
+            "title": "State Dept. Responds to Allegations That Israel Spied on US to Undermine Iran Deal",
+            "secondDuration": 605,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

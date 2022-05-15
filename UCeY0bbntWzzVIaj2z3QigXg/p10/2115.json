@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3WHtS2hZnRU",
-            "title": "ISIS Arrests Made In Brooklyn, New York | NBC Nightly News",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "DoMEcEvwQZs",
             "title": "Novak Djokovic Visa Rejected In Australia Amid Vaccine Exemption Dispute",
             "secondDuration": 204,
@@ -61,8 +55,14 @@
             "title": "Winter Storms Slam The East Affecting American’s Commute",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "CuKfp50k0U0",
+            "title": "Watch Live: Day 3 of CPAC 2019 | NBC News",
+            "secondDuration": 32963,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

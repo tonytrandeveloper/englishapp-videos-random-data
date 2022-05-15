@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9Y0oNDtkBJo",
-            "title": "Clinton, Trump Will Support Election Outcome",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "xN_-Xy91bMw",
             "title": "Trump announces Sudan and Israel have agreed to normalize relations",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Daredevils Surf On Zipline",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "2DAiPFmWU4w",
+            "title": "Standoff Ends in Oklahoma",
+            "secondDuration": 28,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

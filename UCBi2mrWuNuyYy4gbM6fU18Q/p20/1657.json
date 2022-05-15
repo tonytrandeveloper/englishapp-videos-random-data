@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DSIqbUeSn-8",
-            "title": "Counselor Thwarts Plan for Massive Shooting at a School in Tennessee",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lk9mWTqXlV0",
             "title": "Robert Durst Murder Charges: New Details Emerge",
             "secondDuration": 278,
@@ -121,8 +115,14 @@
             "title": "Millions of people in Florida plan to ride out the storm at home",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "v4bJgwCfNPI",
+            "title": "Amplified: David Bazan",
+            "secondDuration": 435,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

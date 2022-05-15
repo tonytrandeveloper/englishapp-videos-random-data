@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zwDcR3dGgOY",
-            "title": "White House Holds Press Briefing: October 18 | NBC News",
-            "secondDuration": 2204,
-            "group": "group_7"
-        },
-        {
             "videoId": "E4rAbBaYdsc",
             "title": "Man Risks His Life To Save Yazidi Women From ISIS | NBC Nightly News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Kurds Fighting ISIS Joined By American Veterans | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "4zk_6doQ480",
+            "title": "Live: President Donald Trump Signs Coronavirus Relief Bill | NBC News",
+            "secondDuration": 1382,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

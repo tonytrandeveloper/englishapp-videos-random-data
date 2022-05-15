@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5C2HkGxdMg8",
-            "title": "The emotional moment James Comey shared with President Obama after the 2016 election",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "rMmiLWDpCno",
             "title": "Donald Trump Says He Could 'Shoot Somebody' Without Losing Votes",
             "secondDuration": 67,
@@ -61,8 +55,14 @@
             "title": "The Rundown: Top headlines today: Feb. 11, 2022",
             "secondDuration": 269,
             "group": "group_7"
+        },
+        {
+            "videoId": "X7M1q7SetU4",
+            "title": "Colorado Shooting Victims",
+            "secondDuration": 606,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

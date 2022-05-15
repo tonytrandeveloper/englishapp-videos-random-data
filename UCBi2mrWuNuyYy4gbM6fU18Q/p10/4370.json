@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mGEsffSbi5s",
-            "title": "Georgia election day",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "3rTPnctrJCM",
             "title": "Woman Wakes From Surgery With British Accent",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "Home Intruder Ties Up Housekeeper, Ransacks Home [CAUGHT ON TAPE]",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "IS3QObX85xY",
+            "title": "Pennsylvania county paying employees to get vaccine",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "a_S-DyiwD0E",
-            "title": "Boy Thrown From Water Slide At California Water Park | NBC Nightly News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "H7mb3714xGI",
             "title": "Legal Experts Debate Presidential Powers And Russia Probe | Meet The Press | NBC News",
             "secondDuration": 549,
@@ -61,8 +55,14 @@
             "title": "Mike Bloomberg Calls Bernie Sanders 'Dead Wrong' For Boycotting AIPAC | NBC News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "WG6cX9FkU1Y",
+            "title": "Kellyanne Conway: 'Nobody Likes' Immigration Policy Separating Families | Meet The Press | NBC News",
+            "secondDuration": 711,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

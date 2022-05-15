@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YRKAR836VgE",
-            "title": "Rapper's Lyrics Tell Story Of Syria | NBC News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wjr15BpcxIc",
             "title": "President Trump Participates In Swearing-In Ceremony Of Secretary Of State Mike Pompeo | NBC News",
             "secondDuration": 2997,
@@ -61,8 +55,14 @@
             "title": "Weight Watchers Relaxes Its Guidelines For 200 New 'Freebie Foods' | NBC Nightly News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "AG5SueiQ0eM",
+            "title": "Pope Francis Makes Surprise Appearance At TED Talk | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

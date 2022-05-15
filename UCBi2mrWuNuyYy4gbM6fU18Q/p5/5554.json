@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eyMxUD22m8M",
-            "title": "Pope Francis Prays for Peace on Easter Sunday",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "imkSzhV2tWk",
             "title": "Donald Trump Alleges GOP Corruption",
             "secondDuration": 216,
@@ -31,8 +25,14 @@
             "title": "How did we get here? Americans' response to coronavirus in March",
             "secondDuration": 294,
             "group": "group_7"
+        },
+        {
+            "videoId": "ETzwljdLAXg",
+            "title": "Obama on Trump Relationship",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

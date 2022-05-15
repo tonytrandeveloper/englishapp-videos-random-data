@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eP7X6jeGCmM",
-            "title": "SPECIAL REPORT: Pittsburgh synagogue shooting update",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "mIs1WXz4ZT4",
             "title": "Failure to raise the debt ceiling would be a ‘catastrophe’: Yellen",
             "secondDuration": 726,
@@ -61,8 +55,14 @@
             "title": "Bin Laden, Bulger Gone, Who's Next?",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "_SzqESgCTHY",
+            "title": "Trump continues to criticize mail-in voting",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

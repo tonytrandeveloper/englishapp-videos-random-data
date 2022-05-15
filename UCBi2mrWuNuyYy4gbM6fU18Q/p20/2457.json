@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EnuKB1J-0KM",
-            "title": "Stormy Daniels ready to reveal details of alleged affair",
-            "secondDuration": 361,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ho4SHuKy_Fg",
             "title": "ABC News Prime: MI shooter's parents charged; Baldwin exclusive fallout; Islamophobia on the Hill",
             "secondDuration": 3595,
@@ -121,8 +115,14 @@
             "title": "Thanksgiving Games",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "egqgi16coPI",
+            "title": "Snowstorm Moves Through Midwest",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zTV7DJHe-dY",
-            "title": "Lax Security at Federal Buildings",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "qZeMHPFVi4s",
             "title": "South Carolina Sheriff Fired After Classroom Arrest",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "ABC News Prime: Ukraine diplomatic challenges; Hunter Biden investigation; Bruce Willis' diagnosis",
             "secondDuration": 5414,
             "group": "group_7"
+        },
+        {
+            "videoId": "UjL64aLK-KY",
+            "title": "Woman Killed by NYPD Wrote About Police Problems",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

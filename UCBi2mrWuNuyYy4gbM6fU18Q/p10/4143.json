@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HMlEpiTP0jU",
-            "title": "Second Presidential Debate 2012: Mitt Romney on Tax-Plan Numbers: 'They Add Up'",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "EiYmN9vk7ew",
             "title": "FBI Investigating Militia Standoff in Oregon",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "Storm packs dangerous mudslides, torrential rain l ABC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "p2qvnbHy_mI",
+            "title": "New report reveals Mueller's investigation may have a new focus",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

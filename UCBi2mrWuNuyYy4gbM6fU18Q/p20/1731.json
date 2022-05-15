@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EBagjTPOx-o",
-            "title": "Boy Snatched By Gator Shown Just Before Attack",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "CE3eeCrVMr4",
             "title": "Trump says Kim Jong Un's country loves him",
             "secondDuration": 105,
@@ -121,8 +115,14 @@
             "title": "Road Rage Causes Driver to Call 911",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "g_auEFjvhGA",
+            "title": "Biden praises unions, calls on Congress to pass infrastructure packages",
+            "secondDuration": 338,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

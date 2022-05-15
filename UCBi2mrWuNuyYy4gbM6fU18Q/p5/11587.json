@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vqhBSjzru5U",
-            "title": "Space X Launch: Falcon 9 rocket takes off",
-            "secondDuration": 3214,
-            "group": "group_7"
-        },
-        {
             "videoId": "AHWPLT_z4iY",
             "title": "Amy Schumer Cracks Joke About Her Rise to Fame",
             "secondDuration": 234,
@@ -31,8 +25,14 @@
             "title": "Zoo animals go wild with pumpkins for Halloween",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "OAc9MxMInek",
+            "title": "At least 88 people lost their lives across 5 states due to tornado outbreak",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

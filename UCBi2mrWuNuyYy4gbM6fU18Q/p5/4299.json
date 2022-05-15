@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vFjnQrqZcPo",
-            "title": "7.1 magnitude earthquake strikes Southern California | ABC News",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "_MEa6OUS8Xw",
             "title": "Biden projected to win Illinois Democratic primary",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "China trade war escalates, death at Kennedy compound, bear scare caught on camera | ABC News",
             "secondDuration": 1330,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZwTQhpf5Kqc",
+            "title": "4 days until Election Day",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

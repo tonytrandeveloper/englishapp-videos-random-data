@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SmSZLbBcRcY",
-            "title": "Cat Watching World Series Tries to Catch Ball on TV",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "CvXgAIQTRu0",
             "title": "Sherri Shepherd shares video message in response to Elijah McClain's death",
             "secondDuration": 347,
@@ -31,8 +25,14 @@
             "title": "Death at Discovery",
             "secondDuration": 362,
             "group": "group_7"
+        },
+        {
+            "videoId": "odeQa3hRvRk",
+            "title": "GM Puts Vehicles Though Extreme Tests",
+            "secondDuration": 290,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "94p2hu4ydoI",
-            "title": "East Coast Earthquake 2011 from Virginia to New York; Did Animals Sense it First?",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "C1wHFiXEdAo",
             "title": "Music Fans Cry Out Against Billboard Award Winner Iggy Azalea",
             "secondDuration": 226,
@@ -31,8 +25,14 @@
             "title": "Reince Priebus: 'RNC Was Not Hacked'",
             "secondDuration": 746,
             "group": "group_7"
+        },
+        {
+            "videoId": "gCXsmFlYjzw",
+            "title": "Kevin McCarthy delivers remarks on Capitol breach",
+            "secondDuration": 501,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

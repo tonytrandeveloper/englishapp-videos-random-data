@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EXBuqaEgoPY",
-            "title": "Oops! Mariah Carey's On-Air Trip",
-            "secondDuration": 26,
-            "group": "group_7"
-        },
-        {
             "videoId": "rg4bYdJtkJM",
             "title": "Video Shows Tornado Winds Whipping With Debris in the Air and Flash Floods Swallowing Cars",
             "secondDuration": 156,
@@ -121,8 +115,14 @@
             "title": "Trump Interviews Potential Cabinet Members",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "Afv9e2EdJxk",
+            "title": "Trump Calls Cruz-Kasich Alliance 'Pathetic' and 'Weak'",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

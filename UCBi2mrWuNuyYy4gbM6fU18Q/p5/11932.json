@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y6sspyltJUU",
-            "title": "New York Times buys viral word game Wordle",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "ULCf0MxqdXo",
             "title": "Students lend helping hand to beloved bus driver",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Trump Picks Iowa Governor as China Envoy",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "nRqipNhzt1c",
+            "title": "Woman gives birth while intubated for COVID-19 | WNT",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

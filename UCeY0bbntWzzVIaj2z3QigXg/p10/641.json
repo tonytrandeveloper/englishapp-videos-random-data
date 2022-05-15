@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8G0aWseOaXo",
-            "title": "Deadly Firefight At Kabul Airport Amid Evacuations",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "24t1U2RtY7c",
             "title": "Lawmakers Negotiating Pandemic Relief Bill As $600 Unemployment Benefit Set To Expire | Nightly News",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "Prosecutors Investigating After Off-Duty Officer Fatally Shot Visiting Officers | NBC Nightly News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "NJCc7nuDqKw",
+            "title": "Warning Over Button Battery Danger For Kids",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZRe4h8Ouae4",
-            "title": "Family sues dental chain in 4-year-old girl's death",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "rAZ7_6whl1w",
             "title": "Anthony Weiner's Campaign Manager Resigns Amid Sexting Scandal - 'This Week'",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "Residents trying to recover after 2 earthquakes strike California",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "WcLRx55DAj8",
+            "title": "Kansas declares tornado emergency",
+            "secondDuration": 337,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

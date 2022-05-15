@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4FBuQU_mRzo",
-            "title": "Number Of COVID-19 Cases Likely Much Higher Than Tests Reveal | Meet The Press | NBC News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "U9Cv_PvfhhE",
             "title": "President Donald Trump: What's Happening To Brett Kavanaugh Is 'Totally Political' | NBC News",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "On Board An American Missile Destroyer As It Pursues Russian Submarines | NBC Nightly News",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "DCM-NAm9i5I",
+            "title": "CDC Yet To Find Source Of Romaine Contamination | NBC Nightly News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

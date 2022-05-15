@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "K43WveeSexg",
-            "title": "Trump Delivers Remarks On Operation Warp Speed | NBC News",
-            "secondDuration": 1981,
-            "group": "group_7"
-        },
-        {
             "videoId": "fkz3Z1xYJgg",
             "title": "Bill Cosby Sentencing Trial Begins | NBC Nightly News",
             "secondDuration": 90,
@@ -301,8 +295,14 @@
             "title": "Hillary Clinton Super Volunteer Celebrates Historical Nomination At DNC | 360 Video | NBC News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "ht4-uB35Yqo",
+            "title": "President Donald Trump Suggests U.S. Border Security Be Like North, South Korea’s | NBC News",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

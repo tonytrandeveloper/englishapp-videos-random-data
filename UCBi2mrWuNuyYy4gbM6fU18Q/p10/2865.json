@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aDrDYLM903g",
-            "title": "Instant Index: Burt Reynolds Sent to Hospital With Flu",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "K3Ni5TDhtiw",
             "title": "Secret Service: 2 Agents Involved in Alleged Drunk Driving Incident",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "Watch: NASA's \"Perseverance\" Rover lands on Mars | ABC News Live",
             "secondDuration": 3495,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ABkMc-DyiE",
+            "title": "Musician serenades mothers in downtown Sao Paulo for Mother's Day from truck on highway | ABC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

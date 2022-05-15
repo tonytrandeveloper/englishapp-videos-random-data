@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qlU2FwrSyuM",
-            "title": "Jerry Sandusky Sentenced to Jail; Victims Speak Out",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "qUOwiwm4qOM",
             "title": "Gun Used to Kill Trayvon Martin To Be Auctioned Off",
             "secondDuration": 34,
@@ -61,8 +55,14 @@
             "title": "Chicago Cop Who Allegedly Shot Teen Charged With Murder",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "fOC-Ml8yNAs",
+            "title": "A Black Capitol Police officer’s story of the Jan. 6 riot",
+            "secondDuration": 576,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UHLKkgWZza0",
-            "title": "U.S. Added 194,000 Jobs In September, Unemployment Rate Down",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "cbjOycZfKxE",
             "title": "White House Press Briefing - January 2, 2018 (Full) | NBC News",
             "secondDuration": 3875,
@@ -61,8 +55,14 @@
             "title": "Father And Son Help Solve 52-Year-Old Bank Robbery",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "UbB3s-zFzPY",
+            "title": "Millions on Alert as Storm Gains Steam in The Tropics | NBC Nightly News",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

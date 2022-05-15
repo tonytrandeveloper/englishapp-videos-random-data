@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "y6Euf8H-Ad8",
-            "title": "'This Week' Sunday Spotlight: Piper Kerman on Netflix Original Series 'Orange is the New Black'",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "vXDhUI4M1_o",
             "title": "Michael Jackson Wrongful Death Trial: Lawyer Says AEG Did Not Want Jackson to Hire Conrad Murray",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "SpaceX Mars Mission Simulation",
             "secondDuration": 266,
             "group": "group_7"
+        },
+        {
+            "videoId": "R6JNl3ljMy4",
+            "title": "Top Line: What's Motivating Independents This Year?",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

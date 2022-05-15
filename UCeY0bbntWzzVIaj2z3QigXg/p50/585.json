@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "S_cFVEpA_dg",
-            "title": "Michigan Infections Spike, Unfilled Vaccine Appointments Rise | Meet The Press | NBC News",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "OaJxaG94mG8",
             "title": "Easter Island Calls For Return Of Sacred Artifact From British Museum | NBC Nightly News",
             "secondDuration": 126,
@@ -301,8 +295,14 @@
             "title": "Trump To Focus On ‘Great American Comeback’ In State Of The Union Address | NBC Nightly News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "iKqrKej_Pb8",
+            "title": "President Donald Trump Narrows Down SCOTUS List To Seven Contenders | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

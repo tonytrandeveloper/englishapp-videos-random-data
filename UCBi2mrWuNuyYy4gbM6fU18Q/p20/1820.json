@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6LCY_qyiPMU",
-            "title": "For Julia Roberts, Family Comes First",
-            "secondDuration": 288,
-            "group": "group_7"
-        },
-        {
             "videoId": "wKyC2ejA18I",
             "title": "James Gandolfini, Known for Playing Tony Soprano, Dead at 51",
             "secondDuration": 381,
@@ -121,8 +115,14 @@
             "title": "Coronavirus, Paris protests, the Australian Open: World in Photos, Jan. 28",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "N-7cDxAkyW4",
+            "title": "Prisons Chief Tom Clements Gunned Down: White Supremacist Gang Could Have Ordered Hit",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

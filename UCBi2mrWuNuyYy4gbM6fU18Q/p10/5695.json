@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9xF_0YRoofY",
-            "title": "Full House Home For Sale",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "euz41kMDSE4",
             "title": "GOP Presidential Hopefuls Rally in New Hampshire",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Allyson Felix Discusses Taking Gold in Women's 200-Meter Sprint at 2012 London Olympics",
             "secondDuration": 270,
             "group": "group_7"
+        },
+        {
+            "videoId": "6XvGaXGOWz8",
+            "title": "Best Moments of the First Presidential Debate",
+            "secondDuration": 387,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

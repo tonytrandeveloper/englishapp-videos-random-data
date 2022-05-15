@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HP1wH9rpNHQ",
-            "title": "Black Americans Explore African Roots In Ghana | NBC Nightly News",
-            "secondDuration": 865,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q7_nmK1EqJQ",
             "title": "Boston Police Department’s Secret Weapon: Ice Cream | NBC News",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Optimistic On Expanding Background Checks | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "eBja21zJm-o",
+            "title": "U.S. Charges Four Chinese Military Hackers With Massive Equifax Breach | NBC Nightly News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

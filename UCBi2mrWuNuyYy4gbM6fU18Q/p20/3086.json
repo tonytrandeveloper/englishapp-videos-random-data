@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "10HNtL0rhRE",
-            "title": "‘We need to have race-conscious laws’: Warren | ABC News",
-            "secondDuration": 650,
-            "group": "group_7"
-        },
-        {
             "videoId": "5NTLVQYSlCs",
             "title": "Caught on Camera: Actors, Politicians Fall Asleep on the Job",
             "secondDuration": 383,
@@ -121,8 +115,14 @@
             "title": "‘They got it very wrong’: Trump criticizes World Health Organization",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "nhZyIXaY8EE",
+            "title": "Powerful Quake Rocks Indonesia, Killing Dozens and Flattening Buildings",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "80wW9b4poRU",
-            "title": "Nastiness Rises in Latest GOP Debate",
-            "secondDuration": 358,
-            "group": "group_7"
-        },
-        {
             "videoId": "DNUO6RNk7Mk",
             "title": "Collaborating on 'Holy Rollers'",
             "secondDuration": 397,
@@ -31,8 +25,14 @@
             "title": "Best Deals for Your Last-Minute Holiday Shopping",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "I9100--nCTw",
+            "title": "CDC: Worst of Swine Flu May Be Over",
+            "secondDuration": 281,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

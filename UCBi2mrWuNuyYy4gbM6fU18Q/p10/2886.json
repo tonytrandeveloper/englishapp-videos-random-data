@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pKRuJ_52N-g",
-            "title": "Mark Cuban | Worst Advice | Real Biz with Rebecca Jarvis",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "InfPbxxhWHE",
             "title": "By the Numbers: 90% of Americans don't eat enough vegetables",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "New DNC chair: 'Our Democratic unity is Donald Trump's worst nightmare'",
             "secondDuration": 326,
             "group": "group_7"
+        },
+        {
+            "videoId": "n5-QqxdSt_o",
+            "title": "Index: Highway Overpass Collapse Under Investigation",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

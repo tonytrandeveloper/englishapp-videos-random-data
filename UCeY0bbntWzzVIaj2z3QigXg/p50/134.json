@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "eAMveJvAC90",
-            "title": "New York City Bicyclist Attacks Uber Driver, Jumps On Top Of Car | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "-EXVsS0LxfQ",
             "title": "NBC Nightly News Broadcast (Full) - July 6th, 2021",
             "secondDuration": 1158,
@@ -301,8 +295,14 @@
             "title": "Into the Survival of Main Street | Into America Podcast – Ep. 11 | NBC News and MSNBC",
             "secondDuration": 1746,
             "group": "group_7"
+        },
+        {
+            "videoId": "TdbG3b0SOQI",
+            "title": "Full Panel: Shutdown politics could last 'months or even years' | Meet The Press | NBC News",
+            "secondDuration": 483,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

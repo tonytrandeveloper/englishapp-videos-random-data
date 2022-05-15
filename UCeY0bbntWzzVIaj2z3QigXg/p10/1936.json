@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dhb50q8wp88",
-            "title": "101-Year-Old D-Day Veteran Breaks Tandem Skydive Record | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "BeCVSKcA8A0",
             "title": "Rare Bipartisan Agreement On Ending Separating Families At The Border | NBC News",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "Autonomous Grocery Delivery Is Almost Here | Mach | NBC News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "GgSmNDXQd2E",
+            "title": "Lester Holt Goes Inside The NYPD's New Anti-Terror Unit | NBC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

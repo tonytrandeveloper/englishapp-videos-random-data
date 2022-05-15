@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Qv91MbE5aeM",
-            "title": "Donald Trump, Japanese Leader Denounce North Korea Missile Test",
-            "secondDuration": 365,
-            "group": "group_7"
-        },
-        {
             "videoId": "XuUHgAqnHTg",
             "title": "'This Week': Roundtable on Malaysia",
             "secondDuration": 178,
@@ -61,8 +55,14 @@
             "title": "Drone footage gives inside look at lives of killer whales l ABC News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "8jaxnd83fy8",
+            "title": "\"Bad Lip Reading\" Releases New Video",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

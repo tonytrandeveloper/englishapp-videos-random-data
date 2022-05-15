@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "R7Eel0B9uE8",
-            "title": "California Tour Bus Crash Kills More Than A Dozen | NBC Nightly News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "N0NwWWF0KJ0",
             "title": "U.K. Vaccine Rollout: P.M. Boris Johnson Warns Against ‘Over-Optimism’ | NBC News NOW",
             "secondDuration": 112,
@@ -301,8 +295,14 @@
             "title": "The Rush Is On For last Minute Holiday Shoppers | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "SNKePtSI7F4",
+            "title": "Trump Judicial Nominee Matthew Peteresen Struggles To Answer Senator’s Legal Questions | NBC News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

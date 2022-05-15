@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WMgiuQGf1Zg",
-            "title": "Cyber Bullying | New App Stops Mean Messages",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "b6L61RCoiiA",
             "title": "What will be the new royal baby's name?",
             "secondDuration": 75,
@@ -61,8 +55,14 @@
             "title": "Doctor in Pfizer trial talks distribution of COVID vaccine",
             "secondDuration": 257,
             "group": "group_7"
+        },
+        {
+            "videoId": "yHsLIbVzyGA",
+            "title": "Former first lady Barbara Bush suffering from congestive heart failure",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

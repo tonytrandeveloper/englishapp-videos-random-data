@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3Km1GHvnM2E",
-            "title": "Tensions rise in Hong Kong over fears of coronavirus outbreak",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "8cXt3beSiTM",
             "title": "The Debrief: Trump's tweet fallout, Jeffrey Epstein latest, Puerto Rico protest governor | ABC News",
             "secondDuration": 1624,
@@ -121,8 +115,14 @@
             "title": "140522 WNN TEASE",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "S2b1ckTCCJY",
+            "title": "Instant Index: John Oliver Fills in as Temporary 'Daily Show' Host",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

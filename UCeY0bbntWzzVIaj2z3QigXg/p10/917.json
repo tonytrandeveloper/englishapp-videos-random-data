@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5idsjtnfLVU",
-            "title": "White House Holds Press Briefing - Feb. 25 | NBC News",
-            "secondDuration": 2996,
-            "group": "group_7"
-        },
-        {
             "videoId": "VAx_6UkO2k4",
             "title": "NBC News NOW Full Broadcast - May 18th, 2021",
             "secondDuration": 2734,
@@ -61,8 +55,14 @@
             "title": "Woman Survives Week On Remote Beach After Plunge Off California Cliff | NBC Nightly News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "FQICADYSiv0",
+            "title": "Donald Trump Will Accept The Election Results If He Wins | NBC News",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

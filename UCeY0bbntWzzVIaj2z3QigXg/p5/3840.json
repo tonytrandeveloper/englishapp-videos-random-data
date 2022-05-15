@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hBmxSweQqrs",
-            "title": "Jon Ossoff Delivers Remarks On Election Results | NBC News",
-            "secondDuration": 305,
-            "group": "group_7"
-        },
-        {
             "videoId": "cJZUK2R7IeA",
             "title": "Biden Expected to Announce Vaccine Mandate, Testing Protocols For Federal Workers",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "McConnell: WH Not 'Approaching The Protection From This Illness' The Same As Senate | NBC News NOW",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "gVaJj5KW6Cc",
+            "title": "Cleveland Browns End Grueling 635-Day Losing Streak | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

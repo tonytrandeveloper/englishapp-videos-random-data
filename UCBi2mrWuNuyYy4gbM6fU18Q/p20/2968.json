@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IXsE2U7xyO8",
-            "title": "Documents show Scott Pruitt spent $832,000 of taxpayer funds on security",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "_cPfYGpEt9Y",
             "title": "Democratic debate heats up, Trump meets Putin, Women’s World Cup preview",
             "secondDuration": 1655,
@@ -121,8 +115,14 @@
             "title": "What Ants Are Saying",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "mVr-8YJ5s-I",
+            "title": "WEBCAST: Hollywood Reacts To Sony Hacking Scandal",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

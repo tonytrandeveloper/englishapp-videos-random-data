@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EeIGp3e8nNk",
-            "title": "Comedian Sarah Cooper Mocks Trump's Attacks On Mail-In Voting At 2020 DNC | NBC News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "l9FSwFlqB8c",
             "title": "Chicago Sees Covid Testing Rush Ahead Of Holidays | NBC News NOW",
             "secondDuration": 694,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Announces Intention To Scrap Nuclear Weapon Agreement With Russia | NBC Nightly News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "NRaZ3Y57UXA",
+            "title": "Trump Announces Initiative To 'Replenish And Modernize' National Stockpile | NBC News NOW",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

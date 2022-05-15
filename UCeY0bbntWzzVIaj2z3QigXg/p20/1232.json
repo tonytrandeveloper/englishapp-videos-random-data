@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mIFDzswcrMI",
-            "title": "NBC WSJ Poll: Democratic Favorability Highest Since 2008 | Meet The Press | NBC News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "oxOFl4k4r5c",
             "title": "Thousands In Mexico City Protest Gender-Based Violence For International Women’s Day | NBC News",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "Live: Illinois Gov. Pritzker Holds Coronavirus Briefing | NBC News",
             "secondDuration": 1830,
             "group": "group_7"
+        },
+        {
+            "videoId": "tXuFCYFrdDw",
+            "title": "Super! Nintendo Games Coming To iOS In Time For Christmas | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

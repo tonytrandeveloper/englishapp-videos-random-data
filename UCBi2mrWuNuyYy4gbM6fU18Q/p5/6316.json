@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ehbM7BgZgLo",
-            "title": "US Warships on the Move to Iraq",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "2RiI6AiW96Q",
             "title": "Parkland shooting anniversary marked with moment of silence, memorial | WPLG coverage",
             "secondDuration": 1944,
@@ -31,8 +25,14 @@
             "title": "Early voters sound off about long lines",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "C0jcPXxFZUM",
+            "title": "5-Hour Energy Empire Under Scrutiny",
+            "secondDuration": 280,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

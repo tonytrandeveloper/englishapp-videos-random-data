@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "39ANV78erOc",
-            "title": "Emergency room doctor on reopening and the new CDC guidelines for vaccinated people",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "L4-JzgNZav8",
             "title": "The Conversation: Nick Bilton Explains the Future",
             "secondDuration": 280,
@@ -31,8 +25,14 @@
             "title": "George Zimmerman Verdict:  Viewers Tweet Reactions to Trayvon Martin Case on Twitter",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "rpy2NLwvs7Q",
+            "title": "Cardinal Edward Egan Discusses New Pope Jorge Mario Bergoglio",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7fBpgLJ8-zA",
-            "title": "The youngest and oldest astronauts yet to join billionaire Jeff Bezos in space",
-            "secondDuration": 390,
-            "group": "group_7"
-        },
-        {
             "videoId": "emDCiXuJ_yw",
             "title": "Husband of woman killed on Southwest flight speaks out",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "Amplified: Low Anthem",
             "secondDuration": 360,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vutxb1o4kC0",
+            "title": "The Conversation: Twitter's BP Satirist Revealed",
+            "secondDuration": 283,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

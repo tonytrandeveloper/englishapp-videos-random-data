@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6ks9ZU61Fpo",
-            "title": "Suspect Arrested in Erin Andrews Case",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "wsFlp36Z1To",
             "title": "Fed considers 3 interest rate hikes in 2022 l ABC News",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "Oil refinery explosions in Philadelphia",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "cKpPMDgFhfU",
+            "title": "Amanpour Discusses Up Coming Show on 'Top Line'",
+            "secondDuration": 378,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

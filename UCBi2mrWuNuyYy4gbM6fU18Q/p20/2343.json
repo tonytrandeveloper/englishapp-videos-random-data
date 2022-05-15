@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "l2hinCihnhI",
-            "title": "Webcast: George Huguely Sentenced to Prison",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "OQ8yRu7ucbk",
             "title": "Dangerous encounter with a shark in Florida",
             "secondDuration": 102,
@@ -121,8 +115,14 @@
             "title": "Ahmaud Arbery murder trial ends in guilty verdicts",
             "secondDuration": 911,
             "group": "group_7"
+        },
+        {
+            "videoId": "yMcqKRnhCIs",
+            "title": "Real-Life 7 Dwarfs Interviewed by Barbara Walters: Inspiring Family Tackles Life's Challenges",
+            "secondDuration": 274,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

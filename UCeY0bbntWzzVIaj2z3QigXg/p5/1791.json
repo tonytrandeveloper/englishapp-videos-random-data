@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fO9EWw-RcJk",
-            "title": "Nightly News Full Broadcast - October 26th",
-            "secondDuration": 1143,
-            "group": "group_7"
-        },
-        {
             "videoId": "QMa-L7d6Oq4",
             "title": "Full Perdue: 'There’s no rush here' on Kavanaugh hearings | Meet The Press | NBC News",
             "secondDuration": 457,
@@ -31,8 +25,14 @@
             "title": "Cancer Patients Forced To Delay Treatment Over Coronavirus Concerns | NBC Nightly News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "PS7fK5Cfq0c",
+            "title": "Trump Announces Emergency Use Authorization For Potential Coronavirus Treatment | NBC Nightly News",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

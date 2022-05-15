@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Dkcmfh2dIr0",
-            "title": "CDC investigating heart issues among some teens after COVID-19 vaccine l GMA",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "K1JL5AEI_0I",
             "title": "'SNL'  and Amy Schumer Take on Gun Control",
             "secondDuration": 89,
@@ -121,8 +115,14 @@
             "title": "Battle for the Senate",
             "secondDuration": 311,
             "group": "group_7"
+        },
+        {
+            "videoId": "40J8_C7AUvc",
+            "title": "Phone Scam Caught on Tape",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

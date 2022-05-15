@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "j7l9kFbw_zY",
-            "title": "Florida Sheriff David Shoar: Flooding Is 'Worst-Case Scenario' | NBC News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "8lLKc6rHKpM",
             "title": "California Wildfire Traps Hundreds In National Forest | NBC Nightly News",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Record Amount Spent On Texas Football Stadium | NBC Nightly News",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "zbnQKAKqjsE",
+            "title": "Highway Humor Is Officials’ New Trick To Encourage Safer Driving | NBC Nightly News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

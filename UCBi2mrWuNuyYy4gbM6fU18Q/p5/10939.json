@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fdXlE2oldE8",
-            "title": "ABC News Prime: Booster shot for most; Pentagon's drone strike admission; R Kelly's assistant speaks",
-            "secondDuration": 5216,
-            "group": "group_7"
-        },
-        {
             "videoId": "7ZBDhyxPe9E",
             "title": "Latin America’s epicenter for the outbreak in Brazil",
             "secondDuration": 342,
@@ -31,8 +25,14 @@
             "title": "'How I Met Your Mother' Finale",
             "secondDuration": 280,
             "group": "group_7"
+        },
+        {
+            "videoId": "MYdP9Ho1lK8",
+            "title": "Signs of Strength: ABC's James Longman's feel-good news stories",
+            "secondDuration": 304,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xUyYtcv8zhQ",
-            "title": "Astronaut Sally Ride's Secret Journey",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "CFFedTPdXTw",
             "title": "Ousted Papa John's CEO speaks for 1st time since stepping down",
             "secondDuration": 162,
@@ -61,8 +55,14 @@
             "title": "R. Kelly breaks his silence after sexual abuse charges",
             "secondDuration": 436,
             "group": "group_7"
+        },
+        {
+            "videoId": "XMFo-ICqv2E",
+            "title": "Massive crowds march against Trump administration's immigration policy",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

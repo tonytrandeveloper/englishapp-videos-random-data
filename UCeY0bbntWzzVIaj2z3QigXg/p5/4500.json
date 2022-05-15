@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IZCWIUpNIUg",
-            "title": "New Diet Says Limit Hours Spent Eating Instead Of Calories | NBC Nightly News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "2V5rGA3TbeQ",
             "title": "First Doses of Moderna Vaccine Preparing For Shipment From Mississippi Warehouse | NBC News",
             "secondDuration": 73,
@@ -31,8 +25,14 @@
             "title": "NASA Tracks Asteroids' Close Brush With Earth | Archives | NBC News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "XxvCMx2W6P0",
+            "title": "Researchers Explore Solutions For Covid Long Haulers",
+            "secondDuration": 390,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Fo9AlK9sv6w",
-            "title": "Senate debates DACA, immigration: Your questions answered | ABC News",
-            "secondDuration": 7355,
-            "group": "group_7"
-        },
-        {
             "videoId": "MUMJMn2qSWI",
             "title": "Donald Trump Meets With Japanese Prime Minister",
             "secondDuration": 213,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump delivers remarks on tax reform| ABC News",
             "secondDuration": 1975,
             "group": "group_7"
+        },
+        {
+            "videoId": "1aaNhhR29wQ",
+            "title": "'10% Happier with Dan Harris' and Sharon Salzberg",
+            "secondDuration": 3474,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ubEQCe5YOCQ",
-            "title": "Matt Gaetz rejects calls to resign",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "2irlfi0GB3c",
             "title": "Amazon deforestation, Hong Kong protests, zoo weigh-in: World in Photos, Aug. 22",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "Diana's ex-bodyguard on the princess's willingness to break from royal tradition",
             "secondDuration": 385,
             "group": "group_7"
+        },
+        {
+            "videoId": "4ay2hmb47kM",
+            "title": "Uncertain Fate for Pet Moose",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

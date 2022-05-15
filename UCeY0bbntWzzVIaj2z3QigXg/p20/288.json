@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xmSWoel2oUc",
-            "title": "President Vladimir Putin Tells Mike Pompeo He’s Keen To Improve U.S.-Russian Relations | NBC News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "OD75mF5cMlc",
             "title": "Ohio Protesters Smash Windows At Statehouse, Get Pepper Sprayed by Police | NBC News NOW",
             "secondDuration": 82,
@@ -121,8 +115,14 @@
             "title": "Facts Over Fear: How Long It Will Take Covid Vaccine To Take Effect | NBC News NOW",
             "secondDuration": 380,
             "group": "group_7"
+        },
+        {
+            "videoId": "WN9hqFgAU_0",
+            "title": "Tesla Under Federal Investigation For 'Phantom Braking'",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

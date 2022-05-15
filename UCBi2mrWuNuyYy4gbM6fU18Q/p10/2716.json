@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "054EPU-PiwM",
-            "title": "Jake Tapper on Obama's Notre Dame Speech",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "V6JDQlIQ1Nc",
             "title": "Tom Brady Tears Up After Boy's Question About Heroes | ABC News",
             "secondDuration": 29,
@@ -61,8 +55,14 @@
             "title": "What's Fueling the Volatility on Wall Street",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "_dTWUJI844U",
+            "title": "Ongoing problems plague Delta airlines; hundreds of flights cancelled",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

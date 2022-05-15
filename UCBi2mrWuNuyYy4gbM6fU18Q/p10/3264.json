@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lRe_p5t1rfo",
-            "title": "Anna Nicole Smith's Daughter Speaks Out",
-            "secondDuration": 345,
-            "group": "group_7"
-        },
-        {
             "videoId": "McRhATl5oY8",
             "title": "HSBC Answers Cartel, Terror Cash Allegations",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Total solar eclipse visible in remote parts of the world",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "nuRywf5kp9g",
+            "title": "California governor declares state of emergency after earthquakes",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D3uJezMh2mw",
-            "title": "11-Year-Old Sales Pitch Wins Hearts & A Hundred Dollars",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "X8e2lxx6yPU",
             "title": "Sarah Palin's Path: Iowa First, White House Next?",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Democrats threaten government shutdown if Dreamers are not protected",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "EeIJC4lCGeo",
+            "title": "Rove vs. Plouffe (Part 2)",
+            "secondDuration": 448,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

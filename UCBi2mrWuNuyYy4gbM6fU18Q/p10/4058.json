@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zhdvGG05rqM",
-            "title": "Obama Signs 'Don't Ask, Don't Tell' Repeal",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y6C_3g5t-XM",
             "title": "Britney Spears Recreates 'Oops! ... I Did It Again' Cover With Sons at Disneyland",
             "secondDuration": 184,
@@ -61,8 +55,14 @@
             "title": "Democratic Debate | Hillary Clinton, Bernie Sanders Trade Blows",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "H1_sn9mIiN8",
+            "title": "Sen. Roy Blunt says he will not support Judge Ketanji Brown Jackson | ABC News",
+            "secondDuration": 524,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

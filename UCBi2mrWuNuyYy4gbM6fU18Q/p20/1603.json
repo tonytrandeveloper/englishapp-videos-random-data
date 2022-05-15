@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ELiVQlgJBnw",
-            "title": "The Conversation: Lady Gaga and Cyndi Lauper",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "UFm5TMF4dHQ",
             "title": "Trump Blasts Romney, Bush; Says GOP Has 'Nobody Like Trump'",
             "secondDuration": 195,
@@ -121,8 +115,14 @@
             "title": "Prince Harry, Meghan could lose ‘Sussex Royal’ brand",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "y9dlE-X_8rY",
+            "title": "Donald Trump Calls for a Ban of Muslims Entering the US  | CLIP",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

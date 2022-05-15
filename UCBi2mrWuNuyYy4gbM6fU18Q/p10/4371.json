@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IS3QObX85xY",
-            "title": "Pennsylvania county paying employees to get vaccine",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "dfLwYq0U_wk",
             "title": "Lawmakers to question key figure behind infamous Trump-Russia 'dossier'",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "The deadly Niger ambush that killed four US soldiers",
             "secondDuration": 385,
             "group": "group_7"
+        },
+        {
+            "videoId": "zwr4FyVAD9Q",
+            "title": "President Trump hosts round table on sanctuary cities | ABC News",
+            "secondDuration": 2240,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AMqTdFswd-A",
-            "title": "Full Klobuchar: Bloomberg's 2020 Candidacy, 'Can't Be All About Money' | Meet The Press",
-            "secondDuration": 499,
-            "group": "group_7"
-        },
-        {
             "videoId": "4hK0-HOy1t0",
             "title": "U.S. Coronavirus Death Toll Hits Grim 100,000 Milestone | NBC News NOW",
             "secondDuration": 650,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Floats Pay Bonus For Teachers Who Carry Guns In Class | NBC Nightly News",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "hs9GoTYAViQ",
+            "title": "Aleppo’s Children: On the Frontline With Syria’s White Helmets | NBC Nightly News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

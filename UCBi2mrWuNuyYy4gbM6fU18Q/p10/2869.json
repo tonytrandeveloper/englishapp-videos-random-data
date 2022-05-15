@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0Vby6jtbAxE",
-            "title": "Trump's physician gives update from Walter Reed | ABC News",
-            "secondDuration": 1317,
-            "group": "group_7"
-        },
-        {
             "videoId": "pjKOYpEMvrM",
             "title": "Your Voice, Your Vote: Inside The Debate Prep Rooms",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Holocaust survivors on their pandemic struggles",
             "secondDuration": 376,
             "group": "group_7"
+        },
+        {
+            "videoId": "2R0aHTpdX1I",
+            "title": "Extent of Destruction in Japan Grows Clearer",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

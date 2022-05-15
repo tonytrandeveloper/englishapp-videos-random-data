@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ANZ4LThlJzY",
-            "title": "RAW: Deadly Earthquake Rattles China | NBC News",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "zIIbKL75494",
             "title": "John Kerry Talks Climate Deal, ISIS Fight | Meet The Press | NBC News",
             "secondDuration": 395,
@@ -31,8 +25,14 @@
             "title": "Gen. John Hyten Denies Sexual Misconduct Allegations At Confirmation Hearing | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "XJlpAOKk9nU",
+            "title": "UK Prime Minister David Cameron To Step Down After Brexit Vote | NBC News",
+            "secondDuration": 440,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

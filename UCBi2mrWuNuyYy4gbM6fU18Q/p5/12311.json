@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DlrsBNnbdPE",
-            "title": "Election 2016 Recounts Gains Momentum",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "ksC3FfWjR0w",
             "title": "YouTube Videos May Give New Insight Into Missing Doctor Case",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "MLB All Star Game | All Lives Matter Slipped into Canadian Anthem",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "5e15KtGc0nM",
+            "title": "Federal Budget Battle Takes Center Stage on Senate Floor",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

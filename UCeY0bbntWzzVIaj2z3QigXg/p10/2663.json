@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lo7kFsYppoc",
-            "title": "Watch NBC News NOW Live - June  10",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "wBajZ1EgXQ8",
             "title": "Israeli Soldier Loses Three Friends In I.E.D. Attack | NBC News",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "Chicago Seeing Little To No Snow Through Winter | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "hrMQD0MC_ik",
+            "title": "Tulsa 'Reserve' Cop Who Killed Suspect Meant To Use Taser | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

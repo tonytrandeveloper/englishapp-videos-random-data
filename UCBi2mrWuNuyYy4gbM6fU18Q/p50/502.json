@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "eF0bb1P1_UA",
-            "title": "Millions of cars and trucks were soaked in flood waters after the storm",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "MUPNY9TDiDw",
             "title": "The students fighting for a more diverse lesson plan | Nightline",
             "secondDuration": 511,
@@ -301,8 +295,14 @@
             "title": "Teenaged 'Bonnie and Clyde' Out Run Police in Car Chase",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "MreZX_YssT0",
+            "title": "Supreme Court Wrestles With Abortion Buffer Zone",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

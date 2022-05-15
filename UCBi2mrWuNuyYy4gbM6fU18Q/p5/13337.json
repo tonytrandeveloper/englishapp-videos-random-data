@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E0L0G3eh1DU",
-            "title": "Twin Babies Born on Utah Highway",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "XNKdZATBIbo",
             "title": "'Briefing Room': Kavanaugh allegations, Hurricane Florence latest, 50 days to midterms | ABC News",
             "secondDuration": 864,
@@ -31,8 +25,14 @@
             "title": "Rep. Adam Schiff: Ukraine ‘prepared, but really overmatched’",
             "secondDuration": 363,
             "group": "group_7"
+        },
+        {
+            "videoId": "0d9JjE3piP4",
+            "title": "Everything you need to know before Tax Day on July 15",
+            "secondDuration": 250,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

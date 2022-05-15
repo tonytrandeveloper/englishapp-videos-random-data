@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IYByODlY74s",
-            "title": "Coronavirus, California fire and protest: World in Photos, Aug. 24",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "hwfN51ZFhbw",
             "title": "Trump grants clemency to Rod Blagojevich, Michael Milken and Bernard Kerik",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "Team USA Beats Australia in First Match | FIFA World Cup Game Highlights with Hope Solo",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "5UYYCZkKi88",
+            "title": "Teen Attempts to ‘Kill Trump’",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

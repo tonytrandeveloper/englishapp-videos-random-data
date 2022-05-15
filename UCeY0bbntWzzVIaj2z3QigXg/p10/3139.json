@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KLydJAnK7nU",
-            "title": "High Tech Tat: Tattoo Artist Takes Industry To Digital Future | NBC News",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "VWtYcfzlJz4",
             "title": "WH Director Marc Short: 'John Kelly Has Not Offered His Resignation' | Meet The Press | NBC News",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "U.S. Surgeon General Warns Omicron Variant Has Not Yet Peaked",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "NOWloi1l6c8",
+            "title": "Rapper Wavy Navy Pooh Killed In Apparent Ambush Shooting",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

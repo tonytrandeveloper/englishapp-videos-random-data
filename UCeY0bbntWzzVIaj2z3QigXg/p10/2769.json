@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zitZGDJcHAU",
-            "title": "Trump vs. Trump: Evolving Positions Over The Years | Meet The Press | NBC News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "kAoHIUOnMfU",
             "title": "'We Don’t Know Where This Thread Leads:’ Unraveling Trump's Tax Returns | Think | NBC News",
             "secondDuration": 330,
@@ -61,8 +55,14 @@
             "title": "Family Of Markeis McGlockton Addresses Michael Drejka: ‘I Will Never Forgive You’ | NBC News",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "_XGWeNDkLaI",
+            "title": "Suspect In Christmas Market Terror Attack Killed By French Police | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

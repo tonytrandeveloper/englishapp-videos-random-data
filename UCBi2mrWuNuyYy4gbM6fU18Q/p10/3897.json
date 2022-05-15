@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "saCLLz9THuQ",
-            "title": "Joe Biden on Potential 2020 Presidential Run",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "4wRbmeYbShc",
             "title": "VA Secretary Made False Claims About Military Service",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Gas crisis easing though problems remain in some regions | WNT",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z2wdMauoZxA",
+            "title": "Papal Conclave 2013 Recap: Jorge Mario Bergoglio New Pope",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VHqQfpUBauc",
-            "title": "EgyptAir Flight 804 Sent Data Suggesting Smoke, Fire Before Disappearance",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "kKaLu85TzRA",
             "title": "ABC News Live Update: CDC issues new quarantine rules for those fully vaccinated",
             "secondDuration": 630,
@@ -31,8 +25,14 @@
             "title": "Fire threat continues in US southwest",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "JtrwLO3j5kw",
+            "title": "Benetton Ads Show Controversial Pictures of Political Figures",
+            "secondDuration": 43,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

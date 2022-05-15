@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XBYokZ-MQHw",
-            "title": "Bill Clinton Blasts Bernie Sanders' View on Economy, Wall Street | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "1El-enchwlc",
             "title": "SCOTUS Sides With High School Cheerleader, Upholds Free Speech Rights",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Measles Outbreak: 200 Exposed At Arizona Hospital | NBC Nightly News",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "P84UEoLNq1Q",
+            "title": "Mississippi’s Crumbling Infrastructure Delays Services And Puts Lives At Risk | NBC Nightly News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

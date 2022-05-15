@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wWqDxIvIQEc",
-            "title": "Ed Sheeran Discusses 'Game Of Thrones' Appearance In The Lightning Round | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "DdKCbq0OivQ",
             "title": "What Caffeine Does To Your Brain And Why You Love It | Better | NBC News",
             "secondDuration": 149,
@@ -31,8 +25,14 @@
             "title": "Rex Tillerson Expresses Condolences, Outrage At Manchester Attack: 'ISIS Worships Death' | NBC News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "7Egls-7E7rM",
+            "title": "Blinken Calls For Additional Evidence On AP Gaza Building Strike",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

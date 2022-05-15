@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "egtYnCZcoKI",
-            "title": "Hero citizens in El Paso ran toward danger to help others l ABC News",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "FVjOT1EGU9k",
             "title": "States on alert for extreme weather through New Year’s Day l GMA",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Van Crashes Into School Bus With 31 High School Students",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "6PZh4GlUTTM",
+            "title": "EPA chief under fire for questionable condo-rental deal",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

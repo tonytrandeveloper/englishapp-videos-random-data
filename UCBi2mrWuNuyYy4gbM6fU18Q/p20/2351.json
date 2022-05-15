@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6haFkSgKLpY",
-            "title": "Millions Travel for Holiday, Face Delays in Stormy Weather",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "-mC-lHLL2SE",
             "title": "Jobs Report: Truth Behind the Numbers",
             "secondDuration": 127,
@@ -121,8 +115,14 @@
             "title": "Bubble Soccer",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "tk7tJF9bT4Q",
+            "title": "Manhunt on in Tampa after 3 slayings in 11 days",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

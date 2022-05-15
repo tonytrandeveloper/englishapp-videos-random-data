@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kzCaJZuJc4g",
-            "title": "Boo Beasts! When Animals Attack Pumpkins",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "7ovQRLk7Gxs",
             "title": "Man describes surviving blizzard on Taco Bell hot sauce",
             "secondDuration": 182,
@@ -61,8 +55,14 @@
             "title": "Trump Tries to Win Over GOP",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "63zAPut3pLE",
+            "title": "The Science of Santa",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

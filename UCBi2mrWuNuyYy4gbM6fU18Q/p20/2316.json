@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "F33rrocnfaQ",
-            "title": "Woman is first to swim English Channel 4 times in a row l ABC News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "sC7THuzUJVU",
             "title": "Trains crash into truck on tracks, killing 3 people",
             "secondDuration": 97,
@@ -121,8 +115,14 @@
             "title": "Facebook Introduces Graph Search Beta",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "RkxdDpma5mI",
+            "title": "WHO reports number of COVID-19 infections on the verge of 100,000 | WNT",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

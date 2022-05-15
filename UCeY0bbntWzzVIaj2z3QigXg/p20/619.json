@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LRKNsFmdKjY",
-            "title": "Michael Flynn May Have Broken Law, House Oversight Leaders Say | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "H2nzyHb9Bog",
             "title": "3,000-Pound Steer Is Too Big For The Slaughterhouse | NBC News",
             "secondDuration": 51,
@@ -121,8 +115,14 @@
             "title": "Juno Probe Entering Risky Phase In Jupiter Orbit | NBC News",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "J2BjV0ntIlY",
+            "title": "Las Vegas Attack: New Video Show Concertgoers Running For Their Lives | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

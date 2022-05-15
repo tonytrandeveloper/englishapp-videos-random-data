@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "yLGiInip_lM",
-            "title": "Storm threats strengthen as Southeast reels from tornadoes",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "JY8tigxoxY0",
             "title": "Many states issue road safety warnings in preparation for Spring Break",
             "secondDuration": 98,
@@ -301,8 +295,14 @@
             "title": "Dogs Hit By Flu Strain, Vets Urge Shots",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "Youg90VIxQg",
+            "title": "5 suspects killed after deadly Barcelona attack",
+            "secondDuration": 253,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "A1MYPqPRPlE",
-            "title": "Robert Mueller Subpoenas President Donald Trump Organization For Russia Records | NBC Nightly News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "pYf9_yyjaWI",
             "title": "Obama Bypasses Congress On Immigration | NBC News",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "‘Latino Anti-Disinformation Lab’ Aims To Combat False Covid Vaccine Messaging | NBC News NOW",
             "secondDuration": 275,
             "group": "group_7"
+        },
+        {
+            "videoId": "KJ6Onzi3Mso",
+            "title": "Steve Kornacki Breaks Down Key Midterm Governor’s Races | NBC News",
+            "secondDuration": 1137,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

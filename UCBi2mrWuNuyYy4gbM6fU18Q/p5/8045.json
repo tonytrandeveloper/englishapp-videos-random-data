@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CSdKxDuFTS8",
-            "title": "Presidential Debate 2012: Mitt Romney, President Barack Obama Prepare - Behind the Scenes",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "DehiAw1cSz8",
             "title": "Mia Farrow's Son Thaddeus Found Dead in Car",
             "secondDuration": 40,
@@ -31,8 +25,14 @@
             "title": "Massive winter pummels the East with heavy snow | ABC News",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "8yBY_F8VFMw",
+            "title": "UK-based charity works to verify images of war in Ukraine",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

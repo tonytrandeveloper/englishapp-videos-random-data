@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "smNyJPve8Fg",
-            "title": "Making Earth a better place",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "1NAGuR3oJdE",
             "title": "Police head off suspected terror attack near Parliament in London",
             "secondDuration": 82,
@@ -31,8 +25,14 @@
             "title": "Monica Lewinsky: 'I Was Patient Zero' of Online Shaming",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "Uf8sQnwVDE0",
+            "title": "Woman Accidentally Shot by Her Dad Tries to Save His Life",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

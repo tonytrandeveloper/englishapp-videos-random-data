@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yr2YLrHqxgI",
-            "title": "NASCAR's Tony Stewart Confronts Apparent Heckler",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "TZpzdtSNgp4",
             "title": "NYC Workers to Be Charged for Alleged 9/11 Disability Fraud",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "Making a Murderer | Evidence Left Out [ EPISODE 1 ]",
             "secondDuration": 520,
             "group": "group_7"
+        },
+        {
+            "videoId": "d0IWzPq7UyE",
+            "title": "The Undecideds: Presidential Election Up for Grabs",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

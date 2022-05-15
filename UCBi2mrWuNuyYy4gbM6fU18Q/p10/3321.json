@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "svkLCryD6zQ",
-            "title": "WEBCAST: Mall Destruction",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "B6P3GMjwkA0",
             "title": "Soldiers Forced to Repay Bonuses",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Iowa Caucus 2012: Matthew Dowd Recaps the Night",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "fFv1B6e2Q9w",
+            "title": "'Briefing Room': Hurricane Florence, Trump's Puerto Rico comments, 538's 2018 Senate forecast",
+            "secondDuration": 1181,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

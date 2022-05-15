@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OJiHZ_djUZ8",
-            "title": "Israeli Bombardment Of Gaza Appears To Intensify | NBC News",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "uTpAgyikQro",
             "title": "ERCOT Faces Texas Lawmakers After Devastating Power Outages | NBC Nightly News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Boston University Develops Lab To Regularly Test Students For Coronavirus | NBC News NOW",
             "secondDuration": 310,
             "group": "group_7"
+        },
+        {
+            "videoId": "xkvYb3LRK94",
+            "title": "It was in the dark that the fear began...",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

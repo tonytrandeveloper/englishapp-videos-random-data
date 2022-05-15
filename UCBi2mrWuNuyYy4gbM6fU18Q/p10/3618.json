@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GK1i4nSyWtM",
-            "title": "Ukrainian parliament member: 'We know that our fight is right'",
-            "secondDuration": 405,
-            "group": "group_7"
-        },
-        {
             "videoId": "p63MZ8qP2IY",
             "title": "WEBCAST: U.S. Soldier Released from Captivity",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "Pope Benedict XIV Retires: Who's Next?",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "YpIJrZ_zk8s",
+            "title": "Watch LIVE: Impeachment Trial of President Donald Trump day 7 - ABC News Live Coverage",
+            "secondDuration": 7666,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

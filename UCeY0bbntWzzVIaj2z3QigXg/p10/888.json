@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8TKptzMX3fU",
-            "title": "Watch: Biden Delivers Remarks In Philadelphia | NBC News",
-            "secondDuration": 1674,
-            "group": "group_7"
-        },
-        {
             "videoId": "9JWG3P7D97g",
             "title": "Timeline: How Coronavirus Spread Through The Trump Administration | NBC News NOW",
             "secondDuration": 321,
@@ -61,8 +55,14 @@
             "title": "AVA Byte Is A Smart Table-Top Garden That Could Change The Way We Grow Herbs | Mach | NBC News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "q73neNz8CEs",
+            "title": "Algorithms That Have Taken Over The Financial Industry | Mach | NBC News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

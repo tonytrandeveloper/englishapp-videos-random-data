@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "B7Y6ttPfYhY",
-            "title": "Heavy rain halts rescue operations after Haiti quake l WNT",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "7G0jMVMQG8o",
             "title": "F-16 that cut through warehouse was armed with live munitions",
             "secondDuration": 168,
@@ -61,8 +55,14 @@
             "title": "Boy found alive after falling through drainage pipe",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "NYie5TCu1eE",
+            "title": "By the Numbers: One-third of waking hours spent on mobile devices",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9Xinp_0G-AY",
-            "title": "Fourth Nor’Easter In Three Weeks Slams East Coast | NBC Nightly News",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wutl6OP04jU",
             "title": "Watch: White Woman Confronts Mixed-Race Couple During Baby Photoshoot | NBC News",
             "secondDuration": 195,
@@ -121,8 +115,14 @@
             "title": "Odesa Prepares For Russian Attacks",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "8f1oDhYSNSk",
+            "title": "Covid Travel Ban And Visa Backlog Leads To Summer Worker Shortage",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

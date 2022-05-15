@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "T6xFxPNGuMo",
-            "title": "Joe Biden And Kamala Harris Hold First Event As Running Mates | NBC Nightly News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "hgGf53jXiTI",
             "title": "Rand Paul On Latest Health Care Bill: Senate GOP Has 'Made It Worse' | NBC News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Dozen  Killed In Weekend Protests Across Ethiopia | NBC News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "HsNlXlwjn3s",
+            "title": "William Strampel, Larry Nassar’s MSU Boss, Hit With Sex Charges | NBC Nightly News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "D2CMuUdBFfo",
-            "title": "Warren Buffett Speaks Out on Economy",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "uRsDtIsp3vI",
             "title": "Test Flights Land Safely Amid Ash Cloud",
             "secondDuration": 75,
@@ -121,8 +115,14 @@
             "title": "Tips to save on spending for your Super Bowl bash",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "rlZvGpy2owk",
+            "title": "Remembering Sidney Poitier",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

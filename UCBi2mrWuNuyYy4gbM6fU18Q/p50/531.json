@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "5npZF70e1lk",
-            "title": "The Last Days of Richard Pryor l PART 1",
-            "secondDuration": 500,
-            "group": "group_7"
-        },
-        {
             "videoId": "rAR0cGogrEg",
             "title": "Deadly Serial Shooter in Phoenix, Search Continued",
             "secondDuration": 88,
@@ -301,8 +295,14 @@
             "title": "Unemployment Rates in Robin's Hometown",
             "secondDuration": 275,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q9U88SAclXg",
+            "title": "George W. Bush Says Wars Were 'Worth Fighting'; Discusses Working with Disabled Veterans",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

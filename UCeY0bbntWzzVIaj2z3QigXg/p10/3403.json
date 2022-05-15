@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wWBQdbEp-do",
-            "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2426,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wx5BOOpPaOk",
             "title": "Dancing In Drag: All Male Ballet Redefines Gender Roles | NBC News",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Fmr. Trump Campaign Manager Paul Manafort Ordered To Jail After Bail Revoked | NBC News",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "NlEbWM9L5Fk",
+            "title": "President Donald Trump on Confidence in Steve Bannon: ‘We’ll See What Happens’ | NBC News",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

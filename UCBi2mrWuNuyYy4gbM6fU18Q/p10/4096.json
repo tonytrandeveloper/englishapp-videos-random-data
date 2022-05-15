@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "icqpri0-IoE",
-            "title": "7 minutes of terror: The Perseverance rover’s critical landing on Mars",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "V-IaoBHJ3m0",
             "title": "Young Mormons on a Mission",
             "secondDuration": 376,
@@ -61,8 +55,14 @@
             "title": "Simone Biles helps open the door to a new culture in sports",
             "secondDuration": 541,
             "group": "group_7"
+        },
+        {
+            "videoId": "k_kg73Wkin8",
+            "title": "White House task force issues new guidelines to stop virus spread",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

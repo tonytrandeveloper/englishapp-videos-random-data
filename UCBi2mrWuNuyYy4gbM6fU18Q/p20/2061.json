@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zogDqDcEGCc",
-            "title": "FEMA Gets Ready for Hurricane Earl",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "WTwnTUcLWwM",
             "title": "Vicki Gardner's Husband Shares How She Survived Virginia Shooting",
             "secondDuration": 191,
@@ -121,8 +115,14 @@
             "title": "The Return of Alex Jones",
             "secondDuration": 359,
             "group": "group_7"
+        },
+        {
+            "videoId": "89mRkVq_SK4",
+            "title": "ABC News Prime: Unrest in Louisville, KY; Health officials on Capitol Hill; Honoring RBG",
+            "secondDuration": 4294,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

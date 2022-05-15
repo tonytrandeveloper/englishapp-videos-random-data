@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LKtjQ6Rf8e0",
-            "title": "L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
-            "secondDuration": 3849,
-            "group": "group_7"
-        },
-        {
             "videoId": "IPu-t70bw-k",
             "title": "Seoul Subway Trains Receive Deep Clean As South Korea Reports A Jump In COVID-19 Cases | NBC News",
             "secondDuration": 57,
@@ -61,8 +55,14 @@
             "title": "U.S. Native On Quest To Join ISIS | NBC News",
             "secondDuration": 298,
             "group": "group_7"
+        },
+        {
+            "videoId": "CY3tn-19FM4",
+            "title": "Emmett Till Law Signed Making Lynching A Federal Hate Crime",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

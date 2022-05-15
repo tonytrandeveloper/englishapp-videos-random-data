@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "j3eJI0x3BhQ",
-            "title": "Donald Trump is the Presumptive GOP Nominee | NBC Nightly News",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "SDozms4ng6Y",
             "title": "Busiest Travel Day Of The Year To Be Plagued By Winter Storm | NBC Nightly News",
             "secondDuration": 97,
@@ -121,8 +115,14 @@
             "title": "Nightly News Full Broadcast - March 10",
             "secondDuration": 1162,
             "group": "group_7"
+        },
+        {
+            "videoId": "k3AoaInfwgo",
+            "title": "Car Vending Machine Newest Gimmick For Buying A New Car | NBC News",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gG6ZfO5eoh0",
-            "title": "Wikipedia Blackout: Online Piracy Grows",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "UPngLPeIZQo",
             "title": "Flu Season 2013: Low Vaccine Supply",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "Obama Responds to Alleged Russian Hacking",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "_LuA1FCjN9M",
+            "title": "Frustration grows with 90 million Americans holding out on vaccine",
+            "secondDuration": 345,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

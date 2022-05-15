@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XonCI6D52Mg",
-            "title": "After Sandy, NYC Copes with Blackouts, Cold",
-            "secondDuration": 308,
-            "group": "group_7"
-        },
-        {
             "videoId": "PgcdKZ9tGss",
             "title": "Severe Spring Weather Across the Midwest",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Vanderbilt Football Player Sexual Assault Retrial",
             "secondDuration": 225,
             "group": "group_7"
+        },
+        {
+            "videoId": "NvRaBCgA4wI",
+            "title": "The AK47 Bandit Strikes Again",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

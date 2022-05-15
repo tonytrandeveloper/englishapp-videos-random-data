@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E4UR1rZOotY",
-            "title": "Trump says new Mexico-Canada deal will replace NAFTA",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "u_zsG2iYG9k",
             "title": "Tebow Takes a Knee: The Rise and Fall of Football's Wunderkind",
             "secondDuration": 77,
@@ -61,8 +55,14 @@
             "title": "Clinton Holds Double-Digit Lead in New Poll",
             "secondDuration": 293,
             "group": "group_7"
+        },
+        {
+            "videoId": "PFNJeS_m16o",
+            "title": "Gas Prices in America Expected to Plunge After Reaching Record Highs",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

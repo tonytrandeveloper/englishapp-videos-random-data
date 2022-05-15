@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rBsuAWwaXKU",
-            "title": "Bruce Jenner Accident Being Investigated by Police",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "KXlqYITXOno",
             "title": "2013 Election Results Offer Clues About 2016",
             "secondDuration": 196,
@@ -121,8 +115,14 @@
             "title": "President Joe Biden expected to address the nation Thursday",
             "secondDuration": 336,
             "group": "group_7"
+        },
+        {
+            "videoId": "jX70ACQ_UsA",
+            "title": "Grandmother describes her first moment of freedom after 22 years in prison",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

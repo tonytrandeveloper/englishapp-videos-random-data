@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "C93LKuBduC4",
-            "title": "Ukrainian-Russian combat in the digital world | ABCNL",
-            "secondDuration": 336,
-            "group": "group_7"
-        },
-        {
             "videoId": "MNnhDxAFY3Y",
             "title": "Panama Papers | Biggest Financial Data Leak in History",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Ron Palillo Dead: John Travolta Remembers; Horshack's Best Moments From 'Welcome Back Kotter'",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yxw1OQYZ1QM",
+            "title": "'Thousands' more children will be hospitalized: Former acting CDC director | ABC News",
+            "secondDuration": 307,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "R39Vpuz6jQU",
-            "title": "Florida Man Charged With Killing Wife At Community Pool",
-            "secondDuration": 206,
-            "group": "group_7"
-        },
-        {
             "videoId": "kMVAWPgXWqs",
             "title": "Rex Tillerson Speaks In State Department Briefing Room | NBC News",
             "secondDuration": 2083,
@@ -61,8 +55,14 @@
             "title": "Schwarzenegger Calls Trump ‘A Little Wet Noodle’ And ‘Fanboy’ Over Putin News Conference | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "VhexJmzffTU",
+            "title": "NYC Mayor de Blasio Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3521,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

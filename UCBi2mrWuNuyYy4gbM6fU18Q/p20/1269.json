@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cdDihUFNp7E",
-            "title": "Facebook group connects people grappling with shocking DNA test results",
-            "secondDuration": 454,
-            "group": "group_7"
-        },
-        {
             "videoId": "rKZjwb9uZQ8",
             "title": "In Case You Missed It",
             "secondDuration": 519,
@@ -121,8 +115,14 @@
             "title": "US schools teach students safety plans for shootings",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "MelWEbMnPvI",
+            "title": "Homeland Security Preps For Zombie Apocalypse",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

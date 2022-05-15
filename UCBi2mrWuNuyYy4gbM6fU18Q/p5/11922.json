@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RpadzvO5JGM",
-            "title": "Teen Climber: Too Young to Scale Mt. Everest?",
-            "secondDuration": 517,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rxt8PXwW53E",
             "title": "Michelle Obama, Bernie Sanders Speak at DNC After Rocky Start",
             "secondDuration": 502,
@@ -31,8 +25,14 @@
             "title": "Scandal in the Hospital: Hundreds of Doctors Accused of Sexual Assault",
             "secondDuration": 480,
             "group": "group_7"
+        },
+        {
+            "videoId": "a9XO1CEXlvI",
+            "title": "Trump defends Roy Moore",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

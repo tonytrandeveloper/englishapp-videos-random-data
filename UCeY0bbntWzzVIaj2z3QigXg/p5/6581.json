@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lTprYLtE3ZA",
-            "title": "Defense Secretary Jim Mattis, Joint Chief Joe Dunford Testify At House Hearing | NBC News",
-            "secondDuration": 15015,
-            "group": "group_7"
-        },
-        {
             "videoId": "koRttfSCgQ0",
             "title": "Live: White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 2081,
@@ -31,8 +25,14 @@
             "title": "Dow Jones Climbs Over 1,100 Points After Historic Day Of Losses | NBC News NOW",
             "secondDuration": 293,
             "group": "group_7"
+        },
+        {
+            "videoId": "8aUMFQqZemI",
+            "title": "Barr Describes Confrontation With Trump Over Election Fraud Claims",
+            "secondDuration": 446,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

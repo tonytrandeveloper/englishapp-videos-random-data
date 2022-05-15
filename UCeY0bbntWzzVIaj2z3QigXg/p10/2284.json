@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_8u-48lbQU0",
-            "title": "NYC Mayor Bill De Blasio Holds Press Conference Amid George Floyd Protests | NBC News",
-            "secondDuration": 1946,
-            "group": "group_7"
-        },
-        {
             "videoId": "aYEWfopS0OQ",
             "title": "Joe Biden Says He Would 'Of Course' Consider Kamala Harris As Running Mate | NBC News",
             "secondDuration": 59,
@@ -61,8 +55,14 @@
             "title": "How The Black Doctors COVID-19 Consortium In Philadelphia Is Working To Vaccinate Black Americans",
             "secondDuration": 634,
             "group": "group_7"
+        },
+        {
+            "videoId": "vFdCMTs5VnU",
+            "title": "Kamala Harris Holds Virtual Early Vote Event | NBC News",
+            "secondDuration": 2866,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

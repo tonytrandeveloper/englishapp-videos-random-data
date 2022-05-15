@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "mxHU454yBW8",
-            "title": "Popcorn: Tracy Morgan",
-            "secondDuration": 524,
-            "group": "group_7"
-        },
-        {
             "videoId": "VZYlpgF6iFQ",
             "title": "Adult film star's lawyer claims Trump knew of payments",
             "secondDuration": 302,
@@ -301,8 +295,14 @@
             "title": "Dinosaur Bar-B-Que with John Stage",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "8CgoupWbr08",
+            "title": "Trump denies Cohen claim he knew about son's Russia meeting",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

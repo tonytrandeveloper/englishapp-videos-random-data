@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0ROQoZ0z33s",
-            "title": "California Governor Says ‘None Of This Is Easy’ After State Health Director Resigns | NBC News NOW",
-            "secondDuration": 361,
-            "group": "group_7"
-        },
-        {
             "videoId": "-Ra1rcrUEDk",
             "title": "Full Sally Yates: 'Robert Mueller Paints A Devastating Portrait' | Meet The Press | NBC News",
             "secondDuration": 485,
@@ -31,8 +25,14 @@
             "title": "‘They Like Me Very Much’: Trump Discusses The QAnon Conspiracy Theory Movement | NBC News NOW",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "LLpCju9XaBM",
+            "title": "Live: Pentagon Holds Press Briefing Following U.S. Drone Strike In Afghanistan | NBC News",
+            "secondDuration": 1956,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

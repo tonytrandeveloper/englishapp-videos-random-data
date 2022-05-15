@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0nGF-fEi3jI",
-            "title": "Deadly winter storm affects more than 200M Americans",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "5LMj8Czkqck",
             "title": "Diet Secrets of 'Hungry Girl': Can You Lose 25 Pounds by Super-Sizing?",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Strike Up the Band",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "x6RRv96C9kY",
+            "title": "China Hackers Stealing U.S. Secrets, Jobs",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

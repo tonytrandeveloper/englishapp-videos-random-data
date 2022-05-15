@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "15NFBH4rYTk",
-            "title": "Spending 10 days inside Putin's Russia: Part 1",
-            "secondDuration": 637,
-            "group": "group_7"
-        },
-        {
             "videoId": "C_ZEogH_LXw",
             "title": "Special Report: Hurricane Irma barrels toward Florida",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Virginia police officers sued after altercation with Army 2nd lieutenant",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yoflv8f3w1I",
+            "title": "Protections scarce as delivery industry booms",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

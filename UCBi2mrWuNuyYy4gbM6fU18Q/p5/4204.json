@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fuxm5tVBNNo",
-            "title": "WEBCAST: Wave of Grief",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "aenyTUfm9g0",
             "title": "Model's Suspected Killer Found Dead",
             "secondDuration": 325,
@@ -31,8 +25,14 @@
             "title": "New York City eyewitness describes deadly truck attack",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "cyK_bZOZFo0",
+            "title": "Russia takes drastic measures to stabilize economy l WNT",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

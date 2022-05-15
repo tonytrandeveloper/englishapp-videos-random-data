@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2-LGAe8cjYw",
-            "title": "The Miners: After the Darkness",
-            "secondDuration": 364,
-            "group": "group_7"
-        },
-        {
             "videoId": "t3hzGmYPzBc",
             "title": "Donald Trump Boosts “SNL” Ratings | ABC News",
             "secondDuration": 240,
@@ -121,8 +115,14 @@
             "title": "Justin Timberlake's Special Invitation",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "h7gL4c9d8ic",
+            "title": "How Missing Man's Family Finds Him Alive 23 Years Later",
+            "secondDuration": 488,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

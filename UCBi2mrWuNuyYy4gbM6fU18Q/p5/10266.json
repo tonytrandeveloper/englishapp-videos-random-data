@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "M4btol7ajZU",
-            "title": "Trump Doubles Down on Denial of Inappropriate Behavior",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "v_nL8GGXKsw",
             "title": "Trump Criticizes Nordstrom Over Daughter's Clothing Line | ABC News",
             "secondDuration": 308,
@@ -31,8 +25,14 @@
             "title": "President Trump makes surprise appearance in White House briefing room",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "DTJ1OH9bvbU",
+            "title": "Group works 24/7 for a month to make material for PPE | WNT",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

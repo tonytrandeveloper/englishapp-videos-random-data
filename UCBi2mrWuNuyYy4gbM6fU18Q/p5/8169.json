@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KF46SFlAloM",
-            "title": "The House of Windsor Welcomes a New Royal",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jh_RpgTGe9E",
             "title": "Happy New Year! United Kingdom Celebrates Arrival of 2015",
             "secondDuration": 665,
@@ -31,8 +25,14 @@
             "title": "Gay Rights Triumph in Supreme Court Ruling",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "oip_VUgEOtM",
+            "title": "Possible helicopter crash in Manhattan near Times Square: Special Report",
+            "secondDuration": 3611,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

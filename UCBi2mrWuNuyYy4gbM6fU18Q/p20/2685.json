@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1Sq5uzwbJK4",
-            "title": "Miami Beach announces new measures amid spring break chaos",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "lelakXKfITc",
             "title": "Banana Joe: Winner of Westminster Kennel Club Dog Show",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "Shark Attack Off Maui Coast Kills Man",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "sKE1XoFYRvQ",
+            "title": "Dad Takes on Public Shaming of Kids as Punishment",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

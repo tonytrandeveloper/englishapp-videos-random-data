@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EO4ohDqtKWE",
-            "title": "Egypt President's Power Grab",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "U-DGTUj8mLg",
             "title": "What is the ‘Don’t Say Gay’ bill?",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "The debate to reopen",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "5th5c_N0CkM",
+            "title": "WEBCAST: Hands-Free Hamburger",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

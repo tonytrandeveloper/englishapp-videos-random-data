@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-LyMy-df2ag",
-            "title": "An Incredible Journey on the Nile",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "P_4o5UbiHmk",
             "title": "ABC News Prime: Pres. Biden on world stage; Megadrought in California; Possible infrastructure deal",
             "secondDuration": 5267,
@@ -61,8 +55,14 @@
             "title": "Ryan Ferguson Juror Explains 2004 Murder Conviction",
             "secondDuration": 532,
             "group": "group_7"
+        },
+        {
+            "videoId": "GnjaI_N7ejM",
+            "title": "Woman at center of adoption scandal speaks out | ABC News",
+            "secondDuration": 398,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eS0MyOV6vIA",
-            "title": "Cohen's attorney says his client has information 'of interest' to Robert Mueller",
-            "secondDuration": 288,
-            "group": "group_7"
-        },
-        {
             "videoId": "1Q80dCn7CR8",
             "title": "Warren faces new questions on Native American claims",
             "secondDuration": 174,
@@ -61,8 +55,14 @@
             "title": "Turkey moves military convoys and special forces to Syria border l ABC News",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "XCt0h3qE-K4",
+            "title": "Freddie Gray Trial Begins for Second Baltimore Officer",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

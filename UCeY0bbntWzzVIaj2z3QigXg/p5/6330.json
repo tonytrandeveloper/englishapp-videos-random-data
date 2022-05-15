@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GQa1r1SMwb4",
-            "title": "iPhone 6 Keynote: Bigger Screens, More Pixels | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "H-n7W4uR0Fs",
             "title": "New COVID-19 Test Similar To Breathalyzer Shows Promise | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "George Floyd's Brother To Chauvin: 'Why? What Were You Thinking?'",
             "secondDuration": 289,
             "group": "group_7"
+        },
+        {
+            "videoId": "s_aXOSmuXoY",
+            "title": "An Algorithm Can Solve A Rubik's Cube Faster Than Any Human | Mach | NBC News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

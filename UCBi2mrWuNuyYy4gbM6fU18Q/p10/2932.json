@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E5fPY_EgooQ",
-            "title": "Trump promises 'great, great surprise' health care package",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "PsO0xol22c8",
             "title": "Mosul Offensive in Iraq 'Ahead of Schedule' at Start",
             "secondDuration": 340,
@@ -61,8 +55,14 @@
             "title": "Is the economy showing signs of recovery?",
             "secondDuration": 299,
             "group": "group_7"
+        },
+        {
+            "videoId": "vs-XjTAdBRM",
+            "title": "\"High Tea\" with Christoph Waltz and Quentin Tarantino",
+            "secondDuration": 461,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

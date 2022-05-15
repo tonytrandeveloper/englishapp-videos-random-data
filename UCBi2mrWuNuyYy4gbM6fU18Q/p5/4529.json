@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TzxfC7CqbOQ",
-            "title": "Patient dies from severe respiratory illness, possibly from vaping",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "nAoePgiMjEI",
             "title": "Midwest, Northeast slammed by dangerous snow, ice",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Trump shadowed by Texas massacre during Asia trip",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "glvmZIs_d5g",
+            "title": "Investigation underway of limo crash that killed 20",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

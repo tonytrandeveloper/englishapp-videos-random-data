@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xWqYTKsr43I",
-            "title": "'Fight Tonight': Rare look at US defense against North Korea",
-            "secondDuration": 379,
-            "group": "group_7"
-        },
-        {
             "videoId": "vjOQyLvorh0",
             "title": "Doctor says airline targeted her due to race, curvy figure",
             "secondDuration": 228,
@@ -121,8 +115,14 @@
             "title": "U.S. and Allies Strike in Libya",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "0ILDR2z-HLs",
+            "title": "ABC News Live: Senate passes $1 trillion bipartisan infrastructure deal",
+            "secondDuration": 4809,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

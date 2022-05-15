@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "q4RL0bvN-CE",
-            "title": "Christian Evangelist Reverend Billy Graham Dies At 99 | NBC News",
-            "secondDuration": 243,
-            "group": "group_7"
-        },
-        {
             "videoId": "9Rl0WG2kJQY",
             "title": "Wildfire Torches Southern California: More Than 1000 Displaced | NBC Nightly News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Chelsea Clinton's Debut on Rock Center with Brian Williams",
             "secondDuration": 16,
             "group": "group_7"
+        },
+        {
+            "videoId": "D16_LpAcanc",
+            "title": "McConnell Speaks Against Republicans Objecting To Electoral College Vote Count | NBC News",
+            "secondDuration": 529,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

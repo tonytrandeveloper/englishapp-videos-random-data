@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zVM3xaTia_Q",
-            "title": "Trump sues Facebook, Twitter and Google",
-            "secondDuration": 467,
-            "group": "group_7"
-        },
-        {
             "videoId": "2ycL1F7-L4s",
             "title": "Police request public's help after 4 people found slain in company building",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Bill O'Reilly Says Obama 'Drowning' In Benghazi Scandal: 'GMA' Interview 2013",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "c8tpOOInMzU",
+            "title": "Nice Attack | American Eyewitness Describes Chaos",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

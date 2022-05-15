@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7Loa3cFbjAk",
-            "title": "ABC News' Year in Review: Sports",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "HcEusUzpkJc",
             "title": "Second Presidential Debate 2012: Obama Hits Romney's 'Sketchy Deal'",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "NFL player Dwayne Haskins killed after being hit by dump truck",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "RfgQlhKXIaM",
+            "title": "Inauguration Day 2013: Myrlie Evers-Williams Delivers Inaugural Prayer",
+            "secondDuration": 357,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

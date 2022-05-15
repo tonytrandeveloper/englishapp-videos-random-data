@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bvv72eWC5pc",
-            "title": "'Every Day Counts So Much' Gov. DeWine And Gov. Pritzker Outline State Responses | Meet The Press",
-            "secondDuration": 500,
-            "group": "group_7"
-        },
-        {
             "videoId": "_ThyQ9rjQMY",
             "title": "Actor Jussie Smollett Gets 150-Day Sentence In Jail",
             "secondDuration": 319,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - Feb. 3",
             "secondDuration": 3053,
             "group": "group_7"
+        },
+        {
+            "videoId": "QyoOdLby_h0",
+            "title": "Economic Impact Of The Holidays | Show Me | NBC News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

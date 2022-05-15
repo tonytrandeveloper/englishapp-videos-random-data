@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HIe1TCuDJKo",
-            "title": "Refugees Share Their Stories As More Flee Ukraine For European Neighbors",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "mUJVT3OQB4A",
             "title": "Death Toll Rises On Mt. Everest,  Concerns Of Overcrowding On World’s Highest Peak | Nightly News",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Jeans: An American Tradition | Long Story Short | NBC News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "osFaE7AtTEE",
+            "title": "Full Panel: Congressional Democrats Stuck With 'Messaging Nightmare'",
+            "secondDuration": 524,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

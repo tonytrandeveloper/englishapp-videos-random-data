@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5LVUpFFvmCw",
-            "title": "Americans Collect And Ship Supplies Overseas For Ukrainian Refugees",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "KNYxTUxp6VQ",
             "title": "Fight To Save Wine Country Intensifying Amid California’s Wildfires | NBC Nightly News",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Coming To America: 'Because His Hands Look Like That, Mine Can Look Like This' | Meet The Press",
             "secondDuration": 538,
             "group": "group_7"
+        },
+        {
+            "videoId": "uzDWp5CQifk",
+            "title": "What's Next For Policing in Minneapolis?",
+            "secondDuration": 308,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

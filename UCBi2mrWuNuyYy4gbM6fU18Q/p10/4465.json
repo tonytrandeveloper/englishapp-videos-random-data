@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MtsJj8e5QiY",
-            "title": "Key West residents anxious to see the devastation caused to their property",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "s-FXxuYbX_Y",
             "title": "Airbag Recall Due to Fake Airbags",
             "secondDuration": 80,
@@ -61,8 +55,14 @@
             "title": "Webcast: GOP Debate; Taco Bell Breakfast",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "SbHv5J-aSYo",
+            "title": "Obama vs. Romney: Debate Countdown",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

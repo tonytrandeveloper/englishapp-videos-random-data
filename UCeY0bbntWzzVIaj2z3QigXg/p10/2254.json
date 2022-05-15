@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UXKg2n_4CGw",
-            "title": "Desperate Search For Missing Maine Teacher | NBC Nightly News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "OZg98tv9bjY",
             "title": "Puerto Ricans Are Dying. These Volunteers Are Trying To Change That | NBC Latino | NBC News",
             "secondDuration": 321,
@@ -61,8 +55,14 @@
             "title": "Former U.S. Gymnastics Coach Found Dead On Day Of Arraignment | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "xvqt9poNuUc",
+            "title": "Biden's Special Presidential Envoy For Climate John Kerry Delivers Remarks | NBC News",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

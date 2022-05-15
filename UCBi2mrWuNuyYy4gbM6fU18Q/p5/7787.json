@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ImMpW9RmRXs",
-            "title": "Deadly train accident on new route between Seattle and Portland",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "pHeKu3tw5kc",
             "title": "Dangerous snow storms moving across the US",
             "secondDuration": 268,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton Live Remarks: keynote address at ALA Conference and Exhibition in Chicago",
             "secondDuration": 1626,
             "group": "group_7"
+        },
+        {
+            "videoId": "0rPqFC2kfRw",
+            "title": "Sen. Joe Manchin says he’s a ‘no’ on the Biden’s 'Build Back Better' plan",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

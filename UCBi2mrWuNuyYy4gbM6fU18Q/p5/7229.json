@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4XrhLtF0204",
-            "title": "Trump meets D-Day vets on last day of UK visit",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "aNMf7m4zWSU",
             "title": "Reaction grows to Trump comments on Mueller, finances",
             "secondDuration": 312,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Chicago Teachers End Strike",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "LHYzxfBLbdc",
+            "title": "‘Homeland and life’: Cubans take to streets to demand better living conditions",
+            "secondDuration": 218,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

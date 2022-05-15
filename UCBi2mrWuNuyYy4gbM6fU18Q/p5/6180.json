@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GMrBlRKSrok",
-            "title": "Melania Trump weighs in on the #MeToo movement",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "p0RrVfg6syA",
             "title": "\"A Christmas Story\" Celebrates Milestone Anniversary",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "Tom Hanks and Steven Spielberg Discuss 'Bridge of Spies'",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "jngC30tXRps",
+            "title": "President Trump's valet tests positive for COVID-19 | WNT",
+            "secondDuration": 291,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gAl8o9aTrKw",
-            "title": "It Might Be Clinton V. Bush Again in 2016",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "lTvg2RDigpc",
             "title": "Britney Spears conservatorship battle ends after more than a decade | Nightline",
             "secondDuration": 451,
@@ -31,8 +25,14 @@
             "title": "Hospital beds fill up as new COVID surge targets younger people l GMA",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "JN3skOu0EDk",
+            "title": "Coast Guard searches for missing helicopter in Hawaii",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

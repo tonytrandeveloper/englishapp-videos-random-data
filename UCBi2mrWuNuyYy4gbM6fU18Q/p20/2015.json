@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CQ8BqNFZWgk",
-            "title": "Senate members debate voting rights legislation",
-            "secondDuration": 577,
-            "group": "group_7"
-        },
-        {
             "videoId": "2MAEVD27zfs",
             "title": "Al Franken Questions Betsy DeVos on Proficiency vs Growth | ABC News",
             "secondDuration": 463,
@@ -121,8 +115,14 @@
             "title": "Oscar 2013 Preps Underway, Secret Rehearsals for Hilarious Host",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "gL95BxWd_VM",
+            "title": "'Empire' star Jussie Smollett charged in alleged racist attack case",
+            "secondDuration": 467,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

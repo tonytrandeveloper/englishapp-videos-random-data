@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "38MfZ17nT50",
-            "title": "Made in America: What's In Your Home?  | David Muir",
-            "secondDuration": 297,
-            "group": "group_7"
-        },
-        {
             "videoId": "ytWoaNsYzMw",
             "title": "Hospital in Michigan faces COVID-19 surge, younger patients | WNT",
             "secondDuration": 319,
@@ -31,8 +25,14 @@
             "title": "Alleged victim of New York governor breaks her silence l GMA",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "WLomL4uD2GM",
+            "title": "Trump announces death of ISIS leader | ABC News",
+            "secondDuration": 2910,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

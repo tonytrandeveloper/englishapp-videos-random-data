@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SlALTKoUzBQ",
-            "title": "Washington Nationals' $15 Million Pitcher",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "lrNPi0jwV50",
             "title": "The US economy explained by Rebecca Jarvis | ABC News",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "Inmate Attacks Officer - Other Inmates Defend Cop [CAUGHT ON TAPE]",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "JqBO_3RXTOM",
+            "title": "Iditarod Race 2013: Missing Sled Dog Found",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5vs6goobsIw",
-            "title": "What’s Next For The Nor’easter | NBC Nightly News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "lJ167av7QEw",
             "title": "Morning News NOW Full Broadcast - August 19",
             "secondDuration": 2735,
@@ -31,8 +25,14 @@
             "title": "New Report: Lafayette Square Park Wasn't Cleared for Trump's Photo Op",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "RFmNFQdlqo0",
+            "title": "White House Holds Press Briefing: March 16 | NBC News",
+            "secondDuration": 2650,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "so1SdZmZuvc",
-            "title": "Hong Kong Protestor Beaten By Police | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "8alguMVNMMU",
             "title": "Schiff: Ukraine Aide Was 'Conditioned On What Trump Wanted' | NBC News",
             "secondDuration": 439,
@@ -121,8 +115,14 @@
             "title": "Preview: Sunday Night With Megyn Kelly | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "07yIKkFNECs",
+            "title": "No Federal Charges For George Zimmerman In Trayvon Martin Killing | NBC Nightly News",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9hUOmHTFjbI",
-            "title": "Oklahoma Double Murder Suspect Manhunt Underway",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "qMVCizSUpb4",
             "title": "Accused Child Predator Surrenders, Caught On Viral Video",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Wyoming governor on rising COVID cases, voter safety",
             "secondDuration": 312,
             "group": "group_7"
+        },
+        {
+            "videoId": "L2F1D2SaC2E",
+            "title": "Could horse antibodies treat COVID-19?",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

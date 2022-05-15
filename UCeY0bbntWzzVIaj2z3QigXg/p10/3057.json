@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8bafnjhcTzk",
-            "title": "A Look Back At Donald Trump’s Awkward Moments With World Leaders | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "mYtW_RuFLSY",
             "title": "Barber Brings Art To Baltimore Neighborhood | NBC News",
             "secondDuration": 201,
@@ -61,8 +55,14 @@
             "title": "This Morning’s Top Headlines – November 3 | Morning News NOW",
             "secondDuration": 1486,
             "group": "group_7"
+        },
+        {
+            "videoId": "W3E2tbQaKk4",
+            "title": "President Donald Trump: 'This Is Our New American Moment' | NBC News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

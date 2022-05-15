@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZPrdz7qCK_w",
-            "title": "Grosse Pointe Murder:  Bob Bashara Arrested for Hiring Second Hitman",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "32Rb2P4JcLU",
             "title": "Hillary Clinton Emails Released by the State Department",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "'The Dropout' Part 2: Elizabeth Holmes begins marketing her Theranos devices",
             "secondDuration": 461,
             "group": "group_7"
+        },
+        {
+            "videoId": "GBq8mEA6n7Y",
+            "title": "Warren Weinstein Asks for President Obama to Rescue Him",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

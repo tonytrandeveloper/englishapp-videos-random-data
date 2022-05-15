@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wevNZ0srDUU",
-            "title": "NBC Nightly News Broadcast (Full) - May 29th, 2021",
-            "secondDuration": 1175,
-            "group": "group_7"
-        },
-        {
             "videoId": "B1-BC7tfGoU",
             "title": "Ebola In NYC Leads To Mandatory Quarantine Rules | NBC News",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "‘Journey Of Hope’: Fourth Graders Create Original Musical On Immigration | NBC News",
             "secondDuration": 252,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ki5DhmV-Lv4",
+            "title": "Officials: Pittsburgh Synagogue Shooting A ‘Horrific Crime Scene’ Leaving 11 Dead | NBC News",
+            "secondDuration": 1242,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

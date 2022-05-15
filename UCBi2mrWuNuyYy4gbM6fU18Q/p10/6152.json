@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OPFlQc-bTew",
-            "title": "Cory Booker Takes the Million Moms' Challenge",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "FthM86dsWYc",
             "title": "Vacation Nightmare: Sun, Sand, Prostitutes? | ABC World News Tonight | ABC News",
             "secondDuration": 431,
@@ -61,8 +55,14 @@
             "title": "Cheerleading Fall Video: Dangers Bring Calls for Reform From Medical Group",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Tyos9E3dpk",
+            "title": "Hawaii’s COVID-19 shutdown hits tourism hard",
+            "secondDuration": 331,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

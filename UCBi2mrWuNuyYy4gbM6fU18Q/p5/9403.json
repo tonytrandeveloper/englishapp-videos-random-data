@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "40p6dPJCJ38",
-            "title": "London Bridge attack | BREAKING NEWS on \" Terrorist incidents\"",
-            "secondDuration": 360,
-            "group": "group_7"
-        },
-        {
             "videoId": "ghPfJ0KQvo4",
             "title": "Benedict Cumberbatch Interview on Doctor Strange",
             "secondDuration": 311,
@@ -31,8 +25,14 @@
             "title": "May 25th, 1979: Six-Year-Old Vanishes",
             "secondDuration": 446,
             "group": "group_7"
+        },
+        {
+            "videoId": "degrh9X4V9o",
+            "title": "Your Voice: ICU nurses",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

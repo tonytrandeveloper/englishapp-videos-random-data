@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mb0UPJFbQIE",
-            "title": "Trump Formally Renominated On Day One Of RNC | NBC Nightly News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "PCQ7oKGkCWA",
             "title": "Chuck Grassley Rebukes New York Times For Brett Kavanaugh Misconduct Report | NBC News",
             "secondDuration": 327,
@@ -31,8 +25,14 @@
             "title": "U.S. Capitol Terror Attack Stopped By FBI | NBC Nightly News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "1h-szp_6x_8",
+            "title": "Lawmakers React To President Donald Trump Canceling Nancy Pelosi's Afghanistan Trip | NBC News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

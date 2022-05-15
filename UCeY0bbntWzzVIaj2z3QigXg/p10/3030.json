@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VoEPtIkUB04",
-            "title": "Louisville Slugger Hits Home Run With World Series Bats | NBC News",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "dm98jHJb6SY",
             "title": "Hurricane Irma Causes Damage Across The Caribbean | NBC News",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Suspected Hostage-Taking Gunman In Custody After Opening Fire On Florida Bank | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "OO39lbgJrB4",
+            "title": "Jeff Sessions Announces New Department Of Justice Unit to Combat Opioid Fraud | NBC News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

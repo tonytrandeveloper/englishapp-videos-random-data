@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y4FTCwtpdW8",
-            "title": "President Obama News Conference: 'We Are Not a Deadbeat Nation'",
-            "secondDuration": 3432,
-            "group": "group_7"
-        },
-        {
             "videoId": "PNyJbVXv0ZY",
             "title": "Webcast: Mitt Romney Wins Florida; David Letterman 30th Anniversary",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Anthony Weiner sentenced in sexting case",
             "secondDuration": 600,
             "group": "group_7"
+        },
+        {
+            "videoId": "yRxCuOu6nJ0",
+            "title": "Did Media Feed Koran Book-Burning Frenzy?",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

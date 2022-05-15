@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "p98KzAGG04Y",
-            "title": "DNC 2020: Night 1 key moments",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "AMIJUMF4F-o",
             "title": "Hillary Clinton's New Glasses Raise Debate During Benghazi Testimony",
             "secondDuration": 135,
@@ -121,8 +115,14 @@
             "title": "Rick Santorum Interview on ABC's 'This Week': Fighting His Way to The Convention",
             "secondDuration": 1108,
             "group": "group_7"
+        },
+        {
+            "videoId": "tdjFMPSxpiY",
+            "title": "'Less-Meatarians' Cut Down on Beef",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

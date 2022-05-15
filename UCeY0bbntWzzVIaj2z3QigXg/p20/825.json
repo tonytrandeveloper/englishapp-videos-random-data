@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "on7BRMxznxo",
-            "title": "A Better Way To Cut A Pineapple | Better | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "F21e2LFyC2Y",
             "title": "Politician Outbursts: Clinton To Weiner | Flashback | NBC News",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "Mortgage Rates Surge To Seven-Year High | NBC Nightly News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "EwwIHi6EsGQ",
+            "title": "Rep. Nadler Files Request For 'Critically Important' Grand Jury Material | NBC News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

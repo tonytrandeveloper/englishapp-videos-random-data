@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "UM40zRhwLgY",
-            "title": "Briefing Room: Stock market drops, Trump's immigration policy,  White House plans for gun control",
-            "secondDuration": 1663,
-            "group": "group_7"
-        },
-        {
             "videoId": "tbNJEWkE00Q",
             "title": "A high school cheerleader and football player's tumultuous relationship: 20/20 Sep 14 Part 1",
             "secondDuration": 410,
@@ -301,8 +295,14 @@
             "title": "Allyson Felix Discusses Taking Gold in Women's 200-Meter Sprint at 2012 London Olympics",
             "secondDuration": 270,
             "group": "group_7"
+        },
+        {
+            "videoId": "6XvGaXGOWz8",
+            "title": "Best Moments of the First Presidential Debate",
+            "secondDuration": 387,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

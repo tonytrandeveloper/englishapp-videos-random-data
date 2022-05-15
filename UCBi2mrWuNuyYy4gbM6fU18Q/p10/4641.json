@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SEIXlCJDuPs",
-            "title": "DOJ to investigate Minneapolis police after Chauvin verdict",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "BmasDf8goeU",
             "title": "The Conversation: Health Care End Game in Sight?",
             "secondDuration": 177,
@@ -61,8 +55,14 @@
             "title": "Morning Mix: Primaries, Joran and Roethlisberger",
             "secondDuration": 414,
             "group": "group_7"
+        },
+        {
+            "videoId": "KaW1L05UjJE",
+            "title": "Florida Prison Fugitives Forged Documents to Escape",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

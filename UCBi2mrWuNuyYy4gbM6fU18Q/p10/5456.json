@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FRKe_dV5cdw",
-            "title": "1 person was killed as 2nd night of severe weather knocked out power across the south | ABC News",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "qdLluXcFF0c",
             "title": "'GMA' Anchors Compete in Pumpkin Carving Battle",
             "secondDuration": 182,
@@ -61,8 +55,14 @@
             "title": "A Mom's Fatal Mistake: Drunken Driving",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "aMyMSXxELEM",
+            "title": "Duchess Camilla tests positive for COVID l GMA",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

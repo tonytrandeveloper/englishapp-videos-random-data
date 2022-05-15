@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5V5dbZyKbvs",
-            "title": "Experts Recommend Filing Taxes Early This Year | NBC Nightly News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lc6L2XvaUEI",
             "title": "Olympic Committee Was Told In 2015 Of Suspected Abuse By Larry Nassar | NBC Nightly News",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "Venezuela Says Two U.S. Citizens Among 'Mercenaries' Captured After Failed Plot | NBC News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "AViQZZvRcZs",
+            "title": "Peloton Backlash: What The Holiday Outrage Says About American Society | Think | NBC News",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

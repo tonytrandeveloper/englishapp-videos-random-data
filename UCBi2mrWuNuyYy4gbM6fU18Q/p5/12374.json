@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fXo26BIbA7Y",
-            "title": "San Antonio Detective Killed During Traffic Stop",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "1oQuQ4VrUjI",
             "title": "Video reveals details about teen murdered for inheritance",
             "secondDuration": 207,
@@ -31,8 +25,14 @@
             "title": "A Race Against Time and Frigid Temperatures for Ship Stuck in Antarctic",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "nPNjfnD3T5E",
+            "title": "Withdrawal of US troops in Syria underway l ABC News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

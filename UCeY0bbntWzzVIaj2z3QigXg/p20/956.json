@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HIe1TCuDJKo",
-            "title": "Refugees Share Their Stories As More Flee Ukraine For European Neighbors",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "mUJVT3OQB4A",
             "title": "Death Toll Rises On Mt. Everest,  Concerns Of Overcrowding On World’s Highest Peak | Nightly News",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "‘Latino Anti-Disinformation Lab’ Aims To Combat False Covid Vaccine Messaging | NBC News NOW",
             "secondDuration": 275,
             "group": "group_7"
+        },
+        {
+            "videoId": "KJ6Onzi3Mso",
+            "title": "Steve Kornacki Breaks Down Key Midterm Governor’s Races | NBC News",
+            "secondDuration": 1137,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

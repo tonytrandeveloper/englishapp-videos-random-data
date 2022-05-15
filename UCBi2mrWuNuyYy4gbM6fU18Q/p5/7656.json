@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GDnvQHT-Us4",
-            "title": "NYC Biker Road Rage Incident: Police Identify Prime Suspect",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "IItt5bDl6LA",
             "title": "Behind the Scenes of the New ‘Muppets’",
             "secondDuration": 227,
@@ -31,8 +25,14 @@
             "title": "Vaccine rollouts begin for kids age 5 to 11 after CDC gives Pfizer greenlight",
             "secondDuration": 426,
             "group": "group_7"
+        },
+        {
+            "videoId": "dPJUhWwHbeU",
+            "title": "Best of 2010: John Berman's 90 Seconds of News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

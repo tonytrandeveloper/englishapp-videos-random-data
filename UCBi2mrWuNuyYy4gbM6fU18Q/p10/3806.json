@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N7DovtDp1GE",
-            "title": "A Taste of Victory",
-            "secondDuration": 400,
-            "group": "group_7"
-        },
-        {
             "videoId": "aPqApTte6VE",
             "title": "Sarah Palin CPAC 2013: Making Light of Bloomberg's Soda Ban",
             "secondDuration": 251,
@@ -61,8 +55,14 @@
             "title": "Pope Francis Tweets For Safety of Nigerian Schoolgirls",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "l8qq5oYmMS0",
+            "title": "Obama Commencement Speech | POTUS Targets Trump Campaign Proposals",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

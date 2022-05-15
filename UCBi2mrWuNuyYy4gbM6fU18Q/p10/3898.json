@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z2wdMauoZxA",
-            "title": "Papal Conclave 2013 Recap: Jorge Mario Bergoglio New Pope",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "4-m7mTv1EYk",
             "title": "How to help Ukrainians",
             "secondDuration": 229,
@@ -61,8 +55,14 @@
             "title": "Ivanka Trump responds to personal email use questions, border crisis and her father",
             "secondDuration": 550,
             "group": "group_7"
+        },
+        {
+            "videoId": "lhKqNgHAvEw",
+            "title": "Fears for young Afghan women left behind",
+            "secondDuration": 417,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

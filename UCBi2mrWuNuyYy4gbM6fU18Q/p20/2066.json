@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "B5F094yu380",
-            "title": "Trump cancels press conference at G20 as Michael Cohen asks for leniency",
-            "secondDuration": 427,
-            "group": "group_7"
-        },
-        {
             "videoId": "M9kloN2LtuU",
             "title": "George Zimmerman Verdict: The Night Trayvon Martin Died - What Took Place?",
             "secondDuration": 551,
@@ -121,8 +115,14 @@
             "title": "Secrets to Dwayne Johnson’s Rock-Hard Abs | ABC World News Tonight | ABC News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "g0CNpZavml8",
+            "title": "Epic Beatbox Battle Goes Viral",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

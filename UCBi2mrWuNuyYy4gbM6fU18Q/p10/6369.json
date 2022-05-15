@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fOC-Ml8yNAs",
-            "title": "A Black Capitol Police officer’s story of the Jan. 6 riot",
-            "secondDuration": 576,
-            "group": "group_7"
-        },
-        {
             "videoId": "qmAgh_jomKY",
             "title": "'The Lion King': Making of the Highest-Grossing Musical",
             "secondDuration": 389,
@@ -61,8 +55,14 @@
             "title": "Barbara Walters to Retire",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "rB-4-QV17Tc",
+            "title": "Country Singer Mindy McCready Dead at Age 37",
+            "secondDuration": 39,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

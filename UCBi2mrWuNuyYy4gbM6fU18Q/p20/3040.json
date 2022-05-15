@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "H7jA_gyRidI",
-            "title": "Former New York City mayor files to run in Alabama's presidential primary",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "uGDpFb0fwU8",
             "title": "Over 2 dozen tornadoes touch down in Southeast l GMA",
             "secondDuration": 163,
@@ -121,8 +115,14 @@
             "title": "Major tech companies opting out of world largest tech conference in 2022",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "EXBuqaEgoPY",
+            "title": "Oops! Mariah Carey's On-Air Trip",
+            "secondDuration": 26,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

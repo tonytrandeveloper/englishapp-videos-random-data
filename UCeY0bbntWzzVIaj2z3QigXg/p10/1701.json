@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Gb_5w-Iz12w",
-            "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3442,
-            "group": "group_7"
-        },
-        {
             "videoId": "2l6cKBf70pI",
             "title": "Live: Trump Holds Roundtable on Storm Preparedness, COVID-19 Response | NBC News",
             "secondDuration": 2238,
@@ -61,8 +55,14 @@
             "title": "World Leaders React To Rioters Storming Congress | NBC Nightly News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "UeVESIoAroA",
+            "title": "Millions Under Flood Watch On East Coast | NBC Nightly News",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "90I4PNOuHw0",
-            "title": "Chicago mayor pleads with residents amid gun violence",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "2CM_T4wuMRo",
             "title": "Professor To President: Cycling Through the University of Chicago Law School",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "FOILED TERROR PLOT: Man Arrested in Connection to Planned Capitol Attack",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "FbUIxbOHj4Y",
+            "title": "Israel Braces for Potential Attack From Iran",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mg2mBIOqkTY",
-            "title": "Deadly twin bomb attacks in Syria kill at least 40 people",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "iVaN2fb0clU",
             "title": "Tamera Mowry on Real Biz with Rebecca Jarvis",
             "secondDuration": 882,
@@ -121,8 +115,14 @@
             "title": "Coronavirus crisis around the nation",
             "secondDuration": 410,
             "group": "group_7"
+        },
+        {
+            "videoId": "fl1d4CvIxq8",
+            "title": "Florida school shooting: Details emerge in timeline, what we know about suspect | ABC News",
+            "secondDuration": 539,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

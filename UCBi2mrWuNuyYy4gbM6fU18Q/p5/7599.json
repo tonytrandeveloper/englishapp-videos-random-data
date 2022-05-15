@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3JtAiWUlFmQ",
-            "title": "'This Week' Roundtable: Second Term Slump",
-            "secondDuration": 697,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z6rNYPkh-Ss",
             "title": "Trump scolds NATO member nations",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "US Student Killed in Italy",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "flOEnsJN12w",
+            "title": "Joe Heck: 'I Don't Think He Made The Case'",
+            "secondDuration": 658,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

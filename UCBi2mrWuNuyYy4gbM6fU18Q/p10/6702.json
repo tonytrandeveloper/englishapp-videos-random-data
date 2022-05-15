@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zkb89w20t6c",
-            "title": "There was a fire at Europe's largest nuclear power plant caused by the Russian forces | ABC News",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "yQrPcU_e7tE",
             "title": "Hillary Clinton Slams Trump's Trip to Mexico",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Why Did Adam Lanza Snap?",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "OzoXLAUCNjo",
+            "title": "Sen. Bernie Sanders on the inauguration",
+            "secondDuration": 293,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-kiT122KG5Q",
-            "title": "Fauci: New Treatment Plan Will Help Prepare Against Future Pandemics",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "ceyNfPiSjMA",
             "title": "As Christmas Nears, Fauci Warns Against Holiday Travel | NBC Nightly News",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "Officials Investigating After Adults Hospitalized With Lung Damage From Vaping | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "JjB1PKVyGNw",
+            "title": "FDA Cracking Down On Inaccurate Coronavirus Antibody Tests | NBC Nightly News",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

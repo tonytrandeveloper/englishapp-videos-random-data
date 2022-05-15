@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8XddJ-c9vwE",
-            "title": "Trump Administration Announces New Restrictions To Stem Coronavirus Spread | NBC Nightly News",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hi6W-hZyiNc",
             "title": "Cuomo Reveals Finalists For Public Service Announcement Contest On Mask Wearing | NBC News NOW",
             "secondDuration": 192,
@@ -61,8 +55,14 @@
             "title": "Watch Pete Buttigieg’s Full Speech After Quitting 2020 Race | NBC News",
             "secondDuration": 1020,
             "group": "group_7"
+        },
+        {
+            "videoId": "9bvMZrL0mok",
+            "title": "Anti-Vaccine Groups Use Code Words, Change To 'Dance Parties' To Hide from Facebook",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

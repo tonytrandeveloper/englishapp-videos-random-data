@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FDe6RwitlAw",
-            "title": "US astronaut coming home",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "0kZ52EHeJB4",
             "title": "Back to School: Mom Dances in 'Celebration' at Kids' Bus-Stop",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "Pope Francis Visits Bethlehem",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "Pe5_xrHFEE8",
+            "title": "Victim Gunned Downed in Loveland, Colorado",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

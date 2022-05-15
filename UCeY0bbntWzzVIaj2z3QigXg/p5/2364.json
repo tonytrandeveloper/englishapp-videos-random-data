@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FgHQEvCFJ8U",
-            "title": "President Carter Looked Us in the Eye Today and Smiled | NBC Nightly News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "qWaYuCKhDaY",
             "title": "Pennsylvania Voters Talk Fracking, Green New Deal After VP Debate | NBC News NOW",
             "secondDuration": 233,
@@ -31,8 +25,14 @@
             "title": "Bail 'Disrupters' To The Rescue | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "i6TIRpMWUp4",
+            "title": "Watch live: Theresa May gives statement before Boris Johnson becomes U.K. prime minister",
+            "secondDuration": 2498,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oanmD3HHv4M",
-            "title": "Nov. 10, 1989: A Crack in the Berlin Wall",
-            "secondDuration": 241,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uy2NJkBxSAM",
             "title": "Benghazi Committee Final Report",
             "secondDuration": 228,
@@ -31,8 +25,14 @@
             "title": "Florida and Iowa projected to be won by Trump",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "2R5Kx_3XPs8",
+            "title": "Congressman Brings Mosquitoes to House Floor for Zika Speech",
+            "secondDuration": 241,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

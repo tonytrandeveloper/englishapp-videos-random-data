@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Hbh6-sska08",
-            "title": "SpaceX Sends 4 Astronauts Into Space In Reused Rocket | NBC News NOW",
-            "secondDuration": 333,
-            "group": "group_7"
-        },
-        {
             "videoId": "pQFotIUg5MA",
             "title": "Donald Trump Delivers Statement Amid George Floyd Protests | NBC News",
             "secondDuration": 440,
@@ -61,8 +55,14 @@
             "title": "Senator Mitch Mcconnell: Senate Will Vote On Brett Kavanaugh 'This Week' | NBC News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "uZNJ566l2K0",
+            "title": "Activist Who Marched With MLK On Decades Fighting For Civil Rights | NBC News NOW",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

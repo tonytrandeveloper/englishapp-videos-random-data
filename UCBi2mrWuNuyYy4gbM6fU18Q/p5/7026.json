@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B8-mTtoKkZk",
-            "title": "Trump breaks silence on anniversary of protests in Charlottesville",
-            "secondDuration": 276,
-            "group": "group_7"
-        },
-        {
             "videoId": "m5VkG-dMPQ8",
             "title": "Alcohol vs. Marijuana",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Black Friday doorbuster deals create chaos in stores",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "wk6KiKZqKLA",
+            "title": "Rep. Sheila Jackson Lee speaks on inauguration",
+            "secondDuration": 422,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

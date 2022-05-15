@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "07WFnsag0Yg",
-            "title": "3.9 million acres burned in California wildfires",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "8NbndGaDfUY",
             "title": "10 killed in supermarket shooting in Boulder, Colorado | WNT",
             "secondDuration": 498,
@@ -121,8 +115,14 @@
             "title": "Plane Crashes Into Car on California Highway",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "tkknpYM8Dco",
+            "title": "WEBCAST: Ice Fall On Tape",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

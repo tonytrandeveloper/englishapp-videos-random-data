@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2k4pZ_gFK3o",
-            "title": "Robin Hood 'Lemon-Aid' Stand opened by Lara Spencer",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "-_zaKRuL79c",
             "title": "Congress Members Join John Lewis in Boycott of Trump's Inauguration",
             "secondDuration": 207,
@@ -61,8 +55,14 @@
             "title": "Minneapolis police identify man from violent George Floyd protests | WNT",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "ztqWbLOISww",
+            "title": "The Debrief: North Korea launch, Sandra Bland video, Invictus games | ABC News",
+            "secondDuration": 1780,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

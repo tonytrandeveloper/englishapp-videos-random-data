@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZoruwCS3zLk",
-            "title": "'Pharma bro' jury selection enters 3rd day",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "3Bmk2L2cZO4",
             "title": "Trump argues national security 'crisis' at US southern border",
             "secondDuration": 573,
@@ -61,8 +55,14 @@
             "title": "Video shows police responding to an active shooter in a grocery store in Kentucky | ABC News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ul5Ad1q43mE",
+            "title": "Five Dead in Oklahoma Tornadoes",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

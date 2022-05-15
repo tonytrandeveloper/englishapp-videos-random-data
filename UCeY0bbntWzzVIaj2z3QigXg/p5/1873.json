@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mcZS6zmDKnM",
-            "title": "Kalamazoo Shooting Suspect Dragged Out After Outburst | NBC News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "puB3Vtx6TdU",
             "title": "President Trump Tweets He’ll Be Announcing ‘Decision On Iran Deal’ On Tuesday | NBC Nightly News",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "General James Mattis Stresses ‘Very, Very High Degree Of Confidence’ In Intel Community | NBC News",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "H4xDKDD2tTA",
+            "title": "International Women’s Day Draws Big Crowds Worldwide | NBC News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "E9ehq_0SgFc",
-            "title": "NJ Gov. Phil Murphy Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2698,
-            "group": "group_7"
-        },
-        {
             "videoId": "HulmPiWLIrU",
             "title": "U.S. Economy Adds 678K Jobs In February, Unemployment Down To 3.8 Percent",
             "secondDuration": 227,
@@ -121,8 +115,14 @@
             "title": "Ohio State Football Coach Urban Meyer Suspended For 3 Games | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sd2x1PQ64UY",
+            "title": "Biden's Secretary Of State Nominee Antony Blinken Delivers Remarks | NBC News",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

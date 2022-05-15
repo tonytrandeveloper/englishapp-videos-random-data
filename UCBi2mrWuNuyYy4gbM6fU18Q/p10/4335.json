@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NU_nrCAw8mc",
-            "title": "Senator: Coal Boss Has 'Blood on His Hands' in Mining Disaster",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "isXOBAOa6SA",
             "title": "Trump makes last-minute push for embattled Republican in Mississippi",
             "secondDuration": 177,
@@ -61,8 +55,14 @@
             "title": "'Dancing With the Stars' Results: Chris Jericho Booted (2011)",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "VOZtn_DjGhM",
+            "title": "Icy roads caused 2 major pileups in Texas",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

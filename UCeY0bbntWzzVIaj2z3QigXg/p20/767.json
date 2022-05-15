@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qOJiyCLFZfI",
-            "title": "Veterans Are Being Deported By ICE | NBC News Now",
-            "secondDuration": 249,
-            "group": "group_7"
-        },
-        {
             "videoId": "1j49eAY6X68",
             "title": "Bail Set At $2 Million For Washington State Mall Shooter | NBC News",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "Examining The Biggest 2020 Headlines Around The World | NBC News NOW",
             "secondDuration": 580,
             "group": "group_7"
+        },
+        {
+            "videoId": "nWFYvUENcas",
+            "title": "This Morning’s Top Headlines – Jan. 4 | Morning News NOW",
+            "secondDuration": 1531,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

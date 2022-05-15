@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XvNMCxxqk5A",
-            "title": "Donald Trump Doesn't Write Out His Own Tweets | Short Take | NBC News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "dIrchZhSLZY",
             "title": "Lester Visits Houston Home Of A Tex-Mex Obsession | NBC Nightly News",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Italian Ikea Opens Up Its Doors For Stray Dogs | NBC Nightly News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "L2T6e_G9tOo",
+            "title": "Death From 9/11-Related Illnesses On The Rise | NBC Nightly News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

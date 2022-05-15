@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DsgBepXWvFc",
-            "title": "Bill Clinton, The Economy Revitalizer | NBC News",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "-nkVl3pdxQg",
             "title": "Obama Campaigns For Biden In Philadelphia | NBC News",
             "secondDuration": 2221,
@@ -121,8 +115,14 @@
             "title": "Remembering Those We Lost: Colin Powell, Bob Dole, Bell Hooks And Others",
             "secondDuration": 245,
             "group": "group_7"
+        },
+        {
+            "videoId": "Iaya6EvI3E8",
+            "title": "Georgia Governor Kemp Holds Coronavirus Town Hall | NBC News",
+            "secondDuration": 3476,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

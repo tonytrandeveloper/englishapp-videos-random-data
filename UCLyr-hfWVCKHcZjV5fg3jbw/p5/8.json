@@ -3,18 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2rmRzAdLgWk",
-            "title": "ENGLISH SPEECH | SAI PALLAVI: The Best of Sai Pallavi (English Subtitles)",
-            "secondDuration": 596,
-            "group": "group_1"
-        },
-        {
-            "videoId": "9MLd7kt2lKQ",
-            "title": "ENGLISH SPEECH | DAVID BECKHAM: It's Not Just a Game (English Subtitles)",
-            "secondDuration": 2681,
-            "group": "group_1"
-        },
-        {
             "videoId": "jG-4kBIDAzA",
             "title": "ENGLISH SPEECH | SELENA GOMEZ: Trust Yourself (English Subtitles)",
             "secondDuration": 456,
@@ -31,8 +19,20 @@
             "title": "ENGLISH SPEECH | PRIYANKA CHOPRA: Be Fearless (English Subtitles)",
             "secondDuration": 1081,
             "group": "group_1"
+        },
+        {
+            "videoId": "t6P_BxhGINk",
+            "title": "ENGLISH SPEECH | PHARRELL WILLIAMS: Don’t Be Invisible (English Subtitles)",
+            "secondDuration": 653,
+            "group": "group_1"
+        },
+        {
+            "videoId": "iStBvF0ALUc",
+            "title": "ENGLISH SPEECH | RONALD REAGAN: Tear Down This Wall! (English Subtitles)",
+            "secondDuration": 1548,
+            "group": "group_1"
         }
     ],
-    "nbPages": 35,
-    "nbResults": 172
+    "nbPages": 34,
+    "nbResults": 168
 }

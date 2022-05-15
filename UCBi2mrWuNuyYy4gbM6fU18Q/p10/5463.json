@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G4i51LXIbpQ",
-            "title": "“Dancing With The Stars” Recap",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "JtHQGYrLAIo",
             "title": "40 percent hospitalized with COVID-19 are under age 54",
             "secondDuration": 336,
@@ -61,8 +55,14 @@
             "title": "Tea Party Candidate Talks About Political Rhetoric",
             "secondDuration": 346,
             "group": "group_7"
+        },
+        {
+            "videoId": "X1EnHhaHsIU",
+            "title": "Clemson Graduate Stuck in Iran, Barred From Entering the US",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

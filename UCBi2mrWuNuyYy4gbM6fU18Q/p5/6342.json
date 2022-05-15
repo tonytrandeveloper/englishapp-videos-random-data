@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "N-N_KeowCaQ",
-            "title": "Former Lehigh University student allegedly poisoned black roommate",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "UT0S5uloF_A",
             "title": "Delivering surprises!",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "Amazon raises price for Prime yearly subscription",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "kEwoVbdcPjM",
+            "title": "Streets of Tel Aviv empty as death toll grows from conflict in Israel",
+            "secondDuration": 521,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "h1Gg3kOoG1U",
-            "title": "Blue Box Blunder: Tiffany Takes Costco to Court Over Ring Roundup",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "0FCCszlsMWs",
             "title": "Craze Sports Supplement Reportedly Contains Meth-Like Compound",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "ABC News Live: Latest on Russia’s invasion of Ukraine",
             "secondDuration": 1571,
             "group": "group_7"
+        },
+        {
+            "videoId": "PLNLxlmG7_k",
+            "title": "NYC Mayor Bill de Blasio announces increased production of coronavirus test kits",
+            "secondDuration": 538,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

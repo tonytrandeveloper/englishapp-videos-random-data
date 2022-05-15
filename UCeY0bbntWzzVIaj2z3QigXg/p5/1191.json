@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8FukmujpQ1w",
-            "title": "House GOP Leaders Hold Press Conference | NBC News",
-            "secondDuration": 2054,
-            "group": "group_7"
-        },
-        {
             "videoId": "jfIDh2yGn_g",
             "title": "Hasan Minhaj Calls Out Congress Over Student Loans: ‘You Paid Far Less For Your Degrees’ | NBC News",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "Michael Cohen Says President Donald Trump 'Is A Racist, A Con Man, And A Cheat' | NBC News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "zNNZbtsR194",
+            "title": "U.S. Surge Sees 50,000 New Daily Covid-19 Cases | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

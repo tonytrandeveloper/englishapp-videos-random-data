@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JXT6JbZp2Vo",
-            "title": "Sen. Bernie Sanders responds to President Trump's 2020 re-election rally | ABC News",
-            "secondDuration": 635,
-            "group": "group_7"
-        },
-        {
             "videoId": "LlqsFZMke_0",
             "title": "London Zoo Adorably Weighs All of Its Animals in Annual Event",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Two people in custody in connection with Barcelona attack",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "zZErt_NmoXY",
+            "title": "Ground Zero for Swine Flu",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

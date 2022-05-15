@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "U2ZR-QSVeW8",
-            "title": "100520_ann_tl_two.mp4",
-            "secondDuration": 276,
-            "group": "group_7"
-        },
-        {
             "videoId": "9eboryC6IvM",
             "title": "Alexandria, Va. Police Hunt for Possible Serial Killer Near Washington, D.C.",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Our New Reality | Diane Sawyer Special | PART 1",
             "secondDuration": 730,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wwjw0I4vM5A",
+            "title": "Suspects held without bond in brutal murder of pregnant 19-year-old",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

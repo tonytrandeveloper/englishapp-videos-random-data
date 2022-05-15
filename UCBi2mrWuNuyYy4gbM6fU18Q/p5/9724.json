@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NVqZrB2w2kA",
-            "title": "Tour of New Flickr Site",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "ALe42R8z89g",
             "title": "Rose Wine, 'It's a Lifestyle'  | ABC News",
             "secondDuration": 412,
@@ -31,8 +25,14 @@
             "title": "Milestones celebrated across US despite pandemic | WNT",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "jqcWxLg4L-0",
+            "title": "ABC News Live Update: Dr. Anthony Fauci receives Moderna’s COVID-19 vaccine",
+            "secondDuration": 825,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

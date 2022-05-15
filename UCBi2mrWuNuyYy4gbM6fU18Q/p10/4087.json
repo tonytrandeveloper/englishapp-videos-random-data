@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D5dnLyfYNyY",
-            "title": "Democratic congressman on supporting Trump",
-            "secondDuration": 465,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z_nRkK27oLk",
             "title": "New video of Philadelphia shootout shows how suspect ambushed police",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "LA Dodgers player hits home run, surprises fan with nachos | WNT",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "WB0n7PB7rBc",
+            "title": "The latest in San Diego synagogue shooting investigation",
+            "secondDuration": 525,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

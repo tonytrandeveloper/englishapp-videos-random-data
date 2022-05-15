@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2tQ0bsaoOEs",
-            "title": "Trump Under Fire for African-American Comments",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "FuUqX93qbDo",
             "title": "Casey Anthony Video Diary: Lawyers Blast Release of Tape, Says Tape Was for Personal Use",
             "secondDuration": 199,
@@ -31,8 +25,14 @@
             "title": "How will Americans spend new pandemic relief checks?",
             "secondDuration": 309,
             "group": "group_7"
+        },
+        {
+            "videoId": "HKfd3by2KLM",
+            "title": "CDC recommends opting for Pfizer or Moderna over J&J when there's a choice | ABC News",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

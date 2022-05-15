@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DRbtcs2EjIY",
-            "title": "Inside A San Diego Detention Center Where Children Live In Limbo | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "cax7x3iAOHM",
             "title": "Senate Probing New Allegation Of Misconduct Against Brett Kavanaugh | NBC Nightly News",
             "secondDuration": 63,
@@ -31,8 +25,14 @@
             "title": "Podcasts Go Primetime As Hollywood Looks To Turn Listeners Into Viewers | NBC Nightly News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "QCGGVchS1w0",
+            "title": "Covid May Cause Long-Term Heart Complications In Patients",
+            "secondDuration": 204,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UG_6WOIGa30",
-            "title": "Katy Perry Takes on Hollywood",
-            "secondDuration": 243,
-            "group": "group_7"
-        },
-        {
             "videoId": "W0VVJ4yg-oI",
             "title": "Road Rage Incident Caught on Video in South Florida",
             "secondDuration": 64,
@@ -31,8 +25,14 @@
             "title": "Renoir Painting Bought at Virginia Garage Sale Sparks Legal Battle With Baltimore Museum",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kju4CYIFKcM",
+            "title": "ISIS Claims Responsibility for Church Attack in France",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

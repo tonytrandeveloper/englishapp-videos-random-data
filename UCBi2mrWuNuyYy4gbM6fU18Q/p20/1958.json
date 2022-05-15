@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8INVU_dJM4k",
-            "title": "Deadly Shooting in Israel | ABC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "N7HPNXPemq8",
             "title": "Finding Kelsie l 20/20 l PART 5",
             "secondDuration": 417,
@@ -121,8 +115,14 @@
             "title": "Will senators vote to acquit President Trump?",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "Pduc3sZO5Lo",
+            "title": "Jackie Evancho on Trump Inauguration Performance Backlash",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

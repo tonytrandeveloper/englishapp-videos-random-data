@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lBO4eUMpWyg",
-            "title": "Amplified: Girl Talk",
-            "secondDuration": 796,
-            "group": "group_7"
-        },
-        {
             "videoId": "KRNgKwmufK0",
             "title": "Feed Frenzy: Touching Reunions",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Beverly Hills Realtor charged in celebrity burglaries | ABC News",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "48RNhSnwHJc",
+            "title": "Amanda Knox Found Guilty on All Charges",
+            "secondDuration": 429,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

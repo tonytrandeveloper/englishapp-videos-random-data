@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1DZFoTakeQk",
-            "title": "Revelations and fallout from Day 1 of impeachment hearings l ABC News",
-            "secondDuration": 318,
-            "group": "group_7"
-        },
-        {
             "videoId": "OgahKdaYie8",
             "title": "'Love, Victor' stars and EP offer insights on the new series | PRIDE",
             "secondDuration": 376,
@@ -31,8 +25,14 @@
             "title": "Actor Jussie Smollett found guilty of filing false police report",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "4lOGIkNITMg",
+            "title": "Billy Ray Cyrus Performs 'Amazing Grace'",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

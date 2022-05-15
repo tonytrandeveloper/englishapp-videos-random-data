@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wi9TVPA6k2s",
-            "title": "Live: New York Governor Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3368,
-            "group": "group_7"
-        },
-        {
             "videoId": "4A7I7-6snCs",
             "title": "Suspect Rene Boucher Attack On Senator Rand Paul Makes Court Appearance | NBC News",
             "secondDuration": 58,
@@ -61,8 +55,14 @@
             "title": "North Korean President Issues Warning To U.S. During Workers' Party Speech | NBC News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "tFBxRtMMDYw",
+            "title": "What To Expect From President Donald Trump’s Prime Time Address | NBC Nightly News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

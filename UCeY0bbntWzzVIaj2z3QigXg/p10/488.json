@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E4kfOHX4FeA",
-            "title": "K-Pop: Inside The Korean Music Craze | NBC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "O6UjNshYmB0",
             "title": "Paul Manafort Headed To Jail, But Will President Donald Trump Pardon Him? | NBC News",
             "secondDuration": 187,
@@ -61,8 +55,14 @@
             "title": "Democratic Presidential Debate - June 26 (Full) | NBC News",
             "secondDuration": 9360,
             "group": "group_7"
+        },
+        {
+            "videoId": "oNpSF6wW4Ag",
+            "title": "Pfizer Says Its Covid Pill Reduces Risk of Hospitalization, Death",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

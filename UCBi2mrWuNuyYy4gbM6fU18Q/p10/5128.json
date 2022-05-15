@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "M2VdATAVDZI",
-            "title": "Deep freeze extends from Midwest to East Coast",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "uRgjTZdQU3c",
             "title": "'10% Happier with Dan Harris' and Actress, Singer Margot Bingham",
             "secondDuration": 2938,
@@ -61,8 +55,14 @@
             "title": "In Case You Missed It: 5/23/2014",
             "secondDuration": 356,
             "group": "group_7"
+        },
+        {
+            "videoId": "5sAImDmrtCI",
+            "title": "Hurricane Isaac Makes Landfall",
+            "secondDuration": 399,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

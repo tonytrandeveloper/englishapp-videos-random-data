@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AViQZZvRcZs",
-            "title": "Peloton Backlash: What The Holiday Outrage Says About American Society | Think | NBC News",
-            "secondDuration": 243,
-            "group": "group_7"
-        },
-        {
             "videoId": "SI33Q7N3zkI",
             "title": "Hillary Clinton To Trump Administration: America Cannot Close Doors To Syrian Babies | NBC News",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Campaigns For South Carolina Gov. Henry McMaster | NBC News",
             "secondDuration": 7453,
             "group": "group_7"
+        },
+        {
+            "videoId": "oYOiQSqW6YI",
+            "title": "London Anti-Vaccine Protesters Occupy Media Building",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

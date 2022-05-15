@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oNaPS0PaBHY",
-            "title": "Senate Votes To Advance Bipartisan Infrastructure Bill",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "RQ2igTcJrlA",
             "title": "Trump Holds First In-Person Event Since Coronavirus Diagnosis | NBC News",
             "secondDuration": 1240,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump’s Toilet Rant Explained | NBC News NOW",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "BujkiKERnCk",
+            "title": "White House: Biden 'Eager' To Reach Deal On Spending Bill",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

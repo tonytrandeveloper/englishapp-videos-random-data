@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PLYy86lC6gA",
-            "title": "Sen. Menendez and Rep. Royce 'This Week' Interview",
-            "secondDuration": 358,
-            "group": "group_7"
-        },
-        {
             "videoId": "cdbxhj2ssQA",
             "title": "Muhammad Ali Interview with Barbara Walters [1978]",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "Apple Releases Steve Jobs Memorial; Biography Reveals New Insight on Former CEO",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "MHh-dO9Ij_k",
+            "title": "William Shatner Sued in Paternity Case",
+            "secondDuration": 266,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KW1L-KiIAD4",
-            "title": "Andrea Nappi: For student success it takes...\"",
-            "secondDuration": 12,
-            "group": "group_7"
-        },
-        {
             "videoId": "A1nTmNwaPP0",
             "title": "UK Authorities Charge Two With Using Nerve Agent To Poison Former Russian Spy | NBC Nightly News",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Wildfires Sweep Across The West | NBC Nightly News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "XK6sHEsYhEg",
+            "title": "Milwaukee's Key Role In Election As DNC Goes Virtual | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

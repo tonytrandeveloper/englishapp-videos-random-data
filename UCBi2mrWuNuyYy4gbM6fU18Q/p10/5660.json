@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vYBNCeiLr94",
-            "title": "Isaias moving fast up the east coast",
-            "secondDuration": 327,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wk6jf7Gn57A",
             "title": "Isaac: Tracking the Storm",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Speculation surrounds Matthew McConaughey possibly running for Texas governor",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "WsdrbWGQbAw",
+            "title": "Jobs Report: Is Anyone Hiring?",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

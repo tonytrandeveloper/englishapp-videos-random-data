@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Dr3mqui7imw",
-            "title": "Alton Sterling Family Unhappy With DOJ Decision | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "7zSgruNR0d8",
             "title": "Meet The Press Broadcast (Full) - January 10th, 2021 | Meet The Press | NBC News",
             "secondDuration": 2852,
@@ -31,8 +25,14 @@
             "title": "Chuck Schumer: Trump Will Cause 'An ISIS Jailbreak' By Withdrawing Troops From Syria | NBC News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "mdZY2XPIXdM",
+            "title": "Watch live: Pence holds press conference with coronavirus task force",
+            "secondDuration": 5229,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

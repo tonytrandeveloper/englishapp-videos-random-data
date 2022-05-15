@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ookjWP7jcjE",
-            "title": "The Conversation: Netroots Nation Flexes Muscles",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "gpIDqqg4dxA",
             "title": "Michigan Shooting Spree | 6 Killed",
             "secondDuration": 295,
@@ -61,8 +55,14 @@
             "title": "The Debrief: Dangerous weather, attempted mass shooters thwarted, Hong Kong protests | ABC News",
             "secondDuration": 2465,
             "group": "group_7"
+        },
+        {
+            "videoId": "fBdyVzJ67kU",
+            "title": "ABC News Prime: WH briefings following backlash, Boris Johnson returns to work, treatment updates",
+            "secondDuration": 3613,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

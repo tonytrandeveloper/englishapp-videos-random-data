@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "C_95XCrvz3s",
-            "title": "Twister Tears Through Mississippi",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "4zZFGb22GUw",
             "title": "FBI returns to search home of Brian Laundrie | WNT",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Before the spa shootings, a history of stereotypes that perpetuated anti-Asian bias | Nightline",
             "secondDuration": 511,
             "group": "group_7"
+        },
+        {
+            "videoId": "ueQFNOlK_BE",
+            "title": "NFL Stars Visit Children's Hospital in Halloween Costumes",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

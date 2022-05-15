@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iIiw_WBfmPI",
-            "title": "Nightly News Full Broadcast - October 20th",
-            "secondDuration": 1286,
-            "group": "group_7"
-        },
-        {
             "videoId": "_uBZetRxygY",
             "title": "Inside The Rise Of Qanon-Affiliated Candidates For Congress | NBC News NOW",
             "secondDuration": 397,
@@ -31,8 +25,14 @@
             "title": "Prince Harry Suggests Covid May Be Nature's Rebuke | NBC News NOW",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "wric4Hmlrr4",
+            "title": "Trump and Coronavirus Task Force Hold White House Briefing",
+            "secondDuration": 1326,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

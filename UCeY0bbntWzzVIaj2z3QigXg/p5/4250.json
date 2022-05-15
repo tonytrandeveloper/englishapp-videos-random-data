@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U2ZAxGeL4Ug",
-            "title": "Watch Live: Nancy Pelosi Holds Press Conference Before Impeachment Resolution vote | NBC News",
-            "secondDuration": 2468,
-            "group": "group_7"
-        },
-        {
             "videoId": "ReHqRisDcyY",
             "title": "Airline Ticket Prices Increase While More Flights Are Cut",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Makes Historic Visit To Western Wall | NBC News",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "R7Eel0B9uE8",
+            "title": "California Tour Bus Crash Kills More Than A Dozen | NBC Nightly News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

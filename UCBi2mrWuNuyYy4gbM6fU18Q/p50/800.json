@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "pAmtZaLVLBQ",
-            "title": "Interview with Tim Pawlenty",
-            "secondDuration": 381,
-            "group": "group_7"
-        },
-        {
             "videoId": "2u4_YEQ0AjQ",
             "title": "Woman Left For Dead In Trash Can Reveals Survival Story",
             "secondDuration": 75,
@@ -301,8 +295,14 @@
             "title": "National Burger Day",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "AWwezekzlXA",
+            "title": "Anthony Weiner Scandal: Body Language Similarities to Bill Clinton, Tiger Woods, Elliot Spitzer",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

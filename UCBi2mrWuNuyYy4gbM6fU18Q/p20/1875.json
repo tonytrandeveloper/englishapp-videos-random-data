@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "X8GM-TVtavA",
-            "title": "Tesla Model 3 Attracts Major Fanfare",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "WX-JZf-PhVM",
             "title": "Pope Francis to Meet With President Obama and Address Congress | David Muir Reporting",
             "secondDuration": 149,
@@ -121,8 +115,14 @@
             "title": "Inside the Texas church shooting suspect's troubled past",
             "secondDuration": 492,
             "group": "group_7"
+        },
+        {
+            "videoId": "IziKz73D7IU",
+            "title": "Arrest made in murder of jogger in Massachusetts",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

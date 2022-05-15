@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Vy2k2HeIFUA",
-            "title": "Minneapolis Official Sings 'Amazing Grace' In Emotional Tribute To George Floyd | NBC News NOW",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "MIEVM_xOhGg",
             "title": "Hillary Clinton: 'Always Have and Always Will' Take 'Classified' Emails Seriously | NBC News",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton: 'Donald Thinks Belittling Women Makes Him Bigger' | NBC News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "CLsvJC7j-iA",
+            "title": "Six Million Americans In Danger Of Eviction",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

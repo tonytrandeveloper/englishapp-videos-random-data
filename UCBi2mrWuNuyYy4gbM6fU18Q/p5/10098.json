@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hQL_K-L4F0k",
-            "title": "Ride Like The Wind",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "Eop8g3FOP8Q",
             "title": "US Security Heightened Following Brussels Terror Attacks",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Jet Stream Dip Brings Arctic Air",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "RuPX15LM5DI",
+            "title": "Hillary Clinton May Be Considering Run for NYC Mayor: Report",
+            "secondDuration": 317,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

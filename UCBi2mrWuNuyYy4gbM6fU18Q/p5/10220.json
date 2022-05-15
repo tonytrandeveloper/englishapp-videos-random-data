@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nd3TXmRQm18",
-            "title": "Sherlock The Beagle",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "FTki3AfH_iU",
             "title": "'GMA' Hot List: Robert Wagner and Teacher's 'Fight Song' Serenade",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "Sea Turtle Released in Florida",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "vcBI_OusRJ8",
+            "title": "Meet the Double Amputee Building the New Bionic Man",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

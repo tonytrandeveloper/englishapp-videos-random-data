@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i0BF4CUxCf8",
-            "title": "Orlando Police Chief: 'No One Can Prepare You for That Kind of Carnage'",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "2DGrF747vSI",
             "title": "Drone Video Captures Ecudaor Earthquake Aftermath",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Newtown, Conn. Sandy Hook Shooting Prompts President Obama Launches Gun-Violence Task Force",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "pVassWf8TFU",
+            "title": "Cirque du Soleil performance takes deadly turn",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

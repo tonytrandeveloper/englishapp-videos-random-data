@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "75NIWLi-fEg",
-            "title": "U.K. Airbus Plant Converted Into Coronavirus Ventilator Factory | NBC News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "JelSnQ_TJyE",
             "title": "North Korea Boasts Successful Missile Launch | NBC Nightly News",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "European Medicines Agency On AstraZeneca: ‘This Is A Safe And Effective Vaccine’ | NBC News NOW",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "zqw3GhavBEQ",
+            "title": "Firefighters Struggle To Contain Thomas Fire’s Monster-Blaze | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

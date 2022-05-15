@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4LkXb9UvCOk",
-            "title": "Cairo, Egypt, Protests: Christians Under Attack",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "r8jMqg-NkhY",
             "title": "Trump Adviser Jeff Sessions Says Campaign 'Is Not Over'",
             "secondDuration": 493,
@@ -121,8 +115,14 @@
             "title": "Inside lockdown at US Capitol",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rav9HLuIoqY",
+            "title": "'We can lay out the differences without hitting below the belt': Buttigieg on debate",
+            "secondDuration": 484,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZLjiHY3qMZc",
-            "title": "Watch live: President Trump makes announcement on E.U. trade",
-            "secondDuration": 2751,
-            "group": "group_7"
-        },
-        {
             "videoId": "aoGo8FX4DnY",
             "title": "President Donald Trump Mocks Sexual Assault Allegations Against Brett Kavanaugh | NBC News",
             "secondDuration": 245,
@@ -61,8 +55,14 @@
             "title": "North And South Korea Court Peace With Basketball Diplomacy In Pyongyang | NBC News",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "j7dsoHlaBmg",
+            "title": "A League Of Their Own: Playing \"Unorganized\" Basefull For Fun | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

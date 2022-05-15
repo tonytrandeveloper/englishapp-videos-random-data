@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CRgxzgYsW0E",
-            "title": "US employers added 327,000 jobs in February",
-            "secondDuration": 307,
-            "group": "group_7"
-        },
-        {
             "videoId": "drfElvLkrbc",
             "title": "Federal regulators look into possible defect in Tesla batteries | ABC News",
             "secondDuration": 166,
@@ -61,8 +55,14 @@
             "title": "Harry and Meghan’s bombshell interview rocks royal family",
             "secondDuration": 299,
             "group": "group_7"
+        },
+        {
+            "videoId": "3n0mI5VEvi4",
+            "title": "Olympics testing, Greece snow, Banksy art: World in Photos: Jan. 24",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

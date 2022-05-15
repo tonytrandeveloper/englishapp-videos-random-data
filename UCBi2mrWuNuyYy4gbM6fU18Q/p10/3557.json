@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gKzPX6Eu2Z4",
-            "title": "Violent brawl between teacher and student in California classroom",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "ULOCUPLCMhM",
             "title": "Suspect who confessed to Mollie Tibbetts' murder lied about employment",
             "secondDuration": 159,
@@ -61,8 +55,14 @@
             "title": "Moammar Gadhafi: Death of a Dictator",
             "secondDuration": 468,
             "group": "group_7"
+        },
+        {
+            "videoId": "lEtEmeYlGEg",
+            "title": "Cops search home in case of missing Utah student",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

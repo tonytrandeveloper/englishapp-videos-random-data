@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gXu5GDXIw-Q",
-            "title": "Presidential candidates clash in latest Democratic debate",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "-u4iVRzLG0Q",
             "title": "Record High Temperatures Across the US",
             "secondDuration": 57,
@@ -61,8 +55,14 @@
             "title": "Bill Nye the Science Guy Takes Final Dance on 'DWTS'",
             "secondDuration": 274,
             "group": "group_7"
+        },
+        {
+            "videoId": "kVg_8mwcDEo",
+            "title": "ABC News’ Powerhouse Politics roundtable breaks down 1st presidential debate",
+            "secondDuration": 545,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

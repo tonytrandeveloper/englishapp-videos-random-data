@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uHWUa9-tU-c",
-            "title": "Impeachment Trial: Watch LIVE Senate Impeachment trial of President Donald Trump day one",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "KGB9G3KsN7s",
             "title": "Republican National Convention: Reince Priebus Opens Hurricane-Shortened Convention",
             "secondDuration": 217,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Barnstorms Across Wisconsin",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "11cwAwroqY8",
+            "title": "Jason Collins Is First Openly Gay NBA Player After Brooklyn Nets Contract",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

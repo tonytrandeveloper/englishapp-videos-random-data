@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4q2R58gAjz8",
-            "title": "Trump warns North Korea threats 'will be met with fire and fury'",
-            "secondDuration": 284,
-            "group": "group_7"
-        },
-        {
             "videoId": "vT8-Cf45Uy4",
             "title": "FDA panel recommends Pfizer COVID-19 boosters for older Americans, not for all",
             "secondDuration": 372,
@@ -31,8 +25,14 @@
             "title": "Memorial Day | Presidents Honor the Fallen at Arlington National Cemetery",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "g_gXkfrnXb8",
+            "title": "Greece wildfires force thousands to evacuate",
+            "secondDuration": 293,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

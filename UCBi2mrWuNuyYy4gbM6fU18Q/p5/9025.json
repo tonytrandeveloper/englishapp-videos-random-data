@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QlPPBt85a7g",
-            "title": "Ring device in family’s bedroom hacked by stranger",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "XSeSr7VjHwM",
             "title": "Trump announces new sanctions against Iran, its supreme leader",
             "secondDuration": 151,
@@ -31,8 +25,14 @@
             "title": "Calls to investigate Wuhan lab grow in search for answers on COVID-19 origins",
             "secondDuration": 598,
             "group": "group_7"
+        },
+        {
+            "videoId": "T14f3odOIlo",
+            "title": "Obama 'Going to Get to the Bottom' of Shooting",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

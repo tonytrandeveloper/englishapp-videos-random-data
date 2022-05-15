@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BE6YP23CWHg",
-            "title": "Biden Delivers Remarks In Las Vegas | NBC News",
-            "secondDuration": 1739,
-            "group": "group_7"
-        },
-        {
             "videoId": "JQZd94xhUmI",
             "title": "Nearly 2,000 Flights Cancelled After Bomb Cyclone Blizzard | NBC Nightly News",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "You Need An Emergency Fund For Life's Unexpected Expenses | Better | NBC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "9KHe_b8amSs",
+            "title": "Nightly News: Kids Edition (April 21, 2020) | NBC Nightly News",
+            "secondDuration": 544,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

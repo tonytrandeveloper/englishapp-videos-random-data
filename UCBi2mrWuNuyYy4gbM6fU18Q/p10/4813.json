@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-CoSk1A8MNg",
-            "title": "Tom Friedman on Syria: 'Where's Trump's Twitter feed when we need it?'",
-            "secondDuration": 297,
-            "group": "group_7"
-        },
-        {
             "videoId": "h-bIrxthHb0",
             "title": "Cats Listen to Cat Music at a Cat Cafe",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Colorado Shooting: Police Look for Link Between Slaying and Serial Shooter",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "g4whTReasvs",
+            "title": "'This Week': Powerhouse Roundtable I",
+            "secondDuration": 532,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

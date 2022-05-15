@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3bqaWp61O8s",
-            "title": "Instant Index: James Gandolfini Laid to Rest",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "HmDKB0tMC-g",
             "title": "COVID-19 outbreak tracked to church event l GMA",
             "secondDuration": 244,
@@ -31,8 +25,14 @@
             "title": "Famed scientist searching for Amelia Earhart wreckage l ABC News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "kSkYOq6k9xM",
+            "title": "The Rundown: Top headlines today: Nov. 9, 2020",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

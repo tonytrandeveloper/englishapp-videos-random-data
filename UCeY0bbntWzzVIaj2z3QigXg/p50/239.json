@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "q8YXZlAS-c0",
-            "title": "Man Wearing 'MAGA' Hat Accused Of Attacking Media At Donald Trump's El Paso Rally. | NBC News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "9SGGLBbt3q4",
             "title": "World’s Longest Sea-Crossing Bridge Opens In Southern China | NBC News",
             "secondDuration": 85,
@@ -301,8 +295,14 @@
             "title": "Biden Addresses Intelligence Community Workforce And Leadership | NBC News",
             "secondDuration": 1964,
             "group": "group_7"
+        },
+        {
+            "videoId": "Lif4DzRkJQM",
+            "title": "Biden Delivers Remarks To Commemorate 100th Anniversary Of Tulsa Race Massacre",
+            "secondDuration": 2671,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

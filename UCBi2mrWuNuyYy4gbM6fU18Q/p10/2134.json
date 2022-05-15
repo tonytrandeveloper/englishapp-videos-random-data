@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pvFS7ctsGBU",
-            "title": "A Football Fan’s Masterpiece",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "WrMgDIF1S7M",
             "title": "Clinton Email Investigation: FBI's Handling Under Review",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Ukrainian farmers fear Russian attacks",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "behqs0ta-Aw",
+            "title": "FBI joins NYPD for subway shooting probe",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

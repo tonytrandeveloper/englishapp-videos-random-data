@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GDJvdmZSnsQ",
-            "title": "How 3D Printers Could Be Used To Solve The U.S. Housing Crisis",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "WI97xf5p5J8",
             "title": "States Hard Hit By COVID-19 Shortchanged In Federal Hospital Aid | NBC News NOW",
             "secondDuration": 304,
@@ -31,8 +25,14 @@
             "title": "First Lady Melania Trump Visits Children's Hospital During Official Visit To Paris | NBC News",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "L4x0R-LKDWI",
+            "title": "Oct. 7, 2016: The Wildest Day In The Wildest Race | Meet the Press Reports | NBC News",
+            "secondDuration": 1637,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

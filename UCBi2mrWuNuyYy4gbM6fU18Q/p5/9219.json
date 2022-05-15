@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "P1OCCjiyGC0",
-            "title": "Hillary Clinton Mocks Donald Trump in Debate",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "aBX5yZqepq0",
             "title": "At Least 1 American Killed in Paris Terror Attacks",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Newsweek Reporter Kurt Eichenwald on Twitter Seizure Claim",
             "secondDuration": 388,
             "group": "group_7"
+        },
+        {
+            "videoId": "2yFAhuE_Qyk",
+            "title": "Officer dragged during a traffic stop in Brooklyn",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

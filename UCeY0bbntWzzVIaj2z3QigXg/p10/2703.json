@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zDD_o8-kMbg",
-            "title": "Life Stories: USC Student Body President Rini Sampath | NBC Asian America",
-            "secondDuration": 371,
-            "group": "group_7"
-        },
-        {
             "videoId": "VazX5ORV6FQ",
             "title": "New Hampshire’s $487 Million Powerball Winner To Donate To Charities | NBC News",
             "secondDuration": 81,
@@ -61,8 +55,14 @@
             "title": "Tom Steyer To Donate $30 Million To Help Democrats Retake House In 2018 | NBC News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "AkgTR5qJ0OY",
+            "title": "President Donald Trump Honors College Football Champion LSU At The White House | NBC News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

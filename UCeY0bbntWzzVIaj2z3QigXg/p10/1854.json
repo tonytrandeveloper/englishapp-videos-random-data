@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pDiWYDIje1k",
-            "title": "Cuba's Varadero Beach A Travel Secret | NBC Nightly News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "-KnYT9cLM4g",
             "title": "Donald Trump Applauds FBI For Reconsidering ‘Grave Miscarriage of Justice’ | NBC News",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Researchers At Stanford Medicine Set Record And Crack Medical Mystery",
             "secondDuration": 507,
             "group": "group_7"
+        },
+        {
+            "videoId": "9Z-Cvsmkmz4",
+            "title": "After COVID-19, Survivors Face Stigma | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

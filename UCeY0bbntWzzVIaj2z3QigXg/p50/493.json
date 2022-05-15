@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "RAETwCmaV2o",
-            "title": "15-Year-Old Suspected Shooter In Custody After Killing Three At Michigan High School",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Az5xlvB-lc",
             "title": "Hotly Contested Governors Races Could Give Foresight Into The 2020 Elections | NBC Nightly News",
             "secondDuration": 108,
@@ -301,8 +295,14 @@
             "title": "Mick Mulvaney On Ukraine: 'Politics Can And Should Influence Foreign Policy' | NBC News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "8uwPPO-kyH0",
+            "title": "Median Home Price Hit New High in June",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

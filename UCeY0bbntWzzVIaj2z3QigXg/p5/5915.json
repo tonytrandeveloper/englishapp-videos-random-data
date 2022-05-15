@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QLYwG4xvAkQ",
-            "title": "Top Story with Tom Llamas - March 31 | NBC News NOW",
-            "secondDuration": 3028,
-            "group": "group_7"
-        },
-        {
             "videoId": "C7Bs5m_2W7o",
             "title": "Jury Selection Delayed In Derek Chauvin Trial | NBC Nightly News",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "Ukraine's Zelenskyy Tells Russian Soldiers Kyiv Is Listening In",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "8xR8c5VLsUw",
+            "title": "WATCH: Video Shows Smoke Rising After Explosion During Attack On Kyiv TV Tower",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

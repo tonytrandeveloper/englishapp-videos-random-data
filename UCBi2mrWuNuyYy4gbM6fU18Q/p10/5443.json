@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-sA2-Y6aI98",
-            "title": "A path to end unintentional prejudice",
-            "secondDuration": 401,
-            "group": "group_7"
-        },
-        {
             "videoId": "w3_OrDdBRxU",
             "title": "The Final Days of George Michael",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Billion Dollar Cruise Ship Prepares for Maiden Voyage",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "XttMoNcyGoE",
+            "title": "Photographing the class of 2020 | ABC News",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fKRGJiiAm5I",
-            "title": "Afghan Women Risk Death Threats In Marathon Dash Toward Better Future | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "NN3K87ye6P8",
             "title": "Examining Pandemic’s Impact On Emissions | NBC News NOW",
             "secondDuration": 285,
@@ -61,8 +55,14 @@
             "title": "No Deal Yet, But Shutdown Negotiations Start To Move | Meet The Press | NBC News",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "AZF1gaoarl8",
+            "title": "Gunman Injures 4 Outside Pennsylvania Courtroom | NBC Nightly News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

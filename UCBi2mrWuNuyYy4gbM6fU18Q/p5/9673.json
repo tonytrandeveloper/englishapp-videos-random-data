@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7r0IPbFxngc",
-            "title": "Minnesota officer fatally shoots 20-year-old Daunte Wright",
-            "secondDuration": 304,
-            "group": "group_7"
-        },
-        {
             "videoId": "aRzrYNVXF28",
             "title": "Scientists Create First Synthetic Cell",
             "secondDuration": 151,
@@ -31,8 +25,14 @@
             "title": "Stimulus Part II?",
             "secondDuration": 908,
             "group": "group_7"
+        },
+        {
+            "videoId": "rUJI2bd7oRM",
+            "title": "Students Accused of Beheading a Llama, Shooting Another",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8kT0bD6XozI",
-            "title": "Carjacker Drives Off With Kids Inside",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "HEA5iqw831g",
             "title": "2 Views of the Transfer of Power",
             "secondDuration": 39,
@@ -31,8 +25,14 @@
             "title": "COVID-19 restrictions pose serious challenges to those in recovery | Nightline",
             "secondDuration": 397,
             "group": "group_7"
+        },
+        {
+            "videoId": "tCklsWPruTI",
+            "title": "Derek Chauvin found guilty on all 3 charges",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

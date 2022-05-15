@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WwJyX15R4rQ",
-            "title": "Disgraced Theranos founder Elizabeth Holmes in court",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "z8ajqIQYIjg",
             "title": "President Biden makes 1st stop in Rome in overseas trip",
             "secondDuration": 256,
@@ -121,8 +115,14 @@
             "title": "North Korea remains defiant after its failed missile launch over the weekend",
             "secondDuration": 282,
             "group": "group_7"
+        },
+        {
+            "videoId": "FbH1zy9pLL0",
+            "title": "State Department warns Americans to avoid all international travel",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

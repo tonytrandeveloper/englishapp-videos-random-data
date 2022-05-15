@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X8gwHmpQpb0",
-            "title": "Special Report: Two Mass Shootings In 13 Hours Leave 29 People Dead | NBC News",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "a2euPpC185k",
             "title": "Cheney Stands By Criticism Of Trump Despite Mounting Pressure From Republicans | NBC News",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "Judges Revokes Owen Labrie’s Bail | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "DYkpa3UBOoA",
+            "title": "Watch: Newsroom in Japan Experiences 7.3-Magnitude Earthquake",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

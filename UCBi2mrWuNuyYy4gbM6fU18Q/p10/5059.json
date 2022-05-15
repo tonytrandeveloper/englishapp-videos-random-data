@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8WVy1E-R3M4",
-            "title": "Kazakhstan declares state of emergency",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "yWORW1h1dDo",
             "title": "House approves LGBTQ discrimination ban",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Jennifer Garner Testifies for Paparazzi Law",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "z4vC4-6uUVk",
+            "title": "Jennifer Aniston Has A Special Song for her Dog",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

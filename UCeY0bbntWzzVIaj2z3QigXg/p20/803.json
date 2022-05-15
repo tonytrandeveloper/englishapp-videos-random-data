@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PX2Oxne-miI",
-            "title": "Morning News NOW Full Broadcast - Dec. 1",
-            "secondDuration": 2905,
-            "group": "group_7"
-        },
-        {
             "videoId": "gkj3uWB5Wxo",
             "title": "Jeff Flake's Senate Floor Speech On His Retirement, GOP's Future, President Trump (Full) | NBC News",
             "secondDuration": 1056,
@@ -121,8 +115,14 @@
             "title": "SeaWorld Phasing Out ‘Shamu’ Killer Whale Show in San Diego | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "EEfFBl8s6vM",
+            "title": "State Legislators Vote To Repeal Gov. Cuomo’s Emergency Pandemic Powers | NBC Nightly News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

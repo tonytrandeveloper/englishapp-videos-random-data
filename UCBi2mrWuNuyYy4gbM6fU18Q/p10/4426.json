@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hbAEs_MTC0g",
-            "title": "Pregnant Snooki Re-Boots Image",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "rLQK-s4EIEc",
             "title": "Ang Lee on Creating 'Life of Pi'",
             "secondDuration": 411,
@@ -61,8 +55,14 @@
             "title": "Sick Workers Rescued From Antarctica",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "mltusEmwZQE",
+            "title": "Sandusky Denies Molesting Boys at Appeals Hearing",
+            "secondDuration": 43,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

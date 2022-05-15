@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cspTv2cWbJs",
-            "title": "Russian attack feared in next 2 days",
-            "secondDuration": 662,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rm20aRpG068",
             "title": "'Lucha Libre' Wrestler: Crusader Against Illegal Immigration",
             "secondDuration": 376,
@@ -31,8 +25,14 @@
             "title": "Las Vegas survivors: MGM lawsuit 'like being kicked into the ground'",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "rnPaQmRj-ds",
+            "title": "DC on high alert",
+            "secondDuration": 458,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "O3qJuqM2B5M",
-            "title": "Sen. Marco Rubio: Assad and ISIS are 'two sides of the same coin'",
-            "secondDuration": 469,
-            "group": "group_7"
-        },
-        {
             "videoId": "MWZuMyEAu9g",
             "title": "Barbara Walters' Fascinating People: Katy Perry, Derek Jeter, Herman Cain, Eric Stonestreet On List",
             "secondDuration": 352,
@@ -301,8 +295,14 @@
             "title": "'Mrs. Doubtfire' Movie Teaches Young Girl to Save Lives",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "T6bjC8R2pUw",
+            "title": "State of emergency declared in New York City over coronavirus",
+            "secondDuration": 388,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

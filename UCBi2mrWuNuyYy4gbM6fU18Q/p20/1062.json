@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "z0y6B9724Eo",
-            "title": "Super Bowl 2014: 'Puppy Love' is Top TV Ad",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "cABwJ1HvA84",
             "title": "Amal Clooney is Barbara Walters' Most Fascinating Person of 2014",
             "secondDuration": 279,
@@ -121,8 +115,14 @@
             "title": "Pro Football Star Aaron Hernandez Indicted",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "rUnBhMdcWsw",
+            "title": "UCLA Shooting | Professor Targeted During Alleged Murder-Suicide",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

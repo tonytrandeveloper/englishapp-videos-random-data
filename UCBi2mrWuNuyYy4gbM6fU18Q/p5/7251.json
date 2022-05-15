@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4SuO8MC5BVA",
-            "title": "Students Beaten During Mob Attacks at University",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "KxNg_6ltyPc",
             "title": "A look at the shocking investigation that put a serial killer behind bars",
             "secondDuration": 553,
@@ -31,8 +25,14 @@
             "title": "Ukrainian and Russian refugees seek asylum at US-Mexico border",
             "secondDuration": 544,
             "group": "group_7"
+        },
+        {
+            "videoId": "UQbe6yFcz98",
+            "title": "Exploding Package Injures 1 in Philadelphia",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

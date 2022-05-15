@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "opy5CP4qv2I",
-            "title": "FDA grants full approval to Pfizer COVID-19 vaccine",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "ql69qX3AToQ",
             "title": "America’s hospitals brace for potential surge of patients",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "Parents fear for young daughter's safety as her behavior changes dramatically: 20/20 Jul 20 Part 1",
             "secondDuration": 503,
             "group": "group_7"
+        },
+        {
+            "videoId": "BUP_kUwCe0c",
+            "title": "House Republicans respond to articles of impeachment l ABC News",
+            "secondDuration": 745,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

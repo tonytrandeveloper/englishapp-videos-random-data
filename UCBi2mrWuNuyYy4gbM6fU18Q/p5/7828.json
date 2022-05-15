@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ExsE9Hi2BbY",
-            "title": "ABC News Prime: Schools battle omicron; 13 killed in row house fire; 1/6 unidentified suspects hunt",
-            "secondDuration": 5358,
-            "group": "group_7"
-        },
-        {
             "videoId": "NISPG8i2BUs",
             "title": "Trump on Mosul: Will Teach Military Expert 'A Couple Things'",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "Clark Gregg Returns From the Dead in Marvel's 'Agents of Shield'",
             "secondDuration": 316,
             "group": "group_7"
+        },
+        {
+            "videoId": "8INVU_dJM4k",
+            "title": "Deadly Shooting in Israel | ABC News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

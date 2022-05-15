@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5TvrKYBXemo",
-            "title": "Australia Wildfires: Military Deployed As Crisis Grows | NBC Nightly News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "IPbKa0n0Rbc",
             "title": "Steve Harvey: \"I have a dream that...\"",
             "secondDuration": 22,
@@ -31,8 +25,14 @@
             "title": "Bryce Salvador: \"I have a dream that...\"",
             "secondDuration": 17,
             "group": "group_7"
+        },
+        {
+            "videoId": "OUhqeOnEHT4",
+            "title": "Exclusive Look As Mexico Deploys Troops To Guatemala Border To Slow Migration To U.S. | Nightly News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

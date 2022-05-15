@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vKLkeXmc5-4",
-            "title": "Deadly mass shooting at Texas church: ABC Radio",
-            "secondDuration": 12893,
-            "group": "group_7"
-        },
-        {
             "videoId": "VW7TNzp6d2s",
             "title": "Navy's New Laser Weapon Blasts Bad Guys From Air, Sea",
             "secondDuration": 29,
@@ -31,8 +25,14 @@
             "title": "Spiderman Prepares to Celebrate New Year's in Times Square",
             "secondDuration": 289,
             "group": "group_7"
+        },
+        {
+            "videoId": "r_M3l5d2IrY",
+            "title": "European countries debut their own versions of contact tracing apps",
+            "secondDuration": 470,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "apxCvGU9Tp0",
-            "title": "North Korea Threatens More Missile Launches | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "d6WD9O8Xc9Y",
             "title": "The Face Of Suffering: Famine, Cholera Wreak Havoc In War-Torn Yemen | NBC News",
             "secondDuration": 173,
@@ -31,8 +25,14 @@
             "title": "Wells Fargo Hit With Lawsuit For Closing Fraud Victims’ Accounts To Save Money | NBC Nightly News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "__GbLIXJibc",
+            "title": "Slowing Immigration Worsens Job Market Shortages",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

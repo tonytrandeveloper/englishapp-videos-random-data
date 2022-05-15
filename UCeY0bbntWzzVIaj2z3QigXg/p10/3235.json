@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m7aN4WY95zw",
-            "title": "Boris Johnson And Jeremy Hunt Clash During Britain’s Prime Minister Debate | NBC News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "UD8rXeFpLsc",
             "title": "How Biden Won: Three key Voter Groups in 2020 | Meet The Press | NBC News",
             "secondDuration": 210,
@@ -61,8 +55,14 @@
             "title": "Dr. Fauci Warns Americans To Take New Omicron Variant Seriously",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "uOXTBUBr0XM",
+            "title": "Full Sanders: 'Establishment Put A Great Deal Of Pressure' On Buttigieg & Klobuchar | Meet The Press",
+            "secondDuration": 699,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

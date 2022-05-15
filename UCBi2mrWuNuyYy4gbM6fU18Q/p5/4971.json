@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_qaitg5bXDg",
-            "title": "Diane Sawyer's New Role at ABC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "GFn438K6904",
             "title": "NASA Shuttle Launch: Atlantis Blasts Off From Cape Canaveral",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "Super Bowl 2013 Wing Shortage Looms Before Big Game",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "wMCjnp6J5QE",
+            "title": "LA Clippers Sale to Former Microsoft CEO Steve Ballmer Awaits Approval",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

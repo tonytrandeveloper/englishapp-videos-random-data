@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "w8Mo_2suaLA",
-            "title": "Bass: ‘Very hopeful’ about passing George Floyd Justice in Policing Act",
-            "secondDuration": 591,
-            "group": "group_7"
-        },
-        {
             "videoId": "-O0SpWJbMKA",
             "title": "Jon Ossoff comments on GA runoff election",
             "secondDuration": 184,
@@ -121,8 +115,14 @@
             "title": "Joe Biden holds virtual town hall",
             "secondDuration": 583,
             "group": "group_7"
+        },
+        {
+            "videoId": "m8OwFYvCMHQ",
+            "title": "Tapper on Obama's Russian Outreach",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

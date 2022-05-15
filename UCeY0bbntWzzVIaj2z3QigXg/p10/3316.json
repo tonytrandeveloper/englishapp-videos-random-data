@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ESS4CFBgZIk",
-            "title": "Netflix Email Scam Targets 10 Million Customers | NBC Nightly News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "6LY0qJUN0oU",
             "title": "New York Hospital’s Cardiac Unit Pivots To Treat COVID-19 Patients | NBC News NOW",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "The Best Short Doc Films Of 2021 | Meet The Press Reports",
             "secondDuration": 1645,
             "group": "group_7"
+        },
+        {
+            "videoId": "mxLGU4E93HI",
+            "title": "Morning News NOW Full Broadcast - Nov. 8",
+            "secondDuration": 2343,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

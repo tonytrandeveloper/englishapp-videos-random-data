@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LFdqi2ReX-s",
-            "title": "Morning News NOW Full Broadcast - June 29 | NBC News NOW",
-            "secondDuration": 2958,
-            "group": "group_7"
-        },
-        {
             "videoId": "_RpPNpGZmYU",
             "title": "Chuck Todd: 'Trump Is Insisting We're Winning A War That We're Clearly Losing' | Meet The Press",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "New York Governor Andrew Cuomo Holds Briefing | NBC News",
             "secondDuration": 3366,
             "group": "group_7"
+        },
+        {
+            "videoId": "KqUHgIVk1Ac",
+            "title": "Ukrainian Refugees Wait In Tijuana For Permission To Enter U.S.",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

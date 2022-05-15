@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4KCI6JXklZw",
-            "title": "New York Times Buys Game ‘Wordle’ In A Seven-Figure Deal",
-            "secondDuration": 457,
-            "group": "group_7"
-        },
-        {
             "videoId": "fkevCJ2NJok",
             "title": "President Donald Trump Praises Ted Cruz, Calls Beto O'Rourke 'Stone Cold Phony' At Rally | NBC News",
             "secondDuration": 149,
@@ -31,8 +25,14 @@
             "title": "Rural Voters In Ohio Support Trump's COVID-19 Response, China Trade War | NBC News NOW",
             "secondDuration": 467,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gyk56Nk-GF8",
+            "title": "Activists Sketch G7 Leaders In Sand To Waive Rights On Vaccines",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

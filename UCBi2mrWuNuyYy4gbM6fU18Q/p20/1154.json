@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QRFPbtvClNQ",
-            "title": "Taming Exotic Pet Owners",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "p9ztbquFNG4",
             "title": "Ice Bucket Challenge Credited in Fight Against ALS",
             "secondDuration": 40,
@@ -121,8 +115,14 @@
             "title": "The Case of the Missing iPad",
             "secondDuration": 405,
             "group": "group_7"
+        },
+        {
+            "videoId": "hsIiAsxvPbU",
+            "title": "Adele Cancels Her Phoenix Concert | ABC News",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

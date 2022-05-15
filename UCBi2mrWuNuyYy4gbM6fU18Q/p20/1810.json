@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YpIJrZ_zk8s",
-            "title": "Watch LIVE: Impeachment Trial of President Donald Trump day 7 - ABC News Live Coverage",
-            "secondDuration": 7666,
-            "group": "group_7"
-        },
-        {
             "videoId": "IN2p7M0EBj0",
             "title": "Specter vs. Hatch: Health Care Debate",
             "secondDuration": 785,
@@ -121,8 +115,14 @@
             "title": "Puerto Rico gets hit by Hurricane Isaias and COVID-19",
             "secondDuration": 581,
             "group": "group_7"
+        },
+        {
+            "videoId": "hESxXEm2vPg",
+            "title": "Americans stranded in South America | PRIME",
+            "secondDuration": 515,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

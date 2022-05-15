@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LJ4ZuCPInrY",
-            "title": "One Night in Central Park l 20/20 l PART 4 | ABC News",
-            "secondDuration": 465,
-            "group": "group_7"
-        },
-        {
             "videoId": "8djd7v76Nfk",
             "title": "Taliban Claims Responsibility for Intercontinental Hotel Attack; 11 Killed in Afghanistan",
             "secondDuration": 107,
@@ -121,8 +115,14 @@
             "title": "Police in California searching for driver who struck 7-year-old girl",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "nJp3I5P0dBs",
+            "title": "Superstorm Sandy Wrecks Gas Lines in NJ",
+            "secondDuration": 336,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

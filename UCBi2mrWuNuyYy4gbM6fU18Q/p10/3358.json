@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eqXVMI3h2Sg",
-            "title": "Taylor Swift Gives a Sneak Peek of Her 'Wildest Dreams' Video",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "jfLQWd7Sh4M",
             "title": "Hurricane Sandy a 'Perfect Storm?'  Comparing Real Storm With 'Perfect Storm' Movie",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Ivanka Trump's tweet on Oprah sparks backlash",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "s6L8vsj5Fsg",
+            "title": "Biden calls for impeachment of President Trump l ABC News",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vM4jm540_eg",
-            "title": "Russian Truck Crash Caught on Camera",
-            "secondDuration": 38,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZobfMpPlwNc",
             "title": "Bernie Sanders Full Interview on 2016 Presidential Race",
             "secondDuration": 390,
@@ -61,8 +55,14 @@
             "title": "Robert Durst Pleads Guilty to Possession of a Gun in New Orleans",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "wlo0mT0ECVQ",
+            "title": "Outbreak in America",
+            "secondDuration": 398,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

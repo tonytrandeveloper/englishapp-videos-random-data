@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HMBHuU8SInU",
-            "title": "Trump Falsely Claims Fraud In Vote Counting | NBC Nightly News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "C4Fk3bHfdsI",
             "title": "Microsoft’s Xbox Adaptive Controller Is Designed For Gamers With Limited Mobility | Mach | NBC News",
             "secondDuration": 83,
@@ -61,8 +55,14 @@
             "title": "GOP Senator Tom Cotton Confronted At Town Hall About President Trump's Election | NBC News",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "j7_CkQ4SBps",
+            "title": "What Life’s Like 19 Years After A School Shooting | NBC News",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

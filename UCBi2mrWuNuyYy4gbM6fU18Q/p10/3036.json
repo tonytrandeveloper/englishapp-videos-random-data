@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xlxLZPzVwgI",
-            "title": "ABC News Live Update: Biden tells Israeli PM he expects ‘significant de-escalation’",
-            "secondDuration": 1579,
-            "group": "group_7"
-        },
-        {
             "videoId": "xoALCj0Kw6o",
             "title": "Could COVID-19 vaccinations become mandatory?",
             "secondDuration": 237,
@@ -61,8 +55,14 @@
             "title": "App Calculates The Likelihood Your Plane Will Crash",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "-EcoLLmt_Rc",
+            "title": "Mother in Minivan Undergoing Mental Evaluation",
+            "secondDuration": 254,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

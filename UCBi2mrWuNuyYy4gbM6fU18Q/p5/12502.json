@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "29YMQ1bd8cE",
-            "title": "New Fertility Treatment Gives Women Hope",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "brWiLxemsSE",
             "title": "Jay Z and Beyonce Release Trailer for New Tour",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Rescued Circus Lions Get a Chance at a New Life",
             "secondDuration": 511,
             "group": "group_7"
+        },
+        {
+            "videoId": "6EW8nisnt-Y",
+            "title": "Amanda Knox: On Trial For Her Life",
+            "secondDuration": 543,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ehmG0fcV1js",
-            "title": "Black box data shows link between 2 crashes: Authorities",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "J8qrVbcfubU",
             "title": "Former Players Join Lawsuit Against the NHL",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Russia targets Jehovah’s Witnesses with arrest, raiding of homes",
             "secondDuration": 502,
             "group": "group_7"
+        },
+        {
+            "videoId": "D3L5tuIPjLA",
+            "title": "Several injured at Philadelphia block party",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

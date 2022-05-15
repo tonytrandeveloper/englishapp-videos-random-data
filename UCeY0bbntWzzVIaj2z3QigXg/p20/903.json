@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EGR-R2JTlnM",
-            "title": "See Aftermath of Hurricane-Ravage Island | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "rioq7tCfMjM",
             "title": "Hundreds Of ‘Families Belong Together’ Rallies Held Across The Country | NBC Nightly News",
             "secondDuration": 138,
@@ -121,8 +115,14 @@
             "title": "Robert Mueller Has Enough Evidence To Bring Charges In Flynn Investigation | NBC Nightly News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "WUZKwZ3Tw80",
+            "title": "Two-Year-Old Locked Inside A Daycare After Hours",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

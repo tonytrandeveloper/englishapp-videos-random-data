@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OFf4z-lNiwo",
-            "title": "What Not to Ask Your Doctor",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "IYHgIqBwSLU",
             "title": "Webcast: Secret Service Scandal; Deadly Tornadoes",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Who's in Charge in Ferguson?",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "HMlEpiTP0jU",
+            "title": "Second Presidential Debate 2012: Mitt Romney on Tax-Plan Numbers: 'They Add Up'",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

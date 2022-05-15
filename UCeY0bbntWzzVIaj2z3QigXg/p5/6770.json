@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TNFy5qew4Dw",
-            "title": "Amtrak Derailment Reignites Safety Concerns Across The Country | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "edZfWrzXps8",
             "title": "Dr. Fauci: U.S. Seeing ‘Disturbing’ Increase In COVID-19 Infections | NBC News NOW",
             "secondDuration": 270,
@@ -31,8 +25,14 @@
             "title": "Three Dallas Firefighters Escape Condo Fire After Being Trapped Inside | NBC Nightly News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "xYpK4TzpI0E",
+            "title": "Bill Cosby Is Found Guilty On All Three Counts | NBC News",
+            "secondDuration": 721,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

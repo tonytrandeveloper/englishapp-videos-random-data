@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "w0s6f-RZKxc",
-            "title": "Baby on Board: Woman Goes Into Labor Midflight",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "rLmGOHPFB2E",
             "title": "Fiery Car Crash Caught on Camera",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "George Floyd’s aunt speaks at his funeral",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "N4e86FnXXNU",
+            "title": "Fatal shooting of Andrew Brown Jr.",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

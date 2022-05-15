@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5BcqEGDb2Nc",
-            "title": "Personal Development: The Art Of Asking For Help | NBC News",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "GqCSjcH8liw",
             "title": "McConnell, Schumer React After The Senate Votes To Acquit President Donald Trump | NBC News",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Tossed Ballots Raise Concerns As Voters Mail In Their Ballots | NBC Nightly News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "X3MfDQUnXp0",
+            "title": "NBC Nightly News Broadcast (Full) - June 22nd, 2021",
+            "secondDuration": 1027,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

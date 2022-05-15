@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XipoTDwM_cg",
-            "title": "NBC News Projects Trump Will Win Iowa | NBC News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "e7tjp_HRuCE",
             "title": "Hillary Clinton: ‘I Was On The Way To Winning’ | NBC Nightly News",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "First Lady Melania Trump Unveils ‘Be Best’ Campaign On Child Well-Being | NBC News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "wWBQdbEp-do",
+            "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2426,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

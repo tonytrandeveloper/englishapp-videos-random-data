@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Y61HxtiR4og",
-            "title": "Stories That Made Us Smile | NBC Nightly News",
-            "secondDuration": 939,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mn_eWLHaZno",
             "title": "Inspiring America: The ‘Hugs Cafe’ Employs Those With Special Needs | NBC Nightly News",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Inside A Hard-Hit Michigan Hospital’s Covid Unit | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "zLsDIYt8PGU",
+            "title": "Donald Trump's First Press Conference as President-Elect: Top Moments | NBC News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

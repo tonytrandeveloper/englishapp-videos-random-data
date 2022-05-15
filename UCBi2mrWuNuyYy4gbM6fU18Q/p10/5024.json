@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qWr3imom0XM",
-            "title": "Truck Dangles From New York City Building",
-            "secondDuration": 34,
-            "group": "group_7"
-        },
-        {
             "videoId": "REsB86e7lZo",
             "title": "Boy Wins Halloween With Star Wars Tauntaun Costume",
             "secondDuration": 16,
@@ -61,8 +55,14 @@
             "title": "Death Threats for Katherine Jenkins After Rumored Affair With David Beckham",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "KVkAduoARb8",
+            "title": "Thousands of firefighters battle 6 major wildfires",
+            "secondDuration": 233,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L8iEpg8yzzU",
-            "title": "Senate Passes 9/11 Victim Compensation Funding | NBC Nightly News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "pE-r_4x9DFQ",
             "title": "Watch Pete Buttigeig’s First Speech On Foreign Policy And National Security | NBC News",
             "secondDuration": 3268,
@@ -61,8 +55,14 @@
             "title": "Switching Sides: Should A.I. Be Regulated? | NBC News Signal",
             "secondDuration": 367,
             "group": "group_7"
+        },
+        {
+            "videoId": "cTFhwU6xkXo",
+            "title": "Despite Warnings, Some U.S. Trains Still Running Without Life-Saving Tech | NBC Nightly News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

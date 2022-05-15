@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CNAn4WQn6JY",
-            "title": "Hillary and Meryl",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "HW02OGMPQdg",
             "title": "California begins to ease restrictions as cases continue to rise | ABC News",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "Trump concludes SOTU address: Nation will be 'proud and mighty and free'",
             "secondDuration": 340,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wmhtgz8fbSk",
+            "title": "WEBCAST: NYC Prepares for New Years Eve",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

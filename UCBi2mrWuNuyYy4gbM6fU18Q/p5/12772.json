@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R1rBNcC8s5U",
-            "title": "Holiday travel tips",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "P9tW7RbKjhk",
             "title": "Tampa Bay's New Quarterback Playing Legal Offense",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Olympic COVID-19 protocols put to the test as athletes, officials test positive",
             "secondDuration": 400,
             "group": "group_7"
+        },
+        {
+            "videoId": "K4NEK3OUFa0",
+            "title": "President Kennedy Affair with Former White House Intern",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

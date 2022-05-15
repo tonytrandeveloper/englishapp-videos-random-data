@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GxlYhwYDthc",
-            "title": "Possible Hurricane: Ernesto Heads Toward East Coast",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "6ZWZdeiv_10",
             "title": "Interview With Jon Huntsman",
             "secondDuration": 689,
@@ -31,8 +25,14 @@
             "title": "Gore Remarks on Journalists' Safe Return",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "m-4Lsf_ScLw",
+            "title": "'This Week': The Religious Right",
+            "secondDuration": 616,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

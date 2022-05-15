@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MGCNT9rOQrc",
-            "title": "Dow Sinks After Federal Reserve Rate Cut To Ease Coronavirus Concern | NBC News NOW",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "n4Axen25R4c",
             "title": "Victoria’s Secret Sold Amid Plummeting Sales And Cultural Shift | NBC Nightly News",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "More Companies Adding Covid Vaccine Or Testing Requirements",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "VsCSRPvZSj8",
+            "title": "Packed Roads and Airports With Americans On The Move For The Holidays",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "b7DSaZJHVaY",
-            "title": "Exclusive Interview: Melania Trump to speak out to ABC News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "4dJNtyDziYg",
             "title": "House Speaker Nancy Pelosi calls chamber back from recess",
             "secondDuration": 161,
@@ -31,8 +25,14 @@
             "title": "David Letterman Final Show",
             "secondDuration": 332,
             "group": "group_7"
+        },
+        {
+            "videoId": "0xRn1AoHTBo",
+            "title": "Orangutan helps keep Perth Zoo sanitized amid COVID-19 pandemic | ABC News",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

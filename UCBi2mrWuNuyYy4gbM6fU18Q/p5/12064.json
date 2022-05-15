@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MyFie9dYvRY",
-            "title": "WATCH LIVE ABC News Prime: Nevada caucuses, Early voters, Coronavirus updates",
-            "secondDuration": 3618,
-            "group": "group_7"
-        },
-        {
             "videoId": "W0kMBMVOOjs",
             "title": "NCAA Moves NC Championship Games Due to Bathroom Law",
             "secondDuration": 38,
@@ -31,8 +25,14 @@
             "title": "'This Week': Heroin Crisis",
             "secondDuration": 504,
             "group": "group_7"
+        },
+        {
+            "videoId": "XbsjkBk8uwg",
+            "title": "Rep. Adam Schiff: Russia ‘absolutely’ complicit in Syrian chemical attack",
+            "secondDuration": 409,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9qIU53H6blw",
-            "title": "White House Holds Press Briefing: July 27 | NBC News",
-            "secondDuration": 2331,
-            "group": "group_7"
-        },
-        {
             "videoId": "RAWlR6ogQy4",
             "title": "New CDC Numbers Indicate Flu Season Off To A Brutal Start | NBC Nightly News",
             "secondDuration": 127,
@@ -121,8 +115,14 @@
             "title": "Live: New York Governor Andrew Cuomo Holds Briefing | NBC News",
             "secondDuration": 2760,
             "group": "group_7"
+        },
+        {
+            "videoId": "nhtZfs6QQpc",
+            "title": "Astronauts Aboard International Space Station Welcome SpaceX 2 Crew | NBC News",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

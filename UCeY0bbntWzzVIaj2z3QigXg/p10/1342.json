@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JjB1PKVyGNw",
-            "title": "FDA Cracking Down On Inaccurate Coronavirus Antibody Tests | NBC Nightly News",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "RYzTvj1n2U0",
             "title": "'George Floyd Was Here On Assignment': Rep. Jackson Lee Speaks At Funeral | NBC News",
             "secondDuration": 356,
@@ -61,8 +55,14 @@
             "title": "Man Turns 100, Hits The Slopes – In July | NBC News",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "S47--yF1Ncs",
+            "title": "Major Drug Company Partners With Oxford To Produce Vaccine Even Before Approval | NBC Nightly News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

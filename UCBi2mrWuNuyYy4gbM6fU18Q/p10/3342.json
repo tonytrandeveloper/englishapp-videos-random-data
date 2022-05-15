@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "n8i9_tQpjP8",
-            "title": "NFL suspends Cowboy Ezekiel Elliott for 6 games",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vwfh7AYOl9M",
             "title": "Protests erupt in violence after George Floyd’s killing | Nightline",
             "secondDuration": 565,
@@ -61,8 +55,14 @@
             "title": "\"I Didn't Kill My Stepson\" Kyron Horman",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "r906ikuszjA",
+            "title": "Deadly California fire burns over 90,000 acres",
+            "secondDuration": 299,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

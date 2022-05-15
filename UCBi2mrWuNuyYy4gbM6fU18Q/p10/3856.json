@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OwNF1p0qN4o",
-            "title": "Denver Broncos Mascot Thunder in a Minute",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q8W6EMlfK1s",
             "title": "Michael Jackson Verdict: Conrad Murray Guilty",
             "secondDuration": 274,
@@ -61,8 +55,14 @@
             "title": "'Simpsons' Creator Matt Groening Reveals Real 'Springfield': Oregon Has Homer's Town's Inspiration?",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "GABJqHqAlm4",
+            "title": "Alex Trebek encourages fans amid cancer news: 'Keep the faith'",
+            "secondDuration": 53,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5k4aP_ebigQ",
-            "title": "Cenk Uygur: 'Recount Will Show the Same Thing'",
-            "secondDuration": 496,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uwlj1_y1sWg",
             "title": "Man accused of encouraging terror plot against Prince George",
             "secondDuration": 240,
@@ -121,8 +115,14 @@
             "title": "Students Taunt Minority Classmates: 'Build The Wall'",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "PMGAgjxdV7k",
+            "title": "Trump Officials Admit 'Missed Opportunities' at First Debate Against Hillary Clinton",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

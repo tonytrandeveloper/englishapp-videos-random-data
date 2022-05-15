@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "E9ehq_0SgFc",
-            "title": "NJ Gov. Phil Murphy Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2698,
-            "group": "group_7"
-        },
-        {
             "videoId": "HulmPiWLIrU",
             "title": "U.S. Economy Adds 678K Jobs In February, Unemployment Down To 3.8 Percent",
             "secondDuration": 227,
@@ -301,8 +295,14 @@
             "title": "President Donald Trump Goes Off-Script as He Wraps Up Asia Trip | NBC Nightly News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "TNZgngsL64I",
+            "title": "Nightly News Full Broadcast - Nov. 14",
+            "secondDuration": 1310,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

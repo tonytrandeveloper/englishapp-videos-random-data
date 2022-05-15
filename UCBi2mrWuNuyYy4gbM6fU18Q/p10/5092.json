@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tZUdxoZbKJY",
-            "title": "President Obama, Mitt Romney Joke at Al Smith Dinner",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "koe8XfkNhjw",
             "title": "Police release video of Jussie Smollett with noose",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Lady Gaga Interview: 'GMA' Concert a 'Dream Come True' (05.27.11)",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "D2CMuUdBFfo",
+            "title": "Warren Buffett Speaks Out on Economy",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

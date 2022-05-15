@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rUs8Wk8mzug",
-            "title": "Bill Cosby Faces Rape Allegations",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "F3sqED-RrRE",
             "title": "Instagram, Facebook Deal Worth $1 Billion",
             "secondDuration": 135,
@@ -121,8 +115,14 @@
             "title": "Trump Prepares for a Contentious Inauguration",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "RDtpbjIU2Ek",
+            "title": "Gas Prices Falling Fast",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

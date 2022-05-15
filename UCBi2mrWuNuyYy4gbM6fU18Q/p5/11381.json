@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UM40zRhwLgY",
-            "title": "Briefing Room: Stock market drops, Trump's immigration policy,  White House plans for gun control",
-            "secondDuration": 1663,
-            "group": "group_7"
-        },
-        {
             "videoId": "tbNJEWkE00Q",
             "title": "A high school cheerleader and football player's tumultuous relationship: 20/20 Sep 14 Part 1",
             "secondDuration": 410,
@@ -31,8 +25,14 @@
             "title": "Suspected Russian hack a ‘moment of reckoning’: Microsoft president",
             "secondDuration": 278,
             "group": "group_7"
+        },
+        {
+            "videoId": "pumfkMt23iM",
+            "title": "Hoop Dreams",
+            "secondDuration": 283,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

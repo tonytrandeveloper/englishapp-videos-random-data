@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MyD2BOGWqeU",
-            "title": "India is developing green initiatives to move away from its dependence on coal | Nightline",
-            "secondDuration": 505,
-            "group": "group_7"
-        },
-        {
             "videoId": "zWx-edH4kvE",
             "title": "WEBCAST: Outrage In New York After Grand Jury Decision",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "Caught on Tape: Record-Breaking 723-Pound Gator Caught by First Time Hunter Beth Trammel",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "gXu5GDXIw-Q",
+            "title": "Presidential candidates clash in latest Democratic debate",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

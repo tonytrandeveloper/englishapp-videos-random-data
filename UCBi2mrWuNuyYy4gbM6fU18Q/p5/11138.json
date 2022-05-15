@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S8EBteMyddo",
-            "title": "CMA Awards 2012 Winners: Best Video, Best Musical Event Winners Revealed on 'Good Morning America'",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "TuYGXEKbJwg",
             "title": "Rolling Stones drummer Charlie Watts dead at 80 | Nightline",
             "secondDuration": 280,
@@ -31,8 +25,14 @@
             "title": "Iraqi leaders declare victory over ISIS in Mosul",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "RqcDb8XXdD8",
+            "title": "By the Numbers: Climate change’s impact on hurricanes l ABCNL",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

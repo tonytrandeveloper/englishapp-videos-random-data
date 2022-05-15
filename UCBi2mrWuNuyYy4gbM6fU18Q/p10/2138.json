@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IsvXHtG-jhY",
-            "title": "Senate Republicans fail to get necessary votes to repeal and replace Obamacare",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "aAYHqv1FJdg",
             "title": "Casey Anthony Case: Judge Orders Her Return to Orlando, Says She Must Serve Probation in Florida",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "One Bishop's Battle",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "90I4PNOuHw0",
+            "title": "Chicago mayor pleads with residents amid gun violence",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

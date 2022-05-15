@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "B9vJ9A0asfs",
-            "title": "White House Press Briefing - March 1, 2018 | NBC News",
-            "secondDuration": 992,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ej98g-kCJ5I",
             "title": "Massive Storm System Devastates Southeast | NBC News",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "How Food Companies Are Influencing The Science Of What We Eat | Think | NBC News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "VmCVtmQwuYg",
+            "title": "Sanders, Yang & Biden Pass Their Fundraising Records As Trump Raises $46 Million | NBC Nightly News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Wm4vaVRNT64",
-            "title": "House Democrats Seek Vote To Create An Independent Commission | NBC News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "n0ffQiwmJPg",
             "title": "Massachusetts Field Hospital Begins To Receive Covid Patients | NBC Nightly News",
             "secondDuration": 126,
@@ -301,8 +295,14 @@
             "title": "Stephen William Hawking Dead At 76 | NBC Nightly News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "VeAUlumaoeY",
+            "title": "Police Clash Violently With Protesters At Hong Kong University Blockade | NBC News",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

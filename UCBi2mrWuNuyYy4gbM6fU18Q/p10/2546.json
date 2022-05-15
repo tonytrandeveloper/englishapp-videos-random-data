@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iusFkgnzskI",
-            "title": "One World, One Pandemic: How South America is fighting COVID-19",
-            "secondDuration": 340,
-            "group": "group_7"
-        },
-        {
             "videoId": "irja-gDVL-c",
             "title": "My Father BTK - 20/20 PT 4",
             "secondDuration": 531,
@@ -61,8 +55,14 @@
             "title": "Amanda Berry 911 Call - Cleveland Woman Freed",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "K3nSfJh1RyU",
+            "title": "Americans’ reaction to Ukraine invasion",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sOq1N1FZ8LE",
-            "title": "An almost perfect game",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "QBPnyS0NIdY",
             "title": "Presidential Election 2016: Potential Candidates In A Minute",
             "secondDuration": 67,
@@ -121,8 +115,14 @@
             "title": "In Case You Missed It: 2-13-2015",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "-qcMhJsm4PA",
+            "title": "'Tim Kaine Is Your Nice Dad' Book Now a Best-Seller",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

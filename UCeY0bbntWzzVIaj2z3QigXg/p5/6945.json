@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yD9kIS1gJZk",
-            "title": "Jeff Bezos' Vision For The Future: Humanity In The Stars | Mach | NBC News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "LsqmhcCuuRM",
             "title": "Nightly News Full Broadcast - April 4",
             "secondDuration": 1165,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - Jan. 16",
             "secondDuration": 1306,
             "group": "group_7"
+        },
+        {
+            "videoId": "wWT2cD7qTpo",
+            "title": "Dr. Fiona Hill: Sondland Was Involved In A 'Domestic Political Errand' In Ukraine | NBC News",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

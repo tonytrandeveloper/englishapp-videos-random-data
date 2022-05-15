@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AIcPNRI5uWQ",
-            "title": "ABC News Prime: Will progressives back Biden?; Fmr. NY Gov. Cuomo faces charges; Tiny Homes movement",
-            "secondDuration": 5276,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zkc769gD68Y",
             "title": "'Glee' Actor on Starring in the Broadway Musical 'Finding Neverland'",
             "secondDuration": 209,
@@ -61,8 +55,14 @@
             "title": "‘Can’t throw more money at a broken system’: Rep. Tlaib on border funding",
             "secondDuration": 504,
             "group": "group_7"
+        },
+        {
+            "videoId": "dZLhFrgmpD4",
+            "title": "Police search for a possible serial arsonist in Washington state",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

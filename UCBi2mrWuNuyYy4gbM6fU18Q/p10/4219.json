@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1LBkuSC4vOg",
-            "title": "Donald Trump arrives in Paris at the invitation of France's president, Emmanuel Macron",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "niqNimO-2Vo",
             "title": "Ben Cardin Says Budget Will Be A 'True Compromise'",
             "secondDuration": 512,
@@ -61,8 +55,14 @@
             "title": "Postmaster General Louis DeJoy testifies before Congress on proposed USPS changes",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "2qdHyBIOquY",
+            "title": "Black Friday: Keeping Shoppers Safe",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WozXSKtPca8",
-            "title": "The Year 2018: What were they thinking?",
-            "secondDuration": 309,
-            "group": "group_7"
-        },
-        {
             "videoId": "mNqE7h-p4j8",
             "title": "Bus driver delivers meals to children amid the coronavirus pandemic | ABC News",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "Diplomat’s testimony details “quid pro quo,” Turkey and Russia strike deal on Syria | ABC News",
             "secondDuration": 1693,
             "group": "group_7"
+        },
+        {
+            "videoId": "tfoQ0cJJcAI",
+            "title": "Faith Hill on Family, Fears and Fame",
+            "secondDuration": 493,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

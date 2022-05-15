@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p04PPlouyAA",
-            "title": "Saving Big Time on Dental Care",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "hKI_yRPR7uA",
             "title": "MIX: Hitched At The Rose Bowl",
             "secondDuration": 176,
@@ -31,8 +25,14 @@
             "title": "White House press briefing on Trump memo to Mueller, president's power to pardon, North Korea summit",
             "secondDuration": 2099,
             "group": "group_7"
+        },
+        {
+            "videoId": "tN7tkcjaDpo",
+            "title": "Questions Over Ryan Lochte's Future Emerge",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dgNSjXZqAs0",
-            "title": "The Conversation: Women in the World Summit",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "RhQdHUsGPNU",
             "title": "Hospitals Save Lives by Washing Hands",
             "secondDuration": 206,
@@ -31,8 +25,14 @@
             "title": "Is Sexting Really Cheating?",
             "secondDuration": 327,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fd2ecX4NKrk",
+            "title": "Health care bill, Trump's budget plan face uphill battle in Congress",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

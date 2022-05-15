@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "3WIdsZwkCeo",
-            "title": "First Cruise Ship Sets Sail In Mediterranean Since Pandemic’s Start | NBC Nightly News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "x4lmPMG4wtg",
             "title": "Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4223,
@@ -301,8 +295,14 @@
             "title": "Watch 2020 Candidates Discuss Gun Safety At Forum | NBC News",
             "secondDuration": 474,
             "group": "group_7"
+        },
+        {
+            "videoId": "89PxW-UxW6E",
+            "title": "Father And Son Serve Together In Afghanistan On 20th Year Of Conflict | NBC News NOW",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

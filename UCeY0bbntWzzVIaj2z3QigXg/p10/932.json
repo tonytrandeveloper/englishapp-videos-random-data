@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "f-D7sj256HU",
-            "title": "Pandas Are Making a Comeback | NBC Nightly News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "HAgvjoODo4M",
             "title": "Beirut Blast Victims Still Recovering From Explosion One Year Later",
             "secondDuration": 244,
@@ -61,8 +55,14 @@
             "title": "Republican Mike Carey Projected Winner In Ohio House 15",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "S4aI2froOk0",
+            "title": "Senate Democrats: GOP Health Care Plan Should Be Dead On Arrival | NBC News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

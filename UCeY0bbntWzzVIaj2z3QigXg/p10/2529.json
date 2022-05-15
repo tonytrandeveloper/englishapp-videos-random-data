@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "U0glmRmaovE",
-            "title": "Pope Francis Treads Carefully In Myanmar Speech | NBC News",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "f2aALF6W7wg",
             "title": "Firefighters In Montecito California Rescue Girl Trapped In Mudslide Rubble | NBC News",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Barrage Of Israeli Missile Strikes Iranian Targets Around Damascus | NBC News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "zoEch-NCrjQ",
+            "title": "Outrage After Rayshard Brooks Killed By Atlanta Police As Protests Continue | NBC Nightly News",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

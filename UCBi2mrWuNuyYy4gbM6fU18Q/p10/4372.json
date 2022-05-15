@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zwr4FyVAD9Q",
-            "title": "President Trump hosts round table on sanctuary cities | ABC News",
-            "secondDuration": 2240,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ys6nn9XfxyQ",
             "title": "Biden endorses cease-fire in Middle East amid mounting pressure",
             "secondDuration": 295,
@@ -61,8 +55,14 @@
             "title": "By the Numbers: Sea levels rising along US coastline",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "ajxSk_Y8768",
+            "title": "Storm threat sweeps across Midwest  GMA",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

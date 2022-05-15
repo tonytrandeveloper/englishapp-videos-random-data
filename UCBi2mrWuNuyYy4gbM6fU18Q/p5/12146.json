@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cT0KKNnk1Ak",
-            "title": "Biden’s high-stakes trip to Poland",
-            "secondDuration": 369,
-            "group": "group_7"
-        },
-        {
             "videoId": "V3OBw5iFthI",
             "title": "Rock & Roll Hall of Fame Announces Nominees | ABC News",
             "secondDuration": 196,
@@ -31,8 +25,14 @@
             "title": "Oakland Warehouse Fire Claims at Least 9 Lives",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "uAmYmW2v3RA",
+            "title": "Sound of Gas Leaks Spreads Fear in New Jersey Towns",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

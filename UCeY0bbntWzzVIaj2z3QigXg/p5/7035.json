@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DtGV_umXY1E",
-            "title": "Nightly News Full Broadcast - April 2",
-            "secondDuration": 1112,
-            "group": "group_7"
-        },
-        {
             "videoId": "ml8qHX28jLE",
             "title": "President Trump: Lying To The FBI ‘Destroyed’ Michael Flynn’s Life, But Not Hillary’s | NBC News",
             "secondDuration": 60,
@@ -31,8 +25,14 @@
             "title": "Democrats Begin Blame Game After Loss in Virginia",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "2pgAN4wj91c",
+            "title": "A Random Encounter: Episode 2 | Conviction | Dateline NBC",
+            "secondDuration": 488,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

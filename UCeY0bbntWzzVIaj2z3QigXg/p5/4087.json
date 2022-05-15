@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HGE3F4Zh0DM",
-            "title": "Meet The Mom Who Offers To Be A Stand-in Parent At LGBTQ+ Weddings | Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "MVAWphjEEOI",
             "title": "Boston Bombing Verdict: Tsarnaev Guilty On All 30 Counts | NBC Nightly News",
             "secondDuration": 178,
@@ -31,8 +25,14 @@
             "title": "Brazilian Mudslide Death Toll Rises As Rescue Efforts Ramp Up",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "agLCk1ZirLA",
+            "title": "Restaurant Employees Attacked By Unruly Customers Over Covid Rules",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

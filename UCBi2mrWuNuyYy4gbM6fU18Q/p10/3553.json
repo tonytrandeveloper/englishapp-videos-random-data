@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LHvlUyQ3duQ",
-            "title": "Sen. Bernie Sanders addresses supporters on Super Tuesday | ABC News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "pyA6uc5SSgw",
             "title": "Hunt Still on for NY Terror Suspects",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Remembering Prince Philip",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "SGNp9ABxiYQ",
+            "title": "Biden rallies Democrats ahead of midterms",
+            "secondDuration": 318,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

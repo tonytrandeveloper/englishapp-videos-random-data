@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2BhEIuFMdos",
-            "title": "University of Central Florida Alleged Massacre Thwarted, Guns, Explosives Found in Dorm Room",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "DVFhJhdYbLY",
             "title": "Deadly Storms Sweep Across the South | ABC News",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Jonathan Karl Tracks Holiday Pork in Washington",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "XAdAgkj1ctE",
+            "title": "Seaside Heights Fire Strikes NJ Boardwalk After Hurricane Sandy Recovery",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

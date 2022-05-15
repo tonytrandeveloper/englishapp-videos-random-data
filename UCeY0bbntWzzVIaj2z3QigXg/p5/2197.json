@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LcnQeX0JauM",
-            "title": "Boris Johnson Announces Public Inquiry Into U.K.'s Covid Response",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "94u1NTNYSrU",
             "title": "Family Of Andrew Brown Jr. View Footage Of Fatal Shooting | NBC News",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Chuck Schumer: 'It Looks Like Neil Gorsuch Will Not Reach 60 Votes' | Meet The Press | NBC News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "u_1bNcF4yvU",
+            "title": "Van Plows Into Crowd In Germany, Killing Two | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

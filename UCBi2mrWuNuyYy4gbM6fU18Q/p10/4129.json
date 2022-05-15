@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9Rb0R6qvZAo",
-            "title": "ABC News Prime: GOP takes aim at SCOTUS pledge; Parents struggle with COVID; Mayim Bialik convo.",
-            "secondDuration": 5496,
-            "group": "group_7"
-        },
-        {
             "videoId": "8tGvMRl2cBE",
             "title": "Taal Volcano, plane crash and Winter Youth Olympic Games: World in Photos, Jan. 13",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "31% of kids in Florida tested for COVID-19 are positive l ABC News",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "nD9cWJKB05U",
+            "title": "Lance Armstrong Breaks Down: Question Pushes Cyclist to Brink",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

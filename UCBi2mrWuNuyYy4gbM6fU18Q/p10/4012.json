@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vKLkeXmc5-4",
-            "title": "Deadly mass shooting at Texas church: ABC Radio",
-            "secondDuration": 12893,
-            "group": "group_7"
-        },
-        {
             "videoId": "VW7TNzp6d2s",
             "title": "Navy's New Laser Weapon Blasts Bad Guys From Air, Sea",
             "secondDuration": 29,
@@ -61,8 +55,14 @@
             "title": "Gunman opens fire at Waffle House outside Nashville",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "JjGdZt01Zjw",
+            "title": "Chris Klein talks about Alcoholism and 'Mamma Mia'",
+            "secondDuration": 412,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

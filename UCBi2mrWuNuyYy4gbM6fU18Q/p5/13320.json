@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "J0OM73ndD24",
-            "title": "Brilliance! Chris Pratt and Chadwick Boseman Sing",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "G4NuWak87YQ",
             "title": "Miley Cyrus Cancels Tour After Allergic Reaction",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "New “Hunger Games” Trailer",
             "secondDuration": 267,
             "group": "group_7"
+        },
+        {
+            "videoId": "LKlNzMXEx7s",
+            "title": "20 Women Senators Devise Their Own Fiscal Cliff Financial Plan",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

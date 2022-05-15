@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z3JZcNvLKl0",
-            "title": "Thousands of Americans scared and stuck abroad",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "8m4gunBUXU0",
             "title": "Emily Mann Describes Surviving Louisiana Movie Theater Shooting",
             "secondDuration": 210,
@@ -61,8 +55,14 @@
             "title": "Dangerous Ice Storm Takes Hold in North East",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "CyVkbyv6n5o",
+            "title": "Deadly altercation over parking spot caught on camera",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

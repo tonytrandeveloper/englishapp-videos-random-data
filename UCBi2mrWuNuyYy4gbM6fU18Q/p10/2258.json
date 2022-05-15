@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6naz1ypDnLo",
-            "title": "Billionaires face off in space race",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "wWRYJPIx6bI",
             "title": "Cashing In On Cute?",
             "secondDuration": 302,
@@ -61,8 +55,14 @@
             "title": "Brian Carrick Disappears From Illinois Grocery Store",
             "secondDuration": 533,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zz0tykFOSTI",
+            "title": "5 dead after Denver-area shooting spree",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Yn8j4XRxSck",
-            "title": "Adorable moment of father and toddler having conversation | ABC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "DWPImvnamlE",
             "title": "ABC News Prime: Elijah McClain's photo release, COVID-19 update, Trump visits Mount Rushmore",
             "secondDuration": 3605,
@@ -301,8 +295,14 @@
             "title": "Donald Trump Names Kansas Rep. Mike Pompeo His Pick for CIA Director",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "ouul8pz7JdU",
+            "title": "Suspect Nikolas Cruz shot into at least 5 different classrooms on 2 floors: Authorities",
+            "secondDuration": 264,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

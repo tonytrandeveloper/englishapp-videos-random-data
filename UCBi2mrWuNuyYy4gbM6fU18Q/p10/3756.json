@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LMjNY6nx0LM",
-            "title": "Trump calls on supporters from Twitter, makes false claims about vote counting | WNT",
-            "secondDuration": 380,
-            "group": "group_7"
-        },
-        {
             "videoId": "BKEf7r6359Y",
             "title": "Funeral processions held in Iran for general Soleimani | ABC News",
             "secondDuration": 207,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Delivers Fiery Immigration Speech",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "GTp9hoNnncY",
+            "title": "Alec Baldwin Testifies Against Alleged Stalker",
+            "secondDuration": 449,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

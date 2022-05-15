@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "v00qdCaUn1E",
-            "title": "Nancy Pelosi: 'It's an injury in the family'",
-            "secondDuration": 441,
-            "group": "group_7"
-        },
-        {
             "videoId": "QZ6qG2mpM1k",
             "title": "New Royal Baby’s Arrival Excites",
             "secondDuration": 267,
@@ -31,8 +25,14 @@
             "title": "At least 24 dead after tornadoes strike Tennessee",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "tWIl4_5s1gs",
+            "title": "Trump on Clinton Emails, Melania Addresses Bully Culture",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

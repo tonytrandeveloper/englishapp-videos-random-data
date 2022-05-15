@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6FtLuPwgwvg",
-            "title": "A$AP Rocky appears in Sweden court l ABC News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "soYWAmera1I",
             "title": "Voters demand more transparency in Iowa caucuses | ABC News",
             "secondDuration": 227,
@@ -121,8 +115,14 @@
             "title": "US Yemen Terror Raid: Military Launches Investigation",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "cP8gCJjH0sg",
+            "title": "Obama Attacks Trump on Terrorism Views",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

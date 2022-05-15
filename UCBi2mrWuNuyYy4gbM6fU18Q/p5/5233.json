@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8I3hr_5eE6g",
-            "title": "Mike Pence delivers remarks on Capitol breach",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "e246-wCmnJ4",
             "title": "Louisiana, Mississippi still in need of necessities 5 days after storm l WNT",
             "secondDuration": 190,
@@ -31,8 +25,14 @@
             "title": "Prosecutor Hunts for Justice in Patz Case",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "7vWGgl4_TeE",
+            "title": "Confetti fills the sky in the NYC",
+            "secondDuration": 883,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

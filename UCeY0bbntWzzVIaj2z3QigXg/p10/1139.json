@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QgzwmBEaCwQ",
-            "title": "Tulsa Massacre’s Generational Impact On Black Residents",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "kfhIuDG1eTs",
             "title": "Many Americans Skipping Labor Day Travel With Uptick In Delta Cases",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "IRS Warns Of Sophisticated Scams As Tax Day Draws Near | NBC Nightly News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "DJIbAefO_vE",
+            "title": "Digitally Altered ‘Deepfake’ Videos A Growing Threat As 2020 Election Approaches | NBC Nightly News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

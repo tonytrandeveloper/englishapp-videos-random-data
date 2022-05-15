@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IlHUzDbt11k",
-            "title": "Biden Slams Trump Over Coronavirus Pandemic Response | NBC Nightly News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "qONBjNFqcOI",
             "title": "Meet The Press Broadcast (Full) - August 23rd, 2020 | Meet The Press | NBC News",
             "secondDuration": 2842,
@@ -31,8 +25,14 @@
             "title": "U.S. Coronavirus Cases Top 2 Million As Some States See Surge In Hospitalizations | NBC Nightly News",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "-BGrpryl-Gc",
+            "title": "Full Panel: 'Tale of Two Very Different Campaigns' | Meet The Press | NBC News",
+            "secondDuration": 425,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

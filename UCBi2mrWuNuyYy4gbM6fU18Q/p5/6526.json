@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tJyR3XDVHSA",
-            "title": "Bill Clinton Outlines Potential Changes to Foundation",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wn_8q1r99OY",
             "title": "Obama and Clinton to Hug it Out After Sharp Comments",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "In Case You Missed It",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "lRe_p5t1rfo",
+            "title": "Anna Nicole Smith's Daughter Speaks Out",
+            "secondDuration": 345,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

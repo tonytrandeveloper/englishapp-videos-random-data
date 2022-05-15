@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mJchca3SYT4",
-            "title": "CDC Recommends Shorter Isolation Time For Covid",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jq1OSo-OApM",
             "title": "Toyota Concert Series on TODAY: Kenny Chesney",
             "secondDuration": 20,
@@ -121,8 +115,14 @@
             "title": "Video of Police Shooting Death of Alton Sterling Stirs Outrage | NBC Nightly News",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "gPlpr_NjJTA",
+            "title": "NBC News Signal - January 24th, 2019",
+            "secondDuration": 3152,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

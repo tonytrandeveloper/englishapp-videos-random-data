@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yvVnalO5KyI",
-            "title": "Feed Frenzy: Ultimate Song of the Summer",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "LrtcNmG8d1g",
             "title": "FDA delays review of Pfizer shot for kids under 5 l WNT",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "NYC expands vaccine mandate to private sector employers l ABC News",
             "secondDuration": 327,
             "group": "group_7"
+        },
+        {
+            "videoId": "ORa22pYoVUM",
+            "title": "Police Believe Canadian Gunman Was Lone Wolf",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

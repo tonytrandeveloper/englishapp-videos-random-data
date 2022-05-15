@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6LZeYj0y3zM",
-            "title": "White House Coronavirus Task Force Holds News Conference | NBC News (Live Stream Recording)",
-            "secondDuration": 5399,
-            "group": "group_7"
-        },
-        {
             "videoId": "JZpHw35RVi0",
             "title": "E-Cigarette Use An ‘Epidemic’ Among Teenagers, FDA Says | NBC Nightly News",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "Teddy bear hunt brings welcome distraction for children | NBC Nightly News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "tOQMueFZKfc",
+            "title": "Olympic Team Figure Skating Medal Ceremony Delayed Due To Legal Issue, Says IOC",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SHeKHl7vaEs",
-            "title": "The Russia-Ukraine Conflict Explained | Nightly News: Kids Edition",
-            "secondDuration": 1545,
-            "group": "group_7"
-        },
-        {
             "videoId": "KxMdu3RRD6U",
             "title": "What Nuclear Negotiations With Iran Mean | Long Story Short | NBC News",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "The Impact Banning TV E-Cigarette Ads Will Have On The Vaping Industry | NBC News Now",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "0AgvAzsEpC4",
+            "title": "Delete Facebook Movement Grows Amid Brewing Backlash | NBC Nightly News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

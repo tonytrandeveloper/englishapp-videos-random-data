@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "V4sEDW815T8",
-            "title": "Olympics | Team USA Hidden Talents",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "wdqR44eOg_4",
             "title": "Best Oscar Speeches | 2016 Intro to the Academy Awards",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Trump associate Roger Stone sentenced to 40 months in prison l ABC News",
             "secondDuration": 521,
             "group": "group_7"
+        },
+        {
+            "videoId": "-mkLEZRK7ZY",
+            "title": "Girls Gone Mild",
+            "secondDuration": 424,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

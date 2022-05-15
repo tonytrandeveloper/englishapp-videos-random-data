@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MreZX_YssT0",
-            "title": "Supreme Court Wrestles With Abortion Buffer Zone",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "c5aaLb6X9Pw",
             "title": "CDC recommends vaccinating anyone 65 and older and those with preexisting conditions",
             "secondDuration": 205,
@@ -31,8 +25,14 @@
             "title": "A Denver police officer under investigation after incident with arrested suspect",
             "secondDuration": 50,
             "group": "group_7"
+        },
+        {
+            "videoId": "ODt_uoSi7y8",
+            "title": "ABC News Live: Russia pushes invasion to outskirts of Ukraine’s capital",
+            "secondDuration": 1028,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

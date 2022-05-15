@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EVCsRVQ4EXY",
-            "title": "Second Presidential Debate:  Fact vs. Fiction",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "NTOVcpUqh-U",
             "title": "ABC News Prime: Pres Trump's final days; International pardon fallout; COVID-19 crisis amid holidays",
             "secondDuration": 3555,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump Cuba Policy Change Speech Full",
             "secondDuration": 3649,
             "group": "group_7"
+        },
+        {
+            "videoId": "e2KpCFyjPU0",
+            "title": "Kid Gets Same Haircut as His Neighbor",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

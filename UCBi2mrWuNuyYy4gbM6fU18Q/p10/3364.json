@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SOwTawzZ-6Y",
-            "title": "Twin scientists",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "yQ3SVVE2T18",
             "title": "New Zealand prime minister announces sweeping gun law changes",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "InSight mission landing on Mars | ABC News",
             "secondDuration": 2572,
             "group": "group_7"
+        },
+        {
+            "videoId": "pg_-JOqW4XM",
+            "title": "Guilty verdict in 1st Jan. 6 trial",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

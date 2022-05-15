@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4AFs65a99KA",
-            "title": "Mother Of Cyberbullying Victim Speaks Out | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "0ccJi91bZIA",
             "title": "‘Active Minds’ Creates Safe Space For College Students To Discuss Mental Health | NBC Nightly News",
             "secondDuration": 152,
@@ -121,8 +115,14 @@
             "title": "How Amazon Is Defending Itself Against Weighted Search Result Accusations | NBC News Now",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "asfzn-ZbwsI",
+            "title": "Russian Intelligence Service Arrests Members of Ransomware Gang REvil",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

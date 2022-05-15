@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ym7nSPh7JHM",
-            "title": "Luxury Hotels for Dogs: Pets Living Large",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "_XsYF0EEtKA",
             "title": "What happened when Southwest engine failed midair, forcing emergency landing",
             "secondDuration": 391,
@@ -61,8 +55,14 @@
             "title": "Tourists escape sinking van in Amsterdam l ABC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "OrvKKQoyYec",
+            "title": "Growing COVID-19 concerns as outbreak spreads in DC I ABCNL",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Byc98klCsSo",
-            "title": "Waterboy Scores Emotional Touchdown",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "zIWfW5Gk9Bg",
             "title": "Slain Florida Teen's Parents Fight Back",
             "secondDuration": 594,
@@ -121,8 +115,14 @@
             "title": "Crowded conditions at border facility",
             "secondDuration": 345,
             "group": "group_7"
+        },
+        {
+            "videoId": "cdDihUFNp7E",
+            "title": "Facebook group connects people grappling with shocking DNA test results",
+            "secondDuration": 454,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

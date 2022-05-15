@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KOd-1aYvLk4",
-            "title": "MIX: Homeless Man Gives To Others",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "6-FbC7zTJKY",
             "title": "Trump: Russian Hacking Claims 'Ridiculous'",
             "secondDuration": 190,
@@ -61,8 +55,14 @@
             "title": "Prince William Stands Up to Bullying in New Campaign",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "CUqUw12dcyc",
+            "title": "Top Summer Songs 2012",
+            "secondDuration": 295,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

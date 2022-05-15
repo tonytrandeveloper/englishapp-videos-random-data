@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m1zTJi8Hes4",
-            "title": "President Donald Trump Speaks At New Hampshire Rally | NBC News",
-            "secondDuration": 7274,
-            "group": "group_7"
-        },
-        {
             "videoId": "kYVkPK8hW-0",
             "title": "California Gov. Newsom Speaks Out Amid Pandemic Response Criticism | NBC Nightly News",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "'So I Raped You': Woman's Fight For Justice On Sexual Assault",
             "secondDuration": 329,
             "group": "group_7"
+        },
+        {
+            "videoId": "ETmAugI1mxI",
+            "title": "James Mattis Says U.S. Wants To Solve North Korea Threat Through Diplomacy | NBC News",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

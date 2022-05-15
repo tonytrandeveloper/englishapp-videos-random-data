@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "466aQOwZotA",
-            "title": "4 kids recovering from injuries after a car slammed into day care in Philadelphia",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "N8PP-zjfHpA",
             "title": "Johnson & Johnson announce effective single-dose COVID-19 vaccine | WNT",
             "secondDuration": 323,
@@ -121,8 +115,14 @@
             "title": "Are there valid medical exemptions from wearing masks?",
             "secondDuration": 366,
             "group": "group_7"
+        },
+        {
+            "videoId": "7jIWDuQApRI",
+            "title": "Chelsea Bombing Investigation Focuses on 2 Men",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

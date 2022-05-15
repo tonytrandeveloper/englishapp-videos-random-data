@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "14y3D6AJbn8",
-            "title": "State of the Union 2014: President Obama Says Women Deserve Equal Pay",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "HT3mNpLshK8",
             "title": "Rep. Omar and Pramila Jayapal host medicare discussion in Minneapolis | ABC News",
             "secondDuration": 5660,
@@ -31,8 +25,14 @@
             "title": "Marijuana Remains Illegal Under Federal Law",
             "secondDuration": 38,
             "group": "group_7"
+        },
+        {
+            "videoId": "mtBODJefESg",
+            "title": "Top Line: Former Bush Official on Terrorism",
+            "secondDuration": 320,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

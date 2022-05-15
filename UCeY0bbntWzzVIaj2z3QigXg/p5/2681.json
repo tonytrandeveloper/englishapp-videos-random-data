@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-kiT122KG5Q",
-            "title": "Fauci: New Treatment Plan Will Help Prepare Against Future Pandemics",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "ceyNfPiSjMA",
             "title": "As Christmas Nears, Fauci Warns Against Holiday Travel | NBC Nightly News",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Skier Dies In Avalanche Outside Aspen | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "1IHnsGOKM0M",
+            "title": "Texas Health Officials Overwhelmed With Coronavirus Testing Demand | NBC News NOW",
+            "secondDuration": 884,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

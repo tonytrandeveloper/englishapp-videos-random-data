@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rOI6Z2yX9oo",
-            "title": "Watch: Lava From La Palma’s Volcanic Eruption Leaves Landscape Smouldering",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "-BCDnSQRcMQ",
             "title": "Biden: ‘Some Minds May Have Been Changed’ By Riot Videos In Impeachment Trial | NBC Nightly News",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Bodycam Video Shows 2016 Shootout Between Central Florida Man And Police | NBC Nightly News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "arIwu52pCak",
+            "title": "Florida Citrus Growers Fight To Save Fruit From Deep Freeze",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

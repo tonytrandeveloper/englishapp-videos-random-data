@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z2BkZ1cEhBU",
-            "title": "Students Protest White Nationalist's Speech at Texas A&M",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "MMJsl-XaYeU",
             "title": "Pilot shares story of survival after crash into Canadian wilderness l ABC News",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "Outrage over deadly police shooting of bride-to-be in Minneapolis",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "C2K6ctBW6mw",
+            "title": "ABC News Live: Ukrainians say they have taken back a village in Chernihiv region | ABC News",
+            "secondDuration": 1394,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

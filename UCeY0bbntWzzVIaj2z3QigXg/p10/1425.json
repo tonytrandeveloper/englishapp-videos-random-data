@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QbZlsL0AD4o",
-            "title": "Steven Spielberg On The Legacy Of 'Schindler's List' 25 Years Later | NBC Nightly News",
-            "secondDuration": 1367,
-            "group": "group_7"
-        },
-        {
             "videoId": "j1rtbmgzwbE",
             "title": "President Donald Trump On Government Shutdown: ‘We’ll See What Happens’ | NBC Nightly News",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "President Obama After Two Terms: 'My Spirit Is Unchanged. It’s Undaunted.' | NBC News",
             "secondDuration": 310,
             "group": "group_7"
+        },
+        {
+            "videoId": "4j0Uyi1LbI4",
+            "title": "I Tried To Feng Shui My Desk | Better | NBC News",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

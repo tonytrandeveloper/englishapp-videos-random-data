@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "f8GZ3Wmm9Ps",
-            "title": "'Smart Bomb' Cancer Drug Announced at Chicago Conference",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "H_iv0WUYtQg",
             "title": "Texas voting rights battle heats up as state Democrats head to DC",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: The Royal Baby",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "AuEm_hNXk80",
+            "title": "Sources: Former FBI deputy director had launched a criminal probe into Sessions",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

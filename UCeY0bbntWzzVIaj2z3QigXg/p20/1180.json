@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AZF1gaoarl8",
-            "title": "Gunman Injures 4 Outside Pennsylvania Courtroom | NBC Nightly News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ql45GDQ4QqE",
             "title": "Morning News NOW Full Broadcast - April 16 | NBC News NOW",
             "secondDuration": 3196,
@@ -121,8 +115,14 @@
             "title": "Migrants Kept In Coronavirus Quarantine On Board Ferry Boat | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "--YgSGYlTNs",
+            "title": "Los Angeles County Gives Coronavirus Update | NBC News",
+            "secondDuration": 620,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

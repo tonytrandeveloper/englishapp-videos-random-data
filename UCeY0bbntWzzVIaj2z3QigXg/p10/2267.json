@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZlrfS_ipbxI",
-            "title": "Full Panel: Pelosi Calls Trump's Proposal 'Unacceptable' | Meet The Press| NBC News",
-            "secondDuration": 473,
-            "group": "group_7"
-        },
-        {
             "videoId": "NOlmPGlMeYk",
             "title": "Bill Clinton Addresses Bernie Sanders Win in Michigan | NBC News",
             "secondDuration": 63,
@@ -61,8 +55,14 @@
             "title": "Daniel Goldman: Trump’s Actions Are 'Imminent Threat' To Elections, National Security | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "sKJTjoguYJE",
+            "title": "Virginia Pro-Gun Rally Draws Thousands Of Protesters | NBC Nightly News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

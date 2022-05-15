@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LSZAp0-_Vn0",
-            "title": "Cornell University provost on campus shutdown following COVID outbreak",
-            "secondDuration": 373,
-            "group": "group_7"
-        },
-        {
             "videoId": "iVdH1U3s0DA",
             "title": "April 12, 1981: NASA Shuttle Columbia's First Flight",
             "secondDuration": 198,
@@ -31,8 +25,14 @@
             "title": "Shark Attacks on American Holiday",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "-zbvlPFc2N0",
+            "title": "WEBCAST: Two U.S. Skiers Killed in Avalanche Accident",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yBUPNCEuavI",
-            "title": "Singing with Jake Gyllenhaal",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "bPZJ3OeYVBc",
             "title": "The next cake boss?",
             "secondDuration": 336,
@@ -61,8 +55,14 @@
             "title": "Bottom Line on Health Care",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "tFk3sP-MOQE",
+            "title": "Morning Mix: President Obama to Jay Leno",
+            "secondDuration": 433,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

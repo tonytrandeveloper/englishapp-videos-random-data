@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dlrRNWLTvAI",
-            "title": "Severe Winter Cold Explained By A Meteorologist | NBC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "dqKNsC4QjF4",
             "title": "Top Story with Tom Llamas - March 4 | NBC News NOW",
             "secondDuration": 2632,
@@ -31,8 +25,14 @@
             "title": "Live: White House Holds Press Briefing | NBC News",
             "secondDuration": 2265,
             "group": "group_7"
+        },
+        {
+            "videoId": "FYWUnfP8MxE",
+            "title": "Roseanne Canceled After Roseanne Barr Tweets Racist Comment About Valerie Jarrett | NBC Nightly News",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

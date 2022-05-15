@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LGF9eVE8MOI",
-            "title": "NFL Pro Bowl Game Changes: Narrow Goal Posts | NBC Nightly News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "IZ-5tWwoGw4",
             "title": "Watch Live: White House Press Briefing January 3rd | NBC News",
             "secondDuration": 509,
@@ -31,8 +25,14 @@
             "title": "The Pandemic's Impact On America's Opioid Crisis | NBC News NOW",
             "secondDuration": 380,
             "group": "group_7"
+        },
+        {
+            "videoId": "_EY2yHMy-c0",
+            "title": "Matt Lauer: \"I have a dream that...\"",
+            "secondDuration": 11,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

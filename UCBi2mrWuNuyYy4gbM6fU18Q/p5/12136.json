@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UGitzTGqA5s",
-            "title": "Exclusive Interview with Chelsea Manning",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "_7MpW-vRPqM",
             "title": "Can the GOP Trust Donald Trump?",
             "secondDuration": 180,
@@ -31,8 +25,14 @@
             "title": "On the Ground in Battleground State Arizona  | ABC News",
             "secondDuration": 550,
             "group": "group_7"
+        },
+        {
+            "videoId": "DFopjOrOfRM",
+            "title": "Boehner Adviser Discusses The Budget Battle",
+            "secondDuration": 290,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

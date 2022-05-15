@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rNwjRJm20zI",
-            "title": "FDA Trans Fats Ban May Target Your Favorite Food",
-            "secondDuration": 223,
-            "group": "group_7"
-        },
-        {
             "videoId": "pCXIcU5jFLI",
             "title": "President Trump arrives to Walter Reed to be treated for COVID-19 | WNT",
             "secondDuration": 38,
@@ -61,8 +55,14 @@
             "title": "The Debrief: SCOTUS on gerrymandering, bump stock deadline, Apple announcement | ABC News",
             "secondDuration": 1700,
             "group": "group_7"
+        },
+        {
+            "videoId": "wVyKXQmhN8Q",
+            "title": "Sofia Vergara: Real-Life Gloria",
+            "secondDuration": 493,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uQI07LjEbws",
-            "title": "Specter Switches Sides",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "7y6AeoBdQyQ",
             "title": "Roy Moore accuser speaks out just before Election Day",
             "secondDuration": 233,
@@ -31,8 +25,14 @@
             "title": "Trump battles Obama, bombshell book ahead of midterms",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "cQFfhdMU-7k",
+            "title": "Hayley Atwell Talks Upcoming Show 'Conviction'",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

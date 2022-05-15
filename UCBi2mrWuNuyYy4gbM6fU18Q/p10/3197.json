@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eMyRVnRsG3Y",
-            "title": "Ulta CEO reveals new store safety measures amid reopenings",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "4SWxMj_yGQo",
             "title": "Highlights from Coldplay’s Super Bowl Press Conference | ABC News",
             "secondDuration": 201,
@@ -61,8 +55,14 @@
             "title": "6.2 Magnitude Earthquake Devastates Japan",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "W2k73NBr0jA",
+            "title": "Ohio School Shooting: 4 Students Injured",
+            "secondDuration": 43,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

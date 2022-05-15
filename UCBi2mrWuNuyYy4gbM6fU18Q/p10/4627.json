@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Nosl-CiDqGo",
-            "title": "WEBCAST: British Royals Wrap Up NYC Visit",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "9C_OHU6zgAY",
             "title": "Authorities seek public’s help as mom of missing Idaho kids faces judge l ABC News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Sheriff's deputy fatally shoots suspect in Florida",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "kMmu1xoBhZ8",
+            "title": "Chicago Teachers' Strike: Public Schools vs. Charter Schools",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "X8PKOCBW4KI",
-            "title": "See How This 7-Year-Old Is Moving Others With His Dance Moves | Nightly News: Kids Edition",
-            "secondDuration": 813,
-            "group": "group_7"
-        },
-        {
             "videoId": "q2vSD8joLsk",
             "title": "NYC Mayor Bill de Blasio Briefing On Coronavirus, George Floyd Protests | NBC News",
             "secondDuration": 3669,
@@ -121,8 +115,14 @@
             "title": "Chile Using Live Concert To Test Covid Protocols",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "fdq50DBv-zM",
+            "title": "Facebook, Twitter, Google CEOs Testify At Senate Hearing | NBC News",
+            "secondDuration": 13403,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

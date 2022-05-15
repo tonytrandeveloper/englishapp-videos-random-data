@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rNOn-LHkLn4",
-            "title": "The Gravedigger’s Wife l 20/20 l PART 3",
-            "secondDuration": 474,
-            "group": "group_7"
-        },
-        {
             "videoId": "LJ5_ZP-vOQI",
             "title": "Hot Air Balloon Strikes Electric Lines, Killing 16 Passengers",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Severe hailstorm pelts Tennessee",
             "secondDuration": 37,
             "group": "group_7"
+        },
+        {
+            "videoId": "N7DovtDp1GE",
+            "title": "A Taste of Victory",
+            "secondDuration": 400,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

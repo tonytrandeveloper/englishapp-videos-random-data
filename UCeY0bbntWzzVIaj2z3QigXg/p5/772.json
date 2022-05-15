@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y7Bf7JSk7yQ",
-            "title": "Oprah Warns Fans Against Holiday Scam | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "BKshx1qHfB8",
             "title": "President Donald Trump Claims Paul Ryan, Mitch McConnell On Board With Potential DACA Fix | NBC News",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "NBC News Defends Decision Not To Publish Ronan Farrow Report On Harvey Weinstein | NBC Nightly News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "3Axr-4PpQv0",
+            "title": "Frustration Grows Over Government Shutdown As Federal Workers Feel The Impact | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

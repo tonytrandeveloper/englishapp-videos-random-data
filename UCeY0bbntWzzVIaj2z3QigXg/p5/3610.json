@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lbt9u4QYx7w",
-            "title": "Morning News NOW Full Broadcast - Dec. 30",
-            "secondDuration": 2991,
-            "group": "group_7"
-        },
-        {
             "videoId": "Fgx5snPx-Qo",
             "title": "Growing Concerns About America’s Meat Supply As Producers Hit By Coronavirus | NBC Nightly News",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "‘You Will Never Hear Me Mention His Name’: Ardern Condemns Christchurch Shooting Suspect | NBC News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "wc2TwOVFF7s",
+            "title": "Second NYPD Officer Dies After Domestic Disturbance Call",
+            "secondDuration": 291,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

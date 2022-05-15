@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "24064WY_nkc",
-            "title": "Toy Car Replica | ABC News",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "_TZiQWnpbEo",
             "title": "Street vendors struggle to survive through the pandemic",
             "secondDuration": 336,
@@ -61,8 +55,14 @@
             "title": "Steve Jobs Dead: Vigil Outside Apple Headquarters in Cupertino, California",
             "secondDuration": 13,
             "group": "group_7"
+        },
+        {
+            "videoId": "AIDBvD3kGKg",
+            "title": "David Koresh and his multiple 'wives' of Waco: Part 2",
+            "secondDuration": 559,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

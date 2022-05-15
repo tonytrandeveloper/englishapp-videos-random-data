@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5l_4YWNYeXk",
-            "title": "President Obama Trayvon Martin Comments 2013: 'Trayvon Martin Could Have Been Me'",
-            "secondDuration": 1016,
-            "group": "group_7"
-        },
-        {
             "videoId": "VOEuNCj3JAg",
             "title": "2020 candidate Joe Biden attends town hall in Davenport, Iowa | ABC News",
             "secondDuration": 2543,
@@ -31,8 +25,14 @@
             "title": "Losing Everything: 19,000 People Displaced by Wildfires",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "desFepEX5Is",
+            "title": "Sen. Menendez: ‘Our democracy prevails’ with a ‘peaceful transfer of power’",
+            "secondDuration": 329,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

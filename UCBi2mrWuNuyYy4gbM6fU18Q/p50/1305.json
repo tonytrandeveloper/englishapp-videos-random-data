@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Fqub0GF8-Ng",
-            "title": "Trump Plane Flies Over Ted Cruz Event",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "l0YgSQQgzuw",
             "title": "Russian forces get closer to Ukraine border as tensions rise l GMA",
             "secondDuration": 94,
@@ -301,8 +295,14 @@
             "title": "Americans stranded overseas and on the sea",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "wN82MLajWpU",
+            "title": "Being Black and Struggling With Body Image",
+            "secondDuration": 401,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

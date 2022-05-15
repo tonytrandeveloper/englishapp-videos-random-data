@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RwKft_Aqokc",
-            "title": "Derek Chauvin’s defense team cross-examines Lt. Johnny Mercil",
-            "secondDuration": 935,
-            "group": "group_7"
-        },
-        {
             "videoId": "EF8VasDHAW0",
             "title": "Briefing Room: Secretary of Labor Acosta resigns, Tropical Storm Barry, immigration battle",
             "secondDuration": 1676,
@@ -31,8 +25,14 @@
             "title": "Teens Fight School Over 'I Heart Boobies' Bracelets",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "5wVNRRVAjLg",
+            "title": "Otter Is Afraid to Swim",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HM5QPapWYHc",
-            "title": "Ken Burns interview on new PBS documentary ‘The Vietnam War’",
-            "secondDuration": 1258,
-            "group": "group_7"
-        },
-        {
             "videoId": "_hsJJk4-xhA",
             "title": "Green Pastures Can Boost Concentration",
             "secondDuration": 182,
@@ -31,8 +25,14 @@
             "title": "Ted Cruz, John Kasich Band Together to Stop Donald Trump",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "rQRDqAqwGAk",
+            "title": "'Sugar Daddies' Hook Up with Young Women | Nightline | ABC News",
+            "secondDuration": 436,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Xt_8IV9PHT0",
-            "title": "Clinton Clobbers Trump in Fundraising",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "0weZ-zt3YPU",
             "title": "Trump on ABC News town hall: Comments on military ‘were never made by me’",
             "secondDuration": 497,
@@ -121,8 +115,14 @@
             "title": "CBS under fire over severance for ex-CEO",
             "secondDuration": 345,
             "group": "group_7"
+        },
+        {
+            "videoId": "40rzOXd3i3Q",
+            "title": "Adam Driver Teams With Snickers for Live Super Bowl Commercial",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

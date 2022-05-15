@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ym7fZUwu8Kw",
-            "title": "This Morning’s Top Headlines – October 20 | Morning News NOW",
-            "secondDuration": 1430,
-            "group": "group_7"
-        },
-        {
             "videoId": "0So0-tSPrXY",
             "title": "Chileans Celebrate Overwhelming Vote To Scrap Pinochet-Era Constitution | NBC News NOW",
             "secondDuration": 54,
@@ -61,8 +55,14 @@
             "title": "Cruise Ships Are Back At Sea As Bookings Boom",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "_N3uuy3x4Zs",
+            "title": "Record-Setting Diamond Unearthed in Botswana",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

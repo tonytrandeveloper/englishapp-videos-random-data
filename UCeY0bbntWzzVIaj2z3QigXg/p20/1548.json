@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zMJuFR2yuNg",
-            "title": "House Speaker Nancy Pelosi: 'I Agree' Country Is In Constitutional Crisis | NBC News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "SpES-FQOQMU",
             "title": "Florida Hospitals Struggle To Keep Up As Coronavirus Cases Spike | NBC News NOW",
             "secondDuration": 724,
@@ -121,8 +115,14 @@
             "title": "Hillary Clinton Compares Weinstein To President Trump | NBC News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "FTY4fZK7dGg",
+            "title": "LGBTQ Candidates Celebrate Historic Election Firsts Across The Country",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vzj_SS-2opg",
-            "title": "More CountriesDetecting New Covid Variant | NBC Nightly News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "AZDkFadiKsk",
             "title": "President Donald Trump Looking Forward To ‘Friendly Negotiation’ With North Korea | NBC Nightly News",
             "secondDuration": 118,
@@ -121,8 +115,14 @@
             "title": "Charlie Grad, Boy At Center Of Ethics Debate, Dies | NBC News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "KTbpT2vdzC8",
+            "title": "Michael Cohen Sentenced To Three Years In Federal Prison | NBC Nightly News",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

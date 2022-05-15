@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bZv6tpvVqzE",
-            "title": "Humpback Whales In New York City’s Harbor | Nightly News Films",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "RqeIttLq8g4",
             "title": "Candlelit Vigil Held For Victims Of Bronx Apartment Fire",
             "secondDuration": 63,
@@ -61,8 +55,14 @@
             "title": "Sturgis Biker Rally Underway Despite Coronavirus | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "FPtrJOoZ-wg",
+            "title": "Does Bernie Sanders Have A Shot? | NBC News Signal",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

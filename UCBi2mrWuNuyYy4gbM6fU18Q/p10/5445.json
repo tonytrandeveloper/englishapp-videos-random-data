@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8xtewUN_B_k",
-            "title": "Passengers are secretly being watched on the plane by TSA program",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "PJ9yaPtwD80",
             "title": "Teachers go on strike in Chicago l ABC News",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Jerry Seinfeld, Bob Roth on Importance of Transcendental Meditation for PTSD",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "CnNTjTmyOjM",
+            "title": "Hillary Clinton In A Minute",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

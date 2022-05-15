@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "u4rnchDmGMU",
-            "title": "Zanesville, Ohio: Hunt for Escaped Exotic Animals",
-            "secondDuration": 241,
-            "group": "group_7"
-        },
-        {
             "videoId": "CfAbfbEx_PQ",
             "title": "Supreme Court rejects challenge to Texas abortion law l WNT",
             "secondDuration": 290,
@@ -61,8 +55,14 @@
             "title": "'There shouldn't be a partisan divide' on vaccinations: Gov. Asa Hutchinson | ABC News",
             "secondDuration": 363,
             "group": "group_7"
+        },
+        {
+            "videoId": "vj2W0HlcysA",
+            "title": "Police release new photos of escaped prisoner",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

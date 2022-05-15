@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZLjiHY3qMZc",
-            "title": "Watch live: President Trump makes announcement on E.U. trade",
-            "secondDuration": 2751,
-            "group": "group_7"
-        },
-        {
             "videoId": "aoGo8FX4DnY",
             "title": "President Donald Trump Mocks Sexual Assault Allegations Against Brett Kavanaugh | NBC News",
             "secondDuration": 245,
@@ -31,8 +25,14 @@
             "title": "New Wave of Covid Hospitalizations As U.S. Reaches Grim Milestone",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "7BZnHa-4CI8",
+            "title": "Rising Together: Asian American Activists | Nightly News Films",
+            "secondDuration": 676,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

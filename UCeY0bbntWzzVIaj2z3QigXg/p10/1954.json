@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7ZWfnzwYG18",
-            "title": "Liberal Or Conservative? Where You Shop Reveals How You Vote | Meet The Press | NBC News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "TUE6yCdP-nE",
             "title": "Mitch McConnell Asked Why Senate Working Group On Health Care Lacks Women | NBC News",
             "secondDuration": 56,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Mocks Biden During NRCC Speech | NBC News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "XvZk8OARqp4",
+            "title": "Nine Dead In South Dakota Plane Crash | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fJCIk4OT7EE",
-            "title": "Trump Speaks To Arizona Youth | NBC News",
-            "secondDuration": 5654,
-            "group": "group_7"
-        },
-        {
             "videoId": "X96K-0QkoVw",
             "title": "New Technology Helps Gather Critical Hurricane Intensity Data | NBC Nightly News",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "Democrat Stacy Abrams Officially Enters 2022 Georgia Governor Race",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "QDJcyXiMrAM",
+            "title": "218: The Race for the House – 14 Days to Go",
+            "secondDuration": 1236,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

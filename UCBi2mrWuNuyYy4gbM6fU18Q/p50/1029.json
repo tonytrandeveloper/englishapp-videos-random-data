@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "RailU176mLc",
-            "title": "Video of Dramatic El Chapo Raid  | ABC News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z9iF-qrj9kg",
             "title": "Judge berates former USA Gymnastics doctor Larry Nassar in court",
             "secondDuration": 136,
@@ -301,8 +295,14 @@
             "title": "South Carolina Woman Kidnapped as a Baby Found Alive and Well",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "5PgBDkZROXQ",
+            "title": "Stepfather of Jaycee Dugard Speaks Out",
+            "secondDuration": 359,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

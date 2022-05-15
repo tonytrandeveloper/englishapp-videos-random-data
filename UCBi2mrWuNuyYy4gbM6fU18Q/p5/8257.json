@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9Rb0R6qvZAo",
-            "title": "ABC News Prime: GOP takes aim at SCOTUS pledge; Parents struggle with COVID; Mayim Bialik convo.",
-            "secondDuration": 5496,
-            "group": "group_7"
-        },
-        {
             "videoId": "8tGvMRl2cBE",
             "title": "Taal Volcano, plane crash and Winter Youth Olympic Games: World in Photos, Jan. 13",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "The Conversation: 'Sarah Doesn't Speak for Me'",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "HJ8fmzvR6XQ",
+            "title": "Halloween 2013 Costumes: George Stephanopoulos' Floating Astronaut Costume is Out of This World",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

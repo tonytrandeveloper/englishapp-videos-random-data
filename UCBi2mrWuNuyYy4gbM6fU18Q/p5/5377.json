@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SWu0GikVDiA",
-            "title": "WEBCAST: Wild Weather",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "48adj7l96sY",
             "title": "John Legend and Common Cozy Up with Oscar",
             "secondDuration": 202,
@@ -31,8 +25,14 @@
             "title": "Boarding School for Overweight Kids",
             "secondDuration": 335,
             "group": "group_7"
+        },
+        {
+            "videoId": "EFNtG5K5FJ8",
+            "title": "Police question boyfriend of abducted woman, doubt his story: Part 2",
+            "secondDuration": 443,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

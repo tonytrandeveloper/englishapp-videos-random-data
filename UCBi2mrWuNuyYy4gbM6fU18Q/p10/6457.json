@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YAk7SevcyUs",
-            "title": "RV industry booms during the pandemic | WNT",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "fiPtnbJGG50",
             "title": "Mexican Drug Kingpin Escapes From Prison for Second Time in Two Decades",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "Deadly Heat Wave Sweeps U.S.",
             "secondDuration": 282,
             "group": "group_7"
+        },
+        {
+            "videoId": "qzEyx7L93Rc",
+            "title": "Self-Help Guru Cancels Events",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

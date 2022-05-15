@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UHLKkgWZza0",
-            "title": "U.S. Added 194,000 Jobs In September, Unemployment Rate Down",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "cbjOycZfKxE",
             "title": "White House Press Briefing - January 2, 2018 (Full) | NBC News",
             "secondDuration": 3875,
@@ -121,8 +115,14 @@
             "title": "LIVE: New York Gov. Cuomo Resigns, Will Leave Office In 2 Weeks | NBC News",
             "secondDuration": 1870,
             "group": "group_7"
+        },
+        {
+            "videoId": "w-GbTd-f0W4",
+            "title": "Top Story with Tom Llamas - October 22 | NBC News NOW",
+            "secondDuration": 3014,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

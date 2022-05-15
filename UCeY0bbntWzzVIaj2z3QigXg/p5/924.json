@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6BY5s7hHRas",
-            "title": "Michael Bennet Drops Out Of 2020 Democratic Primary | NBC News NOW",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "XeyzEyclz3I",
             "title": "Morning News NOW Full Broadcast - June 23 | NBC News NOW",
             "secondDuration": 3026,
@@ -31,8 +25,14 @@
             "title": "Kamala Harris: Trump Downplaying Coronavirus To Public Is 'Outrageous' | NBC News NOW",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "NxWOm6Uip8g",
+            "title": "First Snowstorm In Decades Hits Los Angeles | NBC News",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

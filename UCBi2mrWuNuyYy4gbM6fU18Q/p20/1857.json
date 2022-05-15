@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8h1tyCe8rBM",
-            "title": "George Floyd case: Former officer Thao's interview, body camera footage released | ABC News",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "pUQPOkV1L-Y",
             "title": "Puerto Rico battles state of darkness",
             "secondDuration": 294,
@@ -121,8 +115,14 @@
             "title": "Harrisburg, Illinois, Devastated by Tornadoes",
             "secondDuration": 265,
             "group": "group_7"
+        },
+        {
+            "videoId": "t_u2Zy3Nvec",
+            "title": "Community Paints Over Racial Slurs Before Family Returns Home",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

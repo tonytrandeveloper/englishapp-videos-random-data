@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "isn64lDqJb0",
-            "title": "Jenna Bush Hager: \"I have a dream that...\"",
-            "secondDuration": 10,
-            "group": "group_7"
-        },
-        {
             "videoId": "nJAL9S92S4o",
             "title": "Elizabeth Warren On President Donald Trump: 'Talk Is Cheap' | NBC News",
             "secondDuration": 172,
@@ -121,8 +115,14 @@
             "title": "Live: Trump Participates In Presentation Of The U.S. Space Force Flag | NBC News",
             "secondDuration": 554,
             "group": "group_7"
+        },
+        {
+            "videoId": "XttLYiycu6A",
+            "title": "Remembering The Americans Lost To Covid-19 | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

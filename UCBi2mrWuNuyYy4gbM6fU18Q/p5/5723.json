@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "t5lLcnA-xao",
-            "title": "3-year-old missing girl rescued by family dog",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "XXp4tRJKwUg",
             "title": "Chattanooga Bus Crash Survivors Speak Out",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "India's Power Outage Leaves 600 Million People in Dark",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "8pgWyXaaf-0",
+            "title": "Gov. Scott Walker: 'America Deserves Better'",
+            "secondDuration": 607,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

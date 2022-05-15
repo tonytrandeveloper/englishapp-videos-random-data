@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NwPLGgdUDew",
-            "title": "Glassman To McCain: 'Retire'",
-            "secondDuration": 582,
-            "group": "group_7"
-        },
-        {
             "videoId": "o6Nb0Nc-fME",
             "title": "Trump Claims Obama wiretapped Trump Tower | ABC News",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Andrew Pollack's speech at the 2020 RNC",
             "secondDuration": 354,
             "group": "group_7"
+        },
+        {
+            "videoId": "3B8UMTLL3OU",
+            "title": "Pelosi announces Trump impeachment inquiry l ABC News",
+            "secondDuration": 250,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

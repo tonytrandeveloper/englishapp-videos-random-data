@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RFvRAGs9sSU",
-            "title": "Primetime Family Secrets: Teen Pregnancy",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "rxiK6zLtn5g",
             "title": "Dylann Roof to Represent Himself in Mass Murder Trial",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Obama Bringing European Policies to US? 'That's Just What We're Getting': 'This Week' Roundtable",
             "secondDuration": 1357,
             "group": "group_7"
+        },
+        {
+            "videoId": "hibL_QbQuEY",
+            "title": "'Happy Face Killer' Describes Killing First Victim",
+            "secondDuration": 401,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

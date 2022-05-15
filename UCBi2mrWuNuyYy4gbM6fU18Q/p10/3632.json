@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YCFpI1sg1n8",
-            "title": "Man who acted erratically on Honolulu flight went through screening twice",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "mCV3mHgddVE",
             "title": "Top Stories - May 1, 2012 - Rob Nelson & Sunny Hostin",
             "secondDuration": 654,
@@ -61,8 +55,14 @@
             "title": "Pope Francis Meets Family of US Student Killed in Rome",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "TLyYOToVy5o",
+            "title": "Truck Plows Through Crowd in Nice, France",
+            "secondDuration": 254,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

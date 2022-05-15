@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SdXAFeFXsMI",
-            "title": "Donald Trump Urges His Supporters to Be on the Lookout for Cheating",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "yomP_SY0pUY",
             "title": "Hong Kong protests, the Iowa State Fair, Eid celebrations: World in Photos, Aug. 16",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "Josh Shaw Suspended for Fabricating Nephew Rescue Story",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "B_xSirHTPyU",
+            "title": "Shot of equity for vaccine rollout",
+            "secondDuration": 263,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

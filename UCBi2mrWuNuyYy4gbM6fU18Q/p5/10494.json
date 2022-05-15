@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Jruz3SKh2zI",
-            "title": "Oprah's Big Secret: Family Reunited 1/23/2011",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "uEQfgpsguGo",
             "title": "Couple Gets Married Using Live-Streaming App ‘Periscope’",
             "secondDuration": 211,
@@ -31,8 +25,14 @@
             "title": "UCLA gymnast's entertaining floor routine",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "z8OWaPvnBRk",
+            "title": "White Out",
+            "secondDuration": 306,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

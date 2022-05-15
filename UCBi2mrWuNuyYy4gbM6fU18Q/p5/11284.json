@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T4_ba0fVUME",
-            "title": "New York State braces for spike in coronavirus cases",
-            "secondDuration": 378,
-            "group": "group_7"
-        },
-        {
             "videoId": "UYbkbXCrC6E",
             "title": "Mass shooting at Borderline Bar and Grill in California",
             "secondDuration": 474,
@@ -31,8 +25,14 @@
             "title": "Protests Spread Over Lack of Indictment in Eric Garner Death",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "p53b0OaMBOQ",
+            "title": "Easter Celebration:  The people's Pope Signals to the Crowd",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

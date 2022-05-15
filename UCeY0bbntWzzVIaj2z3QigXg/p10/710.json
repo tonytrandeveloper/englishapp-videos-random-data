@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X3ednuGPjd8",
-            "title": "Former Vice President Walter Mondale Dies At Age 93 | NBC News",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "AoWBizz0PpI",
             "title": "3-Year-Old Dies After Being Left In A Hot Van | NBC Nightly News",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Biden To Outline White House Response To Covid Omicron Variant",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "xRJenm7GFJI",
+            "title": "Meet The Helicopter Pilot Who Saved Lives During Hurricane Maria | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

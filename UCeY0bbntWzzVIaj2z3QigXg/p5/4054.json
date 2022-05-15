@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AbrgbOSPypE",
-            "title": "Local Communities Struggle to Evaluate Safety of Popular Artificial Turf | NBC Nightly News",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "OteAF3dx2ss",
             "title": "First Lady Melania Trump Casts In-Person Vote In Florida On Election Day | NBC News NOW",
             "secondDuration": 57,
@@ -31,8 +25,14 @@
             "title": "Trump Considers Reducing Troops In Germany To Send To Poland | NBC News NOW",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "q-xZez28ibs",
+            "title": "White House Holds Press Briefing: Dec. 7 | NBC News",
+            "secondDuration": 3713,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

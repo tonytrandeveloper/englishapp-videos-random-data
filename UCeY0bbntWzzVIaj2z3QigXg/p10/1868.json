@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_5K-V5hlLXc",
-            "title": "President Donald Trump: My Attitude Toward Bashar al-Assad ‘Has Changed Very Much’ | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "kNyvgh-2cvA",
             "title": "Migrant Caravan Pushes Forward After Stop At Guatemala-Mexico Border | NBC Nightly News",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Food And Drug Administration Chief Says Teen E-Cigarette Use Is An 'Epidemic' | NBC News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "s_cBNsvg0FE",
+            "title": "Apple Says Trade War With China Is Slowing Sales, Sends Markets Tumbling | NBC Nightly News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

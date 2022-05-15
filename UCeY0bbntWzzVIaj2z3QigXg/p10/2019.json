@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XDtRPe2zF1s",
-            "title": "Drug Companies Start 2019 With Price Hikes | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "jUQlft-vR70",
             "title": "House Speaker Nancy Pelosi Says President Donald Trump Is ‘Engaged In A Cover-Up’ | NBC News",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Can Presidential Candidates Have You Arrested At Their Events? | NBC News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "f1azlM1f65M",
+            "title": "Why Hurricanes Are So Devastating | NBC News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

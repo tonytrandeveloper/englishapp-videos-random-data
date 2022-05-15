@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ROhEetzLT5w",
-            "title": "Restaurant Hosts “Magic Mike” Themed Brunch | ABC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "wM87KH18cjQ",
             "title": "Hackers Still Targeting Election Systems, FBI Director Warns",
             "secondDuration": 79,
@@ -301,8 +295,14 @@
             "title": "Hondurans fleeing violence, corruption at home",
             "secondDuration": 386,
             "group": "group_7"
+        },
+        {
+            "videoId": "vM4jm540_eg",
+            "title": "Russian Truck Crash Caught on Camera",
+            "secondDuration": 38,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

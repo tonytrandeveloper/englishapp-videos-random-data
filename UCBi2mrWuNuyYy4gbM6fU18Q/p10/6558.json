@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iolGsOAcokA",
-            "title": "5 killed when small plane crashes into California home",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "95PKrF30WHk",
             "title": "Oakland police work to combat crime surge amid budget cuts",
             "secondDuration": 387,
@@ -61,8 +55,14 @@
             "title": "Trump Repeats ISIS Claims Against Obama, Clinton",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "8fAvmRbdFXY",
+            "title": "OSCARS 2016 | Red Carpet Fashion Predictions",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

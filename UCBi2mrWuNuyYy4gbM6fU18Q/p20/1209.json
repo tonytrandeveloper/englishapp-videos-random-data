@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DlC-ssno6yE",
-            "title": "2nd man found dead at Democratic donor's house",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "cuKSG8ibEfM",
             "title": "Berlusconi: Harsh Words from Pope Benedict 1/21/2011",
             "secondDuration": 129,
@@ -121,8 +115,14 @@
             "title": "Jonathan Karl Tracks Holiday Pork in Washington",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "XAdAgkj1ctE",
+            "title": "Seaside Heights Fire Strikes NJ Boardwalk After Hurricane Sandy Recovery",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

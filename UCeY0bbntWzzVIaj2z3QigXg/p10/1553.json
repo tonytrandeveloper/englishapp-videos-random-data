@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "asfzn-ZbwsI",
-            "title": "Russian Intelligence Service Arrests Members of Ransomware Gang REvil",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "NsfOq87Xvk0",
             "title": "Interview With UN Ambassador As Russia Threatens To Cut Off Syria Aid",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Pennsylvania Nurses Go On Strike As Covid Cases Surge | NBC News NOW",
             "secondDuration": 1242,
             "group": "group_7"
+        },
+        {
+            "videoId": "Mx7fGcfDpR0",
+            "title": "Swedish Crown Jewels Stolen In Broad Daylight Heist | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

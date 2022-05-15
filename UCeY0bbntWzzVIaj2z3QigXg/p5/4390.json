@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l5POvZNzEnY",
-            "title": "Taiwan Top Diplomat Addresses Threats Of Russia-China Alliance",
-            "secondDuration": 335,
-            "group": "group_7"
-        },
-        {
             "videoId": "4pR1qPCPCEU",
             "title": "Vice President Mike Pence on Charlottesville: Extremist Voices Will Be Marginalized | NBC News",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "Evacuations And Rising Waters In Paris After Relentless Rain | NBC Nightly News",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZmCFzTmPWjM",
+            "title": "Surfside Condo Collapse Death Toll Climbs To 94",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

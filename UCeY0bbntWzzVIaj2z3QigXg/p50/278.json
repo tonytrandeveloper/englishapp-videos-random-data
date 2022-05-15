@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "59NTYgN-L2c",
-            "title": "This Morning’s Top Headlines – Dec. 30 | Morning News NOW",
-            "secondDuration": 1445,
-            "group": "group_7"
-        },
-        {
             "videoId": "2gRRwmWZL7s",
             "title": "Tom Price: Healthcare Reform Will Lower 'Average Cost' (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 928,
@@ -301,8 +295,14 @@
             "title": "Watch Full Speech: President Biden Delivers Inaugural Address | NBC News",
             "secondDuration": 1314,
             "group": "group_7"
+        },
+        {
+            "videoId": "TN9mwafmmd0",
+            "title": "Hillary Clinton Becomes Nation’s First Ever Female Nominee Of Major Party | NBC News",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

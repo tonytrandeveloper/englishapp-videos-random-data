@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "A9QgBLjlk9w",
-            "title": "WEBCAST: Earthquake in California",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "pBCGsPQVTOo",
             "title": "Batsirai cyclone, church fire, protests and Carnival: World in Photos, Feb. 7",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Samantha Brick's Daily Mail Complaints About Her Beauty Enrage Web, Leads to Thousands of Comments",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "PYrvhmZIuhI",
+            "title": "John F. Kennedy Remembered 50 Years After Assassination",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qgqBReVfoOw",
-            "title": "Biden Delivers Remarks On Gun Crime Prevention Strategy | NBC News",
-            "secondDuration": 1246,
-            "group": "group_7"
-        },
-        {
             "videoId": "ARKhkEhPRC4",
             "title": "Outrage After Miami School Brings Caged Tiger To Prom | NBC Nightly News",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Senate Republicans Block Democrats’ Election Overhaul Bill",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "OrLC4izPBIg",
+            "title": "Russia Launches New Attack On Capital City",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

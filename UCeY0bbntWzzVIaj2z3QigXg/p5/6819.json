@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MQiayVb4_p4",
-            "title": "NBC News Upfront",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "j6nF891_thQ",
             "title": "Why The First Amendment Can't Protect Trump Ban on Facebook, Twitter",
             "secondDuration": 177,
@@ -31,8 +25,14 @@
             "title": "How To Fathom 200,000 American Deaths From Covid-19 | NBC Nightly News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "oj_skVWfrks",
+            "title": "Bomb Cyclone Barreling Up East Coast",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

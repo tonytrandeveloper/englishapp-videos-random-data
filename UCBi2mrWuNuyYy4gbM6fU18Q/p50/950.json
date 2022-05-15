@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "2GPEmniLL2c",
-            "title": "5 days from critical Georgia Senate runoff",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "wsi7Dzz6evI",
             "title": "Inside the looming eviction crisis",
             "secondDuration": 402,
@@ -301,8 +295,14 @@
             "title": "What Is Islam? Questions and Answers",
             "secondDuration": 549,
             "group": "group_7"
+        },
+        {
+            "videoId": "kExGmpGTdI0",
+            "title": "Doctor Accused of Attacking Uber Driver: 'I'm Ashamed' | ABC News",
+            "secondDuration": 384,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

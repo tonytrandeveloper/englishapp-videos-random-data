@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-S7RJxFau84",
-            "title": "Chauvin Trial: Memorable Moments From Week One Testimonies | NBC News NOW",
-            "secondDuration": 477,
-            "group": "group_7"
-        },
-        {
             "videoId": "cn8DjBrc4m0",
             "title": "WATCH: Dramatic Rescue From Washington Home As Wildfire Looms | NBC News NOW",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "35 Killed After Russian Attack On Ukrainian Military Base",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "WuGVtti10t4",
+            "title": "Chinese President Xi Jinping Declares Era of “National Rejuvenation” | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

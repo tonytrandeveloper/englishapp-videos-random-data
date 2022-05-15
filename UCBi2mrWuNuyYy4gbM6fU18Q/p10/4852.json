@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xB-bLul-N5c",
-            "title": "President Biden meets with leaders in Rome before G-20",
-            "secondDuration": 557,
-            "group": "group_7"
-        },
-        {
             "videoId": "c0qnpQAqbYI",
             "title": "Tornadoes Rip Through Texas, Surrounding States",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "NFL Star Adrian Peterson Makes First Court Appearance on Child Abuse Charges",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "eSd3jFdEhiM",
+            "title": "Tropical Storm Lane continues to hit Hawaii",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

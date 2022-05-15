@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3dn_ypo0JFk",
-            "title": "Iranian-Backed Lebanese Group Hezbollah Fires Rockets Toward Israeli Forces",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "-pnMleh90mc",
             "title": "Chris Carmack: Proposed Religious Freedom Law an 'Enormous Step Backwards' | NBC News",
             "secondDuration": 98,
@@ -121,8 +115,14 @@
             "title": "NBC News Poll: Biden Job Approval Falls",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "0iPTV7osRj8",
+            "title": "Five Dead After Plane Crashes Into Southern California Home | NBC Nightly News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

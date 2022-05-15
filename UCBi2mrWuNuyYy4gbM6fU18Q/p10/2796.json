@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "61bIRunGdBc",
-            "title": "Houston Astros celebrate World Series win with parade",
-            "secondDuration": 17239,
-            "group": "group_7"
-        },
-        {
             "videoId": "c7tfAj62x4Q",
             "title": "Is Airbnb a Dealmaker or a Lawbreaker?",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "The Class of 2020 in their own words | ABC NEWS PRIME",
             "secondDuration": 264,
             "group": "group_7"
+        },
+        {
+            "videoId": "CMW67IKvkmI",
+            "title": "Illinois Plane Crash: 7 Dead in Accident after Duke-Wisconsin Game",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

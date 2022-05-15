@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lTm6ch9Hu-M",
-            "title": "Cool Cats Who Love Cats",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "S-llCCXKe2w",
             "title": "Johnny Depp Surprises Kids in Children's Hospital as Captain Jack Sparrow",
             "secondDuration": 44,
@@ -121,8 +115,14 @@
             "title": "Weekend Window: Cedar Breaks",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "C_95XCrvz3s",
+            "title": "Twister Tears Through Mississippi",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

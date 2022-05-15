@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "xA7cY0IG8EM",
-            "title": "Top Story with Tom Llamas - March 14 | NBC News NOW",
-            "secondDuration": 2642,
-            "group": "group_7"
-        },
-        {
             "videoId": "90mpqXL2cpg",
             "title": "Desperate Search For Survivors After Indonesia Earthquake And Tsunami | NBC Nightly News",
             "secondDuration": 136,
@@ -301,8 +295,14 @@
             "title": "Crystal Lavin: \"For student success it takes...\"",
             "secondDuration": 6,
             "group": "group_7"
+        },
+        {
+            "videoId": "a39BV6qiarU",
+            "title": "12 Killed In Mass Shooting In Thousand Oaks, California | NBC Nightly News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

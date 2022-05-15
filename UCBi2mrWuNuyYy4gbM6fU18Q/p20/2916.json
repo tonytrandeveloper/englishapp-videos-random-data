@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ELe51zHVcV8",
-            "title": "WEBCAST: First Family Holiday",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "eIrHT7X-dfU",
             "title": "Olympic Dream Realized: Ryan Murphy's Letter About Being an Olympic Gold Medal Winner",
             "secondDuration": 74,
@@ -121,8 +115,14 @@
             "title": "Book to reveal new details about Thai boys' harrowing rescue from cave",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "Mua0pJMmUAM",
+            "title": "\"The Artist\" Captures Critical Praise and Oscar Buzz",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

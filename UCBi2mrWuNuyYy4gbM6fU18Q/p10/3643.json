@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Y5eNMbkxEm4",
-            "title": "UN security council pressures Russia amid rising tensions in Ukraine",
-            "secondDuration": 462,
-            "group": "group_7"
-        },
-        {
             "videoId": "fEHT8gwgaJA",
             "title": "The legacy of Julia Child told in a mouth-watering documentary ‘Julia’ | Nightline",
             "secondDuration": 404,
@@ -61,8 +55,14 @@
             "title": "Giuliani admits he has ‘insurance’ should Trump turn on him",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "fRwNpWq5Lmw",
+            "title": "GOP congressman claims Biden administration policies incentivizing migrant traffickers",
+            "secondDuration": 399,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

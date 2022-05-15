@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7974RjWnfBQ",
-            "title": "President Trump speaks out in new interview",
-            "secondDuration": 320,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZkqN6jon2DQ",
             "title": "'GAA's Tiny Tennis Open",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "First Pair of 'Bionic Eyes' Glasses Helps People With Lost Vision",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "D5dnLyfYNyY",
+            "title": "Democratic congressman on supporting Trump",
+            "secondDuration": 465,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

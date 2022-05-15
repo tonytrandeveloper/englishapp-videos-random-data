@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lEtEmeYlGEg",
-            "title": "Cops search home in case of missing Utah student",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "Fo6yZeyuzU8",
             "title": "Hollywood Whodunit: Ronni Chasen Murder",
             "secondDuration": 366,
@@ -61,8 +55,14 @@
             "title": "Hermine Heads up East Coast",
             "secondDuration": 363,
             "group": "group_7"
+        },
+        {
+            "videoId": "eRj8KyAeWSg",
+            "title": "T-Mobile Fined $48M for Slowing 'Unlimited' Data Plans",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

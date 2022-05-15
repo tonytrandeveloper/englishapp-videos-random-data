@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pvFS7ctsGBU",
-            "title": "A Football Fan’s Masterpiece",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "WrMgDIF1S7M",
             "title": "Clinton Email Investigation: FBI's Handling Under Review",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Donald Glover, Childish Gambino",
             "secondDuration": 419,
             "group": "group_7"
+        },
+        {
+            "videoId": "lCUxFSvw0zU",
+            "title": "Santa helps blind child experience the magic of Christmas",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x4VG5X1pRbo",
-            "title": "Teen Uses Make-A-Wish Gift To Give Back",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "F3qVkbM-dc8",
             "title": "What's The History Behind Memorial Day? | Nightly News: Kids Edition",
             "secondDuration": 1488,
@@ -61,8 +55,14 @@
             "title": "LIVE: White House Holds Press Briefing | NBC News",
             "secondDuration": 1901,
             "group": "group_7"
+        },
+        {
+            "videoId": "GznpxMY4xMk",
+            "title": "Coronavirus: New Research Reveals Which Face Masks Work Best | NBC Nightly News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

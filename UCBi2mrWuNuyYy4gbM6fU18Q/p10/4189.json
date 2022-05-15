@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "H2ium9VLH08",
-            "title": "Small Slip-Up is Big Loss for New Jersey Kids",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "6an6AJFNvFs",
             "title": "David Cay Johnston discusses leaked Trump tax documents",
             "secondDuration": 249,
@@ -61,8 +55,14 @@
             "title": "Breaking Free From a 'Prophet'",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "n85K8ifaN8Q",
+            "title": "How to Fight Back Against 'Robocalls'",
+            "secondDuration": 295,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

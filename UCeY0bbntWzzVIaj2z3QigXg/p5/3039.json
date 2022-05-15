@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jTOfJQjrVR8",
-            "title": "Inspiring America: Foundation Grants Sick Children Chance To Make Dreams Come True| NBC Nightly News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "rpI4AQtM-bw",
             "title": "OPEC Swing By With Vaughn Hillyard | NBC News Signal",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "Brain Tumor Diagnoses Lead To Radiation Investigation In New Jersey Township",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "vLIi0ALql6k",
+            "title": "New Alabama Law Criminalizes Gender-Affirming Care For Transgender Youth",
+            "secondDuration": 400,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

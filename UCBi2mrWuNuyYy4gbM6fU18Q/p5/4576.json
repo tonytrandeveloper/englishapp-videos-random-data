@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mj10WGNwm1w",
-            "title": "San Juan mayor, energy company feud over contract",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "iv3hPozkZ0I",
             "title": "ABC News Prime: Delta variant spreads across US; Japanese anger at Olympics; Stock market tank",
             "secondDuration": 5491,
@@ -31,8 +25,14 @@
             "title": "JonBenet Ramsey's Brother Breaks Silence 20 Years After Her Murder",
             "secondDuration": 582,
             "group": "group_7"
+        },
+        {
+            "videoId": "8NfwlGYNgcA",
+            "title": "President Obama Makes His Case Amid Minefield of Scandals",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

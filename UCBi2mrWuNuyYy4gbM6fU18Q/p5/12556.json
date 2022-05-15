@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1zA2zJDYGDM",
-            "title": "Hurricane Dorian makes its way up US East Coast | ABC News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "F_mr81GH48E",
             "title": "Country Star Chely White: 'I'm Gay'",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Health Officials warn of danger from more contagious variants | ABC News",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "a26w4v19wyM",
+            "title": "WATCH LIVE: ABC News Live Prime: 2020 race, Coronavirus updates, Trump pardons, Daytona crash",
+            "secondDuration": 3593,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

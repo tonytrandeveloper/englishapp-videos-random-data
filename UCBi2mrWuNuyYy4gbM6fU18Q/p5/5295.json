@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XVUTtRrmPOI",
-            "title": "Trump and Biden to square off in tonight’s final presidential debate",
-            "secondDuration": 254,
-            "group": "group_7"
-        },
-        {
             "videoId": "AqmR0fVPsrM",
             "title": "U.S. vs ISIS: By The Numbers",
             "secondDuration": 71,
@@ -31,8 +25,14 @@
             "title": "All Eyes on Paris Attacks",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "500PsE13kAI",
+            "title": "Snake on a Plane Causes Emergency Landing",
+            "secondDuration": 27,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

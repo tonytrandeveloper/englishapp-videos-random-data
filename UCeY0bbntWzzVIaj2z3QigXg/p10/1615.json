@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0qtYlOjQbYc",
-            "title": "German Scientists Stage Packed Concert To Investigate COVID-19 Spread | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "7UV7EXWWm2g",
             "title": "President Donald Trump Purportedly Requested James Comey’s Loyalty During Dinner | NBC Nightly News",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Watch Live: Trump Delivers Remarks At Law Enforcement Memorial Service | NBC News",
             "secondDuration": 6123,
             "group": "group_7"
+        },
+        {
+            "videoId": "ON-5JxALfnQ",
+            "title": "North Korean TV Hails President Donald Trump’s Decision To Ax War Games | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

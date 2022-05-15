@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mltusEmwZQE",
-            "title": "Sandusky Denies Molesting Boys at Appeals Hearing",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qy0UGw0-T48",
             "title": "First Responders Deliver Baby on Philadelphia Subway Train",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "Christmas Gift: Home Sweet Home",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "lFuwdwZs-DQ",
+            "title": "Eric Garner’s Children Discuss Grand Jury Decision Not to Indict",
+            "secondDuration": 249,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

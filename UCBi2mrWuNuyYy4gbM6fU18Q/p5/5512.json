@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7s-yeebHHys",
-            "title": "Hurricane Larry churns in Atlantic l GMA",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "vMqF89EcTTY",
             "title": "How colleges plan to reopen in the fall | ABC News",
             "secondDuration": 294,
@@ -31,8 +25,14 @@
             "title": "GOP representative on Liz Cheney’s ouster: ‘Every party has divergent views’",
             "secondDuration": 400,
             "group": "group_7"
+        },
+        {
+            "videoId": "2SCHLQR8FLY",
+            "title": "Colonial Pipeline restarts operations, gas prices spike | WNT",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

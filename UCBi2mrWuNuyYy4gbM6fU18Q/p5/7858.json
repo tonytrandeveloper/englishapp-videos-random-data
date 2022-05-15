@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GBq8mEA6n7Y",
-            "title": "Warren Weinstein Asks for President Obama to Rescue Him",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "oJpUE3-Nx6g",
             "title": "3 Americans held by North Korea back in US",
             "secondDuration": 176,
@@ -31,8 +25,14 @@
             "title": "JFK: 'The Tide Is Unfavorable'",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "khrHs98DBd0",
+            "title": "US reports highest single-day of COVID-19 deaths | UPDATE",
+            "secondDuration": 365,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

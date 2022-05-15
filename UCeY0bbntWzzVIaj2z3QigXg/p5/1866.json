@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "e5UiQwKA5Eo",
-            "title": "Bandaged Bernie Sanders: Health Care Is ‘Administrative Nightmare’ | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "o3mU9lkdWYs",
             "title": "Full Fauci: 'Don't Spike The Ball On The 5-yard Line' | Meet The Press | NBC News",
             "secondDuration": 735,
@@ -31,8 +25,14 @@
             "title": "The New Strategy The U.S. Is Using In The Info War Against Russia",
             "secondDuration": 356,
             "group": "group_7"
+        },
+        {
+            "videoId": "1MBjlelTSrQ",
+            "title": "White House Covid Team Announces 100 Million U.S. Adults Fully Vaccinated | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

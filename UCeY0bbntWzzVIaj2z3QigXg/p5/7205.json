@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-KodLuzD0Qc",
-            "title": "Florida Student Recounts School Shooting | NBC News",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "TBdcy8Yt7sQ",
             "title": "Atlanta Airport Loses Power, Trapping Travelers In Planes And Terminals | NBC Nightly News",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4601,
             "group": "group_7"
+        },
+        {
+            "videoId": "wU35qehPllM",
+            "title": "Alabama Senate Divided Over Nation’s Strictest Abortion Bill | NBC Nightly News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

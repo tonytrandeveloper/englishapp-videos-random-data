@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3aPzE3U2tO8",
-            "title": "More than 3M refugees flee Ukraine",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "VaG9eSps0-Y",
             "title": "ABC News Live Update: Day 2 of the Derek Chauvin trial",
             "secondDuration": 1745,
@@ -31,8 +25,14 @@
             "title": "Amanda Knox Verdict: Not Guilty - Departs Italy, Heads Home After Acquittal of Murder Charges",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "kP1vYnExV4g",
+            "title": "'This is not permission for widespread removal of masks': Dr. Rochelle Walensky | ABC News",
+            "secondDuration": 445,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

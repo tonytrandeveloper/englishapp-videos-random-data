@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HWtpDpEZNlY",
-            "title": "Mass Shooting In Sacramento Leaving Six Dead",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "C8PmvCK-jJg",
             "title": "President Donald Trump: Iran Should Have Thanked Barack Obama | NBC News",
             "secondDuration": 78,
@@ -31,8 +25,14 @@
             "title": "U.S. Army Releases Data Shows Troops Are Getting Vaccinated",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "d8ynbTFNvY4",
+            "title": "President Donald Trump Welcomes Houston Astros To White House | NBC News",
+            "secondDuration": 2426,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

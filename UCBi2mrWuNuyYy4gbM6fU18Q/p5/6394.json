@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SrD1jJ8UDvM",
-            "title": "Sarah Silverman Tells DNC She Will Proudly Vote for Hillary | ABC News",
-            "secondDuration": 434,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pvcxqa3mrjc",
             "title": "COVID-19 surges in Texas, Michigan, Utah, Montana",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "6.2 Magnitude Earthquake Devastates Japan",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "W2k73NBr0jA",
+            "title": "Ohio School Shooting: 4 Students Injured",
+            "secondDuration": 43,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

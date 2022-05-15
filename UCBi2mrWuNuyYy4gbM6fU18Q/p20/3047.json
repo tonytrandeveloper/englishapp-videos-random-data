@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DUTWRhxFTpQ",
-            "title": "Leading Supreme Court pick has some Republicans concerned",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "2Vzd2B25Uf0",
             "title": "Family of 12-Year-Old Girl Who Survived Brutal Stabbing Meet With Hero Who Called 911",
             "secondDuration": 158,
@@ -121,8 +115,14 @@
             "title": "Weekend Window: New Orleans Jazz Fest",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "FDe6RwitlAw",
+            "title": "US astronaut coming home",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

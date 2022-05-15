@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E2Ct99OEWrA",
-            "title": "NYC doctors on COVID-19 this fall l ABC News",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "gMwCfk6I2vo",
             "title": "\"World News\" Portrait of a Candidate: Barack Obama Interview",
             "secondDuration": 193,
@@ -61,8 +55,14 @@
             "title": "Tiger Woods accepts he will never play golf full-time again",
             "secondDuration": 592,
             "group": "group_7"
+        },
+        {
+            "videoId": "vzRgc6d2noY",
+            "title": "Brian Brown on Defense of Marriage Act: 'Failed to Live Up' to Duty 2/25/2011",
+            "secondDuration": 301,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

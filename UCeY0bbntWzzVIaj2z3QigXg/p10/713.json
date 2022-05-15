@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dfS9X-Br5IY",
-            "title": "California Residents Getting Deliveries, Drilling Deeper Wells To Get Water",
-            "secondDuration": 259,
-            "group": "group_7"
-        },
-        {
             "videoId": "nePdhOELl_U",
             "title": "White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 1515,
@@ -61,8 +55,14 @@
             "title": "TSA Testing New Screening Measures At US Airports | NBC Nightly News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "YsMp5biWltQ",
+            "title": "One Quick Hack To Defrost Your Windshield | Better | NBC News",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

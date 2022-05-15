@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ismvJOnr10s",
-            "title": "Serena Williams advances to US Open finals l ABC News",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "Og7_QlYhWk8",
             "title": "Principal sings ‘I Will Always Love You’ in farewell to students | WNT",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Paul Walker Killed in Los Angeles Car Crash",
             "secondDuration": 316,
             "group": "group_7"
+        },
+        {
+            "videoId": "mQb2S4DIcNc",
+            "title": "Donald Trump Appears to Invite the Russians to Hack Hillary's Emails",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

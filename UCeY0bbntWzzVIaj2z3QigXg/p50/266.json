@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "8-KVXH_iOv8",
-            "title": "Meet The Press Broadcast (Full) - August 16th, 2020 | Meet The Press | NBC News",
-            "secondDuration": 2854,
-            "group": "group_7"
-        },
-        {
             "videoId": "ozyjivDaLWc",
             "title": "Biden Unveils Infrastructure Plan: 'It's Big, Yes. It's Bold, Yes' | NBC News NOW",
             "secondDuration": 312,
@@ -301,8 +295,14 @@
             "title": "Safety Concerns Rise As Visitors Flock To See Lava Flow In Hawaii | NBC News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "at8QzTGTM5I",
+            "title": "Freak Storm Batters Istanbul With Golf Ball-Sized Hail | NBC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

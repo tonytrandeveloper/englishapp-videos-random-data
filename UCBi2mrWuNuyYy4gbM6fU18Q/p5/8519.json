@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9ODFezEDok8",
-            "title": "COVID-19 in North Dakota",
-            "secondDuration": 298,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vybt1F-72Hc",
             "title": "Sessions under siege as Trump continues belittling public attacks",
             "secondDuration": 231,
@@ -31,8 +25,14 @@
             "title": "What to expect on day 6 of Chauvin trial",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "WscEV7CrTGM",
+            "title": "Pressure mounts on Joe Biden to address sexual assault allegation l ABC News",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mUTY1Cro3ZY",
-            "title": "White House press briefing 7/26/17",
-            "secondDuration": 2464,
-            "group": "group_7"
-        },
-        {
             "videoId": "nfrY4EH38Ys",
             "title": "White House press briefing 9/01/17",
             "secondDuration": 2395,
@@ -31,8 +25,14 @@
             "title": "Show Follows Celebrity Nannies: 'Beverly Hills Nannies' Goes Inside Hollywood's Glitziest Homes",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "HSsYUwY-ccQ",
+            "title": "Tiger Woods Prepares for Comeback",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

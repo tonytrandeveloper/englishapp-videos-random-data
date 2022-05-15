@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gBda10tCwwk",
-            "title": "Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2680,
-            "group": "group_7"
-        },
-        {
             "videoId": "8RBff0LX2X8",
             "title": "Las Vegas Shooting Reignites Gun Debate | NBC Nightly News",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "MTP At 70: Tim Russert's Legacy | Meet The Press | NBC News",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "DyCNf_nCth4",
+            "title": "Donald Trump Declares Opioid Epidemic A National Emergency | NBC Nightly News",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

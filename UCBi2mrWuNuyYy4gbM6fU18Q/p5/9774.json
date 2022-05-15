@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IiKkwmPe_8A",
-            "title": "Terror Plot Uncovered in NYC",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "TZbnFI7oUZM",
             "title": "Small Plane Crash Sparks Massive Explosion",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Ohio officials launch investigation into fatal police shooting of Ma’Khia Bryant",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "nizylvGOsPQ",
+            "title": "'Real Housewives of New Jersey' Stars Expected to Plead Guilty",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

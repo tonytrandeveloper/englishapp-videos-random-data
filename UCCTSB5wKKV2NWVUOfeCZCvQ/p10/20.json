@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hZJcKtndg4M",
-            "title": "[Vietsub+Lyrics] Uwu - Chevy",
-            "secondDuration": 108,
-            "group": "group_4"
-        },
-        {
             "videoId": "p0NWr6KwYMY",
             "title": "[Vietsub+Lyric] Ariana Grande - 7 rings",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "[Vietsub+Lyrics] Six Feet Under - Billie Eilish",
             "secondDuration": 182,
             "group": "group_4"
+        },
+        {
+            "videoId": "hc35yJSSSV0",
+            "title": "[Vietsub+Lyrics] Trouble is a friend - Lenka",
+            "secondDuration": 200,
+            "group": "group_4"
         }
     ],
     "nbPages": 36,
-    "nbResults": 357
+    "nbResults": 356
 }

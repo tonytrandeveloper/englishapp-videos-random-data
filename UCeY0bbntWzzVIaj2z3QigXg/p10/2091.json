@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8IwAxImlrGE",
-            "title": "Hawaii’s Kilauea Lava Destroys More Homes | NBC Nightly News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "CtT5r6VIeB4",
             "title": "TikTok Users React To Trump’s Pledge To Ban The App In The U.S. | NBC Nightly News",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "FBI Agents Raid Jeffrey Epstein’s Private Caribbean Island | NBC Nightly News",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "CcT-wgG9tVo",
+            "title": "New Images Of Alleged “Torture Kit” Used On Saudi Journalist | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

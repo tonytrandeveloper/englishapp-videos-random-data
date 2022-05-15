@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VIqQ8O8zDTI",
-            "title": "2019 State Of The Union: Trump’s Address And Stacey Abrams’ Response | NBC News",
-            "secondDuration": 14419,
-            "group": "group_7"
-        },
-        {
             "videoId": "xb9kXwkfQnI",
             "title": "Watch Full Coronavirus Coverage - April 16 | NBC News Now (Live Stream)",
             "secondDuration": 42901,
@@ -61,8 +55,14 @@
             "title": "FBI Arrests Suspected White Supremacists Ahead Of Virginia Gun Rally | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "9pRB-pRGpmE",
+            "title": "Astronauts Return After 90-day Mission To China's Space Station",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

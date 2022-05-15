@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rxdfRZptSwk",
-            "title": "Michelle Obama Welcomes Melania Trump to White House",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "JiQYVm0kGKs",
             "title": "Supermodel Bar Refaeli Arrested for Tax Evasion",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "Video shows school bus driver accused of transporting students while drunk",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "HQKqc-JYBus",
+            "title": "New York Wing Eating Contest 2011",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AeYwNjbKcbw",
-            "title": "Robert De Niro, Danny DeVito, Ben Stiller team up with Gov. Cuomo in COVID-19 message | ABC News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "WQZ50ODiF2E",
             "title": "Pence travels to Turkey in hopes of cease-fire l ABC News",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "Hurricane Florence batters Carolina coast as it makes landfall",
             "secondDuration": 310,
             "group": "group_7"
+        },
+        {
+            "videoId": "R07jTNExXsk",
+            "title": "Hillary Clinton Jokes About 'CP Time' With De Blasio",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KhIb4k-YfOE",
-            "title": "Tornado outbreaks in the south | ABC News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "LGkcv98cWMc",
             "title": "Gold Star widow speaks about phone call with Trump",
             "secondDuration": 448,
@@ -121,8 +115,14 @@
             "title": "Michael Jackson Trial: Conrad Murray's Defense",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "ooUrxPhtVfg",
+            "title": "By the Numbers: Gun purchases and violent crime both spiked in 2020",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

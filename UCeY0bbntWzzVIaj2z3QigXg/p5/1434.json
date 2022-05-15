@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bU3GxA6MvYA",
-            "title": "NBC Nightly News Broadcast (Full) - July 16th, 2021",
-            "secondDuration": 1266,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bf-EU5STvrQ",
             "title": "Recent Secret Service Slip-Ups | NBC News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Congressional Panel Holds Hearing On Historic Wildfire Bill",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "U2CuTzILo_Q",
+            "title": "Florida County Evacuated After Breach In Wastewater Reservoir | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

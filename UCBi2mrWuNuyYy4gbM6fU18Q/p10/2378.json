@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lPERg_oheb4",
-            "title": "David Petraeus Scandal: Truth Behind Resignation, Paula Broadwell",
-            "secondDuration": 339,
-            "group": "group_7"
-        },
-        {
             "videoId": "S_tDXjQeZ30",
             "title": "Legal analyst on Arbery trial: ‘You wanna undersell and over-perform’ your case",
             "secondDuration": 368,
@@ -61,8 +55,14 @@
             "title": "Zika Vaccine Approved for Safety Testing",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "zmvTu1Q3ZE8",
+            "title": "Jeff Bezos, Blue Origin crew hold press conference after successful spaceflight",
+            "secondDuration": 469,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

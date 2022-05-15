@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rd3xdP4QuME",
-            "title": "MIX: Stuck In Traffic",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "D1wxX2xD0YA",
             "title": "Sikh Temple Shooting in Wisconsin: Wade Michael Page's History With White Supremacist Movement",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "Lance Armstrong Steroid Allegations Leads Cyclist to Step Down as Livestrong Leader",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "Uh4eR8kZwHI",
+            "title": "Dog Rides the Bus Solo",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

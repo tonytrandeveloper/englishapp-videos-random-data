@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RlRZ175bK2g",
-            "title": "Person Of Interest In Deadly D.C. Fire Mystery | NBC Nightly News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "h_L6JFu3X2k",
             "title": "NBC News Signal - November 8th, 2018",
             "secondDuration": 1610,
@@ -61,8 +55,14 @@
             "title": "Hiker Found Alive After More Than Two Weeks In Hawaii Forest | NBC Nightly News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "V7kUBx0KqMw",
+            "title": "NBC's Richard Engel Reports from Egypt",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kYcHiIk5dZ0",
-            "title": "A Fishing Trip to Remember",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "A42AqLyCO3Y",
             "title": "Ryan Seacrest Responds to Dick Clark's Death",
             "secondDuration": 32,
@@ -31,8 +25,14 @@
             "title": "Investigators continue to search for what motivated the Virginia Beach shooter",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "jiWqDOfj9QU",
+            "title": "Special Afghanistan Roundtable",
+            "secondDuration": 1284,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

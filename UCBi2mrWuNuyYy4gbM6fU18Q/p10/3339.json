@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_SzqESgCTHY",
-            "title": "Trump continues to criticize mail-in voting",
-            "secondDuration": 277,
-            "group": "group_7"
-        },
-        {
             "videoId": "DhPpb_gDX9A",
             "title": "Democrats debate, Texas heat, Yi Yi the giant panda: World in Photos, Aug. 1",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Actor John Hawkes:  \"It's Hard to be a Rebel When Everyone is Cool.\"",
             "secondDuration": 525,
             "group": "group_7"
+        },
+        {
+            "videoId": "HE4G_B44TLU",
+            "title": "Dr. Fauci set to testify before Congress today",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

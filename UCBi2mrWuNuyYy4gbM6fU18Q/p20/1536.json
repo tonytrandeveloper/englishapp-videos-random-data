@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8CgoupWbr08",
-            "title": "Trump denies Cohen claim he knew about son's Russia meeting",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "mbhmt35IdqM",
             "title": "Donald Trump and Family Discuss His Path to Victory",
             "secondDuration": 633,
@@ -121,8 +115,14 @@
             "title": "Slow Loris: Endangered for Being Cute",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "ESJFztIhI_A",
+            "title": "Police hunt for killer of Sadie Roberts-Joseph",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

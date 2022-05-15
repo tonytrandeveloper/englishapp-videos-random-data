@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SAi4x--fhbw",
-            "title": "President Donald Trump Speaks About Pipe Bombs Sent To Democrats | NBC News",
-            "secondDuration": 2406,
-            "group": "group_7"
-        },
-        {
             "videoId": "8D6Kx8r0WMI",
             "title": "17 Vehicles Engulfed In Newark Airport Parking Lot Fire | NBC News",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "This Morning’s Top Headlines – November 11 | Morning News NOW",
             "secondDuration": 1384,
             "group": "group_7"
+        },
+        {
+            "videoId": "oiBnfcT-mCY",
+            "title": "A Look At The Emoji, Everyone’s Favorite Way To Text | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

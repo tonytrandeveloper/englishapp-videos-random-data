@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B56ZL1wxgVE",
-            "title": "Morning News NOW Full Broadcast - August 16 | NBC News NOW",
-            "secondDuration": 3093,
-            "group": "group_7"
-        },
-        {
             "videoId": "NQJP5n84c3M",
             "title": "Mariner 9: The Race To Mars | Nightly News Films",
             "secondDuration": 414,
@@ -31,8 +25,14 @@
             "title": "​New Jersey Nursing Home At Center Of Shocking Allegations Reopened Under New Name",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "Cy5W-F1-okY",
+            "title": "Gunman's Ambush Attacks Leave Two Officers Dead In Iowa | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

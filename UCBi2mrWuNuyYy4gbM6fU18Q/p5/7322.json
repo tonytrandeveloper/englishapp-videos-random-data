@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E19zACC2myg",
-            "title": "The Attack: The Heroes of San Bernardino Part 1",
-            "secondDuration": 536,
-            "group": "group_7"
-        },
-        {
             "videoId": "J9eGyPyoADg",
             "title": "Online Dating by the Numbers",
             "secondDuration": 396,
@@ -31,8 +25,14 @@
             "title": "High Tech POV Wedding Video Goes Viral",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "GSK21j4z89s",
+            "title": "Michigan Vote Recount | Judge to Rule on Start",
+            "secondDuration": 24,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

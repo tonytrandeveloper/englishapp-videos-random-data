@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kBU6NZHLlL4",
-            "title": "Mother of Toddler With Down Syndrome Shares Story",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "riQkfHncxEg",
             "title": "Beyonce Knowles Interview with Katie Couric: Discusses Pregnancy, Tour",
             "secondDuration": 418,
@@ -31,8 +25,14 @@
             "title": "Trump on Border Wall Discussion With Mexican President",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "lBO4eUMpWyg",
+            "title": "Amplified: Girl Talk",
+            "secondDuration": 796,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

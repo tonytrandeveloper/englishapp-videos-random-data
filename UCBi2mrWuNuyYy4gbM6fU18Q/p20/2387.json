@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "j-K5nyV_jjQ",
-            "title": "Donald Trump Releases New Video Attacking Bill Clinton",
-            "secondDuration": 316,
-            "group": "group_7"
-        },
-        {
             "videoId": "o0ENguq1ssA",
             "title": "New warning involving teenagers and caffeine",
             "secondDuration": 84,
@@ -121,8 +115,14 @@
             "title": "The Conversation: AIG Bonuses",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "SpzjS4wO__k",
+            "title": "Shanksville, Pa. 9/11 Memorial Service",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

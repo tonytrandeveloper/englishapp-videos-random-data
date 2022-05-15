@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ebQq_JPf_GI",
-            "title": "Astrophysicist Dr. Hakeem Oluseyi pulled himself up through 'hope and hussle'",
-            "secondDuration": 462,
-            "group": "group_7"
-        },
-        {
             "videoId": "3SA94UfGalE",
             "title": "Consumer Watchdog: Trampoline Danger",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "Trump Meets With Obama Today | ABC News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "K7WCSwEWjdk",
+            "title": "Does Acetaminophen Cause Liver Damage?",
+            "secondDuration": 218,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

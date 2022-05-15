@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qEhBEZYB6ck",
-            "title": "Nelson Mandela's 1994 Inauguration | Flashback | NBC News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "P4cW3ByAKWE",
             "title": "At Least 40 Dead After Historic Blizzard Hits East Coast | NBC Nightly News",
             "secondDuration": 187,
@@ -121,8 +115,14 @@
             "title": "Filmmaker ‘Coming Out’ To His Dad (Exclusive Clip) | NBC Out | NBC News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "mJchca3SYT4",
+            "title": "CDC Recommends Shorter Isolation Time For Covid",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

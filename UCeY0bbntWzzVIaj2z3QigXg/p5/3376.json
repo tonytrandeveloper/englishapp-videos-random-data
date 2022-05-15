@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_aBxsd24AiA",
-            "title": "LA Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
-            "secondDuration": 3928,
-            "group": "group_7"
-        },
-        {
             "videoId": "0ZDowQMviic",
             "title": "President Donald Trump Denounces North Korea In United Nations Speech | NBC News",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Raw: Mom Drives Van With Children Into Ocean | Archives | NBC News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "H1YuX5jJEQc",
+            "title": "U.S. Recovers Most Of Colonial Pipeline Hack Ransom Payment",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

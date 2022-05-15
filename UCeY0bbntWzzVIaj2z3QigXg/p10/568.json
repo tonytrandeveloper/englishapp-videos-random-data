@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8un5qjFVCCQ",
-            "title": "NASA’s OSIRIS-REx Spacecraft Touches Down On Asteroid | NBC News NOW",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "6rH9f-lLYfk",
             "title": "Full NBC Exclusive: Elizabeth Warren Calls Trump-Ukraine Call 'The Smoking Gun' | NBC News",
             "secondDuration": 504,
@@ -61,8 +55,14 @@
             "title": "Social Credit System Coming To China, With Citizens Scored On Behavior | NBC Nightly News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "qxL8oMIOQhw",
+            "title": "Senate Votes To Confirm Amy Coney Barrett To Supreme Court | NBC News NOW",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

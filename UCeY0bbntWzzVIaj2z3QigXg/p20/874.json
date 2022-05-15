@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fOEcUiZg7Tk",
-            "title": "Kellyanne Conway Defends Refugee Ban, Cites False ‘Bowling Green Massacre’ | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "1TfUreYrAPA",
             "title": "President Donald Trump Wants Health Care Bill 'That Has Heart in It' | NBC News",
             "secondDuration": 84,
@@ -121,8 +115,14 @@
             "title": "A Better Way To Treat A Burn | Better | NBC News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "VI3sDMycvbE",
+            "title": "Biden Meets With Pope Francis Ahead of G-20 Summit",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

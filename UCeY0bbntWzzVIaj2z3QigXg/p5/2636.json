@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VuqK8zJaREM",
-            "title": "Watch: Rocket Blasts Richard Branson, Crew Into New Era Of Space Flight",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "VAcZxEimTQo",
             "title": "President Obama Vetoes Bill Allowing 9/11 Victim Families To Sue Saudis | NBC Nightly News",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "Family Of 14-Year-Old Inadvertently Killed By Police Calls For Accountability",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "zedH0hn7kmc",
+            "title": "Social Media Aids Hurricane Harvey Rescues | NBC Nightly News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

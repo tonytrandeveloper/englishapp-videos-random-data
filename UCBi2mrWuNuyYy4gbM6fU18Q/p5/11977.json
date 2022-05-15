@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y_Uk3nHXK-4",
-            "title": "Cold War Echoes: Russian Spy Ship in Havana",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "BzBiTYwSP2A",
             "title": "First US report of serious adverse vaccine reaction l WNT",
             "secondDuration": 254,
@@ -31,8 +25,14 @@
             "title": "Europe's most iconic mountain is a climate change warning l ABC News",
             "secondDuration": 247,
             "group": "group_7"
+        },
+        {
+            "videoId": "NLy0PWcAzfg",
+            "title": "Briefing Room: Trump on whistleblower, US children arrests, California’s student athlete law",
+            "secondDuration": 4339,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

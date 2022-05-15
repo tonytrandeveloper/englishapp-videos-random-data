@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ijkVOq4RHDo",
-            "title": "Truth and Lies: Monica and Bill - Part 3",
-            "secondDuration": 427,
-            "group": "group_7"
-        },
-        {
             "videoId": "BypXJJRaCws",
             "title": "Trump dictated son's statement on Russia meeting: Sources",
             "secondDuration": 252,
@@ -31,8 +25,14 @@
             "title": "State of emergency declared in 4 states as gas pumps run dry after cyberattack l GMA",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "RyM9Z2HHfog",
+            "title": "Eric Garner, NYPD Grand Jury Decision Sparks Demonstrations",
+            "secondDuration": 446,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

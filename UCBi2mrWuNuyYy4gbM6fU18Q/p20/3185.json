@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fOC-Ml8yNAs",
-            "title": "A Black Capitol Police officer’s story of the Jan. 6 riot",
-            "secondDuration": 576,
-            "group": "group_7"
-        },
-        {
             "videoId": "qmAgh_jomKY",
             "title": "'The Lion King': Making of the Highest-Grossing Musical",
             "secondDuration": 389,
@@ -121,8 +115,14 @@
             "title": "Playing Golf On the Moon 2/4/2011",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "5yZ5m3OM0BU",
+            "title": "President Obama Swipes at Donald Trump in Ramadan Statement",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

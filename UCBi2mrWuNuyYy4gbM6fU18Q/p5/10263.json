@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y1nq2IGcQxI",
-            "title": "Washington, D.C., sees 1st major snow in years",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "pAbeiIsIWTw",
             "title": "Taiwan Plane Crash Survivor: 'I Felt Something Was Not Right'",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Chinese space station debris could land in US",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "CSB9pTurhi4",
+            "title": "Colorado Wildfire Destroys 1 Million Acres",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

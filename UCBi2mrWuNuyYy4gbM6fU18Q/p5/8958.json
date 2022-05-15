@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PZ4Kz6tLCe4",
-            "title": "Fires within the rubble of Florida building collapse hampers rescue efforts | ABC News",
-            "secondDuration": 3203,
-            "group": "group_7"
-        },
-        {
             "videoId": "A2ZjQNtaeBU",
             "title": "Chicago Teen Arrested for Allegedly Wanting to Join ISIS",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Missing teen found safe, adoptive father arrested",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "6QFnPSnqIUE",
+            "title": "'Criminally Insane' Killer on the Loose",
+            "secondDuration": 411,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

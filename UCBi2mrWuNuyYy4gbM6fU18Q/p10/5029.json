@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wZhlEsUoXZI",
-            "title": "The Walking Dead Premiere | Who Died & Fan Reactions",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "BvqB_XT7cv4",
             "title": "Kim Davis on Her Time in Jail, Her Newfound Notoriety",
             "secondDuration": 482,
@@ -61,8 +55,14 @@
             "title": "Measles Outbreak Ignites Fresh Vaccine Debate",
             "secondDuration": 392,
             "group": "group_7"
+        },
+        {
+            "videoId": "hDBIp0N1Lns",
+            "title": "Syria Massacre: U.S. Student Killed",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

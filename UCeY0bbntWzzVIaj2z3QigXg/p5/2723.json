@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BOWXZ59kXJg",
-            "title": "California Extends Stay-At-Home Orders As Hospitals Overwhelmed | NBC Nightly News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "CWFOKznwNhQ",
             "title": "Trump and Coronavirus Task Force Hold a Briefing | NBC News (Live Stream Recording)",
             "secondDuration": 2246,
@@ -31,8 +25,14 @@
             "title": "How The Government Shutdown Impacts Everyday Americans | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "DO3voPmKc_U",
+            "title": "President Donald Trump: We Must Never Allow Political Violence To Take Root In U.S. | NBC News",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

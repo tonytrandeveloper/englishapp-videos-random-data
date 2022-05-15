@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EBJdnZfi3fw",
-            "title": "President Trump under fire after bombshell report on tax returns",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "q6UBJYnsSyM",
             "title": "Dog Costume Parade Looks to Crown Best in Show",
             "secondDuration": 96,
@@ -121,8 +115,14 @@
             "title": "Robert Durst Pleads Guilty to Possession of a Gun in New Orleans",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "wlo0mT0ECVQ",
+            "title": "Outbreak in America",
+            "secondDuration": 398,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

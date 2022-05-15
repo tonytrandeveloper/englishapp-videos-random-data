@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0snPCxOO0IE",
-            "title": "Parrot steals family's GoPro",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "zzTg12GD91o",
             "title": "President Barack Obama Wins Re-Election",
             "secondDuration": 474,
@@ -121,8 +115,14 @@
             "title": "Trump on Border Wall Discussion With Mexican President",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "lBO4eUMpWyg",
+            "title": "Amplified: Girl Talk",
+            "secondDuration": 796,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

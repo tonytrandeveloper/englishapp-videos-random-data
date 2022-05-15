@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "I_NQQmUUFQw",
-            "title": "As Lake Mead Dries Up, Engineers Dig Deep For Water | NBC Nightly News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "7-zEtdG-248",
             "title": "Handcuffed Utah Nurse: Police Need To Regain Public Trust | NBC Nightly News",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Is College Worth It? | NBC Nightly News",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "YVEJXareLEU",
+            "title": "Trump presents Medal of Freedom to Yankees great Mariano Rivera",
+            "secondDuration": 2495,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

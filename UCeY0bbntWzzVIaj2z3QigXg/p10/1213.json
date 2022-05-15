@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QWdas66vo1w",
-            "title": "Zelenskyy Accuses Russia Of ‘Genocide’ After Ukraine Recaptures Kyiv Suburb",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "whHqD0UOA94",
             "title": "Morning News NOW Full Broadcast - March 18",
             "secondDuration": 2978,
@@ -61,8 +55,14 @@
             "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4241,
             "group": "group_7"
+        },
+        {
+            "videoId": "PUxRhw2TPAE",
+            "title": "Death Toll In Florida Building Collapse Grows To 36",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

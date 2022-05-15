@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pmUc3WPEp3Y",
-            "title": "Elephant Dung Coffee: Smooth, Rich, Expensive",
-            "secondDuration": 260,
-            "group": "group_7"
-        },
-        {
             "videoId": "9i8N5bLgljY",
             "title": "Losing It: When Celebrities Attack",
             "secondDuration": 371,
@@ -61,8 +55,14 @@
             "title": "Lawmakers grill Pompeo over Trump-Putin meeting",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "wTyG2yEQ2QA",
+            "title": "Ivanka Trump Fears for Her Dad's Safety, Talks Presidential Campaign",
+            "secondDuration": 309,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

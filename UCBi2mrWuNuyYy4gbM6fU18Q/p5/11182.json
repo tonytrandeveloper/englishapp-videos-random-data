@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mXTLvmnC7k4",
-            "title": "Texas police officer arrested in connection with shooting of black teen",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "h9J2SSCECBg",
             "title": "'Guardian Angel' Pilot Continually Flies Ailing Boy to Hospital, Forges Deep Bond",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Coronavirus pandemic causes economic pain, but many companies are booming and hiring",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "MNsKwjV1HQc",
+            "title": "NFL commissioner’s behind-the-scenes tour of 1st virtual NFL draft",
+            "secondDuration": 596,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

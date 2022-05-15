@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DKSKwCqHAnI",
-            "title": "'Smokey and the Bandit's' Burt Reynolds dies at the age of 82",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "ic-G-JcRKzY",
             "title": "'This Week': Powerhouse Roundtable II",
             "secondDuration": 418,
@@ -61,8 +55,14 @@
             "title": "NFL's Top Quarterbacks Prepare for Super Bowl Showdown",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "0kr3xECx5K4",
+            "title": "Mitch McConnell 'This Week' Interview on Fiscal Cliff Compromise: 'The Tax Issue Is Finished'",
+            "secondDuration": 716,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

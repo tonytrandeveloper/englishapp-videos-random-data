@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QF13Dh4ZD7U",
-            "title": "London’s Famous Tower Bridge Stuck Open For Second Time This Year",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "LB_zgzIhgB4",
             "title": "Hiker Who Claims To Have Spotted Brian Laundrie Speaks Out",
             "secondDuration": 248,
@@ -31,8 +25,14 @@
             "title": "Uber Unveils New 911 Button | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "ni9NZN2e_Jo",
+            "title": "President Donald Trump Still Mum On Roy Moore | NBC Nightly News",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

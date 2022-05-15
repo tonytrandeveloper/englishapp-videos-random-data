@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "B1gUXN6LrTk",
-            "title": "Honoring a Trail Blazer: Remembering Helen Thomas",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "cF87r2zDlCQ",
             "title": "What Obama Says Is His ‘Worst Mistake’ As President",
             "secondDuration": 37,
@@ -121,8 +115,14 @@
             "title": "Soldier greeted by her dog",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "EVCsRVQ4EXY",
+            "title": "Second Presidential Debate:  Fact vs. Fiction",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

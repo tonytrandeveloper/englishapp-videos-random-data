@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7uUcRFDhDRY",
-            "title": "One escaped inmate back in jail, two remain on the loose",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "0gg1AwB7sMo",
             "title": "Rebecca Black Interview: 'Friday' Singer Discusses the Dark Side of Fame",
             "secondDuration": 418,
@@ -61,8 +55,14 @@
             "title": "Robert Mueller's final report delivered to DOJ and attorney general",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "A-KBnBoYu_w",
+            "title": "Brand it Like David Beckham",
+            "secondDuration": 286,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

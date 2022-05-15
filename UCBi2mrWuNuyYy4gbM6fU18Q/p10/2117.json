@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AtVl2ZUP07Q",
-            "title": "Inside look at unprecedented Super Bowl security",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "wJtlPhsNY5w",
             "title": "Shanghai residents face food shortages, late-night testing in lockdown l ABCNL",
             "secondDuration": 348,
@@ -61,8 +55,14 @@
             "title": "The Rundown: Top headlines today: Nov. 10, 2020",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "nuwlf_-EHV8",
+            "title": "Index: New Clue in the Little Girl 'Baby Doe' Case Who Was Found on the Shoreline in Boston",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

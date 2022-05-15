@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eF0bb1P1_UA",
-            "title": "Millions of cars and trucks were soaked in flood waters after the storm",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "MUPNY9TDiDw",
             "title": "The students fighting for a more diverse lesson plan | Nightline",
             "secondDuration": 511,
@@ -61,8 +55,14 @@
             "title": "Briefing Room: Flynn sentencing delayed, shutdown looms, bump stock ban, McSally Senate appointment",
             "secondDuration": 1505,
             "group": "group_7"
+        },
+        {
+            "videoId": "3C5jY84j7BY",
+            "title": "Inside the battle for Mosul",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

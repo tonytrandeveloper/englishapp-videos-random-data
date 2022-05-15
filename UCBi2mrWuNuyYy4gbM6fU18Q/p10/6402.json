@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oSy0IyJUVig",
-            "title": "What is the role of First Lady? | America 101",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "1nP5CzMyM0o",
             "title": "Simone Biles makes history at world championships | ABC News",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "President Trump defiant as impeachment trial about to begin",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "r5K5TjXxU7Q",
+            "title": "Takeaways from Biden's phone call with Ukraine president amid Russia tensions",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

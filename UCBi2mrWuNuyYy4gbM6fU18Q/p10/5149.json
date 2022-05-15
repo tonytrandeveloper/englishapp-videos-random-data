@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mA3fIrQnLjk",
-            "title": "Finding the best deals on flights for the perfect winter getaway",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "jHuMfTMv48s",
             "title": "Putin says invasion of Ukraine unfolding “successfully”",
             "secondDuration": 240,
@@ -61,8 +55,14 @@
             "title": "Can Parenting From Afar Be Effective?",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "VijFo4-Chw0",
+            "title": "Fashionable Technology",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

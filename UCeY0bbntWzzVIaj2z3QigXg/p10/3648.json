@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CFOvuzj6XF8",
-            "title": "Nikola Tesla's Hundred Year Old Prediction About Smartphones Is Eerily Accurate | Mach | NBC news",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "VB6SNVajb74",
             "title": "President Donald Trump Campaigns For Ted Cruz At Texas Rally | NBC News",
             "secondDuration": 5645,
@@ -61,8 +55,14 @@
             "title": "Two US Special Forces Killed In Anti-ISIS Raid In Afghanistan | NBC Nightly News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "AxvzI_3TuEU",
+            "title": "Live: Trump Speaks At Campaign Rally In North Carolina | NBC News",
+            "secondDuration": 4604,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

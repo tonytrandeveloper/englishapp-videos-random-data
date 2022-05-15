@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_u5QO2ZENaY",
-            "title": "Joe Mangaiello Showcases Dance Moves In 'Magic Mike XXL'",
-            "secondDuration": 328,
-            "group": "group_7"
-        },
-        {
             "videoId": "yJmWAhaG2ew",
             "title": "Adele’s “Hello” Breaks Records | ABC News",
             "secondDuration": 226,
@@ -61,8 +55,14 @@
             "title": "Inside lockdown at US Capitol",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rav9HLuIoqY",
+            "title": "'We can lay out the differences without hitting below the belt': Buttigieg on debate",
+            "secondDuration": 484,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

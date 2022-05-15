@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zZbPOtXnSPY",
-            "title": "Long stream of lava flows from Galapagos volcano",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "yb2-czNMXRI",
             "title": "Mitt Romney Takes on Newt Gingrich in Florida Debate",
             "secondDuration": 175,
@@ -121,8 +115,14 @@
             "title": "A Look at the Key Battleground States in the 2014 Midterm Election",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "gsj4K7V2-NM",
+            "title": "Rep. Giffords Shot at Grocery Store Event",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kTsT3M3aPvg",
-            "title": "The Economic Survival Guide",
-            "secondDuration": 358,
-            "group": "group_7"
-        },
-        {
             "videoId": "60HU3jS47kI",
             "title": "Scooters pulled from Florida river",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Drone footage gives inside look at lives of killer whales l ABC News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "8jaxnd83fy8",
+            "title": "\"Bad Lip Reading\" Releases New Video",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

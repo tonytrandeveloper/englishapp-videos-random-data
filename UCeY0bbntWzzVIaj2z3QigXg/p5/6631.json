@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ESS4CFBgZIk",
-            "title": "Netflix Email Scam Targets 10 Million Customers | NBC Nightly News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "6LY0qJUN0oU",
             "title": "New York Hospital’s Cardiac Unit Pivots To Treat COVID-19 Patients | NBC News NOW",
             "secondDuration": 175,
@@ -31,8 +25,14 @@
             "title": "Supreme Court Agrees To Hear Donald Trump's Travel Ban Case | NBC News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "nHi8ASGzokQ",
+            "title": "As The Country Pays Tribute To Justice Ginsburg, President Trump Considers Nominees | Nightly News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

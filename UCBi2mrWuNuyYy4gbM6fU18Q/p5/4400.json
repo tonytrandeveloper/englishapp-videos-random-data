@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6FCkErQ-SwY",
-            "title": "Muhammad Ali Met His Match in ABC's Howard Cosell",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "w1AIuXXf7zw",
             "title": "Displaced families in Texas must wait one week to return home",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "What Year Was It?",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "M6yq9DfWmF0",
+            "title": "Rep. Darrell Issa: ‘We are breaking a promise’ to Ukraine I ABCNL",
+            "secondDuration": 382,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8nLjOHs5XrQ",
-            "title": "The Science of the Shake",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "h7YmcAyNHx4",
             "title": "Choke Hold Protests Across the Country; NYPD Starts Testing Body Cameras For Police Officers",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "Teen who recorded George Floyd’s death could be key factor in Chauvin sentencing",
             "secondDuration": 272,
             "group": "group_7"
+        },
+        {
+            "videoId": "ugNymbjIQUY",
+            "title": "Unarmed Man Killed by Police: 911 Call Released",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

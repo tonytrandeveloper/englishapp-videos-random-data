@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KzlJrvs1Tz0",
-            "title": "Timelapse captures dense fog in San Francisco",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "c3KjZyMd_P4",
             "title": "Nepal: Rescuers Pull Man Trapped for 80 Hours in Rubble",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "United Airlines turns to NASCAR pit crews for quicker turnover",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "CKr0aISgeQU",
+            "title": "What’s next for the cruise industry? Passengers discuss how COVID-19 impacted them",
+            "secondDuration": 560,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

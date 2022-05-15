@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CqTOXPqrOjI",
-            "title": "$13 Trillion and Counting",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "EHXtvolGRqc",
             "title": "Ford Unveils the 2015 Mustang",
             "secondDuration": 231,
@@ -61,8 +55,14 @@
             "title": "Train Crashes Into a Car, Splitting It in Half",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "CHUugTf9bLs",
+            "title": "CDC panel to decide on Johnson & Johnson vaccine | WNT",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

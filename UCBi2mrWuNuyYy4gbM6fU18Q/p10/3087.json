@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cFeiECoH_iY",
-            "title": "Paul Ryan on 'This Week'",
-            "secondDuration": 792,
-            "group": "group_7"
-        },
-        {
             "videoId": "DreGj5GsNV8",
             "title": "U.S. Ambassador Caroline Kennedy Receives Telephone Death Threats",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "'Mary Tyler Moore' Reunion on Betty White's Show 'Hot in Cleveland'",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "L7321wE-9Yo",
+            "title": "New York plans curfew to curb rise of new COVID-19 cases | WNT",
+            "secondDuration": 299,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

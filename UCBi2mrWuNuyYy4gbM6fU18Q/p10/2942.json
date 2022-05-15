@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XIVVLbnFIHs",
-            "title": "Bears That Look Like Dogs",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "6KiZ1udKKdQ",
             "title": "What it means for Democrats' control of the House",
             "secondDuration": 159,
@@ -61,8 +55,14 @@
             "title": "Duo comes up with vision to address discarded plastic water bottles in Flint",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "bSNRPSCf40c",
+            "title": "Treasury Secretary Jack Lew 'This Week' Interview",
+            "secondDuration": 555,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

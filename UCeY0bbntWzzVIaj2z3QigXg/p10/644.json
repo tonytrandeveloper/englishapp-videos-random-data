@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x1fQD_HR-FA",
-            "title": "Ballot Counting Underway In Key Battleground State Of Arizona | NBC News NOW",
-            "secondDuration": 260,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xin4ftkvWLM",
             "title": "'Black Lives Matter' Activists Attempt to Shut Down Airport | NBC News",
             "secondDuration": 44,
@@ -61,8 +55,14 @@
             "title": "County To County: Kent County Voters Debate Impeachment | Meet The Press | NBC News",
             "secondDuration": 421,
             "group": "group_7"
+        },
+        {
+            "videoId": "7hjGpGYwPsY",
+            "title": "Venezuelan Opposition Leaders Call On Military To Support Them | NBC News",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

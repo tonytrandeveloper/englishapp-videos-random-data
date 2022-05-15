@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GLOYdbqD33g",
-            "title": "Mexico Travel Warning",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "UvwgISgnR9I",
             "title": "Zac Efron, Julianne Hough | 'Dirty Grandpa' Tie Scene",
             "secondDuration": 232,
@@ -121,8 +115,14 @@
             "title": "Gretchen Carlson Lawsuit Settled by Fox",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "QnBZkQjXZJs",
+            "title": "Barneys Department Store Accused of Racially Profiling Customers",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

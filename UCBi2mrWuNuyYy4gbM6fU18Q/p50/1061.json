@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "q1CdC2IGoYI",
-            "title": "Army Major Allegedly Kills Fellow Soldiers",
-            "secondDuration": 254,
-            "group": "group_7"
-        },
-        {
             "videoId": "CMwdEdd8TSs",
             "title": "What we know about California bar shooting that left 12 dead",
             "secondDuration": 536,
@@ -301,8 +295,14 @@
             "title": "Debt Ceiling Crisis: Boehner vs. Tea Party",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "TFSjczz-s-o",
+            "title": "Inside the vote-counting process",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yBrcHuGrmYM",
-            "title": "Joe Biden To Announce VP Choice First Week Of August | NBC News NOW",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "zempfCY2FFM",
             "title": "Firefighter Saves American Flag From Massachusetts House Fire | NBC Nightly News",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "FBI: 4 Iranian Intelligence Operatives Plotted To Kidnap Author in NYC",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "CppB08KFmLY",
+            "title": "Biden Delivers Remarks On Wilmington | NBC News",
+            "secondDuration": 2386,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vqmytdFhvoY",
-            "title": "Remembering Legendary Astronaut John Glenn",
-            "secondDuration": 56,
-            "group": "group_7"
-        },
-        {
             "videoId": "cNLX_263WOE",
             "title": "Several killed after pedestrian bridge at Florida International University collapses",
             "secondDuration": 521,
@@ -31,8 +25,14 @@
             "title": "Golf fans injured after lightning strikes at PGA Tour in Atlanta",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "KGKn3fmWiFo",
+            "title": "Pope Francis' Historic Visit with Fidel Castro | ABC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

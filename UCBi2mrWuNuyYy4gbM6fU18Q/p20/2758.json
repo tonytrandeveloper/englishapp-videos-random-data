@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ViSk0wZqyzw",
-            "title": "Simon Cowell to Leave 'American Idol'",
-            "secondDuration": 357,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZJyQ4BPtvVE",
             "title": "Top Travel Destinations of 2016",
             "secondDuration": 205,
@@ -121,8 +115,14 @@
             "title": "Tyler Perry uses celebrity status to help with decades-old cold case",
             "secondDuration": 415,
             "group": "group_7"
+        },
+        {
+            "videoId": "G_JJSP3ymBY",
+            "title": "Officials say Omicron variant growing faster than all other COVID-19 variants | ABC News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

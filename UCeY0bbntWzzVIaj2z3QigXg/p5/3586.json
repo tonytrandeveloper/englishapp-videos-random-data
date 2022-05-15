@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NkBrpUlBMZU",
-            "title": "Josh Mankiewicz: \"I have a dream that...\"",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "CD8wmf7QqaA",
             "title": "MLB Struggles To Contain COVID-19 | NBC News NOW",
             "secondDuration": 966,
@@ -31,8 +25,14 @@
             "title": "Steve Scalise On Tropical Storm Nate: 'Confident' New Orleans Is Ready | Meet The Press | NBC News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "JXg3dbftORw",
+            "title": "Live: Biden Delivers Remarks On 2020 Economic Plan | NBC News",
+            "secondDuration": 1390,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

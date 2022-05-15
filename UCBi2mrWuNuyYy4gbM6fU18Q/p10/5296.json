@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Hfb38Q5RaMo",
-            "title": "Meet 'The Girl Who Can’t Smile'",
-            "secondDuration": 211,
-            "group": "group_7"
-        },
-        {
             "videoId": "NFagvaDuS04",
             "title": "100722_ann_tl_two.mp4",
             "secondDuration": 269,
@@ -61,8 +55,14 @@
             "title": "Gen. Scott Miller on US troop withdrawal",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "PdszHXn_fHY",
+            "title": "Paris Attacks: Dozens Dead, Hostage Situation Reported",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "StxP3BejIlA",
-            "title": "Nightly News Full Broadcast - Dec. 20",
-            "secondDuration": 1288,
-            "group": "group_7"
-        },
-        {
             "videoId": "rwlR2VpiH8M",
             "title": "President Donald Trump Blasted By Lawmakers, TV Anchors, Pundits For 'Shithole' Comment | NBC News",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "Trump Quiet About Mueller Report As 2020 Dems Call For Transparency | NBC Nightly News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "rKKxDn84yg8",
+            "title": "Hillary Clinton Unleashes On One-Time Rival Bernie Sanders | NBC Nightly News",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "mi9XprnBRN0",
-            "title": "The Rundown: Top headlines today: Dec. 3, 2021 l ABCNL",
-            "secondDuration": 233,
-            "group": "group_7"
-        },
-        {
             "videoId": "9hyRvWj_5Sk",
             "title": "ISIS claims responsibility for deadly Manchester attack",
             "secondDuration": 215,
@@ -301,8 +295,14 @@
             "title": "Mike Posner on the Ups and Downs of His Road to Success",
             "secondDuration": 311,
             "group": "group_7"
+        },
+        {
+            "videoId": "hPtueLQG6nM",
+            "title": "Powerball Fever Sweeps Nation as Jackpot Soars to $600 Million",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

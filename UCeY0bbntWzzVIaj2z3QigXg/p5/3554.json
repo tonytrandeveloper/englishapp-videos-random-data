@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9LxIlSNzPCE",
-            "title": "NOW Tonight with Joshua Johnson - Feb. 17 | NBC News NOW",
-            "secondDuration": 3167,
-            "group": "group_7"
-        },
-        {
             "videoId": "qoFHA3-m5ag",
             "title": "Watch: Drone Video Captures Damage From Deadly Haiti Earthquake",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "FBI: Inquiry Into Possible Donald Trump Camp-Russia Connections Began In July | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "2mV4HqdNJAQ",
+            "title": "Vice President Mike Pence In Aftermath Of Charlottesville: 'I Stand With The President’ | NBC News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

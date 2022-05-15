@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4g0sN-d-DD4",
-            "title": "A look at this year's Oscar nominations",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "coRY_DbTGWE",
             "title": "Somer Thompson Case: Profile of a Killer",
             "secondDuration": 347,
@@ -31,8 +25,14 @@
             "title": "Texas Student Chimp Attack: A Look Inside Sanctuary Where Andrew Oberle Was Attacked",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "HYEDlgICKCE",
+            "title": "LeBron James: Return of the King",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

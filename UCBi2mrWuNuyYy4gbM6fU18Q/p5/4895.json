@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "USwMplVl5vQ",
-            "title": "Living with Huntington’s disease",
-            "secondDuration": 955,
-            "group": "group_7"
-        },
-        {
             "videoId": "40d7MCFrogQ",
             "title": "Police Officer Who Shot Unarmed Man Identified",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "'Hamilton' Success May Keep Woman off the $10 Bill",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "utCG-O_2jFE",
+            "title": "Protests gather as Supreme Court considers historic abortion case",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

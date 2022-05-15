@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EBdpBXG7C9Q",
-            "title": "President Donald Trump On Europe Trip: 'Vladimir Putin May Be The Easiest' | NBC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "eVsNcHKTU8E",
             "title": "Senator Richard Blumenthal: Donald Trump Jr. Needs To Return And Be Under Oath | NBC News",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "California Gov. Newsom Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2829,
             "group": "group_7"
+        },
+        {
+            "videoId": "K7aZuCcbG64",
+            "title": "Frontier, Spirit Merge To Form Fifth Largest U.S. Airline",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

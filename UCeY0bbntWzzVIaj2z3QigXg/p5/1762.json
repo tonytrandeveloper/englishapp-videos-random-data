@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SPMRe6Txoy8",
-            "title": "Ted Cruz Talks About Scott Walker's Endorsement And Donald Trump | NBC News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bw-M3zVHCks",
             "title": "Mylan CEO Defends Price of EpiPen, Insists Company Isn't Price-Gouging | NBC Nightly News",
             "secondDuration": 176,
@@ -31,8 +25,14 @@
             "title": "Trump Back On The Campaign Trail",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "snmxDeaxpT8",
+            "title": "Reality Check: What To Expect From The Tax Plan | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "B5qYcit6EZg",
-            "title": "Vaccine Watch: Testing a vaccine for future pandemics",
-            "secondDuration": 315,
-            "group": "group_7"
-        },
-        {
             "videoId": "fT_Vv5AGg0k",
             "title": "Pfizer, US close to deal for more COVD-19 vaccine doses l GMA",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "ABC News Live anchor and former insomniac Diane Macedo talks new book 'The Sleep Fix'",
             "secondDuration": 398,
             "group": "group_7"
+        },
+        {
+            "videoId": "vyQf6qh9b8k",
+            "title": "K-9 competition for top dog",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

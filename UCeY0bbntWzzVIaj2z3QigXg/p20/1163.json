@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bXHml3VLNis",
-            "title": "Jeff Bezos Makes History With All-Civilian Spaceflight",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tv5a8LGLlko",
             "title": "House Democratic Leaders Hold Press Conference | NBC News (Live Stream Recording)",
             "secondDuration": 2032,
@@ -121,8 +115,14 @@
             "title": "Videos Show Aerials Of Hurricane Laura Destruction, Overnight Rain And Winds | NBC News NOW",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "WpciAXsCEQQ",
+            "title": "Understanding The Fine Print Of The California Consumer Privacy Act | NBC News NOW",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

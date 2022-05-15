@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jMnaOmsIkSw",
-            "title": "John McAfee Arrested in Guatemala",
-            "secondDuration": 295,
-            "group": "group_7"
-        },
-        {
             "videoId": "6PDBL6RASIo",
             "title": "President Biden at Ford plant: ‘The future of the auto industry is electric’",
             "secondDuration": 362,
@@ -61,8 +55,14 @@
             "title": "Coronavirus cases surge in Texas",
             "secondDuration": 444,
             "group": "group_7"
+        },
+        {
+            "videoId": "qqFJd5I3Z4U",
+            "title": "Bill Cosby trial juror speaks out after verdict",
+            "secondDuration": 366,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

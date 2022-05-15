@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1bT8uH5nTxc",
-            "title": "Biden Delivers Remarks On Keeping Students Safe In Classrooms | NBC News",
-            "secondDuration": 1305,
-            "group": "group_7"
-        },
-        {
             "videoId": "OXLAksmnHMo",
             "title": "Meet The Lawyer Going After Big-Pharma To Hold Opioid Manufacturers Accountable | NBC Nightly News",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Live: Cuomo, De Blasio, NYPD Provide Update On Suspicious Packages | NBC News",
             "secondDuration": 1279,
             "group": "group_7"
+        },
+        {
+            "videoId": "CJsSjLGXUcE",
+            "title": "S.C. Gov. Henry McMaster Gives Update On Tropical Storm Florence | NBC News",
+            "secondDuration": 2148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

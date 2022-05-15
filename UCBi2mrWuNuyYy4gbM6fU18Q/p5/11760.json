@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jOM3WKUguV4",
-            "title": "Dashcam Video Shows Deadly Police Shooting of Teen",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "hMKrKo0VolI",
             "title": "Los Alamos Nuclear Lab: Does Situation Compare with Japan Nuke Crisis?",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "Dershowitz: If Trump does Mueller interview, 'he may be walking into a perjury trap'",
             "secondDuration": 333,
             "group": "group_7"
+        },
+        {
+            "videoId": "cIiSHuv3NGE",
+            "title": "Breaking down Ahmaud Arbery murder trial as the jury deliberates",
+            "secondDuration": 766,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TJBR68zIA6I",
-            "title": "Hospitalized Soldier, Thought to Be Unconscious, Surprises With Salute",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "lr6vXGYJ47w",
             "title": "WEBCAST: Search Continues for Air Asia Jet",
             "secondDuration": 88,
@@ -121,8 +115,14 @@
             "title": "What’s next in the Ukrainian refugee crisis?",
             "secondDuration": 307,
             "group": "group_7"
+        },
+        {
+            "videoId": "3mU0yxsEgfQ",
+            "title": "UCLA Gymnast's Floor Routine Goes Viral",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

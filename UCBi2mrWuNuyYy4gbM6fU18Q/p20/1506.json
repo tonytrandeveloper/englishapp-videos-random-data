@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-bGW6g0Dzk8",
-            "title": "Man Gets Death Penalty Case Tossed 30 Years Later",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hs2f6C2-Q-I",
             "title": "Texas Biker Shootout Leads to Nearly 200 Arrests",
             "secondDuration": 175,
@@ -121,8 +115,14 @@
             "title": "Dangerous High-Speed Police Chase in California",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "C6Ycdhwp65Y",
+            "title": "Middle East on the Brink:  Egypt's Role in Cease-Fire Talks",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

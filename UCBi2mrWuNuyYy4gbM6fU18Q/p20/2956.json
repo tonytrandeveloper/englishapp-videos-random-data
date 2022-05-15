@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "L0pGGRenFwM",
-            "title": "Obama Rules Out Long-Term Ground War Against ISIS",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "95L_X1Ln9iM",
             "title": "New York Yankees step up to the plate for 4th-grader in need",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "Health Care Reform: What Went Wrong",
             "secondDuration": 571,
             "group": "group_7"
+        },
+        {
+            "videoId": "dbDKzUWTCRE",
+            "title": "Day 4 of Derek Chauvin trial",
+            "secondDuration": 281,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

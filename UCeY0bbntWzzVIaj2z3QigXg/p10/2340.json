@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mDY154uynRk",
-            "title": "Measles Outbreak: Vaccination In America | Long Story Short | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "cVZUXY2dtWc",
             "title": "Secretary Blinken Vows To Rebuild U.S. Ties with Palestinians",
             "secondDuration": 262,
@@ -61,8 +55,14 @@
             "title": "New Study Eases Long-Held Fears About Hormone Replacement Therapy | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "D6PECTUMzjA",
+            "title": "Rex Tillerson Delivers Post-Firing Statement From The State Department | NBC News",
+            "secondDuration": 515,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

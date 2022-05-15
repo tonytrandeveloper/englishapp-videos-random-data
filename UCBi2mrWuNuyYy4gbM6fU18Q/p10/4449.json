@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FJRLJzyF9pE",
-            "title": "‘Winter warriors’ prepare for wars of the future with elite training in Vermont",
-            "secondDuration": 423,
-            "group": "group_7"
-        },
-        {
             "videoId": "FGVhuTp5ymM",
             "title": "New Poll Indicates Uphill Battle for Donald Trump",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "UN climate report issues a ‘code red for humanity’",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "qmaEYbQPCuk",
+            "title": "Grand jury declines to charge 3 officers involved in Breonna Taylor’s death",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

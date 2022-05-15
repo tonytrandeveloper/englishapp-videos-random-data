@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KzlJrvs1Tz0",
-            "title": "Timelapse captures dense fog in San Francisco",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "c3KjZyMd_P4",
             "title": "Nepal: Rescuers Pull Man Trapped for 80 Hours in Rubble",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Country's biggest stars catch up with Robin Roberts ahead of CMA Awards",
             "secondDuration": 414,
             "group": "group_7"
+        },
+        {
+            "videoId": "8kBcPUAAq-k",
+            "title": "Trump blasts Democrats as shutdown heads into Day 7",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

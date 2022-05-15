@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "O3dLyUdj8cU",
-            "title": "Susan Rice faces accusations of 'unmasking' Trump officials",
-            "secondDuration": 350,
-            "group": "group_7"
-        },
-        {
             "videoId": "TCH1SaJqAtY",
             "title": "Trump Battles for Women's Votes After Offensive Tweet",
             "secondDuration": 230,
@@ -31,8 +25,14 @@
             "title": "New York beaches to open for Memorial Day weekend",
             "secondDuration": 458,
             "group": "group_7"
+        },
+        {
+            "videoId": "7pCoGBrSOo0",
+            "title": "Stanford freshman tackles water scarcity through 'grey water' concept",
+            "secondDuration": 326,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

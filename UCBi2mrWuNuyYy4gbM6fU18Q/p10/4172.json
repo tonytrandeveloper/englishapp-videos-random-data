@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s-1Es35fAfw",
-            "title": "NASCAR tire changer makes pit crew history | ABC News",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "fyGAhHm2ZJw",
             "title": "All the Queen's Corgis",
             "secondDuration": 197,
@@ -61,8 +55,14 @@
             "title": "Obama Declares Emergency in Louisiana Floods",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "bRWNesooN-g",
+            "title": "CDC is expanding its booster recommendations due to the threat of the new COVID variant | ABC News",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MylGfTNgrOI",
-            "title": "The Debrief: Record-breaking cold, 2020 Democratic challengers, Jussie Smollet investigation",
-            "secondDuration": 1221,
-            "group": "group_7"
-        },
-        {
             "videoId": "LJT2DjWSXsY",
             "title": "ABC News Prime: COVID-19 reaches historic highs; Trump blocks Biden transition; Thanksgiving risks",
             "secondDuration": 3540,
@@ -121,8 +115,14 @@
             "title": "Storms sweep north as millions brace for possible tornadoes l GMA",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "NBDxGzBVkAU",
+            "title": "Boston’s rising COVID-19 fears as colleges begin to open",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

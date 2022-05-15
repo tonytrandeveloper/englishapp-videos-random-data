@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "_uyC2iqeKQU",
-            "title": "Watch Eric Trump’s Full Speech At The 2020 RNC | NBC News",
-            "secondDuration": 548,
-            "group": "group_7"
-        },
-        {
             "videoId": "1RrMjExz-bY",
             "title": "NBC News/WSJ Poll: Biden Leads Trump By 10 Points | Meet The Press | NBC News",
             "secondDuration": 133,
@@ -301,8 +295,14 @@
             "title": "Hundreds Mourn Ohio Shooting Victims At Vigil | NBC News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q9yJSjdp_go",
+            "title": "President Trump Shares Story About His Brother’s Alcohol Addiction During Opioid Speech | NBC News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

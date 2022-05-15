@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KBOMl8JAyio",
-            "title": "Watch live: Boris Johnson give first statement as U.K. prime minister",
-            "secondDuration": 709,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z7UDZhrTQyI",
             "title": "Top Story With Tom Llamas - Nov. 8 | NBC News NOW",
             "secondDuration": 2742,
@@ -31,8 +25,14 @@
             "title": "Video Shows School Bus Driver Allegedly Drunk Driving | NBC Nightly News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "zuDfAv39HGg",
+            "title": "Coronavirus Spike In Oklahoma Ahead Of Trump Rally | NBC Nightly News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

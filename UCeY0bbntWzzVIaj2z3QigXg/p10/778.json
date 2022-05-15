@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8ecbgkwUhlc",
-            "title": "WHO: ‘Currently No Evidence’ That COVID-19 Survivors Have Immunity | NBC Nightly News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "gh2DbL9NH3w",
             "title": "Viral Sea Lion Video Should Serve As Warning For Summer, Experts Warn | NBC Nightly News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Hawaii Volcano Erupts, Launching Ash And Smoke 30,000 Feet High | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "1Kcc9sSNWQk",
+            "title": "U.K.'s Boris Johnson Announces Winter Plan To Tackle Covid | NBC News NOW",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

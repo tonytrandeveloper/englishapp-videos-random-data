@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OJxpwujBTvg",
-            "title": "FAA Grounds Virgin Galatic's Spacecraft Amid Investigation Into Warning Light",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "dGLsik15DWQ",
             "title": "A Robot Barista That Can Make 120 Cups Of Coffee In An Hour | Mach | NBC News",
             "secondDuration": 72,
@@ -121,8 +115,14 @@
             "title": "President Trump Reportedly Asked DOJ To Prosecute Hillary Clinton, James Comey | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "CNRZPxc7w70",
+            "title": "Long Road Back To Paradise: Residents Still Struggle Their New Reality | NBC News",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

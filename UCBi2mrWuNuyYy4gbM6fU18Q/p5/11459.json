@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HDocB6YADDE",
-            "title": "GoPro Extreme Skiers Leaping From Slopes",
-            "secondDuration": 398,
-            "group": "group_7"
-        },
-        {
             "videoId": "xOAElvuY1sI",
             "title": "NYC power outage leaves parts of Manhattan in darkness | ABC News",
             "secondDuration": 8005,
@@ -31,8 +25,14 @@
             "title": "Houston residents displaced by pipes bursting due to cold",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "FjgqI3u6jXU",
+            "title": "Dozens of companies set to start manufacturing Pfizer COVID-19 pill l ABC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XzRbcL-a6M8",
-            "title": "E.L. James on Barbara Walters' 10 Most Fascinating People of 2012",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "af39Wgi45xA",
             "title": "Dozens of people are recovering after an apartment floor collapsed in South Carolina",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "'I heard 2 pops:' High school shooting witness says",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "wl8HCERPTt8",
+            "title": "Trump calls Kim Jong Un 'a worthy negotiator'",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

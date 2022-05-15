@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VbmZHJsGPOM",
-            "title": "Adm. William McRaven’s Inspirational Words",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "4Ma1017EJ8c",
             "title": "Trump Wins West Virginia | 2016 Presidential Election Projection",
             "secondDuration": 49,
@@ -61,8 +55,14 @@
             "title": "Cleveland Women Freed: John Walsh Responds",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "xJhZza-Sv_M",
+            "title": "Felicity Huffman to plead guilty in college admissions cheating scandal",
+            "secondDuration": 330,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4lOGIkNITMg",
-            "title": "Billy Ray Cyrus Performs 'Amazing Grace'",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "qS9IXB59J3Y",
             "title": "10-year-old girl who was born without hands threw the first pitch at a baseball game",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "Bill Cosby is about to become the first celebrity sentenced to prison in the #MeToo era",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "CNAn4WQn6JY",
+            "title": "Hillary and Meryl",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

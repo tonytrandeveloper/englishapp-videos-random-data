@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DArcDAMPESk",
-            "title": "2016 Oscar Nominations and Snubs | ABC News",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xcui_MVfO98",
             "title": "Former President George W. Bush Recovering After Heart Surgery",
             "secondDuration": 182,
@@ -61,8 +55,14 @@
             "title": "East Coast Braces for Hurricane Irene",
             "secondDuration": 399,
             "group": "group_7"
+        },
+        {
+            "videoId": "j6Ca4seNGfE",
+            "title": "'Queer Eye' cast talks impact of show and new season with Adam Rippon",
+            "secondDuration": 381,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

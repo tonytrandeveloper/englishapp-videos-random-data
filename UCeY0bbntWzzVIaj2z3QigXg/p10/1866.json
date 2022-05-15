@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xA7cY0IG8EM",
-            "title": "Top Story with Tom Llamas - March 14 | NBC News NOW",
-            "secondDuration": 2642,
-            "group": "group_7"
-        },
-        {
             "videoId": "90mpqXL2cpg",
             "title": "Desperate Search For Survivors After Indonesia Earthquake And Tsunami | NBC Nightly News",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "Florida Farmers Fight To Save Their Crops From A Deep Freeze",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "_HiuwYykSmM",
+            "title": "Overlap Of COVID-19 And Flu Season Could Have Devastating Consequences | NBC Nightly News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

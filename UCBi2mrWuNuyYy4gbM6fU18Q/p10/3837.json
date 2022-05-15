@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0-0mzeBgjMA",
-            "title": "‘Clinton Cash’ Fallout",
-            "secondDuration": 423,
-            "group": "group_7"
-        },
-        {
             "videoId": "3fFPslBcJ1M",
             "title": "Bernie Sanders delivers speech after projected win in Nevada caucuses",
             "secondDuration": 1399,
@@ -61,8 +55,14 @@
             "title": "No countries have reported new coronavirus cases in last 24 hours",
             "secondDuration": 332,
             "group": "group_7"
+        },
+        {
+            "videoId": "QYFvtPM2su4",
+            "title": "Busting an Organized Shoplifting Ring",
+            "secondDuration": 409,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

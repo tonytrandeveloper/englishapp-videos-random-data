@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Blrocj79HNw",
-            "title": "Trump Reacts To Impeachment Vote At Rally | NBC News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "UVm-6HLD160",
             "title": "Biden Urges Americans To Get Vaccinated After FDA Approves Pfizer Vaccine",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Harvey Weinstein Accuser: Seeing Him ‘Brings Back The Trauma’ | NBC News NOW",
             "secondDuration": 245,
             "group": "group_7"
+        },
+        {
+            "videoId": "EGR-R2JTlnM",
+            "title": "See Aftermath of Hurricane-Ravage Island | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

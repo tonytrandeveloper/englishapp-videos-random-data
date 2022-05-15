@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dgNSjXZqAs0",
-            "title": "The Conversation: Women in the World Summit",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "RhQdHUsGPNU",
             "title": "Hospitals Save Lives by Washing Hands",
             "secondDuration": 206,
@@ -121,8 +115,14 @@
             "title": "Briefing Room: Flynn sentencing delayed, shutdown looms, bump stock ban, McSally Senate appointment",
             "secondDuration": 1505,
             "group": "group_7"
+        },
+        {
+            "videoId": "3C5jY84j7BY",
+            "title": "Inside the battle for Mosul",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

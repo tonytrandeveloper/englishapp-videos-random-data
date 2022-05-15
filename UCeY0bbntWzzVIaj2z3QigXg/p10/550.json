@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IrDa5LMhhb0",
-            "title": "First Generation College Students Speak On Covid’s Impact | NBC News NOW",
-            "secondDuration": 304,
-            "group": "group_7"
-        },
-        {
             "videoId": "iBgRmsYIifg",
             "title": "NBC Nightly News Full Broadcast - September 23rd",
             "secondDuration": 1271,
@@ -61,8 +55,14 @@
             "title": "'This Is Just Dumb': Sen. Cruz Mocks Covid Regulations At CPAC | NBC News NOW",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "BE6YP23CWHg",
+            "title": "Biden Delivers Remarks In Las Vegas | NBC News",
+            "secondDuration": 1739,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

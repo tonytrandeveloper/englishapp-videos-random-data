@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0ZXSGDD_YiU",
-            "title": "Obama Commutes Sentences of 214 Prisoners",
-            "secondDuration": 17,
-            "group": "group_7"
-        },
-        {
             "videoId": "5CVfebndtP8",
             "title": "4 officers involved in death of George Floyd face federal charges | WNT",
             "secondDuration": 206,
@@ -31,8 +25,14 @@
             "title": "Robert Durst Pleads Guilty to Possession of a Gun in New Orleans",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "wlo0mT0ECVQ",
+            "title": "Outbreak in America",
+            "secondDuration": 398,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

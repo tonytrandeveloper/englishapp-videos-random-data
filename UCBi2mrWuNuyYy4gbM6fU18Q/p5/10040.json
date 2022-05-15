@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cYVkITKDMe4",
-            "title": "Bernie Sanders says he won't leave presidential race l ABC News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "VhNHHXEPVZE",
             "title": "2 teenagers accused of planning attack on classmates and school staffers",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "India healthcare system on the brink of collapse as COVID crisis worsens l GMA",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZRe4h8Ouae4",
+            "title": "Family sues dental chain in 4-year-old girl's death",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ckX-45BgyIM",
-            "title": "Trump Reverses Course, Says ‘Of Course’ He Would Report Foreign Dirt To FBI | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "HweURaXHUJ0",
             "title": "Houston Shelters Struggle To Meet Evacuees’ Medical Needs | NBC Nightly News",
             "secondDuration": 123,
@@ -301,8 +295,14 @@
             "title": "Full Panel: 'Lack Of Clarity Is A Serious Problem' In Coronavirus Response | Meet The Press",
             "secondDuration": 498,
             "group": "group_7"
+        },
+        {
+            "videoId": "AYJzzWKxPvA",
+            "title": "Robots Installed At Hotels Used To Treat Coronavirus Patients | NBC News",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

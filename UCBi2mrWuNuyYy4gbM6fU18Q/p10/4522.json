@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LGfCtnuNUzw",
-            "title": "GOP Presidential Hopefuls Recover from Debate",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "QW0yYZw1BDI",
             "title": "NFL season kicks off with new COVID-19 policies in place",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Justice Jackson introduced at White House",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "UQl5eD-7lP4",
+            "title": "Find Out How Smart Your Dog Is With Dognition",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

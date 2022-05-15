@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ibaU2vRlpfY",
-            "title": "Democratic Frontrunners Square Off in Las Vegas | ABC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "tkcd1LRD-uQ",
             "title": "COVID-19 continues wreaking havoc on US as Trump is released from hospital | Nightline",
             "secondDuration": 690,
@@ -31,8 +25,14 @@
             "title": "Republican Votes Yes on Health Care Bill",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "mLzFG_PF5b8",
+            "title": "Election text tidal wave",
+            "secondDuration": 520,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

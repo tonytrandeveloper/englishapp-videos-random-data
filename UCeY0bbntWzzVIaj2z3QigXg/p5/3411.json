@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LZ-9R1ElhLo",
-            "title": "NBC News Fact Checks Trump's False Election Fraud Claims As Battleground Vote Counts Continue",
-            "secondDuration": 674,
-            "group": "group_7"
-        },
-        {
             "videoId": "06fXWHn84eQ",
             "title": "The Last Blockbuster In The U.S. | NBC Nightly News",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Watch Live: Defense Secretary Esper Gives Briefing Amid Iran Conflict | NBC News (Live Stream)",
             "secondDuration": 1126,
             "group": "group_7"
+        },
+        {
+            "videoId": "r7qZXo_vnlw",
+            "title": "Vote Count Underway In Union Fight At Amazon Alabama Warehouse | NBC News NOW",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

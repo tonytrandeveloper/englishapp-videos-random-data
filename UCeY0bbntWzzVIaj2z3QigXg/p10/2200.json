@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7DKH4h5ZQn4",
-            "title": "San Bernardino Shooters Discussed Jihad in 2013 Before Engagement | NBC Nightly News",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "hJZKM0pHxGA",
             "title": "Hurricane Irma: Storm Could Cost Florida Economy Tens Of Billions | NBC Nightly News",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Holmes: ‘I Have A Clear Recollection' Of Overhearing Trump-Sondland Call | NBC News",
             "secondDuration": 2308,
             "group": "group_7"
+        },
+        {
+            "videoId": "PMSDBJdq4_s",
+            "title": "Keystone Pipeline Vote Leaves Landrieu Disappointed | NBC News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

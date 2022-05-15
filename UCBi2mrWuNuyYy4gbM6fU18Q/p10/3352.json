@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Khi_Tzoithg",
-            "title": "Everything Pumpkin For Fall",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "5gNEYYQMosA",
             "title": "House Dems Pass Health Care Bill",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Index: 3 People From the NYC Area Test Positive for the Zika Virus",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "zG3LjzY_pw0",
+            "title": "Eye of hurricane to pass over area home to nearly half of America's oil refineries",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

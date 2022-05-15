@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L9H4ASFhjDU",
-            "title": "The Howard Dean Scream At 15: The First Political Meme | NBC News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "RbDyawMyg_I",
             "title": "Trump Meets With Pastors After Blasting Baltimore, Rep. Cummings | NBC Nightly News",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Ukrainian Refugees Held In ICE Detention Centers",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "ym7fZUwu8Kw",
+            "title": "This Morning’s Top Headlines – October 20 | Morning News NOW",
+            "secondDuration": 1430,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

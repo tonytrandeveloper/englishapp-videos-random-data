@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hDkH3VGhzN8",
-            "title": "By the Numbers: Most expensive Thanksgiving ever",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "OvYVwbv-sLg",
             "title": "Police investigating killing of US teacher in Dominican Republic l ABC News",
             "secondDuration": 70,
@@ -61,8 +55,14 @@
             "title": "Bobby Jindal and Martin O'Malley Debate",
             "secondDuration": 951,
             "group": "group_7"
+        },
+        {
+            "videoId": "rc6Hcqan5eY",
+            "title": "Nelson Mandela Dead: Peace Leader's Everlasting Impact on American Culture of Equality",
+            "secondDuration": 233,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6LZeYj0y3zM",
-            "title": "White House Coronavirus Task Force Holds News Conference | NBC News (Live Stream Recording)",
-            "secondDuration": 5399,
-            "group": "group_7"
-        },
-        {
             "videoId": "JZpHw35RVi0",
             "title": "E-Cigarette Use An ‘Epidemic’ Among Teenagers, FDA Says | NBC Nightly News",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "John Kasich Celebrates Ohio Finish On Primary Night | NBC News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "8MPdBHvEkCE",
+            "title": "New Veterans Affairs Hospital Cost Almost $2 Billion | NBC Nightly News",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

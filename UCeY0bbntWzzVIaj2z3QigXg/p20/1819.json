@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5veOrEQP1Qg",
-            "title": "Senator Jeff Merkley Holds Overnight Talk-A-Thon Protesting Neil Gorsuch Nomination | NBC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "z6Z-y0gQyHE",
             "title": "PetSmart Faces Another Dog Death | NBC Nightly News",
             "secondDuration": 112,
@@ -121,8 +115,14 @@
             "title": "De Blasio Rips Trump Over Coronavirus Bailouts: 'Stabbing His Hometown In The Back' | NBC News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "gvJ_7plWz7s",
+            "title": "Philadelphia Man Exonerated After Nearly Two Decades In Prison For Crime He Didn’t Commit",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

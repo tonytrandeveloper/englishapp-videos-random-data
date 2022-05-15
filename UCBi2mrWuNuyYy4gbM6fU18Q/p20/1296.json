@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CdgpNBsn_hM",
-            "title": "'Star Wars' marks 'Life Day' with new special",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "lq9KO_rVmT4",
             "title": "Karachi, Pakistan Celebrates the Start of 2017",
             "secondDuration": 70,
@@ -121,8 +115,14 @@
             "title": "'Steve Jobs' Book: Tale of Two Steves",
             "secondDuration": 423,
             "group": "group_7"
+        },
+        {
+            "videoId": "PwdqhPsYqf0",
+            "title": "ABC News Prime: Pfizer vaccine approved kids; Afghanistan neighbors fallout; NHL scandal fallout",
+            "secondDuration": 5230,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

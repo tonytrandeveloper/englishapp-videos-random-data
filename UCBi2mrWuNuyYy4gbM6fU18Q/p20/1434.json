@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QqO5WRfSFks",
-            "title": "Prayer With A Punch",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "mOiPUCOSxQs",
             "title": "Coronavirus 'containment area' ordered north of New York City | Nightline",
             "secondDuration": 625,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Police Helicopter Pulls Two People From River",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "0Vby6jtbAxE",
+            "title": "Trump's physician gives update from Walter Reed | ABC News",
+            "secondDuration": 1317,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

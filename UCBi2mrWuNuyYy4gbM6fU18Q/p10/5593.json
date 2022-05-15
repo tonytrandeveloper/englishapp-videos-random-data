@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jfVhnR2HkS8",
-            "title": "State of the Union, Ukraine crisis, Mardi Gras returns: Week in Photos",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "6VphG3VMNbg",
             "title": "North Korea missile launch fails",
             "secondDuration": 256,
@@ -61,8 +55,14 @@
             "title": "Navajo doctors struggle to obtain resources to treat community ravaged by COVID-19",
             "secondDuration": 265,
             "group": "group_7"
+        },
+        {
+            "videoId": "4Nsl6D9S03U",
+            "title": "President Obama With a Major Reversal on Afghanistan",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

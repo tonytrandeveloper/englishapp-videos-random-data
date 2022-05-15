@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kQ_8Md4iK-o",
-            "title": "NASA's Curiosity Mars Rover: '7 Minutes of Terror' Animation Video",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "8Eko10_KMUE",
             "title": "Obama on Gwen Ifill's Death",
             "secondDuration": 82,
@@ -31,8 +25,14 @@
             "title": "Puerto Rico on edge as Tropical Storm Dorian nears l ABC News",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "X-xaOET3wFM",
+            "title": "New stories of COVID-19 survival",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

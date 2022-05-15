@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "681F25y6nIA",
-            "title": "Eric Garner, Michael Brown Killings Protested In NYC | NBC News",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZpcVSiYFxhs",
             "title": "Tulsi Gabbard On Why LGBTQ Voters Should Trust Her | NBC News",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "Native American Families Seek Justice For Women Missing Or Killed In Unsolved Crimes| Nightly News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "2aoL4mkgiMk",
+            "title": "‘He Was Defined By His Dignity’: Biden Pays Tribute To Fallen U.S. Capitol Officer | NBC News NOW",
+            "secondDuration": 569,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

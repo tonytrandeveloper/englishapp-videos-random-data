@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "F6jHwpR_7RQ",
-            "title": "'10% Happier': Mark Epstein | ABC News",
-            "secondDuration": 4350,
-            "group": "group_7"
-        },
-        {
             "videoId": "AJqFNnNoUHg",
             "title": "Ted Cruz on the Fight for Convention Delegates",
             "secondDuration": 298,
@@ -61,8 +55,14 @@
             "title": "ABC News Update: Death toll expected to rise after partial building collapse",
             "secondDuration": 1608,
             "group": "group_7"
+        },
+        {
+            "videoId": "3Ny9sYh12TA",
+            "title": "Poland, Pentagon at odds over fighter jets to Ukraine",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

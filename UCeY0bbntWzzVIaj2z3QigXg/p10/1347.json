@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TrY8mfju3z4",
-            "title": "NBC News Exclusive: Harvey Weinstein Accuser Melissa Thompson Speaks Out | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "HsaNmQ4uu8k",
             "title": "Businesses Create Divorce, Gift Registries To Help People Start Single Life",
             "secondDuration": 241,
@@ -61,8 +55,14 @@
             "title": "Debunking Rep. Gohmert’s Claim He Contracted COVID-19 While Wearing A Mask | NBC News NOW",
             "secondDuration": 840,
             "group": "group_7"
+        },
+        {
+            "videoId": "VvdOTQlPawc",
+            "title": "Senator Cory Booker Testifies Against Senator Jeff Sessions In Confirmation Hearing | NBC News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

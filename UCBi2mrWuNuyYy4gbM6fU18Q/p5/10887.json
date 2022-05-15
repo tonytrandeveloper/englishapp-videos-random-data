@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XttMoNcyGoE",
-            "title": "Photographing the class of 2020 | ABC News",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "71RmPJBgIlw",
             "title": "Bill Weir's Second Opinion",
             "secondDuration": 363,
@@ -31,8 +25,14 @@
             "title": "Actor Anton Yelchin Dies From a Car Crash at His Own House",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "SBYdhTa8yqI",
+            "title": "Guard fired at police, may have shot student at STEM school: Sources",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

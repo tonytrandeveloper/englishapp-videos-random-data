@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CmDl2rMrRKQ",
-            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
-            "secondDuration": 1525,
-            "group": "group_7"
-        },
-        {
             "videoId": "5n1GMZiLKmg",
             "title": "Fallen U.S. Soldiers Finally Return From North Korea | NBC News",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "U.K. Police Name Salman Abedi As Manchester Bomber | NBC News",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "uYDxvMJQebQ",
+            "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3707,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

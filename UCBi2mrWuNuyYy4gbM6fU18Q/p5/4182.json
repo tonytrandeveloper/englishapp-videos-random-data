@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IopzJD1uNKY",
-            "title": "Policing in America",
-            "secondDuration": 384,
-            "group": "group_7"
-        },
-        {
             "videoId": "fM45jlPZtmk",
             "title": "Rep. Mike Rogers During 'This Week' Roundtable: 'Beyond a Shadow of a Doubt' China Behind US Hacking",
             "secondDuration": 45,
@@ -31,8 +25,14 @@
             "title": "Longest-serving MPD officer testifies at Chauvin trial",
             "secondDuration": 912,
             "group": "group_7"
+        },
+        {
+            "videoId": "m0Ay91oCuRY",
+            "title": "'He's coming home for now': Secretary of State Mike Pompeo on US Taliban negotiator",
+            "secondDuration": 710,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

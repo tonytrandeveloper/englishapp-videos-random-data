@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iaIiYmnLFFM",
-            "title": "Steve Scalise On Tropical Storm Nate: 'Confident' New Orleans Is Ready | Meet The Press | NBC News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "TdXBq3iYtY8",
             "title": "Suspect In Deadly Maryland Newspaper Shooting Charged With Five Counts Of Murder | NBC Nightly News",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "Afghanistan, Lost",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "LmSeRYm3UR8",
+            "title": "Police Update On Body Found In Mollie Tibbetts Case | NBC News",
+            "secondDuration": 871,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

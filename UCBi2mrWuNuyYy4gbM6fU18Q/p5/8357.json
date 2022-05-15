@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sD6sSbEVz7A",
-            "title": "Weinstein found guilty on 2 counts, not guilty on 3 others",
-            "secondDuration": 630,
-            "group": "group_7"
-        },
-        {
             "videoId": "heWD_7VpAD4",
             "title": "Donald Trump Says Hillary Clinton Has a 'Major Problem'",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Family Falls from Chairlift 1 Dead, 2 Injured",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "BzbCDgbGIKE",
+            "title": "Jamie Foxx Sings National Anthem, Receives Mixed Reviews",
+            "secondDuration": 237,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

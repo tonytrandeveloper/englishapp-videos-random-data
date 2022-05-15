@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jp1EYAJ6TQc",
-            "title": "Beijing Olympics, Super Bowl, Valentine’s Day: Week in Photos",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "WFrojx2VuIk",
             "title": "Bipartisan infrastructure bill vote date unclear: Pelosi | ABC News",
             "secondDuration": 695,
@@ -61,8 +55,14 @@
             "title": "President Trump to sign $1.3 trillion spending bill | ABC News Special Report",
             "secondDuration": 2159,
             "group": "group_7"
+        },
+        {
+            "videoId": "JnfuL7uimr8",
+            "title": "ABC News Live: White House recommends COVID-19 vaccine booster shots",
+            "secondDuration": 3730,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

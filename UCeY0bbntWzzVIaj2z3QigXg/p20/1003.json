@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bLwUoYGU6sU",
-            "title": "Watch NBC News NOW Live - July 9",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "hjZOcPV7oLY",
             "title": "Inside Ford Automotive Factory Producing Medical Equipment To Fight COVID-19 | NBC News NOW",
             "secondDuration": 223,
@@ -121,8 +115,14 @@
             "title": "Tent Camp Built Near Border To House Migrant Children Separated From Parents | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "CQxyjkstt7Y",
+            "title": "Colorado Man Accused In Wife And Daughters' Murder Appears In Court | NBC News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

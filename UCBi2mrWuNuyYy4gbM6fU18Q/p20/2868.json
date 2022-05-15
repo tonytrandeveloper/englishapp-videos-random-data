@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qxLcBQNLsoA",
-            "title": "The Briefing Room: Amber Guyger found guilty, Impeachment showdown, 2020 candidates latest",
-            "secondDuration": 1701,
-            "group": "group_7"
-        },
-        {
             "videoId": "Asxif33ZXbk",
             "title": "Unsealed court filings link big names to Jeffrey Epstein scandal",
             "secondDuration": 170,
@@ -121,8 +115,14 @@
             "title": "Why I’m voting early",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gzvmgx1OoDg",
+            "title": "Are new COVID-19 testing solutions enough?",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

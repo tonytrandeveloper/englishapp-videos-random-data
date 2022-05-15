@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fqGK0wJ8xcU",
-            "title": "DOJ Seeks Probe Of FBI Conduct In 2016 Campaign After President Trump ‘Spy’ Claim | NBC Nightly News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "oUxyhm0vT-A",
             "title": "'Dune,' 'The Power Of The Dog' Headline 2022 Oscar Nominations",
             "secondDuration": 264,
@@ -61,8 +55,14 @@
             "title": "'Fridays For Future' Activists Circumvent Coronavirus Restrictions | NBC News",
             "secondDuration": 50,
             "group": "group_7"
+        },
+        {
+            "videoId": "S_cFVEpA_dg",
+            "title": "Michigan Infections Spike, Unfilled Vaccine Appointments Rise | Meet The Press | NBC News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

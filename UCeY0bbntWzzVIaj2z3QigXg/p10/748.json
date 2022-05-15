@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tmogZdYC6CM",
-            "title": "Notre Dame Hosts First Mass Since Devastating Fire | NBC News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "KE9mGFeKMqo",
             "title": "President Donald Trump Signs First Documents As President | NBC News",
             "secondDuration": 79,
@@ -61,8 +55,14 @@
             "title": "Live: New York Governor Andrew Cuomo Holds Briefing | NBC News",
             "secondDuration": 2760,
             "group": "group_7"
+        },
+        {
+            "videoId": "nhtZfs6QQpc",
+            "title": "Astronauts Aboard International Space Station Welcome SpaceX 2 Crew | NBC News",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

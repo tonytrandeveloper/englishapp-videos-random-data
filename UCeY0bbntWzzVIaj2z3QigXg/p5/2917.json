@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LZNNii2gcFc",
-            "title": "White House Holds Press Briefing: July 19 | NBC News",
-            "secondDuration": 2676,
-            "group": "group_7"
-        },
-        {
             "videoId": "bt1pL9p7KGk",
             "title": "Americans Tune In To Brett Kavanaugh Hearings | NBC Nightly News",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "How The U.S. Dollar Shaped The World Economy | Long Story Short | NBC News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "W37Y9sSLs0A",
+            "title": "Fans Flee After Multiple Shot Outside Of Nationals Park",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

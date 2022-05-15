@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7Iq7xRgw4ow",
-            "title": "Hawaii’s Kilauea Volcano: Eruptions, Geysers, And Lava Streams Flowing Into The Ocean | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "EnXPu4gXxlI",
             "title": "Crown Prince On Jamal Khashoggi Killing: ‘A Heinous Crime That Cannot Be Justified’ | NBC News",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Georgia School Districts Face Controversy Over Mask Mandate",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "m-7PIqLJZVA",
+            "title": "Dept. of Justice Briefs on Efforts to Combat Intel Leaks | NBC News",
+            "secondDuration": 859,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

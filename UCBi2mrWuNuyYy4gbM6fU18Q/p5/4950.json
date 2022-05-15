@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Oycuw9RzEqQ",
-            "title": "US coronavirus cases soar past 16,000 with at least 200 dead",
-            "secondDuration": 426,
-            "group": "group_7"
-        },
-        {
             "videoId": "_3-JHalPMZ0",
             "title": "3 major US airports to check incoming passengers for potentially deadly virus | ABC News",
             "secondDuration": 233,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton Tries to Put Email Scandal Behind Her",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "_cby8R3EjbU",
+            "title": "Are Your Allergies Real?",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

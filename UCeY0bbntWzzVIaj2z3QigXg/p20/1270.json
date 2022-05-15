@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ftd87dQ3gU0",
-            "title": "Live: Arizona Governor Gives Coronavirus Updates | NBC News",
-            "secondDuration": 4288,
-            "group": "group_7"
-        },
-        {
             "videoId": "FxKQWPDsAv8",
             "title": "Cindy McCain Honors Friendship Between Joe Biden And John McCain At The 2020 DNC | NBC News",
             "secondDuration": 198,
@@ -121,8 +115,14 @@
             "title": "Buying Opioids Online: A Look Into The Thriving Industry | NBC Nightly News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "1uxeWlx66ns",
+            "title": "Astroworld Death Toll Rises To 9 After 22-Year-Old Dies From Injuries",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

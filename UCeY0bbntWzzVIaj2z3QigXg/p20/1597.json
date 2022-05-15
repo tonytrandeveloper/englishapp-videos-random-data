@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7ZuucJIpaSs",
-            "title": "Winner Of $768 Million Powerball Jackpot Comes Forward | NBC Nightly News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "96G42s7EDlY",
             "title": "Royal Summit Planned After Prince Harry And Meghan Markle’s Decision To ‘Step Back’ | Nightly News",
             "secondDuration": 133,
@@ -121,8 +115,14 @@
             "title": "Trump Visits Michigan Ford Plant Making Ventilators For Coronavirus Patients | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "k6ZR7Cao8r8",
+            "title": "Live: Trump Meets With Leaders Of Kosovo, Serbia At White House | NBC News",
+            "secondDuration": 331,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tbF5sSrMrwg",
-            "title": "Bill Cosby Case: Lawyer Angela Agrusa Says Cosby 'Will Not Be Speaking' | NBC News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "OZcv8XIK9SE",
             "title": "Jon Stewart Demands Congress Fund 9/11 Victim Program 'Properly’ | NBC News",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "Las Vegas Security Guard Breaks Silence On Ellen DeGeneres’ Show | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "VuPCkHa6tjA",
+            "title": "Chuck Schumer And Paul Ryan Weigh In On Robert Mueller Probe’s One-Year Mark | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

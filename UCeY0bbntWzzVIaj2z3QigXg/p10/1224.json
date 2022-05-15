@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UXRXi_MwRcc",
-            "title": "7.1-Magnitude Earthquake Rattles Mexico City | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "7gfi7XQpi5g",
             "title": "Chicago Mayor Lori Lightfoot Gives Update on Coronavirus Response | NBC News (Live Stream Recording)",
             "secondDuration": 1511,
@@ -61,8 +55,14 @@
             "title": "Tony Robbins: \"I have a dream that...\"",
             "secondDuration": 36,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kbimasgue9o",
+            "title": "Watch Live: White House Press Briefing March 11 | NBC News",
+            "secondDuration": 3123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

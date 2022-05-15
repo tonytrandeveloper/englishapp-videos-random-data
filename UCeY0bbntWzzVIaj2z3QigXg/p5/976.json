@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8qSvQqUTnHk",
-            "title": "FBI Says Hackers In China Targeted COVID-19 Research | NBC Nightly News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "v_nDJOFBjfQ",
             "title": "Biden Signs Executive Order Addressing ‘Harmful Actions’ Russia Has Taken Against U.S. | NBC News",
             "secondDuration": 211,
@@ -31,8 +25,14 @@
             "title": "Democratic Presidential Debate - June 26 (Full) | NBC News",
             "secondDuration": 9360,
             "group": "group_7"
+        },
+        {
+            "videoId": "oNpSF6wW4Ag",
+            "title": "Pfizer Says Its Covid Pill Reduces Risk of Hospitalization, Death",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

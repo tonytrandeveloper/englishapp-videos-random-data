@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ztDdBLxgCuo",
-            "title": "Rock and Roll Hall of Fame Welcomes New Inductees",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "5j2D_qNTky8",
             "title": "Passenger Allegedly Attacks Flight Attendant on American Airlines Flight",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "Dayton, Ohio shooting: Officials hold news conference after mass shooting",
             "secondDuration": 2374,
             "group": "group_7"
+        },
+        {
+            "videoId": "kvGGUsdDjB0",
+            "title": "Inside the Lives of American Sex Slaves",
+            "secondDuration": 635,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

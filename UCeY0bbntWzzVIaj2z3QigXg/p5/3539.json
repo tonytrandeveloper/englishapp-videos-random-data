@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1fuN1Z1wE_k",
-            "title": "White House Coronavirus Task Force Holds Briefing | NBC News",
-            "secondDuration": 4976,
-            "group": "group_7"
-        },
-        {
             "videoId": "3I_y_zCJINg",
             "title": "Felony Charges Filed In New Jersey High School Football Hazing Investigation",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Fiery Blast On Ferry At Mexican Resort Wounds 25 | NBC News",
             "secondDuration": 50,
             "group": "group_7"
+        },
+        {
+            "videoId": "NeAygDojuns",
+            "title": "Exclusive: Twitter CEO Jack Dorsey On Alex Jones’ ‘Timeout’ | NBC Nightly News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

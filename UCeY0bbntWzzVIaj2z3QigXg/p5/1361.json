@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qOVXbTh_DLA",
-            "title": "President Donald Trump: We've Done 'A Great Job' In Puerto Rico | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "JTtiFdYHEME",
             "title": "Soccer Star Megan Rapinoe Speaks To Frontline Workers At DNC | NBC News",
             "secondDuration": 255,
@@ -31,8 +25,14 @@
             "title": "Heartbreak In Puerto Rico: 'We Don't Have Anything' | NBC News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "1YA_bDN7j7Y",
+            "title": "President Donald Trump Defends Embattled EPA Chief Scott Pruitt | NBC Nightly News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

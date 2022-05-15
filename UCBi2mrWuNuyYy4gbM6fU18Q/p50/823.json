@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "desFepEX5Is",
-            "title": "Sen. Menendez: ‘Our democracy prevails’ with a ‘peaceful transfer of power’",
-            "secondDuration": 329,
-            "group": "group_7"
-        },
-        {
             "videoId": "yATS9HJMrYc",
             "title": "Educator takes 2nd job as a driver to ensure students have Christmas gifts",
             "secondDuration": 355,
@@ -301,8 +295,14 @@
             "title": "CDC releases new guidance for those who are fully vaccinated",
             "secondDuration": 314,
             "group": "group_7"
+        },
+        {
+            "videoId": "c8hcFpIJq-s",
+            "title": "President Obama to Make Historic Trip to Cuba",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

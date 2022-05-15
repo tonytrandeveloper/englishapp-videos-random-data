@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uFMLJwKwZ0I",
-            "title": "\"Seventh Heaven\" Star Stephen Collins' Confession",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "1-IyLktAwbs",
             "title": "Chris Christie Interview: NJ Governor on Hurricane Sandy Relief, Presidential Election 2016",
             "secondDuration": 279,
@@ -31,8 +25,14 @@
             "title": "What police reform could look like as Trump signs executive order | Nightline",
             "secondDuration": 682,
             "group": "group_7"
+        },
+        {
+            "videoId": "hK3idZb9HFE",
+            "title": "Former prisoner on mission to change solitary confinement",
+            "secondDuration": 477,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

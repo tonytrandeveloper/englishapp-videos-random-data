@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "B1gUXN6LrTk",
-            "title": "Honoring a Trail Blazer: Remembering Helen Thomas",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "cF87r2zDlCQ",
             "title": "What Obama Says Is His ‘Worst Mistake’ As President",
             "secondDuration": 37,
@@ -61,8 +55,14 @@
             "title": "Missing teen found safe, adoptive father arrested",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "6QFnPSnqIUE",
+            "title": "'Criminally Insane' Killer on the Loose",
+            "secondDuration": 411,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

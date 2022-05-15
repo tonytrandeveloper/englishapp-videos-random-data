@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tA-nvkN7UaI",
-            "title": "Payne Stewart's Fatal Crash | Flashback | NBC News",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "lmYTSGh7Uzs",
             "title": "Powerball Jackpot Soars To $700M | NBC Nightly News",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "NBC News Projects Trump Wins South Dakota, Biden Wins Colorado | NBC News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "PYWC3uk8jis",
+            "title": "Lilly Ruiz: \"For student success it takes...\"",
+            "secondDuration": 18,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

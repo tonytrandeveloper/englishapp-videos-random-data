@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rYHPcKd3iRc",
-            "title": "Obama's Inaugural Speech: 'Our Time' for Changing Nation",
-            "secondDuration": 415,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q9Zxgkds6N8",
             "title": "Hunt for Airbnb guests accused of stealing family heirlooms | ABC News",
             "secondDuration": 174,
@@ -61,8 +55,14 @@
             "title": "New York City Blast Suspect Arrested",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "1gQYw7WYzZs",
+            "title": "What happened to Elijah McClain? Case draws new attention amid nationwide protests | Nightline",
+            "secondDuration": 563,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

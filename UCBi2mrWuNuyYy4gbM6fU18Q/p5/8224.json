@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AxqoUiDokEs",
-            "title": "Election Cycle LIVE from Homestead PA",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "r9Zjj9DJMIA",
             "title": "Rep. Alexandria Ocasio-Cortez speak at 2020 DNC",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Man Catches 5 Foul Balls At Detroit Tigers Game",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "Tp3i2gbUOCo",
+            "title": "Former acting AG Sally Yates full testimony to Senate Judiciary on Russia's election hacking",
+            "secondDuration": 11425,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

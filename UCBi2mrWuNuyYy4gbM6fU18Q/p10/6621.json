@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KcCz3D_Y68I",
-            "title": "Jacob Wetterling's Murderer Apologizes for 'Evil Acts'",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "rOMqyNF4h4o",
             "title": "\"Friendly\" Man Steals Dogs from Sidewalk Cafe | What Would You Do? | WWYD? | ABC News",
             "secondDuration": 393,
@@ -61,8 +55,14 @@
             "title": "ABC News Prime: CA plane crash; Southwest Airlines troubles; Tale of two TX counties on COVID-19",
             "secondDuration": 5128,
             "group": "group_7"
+        },
+        {
+            "videoId": "SS6_71yI4EY",
+            "title": "'This Week': Countdown to Shutdown",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dCO5pP5B4jo",
-            "title": "Illinois Gov. Pritzker Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3079,
-            "group": "group_7"
-        },
-        {
             "videoId": "jlYzWbD1kg4",
             "title": "Students Raise Money To Send D-Day Veterans To Normandy | NBC Nightly News",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Katko: The President’s Role In ‘Insurrection Is Undeniable’ | NBC News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "6x-18Hug3fs",
+            "title": "Timeline: How Did COVID-19 Spread Through The White House? | NBC News NOW",
+            "secondDuration": 296,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

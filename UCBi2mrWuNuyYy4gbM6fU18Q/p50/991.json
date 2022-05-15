@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ibaU2vRlpfY",
-            "title": "Democratic Frontrunners Square Off in Las Vegas | ABC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "tkcd1LRD-uQ",
             "title": "COVID-19 continues wreaking havoc on US as Trump is released from hospital | Nightline",
             "secondDuration": 690,
@@ -301,8 +295,14 @@
             "title": "Sen. Feinstein introducing bill to ban bump stocks after Vegas shooting",
             "secondDuration": 312,
             "group": "group_7"
+        },
+        {
+            "videoId": "kY7IsjOizmk",
+            "title": "Teen illnesses ‘deeply’ concerning",
+            "secondDuration": 209,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

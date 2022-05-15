@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pQJjILhqj9A",
-            "title": "Watch Donald Trump's Keynote Speech In Warsaw, Poland | NBC News",
-            "secondDuration": 2194,
-            "group": "group_7"
-        },
-        {
             "videoId": "CYCWHNQe0l0",
             "title": "Arizona Coronavirus Curve Shows Signs Of Plateau | NBC News NOW",
             "secondDuration": 383,
@@ -121,8 +115,14 @@
             "title": "U.S. Doctors Form Telemedicine Program To Help India Amid Covid Crisis | NBC News Now",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "cTqQdEL1Sb0",
+            "title": "Expedia Booking Data Shows Major Cities As Top Summer Travel Destinations | NBC News NOW",
+            "secondDuration": 296,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

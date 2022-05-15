@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I8V8Pb9bZbo",
-            "title": "Penguins Visit The 'Friends' Set | NBC News NOW",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "rvPds6yUQDI",
             "title": "Beijing Marathon Runners Battle Smog | NBC News",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "New Orleans Mayor: We Must Recognize Significance Of Removing Confederate Monuments | NBC News",
             "secondDuration": 1180,
             "group": "group_7"
+        },
+        {
+            "videoId": "o1_7GnGdjro",
+            "title": "MTP Compressed: Iran And Impeachment Dominate Headlines In Lead-Up To Iowa Caucuses | Meet The Press",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

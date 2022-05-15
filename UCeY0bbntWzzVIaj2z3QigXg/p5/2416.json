@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I5iGom2ltt0",
-            "title": "Bill Cosby Released From Prison After Conviction Overturned",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "UYkeeN3EpPk",
             "title": "U.S.-Allies Scrambling After North Korea Summit Cancellation | NBC Nightly News",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "Watch Live: Trump Delivers Remarks After El Paso And Dayton Weekend Shootings | NBC News",
             "secondDuration": 3064,
             "group": "group_7"
+        },
+        {
+            "videoId": "BSMz6seuGBw",
+            "title": "Europe’s Measles Outbreak Sparks Concern Over What Could Happen In U.S. | NBC Nightly News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

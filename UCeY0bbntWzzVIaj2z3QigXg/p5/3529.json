@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8y8_UNlZnyE",
-            "title": "New Crash Safety Test Raises Concerns About Toyota Sienna | NBC Nightly News",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "zk5UujOEMXU",
             "title": "Trump’s Denmark Remarks And Reversals On Background Checks, Tax Cuts | NBC Nightly News",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "LIVE: White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 1560,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xlj7QlCOzdA",
+            "title": "President Donald Trump Speaks On Tax Cuts From White House | NBC News",
+            "secondDuration": 1678,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

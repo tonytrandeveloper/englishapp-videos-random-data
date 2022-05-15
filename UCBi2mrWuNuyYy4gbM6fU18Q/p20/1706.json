@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yspZ-_9XAgY",
-            "title": "Freddie Gray’s Police Van Trip: Undisclosed Fourth Stop Revealed",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "zeAdH4NCWU8",
             "title": "Middle East on the Brink:  Israel and Hamas Agree to Cease-Fire",
             "secondDuration": 138,
@@ -121,8 +115,14 @@
             "title": "Rick Santorum on the Economy",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "fpZ8_8_-nus",
+            "title": "NFL Giant's Josh Brown Admitted Abuse in Journal, Allegedly",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

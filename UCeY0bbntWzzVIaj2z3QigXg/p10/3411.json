@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "A9YlI9QOWww",
-            "title": "Remembering ‘The Miracle On The Hudson’ | NBC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "b7B7YMrcGyA",
             "title": "Family Of Afghans Killed In Mistaken Drone Attack Demands Action",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
             "secondDuration": 1800,
             "group": "group_7"
+        },
+        {
+            "videoId": "k2EHa3Rdr68",
+            "title": "Peek Inside Ryan Serhant's 'Million Dollar' Office | Better | NBC News",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "98JMF7VfZmY",
-            "title": "Hurricane Michael rips roofs off buildings as it strikes Florida",
-            "secondDuration": 329,
-            "group": "group_7"
-        },
-        {
             "videoId": "_YTJpQuqDsA",
             "title": "'This Week' Web Extra: Maggie Haberman Answers Viewer Questions From Facebook, Twitter",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "Michelle Obama, skiing Santas and Miss Universe: World in Photos, Dec. 9",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "0oksOFb2lLM",
+            "title": "Undercover Shopping Reveals Big Money Deals",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

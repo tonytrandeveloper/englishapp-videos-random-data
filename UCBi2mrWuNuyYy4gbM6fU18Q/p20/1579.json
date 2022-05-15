@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ccl3idHvGMA",
-            "title": "Trump breaks silence to defend Roy Moore",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "TCvZjn1uhSU",
             "title": "Americans quarantined after evacuation flight l ABC News",
             "secondDuration": 277,
@@ -121,8 +115,14 @@
             "title": "Early voters sound off about long lines",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "C0jcPXxFZUM",
+            "title": "5-Hour Energy Empire Under Scrutiny",
+            "secondDuration": 280,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

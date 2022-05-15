@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HV7xeN3WYSY",
-            "title": "Snow Storm Wreaks Havoc Up And Down The East Coast | NBC Nightly News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "bS4DtVmAbyE",
             "title": "History Flashback: How The 2000 Election Results Were Fought In The Courts | NBC News NOW",
             "secondDuration": 380,
@@ -61,8 +55,14 @@
             "title": "Pope Francis Explains Viral Video Of Him Withdrawing His Hand To NBC News | NBC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "tOIOgKbon6Q",
+            "title": "Sen. Warren Grills Health Secy. Azar Over President Trump’s Promise To Lower Drug Prices | NBC News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

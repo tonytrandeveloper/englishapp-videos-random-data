@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "i-F9J_mE50g",
-            "title": "Terror Alert",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "_uKMzlzQ4Lw",
             "title": "House Democrats present articles of impeachment against Trump l ABC News",
             "secondDuration": 237,
@@ -301,8 +295,14 @@
             "title": "Aaron Alexis, Navy Yard Shooter, Wrote \"Better Off This Way\" on Gun",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "0KKl7caJimY",
+            "title": "Honeymoon in Vegas Not What it Used to Be",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

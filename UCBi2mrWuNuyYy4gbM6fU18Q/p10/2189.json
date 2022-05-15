@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NDmx92PVJpk",
-            "title": "Record wildfires rage in Amazon rain forest l ABC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "J-s0VE-ZTDA",
             "title": "Remembering an American Classic: Edith Bunker Beloved by All",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "ABC News Live, Update: Pipeline back in operation after cyberattack",
             "secondDuration": 1575,
             "group": "group_7"
+        },
+        {
+            "videoId": "lw8IgDFBQ10",
+            "title": "Getting to Know Gold Medalist Evan Lysacek",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

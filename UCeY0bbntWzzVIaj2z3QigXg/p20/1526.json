@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vPFk36Mi9-U",
-            "title": "Realizing The Dream Of Space: Astronaut Peggy Whitson On First Time Leaving Earth | Mach | NBC News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "gDQeFd3VB58",
             "title": "Trump Defends Coronavirus Response At Town Hall | NBC Nightly News",
             "secondDuration": 207,
@@ -121,8 +115,14 @@
             "title": "Standing Rock Protests Don't Stop For Thanksgiving | NBC News",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "G-FrX80hTEc",
+            "title": "Israeli Ambassador Defends Use Of Force | Short Take | NBC News",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

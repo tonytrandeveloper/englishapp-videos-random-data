@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yCy34HmIYkY",
-            "title": "Dominique Strauss-Kahn Case in Trouble, Will Rape Charges be Dropped?",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "KeXMXadUpGM",
             "title": "Apple Refuses FBI's Request to Hack San Bernardino Shooter's iPhone",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Ahmaud Arbery murder trial ends in guilty verdicts",
             "secondDuration": 911,
             "group": "group_7"
+        },
+        {
+            "videoId": "yMcqKRnhCIs",
+            "title": "Real-Life 7 Dwarfs Interviewed by Barbara Walters: Inspiring Family Tackles Life's Challenges",
+            "secondDuration": 274,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

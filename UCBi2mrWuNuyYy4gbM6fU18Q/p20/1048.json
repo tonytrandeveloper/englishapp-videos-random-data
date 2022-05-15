@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ds9tsJRupaw",
-            "title": "Chicago celebrates St. Patrick's Day by dyeing river green",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "kRAZx3ODgyQ",
             "title": "Mourners in Houston pay respects to George Floyd | ABCNews PRIME",
             "secondDuration": 319,
@@ -121,8 +115,14 @@
             "title": "Sarah Jessica Parker in \"I Don't Know How She Does It\" Reflects on Carrie Bradshaw, Motherhood",
             "secondDuration": 360,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZkIraF8x5P8",
+            "title": "The Debrief: West Coast weather, Kushner's security clearance, Amazon HQ2, Bryce Harper's contract",
+            "secondDuration": 1378,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

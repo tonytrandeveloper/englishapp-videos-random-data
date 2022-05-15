@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3to4t8RM0FY",
-            "title": "FDA plans to authorize 3rd vaccine shot for immunocompromised",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "5eD6r5NnMgg",
             "title": "US Women's Soccer Team Takes Over NYC",
             "secondDuration": 128,
@@ -121,8 +115,14 @@
             "title": "Jessica Kingdon talks about Oscar-nominated documentary",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "ymAD88VeFTs",
+            "title": "President Trump delivers remarks at Arab Islamic American Summit",
+            "secondDuration": 2015,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

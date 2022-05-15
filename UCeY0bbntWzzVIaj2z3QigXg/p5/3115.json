@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2ZlZTj5Lh5Q",
-            "title": "Hackers Target CPA Computer Network | NBC Nightly News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "UPcuNr_D--I",
             "title": "Optimize Your Linkedin Profile With These Tips | 30 STK | NBC News",
             "secondDuration": 53,
@@ -31,8 +25,14 @@
             "title": "Andrew Gillum Wins Florida Democratic Governor Primary | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "M0lE9Ag3_UM",
+            "title": "President Trump Calls North Korea's 'Reckless Pursuit Of Nuclear Missiles' A Threat | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

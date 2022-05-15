@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3AakqKqBNHY",
-            "title": "Inside a Multi-Million Dollar Diamond Heist Ring",
-            "secondDuration": 552,
-            "group": "group_7"
-        },
-        {
             "videoId": "YUSTHv3fjt0",
             "title": "100804_ann_tl_two.mp4",
             "secondDuration": 268,
@@ -31,8 +25,14 @@
             "title": "New push to defund police",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "7WFc9xKXpvU",
+            "title": "By the Numbers: The state of the economy",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

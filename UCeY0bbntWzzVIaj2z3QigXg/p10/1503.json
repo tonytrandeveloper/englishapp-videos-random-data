@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hyUED0mDPP8",
-            "title": "'We Have To Be Ready To Pivot': Colleges Develop Safety Plans For On-Campus Learning | NBC News",
-            "secondDuration": 312,
-            "group": "group_7"
-        },
-        {
             "videoId": "3UgKxAfN4o4",
             "title": "President Donald Trump's Speech At The 2018 World Economic Forum (Full) | NBC News",
             "secondDuration": 975,
@@ -61,8 +55,14 @@
             "title": "New Video Appears To Show Second Missile Hitting Ukrainian Plane | NBC Nightly News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "CCnTb_wea6Y",
+            "title": "Nightly News Full Broadcast - Nov. 15",
+            "secondDuration": 1287,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

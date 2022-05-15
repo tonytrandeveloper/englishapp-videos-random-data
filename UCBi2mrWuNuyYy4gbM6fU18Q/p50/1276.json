@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "XPmLIwUe924",
-            "title": "Putin orders Russia’s nuclear deterrent forces on alert l ABC News",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "7-kGF9IDoWU",
             "title": "Casey Anthony Trial: Defense Rests",
             "secondDuration": 301,
@@ -301,8 +295,14 @@
             "title": "Investigation Demanded for Woman Who Died in Custody of Texas Police",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "45jU_iISClE",
+            "title": "Workers across the US show support for actor seen at Trader Joe's",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

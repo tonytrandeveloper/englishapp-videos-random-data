@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "THzun03YdIg",
-            "title": "Prosecutor Keith Ellison: 'I’m motivated by justice' for George Floyd",
-            "secondDuration": 322,
-            "group": "group_7"
-        },
-        {
             "videoId": "I_yyYKEJDzk",
             "title": "Harvard University Mumps Outbreak",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "Massive Hunt for Suspect in Fatal Road Rage Shooting",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "DGCC5Mlp9c8",
+            "title": "Tropical Storm Bill",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

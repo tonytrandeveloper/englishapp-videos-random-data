@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-QvpYzFP1ZM",
-            "title": "Shaq Is All Wrapped Up",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "IOBG6fkDoRI",
             "title": "Remembering Sidney Poitier, 1st Black actor to win Oscar for a leading role",
             "secondDuration": 316,
@@ -121,8 +115,14 @@
             "title": "Boston Marathon Bombing Update: Alleged Bomber Dzhokhar Tsarnaev Reveals Details of Attack",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "WaCppPAcDTQ",
+            "title": "Harrison Ford on Playing Han Solo, Indiana Jones",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

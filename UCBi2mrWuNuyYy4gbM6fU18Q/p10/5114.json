@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8bBRm-W90Rc",
-            "title": "Caught on Tape: Fireball Blazes Across Electrified Power Lines",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "RRgbCGz9CZA",
             "title": "Man walks into Walmart with rifle, body armor l ABC News",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Grammys 2011, Esperanza Spalding, The Jazz Singer Wins 2/18/2011",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "yhetETtp7mk",
+            "title": "Best in TV: Best Non-Human Character",
+            "secondDuration": 407,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

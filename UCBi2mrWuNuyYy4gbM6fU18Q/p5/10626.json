@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TK-nPlvRcyY",
-            "title": "State of the Union 2013: Obama: Need for Higher-Quality, Affordable Education",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "jXXOV-D7M1Y",
             "title": "Paris gives heroes' welcome to World Cup champions",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Hopes to Secure Iowa Caucus Win",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "yftzZHHbtfg",
+            "title": "SpaceX Falcon 9 Rocket Crashes Into Drone Ship",
+            "secondDuration": 20,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

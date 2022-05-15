@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zY5Zu-ZB3pA",
-            "title": "Hurricane Alex Touches Down",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "7qLSQ92O7R4",
             "title": "Prince Andrew stripped of military titles",
             "secondDuration": 295,
@@ -31,8 +25,14 @@
             "title": "Supermarkets of the Future | ABC News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "ME9bU0mrx-Q",
+            "title": "Allegations of Unnecessary Force as NY Man Dies After Arrest",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

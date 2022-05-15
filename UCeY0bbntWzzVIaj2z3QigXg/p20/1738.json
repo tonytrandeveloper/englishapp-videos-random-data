@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KGXvYJOnlto",
-            "title": "Indoor Mask Mandates To Be Reinstated in Los Angeles",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "_satbxCk7b0",
             "title": "Full Panel: Impeachment Inquiry Formalized With Divided House Vote | Meet The Press | NBC News",
             "secondDuration": 451,
@@ -121,8 +115,14 @@
             "title": "Body-Cam Footage From Salt Lake City Police Shooting Continues To Raise Questions | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "dq9LnZZEOW8",
+            "title": "NY Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2846,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

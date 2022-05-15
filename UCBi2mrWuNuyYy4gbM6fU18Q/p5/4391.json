@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Sk-73Rv1Wko",
-            "title": "More than 300 killed after mosque terror attack in Egypt",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "S5s7vHDjAQM",
             "title": "African Americans hit hard by COVID-19 | WNT",
             "secondDuration": 221,
@@ -31,8 +25,14 @@
             "title": "Ukraine-Russia peace talks resume today",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "ijckdQZpOUw",
+            "title": "Interview with Marwan Mausher",
+            "secondDuration": 341,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

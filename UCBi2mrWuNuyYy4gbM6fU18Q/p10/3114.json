@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ff3oZAUZjCI",
-            "title": "Made in America: Developing Photos in the Digital Age",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "kJ3yomwpBzQ",
             "title": "Good Morning America: Unclaimed Money Found for ABC Staff; Is Cash Waiting for You?",
             "secondDuration": 452,
@@ -61,8 +55,14 @@
             "title": "Lindsey Graham delivers remarks on Capitol breach",
             "secondDuration": 366,
             "group": "group_7"
+        },
+        {
+            "videoId": "6NwX1FoB8lg",
+            "title": "Seventeen Magazine Pledges Not to Air Brush After Teen's Video",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

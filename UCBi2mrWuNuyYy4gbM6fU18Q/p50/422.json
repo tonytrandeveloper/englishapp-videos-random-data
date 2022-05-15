@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Y4iV27yR5bU",
-            "title": "'Heaven Is for Real' Raises Questions About Faith",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "x_O0VkLWkno",
             "title": "Mom who says baby was overheated on United flight speaks out",
             "secondDuration": 234,
@@ -301,8 +295,14 @@
             "title": "Thanksgiving Kitchen Fires Could Ruin the Holiday",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "qKtz7VSMzdo",
+            "title": "| ABC News",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

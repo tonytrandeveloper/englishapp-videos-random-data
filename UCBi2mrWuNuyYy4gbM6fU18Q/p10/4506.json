@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0hk06Z3cwEQ",
-            "title": "Magnitude 6.9 earthquake in Indonesia kills almost 100 | ABC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "rxYb4sejQ4c",
             "title": "More than 3.9 million refugees have fled Ukraine | ABCNL",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "UK Prime Minister Theresa May resigns",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "RMOPjIrXpbs",
+            "title": "The Debrief: California wildfires, Trump in Paris, midterm recounts | ABC News",
+            "secondDuration": 1457,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

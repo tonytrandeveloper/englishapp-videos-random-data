@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rlZvGpy2owk",
-            "title": "Remembering Sidney Poitier",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "wGfWTFwHpoo",
             "title": "Blizzard Warnings Threaten Holiday Air Travel",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "Passengers rescue Boston woman caught between train and platform",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "UGqNJhInpso",
+            "title": "'GMA' Unclaimed Money Series: Free Cash at Mall of America?",
+            "secondDuration": 260,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

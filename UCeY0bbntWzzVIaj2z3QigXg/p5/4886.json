@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q5OWFEnfggQ",
-            "title": "Fact-Checking President Donald Trump In 2019 | NBC News NOW",
-            "secondDuration": 311,
-            "group": "group_7"
-        },
-        {
             "videoId": "h3hNfJyIs5E",
             "title": "Lincoln Project Condemns Co-Founder After Allegations Of Sexual Harassment | NBC News NOW",
             "secondDuration": 459,
@@ -31,8 +25,14 @@
             "title": "Exclusive: McAfee finds security vulnerability in Peloton products",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "mlO2OpfSajo",
+            "title": "Kellyanne Conway: With FBI Letter, Hillary Clinton is Passing the Blame | Meet The Press | NBC News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

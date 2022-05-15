@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "usuF6iBfxo8",
-            "title": "George Zimmerman Won't Testify at Trial",
-            "secondDuration": 223,
-            "group": "group_7"
-        },
-        {
             "videoId": "JbTPbggaY1E",
             "title": "Tragedy at Sandy Hook: The Search for Solution - ABC News",
             "secondDuration": 720,
@@ -31,8 +25,14 @@
             "title": "Former Major League Baseball player Bill Buckner dies",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "AdH_YSDVvU8",
+            "title": "President Obama on 'Tonight Show with Jay Leno'",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

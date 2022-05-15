@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l_d-LzcVJwA",
-            "title": "Woman tells story of escaping Ukraine to Hungary",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "IQVTcRIo6tc",
             "title": "Who is the Happiest Person in America?",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Three Americans Gunned Down in Afghanistan",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "DYJbZJvLN-o",
+            "title": "Firefighter dies on set of star-studded film",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

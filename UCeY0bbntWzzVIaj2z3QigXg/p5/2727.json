@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CqlO-fep05E",
-            "title": "Study Shows AstraZeneca Covid Vaccine May Lower Transmission | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "hv439OV_N5o",
             "title": "Jeff Zucker Resigns As President of CNN",
             "secondDuration": 61,
@@ -31,8 +25,14 @@
             "title": "New Flight Carrying Americans Out of Afghanistan",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "9uJSMuRp0F4",
+            "title": "Tennessee Tornado Survivor: I Thought We All Were Gonna Die | NBC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

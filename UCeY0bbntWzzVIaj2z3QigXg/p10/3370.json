@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "w2xyxJnFdTE",
-            "title": "A Japanese Robotics Company Just Unveiled A Real-Life Transformer | Mach | NBC News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rice2OjDZh4",
             "title": "See 6-Year-Old's Inspiring Rap On The ABC's Of Career Possibilities | Nightly News: Kids Edition",
             "secondDuration": 1192,
@@ -61,8 +55,14 @@
             "title": "Researchers Say Common Steroid Can Reduce Deaths In Sickest COVID-19 Patients | NBC Nightly News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "u6J7zvRIL0c",
+            "title": "Hundreds Attend Vigil In Honor Of Oakland Fire Victims | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "04-1q3fjDfY",
-            "title": "Morning News NOW Full Broadcast - Dec. 17",
-            "secondDuration": 3070,
-            "group": "group_7"
-        },
-        {
             "videoId": "rWfI72ZUy8A",
             "title": "California Man Under Arrest For Posing As Surgical Assistant, Stealing Identities | NBC Nightly News",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Dr. Bright Testifies 'Inaction' By Trump Administration Cost Lives | NBC News NOW",
             "secondDuration": 771,
             "group": "group_7"
+        },
+        {
+            "videoId": "sGRaoxMoKFE",
+            "title": "‘Stop The Coup’: Angry Protesters Condemn Decision To Suspend U.K. Parliament | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

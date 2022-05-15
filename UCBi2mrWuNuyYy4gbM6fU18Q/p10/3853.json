@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rdpFhptl04Q",
-            "title": "All-New 20/20 Event Special | Friday at 9/8c on ABC | ABC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "7ZUvG0ZdYEM",
             "title": "Leah Remini: Church of Scientology Wants Me to Fail",
             "secondDuration": 472,
@@ -61,8 +55,14 @@
             "title": "Discussing race and pop culture",
             "secondDuration": 359,
             "group": "group_7"
+        },
+        {
+            "videoId": "mUTY1Cro3ZY",
+            "title": "White House press briefing 7/26/17",
+            "secondDuration": 2464,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

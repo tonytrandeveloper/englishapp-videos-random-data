@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yytLuLGHvEI",
-            "title": "FCC to crack down on robocalls to cellphones and landlines",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "ahIePVLvMfY",
             "title": "Cory Booker joins pack of Democratic presidential hopefuls",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Catching Up With 'Idols'",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "r0BuSu8Sex8",
+            "title": "First major snowfall blankets 20 states from Texas to New England",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

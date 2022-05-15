@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jecqNSyRgnE",
-            "title": "Severe Storms Continue Campaign of Nasty Weather",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "h03eDjvh76E",
             "title": "Cows Stranded by New Zealand Quake Rescued",
             "secondDuration": 30,
@@ -31,8 +25,14 @@
             "title": "TSA officer arrested for allegedly stealing money from traveler's bag",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "6_TfdhdiUSQ",
+            "title": "Donald Trump Cancels Event With Religious Leaders",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S85WMM_cKpg",
-            "title": "George Zimmerman's Bond Revoked: Must Surrender in 48 Hours",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "GhhUTVOx33c",
             "title": "US-Cuba Relations: Stage Set for Historic Meeting Between Obama and Castro",
             "secondDuration": 304,
@@ -31,8 +25,14 @@
             "title": "'This Week' Sunday Spotlight: Whoopi Goldberg",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "KCPHkkg_XXM",
+            "title": "Authorities foil alleged massacre planned for a DC-area school",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

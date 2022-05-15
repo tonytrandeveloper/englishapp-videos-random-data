@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "m-7PIqLJZVA",
-            "title": "Dept. of Justice Briefs on Efforts to Combat Intel Leaks | NBC News",
-            "secondDuration": 859,
-            "group": "group_7"
-        },
-        {
             "videoId": "JN2JSYMpgt4",
             "title": "Vaccination Chaos As States Expand Eligibility | NBC Nightly News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "WATCH: Ukraine President Zelenskyy’s Full Address To U.S. Congress",
             "secondDuration": 1080,
             "group": "group_7"
+        },
+        {
+            "videoId": "DyyjNSLlcdc",
+            "title": "Live: New York Gov. Andrew Cuomo Holds Briefing On Coronavirus, George Floyd Protests | NBC News",
+            "secondDuration": 2716,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

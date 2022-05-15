@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iFFMuvlU8-4",
-            "title": "Top Story with Tom Llamas Full Broadcast - Sept. 27 | NBC News NOW",
-            "secondDuration": 2975,
-            "group": "group_7"
-        },
-        {
             "videoId": "WG3lS1GRQXU",
             "title": "Evacuated Peace Corps Volunteers Face Uncertainty Back Home | NBC News NOW",
             "secondDuration": 270,
@@ -31,8 +25,14 @@
             "title": "Trump’s Mount Rushmore Fireworks Event Won’t Require Masks | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "4pTNlzl5hzo",
+            "title": "Trump Holds Campaign Rally In Iowa | NBC News",
+            "secondDuration": 4447,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

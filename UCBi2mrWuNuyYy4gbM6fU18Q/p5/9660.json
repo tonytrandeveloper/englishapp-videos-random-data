@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3wqAoQ1A6O8",
-            "title": "Hillary Clinton Speaks Out on SOTU, Iowa Caucuses",
-            "secondDuration": 275,
-            "group": "group_7"
-        },
-        {
             "videoId": "-v-CIfoy7bY",
             "title": "FAA Changes Rules on Consumer Devices on Flights",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Rudy Giuliani ‘Supportive’ of Clinton Investigation",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "w8Mo_2suaLA",
+            "title": "Bass: ‘Very hopeful’ about passing George Floyd Justice in Policing Act",
+            "secondDuration": 591,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

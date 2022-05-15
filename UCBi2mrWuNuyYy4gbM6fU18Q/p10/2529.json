@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nQulYCo3iTo",
-            "title": "Texas School Shooting suspect in custody, second person detained, questioned | Special Report",
-            "secondDuration": 580,
-            "group": "group_7"
-        },
-        {
             "videoId": "nZFiLYN9k_4",
             "title": "Ukrainians flee west as Russian forces invade",
             "secondDuration": 419,
@@ -61,8 +55,14 @@
             "title": "Biden announces steps against rising gun violence",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "HxZ9lImAMzw",
+            "title": "Apps for Hurricanes and Severe Weather",
+            "secondDuration": 301,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jfVhnR2HkS8",
-            "title": "State of the Union, Ukraine crisis, Mardi Gras returns: Week in Photos",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "6VphG3VMNbg",
             "title": "North Korea missile launch fails",
             "secondDuration": 256,
@@ -31,8 +25,14 @@
             "title": "Aly Raisman: ‘Having someone validate you is everything’",
             "secondDuration": 512,
             "group": "group_7"
+        },
+        {
+            "videoId": "rQkchwKd3io",
+            "title": "Afghanistan veteran speaks out about the fall of Kabul, Taliban taking power",
+            "secondDuration": 369,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

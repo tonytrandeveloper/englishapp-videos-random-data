@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SaN5i0Ie5FM",
-            "title": "New York City Mayor Eric Adams tests positive for COVID-19",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "TTseZ1Jr8Ig",
             "title": "Medal of Honor Awarded to Afghanistan Vet",
             "secondDuration": 76,
@@ -121,8 +115,14 @@
             "title": "John Ensign Told 'Put Your Pants On'",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "DBnNALlGxA8",
+            "title": "Rep. Ilhan Omar prevails in contentious Minnesota primary race",
+            "secondDuration": 29,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

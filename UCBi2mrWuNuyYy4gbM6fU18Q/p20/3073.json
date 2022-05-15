@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "k0ZWyNVBU3I",
-            "title": "Rob Nelson Labor Pains",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "OrgzY5I_0Wk",
             "title": "Oversea Markets React to Wall Street's Financial Fiasco",
             "secondDuration": 152,
@@ -121,8 +115,14 @@
             "title": "Britney Spears, Kevin Bacon Apple Music Ad",
             "secondDuration": 234,
             "group": "group_7"
+        },
+        {
+            "videoId": "SUCXNooKQJo",
+            "title": "Wyoming projected to be won by Trump",
+            "secondDuration": 26,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

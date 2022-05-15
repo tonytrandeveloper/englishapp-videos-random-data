@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D-56cAR6LM8",
-            "title": "7 Steps To A Better Life | Better | NBC News",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "HBvYBm2wJR0",
             "title": "Coronavirus: U.S. Death Toll Rises As More Cases Reported | NBC Nightly News",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Farmers In Americas Heartland Eagerly Awaiting Outcome Of Trump’s Meeting With Xi | NBC Nightly News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZUjVbcf0mw4",
+            "title": "Unsung Hero Of The Pandemic: This Trucker Tackles America’s Open Roads With Jokes & Songs | NBC News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

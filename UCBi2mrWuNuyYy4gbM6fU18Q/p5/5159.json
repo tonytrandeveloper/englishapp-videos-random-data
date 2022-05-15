@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6yEtV3xIOZI",
-            "title": "Spiderman Revealed",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "zkEFriZdqv8",
             "title": "London Riot Video 2011:  City Crumbles Before Residents' Eyes; Violence Spreads Across U.K.",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "ABC News Prime: Childhood toll of Omicron; Pentagon's warning about Russia; Fight over term Latinx",
             "secondDuration": 5357,
             "group": "group_7"
+        },
+        {
+            "videoId": "arexNkK1M9Y",
+            "title": "Deputy Sheriff's story differs from Ted Kennedy's at Chappaquiddick",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

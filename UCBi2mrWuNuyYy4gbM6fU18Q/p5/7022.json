@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KeMSf_9cQbI",
-            "title": "Gunman opens fire at congressional baseball practice",
-            "secondDuration": 610,
-            "group": "group_7"
-        },
-        {
             "videoId": "5B_aDJNPh5w",
             "title": "President Donald Trump delivers remarks on infrastructure initiative | ABC News",
             "secondDuration": 3825,
@@ -31,8 +25,14 @@
             "title": "2 Cents Short: Cancer Patient's Insurance Pulled 1/26/2011",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "vj5DiHwziZo",
+            "title": "Miami gets hit harder than expected by Hurricane Irma",
+            "secondDuration": 450,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

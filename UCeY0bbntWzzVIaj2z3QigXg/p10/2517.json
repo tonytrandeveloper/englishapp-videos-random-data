@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wE-SjHoBP9Y",
-            "title": "After Coal Mines Shut Down, Communities Are Hoping For A Prison | NBC News",
-            "secondDuration": 361,
-            "group": "group_7"
-        },
-        {
             "videoId": "fJkWOAi9D0E",
             "title": "Hope After Hurricane Harvey | NBC Nightly News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Three Children Missing In Arizona After RV Submerged Into Creek | NBC News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "_3b89Cqj3tc",
+            "title": "States Expand Coronavirus Testing As Demand Grows | NBC Nightly News",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "brazQlUZao4",
-            "title": "Steve Jobs' FBI File: Bomb Threat?",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "1Om8n94Cw64",
             "title": "Brexit Fallout | Stocks Continue to Plummet",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Pro Football Star Aaron Hernandez Indicted",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "rUnBhMdcWsw",
+            "title": "UCLA Shooting | Professor Targeted During Alleged Murder-Suicide",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

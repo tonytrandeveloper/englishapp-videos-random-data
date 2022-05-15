@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EzM1Roz68xE",
-            "title": "White House press briefing  on James Comey book, Scooter Libby pardon | ABC News",
-            "secondDuration": 5132,
-            "group": "group_7"
-        },
-        {
             "videoId": "YjWXbj4l3hs",
             "title": "Martin Scorsese:  'You Talking to Me?' in 3-D?",
             "secondDuration": 398,
@@ -61,8 +55,14 @@
             "title": "Hurricane Irene: Riding Into the Eye with Storm Chasers",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "2trHbtzWAGg",
+            "title": "Rudy Giuliani Defends Donald Trump",
+            "secondDuration": 485,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

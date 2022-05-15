@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "A2r_qXmijkw",
-            "title": "Ukrainian army ‘successfully repelling’ Russian attacks: Zelenskyy",
-            "secondDuration": 216,
-            "group": "group_7"
-        },
-        {
             "videoId": "RoScjTw6GGo",
             "title": "'Election Cycle': Biking From the RNC to the DNC",
             "secondDuration": 240,
@@ -31,8 +25,14 @@
             "title": "Obama: Americans Believe It's Time for Change",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ehr5Y_4BBYM",
+            "title": "Mother Hailed as Hero for Shielding Her Children From Bullets",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

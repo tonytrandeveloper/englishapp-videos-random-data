@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aeg99tm107c",
-            "title": "Toledo Water Emergency: City's Water Contaminated By Toxins",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "YgLyyqmE-v0",
             "title": "‘The Briefing Room': Trump at NATO summit, Judge Kavanaugh’s SCOTUS nomination | ABC News",
             "secondDuration": 4311,
@@ -31,8 +25,14 @@
             "title": "COVID-19 survivors recount battling severe illness early on in the pandemic: Part 1",
             "secondDuration": 557,
             "group": "group_7"
+        },
+        {
+            "videoId": "7THhEVffiJo",
+            "title": "Pro-Brexit leader Nigel Farage hit by milkshake",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E6nUtxFbpaY",
-            "title": "White House Chief of Staff Reince Priebus on President Trump's first 100 days",
-            "secondDuration": 912,
-            "group": "group_7"
-        },
-        {
             "videoId": "CRHsPOs34zs",
             "title": "World in Photos, June 21: Hope Hicks testifies, NBA Raptors' celebrate first title win",
             "secondDuration": 169,
@@ -31,8 +25,14 @@
             "title": "Wounded Warrior Makes Mount Everest History",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "ivQHqunmO1Q",
+            "title": "Women serve as bedrock for refugees in Warsaw",
+            "secondDuration": 470,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

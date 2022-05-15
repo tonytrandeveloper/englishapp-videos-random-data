@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JZo1NZmjtgo",
-            "title": "Deputy rescues dog from burning vehicle",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "syoMMEA-u3E",
             "title": "James Comey to publicly testify before the Senate",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Kim Jong Nam assassination: Female suspect under arrest",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "8bU31q4J7Tk",
+            "title": "Trump speaks following Mueller’s testimony | ABC News",
+            "secondDuration": 955,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

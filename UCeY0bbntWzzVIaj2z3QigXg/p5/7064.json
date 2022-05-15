@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eAicBj8D3wQ",
-            "title": "This Morning’s Top Headlines – December 27 | Morning News NOW",
-            "secondDuration": 1381,
-            "group": "group_7"
-        },
-        {
             "videoId": "9_HWQ7OYOLk",
             "title": "Top Story with Tom Llamas - Dec. 20 | NBC News NOW",
             "secondDuration": 3055,
@@ -31,8 +25,14 @@
             "title": "Donald Trump: Moderna To Manufacture, Deliver 100 million Doses Coronavirus Vaccine | NBC News NOW",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "wySwY-MLYRs",
+            "title": "This New Website Is Helping Consumer’s Slash Their Doctor Bills | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TSZlRgCSI04",
-            "title": "New York Firefighter Among 3 U.S. Service Members Killed In Afghanistan | NBC Nightly News",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "_xnULOQH7M4",
             "title": "Morning News NOW Full Broadcast - October 1",
             "secondDuration": 3148,
@@ -61,8 +55,14 @@
             "title": "Mike Pence Says Donald Trump 'Standing Stronger Than Ever' | NBC News",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "5jsRa0dFJcE",
+            "title": "The Complicated Ethics Of Self-Driving Cars | Think | NBC News",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

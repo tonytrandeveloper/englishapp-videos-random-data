@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "81MzDiXKfMg",
-            "title": "Nightly News Full Broadcast - Jan. 27",
-            "secondDuration": 1281,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ka2nSFJ7z8o",
             "title": "Video Shows Unarmed Caregiver With Hands Up Before Being Shot by Police | NBC Nightly News",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Parents Speak Out After Being Falsely Accused Of Child Abuse | NBC Nightly News",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "vIEB9NztX2U",
+            "title": "Watch: Good Samaritans Capture, Hold Down Suspect Who Killed Santa Cruz Deputy | NBC News NOW",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

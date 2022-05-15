@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-lXVoPE8ljg",
-            "title": "ABC News Live Update: Ruth Bader Ginsburg’s former clerk gives inside look at the cultural icon",
-            "secondDuration": 1101,
-            "group": "group_7"
-        },
-        {
             "videoId": "9BSpLodLn_4",
             "title": "White House press briefing with President Donald Trump's chief of staff Gen. John Kelly",
             "secondDuration": 2893,
@@ -31,8 +25,14 @@
             "title": "Oslo, Norway, Bombing and Camp Shooting",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZRl3kFj3l0U",
+            "title": "CIA Workers Killed in Afghanistan",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

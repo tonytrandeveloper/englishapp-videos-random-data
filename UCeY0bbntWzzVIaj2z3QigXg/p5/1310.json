@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WFyHUdfmyVk",
-            "title": "How Hard-Hit Navajo Nation Is Flattening Its Coronavirus Curve | NBC Nightly News",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "9rHdkA0uwS0",
             "title": "President Donald Trump And Kim Jong-Un Ready For 2nd Summit. But Is It Too Soon? | NBC News Signal",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "Emergency U.N. Meeting Held After North Korea Missile Launch | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "7cQYR0AF2qA",
+            "title": "Intermittent Fasting Could Help You Live Longer, Experts Say | NBC Nightly News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

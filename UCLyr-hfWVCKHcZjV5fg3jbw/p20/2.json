@@ -3,18 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "s-i3Z7EZRpA",
-            "title": "ENGLISH SPEECH | ANUSHKA SHARMA: Presents Anya Singh (English Subtitles)",
-            "secondDuration": 952,
-            "group": "group_1"
-        },
-        {
-            "videoId": "pqQBl-cMY84",
-            "title": "ENGLISH SPEECH | MAYA RUDOLPH: Say Yes (English Subtitles)",
-            "secondDuration": 783,
-            "group": "group_1"
-        },
-        {
             "videoId": "vAn96hY1LGw",
             "title": "ENGLISH SPEECH | TREVOR NOAH: The Power of Information (English Subtitles)",
             "secondDuration": 606,
@@ -121,8 +109,20 @@
             "title": "ENGLISH SPEECH | PRIYANKA CHOPRA: Be Fearless (English Subtitles)",
             "secondDuration": 1081,
             "group": "group_1"
+        },
+        {
+            "videoId": "t6P_BxhGINk",
+            "title": "ENGLISH SPEECH | PHARRELL WILLIAMS: Don’t Be Invisible (English Subtitles)",
+            "secondDuration": 653,
+            "group": "group_1"
+        },
+        {
+            "videoId": "iStBvF0ALUc",
+            "title": "ENGLISH SPEECH | RONALD REAGAN: Tear Down This Wall! (English Subtitles)",
+            "secondDuration": 1548,
+            "group": "group_1"
         }
     ],
     "nbPages": 9,
-    "nbResults": 172
+    "nbResults": 168
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oCGCmzoAziA",
-            "title": "Kids, Don't Worry: Santa Is Still Coming For Christmas | NBC Nightly News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "2R2uR7VwFoM",
             "title": "Extended Interview: Medal Of Honor Recipient Master Sgt. Earl Plumlee",
             "secondDuration": 627,
@@ -31,8 +25,14 @@
             "title": "Border Patrol’s Use Of Amazon-Owned ‘Wickr’ Messaging App Drawing Scrutiny",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "zfbPbIhAhQ0",
+            "title": "Hillary Clinton Addresses State Department Emails | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

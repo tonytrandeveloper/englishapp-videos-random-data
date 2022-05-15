@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xNMqlsBsvcg",
-            "title": "Michigan teen gets a special surprise after a bone marrow transplant",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "c--bxp-L62U",
             "title": "Police mistakenly swarm car of young Black woman | GMA",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Trump celebrates passage of Obamacare replacement bill",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "bNaPQzbNrhQ",
+            "title": "House passes the Violence Against Women’s Act",
+            "secondDuration": 471,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CDOfdGdFcyw",
-            "title": "Extreme Weather: Flash Floods Cause Devastating Mudslides in California",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "MXeSZGEbnoY",
             "title": "Sen. Tim Scott says it is time for Roy Moore to 'move on'",
             "secondDuration": 700,
@@ -31,8 +25,14 @@
             "title": "New concerns over COVID-19 variant detected in the UK",
             "secondDuration": 440,
             "group": "group_7"
+        },
+        {
+            "videoId": "GerpCY1vvsE",
+            "title": "Granny Scams Nearly $1 Million",
+            "secondDuration": 408,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

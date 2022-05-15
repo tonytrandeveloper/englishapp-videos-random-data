@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "on7BRMxznxo",
-            "title": "A Better Way To Cut A Pineapple | Better | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "F21e2LFyC2Y",
             "title": "Politician Outbursts: Clinton To Weiner | Flashback | NBC News",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Cuomo Announces NYC Indoor Dining To Resume At 25 Percent September 30 | NBC News NOW",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "jNI8uh1Q4U4",
+            "title": "Edward Snowden Makes Case For Pardon | NBC News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

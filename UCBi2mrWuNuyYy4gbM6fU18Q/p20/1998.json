@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "n2sqZxIgPWo",
-            "title": "Trump threatening to shut down the government if he doesn't get border wall",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "mzDBJQgO_KM",
             "title": "The challenge facing summer camps as the coronavirus pandemic rolls on",
             "secondDuration": 160,
@@ -121,8 +115,14 @@
             "title": "Category 4 Maria makes landfall in Puerto Rico",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "yjPlbmbFrA8",
+            "title": "18 tornadoes reported across 3 states",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

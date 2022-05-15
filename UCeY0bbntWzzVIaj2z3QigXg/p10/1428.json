@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7exGY_PhiU4",
-            "title": "No Doubt: Episode 4 | Conviction | Dateline NBC",
-            "secondDuration": 523,
-            "group": "group_7"
-        },
-        {
             "videoId": "bbMmW_Fqm6c",
             "title": "Klobuchar On Whistleblower Complaint: That Document Is A 'Smoking Gun' | NBC News",
             "secondDuration": 189,
@@ -61,8 +55,14 @@
             "title": "White House Press Briefing -  May 30, 2018 | NBC News",
             "secondDuration": 1429,
             "group": "group_7"
+        },
+        {
+            "videoId": "XdOlCE9ty9U",
+            "title": "Mother Who Gave Birth To Daughter While In COVID-19-Induced Coma Takes Baby Home | NBC Nightly News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

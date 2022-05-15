@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9LbfSUnhnSQ",
-            "title": "America Strong: WWII veteran remembered",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "aksdfMUDWMw",
             "title": "Amputee Competes in Track Championships",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Janet Jackson Pregnancy Rumors Spark Conception Questions",
             "secondDuration": 443,
             "group": "group_7"
+        },
+        {
+            "videoId": "5sQz-GtmHqo",
+            "title": "Airport security officer hailed a hero for thwarting man's apparent suicide attempt",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

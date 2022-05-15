@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "l_d-LzcVJwA",
-            "title": "Woman tells story of escaping Ukraine to Hungary",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "IQVTcRIo6tc",
             "title": "Who is the Happiest Person in America?",
             "secondDuration": 105,
@@ -121,8 +115,14 @@
             "title": "Golden Globe Highlights | ABC News",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "jk7U9pO857g",
+            "title": "Why July Is the Most Dangerous Month for Lightning Strikes",
+            "secondDuration": 394,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

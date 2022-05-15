@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "x0ZWy5SiTVE",
-            "title": "U.S. Economy Lost 140,000 Jobs In December | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "xKmrrdJrmNE",
             "title": "Biden: 'Trickle-Down Economics Has Never Worked' | NBC Nightly News",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Full Panel: Over 2,000 Deaths Reported In The U.S. | Meet The Press | NBC News",
             "secondDuration": 449,
             "group": "group_7"
+        },
+        {
+            "videoId": "-aN6i_wUelM",
+            "title": "Wall Street Sets Records As Dow Jones Hits 23,000 | NBC Nightly News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

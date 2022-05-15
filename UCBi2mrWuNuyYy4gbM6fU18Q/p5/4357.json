@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qBDlpDQHPgY",
-            "title": "The Rundown: Top headlines today: Dec. 9, 2021",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "1tBfQi1OcyI",
             "title": "Protests Weaken Ayatollah's Grip",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Feds to file new charges against Michael Avenatti",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "pvjGoXewcSU",
+            "title": "Trump: 'Maybe' 2nd Amendment Folks Can Stop Clinton's SCOTUS Picks",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

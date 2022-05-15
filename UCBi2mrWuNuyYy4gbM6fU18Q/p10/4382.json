@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kJVKKtdLIgQ",
-            "title": "Getting real with the Kardashians",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "JgHrvf75Kxc",
             "title": "After Orlando Massacre, Gun Interest in LGBT Community Rises",
             "secondDuration": 457,
@@ -61,8 +55,14 @@
             "title": "Michael Jackson Trial: Conrad Murray's Defense",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "ooUrxPhtVfg",
+            "title": "By the Numbers: Gun purchases and violent crime both spiked in 2020",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OlT39LI1rJU",
-            "title": "‘Empire’ actor Jussie Smollett indicted in Chicago l ABC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "41OmiH7kylE",
             "title": "TODAY ON WNN..!!",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Jet attempting to land in Honduras goes off runway, cracks in 2",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "5synZWgYslk",
+            "title": "4 dead as US Marine Osprey aircraft crashes in Norway",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

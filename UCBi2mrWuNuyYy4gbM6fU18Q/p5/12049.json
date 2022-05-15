@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "u-sxdZ6OHDw",
-            "title": "Fantasy Forecast: Week 8",
-            "secondDuration": 640,
-            "group": "group_7"
-        },
-        {
             "videoId": "-Y0IKgpUa70",
             "title": "Virginia Shooting Caught on Live TV | Suspect \"Bryce Williams\" Sends 'Suicide Notes\"",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "California declared a federal disaster area",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "yBToMPxGPdw",
+            "title": "ISIS Threatens Japanese Hostages in New Video",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

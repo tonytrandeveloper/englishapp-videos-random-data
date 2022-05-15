@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GqUtTuzo1q4",
-            "title": "Chris Coons on Delaware Politics",
-            "secondDuration": 595,
-            "group": "group_7"
-        },
-        {
             "videoId": "0qRY2NzCQKE",
             "title": "Inside LA's Hello Kitty Con 2014",
             "secondDuration": 429,
@@ -31,8 +25,14 @@
             "title": "Rolling Stones drummer Charlie Watts remembered",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "glpd5uzd624",
+            "title": "Micah Xavier Johnson Identified as Dallas Gunman",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

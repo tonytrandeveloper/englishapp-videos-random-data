@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vs-XjTAdBRM",
-            "title": "\"High Tea\" with Christoph Waltz and Quentin Tarantino",
-            "secondDuration": 461,
-            "group": "group_7"
-        },
-        {
             "videoId": "HB4IGvt_FXg",
             "title": "ABC News Prime: Pres Trump resists reality, SCOTUS on ACA, U.S.-Russia relations, Virgin's Hyperloop",
             "secondDuration": 3630,
@@ -121,8 +115,14 @@
             "title": "Late-Night Comedians Slam Government Shutdown",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "U2zjsh5noOw",
+            "title": "First GOP Debate: Donald Trump, and Other Memorable Moments",
+            "secondDuration": 444,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

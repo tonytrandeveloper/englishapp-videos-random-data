@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Z8ZAxE-BIVk",
-            "title": "WEBCAST: Snuggling With Complete Strangers In Bed",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "-g3yLSR0kUo",
             "title": "Wally Funk overcame decades of sexism to become oldest astronaut",
             "secondDuration": 204,
@@ -121,8 +115,14 @@
             "title": "Miner dies after roof collapse at Pennsylvania mine",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "EKN3TKh6Q4I",
+            "title": "Florida zoo worker sent to hospital with tiger bite l GMA",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

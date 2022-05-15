@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "o71c_Q09bD8",
-            "title": "George Floyd: A Man, A Moment, America Changed l 20/20 l PART 2",
-            "secondDuration": 529,
-            "group": "group_7"
-        },
-        {
             "videoId": "PeGGBr4K1CQ",
             "title": "Debating Financial Regulation (Part 1)",
             "secondDuration": 672,
@@ -61,8 +55,14 @@
             "title": "Instant Index: Host of NPR’s ‘Car Talk’ Tom Magliozzi Dies at 77",
             "secondDuration": 47,
             "group": "group_7"
+        },
+        {
+            "videoId": "obFB9FtmsSo",
+            "title": "First responders falling through the cracks: EMTs battle PTSD, depression on the job | Nightline",
+            "secondDuration": 469,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

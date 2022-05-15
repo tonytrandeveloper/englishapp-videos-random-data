@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5Bx6MPQA_UI",
-            "title": "19-Year-Old Pilot Becomes Youngest Woman To Fly Solo Around The World",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "h99zIemM2N4",
             "title": "Florida Gov. DeSantis Holds Coronavirus Briefing | NBC News",
             "secondDuration": 1494,
@@ -61,8 +55,14 @@
             "title": "Facts Over Fear: How Long It Will Take Covid Vaccine To Take Effect | NBC News NOW",
             "secondDuration": 380,
             "group": "group_7"
+        },
+        {
+            "videoId": "WN9hqFgAU_0",
+            "title": "Tesla Under Federal Investigation For 'Phantom Braking'",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

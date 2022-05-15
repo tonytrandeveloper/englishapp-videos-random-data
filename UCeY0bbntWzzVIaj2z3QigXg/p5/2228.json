@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "x1JqKza51Ps",
-            "title": "California House: 13 Siblings Allowed To Eat Once A Day, Shower Once A Year | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "cLJ_sHrn3lg",
             "title": "Meet The Press Broadcast (Full) - Nov. 21",
             "secondDuration": 2852,
@@ -31,8 +25,14 @@
             "title": "Full Cramer: 'Past Time To Start A Transition' But Trump Still Has A Right To Challenge",
             "secondDuration": 493,
             "group": "group_7"
+        },
+        {
+            "videoId": "mMXMqxvBMWQ",
+            "title": "Dr. Fauci Warns Against Declaring ‘Victory Prematurely’ On Covid-19",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

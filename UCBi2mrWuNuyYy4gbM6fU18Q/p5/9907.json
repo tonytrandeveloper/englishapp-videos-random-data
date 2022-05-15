@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g_IAwC1H8mk",
-            "title": "GOP Debate: Who Came Out on Top?",
-            "secondDuration": 360,
-            "group": "group_7"
-        },
-        {
             "videoId": "6T2-fO8QRv0",
             "title": "Tense Moments: Bank Robbery Suspect Thought to Be Wired With Explosives in Salt Lake City",
             "secondDuration": 77,
@@ -31,8 +25,14 @@
             "title": "Hurricane Irma moves toward Bahamas, Florida",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "s4pP6pI7u-I",
+            "title": "Tax Day protests against President Trump; Melissa McCarthy returns as Sean Spicer on 'SNL'",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

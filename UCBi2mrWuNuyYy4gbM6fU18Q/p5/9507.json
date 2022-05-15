@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5l8W38kTXeA",
-            "title": "Josh Powell: Missing Wife Is 'Extremely Unstable'",
-            "secondDuration": 493,
-            "group": "group_7"
-        },
-        {
             "videoId": "daQmUXLwIII",
             "title": "The Giving Pledge: Bill and Melinda Gates",
             "secondDuration": 432,
@@ -31,8 +25,14 @@
             "title": "Whale watchers spot 'superpod' of dolphins | ABC News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "PmquzdREyCA",
+            "title": "Senate overrides Trump’s veto for 1st time",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

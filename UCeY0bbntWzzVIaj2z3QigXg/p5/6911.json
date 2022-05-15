@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Wyn7NSJYoXQ",
-            "title": "Health Officials Warn Of Deadly Powassan Virus | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "DvWnk6mjNvk",
             "title": "Donald Trump Proposes New Tariffs On Aluminum And Steel Imports | NBC Nightly News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Medical Workers On How Coronavirus Misinformation Impacts Patients Care | NBC News NOW",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "vmrtPemstzs",
+            "title": "Watch: Huge Fire Follows Explosion At Indonesian Oil Refinery | NBC News NOW",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

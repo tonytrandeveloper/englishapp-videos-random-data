@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5V5jUdiARvo",
-            "title": "Ukraine Continues To Fend Off Russian Invasion",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "WCyrAX9ZjP0",
             "title": "Atlanta Mayor Lance Bottoms: 'We Are Serious About Policy Changes' | NBC News",
             "secondDuration": 392,
@@ -31,8 +25,14 @@
             "title": "Senate Republicans Reject Democrats’ Demand For New Witnesses | NBC Nightly News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "EyoYErru2II",
+            "title": "Hundreds Of Thousands Of Dollars Spill Out Of Truck Onto New Jersey Highway | NBC Nightly News",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

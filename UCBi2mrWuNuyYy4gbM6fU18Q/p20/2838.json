@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "I-TnE9p2NKY",
-            "title": "‘Harlem Hellfighters’ honored as 1st Black WWI regiment",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "aNQmZLGtsog",
             "title": "Taylor Swift: New Album, New Pressures",
             "secondDuration": 350,
@@ -121,8 +115,14 @@
             "title": "Countdown to Super Bowl Sunday",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "KysA5xwdDHU",
+            "title": "Families USA's Ron Pollack on 'Top Line'",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

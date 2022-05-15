@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1DEVzDlggRY",
-            "title": "State of emergency declared in the Southern states",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "laZC_mUOX8s",
             "title": "15th coronavirus case confirmed in US l ABC News",
             "secondDuration": 130,
@@ -121,8 +115,14 @@
             "title": "On the Ground in Battleground State Arizona  | ABC News",
             "secondDuration": 550,
             "group": "group_7"
+        },
+        {
+            "videoId": "DFopjOrOfRM",
+            "title": "Boehner Adviser Discusses The Budget Battle",
+            "secondDuration": 290,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

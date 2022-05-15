@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9JY56Ooijrw",
-            "title": "Inside the Eye of Hurricane Nicole [DRONE FOOTAGE]",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "rBYR3dWiwcI",
             "title": "The state of the race",
             "secondDuration": 254,
@@ -61,8 +55,14 @@
             "title": "2 Cents Short: Cancer Patient's Insurance Pulled 1/26/2011",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "vj5DiHwziZo",
+            "title": "Miami gets hit harder than expected by Hurricane Irma",
+            "secondDuration": 450,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

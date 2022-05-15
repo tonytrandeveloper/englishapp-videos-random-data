@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lMu-KGp8Qq8",
-            "title": "Elephants Escape from St. Louis Circus",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "xducBSS0zwE",
             "title": "When Neighbors Fight Back",
             "secondDuration": 469,
@@ -61,8 +55,14 @@
             "title": "Weekend Window to Katmai National Park",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "sUfeNt5yroU",
+            "title": "PLAYBOY GOES PG-13! | ABC News",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

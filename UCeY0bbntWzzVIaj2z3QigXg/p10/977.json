@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VUX7uspLmgM",
-            "title": "Tom Brokaw: \"For student success, I believe it takes...\"",
-            "secondDuration": 14,
-            "group": "group_7"
-        },
-        {
             "videoId": "h7zMBRvcv0w",
             "title": "Feds Investigate  Election As College Student Challenges Democratic Incumbent | NBC Nightly News",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "Quarantines And Closures As Schools Reopen Across The U.S.| NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gu6aBMg__l8",
+            "title": "Body Language Expert Janine Driver: The Biggest Millennial Body Language Mistakes | NBC News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

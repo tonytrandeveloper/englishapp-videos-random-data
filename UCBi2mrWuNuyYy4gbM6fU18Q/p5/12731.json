@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Fyz2U1aPVU0",
-            "title": "Al Smith Dinner 2012: Video Shows Barack Obama, Mitt Romney Cracking Jokes",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "XGYHLUYAojw",
             "title": "Race Against Time to Save a Toddler After an Amber Alert Is Issued",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "John Kerry Outlines Steps to Achieve Ceasefire in Syria",
             "secondDuration": 351,
             "group": "group_7"
+        },
+        {
+            "videoId": "7fdc6a0PsIA",
+            "title": "Tim Tebow Faces Off Against Joe Montana in Football Food Fight",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

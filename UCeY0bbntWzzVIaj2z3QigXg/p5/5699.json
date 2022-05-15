@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MP0IlRcPyq0",
-            "title": "Cheetah 3 Is A Blind Robot That Doesn’t Need Sensors To Navigate | Mach | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "ccQ2uPqjiCQ",
             "title": "Biden Discusses Plan To Pull Out Troops From Afghanistan | NBC News",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "NASA, SpaceX Set To Launch Historic Mission In Just Hours | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZaiMKpHvupQ",
+            "title": "Fecal Transplants: Medicine’s Next Frontier? | Mach | NBC News",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

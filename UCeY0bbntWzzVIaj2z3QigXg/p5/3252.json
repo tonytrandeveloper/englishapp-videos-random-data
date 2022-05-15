@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "og7PHR1Adz8",
-            "title": "Live: Michigan Gov. Gretchen Whitmer Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 1905,
-            "group": "group_7"
-        },
-        {
             "videoId": "oRd4Kie0HVw",
             "title": "President Donald Trump: 'I Stand Here Ready To Work With You' | NBC News",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "US Intel On Russian Involvement In Election 'Laughable': Russia Today Editor | TODAY",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "X88GusWT9s8",
+            "title": "This Month In History, The Chilean Miners Rescue: 70 Days Underground (Part 1) | NBC Nightly News",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

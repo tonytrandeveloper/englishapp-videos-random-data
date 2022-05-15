@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PTP1JU1aVEk",
-            "title": "The Conversation: U.S. Secret Soccer Weapon",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "9KQzYd_HVuM",
             "title": "Pro-democracy protests turn violent as Hong Kong airport cancels flights again | ABC News",
             "secondDuration": 199,
@@ -121,8 +115,14 @@
             "title": "Video captures rescue of little dog floating on couch amid floodwaters",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "JM3mjDrRjgs",
+            "title": "Hyperloops could be future of travel",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

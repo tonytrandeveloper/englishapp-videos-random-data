@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GTgrAZbZKcg",
-            "title": "Memphis Tigers match up with SMU Mustangs | ABC News",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "YKIJJSTKlH8",
             "title": "Stunt Man Surfs on Ocean With Motorcycle",
             "secondDuration": 83,
@@ -31,8 +25,14 @@
             "title": "Family of Navy vet who died in police custody speaks out | WNT",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "HAlKNPur4UA",
+            "title": "Crowds at Carhenge in Nebraska eager to view solar eclipse",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

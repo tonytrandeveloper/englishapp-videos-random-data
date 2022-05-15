@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sEcmqGHfkYs",
-            "title": "El Salvador Intensifies Crackdown On Gang Activity After Deadliest Day In 30 Years",
-            "secondDuration": 319,
-            "group": "group_7"
-        },
-        {
             "videoId": "vSCUNf8t-wA",
             "title": "Central Michigan University Shooting Suspect Apprehended After Manhunt | NBC Nightly News",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "President Biden Honors 500,000 Americans Lost To Covid | NBC News",
             "secondDuration": 656,
             "group": "group_7"
+        },
+        {
+            "videoId": "Trqfwc_Gchs",
+            "title": "Pres. Trump Speaks At National Christmas Tree Lighting Ceremony | NBC News (Live Stream Recording)",
+            "secondDuration": 301,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

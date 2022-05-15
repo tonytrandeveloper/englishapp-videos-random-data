@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "cIiSHuv3NGE",
-            "title": "Breaking down Ahmaud Arbery murder trial as the jury deliberates",
-            "secondDuration": 766,
-            "group": "group_7"
-        },
-        {
             "videoId": "g3Srl6V-xaM",
             "title": "ISIS: Army National Guard Member Arrested for Allegedly Trying to Join",
             "secondDuration": 107,
@@ -301,8 +295,14 @@
             "title": "Iowa caucus results delayed due to vote-counting system failures | ABC News",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "WI13OT16Hdw",
+            "title": "Trump caught on tape pressuring Georgia official to find votes",
+            "secondDuration": 248,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

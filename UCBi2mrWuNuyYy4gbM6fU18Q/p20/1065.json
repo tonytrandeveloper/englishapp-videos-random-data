@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "brdrFrU-3O0",
-            "title": "Manhunt for smash-and-grab robbers",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "2lmv6ZDm0vw",
             "title": "Democratic candidates debate: Education | ABC News",
             "secondDuration": 857,
@@ -121,8 +115,14 @@
             "title": "Nancy Pelosi cancels Trump's address to Congress in letter",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "z9anmNvBErk",
+            "title": "Tributes planned for Kobe Bryant as NBA’s best meet up the All-Star Game | ABC News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

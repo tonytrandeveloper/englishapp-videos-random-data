@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "08HIIOpvL38",
-            "title": "Jimmy Kimmel Up to His Halloween Candy Tricks Again",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "n7VDPgETlh0",
             "title": "Potential Key Witness in Alleged Crime Boss Trial Found Dead: Whitey Bulger Trial",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Newt Gingrich Falls Asleep on AIPAC Screen, Asks for Panel's Questions, But No Panel Exists",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "pxaJEFHO1R0",
+            "title": "Afghan pilots hope US government will help them leave Tajikistan",
+            "secondDuration": 385,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

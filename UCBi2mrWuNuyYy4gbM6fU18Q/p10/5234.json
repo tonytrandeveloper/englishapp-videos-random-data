@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MHAkP21levA",
-            "title": "'Game of Thrones' EXCLUSIVE Cast Interview",
-            "secondDuration": 292,
-            "group": "group_7"
-        },
-        {
             "videoId": "bG1wAS97KnY",
             "title": "Hurricane Sandy Hits Jamaica on Path Toward Cuba, Florida",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Police Shooting Leaves a Man Dead in Palm Beach, Florida",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "hQ_8pI2KLss",
+            "title": "IN CASE YOU MISSED IT: 10-10-2014",
+            "secondDuration": 402,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

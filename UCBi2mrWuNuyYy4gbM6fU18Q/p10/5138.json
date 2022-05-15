@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DDJuFO-NsKU",
-            "title": "Capitol Police arrest suspected white supremacist",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "dBtqD_Qq290",
             "title": "Police probe death of teen found in van",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "Queen Elizabeth II: Celebrating Her Majesty's 90th Birthday",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "y6Hik5pL_Ew",
+            "title": "Met Gala 2016: Fashion Highlights with Kerry Washington",
+            "secondDuration": 346,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

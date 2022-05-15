@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gB2bvJWpbMg",
-            "title": "Dear Mr. President: Letters From The American People | NBC News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ge3x6ZLu02c",
             "title": "Beto O'Rourke In El Paso: Trump 'Is A Racist And He Stokes Racism'  | NBC News",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "North And South Korea To Begin High-Level Talks | NBC Nightly News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "9QDWbse4wFU",
+            "title": "Live: L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
+            "secondDuration": 3179,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

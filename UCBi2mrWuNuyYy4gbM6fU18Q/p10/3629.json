@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W6QSGqDawBc",
-            "title": "Kira the gorilla delivers a 5-pound baby boy at the Philadelphia Zoo",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "u8bifoLbcqI",
             "title": "Johnny Manziel Indicted for Assault Against Former Girlfriend",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Sgt. Bowe Bergdhal Charged With Desertion and Misbehavior",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "yZEerhZwOWM",
+            "title": "Student Arrested in Jessica Ridgeway Murder",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

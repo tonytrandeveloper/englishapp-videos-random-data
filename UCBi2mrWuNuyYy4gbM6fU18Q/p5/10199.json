@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ylvh3f72EsM",
-            "title": "A beauty queen shines a light on her invisible illness and raises awareness",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "JYqH-cxX-ug",
             "title": "Train Derailment in New Jersey Spills Hazardous Waste",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "House committee issues new subpoenas in Jan. 6 investigation l GMA",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "IRxCXAh5H40",
+            "title": "'Love, Simon' cast, director on scene that moved cast and crew to tears",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

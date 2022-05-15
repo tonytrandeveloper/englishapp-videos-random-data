@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MKGIKgLN_RQ",
-            "title": "President Donald Trump Signs Executive Order Halting Family Separation At Border | NBC News",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "eSXJsaZqG5c",
             "title": "White House Holds Press Briefing: May 11 | NBC News",
             "secondDuration": 2921,
@@ -31,8 +25,14 @@
             "title": "These Steps Can Turn Your Credit Around | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jn8Xs5kroPE",
+            "title": "White House Prepares To Roll Out Plan Addressing Opioid Crisis | NBC Nightly News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

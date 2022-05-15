@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7UmhZV0e2gQ",
-            "title": "Watch Live: Joe Biden's First Campaign Rally Since Launching 2020 Bid | NBC News",
-            "secondDuration": 2182,
-            "group": "group_7"
-        },
-        {
             "videoId": "GMswP7jgfVg",
             "title": "Americans Stock Up As Coronavirus Cases Grow | NBC Nightly News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Louisiana Police Officer Appears To Be Punching Black Teen During Arrest On Video | NBC News NOW",
             "secondDuration": 46,
             "group": "group_7"
+        },
+        {
+            "videoId": "_BW5tEcAOSs",
+            "title": "Russia Testing New Hypersonic Nuclear Missile | NBC Nightly News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QhU4sxZNCvY",
-            "title": "Belgian City Unveils Beer Pipeline",
-            "secondDuration": 57,
-            "group": "group_7"
-        },
-        {
             "videoId": "D4VdqyqIMVk",
             "title": "Justin Trudeau admits brownface photo was racist l ABC News",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "After a string of mass shootings, Biden addresses limited gun reform | WNT",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "J1MFzzOxaY0",
+            "title": "‘Bachelorette’ Rachel Lindsay Meets Dean, Peter, Bryan and Eric’s families",
+            "secondDuration": 1421,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

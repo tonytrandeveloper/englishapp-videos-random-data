@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OSYH_v3YLIo",
-            "title": "John Stossel's '20/20' Special",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "M6Ipo343KY8",
             "title": "Louisiana neighbors, community come together to help l WNT",
             "secondDuration": 73,
@@ -121,8 +115,14 @@
             "title": "Kyle Rittenhouse defense rests its case",
             "secondDuration": 282,
             "group": "group_7"
+        },
+        {
+            "videoId": "2k4pZ_gFK3o",
+            "title": "Robin Hood 'Lemon-Aid' Stand opened by Lara Spencer",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

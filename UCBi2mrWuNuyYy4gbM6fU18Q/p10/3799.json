@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bL5LbiaudsU",
-            "title": "Webcast: Whitney Houston Coroner Report",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "kNtYObhLFWI",
             "title": "Dad Who Encouraged His Son to Fight on Tape Explains His Actions (2011)",
             "secondDuration": 347,
@@ -61,8 +55,14 @@
             "title": "By the Numbers: The history of PRIDE",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "3JtAiWUlFmQ",
+            "title": "'This Week' Roundtable: Second Term Slump",
+            "secondDuration": 697,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

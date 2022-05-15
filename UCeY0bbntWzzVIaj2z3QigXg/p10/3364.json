@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rNWXySnjtqc",
-            "title": "Mexico Rattled By 7.0 Magnitude Earthquake",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "olysFQkYkCA",
             "title": "How Cambridge Analytica Used Algorithms To Trawl Through Facebook User Data | Mach | NBC News",
             "secondDuration": 189,
@@ -61,8 +55,14 @@
             "title": "New Clues After Family’s SUV Plunges Off California Cliff | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "4DGCW-eGKI4",
+            "title": "Carly Fiorina Shines, Donald Trump Fends Off Attacks in Marathon GOP Debate | NBC Nightly News",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

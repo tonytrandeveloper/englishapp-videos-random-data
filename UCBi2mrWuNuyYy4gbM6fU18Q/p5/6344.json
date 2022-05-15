@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E6TJx0FGLzw",
-            "title": "ABC News Live: 21,600 people evacuated from Afghanistan in past 24 hours",
-            "secondDuration": 1227,
-            "group": "group_7"
-        },
-        {
             "videoId": "vh99Da4MYV0",
             "title": "Legendary actor Kirk Douglas dies at age 103 l ABC News",
             "secondDuration": 53,
@@ -31,8 +25,14 @@
             "title": "Nia Vardalos Talks About New Book 'Instant Mom'",
             "secondDuration": 361,
             "group": "group_7"
+        },
+        {
+            "videoId": "mFRYnEi2n0A",
+            "title": "Senate GOP Leader: 'The Russians Are Not Our Friends'",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hWzOHd6Pxdw",
-            "title": "Protests Outside Brooklyn Jail After Days Without Heat And Hot Water | NBC Nightly News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "zXG0X3grdu0",
             "title": "More Than 8,000 U.S. Troops On High Alert Amid Growing Tension On Russia, Ukraine Border",
             "secondDuration": 356,
@@ -61,8 +55,14 @@
             "title": "Protests Erupt Ahead Of Senate's Vote To Confirm Kavanaugh | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "EAr2dxFR8BM",
+            "title": "New U.S. Intelligence Findings On Potential Russian Invasion of Ukraine",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KqX5BEvakpo",
-            "title": "Final Presidential Debate 2012 Obama Vs. Romney:  Romney Camp Prepares for Debate",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "cOAEKEKq7tI",
             "title": "Woman apparently killed by alligator while walking her dogs",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "Papa John's founder resigns, apologizes for racial slur",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "XZNeJ8XRYDg",
+            "title": "The Debrief: Border deal and shutdown talks, Denver teacher's strike, 'El Chapo' found guilty",
+            "secondDuration": 1429,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

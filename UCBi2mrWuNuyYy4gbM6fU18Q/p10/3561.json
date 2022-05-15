@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QK-3YZ3-yKE",
-            "title": "Police Target: Michael Jackson's Doctor",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "ENgEOvUCUMQ",
             "title": "New sanctions on Russia coming?",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Yahoo's 2015 Year in Review",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "b85W6dtPOSY",
+            "title": "Reconstructing Missing Woman's Movements",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

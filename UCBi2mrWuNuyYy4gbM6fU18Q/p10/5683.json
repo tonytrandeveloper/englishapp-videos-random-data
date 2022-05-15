@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uMvnjBAR1pI",
-            "title": "Hurricane Sandy: Air Travel Shuts Down on East Coast",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sd175WPBjJk",
             "title": "Real-Life Mermaid Swims With the Sharks",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "50 Cent Mocks Autistic Man, Apologizes",
             "secondDuration": 257,
             "group": "group_7"
+        },
+        {
+            "videoId": "QIyAUI8isPo",
+            "title": "Afghanistan Bombing Timed to Coincide With Chuck Hagel Visit",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

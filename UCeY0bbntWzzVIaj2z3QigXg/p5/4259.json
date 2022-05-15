@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V7kUBx0KqMw",
-            "title": "NBC's Richard Engel Reports from Egypt",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "t-6bYJNE_KU",
             "title": "Poems Describe Immigrants’ Difficult Journeys | NBC News",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Violence Around Al-Aqsa Mosque As Israeli police, Palestinians Clash",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "KutaoRosWvo",
+            "title": "Sen. Marco Rubio: On McCabe, ‘I Don’t Like The Way It Happened’ (Full) | Meet The Press | NBC News",
+            "secondDuration": 580,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

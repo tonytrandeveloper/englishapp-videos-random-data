@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nJp3I5P0dBs",
-            "title": "Superstorm Sandy Wrecks Gas Lines in NJ",
-            "secondDuration": 336,
-            "group": "group_7"
-        },
-        {
             "videoId": "JZFqs24zF8M",
             "title": "Kyiv under siege, International Women's Day, Bloody Sunday remembered: Week in Photos",
             "secondDuration": 169,
@@ -31,8 +25,14 @@
             "title": "Unwanted Gifts Go To Warehouse",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "AA8Wr3ggORA",
+            "title": "Newtown Elementary School Shooter Details",
+            "secondDuration": 270,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

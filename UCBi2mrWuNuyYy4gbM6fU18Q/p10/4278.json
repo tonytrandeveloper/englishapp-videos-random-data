@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2G9uPjrY9Ho",
-            "title": "CIA Drones Kill Two Innocent Men",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "PErZJXI8viA",
             "title": "Study Links ADHD to Pesticide",
             "secondDuration": 171,
@@ -61,8 +55,14 @@
             "title": "Jamie Foxx Welcomes Josh Elliott to 'GMA' (May 3, 2011)",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "SA6YgTZcdh4",
+            "title": "Hispanic Voters: Obama vs. Romney",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

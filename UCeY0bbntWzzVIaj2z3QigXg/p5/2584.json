@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OM6oBVlD5sU",
-            "title": "Brett Kavanaugh: ‘I Will Not Be Intimidated Into Withdrawing’ | NBC Nightly News",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "izgNTd9aloE",
             "title": "This Morning’s Top Headlines – April 8 | Morning News NOW",
             "secondDuration": 1171,
@@ -31,8 +25,14 @@
             "title": "Trump Speaks At New Hampshire Campaign Rally | NBC News (Live Stream Recording)",
             "secondDuration": 4885,
             "group": "group_7"
+        },
+        {
+            "videoId": "ReOE8sWNJZM",
+            "title": "Morning News NOW Full Broadcast - April 1",
+            "secondDuration": 2445,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

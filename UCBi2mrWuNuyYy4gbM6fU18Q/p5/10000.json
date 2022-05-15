@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zyiyphDqs-o",
-            "title": "6-Year-Old Boy Fights Battle of a Lifetime",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "GfuZhpnsbDc",
             "title": "Superstorm Sandy Puts Staten Island Underwater",
             "secondDuration": 262,
@@ -31,8 +25,14 @@
             "title": "Deadly Plane Crash in Pakistan",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "6U3gwAlFs3g",
+            "title": "The role of church leaders in vaccination efforts",
+            "secondDuration": 712,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

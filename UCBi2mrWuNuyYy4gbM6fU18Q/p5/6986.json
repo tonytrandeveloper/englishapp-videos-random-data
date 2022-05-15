@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DYJbZJvLN-o",
-            "title": "Firefighter dies on set of star-studded film",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "XwWI_2k4wN8",
             "title": "Close Call Between American and Russian Military Planes",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "George Previews Obama Health Chat",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "dVNSRXgDGEY",
+            "title": "Disney Reveals Details about \"Frozen Fever\"",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

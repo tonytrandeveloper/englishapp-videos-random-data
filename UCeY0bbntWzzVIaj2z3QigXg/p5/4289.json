@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "shCbObM2DSw",
-            "title": "Kamala Harris Talks Mental Health And Failed War On Drugs | NBC News",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Ycgh89qdbE",
             "title": "South Carolina Gov. Nikki Haley Endorses Marco Rubio For President | NBC News",
             "secondDuration": 276,
@@ -31,8 +25,14 @@
             "title": "Philadelphia Election Official Notes ‘Largest Number Of Mail-In Ballots In The City’s History’",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "45rMe468QK4",
+            "title": "New York Officials To Decide Before Christmas On Times Square New Year’s Eve Celebration",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

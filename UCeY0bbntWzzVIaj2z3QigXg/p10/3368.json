@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xxIda477vvg",
-            "title": "Deadly Earthquake Topples Buildings In Taiwan | NBC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "4hu4cxidcQI",
             "title": "Thailand’s Travel Ban Impacts The Country’s Elephants | NBC News NOW",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Blood Test Detects Over 50 Types Of Cancer | Nightly News Films",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "VvdnZ1zGidE",
+            "title": "At Least 57 Dead And 169 Hurt Following Russian Attack On Ukraine",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

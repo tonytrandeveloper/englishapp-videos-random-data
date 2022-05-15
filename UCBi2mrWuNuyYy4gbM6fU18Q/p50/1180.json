@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "hxaGh9ROUpE",
-            "title": "If I Can’t Have You l 20/20 l PART 3",
-            "secondDuration": 519,
-            "group": "group_7"
-        },
-        {
             "videoId": "jVkTOUaIQpE",
             "title": "Chicago officials outraged after Smollett charges dropped",
             "secondDuration": 208,
@@ -301,8 +295,14 @@
             "title": "Food banks see record turnout on Thanksgiving amid growing food insecurity",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "39ANV78erOc",
+            "title": "Emergency room doctor on reopening and the new CDC guidelines for vaccinated people",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

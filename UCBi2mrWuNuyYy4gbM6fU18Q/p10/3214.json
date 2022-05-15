@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "l2PK3mQM-jE",
-            "title": "Donald Trump, Ted Cruz Double Down on Personal Attacks",
-            "secondDuration": 261,
-            "group": "group_7"
-        },
-        {
             "videoId": "FYIoJXaje8Y",
             "title": "Donald Trump Vows Not to Run as Third-Party Candidate",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "President Joe Biden is overseas meeting world leaders at G7 Summit | ABC News",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "aKKxQTA6c7U",
+            "title": "Protesters and police clash in Minneapolis",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

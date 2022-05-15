@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8prOFh4KyQU",
-            "title": "‘Unlikely COVID-19 is going to disappear’: Fauci",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "XAEljb3ZkO0",
             "title": "Missing teen found alive months after parents murdered",
             "secondDuration": 405,
@@ -121,8 +115,14 @@
             "title": "Can Obama Save Democrats' Jobs?",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "y_Uk3nHXK-4",
+            "title": "Cold War Echoes: Russian Spy Ship in Havana",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6EW8nisnt-Y",
-            "title": "Amanda Knox: On Trial For Her Life",
-            "secondDuration": 543,
-            "group": "group_7"
-        },
-        {
             "videoId": "WpwME61Xttk",
             "title": "Ohio lawmakers introduce education legislation",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Sexy Felon Gets Agent",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "CS_Y1XCS3Vg",
+            "title": "In Chicago, Latinos struggle to find relief from devastation of COVID-19 | Nightline",
+            "secondDuration": 682,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

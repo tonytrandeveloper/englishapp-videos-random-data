@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IDwtRA0VUL4",
-            "title": "Morning News NOW Full Broadcast - July 15",
-            "secondDuration": 2987,
-            "group": "group_7"
-        },
-        {
             "videoId": "2pefBBHvprU",
             "title": "Fighting Against Racism And Systemic Oppression: A First-Time Protester Finds Her Voice | NBC News",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Deadly Sea Star Plague Stumps Scientists | NBC News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "A7MWrd_9e6U",
+            "title": "Meet The Press Broadcast (Full) - May 9th, 2021 | Meet The Press | NBC News",
+            "secondDuration": 2854,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

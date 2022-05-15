@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kyPaI1HuDyo",
-            "title": "NBC News Projects Joe Biden Will Be The President-Elect | NBC News",
-            "secondDuration": 265,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vw6Jy5MeLZo",
             "title": "Inside A Russian Troll Factory | Think | NBC News",
             "secondDuration": 260,
@@ -31,8 +25,14 @@
             "title": "The Border Where Trump Would Build A Wall | Short Take | NBC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "eQMcJF9b6iI",
+            "title": "Outpouring Of Support After Actor Elliot Page Announces He’s Transgender | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

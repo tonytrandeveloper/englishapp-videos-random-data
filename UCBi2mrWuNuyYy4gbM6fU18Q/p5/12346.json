@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pvCrEpVy_G4",
-            "title": "What to know about colon cancer",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "ch6oMj14krw",
             "title": "'This Week': Arizona Veto",
             "secondDuration": 411,
@@ -31,8 +25,14 @@
             "title": "Pandemic creates plastic surgery boom",
             "secondDuration": 344,
             "group": "group_7"
+        },
+        {
+            "videoId": "GDyGLxNB-D4",
+            "title": "Katy Perry, John Mayer Break-Up: People Magazine Suggests Stars Spending Time Apart",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Re510yGVQtM",
-            "title": "Nelson Mandela Released From Prison | Flashback | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q0IWlAq8UHQ",
             "title": "Ex-Minneapolis Cops Plead Not Guilty To Violating George Floyd's Civil Rights",
             "secondDuration": 131,
@@ -301,8 +295,14 @@
             "title": "Biden Signs Executive Order To Expand Voting Access | NBC Nightly News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "S6mVn63MCZE",
+            "title": "Tim Armstrong: \"For student success, it takes...\"",
+            "secondDuration": 26,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

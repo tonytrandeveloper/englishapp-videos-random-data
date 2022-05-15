@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lFyeF9d1Stc",
-            "title": "Weekend Window: North Cascades National Park",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "gGPyggHQKmQ",
             "title": "New details about Las Vegas gunman's final hours",
             "secondDuration": 259,
@@ -61,8 +55,14 @@
             "title": "Washington, D.C., Gridlocked as Fiscal Cliff Approaches",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "3jXgywMwmM8",
+            "title": "Facing Outrageous Hospital Bills",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

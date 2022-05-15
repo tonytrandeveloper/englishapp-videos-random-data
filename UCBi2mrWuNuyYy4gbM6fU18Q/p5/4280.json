@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lPSyTzYLSw0",
-            "title": "The Last Days of Phil Hartman l PART 3",
-            "secondDuration": 325,
-            "group": "group_7"
-        },
-        {
             "videoId": "bswUlHKZtPQ",
             "title": "Bear is tired of winter weather l ABC News",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Temple Shooting Update",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "TlXqF3SBOgs",
+            "title": "Reese Witherspoon Mug Shot, Arrest 2013: Actress, Husband Arrested for DUI, Disorderly Conduct",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

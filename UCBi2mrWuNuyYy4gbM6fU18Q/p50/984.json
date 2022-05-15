@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "T6bjC8R2pUw",
-            "title": "State of emergency declared in New York City over coronavirus",
-            "secondDuration": 388,
-            "group": "group_7"
-        },
-        {
             "videoId": "OayJgkPH75I",
             "title": "Biden unveils COVID-19 vaccine pact",
             "secondDuration": 742,
@@ -301,8 +295,14 @@
             "title": "Powerful Winter Storm to Hit the Nation",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "1vHAWEnh8Lg",
+            "title": "Aaron Hernandez's family questions suicide reports",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sfqf-SeIjM0",
-            "title": "Sinkhole Swallows Van In Cleveland | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "pP942V9WVJE",
             "title": "Joint WHO-China Study Says Origins Of Coronavirus Still An Open Question | NBC Nightly News",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Stranded Cruise Ship Towed Safely To Norway Port After Dramatic Rescues | NBC Nightly News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "BOWXZ59kXJg",
+            "title": "California Extends Stay-At-Home Orders As Hospitals Overwhelmed | NBC Nightly News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

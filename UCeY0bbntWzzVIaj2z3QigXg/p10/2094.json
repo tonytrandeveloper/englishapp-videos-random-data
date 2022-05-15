@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "C7zJAoA15Y8",
-            "title": "Gov. Cuomo Resigns Following Sexual Harassment Allegations",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "B8nxmu-TJVs",
             "title": "Harvey Weinstein Resigns From Weinstein Company Board | NBC Nightly News",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Irma: Tampa Facing First Direct Hit By Major Hurricane In Nearly A Century | NBC Nightly News",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "hSwwfIhMXU0",
+            "title": "White House Holds Press Briefing | NBC News",
+            "secondDuration": 1470,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

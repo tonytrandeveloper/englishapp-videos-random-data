@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gOTC4grU35c",
-            "title": "Meet The Press Broadcast (Full) - March 22nd, 2020 | Meet The Press | NBC News",
-            "secondDuration": 2872,
-            "group": "group_7"
-        },
-        {
             "videoId": "P5jOUGy7iBU",
             "title": "Drone Footage Shows Destroyed Apartment Complex In Bucha, Ukraine",
             "secondDuration": 73,
@@ -61,8 +55,14 @@
             "title": "Dems To Robert Mueller: ‘No One Is Above The Law.’ | NBC News",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "lHPrF7aj_zw",
+            "title": "Congressional GOP Scrambles To React Amid President Donald Trump Helsinki Fallout | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

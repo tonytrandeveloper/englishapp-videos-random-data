@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AZF1gaoarl8",
-            "title": "Gunman Injures 4 Outside Pennsylvania Courtroom | NBC Nightly News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ql45GDQ4QqE",
             "title": "Morning News NOW Full Broadcast - April 16 | NBC News NOW",
             "secondDuration": 3196,
@@ -61,8 +55,14 @@
             "title": "Deadly Tornado Strikes Alabama | NBC News NOW",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "nekUEB5eGCc",
+            "title": "Epic Pre-Human Discovery: Meet the Distant Cousins We Never Knew We Had | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

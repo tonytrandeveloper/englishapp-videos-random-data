@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9md6-xDdxtE",
-            "title": "Snow Blankets Rome After Heaviest Winter Storm In Years | NBC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "V2oOdWo3pXs",
             "title": "Sliding Down At 90 MPH: The Science Behind The Fastest Sport On Ice | Mach | NBC News",
             "secondDuration": 185,
@@ -61,8 +55,14 @@
             "title": "Michelle Obama Steals DNC Spotlight in Powerful, Rousing Speech | NBC Nightly News",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "PCdx5ip1X58",
+            "title": "Nation Bids Farewell To President George H.W. Bush | NBC Nightly News",
+            "secondDuration": 292,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

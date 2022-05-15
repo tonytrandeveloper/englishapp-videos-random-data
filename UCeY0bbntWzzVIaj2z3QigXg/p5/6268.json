@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JRn-xn6oty0",
-            "title": "Life Lessons: Dr. Travis Stork On Taking Risks | Better | NBC News",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "H6ZFiz0SIl4",
             "title": "Minnesota College Student Studying In The Netherlands Stabbed Death By Roommate | NBC Nightly News",
             "secondDuration": 78,
@@ -31,8 +25,14 @@
             "title": "All Passengers, Crew Safe After Plane Crashes In Texas Field",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "QzeJlOmamMU",
+            "title": "Fourth Journalist Killed in Mexico this Year on Heels of Nationwide Protests Over Press Protections",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

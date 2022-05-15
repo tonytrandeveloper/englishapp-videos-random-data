@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AHHrWBckrP8",
-            "title": "Obama on Deadly Attack in Munich",
-            "secondDuration": 25,
-            "group": "group_7"
-        },
-        {
             "videoId": "qt3rHAkwuiQ",
             "title": "Former police officers charged in George Floyd’s death to appear in court",
             "secondDuration": 77,
@@ -61,8 +55,14 @@
             "title": "Oklahoma Murder Suspect Killed in Shootout",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "VqBd2bl0W6w",
+            "title": "Atlanta School Shooting Bookkeeper Interview: Alleged Gunman Said 'He Was Going to Die'",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

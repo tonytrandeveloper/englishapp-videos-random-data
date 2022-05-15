@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "72UC3ubJICw",
-            "title": "Top Secret Military Blimp Breaks Free",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "9Ozyfnn3tYc",
             "title": "Woman discovers her father is notorious BTK serial killer [NIGHTLINE]",
             "secondDuration": 577,
@@ -61,8 +55,14 @@
             "title": "Trump criticizes May on Brexit while on UK visit",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "yev1geFOABs",
+            "title": "Biden and Harris debut as historic Democratic ticket",
+            "secondDuration": 2945,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

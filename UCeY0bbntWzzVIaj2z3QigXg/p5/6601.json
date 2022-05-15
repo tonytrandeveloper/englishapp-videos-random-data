@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4-XI6RyG6Nc",
-            "title": "Jussie Smollett’s ‘Empire’ Character Removed From Final Two Episodes | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "FHOxaCWBJb8",
             "title": "Flooding In Jacksonville After Hurricane Irma | NBC News",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Government Shutdown Scramble Back To Square One | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "0_jRFEkEdD8",
+            "title": "Hospital Gives Back To Local Restaurants Hurt By The Pandemic",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5BcqEGDb2Nc",
-            "title": "Personal Development: The Art Of Asking For Help | NBC News",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "GqCSjcH8liw",
             "title": "McConnell, Schumer React After The Senate Votes To Acquit President Donald Trump | NBC News",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "Who Killed Their Children? These Mothers Are Fighting To Break A Culture Of Silence | NBC News",
             "secondDuration": 397,
             "group": "group_7"
+        },
+        {
+            "videoId": "kxRS6qUiDDM",
+            "title": "Israel Adds Covid Restrictions As Delta Variant Fuels Surge",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

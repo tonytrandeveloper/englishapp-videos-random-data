@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fansYkBBLKo",
-            "title": "Second Parent Sentenced In College Cheating Scandal | NBC Nightly News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "-ckRsloD20g",
             "title": "See Biden's Speech On Covid Response And Vaccines | NBC News",
             "secondDuration": 595,
@@ -121,8 +115,14 @@
             "title": "Funeral For Former First Lady Barbara Bush | NBC News",
             "secondDuration": 9710,
             "group": "group_7"
+        },
+        {
+            "videoId": "MCmdNi46qtg",
+            "title": "Norovirus Wreaking Havoc Across The Country | NBC Nightly News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

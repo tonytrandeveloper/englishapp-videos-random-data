@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Tx07No81MlI",
-            "title": "Daring Hostage Rescue in North Carolina",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "f8j5WnrFoH4",
             "title": "New England Patriots Win Super Bowl",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Severe storm systems rip across the South",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "2VK7GFZ4r4s",
+            "title": "FBI Searches for Serial Jewelry Thief in Southern States",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xRMjxxkPnGY",
-            "title": "WEBCAST: Military Jet Crash",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "EWNvBx2bjG8",
             "title": "Virtual simulator helps train police on de-escalation tactics",
             "secondDuration": 171,
@@ -121,8 +115,14 @@
             "title": "Home-security camera captures alleged attack, kidnapping",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "2vz5-X7l6aQ",
+            "title": "The Debrief: Alabama abortion ban, US Iraq warning, Boeing controversy | ABC News",
+            "secondDuration": 1944,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

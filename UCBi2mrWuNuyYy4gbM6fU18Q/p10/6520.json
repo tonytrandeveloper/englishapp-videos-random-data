@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fjW-Fqe_Elk",
-            "title": "Communities building desks, libraries for students learning virtually | WNT",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "3SbzTvxltbw",
             "title": "6.6 million Americans file for unemployment l ABC News",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "US military awaits Trump's decision on Syria missile strikes",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fqub0GF8-Ng",
+            "title": "Trump Plane Flies Over Ted Cruz Event",
+            "secondDuration": 32,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

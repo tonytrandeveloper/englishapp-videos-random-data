@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "lTm6ch9Hu-M",
-            "title": "Cool Cats Who Love Cats",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "S-llCCXKe2w",
             "title": "Johnny Depp Surprises Kids in Children's Hospital as Captain Jack Sparrow",
             "secondDuration": 44,
@@ -301,8 +295,14 @@
             "title": "Tensions high with Iran, fighter jet crash, Trump’s immigration plan",
             "secondDuration": 1554,
             "group": "group_7"
+        },
+        {
+            "videoId": "wpj6kJpV3Jo",
+            "title": "Should Americans reconsider travel plans in wake of coronavirus?",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

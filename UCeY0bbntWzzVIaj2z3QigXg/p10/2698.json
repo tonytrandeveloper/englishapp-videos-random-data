@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eYzdWmVKxVE",
-            "title": "Team USA Athletes Head to Beijing",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "U5oZhRb7rMg",
             "title": "Nancy Pelosi: President Donald Trump 'Totally Ignored' U.S. Gun Violence Epidemic | NBC News",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "Chuck Schumer: Trump Will Cause 'An ISIS Jailbreak' By Withdrawing Troops From Syria | NBC News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "mdZY2XPIXdM",
+            "title": "Watch live: Pence holds press conference with coronavirus task force",
+            "secondDuration": 5229,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

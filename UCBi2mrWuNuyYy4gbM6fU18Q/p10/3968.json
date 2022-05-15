@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "blLugIQM4Wg",
-            "title": "Nicole Kidman Sings Wizard of Oz",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "KfEuodrOTSc",
             "title": "Paul Ryan Slams Tone of 2016 Politics",
             "secondDuration": 42,
@@ -61,8 +55,14 @@
             "title": "Duchess Kate, Panda and Ukraine: World in Photos, March 29",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "3_dXX41cvaw",
+            "title": "Tips for coping with mental health issues during pandemic",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

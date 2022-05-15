@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L94ZAxSqyBA",
-            "title": "This Couple Is Bidding To Own Their Very Own Lighthouse | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "TO6TneYcASA",
             "title": "U.S. Economy Adds Fewer Jobs Than Expected in April | NBC Nightly News",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "New Study Raises Hopes Of COVID-19 Survivor Immunity | NBC Nightly News",
             "secondDuration": 728,
             "group": "group_7"
+        },
+        {
+            "videoId": "T6xFxPNGuMo",
+            "title": "Joe Biden And Kamala Harris Hold First Event As Running Mates | NBC Nightly News",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

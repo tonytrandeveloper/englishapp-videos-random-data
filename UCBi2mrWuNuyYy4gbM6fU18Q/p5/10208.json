@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Dfb_0iyxpQc",
-            "title": "A suspect is in custody after fatally shooting a sheriff's deputy in Oklahoma",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "5fnth2U4eKE",
             "title": "White House press briefing: First following President Donald Trump's Asia trip",
             "secondDuration": 2180,
@@ -31,8 +25,14 @@
             "title": "The Debrief: Ivanka Trump interview, US-Mexico border tension, Manafort, alleged Md. hazing incident",
             "secondDuration": 1381,
             "group": "group_7"
+        },
+        {
+            "videoId": "h9bpvlTEDW4",
+            "title": "Parenting Poll: How Young is Too Young?",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

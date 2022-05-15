@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RFm3E4Tu2NU",
-            "title": "Officials Investigate Potential Second Leak In Florida Reservoir As Hundreds Evacuate | NBC News NOW",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "D73DPPrPS94",
             "title": "Biden Tours Texas Emergency Operations Center | NBC News",
             "secondDuration": 510,
@@ -121,8 +115,14 @@
             "title": "Mike Pompeo Meets Saudi King Over Mysterious Disappearance Of Jamal Khashoggi | NBC News",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "YAwEcEgVEeA",
+            "title": "Lakers Players Return To Practice And ‘Grieved Together’ | NBC News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

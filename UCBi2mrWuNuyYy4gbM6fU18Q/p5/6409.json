@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ELiVQlgJBnw",
-            "title": "The Conversation: Lady Gaga and Cyndi Lauper",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "UFm5TMF4dHQ",
             "title": "Trump Blasts Romney, Bush; Says GOP Has 'Nobody Like Trump'",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "Russian figure skater tests positive for banned substance I ABCNL",
             "secondDuration": 288,
             "group": "group_7"
+        },
+        {
+            "videoId": "mpm9YsXttaw",
+            "title": "Carly Fiorina Acknowledges Fact-Checkers Were Right On '92 Percent' Claim",
+            "secondDuration": 376,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TfOZl4s_nu0",
-            "title": "Rick Santorum on His Political Track Record",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "7hcIpnqpS-Q",
             "title": "Capital Gazette's door 'had been blown to pieces': Eyewitness",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "After Hurricane Harvey, the long road to recovery begins",
             "secondDuration": 450,
             "group": "group_7"
+        },
+        {
+            "videoId": "uNA5o6563rk",
+            "title": "18-Wheeler Flips on Bridge",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

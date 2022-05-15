@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PRP6JWjmhk4",
-            "title": "U.S. Intel: Strong Indications of Explosion on EgyptAir Flight | NBC Nightly News",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "cff00MBTMzQ",
             "title": "GOP Senators Celebrate Tax Bill Passage | NBC News",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Looking Back: Trump’s Escalating War Of Words With Iran | NBC News NOW",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "FQ44a7x0AoU",
+            "title": "Growing Number Of Hospitals Sue Patients To Collect Debts | NBC Nightly News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

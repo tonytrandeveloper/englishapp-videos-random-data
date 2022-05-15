@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AHuQABPyYFo",
-            "title": "Bernie Sanders In A Minute",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZdqhWCMKMTc",
             "title": "Instant Index: Led Zeppelin Under Fire For the Opening of \"Stairway to Heaven\"",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Nationwide state of emergency declared in Ukraine l GMA",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "1yFrtTX5eD8",
+            "title": "Transgender Law Signed by NC Govenor",
+            "secondDuration": 24,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

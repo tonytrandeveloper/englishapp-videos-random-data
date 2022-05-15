@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KFKpcyDKLX4",
-            "title": "Malala Yousafzai Returns to School",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "lwLqShF8YAs",
             "title": "The World Mourns Nelson Mandela",
             "secondDuration": 281,
@@ -121,8 +115,14 @@
             "title": "Catastrophic Quake",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "JYolEg4O8JM",
+            "title": "Simone Biles pulls out of Olympic team gymnastics final",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

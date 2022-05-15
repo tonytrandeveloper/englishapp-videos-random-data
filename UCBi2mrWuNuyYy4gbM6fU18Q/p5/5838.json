@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZvMPcQzboMQ",
-            "title": "4-year-old shows off skills on the slopes l ABC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "_60knLlUmi8",
             "title": "Corporate landlord can be slow to fix problems and quick to threaten eviction: Critics",
             "secondDuration": 221,
@@ -31,8 +25,14 @@
             "title": "Exclusive: Juror No. 3 Speaks Out",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "yGEaYaUg1T8",
+            "title": "CDC director testifies on delay of coronavirus test kits as concerns grow | Nightline",
+            "secondDuration": 505,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

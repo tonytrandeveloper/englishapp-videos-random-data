@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lE7DQVZlO5U",
-            "title": "Pres. Trump addresses US policy on Afghanistan: Special Report",
-            "secondDuration": 1774,
-            "group": "group_7"
-        },
-        {
             "videoId": "CqnRE7sRZo0",
             "title": "'Making a Murderer' subject scores court win",
             "secondDuration": 247,
@@ -61,8 +55,14 @@
             "title": "'Bachelorette' Kaitlyn Bristowe, Fiance Shawn Talk Wedding Plans",
             "secondDuration": 361,
             "group": "group_7"
+        },
+        {
+            "videoId": "szVbfdxPsBs",
+            "title": "Romney Campaign Treats Donors Like Royalty",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

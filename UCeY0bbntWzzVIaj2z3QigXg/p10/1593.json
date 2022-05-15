@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NWluoaiZJKw",
-            "title": "Paris Attack Survivors Describe ‘Bloodbath’: 30 Minutes of Terror | NBC Nightly News",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "gt3P8E4nknM",
             "title": "Silent in Seattle: Thousands March In Quiet Support of Black Lives Matter | NBC News",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "Supreme Court Appears Skeptical Of NY Handgun Law",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qck4834HixM",
+            "title": "White House Responds to Pressure After Fallout from Trump Remarks",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

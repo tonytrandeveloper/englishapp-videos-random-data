@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xtxgHuFd3Ew",
-            "title": "COVID safety precautions ahead of baseball’s opening day",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "G9s89ezRNUI",
             "title": "8 killed in mass shooting at Indianapolis FedEx facility, suspect was former employee | Nightline",
             "secondDuration": 548,
@@ -61,8 +55,14 @@
             "title": "Investigation grows in death of beloved civil rights activist",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "isaDCXWEr3o",
+            "title": "Kevin Spacey posts bizarre tweet on the day he faces a felony charge",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

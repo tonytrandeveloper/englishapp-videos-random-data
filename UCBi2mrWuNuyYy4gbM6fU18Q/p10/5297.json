@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PdszHXn_fHY",
-            "title": "Paris Attacks: Dozens Dead, Hostage Situation Reported",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "pr4IbQiftU8",
             "title": "The Conversation: Can Wedding Couple",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Erin Andrews Awarded $55M Over Nude Video",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "DFlSNzanPXM",
+            "title": "Stephen Colbert 1997 'GMA' Report: Comedy Central Star Reports on Rube Goldberg Machine Competition",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

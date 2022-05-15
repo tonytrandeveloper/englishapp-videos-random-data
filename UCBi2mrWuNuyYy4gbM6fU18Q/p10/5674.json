@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eOI--yU_OMA",
-            "title": "Former relative of 'Golden State Killer' speaks out l ABC News",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "o7s6l5oD7NU",
             "title": "Putin, Russia’s economy under pressure as sanctions take hold",
             "secondDuration": 298,
@@ -61,8 +55,14 @@
             "title": "Ariana Grande to return to Manchester for concert",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "I-TnE9p2NKY",
+            "title": "‘Harlem Hellfighters’ honored as 1st Black WWI regiment",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NWYRDh59gwM",
-            "title": "Ex-Penn State fraternity brothers face new charges in hazing death",
-            "secondDuration": 420,
-            "group": "group_7"
-        },
-        {
             "videoId": "9RgbZ9NMa4w",
             "title": "Jeff Sessions testifies again before Congress",
             "secondDuration": 241,
@@ -61,8 +55,14 @@
             "title": "LIVE - Kyle Rittenhouse trial: Kenosha, WI shooting suspect faces homicide charges",
             "secondDuration": 34665,
             "group": "group_7"
+        },
+        {
+            "videoId": "NdaV8gYvgKE",
+            "title": "Remembering 'Batman' TV icon Adam West",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

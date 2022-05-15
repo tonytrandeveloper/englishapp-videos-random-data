@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YNAiqWJQ2Es",
-            "title": "Security breach revealed at JFK International Airport",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "e6KjC98VoqU",
             "title": "House cancels Thursday session after security threats",
             "secondDuration": 414,
@@ -31,8 +25,14 @@
             "title": "Germanwings French Alps Crash Investigation: Crucial New Clue Revealed",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "5prP4NeZdiY",
+            "title": "At least 4 injured in shooting at YouTube offices; suspect dead",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "efxrGcPkg3M",
-            "title": "Iowa Activists Encourage Latinos to Vote  | ABC News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "El78lR1nBB0",
             "title": "Students see 1st-of-its-kind 1st day of school",
             "secondDuration": 167,
@@ -31,8 +25,14 @@
             "title": "St. Louis’ 1st black prosecutor files lawsuit against city",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "_s5Da8TMipw",
+            "title": "George Zimmerman's New Run in With the Law",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

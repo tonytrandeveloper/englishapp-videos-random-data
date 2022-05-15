@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i-F9J_mE50g",
-            "title": "Terror Alert",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "_uKMzlzQ4Lw",
             "title": "House Democrats present articles of impeachment against Trump l ABC News",
             "secondDuration": 237,
@@ -31,8 +25,14 @@
             "title": "Dramatic rescue on Houston road captured in body camera video",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "vpva8PwSHmo",
+            "title": "COVID-19 vaccines recall decades of deception and pain for Black Americans",
+            "secondDuration": 598,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

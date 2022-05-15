@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "48c1PPKnCo8",
-            "title": "Zuckerberg: It's Not Right 'For Private Companies To Censor Politicians' | NBC News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "zvvDBwYlEU8",
             "title": "Lava From Kilauea Eruption Creates New Coastline In Hawaii | NBC News",
             "secondDuration": 60,
@@ -31,8 +25,14 @@
             "title": "Missing Brother And Sister Found Alive And Safe In Jacksonville | NBC Nightly News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "X8AJpqp6kks",
+            "title": "Alex Jones Confronts Senator Marco Rubio At Senate Hearing | NBC News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

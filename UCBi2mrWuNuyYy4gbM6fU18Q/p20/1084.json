@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5szdt04bJKQ",
-            "title": "Inside President Trump's First Days in the Oval Office | ABC News",
-            "secondDuration": 550,
-            "group": "group_7"
-        },
-        {
             "videoId": "kMC5enRoxe0",
             "title": "CENTCOM Leader is Confident ISIS ‘Will Be Defeated’",
             "secondDuration": 324,
@@ -121,8 +115,14 @@
             "title": "Robert Mueller's final report delivered to DOJ and attorney general",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "A-KBnBoYu_w",
+            "title": "Brand it Like David Beckham",
+            "secondDuration": 286,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

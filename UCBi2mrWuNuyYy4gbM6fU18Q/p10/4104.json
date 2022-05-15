@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IC07eDWe1OU",
-            "title": "Massive winter storms heads into the Northeast",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "6dzjVsKmaNw",
             "title": "Apple iPhone 7 Announcement",
             "secondDuration": 60,
@@ -61,8 +55,14 @@
             "title": "6.2 magnitude earthquake rattles Northern California",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "G5GDSljrKM0",
+            "title": "Most Offensive Halloween Costumes 2016",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

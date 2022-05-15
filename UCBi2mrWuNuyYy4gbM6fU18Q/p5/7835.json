@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UDMinFONNpo",
-            "title": "Capitol under siege",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "8ZoWHZkK3gk",
             "title": "New video released in fatal car crash involving Venus Williams",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "One Photographers Quest to Save Dogs in Shelters",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "yPiTmBFErfs",
+            "title": "Americans Consume Less Soda This Year: World News Instant Index",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-WtGi7H7yP8",
-            "title": "Disabled Girl Violently Subdued at Airport, Allegedly",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "lU3RIVyx5HA",
             "title": "Bill O'Reilly to leave Fox News",
             "secondDuration": 503,
@@ -61,8 +55,14 @@
             "title": "Protesters storm US Capitol",
             "secondDuration": 556,
             "group": "group_7"
+        },
+        {
+            "videoId": "e44eEyO6UvM",
+            "title": "Trump Presidential Election Sparks Protests",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

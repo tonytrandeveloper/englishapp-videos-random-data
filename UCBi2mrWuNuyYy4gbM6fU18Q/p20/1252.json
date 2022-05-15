@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ml2tGNpGCts",
-            "title": "Obama at Ground Zero",
-            "secondDuration": 369,
-            "group": "group_7"
-        },
-        {
             "videoId": "h2ystH6RCHs",
             "title": "Honoring Fallen Journalists",
             "secondDuration": 143,
@@ -121,8 +115,14 @@
             "title": "AG Barr LIVE testimony to congress for first time since delivering summary of Mueller report",
             "secondDuration": 9720,
             "group": "group_7"
+        },
+        {
+            "videoId": "dgNSjXZqAs0",
+            "title": "The Conversation: Women in the World Summit",
+            "secondDuration": 280,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

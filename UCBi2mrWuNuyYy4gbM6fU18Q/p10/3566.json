@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fl-OnTFHzG8",
-            "title": "Police body cameras capture aftermath of college party shooting: Part 2",
-            "secondDuration": 463,
-            "group": "group_7"
-        },
-        {
             "videoId": "JykxswGibjw",
             "title": "US secretary of education talks about forgiving student loans",
             "secondDuration": 365,
@@ -61,8 +55,14 @@
             "title": "Rocket explodes near oil facility in Iraq",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "xRiUuwQdxJU",
+            "title": "Family of fifth grader who died after a school fight demands answers",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GUIu0YC-Q5k",
-            "title": "By the Numbers: Colon cancer screenings should begin at age 45",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "SGjHMJsdcMA",
             "title": "Hurricane Zeta racing toward Gulf Coast",
             "secondDuration": 236,
@@ -121,8 +115,14 @@
             "title": "Robin Thicke Preemptively Fights Potential Copyright Claim",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "-3p8x70ytic",
+            "title": "What Year Was It?",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

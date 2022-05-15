@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ST4wXYICrfk",
-            "title": "Heat Wave Turns Deadly | NBC Nightly News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "R9xcykaqa6Q",
             "title": "Police Block Protesters From Leaving Manhattan Bridge In Hours-Long Standoff | NBC News NOW",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "ISIS Suspects In Custody After Blast Killed Four Americans At Syrian Restaurant | NBC Nightly News",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "2On6TTGdixc",
+            "title": "White House Covid Response Team Holds Briefing | NBC News",
+            "secondDuration": 2325,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

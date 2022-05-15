@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Sx0LeH16L8s",
-            "title": "ABC News Prime: CDC decision on J&J vaccine; Caitlyn Jenner's CA Gov. run; SpaceX's close call",
-            "secondDuration": 5441,
-            "group": "group_7"
-        },
-        {
             "videoId": "wuuzo4VpReI",
             "title": "Dwarfism Patient Surgeries Lengthens Arms, Legs: Tiffanie DiDonato Releases Memoir",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "Muhammad Ali's Battle with Parkinson's | New Details Emerge",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "mp1Zn0eweaI",
+            "title": "Facebook Live Torture Video  | 4 Teens Face Charges",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

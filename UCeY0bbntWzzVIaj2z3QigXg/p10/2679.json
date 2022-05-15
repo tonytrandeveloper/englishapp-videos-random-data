@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0XbHGcJqyrM",
-            "title": "See Footage Of New York City's Flash Flood Emergency",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "5g3ODJU3_zw",
             "title": "Boys From Mozambique Orphanage Found Each Other a World Away in U.S. | NBC Nightly News",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Donald Trump's Campaign Faces Its First Real Test in Iowa | NBC Nightly News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "wi9TVPA6k2s",
+            "title": "Live: New York Governor Andrew Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3368,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

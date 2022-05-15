@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OMDDyFpspKQ",
-            "title": "Meet The Press Broadcast (Full) - May 16th, 2021 | Meet The Press | MSNBC",
-            "secondDuration": 2852,
-            "group": "group_7"
-        },
-        {
             "videoId": "xhdX4moR8vQ",
             "title": "Civil Rights Activists 'Friendship Nine' Exonerated | NBC Nightly News",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Witness Describes 'Shimmy' Knee-On-Neck Move Designed To Cut Off Airflow | NBC News NOW",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "RXXHwrbcs3w",
+            "title": "How One Utah County Is Preparing Teachers For A Life-Or-Death Confrontation | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

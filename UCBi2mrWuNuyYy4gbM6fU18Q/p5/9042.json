@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "F6Hzwvvk2M0",
-            "title": "Record Alligator Caught at Mississippi Gator Hunt",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "hkOVwqOJskM",
             "title": "New saliva test authorized for COVID-19 | ABC News",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Forensics used in prosecutions can be 'junk science': Innocence Project lawyer",
             "secondDuration": 340,
             "group": "group_7"
+        },
+        {
+            "videoId": "LGfCtnuNUzw",
+            "title": "GOP Presidential Hopefuls Recover from Debate",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

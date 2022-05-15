@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KveCLp1a1Vw",
-            "title": "U.S. Gas Prices Fall Below $2 a Gallon for First Time in Six Years | NBC Nightly News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "qtITywCjaSs",
             "title": "Tornado Hits New Orleans And Leaves Destruction In Its Wake | NBC News",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Facebook Reveals Security Breach Affects Up To 50 Million Accounts | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "TR5j5tW4jno",
+            "title": "Space Shuttle Challenger Disaster | Flashback | NBC News",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-cV3bWwYiCg",
-            "title": "Girl Furious At Sun for Going Down",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "rvJ734ak54c",
             "title": "Hillary Clinton delivers Wellesley College commencement address at her alma mater",
             "secondDuration": 1919,
@@ -61,8 +55,14 @@
             "title": "What is a ‘no fly' zone?",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "j6J3y5HAueU",
+            "title": "Nancy Pelosi touts Democrats' social spending plan after Biden addresses nation",
+            "secondDuration": 558,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "N501ag52M9g",
-            "title": "Bernie Sanders Says He'll Push On To Democratic Convention | NBC News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "8jjy9muCPYg",
             "title": "Mexican Authorities Investigating Whether Drone Crashed Into Aeromexico Flight | NBC Nightly News",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Hurricane Irma: More Than Half A Million On Georgia Coast Evacuate | NBC Nightly News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "lPHWBKzqXc4",
+            "title": "Staggering Number Of Fires Ravaging Amazon Rainforest | NBC Nightly News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

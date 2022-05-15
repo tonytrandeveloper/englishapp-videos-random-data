@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aDrDYLM903g",
-            "title": "Instant Index: Burt Reynolds Sent to Hospital With Flu",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "K3Ni5TDhtiw",
             "title": "Secret Service: 2 Agents Involved in Alleged Drunk Driving Incident",
             "secondDuration": 138,
@@ -121,8 +115,14 @@
             "title": "Top Line: Will Obama's Debt Commission Work?",
             "secondDuration": 486,
             "group": "group_7"
+        },
+        {
+            "videoId": "QqO5WRfSFks",
+            "title": "Prayer With A Punch",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

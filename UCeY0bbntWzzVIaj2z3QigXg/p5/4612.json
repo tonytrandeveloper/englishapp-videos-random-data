@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eKRooYMjxsA",
-            "title": "Olympic Athletes Address Climate Change While Quarantined At Home | NBC News NOW",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "O5TBycnLVuo",
             "title": "'Having Trump Endorsement A Delight': Mitt Romney Takes On Trump | Flashback | NBC News",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Trump Deploys National Guard To Help States Respond To The Coronavirus | NBC News",
             "secondDuration": 318,
             "group": "group_7"
+        },
+        {
+            "videoId": "nsWmzyYaMew",
+            "title": "State Department, Pentagon Briefings Amid Taliban Takeover Of Afghanistan",
+            "secondDuration": 2626,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ht7hESAjujI",
-            "title": "America’s growing hunger crisis",
-            "secondDuration": 436,
-            "group": "group_7"
-        },
-        {
             "videoId": "EDghG_KJDSQ",
             "title": "Brooklyn man found guilty in 2003 killing of student after house party: Part 1",
             "secondDuration": 440,
@@ -61,8 +55,14 @@
             "title": "Gordon Ramsay Claims Restaurant Was Sabotaged by Rival",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "RxY_Z_nKPic",
+            "title": "Doomsday Clock Moves Closer to Midnight, in Part Because of Trump, Scientists Announce",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

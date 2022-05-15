@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g-qOB2fCAq0",
-            "title": "President Donald Trump Dials Back Fears Of War Amid Mounting Tensions With Iran | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "y40hK_AgUUw",
             "title": "‘Sanctuary Cities’ Vow To Resist President Donald Trump, Despite Funding Threat | NBC Nightly News",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Spanish Royals Take Carriage Ride To Buckingham Palace On U.K. State Visit | NBC News",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "V_XcxsJSEvo",
+            "title": "COVID-19 Outbreak: 5 Cases Confirmed In The U.S. So Far | NBC Nightly News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

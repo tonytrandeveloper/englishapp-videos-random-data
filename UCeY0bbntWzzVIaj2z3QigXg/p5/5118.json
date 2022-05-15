@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0u6QB47Cy8o",
-            "title": "'American Identity' - Olympic Medalist Adam Rippon Traces His Family History",
-            "secondDuration": 764,
-            "group": "group_7"
-        },
-        {
             "videoId": "s5aB7gHfv8I",
             "title": "White House Holds Press Briefing: March 7 | NBC News",
             "secondDuration": 2548,
@@ -31,8 +25,14 @@
             "title": "Extended Interview: Jordan Peterson Discusses How The World Shapes His Views | NBC Nightly News",
             "secondDuration": 822,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q9nyx9AxkLM",
+            "title": "‘When The Towers Began To Collapse, The Entire Country Shuddered’",
+            "secondDuration": 264,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

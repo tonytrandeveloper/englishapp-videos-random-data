@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "t7gKYHKcoL8",
-            "title": "Taliban Hails ‘Emancipation’ Of Afghanistan In First Kabul News Conference",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "8eOfYcslcNE",
             "title": "President Donald Trump On The Ceasefire Agreement In Syria: 'So Far It's Working Out' | NBC News",
             "secondDuration": 165,
@@ -121,8 +115,14 @@
             "title": "World Health Assembly Applauds Nurses, Midwives As 'True Health Heroes' | NBC News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "8CqHhTKlfiA",
+            "title": "Trump Admin’s False Election Claims Could Result In Voter Suppression Efforts | NBC News NOW",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

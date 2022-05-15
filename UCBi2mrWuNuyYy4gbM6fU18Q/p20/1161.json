@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pneWAz3CvrM",
-            "title": "'This Week': Obamacare Deadline Day",
-            "secondDuration": 813,
-            "group": "group_7"
-        },
-        {
             "videoId": "a6humkQJubc",
             "title": "Etan Patz Suspect Arrested, Pedro Hernandez Says He Lured Boy to Bodega Basement With Soda",
             "secondDuration": 152,
@@ -121,8 +115,14 @@
             "title": "Derek Jeter Wins Last Game at Yankee Stadium",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "yhSdTBNSVC0",
+            "title": "Can Hillary Clinton Avoid 2008 Mistakes?",
+            "secondDuration": 338,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

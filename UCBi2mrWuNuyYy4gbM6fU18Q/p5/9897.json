@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QYAqlRsTDSU",
-            "title": "Trump Family Arrives in Washington",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "tM1ccbZmuHA",
             "title": "Vittorio Missoni's Plane Vanishes Off Coast of Venezuela",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "In Memoriam: Some of those lost to COVID-19 this week | ABC News",
             "secondDuration": 225,
             "group": "group_7"
+        },
+        {
+            "videoId": "g6A10fjV21k",
+            "title": "Extreme Winter Storm: Millions of Travelers Affected",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

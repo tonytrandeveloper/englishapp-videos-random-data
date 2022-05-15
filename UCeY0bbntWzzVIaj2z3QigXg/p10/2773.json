@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fKBudBXEJog",
-            "title": "New York Gov. Andrew Cuomo Holds Covid-19 Briefing | NBC News",
-            "secondDuration": 2477,
-            "group": "group_7"
-        },
-        {
             "videoId": "emu35vuCg6w",
             "title": "Living Room Cleaning Tips From Good Housekeeping's Meaghan Murphy | Better | NBC News",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Hong Kong Supermarkets Stripped Bare As Concerns Grow Over Covid Lockdown",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "2HovXQWwID8",
+            "title": "Ranita Ramotar: 'For student success, it takes...'",
+            "secondDuration": 11,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

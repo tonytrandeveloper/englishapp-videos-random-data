@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aahXFJRJQyY",
-            "title": "What 20 Years Of Improv Taught Actor Eugene Cordero | Break Shot | NBC Asian America",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "2qlVGlxskZ4",
             "title": "After Devastating Mudslides, Californians Search For The Missing | NBC Nightly News",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "NBC News Exclusive: Ethiopian Airlines CEO On The Future Of Boeing MAX Planes | NBC Nightly News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "7Y7VBHVBRQU",
+            "title": "Understanding The Mueller Report | NBC News Now",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

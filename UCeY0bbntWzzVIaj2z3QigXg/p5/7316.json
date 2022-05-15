@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lugEOHTo2tQ",
-            "title": "Donald Trump and Hillary Clinton Spar Over ISIS | NBC News",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "gBmAuuQdc0c",
             "title": "Las Vegas Police: We Don’t Know Why Shooter Committed This Act | NBC News",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Dia Simms, President Of Combs Enterprises, On Leadership | NBC News",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "9arHVC15LHw",
+            "title": "Senator Rand Paul: 'Unfair' To Call President Trump A Racist (Full) | Meet The Press | NBC News",
+            "secondDuration": 514,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

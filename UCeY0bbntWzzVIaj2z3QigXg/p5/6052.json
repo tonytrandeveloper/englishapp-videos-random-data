@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tvkkjrwyWRA",
-            "title": "President Trump Pledges ‘Promise Of Freedom’ At African-American History Museum | NBC News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "oV6Z2SaTLWI",
             "title": "Flu Emergency: How Do You Tell A Cold From The Flu? | NBC Nightly News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Panel: Previous Presidents Didn’t Jump Into Primaries Like Trump (Full) | Meet The Press | NBC News",
             "secondDuration": 578,
             "group": "group_7"
+        },
+        {
+            "videoId": "n1iZPAny3ys",
+            "title": "Northeast Recovers From Blizzard Aftermath",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

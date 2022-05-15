@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "K0SVMxl0EVY",
-            "title": "Biden announces plan to increase meat processing industry",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "zi-twsqcKoI",
             "title": "Red Sox fans damage World Series trophy",
             "secondDuration": 125,
@@ -121,8 +115,14 @@
             "title": "‘Can’t throw more money at a broken system’: Rep. Tlaib on border funding",
             "secondDuration": 504,
             "group": "group_7"
+        },
+        {
+            "videoId": "dZLhFrgmpD4",
+            "title": "Police search for a possible serial arsonist in Washington state",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

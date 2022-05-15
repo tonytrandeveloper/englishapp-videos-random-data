@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fhC7azb53ag",
-            "title": "Coronavirus Researchers Report Progress In Race For Vaccine | NBC Nightly News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jr8pKh2TcOc",
             "title": "Into Defunding the LAPD | Into America Podcast – Ep. 27 | NBC News and MSNBC",
             "secondDuration": 1790,
@@ -31,8 +25,14 @@
             "title": "Barr Speaks On Jan. 6 Capitol Riot, Looks Ahead To Next Presidential Election",
             "secondDuration": 419,
             "group": "group_7"
+        },
+        {
+            "videoId": "8tONvzvggd8",
+            "title": "Nightly News Full Broadcast - October 7th",
+            "secondDuration": 1283,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

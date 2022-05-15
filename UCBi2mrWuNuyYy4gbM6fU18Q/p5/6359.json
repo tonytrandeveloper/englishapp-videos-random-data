@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1nI9FckF9OY",
-            "title": "President Trump addresses media in The Oval Office  | ABC News",
-            "secondDuration": 1691,
-            "group": "group_7"
-        },
-        {
             "videoId": "7n3NgD1_6EA",
             "title": "Experts on how Breonna Taylor’s case may affect future police shooting cases: Part 2 | Nightline",
             "secondDuration": 383,
@@ -31,8 +25,14 @@
             "title": "20 Female Senators Sworn in on Capitol Hill",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "ytdjWD4PooA",
+            "title": "Lion and dog, Wimbledon and Tropical Storm Elsa: World in Photos, July 6",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

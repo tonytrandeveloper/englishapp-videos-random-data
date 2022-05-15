@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-pbIwXbAMzg",
-            "title": "'This Week' Web Extra: George Will Answers Viewer Questions",
-            "secondDuration": 380,
-            "group": "group_7"
-        },
-        {
             "videoId": "kufDw1hxyxY",
             "title": "Teachers Across the Country Who Get Kids Excited About Returning to School",
             "secondDuration": 110,
@@ -121,8 +115,14 @@
             "title": "Health Officials warn of danger from more contagious variants | ABC News",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "a26w4v19wyM",
+            "title": "WATCH LIVE: ABC News Live Prime: 2020 race, Coronavirus updates, Trump pardons, Daytona crash",
+            "secondDuration": 3593,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

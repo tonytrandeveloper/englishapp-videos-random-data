@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iB8cceUAGGo",
-            "title": "U.K. Prime Minister Boris Johnson Announces Second National Lockdown | NBC News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "_UBlUO_0eRs",
             "title": "President Trump Announces Privatized And Modernized Air Traffic Reforms | NBC News",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "‘We Will Remember That Name’: Community Honors Marine Killed In Afghanistan",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "CLeRXc_RPQ4",
+            "title": "Scientist Claims They Can Use COVID-19 Symptoms To Categorize Severity Of Infection | NBC News NOW",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

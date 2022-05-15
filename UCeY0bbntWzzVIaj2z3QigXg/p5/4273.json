@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zfbPbIhAhQ0",
-            "title": "Hillary Clinton Addresses State Department Emails | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "zm3iRvKb3Rk",
             "title": "NFL Star Malcolm Jenkins Speaks Out About Bringing Social Issues Into Football | NBC Nightly News",
             "secondDuration": 198,
@@ -31,8 +25,14 @@
             "title": "Students Call For Action After Florida School Mass Shooting | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "EH_lcKPNL24",
+            "title": "We Have Liftoff: Advancing Medicine On Earth Through Research On Space",
+            "secondDuration": 1359,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

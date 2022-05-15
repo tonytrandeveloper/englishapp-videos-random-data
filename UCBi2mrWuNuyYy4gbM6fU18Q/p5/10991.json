@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iAnky1mC9rk",
-            "title": "The Rundown: Top headlines today: Dec. 23, 2020",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "htK2L0kNV34",
             "title": "Mysterious Death at Cirque Du Soleil",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "Louisiana nurses race into action",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "6_9Jm8HqNAw",
+            "title": "Houston mother makes 3-month road to recovery from COVID-19",
+            "secondDuration": 296,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

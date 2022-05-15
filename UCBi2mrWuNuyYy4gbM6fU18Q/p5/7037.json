@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4TPYxUxHmHI",
-            "title": "Homeland Security Secretary John Kelly Defends Travel Ban",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "NOY1crMNSA0",
             "title": "Evictions on the rise",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "When Eating Healthy Makes You Sick",
             "secondDuration": 385,
             "group": "group_7"
+        },
+        {
+            "videoId": "XmN9FFLLUyA",
+            "title": "Tracy Morgan Performs for Hospital Staff Who Saved His Life",
+            "secondDuration": 26,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

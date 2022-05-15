@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oQeI3o8QTAM",
-            "title": "Benjamin Netanyahu Rejects Allegations Of Corruption | NBC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "7NjUovAE87s",
             "title": "Nearly 100 Workers Test Positive For Coronavirus At Minnesota Amazon Warehouse | NBC Nightly News",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Beyond The Letter Of The Law: How Algorithms Are Changing The Legal World | Mach | NBC News",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "PccLJNVVpek",
+            "title": "Police Update On Shooting At Naval Air Station Pensacola | NBC News (Live Stream Recording)",
+            "secondDuration": 903,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

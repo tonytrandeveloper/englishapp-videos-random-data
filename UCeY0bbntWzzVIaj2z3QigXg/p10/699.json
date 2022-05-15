@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Nrbft6MWPBw",
-            "title": "Mortgage Refinancing Applications Surge Thanks To Low Interest Rates | NBC Nightly News",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "5BfvF89BUQE",
             "title": "Police Release Video of Baby Playing With Handgun | NBC News",
             "secondDuration": 34,
@@ -61,8 +55,14 @@
             "title": "Cambridge Analytica Harvested Millions Of Facebook Users' Data During Election | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZedRGXCMO38",
+            "title": "Could This Chinese Satellite Station Be Used To Spy On The U.S.? | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

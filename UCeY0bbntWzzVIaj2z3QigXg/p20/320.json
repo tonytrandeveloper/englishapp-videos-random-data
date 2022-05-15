@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gvGwHyQrBts",
-            "title": "Donald Trump Touts Small Business Action With Alibaba’s Jack Ma | NBC News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "qfmtyPW-s58",
             "title": "Oklahoma Teachers Continue Walk-Out At State's Capitol | NBC News",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "After Decades Of Hype About Automation, Our Homes Are Finally Getting Smart | Mach | NBC News",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "8G0aWseOaXo",
+            "title": "Deadly Firefight At Kabul Airport Amid Evacuations",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ompVyUmNr-4",
-            "title": "Study: Medical Marijuana Helps Children Who Have Seizures | NBC Nightly News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "WuPqbQI5tlI",
             "title": "Immigration Policy Uncertainty Negatively Affecting Latino Families | NBC Nightly News",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Amal Clooney Criticizes World Response To Yazidi Genocide | NBC News",
             "secondDuration": 500,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ia0La0J3HlI",
+            "title": "Trump: White House Is 'Fighting All The Subpoenas' As Democrats Vow To Push Back | NBC Nightly News",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

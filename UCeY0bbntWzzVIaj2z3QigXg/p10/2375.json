@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X8PKOCBW4KI",
-            "title": "See How This 7-Year-Old Is Moving Others With His Dance Moves | Nightly News: Kids Edition",
-            "secondDuration": 813,
-            "group": "group_7"
-        },
-        {
             "videoId": "q2vSD8joLsk",
             "title": "NYC Mayor Bill de Blasio Briefing On Coronavirus, George Floyd Protests | NBC News",
             "secondDuration": 3669,
@@ -61,8 +55,14 @@
             "title": "Senator John McCain Comes Out Against GOP Health Care Bill, Putting Plan In Peril | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "a1HSHpl0ilk",
+            "title": "Watch Live: Donald Trump Meets With North Dakota State University Bison Football Team | NBC News",
+            "secondDuration": 5384,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

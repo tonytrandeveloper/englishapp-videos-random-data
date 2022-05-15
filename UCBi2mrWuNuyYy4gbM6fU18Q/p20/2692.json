@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Y2zzh41GxbQ",
-            "title": "General John Allen's Relationship With Jill Kelley",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "KGx6kBLkZyA",
             "title": "'Dancing With the Stars' Season 13 Week 2: Ralph Macchio Picks Best, Worst Performances",
             "secondDuration": 235,
@@ -121,8 +115,14 @@
             "title": "Leader of Iran's elite Quds Force killed in airstrike near Baghdad airport",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "ylo-rHaqxmM",
+            "title": "ABC News Prime: Rittenhouse Trial closing arguments, Bannon defiant, Biden Signs infrastructure bill",
+            "secondDuration": 5248,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

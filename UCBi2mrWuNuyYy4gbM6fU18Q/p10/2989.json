@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-XTS3DHDfvU",
-            "title": "Flash flooding hits towns from Texas to Pennsylvania",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "NjubqA_oOa0",
             "title": "Flames shoot out from car on the highway",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Sen. Richard Burr questions James Comey",
             "secondDuration": 699,
             "group": "group_7"
+        },
+        {
+            "videoId": "nUk2iHpugOM",
+            "title": "FRIDAY FUNNIES",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

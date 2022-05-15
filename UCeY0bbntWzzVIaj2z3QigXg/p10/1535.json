@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nWFYvUENcas",
-            "title": "This Morning’s Top Headlines – Jan. 4 | Morning News NOW",
-            "secondDuration": 1531,
-            "group": "group_7"
-        },
-        {
             "videoId": "wRbItPozRAE",
             "title": "Fatal Collision: Four Killed After Duck Boat and Tour Bus Collide in Seattle | NBC Nightly News",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "White House Press Briefing - September 15, 2017 | NBC News",
             "secondDuration": 2169,
             "group": "group_7"
+        },
+        {
+            "videoId": "NUicikdGZkE",
+            "title": "Arizona County Receiving About 100,000 Early Ballots Per Day | NBC News NOW",
+            "secondDuration": 671,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZnTexn-WpAU",
-            "title": "Brass Ceiling: Dallas Has Three Women In Top Law Enforcement Jobs | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "7WcB_E0GOXM",
             "title": "Officials Give Timeline Of Jersey City Shooting | NBC News",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Why Doctors Should Know Your Drinking Habits | Archives | NBC News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "LyZSAQHzss8",
+            "title": "How Spell-Check Algorithms Detect Typos | Mach | NBC News",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8TKptzMX3fU",
-            "title": "Watch: Biden Delivers Remarks In Philadelphia | NBC News",
-            "secondDuration": 1674,
-            "group": "group_7"
-        },
-        {
             "videoId": "9JWG3P7D97g",
             "title": "Timeline: How Coronavirus Spread Through The Trump Administration | NBC News NOW",
             "secondDuration": 321,
@@ -31,8 +25,14 @@
             "title": "Parents Reveal What They Learned From The Class Of 2020 For Virtual Graduation Special | NBC News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "losuIJPSzxg",
+            "title": "U.S. Hospitals See Growing Wave Of Coronavirus Patients | NBC Nightly News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

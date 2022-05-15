@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nBxSBb1UiR4",
-            "title": "Live: Trump Holds News Conference At The White House | NBC News",
-            "secondDuration": 2715,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q8AWlFYtNxA",
             "title": "DEA Says 'Vast Majority' Of Drugs Entering U.S. Come Through Legal Ports Of Entry | NBC News",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Ross Perot, Former Presidential Candidate, Dead At 89 | NBC Nightly News",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "ar7fxf5pTnQ",
+            "title": "Authorities 'Quite Certain' Body Recovered Is Of Missing Colorado Woman | NBC News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

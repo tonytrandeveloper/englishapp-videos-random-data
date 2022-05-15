@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Nosl-CiDqGo",
-            "title": "WEBCAST: British Royals Wrap Up NYC Visit",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "9C_OHU6zgAY",
             "title": "Authorities seek public’s help as mom of missing Idaho kids faces judge l ABC News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Freed After 40 Years in Prison",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "w_iLjWLFhTc",
+            "title": "High Praise for Chile's Leader as Miners Rescued",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nsInZb7q1JU",
-            "title": "Betsy DeVos Stresses Open Dialogue, Pokes Fun At ‘Grizzly’ Testimony | NBC News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "mNhMy2V_Vbs",
             "title": "Good Samaritan Returned $273 Million Ticket To New Jersey Lotto Winner | NBC Nightly News",
             "secondDuration": 77,
@@ -31,8 +25,14 @@
             "title": "Mueller Report: No Trump-Russia Conspiracy Raises Ques Over Obstruction Of CJ | NBC Nightly News",
             "secondDuration": 336,
             "group": "group_7"
+        },
+        {
+            "videoId": "sGaPPJZczhQ",
+            "title": "Ferguson Elects First Black Mayor Nearly 6 Years After Michael Brown's Death | NBC News NOW",
+            "secondDuration": 660,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

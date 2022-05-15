@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CfUkUGAGC5w",
-            "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2949,
-            "group": "group_7"
-        },
-        {
             "videoId": "V2okiA9EXnM",
             "title": "Drone Visuals Capture Notre Dame Fire Devastation | NBC News",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "No Plan In Place To Reunite Separated Families After Donald Trump Executive Order | NBC Nightly News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "VVHgcZRrrpc",
+            "title": "Joe Biden Under Pressure To Address Sexual Assault Accusation | NBC Nightly News",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nnK__XXsDws",
-            "title": "North Korea launches another intercontinental ballistic missile",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "2i7AuB7JxPg",
             "title": "Grammys 2011, Lady Gaga was 'Born This Way' from an Egg",
             "secondDuration": 45,
@@ -31,8 +25,14 @@
             "title": "6.2 magnitude earthquake rattles Northern California",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "G5GDSljrKM0",
+            "title": "Most Offensive Halloween Costumes 2016",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

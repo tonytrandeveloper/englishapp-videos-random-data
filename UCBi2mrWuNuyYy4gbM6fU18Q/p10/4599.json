@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m25q2_RXyp8",
-            "title": "Road Rage Epidemic",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "6EQpaCO3oSU",
             "title": "Model Accused of Killing Husband Fights for Her Stepchildren",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Colorado Wildfire on the Move",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "uoo97HBFBQ4",
+            "title": "Racism Charges at Swim Club",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

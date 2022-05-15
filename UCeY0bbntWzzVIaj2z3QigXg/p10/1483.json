@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iapD0X-bfCA",
-            "title": "Trying To Forget An Ex? How Memory Manipulation From 'Eternal Sunshine' Might Work | Mach | NBC News",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "jdh2a57WVWc",
             "title": "Veterans Speak Out About Fight To Claim VA Benefits After Military Sexual Assault | NBC Nightly News",
             "secondDuration": 199,
@@ -61,8 +55,14 @@
             "title": "Arizona Governor Sends National Guard To Southern Border | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "uNI1VNpdzN8",
+            "title": "Trump: 'We Will Be Terminating The Payroll Tax After I Hopefully Get Elected’ | NBC News NOW",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

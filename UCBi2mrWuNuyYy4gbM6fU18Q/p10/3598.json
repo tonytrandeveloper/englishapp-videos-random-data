@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NlgamJDgEgA",
-            "title": "Barack Obama Re-Elected President",
-            "secondDuration": 623,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bmoapwdd7rY",
             "title": "Kurt Cobain's Daughter Frances Seeks to Protect Inheritance in Divorce",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "FDA expected to authorize booster shots for all adults",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "RuFs0MOCH1k",
+            "title": "7 Best Lines from 2015 Golden Globe Speeches",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

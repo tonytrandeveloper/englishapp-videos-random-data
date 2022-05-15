@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Kxo6ftKehf8",
-            "title": "NBC News NOW Full Broadcast - May 21st, 2021",
-            "secondDuration": 3062,
-            "group": "group_7"
-        },
-        {
             "videoId": "dVFIrQ8CoCI",
             "title": "Huawei Executive Wanted By U.S. Dodges Reporters' Questions After Bail In Vancouver | NBC News",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "Father, Step-Mother Of Missing 7-Year-Old Harmony Montgomery Arrested",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "RlRZ175bK2g",
+            "title": "Person Of Interest In Deadly D.C. Fire Mystery | NBC Nightly News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

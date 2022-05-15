@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6tEwiImxaBo",
-            "title": "Terrorist Attack on American Embassy in Turkey",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bu7yXvPEmJw",
             "title": "Blake Lively, Ryan Reynolds' 2nd Child is Born",
             "secondDuration": 224,
@@ -31,8 +25,14 @@
             "title": "Dalia Dippolito Murder-For Hire Re-trail Underway in Florida",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "sfDl7NTrzb0",
+            "title": "Two dead and another injured after a stabbing on an Oregon light-rail train",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jLLsazAWRNc",
-            "title": "Rare Look Inside Hamas Tunnels | NBC News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "556k39ObAOg",
             "title": "Mecca Enters Ramadan With Holy Sites Closed To Visitors Because Of COVID-19 | NBC News",
             "secondDuration": 71,
@@ -61,8 +55,14 @@
             "title": "Donald Trump DC Hotel Arrest: Suspect Had Guns In Car, Police Say | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "4ePcmJlVZyI",
+            "title": "Trump Campaign Threatens WI Recount, Files Lawsuits In Michigan And Pennsylvania | NBC Nightly News",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

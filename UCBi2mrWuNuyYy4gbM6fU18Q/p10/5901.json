@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "39ANV78erOc",
-            "title": "Emergency room doctor on reopening and the new CDC guidelines for vaccinated people",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "L4-JzgNZav8",
             "title": "The Conversation: Nick Bilton Explains the Future",
             "secondDuration": 280,
@@ -61,8 +55,14 @@
             "title": "Taken  l 20/20 l PART 5",
             "secondDuration": 489,
             "group": "group_7"
+        },
+        {
+            "videoId": "28ORbJKa4LA",
+            "title": "Hamas Attacks Israel After Accepting Cease-Fire",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

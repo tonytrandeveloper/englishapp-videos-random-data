@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VSKcu8jsr7Q",
-            "title": "Bernie Sanders announces 2020 presidential run",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "ecrNq5iPzqA",
             "title": "Attack at the Louvre Officially Announced as Terrorism",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Rare blue diamond expected to fetch $48M",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "gUFheJMQYCM",
+            "title": "Solar Eclipse in South America 2019: Slooh coverage on ABC News Live",
+            "secondDuration": 3411,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

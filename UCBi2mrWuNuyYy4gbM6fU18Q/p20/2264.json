@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tLnJYhKErqY",
-            "title": "Snowboarder Catches Avalanche on Camera",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "iqB6qf7evww",
             "title": "Hunter Biden speaks out, Trump imposes sanctions on Turkey, Barcelona protests| ABC News",
             "secondDuration": 1892,
@@ -121,8 +115,14 @@
             "title": "NYPD's Stop-and-Frisk: Racial Profiling or 'Proactive Policing'?",
             "secondDuration": 627,
             "group": "group_7"
+        },
+        {
+            "videoId": "nKwJnZi_oEA",
+            "title": "How the UN is helping refugees from Ukraine",
+            "secondDuration": 347,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bMgVFHl0pDc",
-            "title": "Trump Picks EPA Critic Scott Pruitt to Head EPA",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "SNj_dPmrh9c",
             "title": "Plane from Dubai quarantined at JFK due to sick passengers",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Trump impeached, shooting in Russia  | ABC News",
             "secondDuration": 1458,
             "group": "group_7"
+        },
+        {
+            "videoId": "6YNW9pmAtak",
+            "title": "New York state reports its first 2 fatalities",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

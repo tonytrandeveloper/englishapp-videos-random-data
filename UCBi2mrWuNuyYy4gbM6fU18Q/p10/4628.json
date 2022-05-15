@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kMmu1xoBhZ8",
-            "title": "Chicago Teachers' Strike: Public Schools vs. Charter Schools",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "zrZtE90MJAo",
             "title": "Los Angeles passes sweeping vaccine mandate",
             "secondDuration": 294,
@@ -61,8 +55,14 @@
             "title": "President Trump hosts German Chancellor Angela Merkel",
             "secondDuration": 265,
             "group": "group_7"
+        },
+        {
+            "videoId": "_O6rpyeVwjg",
+            "title": "New warning on gift card scams amid holiday rush",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

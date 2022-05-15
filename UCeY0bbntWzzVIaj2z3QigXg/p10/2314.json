@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eyomA07QevU",
-            "title": "Trump Refuses To Participate In Virtual Presidential Debate | NBC Nightly News",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pv_Scyseqk8",
             "title": "Stock Market Plunges As China Strikes Back Against U.S. Tariffs | NBC Nightly News",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Skydiver Suffers Seizure In Midair | NBC News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "8MO-tE8T-YQ",
+            "title": "Pence Addresses Protests In Kenosha: 'Rioting And Looting Is Not Peaceful Protest' | NBC News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

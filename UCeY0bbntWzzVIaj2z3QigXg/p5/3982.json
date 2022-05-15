@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3VL3T-Wyb1U",
-            "title": "Global Response to Covid-19 Crisis in India | NBC Nightly News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "S5zTtYtesew",
             "title": "British Parliament Overwhelmingly Rejects Theresa May’s Brexit Deal | NBC Nightly News",
             "secondDuration": 64,
@@ -31,8 +25,14 @@
             "title": "Top Story with Tom Llamas - Jan. 26 | NBC News NOW",
             "secondDuration": 3104,
             "group": "group_7"
+        },
+        {
+            "videoId": "5IDr1hWsgdc",
+            "title": "Full Stacey Abrams: ‘We Have Seen Unprecedented Turnout In This Race’ | Meet The Press | NBC News",
+            "secondDuration": 476,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

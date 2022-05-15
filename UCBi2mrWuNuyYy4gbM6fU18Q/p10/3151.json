@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x3KFmerq6q8",
-            "title": "Spying at Rutgers: Hate Crime?",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "5aRnxab8on0",
             "title": "By the Numbers: Single women losing ground in economy",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "Mistrial in the case of Univ. of Cincinnati officer accused of killing an unarmed black motorist",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "w3DuI3RUrwU",
+            "title": "ABC News Live: Fallout after US withdrawal from Afghanistan | ABC News",
+            "secondDuration": 4484,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

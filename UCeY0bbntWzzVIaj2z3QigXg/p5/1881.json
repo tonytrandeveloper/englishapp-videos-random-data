@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bSMogTE5m0Q",
-            "title": "NOW Tonight with Joshua Johnson - April 14 | NBC News NOW",
-            "secondDuration": 3107,
-            "group": "group_7"
-        },
-        {
             "videoId": "pxKqxcOPfG8",
             "title": "2 Students, 1 Teacher Injured In S.C. School Shooting, Teen In Custody | NBC Nightly News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Facebook Uncovers Apparent New Efforts To Influence U.S. Elections | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "0jKodaa2hxU",
+            "title": "Man Shot By Kyle Rittenhouse Testifies In Second Week Of Trial",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

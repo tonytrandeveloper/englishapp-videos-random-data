@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aUmn2j5Tmgw",
-            "title": "One-on-one with 2020 Democratic presidential candidate Steve Bullock",
-            "secondDuration": 362,
-            "group": "group_7"
-        },
-        {
             "videoId": "bbCaudoSjwU",
             "title": "Simon Cowell Affair: Ex 'American Idol' Judge Reportedly Fathered Child With Friend's Wife",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "R.J. Cutler on Working With Cheney, Wintour: 'This Week' Web Extra",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "MK_QEdyJGsQ",
+            "title": "Brad Paisley, Kimberly Williams-Paisley, Others Hit With Cruel Hoax",
+            "secondDuration": 959,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

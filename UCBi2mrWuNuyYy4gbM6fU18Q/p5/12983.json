@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Xg8t2jfi70s",
-            "title": "Natalie Portman, Melissa Leo Take Home Oscar Gold (02.28.11)",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "XHs6WGkhEyY",
             "title": "Mirror, Mirror Off the Wall, a Year Without Reflection",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "Sister Soldiers: Women Ready for Frontline Combat?",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "zHEQuVqLbGw",
+            "title": "Mom, step-dad open up about daughter's tragic murder by her own father",
+            "secondDuration": 615,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

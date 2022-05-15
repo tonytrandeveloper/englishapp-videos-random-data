@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pHuV1g-hbSg",
-            "title": "Biden Calls On Private Companies 'To Step Up With Vaccine Requirements'",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "vXMty3gCF1w",
             "title": "Biden Delivers Remarks On His Build Back Better Agenda | NBC News",
             "secondDuration": 1770,
@@ -61,8 +55,14 @@
             "title": "Vindman: ‘Decision Was Made On The Fly’ To Move Ukraine Call Record To Secure System | NBC News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "UHLKkgWZza0",
+            "title": "U.S. Added 194,000 Jobs In September, Unemployment Rate Down",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

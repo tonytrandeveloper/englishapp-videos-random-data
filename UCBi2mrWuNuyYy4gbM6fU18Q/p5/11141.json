@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aEGEnbOndJk",
-            "title": "Feel-good Friday",
-            "secondDuration": 385,
-            "group": "group_7"
-        },
-        {
             "videoId": "xEkiyOyMjkQ",
             "title": "Second Presidential Debate Preview: Gov. Bob McDonnell: Romney's 'Warmth' Will Come Through",
             "secondDuration": 235,
@@ -31,8 +25,14 @@
             "title": "New Study Shows Popular Cosmetic Procedures Can Be Safe",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "_Xg1Dh2xhXg",
+            "title": "Kentucky Clerk Kim Davis Denies Same-Sex Marriage Lincense | ABC News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Cl25PeHjx34",
-            "title": "President Donald Trump Holds Joint Press Conference With Norwegian Leader | NBC News",
-            "secondDuration": 1659,
-            "group": "group_7"
-        },
-        {
             "videoId": "5H3k_CPuMXQ",
             "title": "Matt Lauer Plays Cards with Kim Kardashian",
             "secondDuration": 44,
@@ -31,8 +25,14 @@
             "title": "Parkland Students Discuss ‘New Normal’ After School Shooting | NBC News",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "UhvNJiIhR3I",
+            "title": "‘The Virus Must Be Slowed Down’: Macron Puts France Back Into Lockdown | NBC News NOW",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

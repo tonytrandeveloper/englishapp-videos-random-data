@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2cowDYYGuCQ",
-            "title": "Indianapolis Police Sergeant Facing Charges After Bodycam Shows Excessive Force",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "5-z2EGirzXc",
             "title": "Watch Full Coronavirus Coverage - May 12 | NBC News Now (Live Stream)",
             "secondDuration": 42900,
@@ -31,8 +25,14 @@
             "title": "LA Doctor Faces Life in Prison for Patients’ Overdose Deaths | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "vVMDDp4RaKs",
+            "title": "President Donald Trump Supporters Line Up To Watch Him Campaign For Ted Cruz | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Run6UA8zn5I",
-            "title": "Politico's Alex Isenstadt on 'Top Line'",
-            "secondDuration": 430,
-            "group": "group_7"
-        },
-        {
             "videoId": "Fgi3R1_2Ycg",
             "title": "Pimp Gives His Prostitutes V8 and Orange Juice",
             "secondDuration": 32,
@@ -31,8 +25,14 @@
             "title": "Bernie Sanders holds rally on Super Tuesday l ABC News",
             "secondDuration": 586,
             "group": "group_7"
+        },
+        {
+            "videoId": "OVDYMnuyUXY",
+            "title": "Las Vegas shooter's former co-worker speaks out",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

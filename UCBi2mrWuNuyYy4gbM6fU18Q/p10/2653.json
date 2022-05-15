@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3ChU-WGq7m8",
-            "title": "'This Week': Affirmative Action",
-            "secondDuration": 390,
-            "group": "group_7"
-        },
-        {
             "videoId": "S4j1dkxwsJM",
             "title": "Mary Barra Is  New CEO at General Motors",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Biden talks about 'unity agenda for the nation' during State of the Union",
             "secondDuration": 481,
             "group": "group_7"
+        },
+        {
+            "videoId": "2jx2V9hcPQA",
+            "title": "Top general in Middle East reassessing US position in region",
+            "secondDuration": 402,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

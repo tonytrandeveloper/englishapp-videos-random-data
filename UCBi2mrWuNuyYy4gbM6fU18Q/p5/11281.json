@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "k_qFYJKxSJU",
-            "title": "GOP Roll Call: Mitt Romney Wins Nomination",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "a6_8afcwmlY",
             "title": "Donald Trump Jr. talks anonymous op-ed, Russia investigation and midterms",
             "secondDuration": 336,
@@ -31,8 +25,14 @@
             "title": "Ohio College on Lockdown as Search Continues for Escapee",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "JuBhYG7km5E",
+            "title": "Super Bowl Gambling Goes Extreme",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

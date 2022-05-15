@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "C7Gw--6t3s4",
-            "title": "Watch Top Moments From The First Presidential Debate | NBC News",
-            "secondDuration": 289,
-            "group": "group_7"
-        },
-        {
             "videoId": "KmADQn074Gk",
             "title": "Vladimir Putin Gifts Donald Trump A World Cup Ball: ‘Now The Ball Is In Your Court’ | NBC News",
             "secondDuration": 64,
@@ -301,8 +295,14 @@
             "title": "Toddler Steals Prizes From Inside Arcade Game | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "z1ggwQXmLCs",
+            "title": "Amber Guyger Found Guilty Of Murder In Neighbor’s Shooting Death | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KMon21NlNq4",
-            "title": "Chicago Trauma: Psychological Wounds Go Beyond the Bloodshed | NBC News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "7oGofOuai1k",
             "title": "Fact Check: There Are No Magnets In Your Covid Vaccine",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "Biden Addresses National Association Of Counties | NBC News",
             "secondDuration": 1775,
             "group": "group_7"
+        },
+        {
+            "videoId": "QWdas66vo1w",
+            "title": "Zelenskyy Accuses Russia Of ‘Genocide’ After Ukraine Recaptures Kyiv Suburb",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2ZlZTj5Lh5Q",
-            "title": "Hackers Target CPA Computer Network | NBC Nightly News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "UPcuNr_D--I",
             "title": "Optimize Your Linkedin Profile With These Tips | 30 STK | NBC News",
             "secondDuration": 53,
@@ -61,8 +55,14 @@
             "title": "Senator Chuck Schumer Addresses Canceled White House Meeting On Senate Floor | NBC News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "X86jvARdfTM",
+            "title": "HHS Secretary Alex Azar Says Covid Vaccines May Start Being Distributed After Dec. 10 | NBC News NOW",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "layvM1Q3vE8",
-            "title": "Annapolis Authorities Update On Capital Gazette Shooting | NBC News",
-            "secondDuration": 356,
-            "group": "group_7"
-        },
-        {
             "videoId": "L1kYW3ftoCg",
             "title": "COVID-19 First Responders: 'A Matter Of Time' Before It Spreads To Your Community | NBC News NOW",
             "secondDuration": 204,
@@ -31,8 +25,14 @@
             "title": "Prince Andrew To Step Back From Public Life After Explosive Interview On Epstein | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "YClyhmXrytk",
+            "title": "Bay Area Rolls Back Reopening After Surges In Coronavirus Infections | NBC News NOW",
+            "secondDuration": 323,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

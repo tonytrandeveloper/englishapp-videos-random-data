@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GwTX17g6m7w",
-            "title": "Inside Portland ICU As Health Care Workers Struggle To Keep Up With Covid Surge",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "dWX5cVM1ISs",
             "title": "Ukrainian Refugees Continue To Flee Ukraine",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "FDA Issues Sweeping Safety Rules After Deadly Food Poisoning Outbreaks | NBC Nightly News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "4mMP4gquXlE",
+            "title": "White House Covid Response Team Holds Briefing | NBC News",
+            "secondDuration": 2076,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

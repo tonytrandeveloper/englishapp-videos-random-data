@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "onTmo1CLemc",
-            "title": "Rikers Island: People Living In ‘Inhumane Conditions’",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "nXurp5s7n6c",
             "title": "About Face: One woman’s Quest To Make AI Less Biased | Better | NBC News",
             "secondDuration": 210,
@@ -31,8 +25,14 @@
             "title": "Intense Heat Wave Raises Questions About Future of U.S. Energy System",
             "secondDuration": 388,
             "group": "group_7"
+        },
+        {
+            "videoId": "DbcQhejYNCo",
+            "title": "Minimally Invasive Surgery For Cervical Cancer May Cause It To Return | NBC Nightly News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

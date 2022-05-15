@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nbVWw6KjH_w",
-            "title": "White House weighs in as Venezuela crisis grows",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "0DK70Ch2SOM",
             "title": "Forgotten camera provides rare glimpse of life in Antarctica",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "Making COVID-19 vaccine access more equitable amid emerging disparities",
             "secondDuration": 342,
             "group": "group_7"
+        },
+        {
+            "videoId": "5zhFsWGbc1g",
+            "title": "Trump and Kim's meetings' effect on Korea",
+            "secondDuration": 373,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

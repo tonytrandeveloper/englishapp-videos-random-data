@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cmCUY_e6YU4",
-            "title": "Powerful typhoon hits Philippines",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "dEnvNkzC5_s",
             "title": "War in Ukraine: March 16, 2022 l ABC News",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "Donald Trump, Alec Baldwin Tweet Over Continuing 'SNL' Skits",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zr4pRupLQGY",
+            "title": "WNBA star marries newly-free man",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

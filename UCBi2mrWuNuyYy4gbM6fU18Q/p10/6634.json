@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IRPpiKofSsc",
-            "title": "Coast Guard rescues 2 missing hikers",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "ubdQQtm7bsg",
             "title": "Dangerous winter weather hits Northeast",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "US Olympic athletes test positive days before winter games",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "yY9xVSUOm_E",
+            "title": "Joseph Fiennes Will 'Flash Forward'",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

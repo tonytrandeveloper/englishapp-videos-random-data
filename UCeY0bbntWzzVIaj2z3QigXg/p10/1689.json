@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "H1YuX5jJEQc",
-            "title": "U.S. Recovers Most Of Colonial Pipeline Hack Ransom Payment",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "4ooqhpT1aIk",
             "title": "Jury Deliberations Underway In ‘Unite the Right’ Trial",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Senator Lindsey Graham: Sessions Likely Out After Midterms | NBC News",
             "secondDuration": 390,
             "group": "group_7"
+        },
+        {
+            "videoId": "vJA5iuaLCRE",
+            "title": "Chauvin Trial Judge Criticizes Rep. Maxine Waters Comments On Trial | NBC News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

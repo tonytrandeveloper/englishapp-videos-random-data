@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FKgw0nGVMzw",
-            "title": "U.S.-Backed Fighters Claim Victory Over ISIS In Raqqa | NBC News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "rhZw6TaYcAU",
             "title": "Exclusive: Inside Iran As Top Officials Talk About The Growing Showdown With U.S. | NBC Nightly News",
             "secondDuration": 321,
@@ -31,8 +25,14 @@
             "title": "A Brief History Of President Donald Trump's Feud With LaVar Ball | NBC News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "gBda10tCwwk",
+            "title": "Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2680,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "u_FxWl2lCF8",
-            "title": "Powerhouse Roundtable: This Week in Politics",
-            "secondDuration": 784,
-            "group": "group_7"
-        },
-        {
             "videoId": "xHXzsJSMf1Q",
             "title": "Archie expected to shape royal history",
             "secondDuration": 299,
@@ -31,8 +25,14 @@
             "title": "Wedding Proposal on LIVE TV",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "eAvww9jaqIc",
+            "title": "Preview of Ahmaud Arbery murder trial",
+            "secondDuration": 590,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

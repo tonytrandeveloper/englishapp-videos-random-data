@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7cG5hJExWlY",
-            "title": "Diane Sawyer in the Gulf",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "L35bf71ygO8",
             "title": "Tom Petty's music inspired generations of people",
             "secondDuration": 95,
@@ -121,8 +115,14 @@
             "title": "Teen Arrested for Impersonating a Doctor | EXCLUSIVE INTERVIEW",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "ewyVd2CBkQU",
+            "title": "Chadwick Boseman’s battle with colon cancer",
+            "secondDuration": 380,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

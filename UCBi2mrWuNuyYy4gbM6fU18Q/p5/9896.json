@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R3F75WjNOyo",
-            "title": "Ted Cruz Vows to Support Trump, Unless He Shoots Someone",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "U9cU8-zfc74",
             "title": "Anthony Weiner sentenced to prison",
             "secondDuration": 336,
@@ -31,8 +25,14 @@
             "title": "Omicron subvariant fuels COVID-19 surge across US | WNT",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "QYAqlRsTDSU",
+            "title": "Trump Family Arrives in Washington",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

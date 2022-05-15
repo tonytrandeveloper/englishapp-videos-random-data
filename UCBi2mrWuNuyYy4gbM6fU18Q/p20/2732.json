@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "G4i51LXIbpQ",
-            "title": "“Dancing With The Stars” Recap",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "JtHQGYrLAIo",
             "title": "40 percent hospitalized with COVID-19 are under age 54",
             "secondDuration": 336,
@@ -121,8 +115,14 @@
             "title": "Storm Path: Where’s the Blizzard Heading?",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "mlsr5jucrR0",
+            "title": "TV Chef Paula Deen Apologizes for \"Hurtful Language\"",
+            "secondDuration": 218,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

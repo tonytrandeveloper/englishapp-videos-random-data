@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vomxR4TgGuY",
-            "title": "Trump Hosts U.S. Mayors At White House | NBC News (Live Stream)",
-            "secondDuration": 1409,
-            "group": "group_7"
-        },
-        {
             "videoId": "mVVWHpR5z0k",
             "title": "U.S. Surpasses 8 Million Coronavirus Cases | NBC Nightly News",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "Officials Say Puerto Rico’s Electrical Grid Isn’t Ready For Another Hurricane | NBC Nightly News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "-8FvNc7y9fM",
+            "title": "Los Angeles Schools Have Served 10 Million Meals During Lockdown | NBC News NOW",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VDue2PImkIQ",
-            "title": "US surgeon general details spread of coronavirus and debate over masks l ABC News",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "JX1YyKnr4sw",
             "title": "Judge orders boy with cancer to get chemotherapy against parents' wishes",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "Aerial footage of Athens in lockdown shows deserted streets and ancient landmarks | ABC News",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "qmTjKIwNsF4",
+            "title": "Obama Weighs in on Donald Trump Meeting",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

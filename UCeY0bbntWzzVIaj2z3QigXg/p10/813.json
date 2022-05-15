@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "04-1q3fjDfY",
-            "title": "Morning News NOW Full Broadcast - Dec. 17",
-            "secondDuration": 3070,
-            "group": "group_7"
-        },
-        {
             "videoId": "rWfI72ZUy8A",
             "title": "California Man Under Arrest For Posing As Surgical Assistant, Stealing Identities | NBC Nightly News",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "VP Mike Pence And Governor Jay Inslee Give Updates On Coronavirus | NBC News (Live Stream Recording)",
             "secondDuration": 6696,
             "group": "group_7"
+        },
+        {
+            "videoId": "6JKU3SM931Q",
+            "title": "Meet the Press: March 25, 2012 - David Plouffe, Rachel Maddow, Political Roundtable",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

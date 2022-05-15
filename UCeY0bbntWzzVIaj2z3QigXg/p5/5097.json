@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i2BnMWJa-XI",
-            "title": "‘Difficult To Verify’ If Facebook Data Has Been Purged | Meet The Press | NBC News",
-            "secondDuration": 1086,
-            "group": "group_7"
-        },
-        {
             "videoId": "eju9HMUgwFA",
             "title": "Cuomo To Young People: ‘Right Now Is Not The Time To Fight For Your Right To Party’ | NBC News NOW",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Trump Says He Built A Great Economy. Numbers Tell A Different Story | Meet The Press | NBC News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "MGCNT9rOQrc",
+            "title": "Dow Sinks After Federal Reserve Rate Cut To Ease Coronavirus Concern | NBC News NOW",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

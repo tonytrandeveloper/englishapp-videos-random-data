@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PUxRhw2TPAE",
-            "title": "Death Toll In Florida Building Collapse Grows To 36",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "kSXu4ysMc5M",
             "title": "President Donald Trump Signs Major NASA Initiative (Full) | NBC News",
             "secondDuration": 480,
@@ -61,8 +55,14 @@
             "title": "Pompeo: Kim Jong Un Told Me 'He Is Prepared To Denuclearize’ | NBC News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "tGOOb1uddiI",
+            "title": "Major Airline CEOs Warn About The Rollout Of 5G Service",
+            "secondDuration": 535,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

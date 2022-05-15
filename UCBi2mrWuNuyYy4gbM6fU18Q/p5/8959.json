@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6QFnPSnqIUE",
-            "title": "'Criminally Insane' Killer on the Loose",
-            "secondDuration": 411,
-            "group": "group_7"
-        },
-        {
             "videoId": "CMha0DOVLew",
             "title": "Hillary Clinton Discusses Political Future: 'There Are Many Ways to Serve'",
             "secondDuration": 171,
@@ -31,8 +25,14 @@
             "title": "Ice Storms Delay Flights at Dallas Airport",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "Me4KBqZ0SqI",
+            "title": "Country Music Awards 2013: George Strait  Wins Third Entertainer of the Year",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

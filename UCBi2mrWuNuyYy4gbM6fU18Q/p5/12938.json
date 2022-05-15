@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JX5aIVD0bX0",
-            "title": "Firefighters wage battle against growing Southern California fires",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "vvNXv8OZYyU",
             "title": "New Numbers Show Donald Trump in the Lead in Iowa",
             "secondDuration": 204,
@@ -31,8 +25,14 @@
             "title": "GOP Candidates Prepare for Vegas Debate Showdown | ABC News",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ge_ouCjNJEk",
+            "title": "Manhunt Ends in Kansas After Cop Shot in Head During Car Chase",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

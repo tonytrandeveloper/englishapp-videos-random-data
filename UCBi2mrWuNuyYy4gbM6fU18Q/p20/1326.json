@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5npZF70e1lk",
-            "title": "The Last Days of Richard Pryor l PART 1",
-            "secondDuration": 500,
-            "group": "group_7"
-        },
-        {
             "videoId": "rAR0cGogrEg",
             "title": "Deadly Serial Shooter in Phoenix, Search Continued",
             "secondDuration": 88,
@@ -121,8 +115,14 @@
             "title": "Death toll climbs over 200 after flash flood in Colombia",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "3ChU-WGq7m8",
+            "title": "'This Week': Affirmative Action",
+            "secondDuration": 390,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

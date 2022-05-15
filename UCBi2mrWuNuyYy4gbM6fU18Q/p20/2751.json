@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DsgviNiXKso",
-            "title": "Ferguson Reacts After Police Officer Cleared of Civil Rights Violations",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "lzfesfC5FAE",
             "title": "2 killed, 2 injured in shooting on Florida transit bus",
             "secondDuration": 78,
@@ -121,8 +115,14 @@
             "title": "Tony Hawk re-releases his classic video games",
             "secondDuration": 245,
             "group": "group_7"
+        },
+        {
+            "videoId": "akeauo-3-44",
+            "title": "How to avoid phishing scams",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

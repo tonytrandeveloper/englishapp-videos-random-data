@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "P0UjvgWS0zc",
-            "title": "Maryland Mall Shooting | Police Detail Scene, Suspect Remains on the Loose",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "qSI9K7cyl4g",
             "title": "Deadliest Day of Fighting in the Ukraine and America's Plan",
             "secondDuration": 211,
@@ -61,8 +55,14 @@
             "title": "'Familial DNA' leads to cold-case arrest",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "jdjP15CHWqk",
+            "title": "Protests, COVID-19 upend the 2020 race",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

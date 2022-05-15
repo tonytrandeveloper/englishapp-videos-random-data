@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PmIrqrE2pzg",
-            "title": "Pint-Size Pool Player",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "yU4ntgNY9OY",
             "title": "Massive Texas Explosion: Fatalities Confirmed",
             "secondDuration": 360,
@@ -61,8 +55,14 @@
             "title": "Obamas Goodbye Message as They Leave the White House | ABC News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "8bBRm-W90Rc",
+            "title": "Caught on Tape: Fireball Blazes Across Electrified Power Lines",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

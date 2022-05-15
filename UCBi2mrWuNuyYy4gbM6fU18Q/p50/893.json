@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "DtytvSx7b5s",
-            "title": "$110,000 reward offered in death of 16-year-old Tioni Theus",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "G8rr6tVDQaY",
             "title": "Barbara Walters' Chicken Pox Diagnosis",
             "secondDuration": 120,
@@ -301,8 +295,14 @@
             "title": "Webcast: GOP Debate; Taco Bell Breakfast",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "SbHv5J-aSYo",
+            "title": "Obama vs. Romney: Debate Countdown",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

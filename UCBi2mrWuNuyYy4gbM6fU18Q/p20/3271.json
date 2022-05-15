@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0ILDR2z-HLs",
-            "title": "ABC News Live: Senate passes $1 trillion bipartisan infrastructure deal",
-            "secondDuration": 4809,
-            "group": "group_7"
-        },
-        {
             "videoId": "xZAECFkP6oA",
             "title": "Nightclub Fire Kills 231 in Santa Maria, Brazil",
             "secondDuration": 148,
@@ -121,8 +115,14 @@
             "title": "Fantasy Sports Sites Under Investigation for Fraud",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "jecqNSyRgnE",
+            "title": "Severe Storms Continue Campaign of Nasty Weather",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

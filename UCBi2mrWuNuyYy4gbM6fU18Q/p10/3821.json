@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mIWv0Jcqzog",
-            "title": "ABC News Prime: Extreme weather in the US; State of siege in Haiti; Push for voting rights",
-            "secondDuration": 5239,
-            "group": "group_7"
-        },
-        {
             "videoId": "efxETOptYA0",
             "title": "ABC News Prime: Omicron fears grow; Kim Potter takes the stand; \"Shopping cart killer\" in custody",
             "secondDuration": 5374,
@@ -61,8 +55,14 @@
             "title": "Blinken: Russia committing 'war crimes' in Ukraine",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "dsMwGV_7ZVQ",
+            "title": "Ex Apple, NASA Engineers Create Blossom One Limited; Heat Controlling Coffee Maker Brews Prefect Cup",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

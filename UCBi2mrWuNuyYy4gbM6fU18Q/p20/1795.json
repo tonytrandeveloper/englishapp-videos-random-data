@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_ZwCN2S1ygw",
-            "title": "Donald Trump Speaks at Rolling Thunder Veterans' Event",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "pOReVy2QXRA",
             "title": "Inmate Executed in Georgia",
             "secondDuration": 31,
@@ -121,8 +115,14 @@
             "title": "Officer Rescues Mom, 3 Kids From Dad Firing Gun",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "dHnzTKVWc_s",
+            "title": "Second Presidential Debate 2012: Obama Tells Romney, My Pension's 'Not As Big As Yours'",
+            "secondDuration": 33,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

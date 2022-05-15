@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "stICYuP8j2U",
-            "title": "Watch live: SpaceX launches Israeli satellite AMOS-17",
-            "secondDuration": 2245,
-            "group": "group_7"
-        },
-        {
             "videoId": "_8UJfRCW3vs",
             "title": "What Lessons Are American Kids Learning From Contentious Election? | NBC Nightly News",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Inside Facebook’s Policy To Run Political Ads Without Fact Checking | NBC News NOW",
             "secondDuration": 402,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZR3GtqPLAxA",
+            "title": "South Korea Conducts Missile Drill In Response To North Korean Launch | NBC News",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

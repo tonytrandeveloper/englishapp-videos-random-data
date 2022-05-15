@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "R4acs72KLVk",
-            "title": "'We're going to win': President Trump on coronavirus",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "Oa6wBifsdU0",
             "title": "New Evidence May Indicate Struggle in the Cockpit of Missing Malaysia Airlines Flight 370",
             "secondDuration": 250,
@@ -61,8 +55,14 @@
             "title": "White House warns another attack on Kabul airport is likely",
             "secondDuration": 965,
             "group": "group_7"
+        },
+        {
+            "videoId": "LknJm-oDtZw",
+            "title": "Former ‘Who Wants to be a Millionaire’ winners share their stories: Part 3",
+            "secondDuration": 511,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

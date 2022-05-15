@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Rcj8ZZAn7EQ",
-            "title": "Santa Claus makes special visit to Kentucky l ABC News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "sc2_nr-HCmY",
             "title": "Thai people not giving up hope",
             "secondDuration": 108,
@@ -121,8 +115,14 @@
             "title": "Wimbledon | Is the Nike Dress Too Short?",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "HE627KCl8dk",
+            "title": "One in Three Adults May Be Diabetic in 40 Years",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

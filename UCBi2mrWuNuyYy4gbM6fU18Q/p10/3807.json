@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "l8qq5oYmMS0",
-            "title": "Obama Commencement Speech | POTUS Targets Trump Campaign Proposals",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "zurW8bf8phI",
             "title": "Presidential Inauguration | Kellyanne Conway Interview",
             "secondDuration": 219,
@@ -61,8 +55,14 @@
             "title": "Powerball Jackpot: Winning Lottery Numbers Earns Player Half Billion Dollars",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "9NwZKd_wdBE",
+            "title": "Melanie Oudin: The Next Cold Warrior",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

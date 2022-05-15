@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NiOKTu_QRXk",
-            "title": "Speaker Pelosi Holds Weekly Press Conference | NBC News",
-            "secondDuration": 1110,
-            "group": "group_7"
-        },
-        {
             "videoId": "70RHq2bXLqI",
             "title": "CDC Investigating Illness Linked To E-Cigs And Vaping Across The Country | NBC Nightly News",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2546,
             "group": "group_7"
+        },
+        {
+            "videoId": "0IpDO-1ikcs",
+            "title": "Sitting Down With Sen. Gillibrand On Her Campaign Bus Tour | NBC News Now",
+            "secondDuration": 645,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

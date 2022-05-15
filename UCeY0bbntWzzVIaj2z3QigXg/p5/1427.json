@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YsMp5biWltQ",
-            "title": "One Quick Hack To Defrost Your Windshield | Better | NBC News",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "ijZciOVEjH4",
             "title": "What Is Quantum Computing? | NBC News Now",
             "secondDuration": 377,
@@ -31,8 +25,14 @@
             "title": "The History Of Juneteenth And Tulsa As Trump Faces Campaign Rally Backlash | NBC Nightly News",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "jr4rnrPoVBg",
+            "title": "Emotional Reunions Between Pets And Their Owners Separated By Beirut Blast | NBC News NOW",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

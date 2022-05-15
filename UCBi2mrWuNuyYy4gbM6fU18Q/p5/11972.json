@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g0fBMbn6ymM",
-            "title": "Levi Johnston's Palin Family Tell-All",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "J3HWBdj_Bmk",
             "title": "Man taunts bison at Yellowstone",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Jimmy Kimmel Dons Colorful 'Loom' Suit",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "8prOFh4KyQU",
+            "title": "‘Unlikely COVID-19 is going to disappear’: Fauci",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0nB9yUAd31s",
-            "title": "Ferguson Shooting: Two Police Shot, Suspect on the Run",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "9-SlvwF_sKI",
             "title": "Severe weather prompts flash flooding threat to East Coast",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "Fourth of July Fireworks Weather Forecast",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "viaaNZt7fJw",
+            "title": "Federal agents seize firearms from YouTube star’s home",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

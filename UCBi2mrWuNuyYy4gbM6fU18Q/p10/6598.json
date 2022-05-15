@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9INILBAxm44",
-            "title": "Trump fires 2 men who testified in the House impeachment hearings | ABC News",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "wC2XLeIG4AM",
             "title": "Christmas Crimes Caught on Tape: Gifts Stolen by Robbers, Neighbors",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Are Bank Stress Tests a Complete Crock?",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "8o7UMdDpZT0",
+            "title": "What's Next for America?",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

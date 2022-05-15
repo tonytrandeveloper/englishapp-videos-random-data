@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ax0BZmAExyA",
-            "title": "Drug lord El Chapo gets life in prison",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "kxULf4Nu78o",
             "title": "The Debrief: Dayton shooting developments, ICE raids, Cyntoia Brown released | ABC News",
             "secondDuration": 2970,
@@ -61,8 +55,14 @@
             "title": "La. trajectory will 'overwhelm our capacity to deliver health care' by April: Edwards | ABC News",
             "secondDuration": 328,
             "group": "group_7"
+        },
+        {
+            "videoId": "AtAXKzKueC8",
+            "title": "Newt Gingrich Speaks Out on Donald Trump, GOP",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

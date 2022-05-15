@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "u6rNoAO4zAU",
-            "title": "Michael Bloomberg speaks at DNC 2020",
-            "secondDuration": 336,
-            "group": "group_7"
-        },
-        {
             "videoId": "KttojcCZbLA",
             "title": "Casey Anthony: What's Her Next Move?",
             "secondDuration": 275,
@@ -31,8 +25,14 @@
             "title": "Third Time's a Charm for Lucky Couple",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "v_wecBRE9KA",
+            "title": "Becky Is Addicted to Technology",
+            "secondDuration": 249,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

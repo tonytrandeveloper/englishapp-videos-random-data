@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IjGOBCzOA2Y",
-            "title": "Trump delivers remarks on 'Operation Legend'",
-            "secondDuration": 759,
-            "group": "group_7"
-        },
-        {
             "videoId": "c4yT9Wolv70",
             "title": "White House Task Force coordinator says US has entered ‘new phase’ of pandemic",
             "secondDuration": 269,
@@ -121,8 +115,14 @@
             "title": "Criminal charges expected in Russia investigation",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "b7G0acYVjSU",
+            "title": "Polyamory: 1 Mom, 2 Dads and a Baby",
+            "secondDuration": 390,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

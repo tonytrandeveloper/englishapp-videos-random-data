@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "j4vrRkDp-DY",
-            "title": "Extreme Weather: Rare Winter Storm Hits South",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "IrunZkt4bPM",
             "title": "Broadway’s intermission is almost over as theaters prepare to reopen in September",
             "secondDuration": 276,
@@ -61,8 +55,14 @@
             "title": "Toy Fair 2013 With Giz Wiz Dick DeBartolo",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ph8SfoF3vg4",
+            "title": "Trump's medical team updates on president's condition | ABC News",
+            "secondDuration": 1165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

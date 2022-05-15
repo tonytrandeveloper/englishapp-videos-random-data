@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B5wodAvzlEc",
-            "title": "Three Major U.S. Airports To Screen For Mystery Virus | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "fO_rhgF3TH4",
             "title": "Paralyzed Student Walks Across Stage At Graduation | NBC Nightly News",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Honoring Marcelite Harris, U.S. Military’s First Black Female Major General | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "jcKygdSWK4U",
+            "title": "Deadly Fire Tornado Caught On Camera | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

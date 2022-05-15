@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "p3pU9ZY6USM",
-            "title": "Wendy Williams reveals she's been living in 'sober house'",
-            "secondDuration": 508,
-            "group": "group_7"
-        },
-        {
             "videoId": "JOSaIvkDO6g",
             "title": "President Trump Full Speech to Congress | ABC News",
             "secondDuration": 9013,
@@ -121,8 +115,14 @@
             "title": "Public health expert discusses next phase of the pandemic",
             "secondDuration": 375,
             "group": "group_7"
+        },
+        {
+            "videoId": "WsRZK2Kvl4g",
+            "title": "The Efforts to Cool Down the Nuclear Reactor",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

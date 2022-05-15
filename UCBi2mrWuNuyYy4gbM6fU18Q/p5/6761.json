@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "peqDec3_ngY",
-            "title": "Trump Discusses a 'Softening' on Immigration",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "7TqNNP_yO0k",
             "title": "A Tesla car crash near Salt Lake City, Utah, is under investigation",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "Russia-Ukraine latest as Biden prepares to address on escalating tensions",
             "secondDuration": 1071,
             "group": "group_7"
+        },
+        {
+            "videoId": "XbWSCnv8GKk",
+            "title": "Rep. Adam Schiff says 'there ought to be a review' of Kushner's security clearance",
+            "secondDuration": 598,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

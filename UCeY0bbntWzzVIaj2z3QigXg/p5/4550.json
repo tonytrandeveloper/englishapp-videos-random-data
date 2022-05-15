@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "snYXcK03DS8",
-            "title": "Charlie Hebdo Interview: Editor Gerard Biard | Meet The Press",
-            "secondDuration": 399,
-            "group": "group_7"
-        },
-        {
             "videoId": "EWCcJKKqk90",
             "title": "NYC Residents On Gridlock Around Trump Tower: 'It's Obscene' | NBC News",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Who Is Behind The Saudi Oil Attack? | NBC News Now",
             "secondDuration": 396,
             "group": "group_7"
+        },
+        {
+            "videoId": "pU6AB9PQT_o",
+            "title": "Nevada Drops Mask Mandate Despite Vaccination Status As Covid Cases Decline",
+            "secondDuration": 261,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

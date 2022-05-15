@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "c26d1sFhsFM",
-            "title": "Rep. Matt Gaetz requested pardon",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "IB6dwYx_dFM",
             "title": "Dylann Roof Shooting Footage Shows Him Enter, Exit Church",
             "secondDuration": 76,
@@ -121,8 +115,14 @@
             "title": "White House warns another attack on Kabul airport is likely",
             "secondDuration": 965,
             "group": "group_7"
+        },
+        {
+            "videoId": "LknJm-oDtZw",
+            "title": "Former ‘Who Wants to be a Millionaire’ winners share their stories: Part 3",
+            "secondDuration": 511,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

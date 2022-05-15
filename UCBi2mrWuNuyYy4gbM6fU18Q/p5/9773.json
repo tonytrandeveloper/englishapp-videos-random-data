@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8rpVCbFcKlU",
-            "title": "Pluto Close-Up Shows Most Detailed View Yet",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "T04Q2fXQqws",
             "title": "Robin Thicke on New Album, Wooing Paula",
             "secondDuration": 198,
@@ -31,8 +25,14 @@
             "title": "Mount Etna Erupts In Early Morning Show l ABC News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "IiKkwmPe_8A",
+            "title": "Terror Plot Uncovered in NYC",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

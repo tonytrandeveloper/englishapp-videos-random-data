@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eCQRhd-_4bw",
-            "title": "Nightly News Full Broadcast - Jan. 20",
-            "secondDuration": 1266,
-            "group": "group_7"
-        },
-        {
             "videoId": "ArR7KMApHaQ",
             "title": "At Least 9 Suspected Migrants Found Dead in Texas Tractor Trailer",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Valley Fever: The Mysterious Illness Affecting Farm Workers | NBC News",
             "secondDuration": 503,
             "group": "group_7"
+        },
+        {
+            "videoId": "feyWH2BsUKQ",
+            "title": "What Prosecutors Are Looking For In Trump’s Tax Records | NBC News NOW",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

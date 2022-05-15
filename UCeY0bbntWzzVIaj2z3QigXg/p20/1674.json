@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DrbNPYsmcow",
-            "title": "Top Story with Tom Llamas – Jan. 12 | NBC News NOW",
-            "secondDuration": 3158,
-            "group": "group_7"
-        },
-        {
             "videoId": "3uQvmnEzTHc",
             "title": "WHO: ‘Europe Has Now Become The Epicenter Of The Pandemic’ | NBC News",
             "secondDuration": 140,
@@ -121,8 +115,14 @@
             "title": "Biden Publicly Accuses Putin Of Committing ‘Genocide’ In Ukraine",
             "secondDuration": 366,
             "group": "group_7"
+        },
+        {
+            "videoId": "a2uP8XH6pxw",
+            "title": "Democrats Vote To Table Motion To Subpoena The Whistleblower | NBC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

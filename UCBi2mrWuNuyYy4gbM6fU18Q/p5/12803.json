@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oSy0IyJUVig",
-            "title": "What is the role of First Lady? | America 101",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "1nP5CzMyM0o",
             "title": "Simone Biles makes history at world championships | ABC News",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "Countdown to the historic total eclipse",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "JW8LfX5cBQY",
+            "title": "Radio icon Rush Limbaugh announces lung cancer battle | ABC News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

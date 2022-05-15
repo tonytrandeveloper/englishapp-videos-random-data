@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Qagy107wf7g",
-            "title": "C-17 Crew Speaks Out After Afghanistan Evacuation",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "uoi6DKyRz24",
             "title": "Bombing Of Ukraine Children’s Hospital Leaves Three Dead, Including Child",
             "secondDuration": 276,
@@ -121,8 +115,14 @@
             "title": "SpaceX Just Sent a Supercomputer to the International Space Station | Mach | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "m5T4BurWtvk",
+            "title": "Experts: Boosting Vaccine Production Could Take Weeks | NBC Nightly News",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

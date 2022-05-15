@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oTBjENMf-hM",
-            "title": "Hawaiian Emergency Worker Who Sent The Wrong Message Is Reassigned | NBC Nightly News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "uq7-GeFLi-k",
             "title": "Scalise: Impeachment Will 'Further Divide A Nation That Is Calling Out For Healing' | NBC News",
             "secondDuration": 213,
@@ -31,8 +25,14 @@
             "title": "Dangerous Flooding In Mid-Atlantic States Forces Rescues | NBC Nightly News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "GQa1r1SMwb4",
+            "title": "iPhone 6 Keynote: Bigger Screens, More Pixels | NBC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PiT6jL4YNP8",
-            "title": "This Morning’s Top Headlines – August 23 | Morning News NOW",
-            "secondDuration": 1254,
-            "group": "group_7"
-        },
-        {
             "videoId": "gpcTb5937L0",
             "title": "Ben Carson:  U.S. Should Not Elect a Muslim as President | NBC Nightly News",
             "secondDuration": 203,
@@ -31,8 +25,14 @@
             "title": "Breaking Down The Altered Speaker Nancy Pelosi Videos | NBC News NOW",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "qSOGFNhfdb4",
+            "title": "Hundreds Of Miles Of River Contaminated By Spill | Short Take | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

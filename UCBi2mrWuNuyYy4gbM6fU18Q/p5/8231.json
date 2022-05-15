@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "c8hcFpIJq-s",
-            "title": "President Obama to Make Historic Trip to Cuba",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "tdaUY8bfEQc",
             "title": "Deadly stampede in Israel",
             "secondDuration": 168,
@@ -31,8 +25,14 @@
             "title": "Martin O'Malley Takes on Hillary Clinton With 2016 Presidential Run",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sx0LeH16L8s",
+            "title": "ABC News Prime: CDC decision on J&J vaccine; Caitlyn Jenner's CA Gov. run; SpaceX's close call",
+            "secondDuration": 5441,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

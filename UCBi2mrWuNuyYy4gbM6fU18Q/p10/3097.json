@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L-anPYL4cMU",
-            "title": "Running Tips from a Marathon Champ | ABC News",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "7xYZ3rMT8_A",
             "title": "Sheryl Sandberg Interview on New 'Lean In' Campaign",
             "secondDuration": 238,
@@ -61,8 +55,14 @@
             "title": "TRUMP, SANDERS projected to WIN New Hampshire Primary Election | NEWS CYCLE",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "MUXDyBQjBeU",
+            "title": "ABC News Prime: States with record Covid cases; Pregnant in a pandemic; Tracking severe storms",
+            "secondDuration": 3635,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

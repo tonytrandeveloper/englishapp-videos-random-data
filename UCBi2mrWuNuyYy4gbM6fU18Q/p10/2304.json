@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XZNeJ8XRYDg",
-            "title": "The Debrief: Border deal and shutdown talks, Denver teacher's strike, 'El Chapo' found guilty",
-            "secondDuration": 1429,
-            "group": "group_7"
-        },
-        {
             "videoId": "6UeE8d5L8bE",
             "title": "Whoopi Goldberg makes surprise return to 'The View' after falling ill",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Man pulled from rubble after massive home explosion in Minnesota",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "kYwiVn0wh1U",
+            "title": "James Holmes' Notebook Discovered?",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

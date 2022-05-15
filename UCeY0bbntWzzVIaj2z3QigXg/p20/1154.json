@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nsWmzyYaMew",
-            "title": "State Department, Pentagon Briefings Amid Taliban Takeover Of Afghanistan",
-            "secondDuration": 2626,
-            "group": "group_7"
-        },
-        {
             "videoId": "omrB6cr_gTo",
             "title": "Bernie Sanders: Clearly More Needs To Be Done To Combat ISIS | NBC News",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "Pope Francis Explains Viral Video Of Him Withdrawing His Hand To NBC News | NBC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "tOIOgKbon6Q",
+            "title": "Sen. Warren Grills Health Secy. Azar Over President Trump’s Promise To Lower Drug Prices | NBC News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

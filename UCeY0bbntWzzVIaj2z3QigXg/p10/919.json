@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4z48M8k09Ho",
-            "title": "Paralyzed Student Walks To Get College Diploma | NBC Nightly News",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "lGGKkaM39qQ",
             "title": "WH Explains Why CBO Report ‘Doesn’t Add Up’ On GOP Health Plan | NBC News",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "The Berlin Wall Has Now Been Down For Longer Than It Was Up. Here’s How It Fell. | TODAY",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "vaKSSF0HRq8",
+            "title": "NBC Nightly News Broadcast (Full) - July 18th, 2021",
+            "secondDuration": 1089,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

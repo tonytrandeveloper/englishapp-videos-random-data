@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-Op81-PDi84",
-            "title": "Lightning strikes at Guatemala's Fuego Volcano",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "YWh1r7Bj_8U",
             "title": "Military Therapy Dogs Aid Soldiers",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Lion Attack Victim Was on Phone When Lion Broke Free, Attacked",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "dwYr-HuPLMc",
+            "title": "Continued airstrikes in Syria kill hundreds in East Ghouta",
+            "secondDuration": 376,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

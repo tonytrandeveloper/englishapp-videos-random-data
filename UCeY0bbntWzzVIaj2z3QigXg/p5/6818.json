@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qW_SBVEVI1A",
-            "title": "Bode Miller’s 19-Month-Old Daughter Dies After Drowning In Pool | NBC Nightly News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vs1ztq95O9Q",
             "title": "Dr. Fauci Speaks On CDC’s New Guidelines For Fully Vaccinated Students",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Several Tornadoes Touch Down Across Midwest",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "MQiayVb4_p4",
+            "title": "NBC News Upfront",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

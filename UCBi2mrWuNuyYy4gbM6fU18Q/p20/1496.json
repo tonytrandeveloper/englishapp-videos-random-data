@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "x7tyenuJQnk",
-            "title": "American Who Survived Brussels, Paris, & Boston Terror Attacks Speaks Out",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "tf2TR9qKm9M",
             "title": "ABC News Prime: Omicron dominating US COVID-19 cases; Pres. Biden speaks in GA on voting rights",
             "secondDuration": 5315,
@@ -121,8 +115,14 @@
             "title": "Naples, Fla., mayor on Hurricane Irma prep",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "q_ASi_P_Wn0",
+            "title": "FBI executes search warrant at Brian Laundrie’s family home in Gabby Petito case",
+            "secondDuration": 323,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

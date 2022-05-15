@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TA6blZJ6nVw",
-            "title": "At least 1M infected with coronavirus in the US l ABC News",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "QHmYbHhQnmU",
             "title": "Wildfires continue to burn in the West",
             "secondDuration": 386,
@@ -31,8 +25,14 @@
             "title": "Briefing Room: FED lowers interest rates, Trump revokes California's waiver on emissions standards",
             "secondDuration": 1676,
             "group": "group_7"
+        },
+        {
+            "videoId": "TSKupt6oS0k",
+            "title": "Trailblazing conductor Marin Alsop's message on breaking the glass ceiling",
+            "secondDuration": 403,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

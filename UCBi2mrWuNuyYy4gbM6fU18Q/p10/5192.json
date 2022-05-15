@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ahzwuFzeO3A",
-            "title": "30-year-old crime still haunts New York City",
-            "secondDuration": 256,
-            "group": "group_7"
-        },
-        {
             "videoId": "tnG8jHR4Fs4",
             "title": "Catch Me If You Can l 20/20 l PART 5",
             "secondDuration": 534,
@@ -61,8 +55,14 @@
             "title": "New development in the search for missing siblings from Idaho",
             "secondDuration": 402,
             "group": "group_7"
+        },
+        {
+            "videoId": "TW4Y80tU9cg",
+            "title": "Tropical Storm Elsa drenches Northeast on its way to New England",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

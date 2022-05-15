@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PK69JcjGQtc",
-            "title": "President Obama: Accusations Of Collusion On Hillary Clinton Emails 'Not True' | NBC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "p3RtvK9Qosg",
             "title": "Biden Signs Executive Orders On Climate Change | NBC Nightly News",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "Biden Delivers Remarks From New York On Ida Recovery Efforts | NBC News",
             "secondDuration": 901,
             "group": "group_7"
+        },
+        {
+            "videoId": "xxIda477vvg",
+            "title": "Deadly Earthquake Topples Buildings In Taiwan | NBC News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_uhhiZ8GVYE",
-            "title": "Sun And Suncreen Myths | Debunker | NBC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "yAhgxRYXoms",
             "title": "UNC-Chapel Hill Converts To Remote Learning After COVID-19 Spreads Among Students | NBC Nightly News",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Journey Of A Bullet: Shot By Kidnapper | NBC News",
             "secondDuration": 475,
             "group": "group_7"
+        },
+        {
+            "videoId": "RxL4DYmqZXw",
+            "title": "Mike Pompeo Touts ‘Real Progress’ After Series Of Meetings With North Korean Envoy | NBC News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

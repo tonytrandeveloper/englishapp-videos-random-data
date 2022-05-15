@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "I9t2ehU4IJY",
-            "title": "Spreading subvariant provides reality check on state of pandemic",
-            "secondDuration": 314,
-            "group": "group_7"
-        },
-        {
             "videoId": "RHC34VWU5CY",
             "title": "COVID-19 cases increase in 21 states | WNT",
             "secondDuration": 211,
@@ -301,8 +295,14 @@
             "title": "Red Sox Win World Series 2013",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "b-m0sjzVe3g",
+            "title": "Alabama health official: ‘We need trusted voices’ to reduce mistrust in vaccines",
+            "secondDuration": 392,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

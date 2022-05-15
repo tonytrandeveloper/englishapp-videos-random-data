@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lJFgR3Fhsfk",
-            "title": "MIX: 100 Catcalls In One Day",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "JDUrFwkGsME",
             "title": "Mayor of San Jose proposes a ban on rubber bullets",
             "secondDuration": 170,
@@ -121,8 +115,14 @@
             "title": "Russia accuses Ukraine of attack on oil depot I ABCNL",
             "secondDuration": 262,
             "group": "group_7"
+        },
+        {
+            "videoId": "mjM4mYjpfU4",
+            "title": "Senate Minority Leader: GOP health care plan is 'rotten to the core'",
+            "secondDuration": 468,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

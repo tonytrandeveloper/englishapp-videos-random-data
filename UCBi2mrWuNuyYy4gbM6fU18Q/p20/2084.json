@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6mG9l28oKyI",
-            "title": "Will Smith Raps 'Fresh Prince' After Dare from British TV Host",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "KcRZKlL3xf4",
             "title": "'The Debrief': California wildfires, Thousand Oaks shooting, midterms | ABC News",
             "secondDuration": 1496,
@@ -121,8 +115,14 @@
             "title": "Facebook removes Russian disinformation about Ukraine I ABCNL",
             "secondDuration": 425,
             "group": "group_7"
+        },
+        {
+            "videoId": "uDcUat2zmb8",
+            "title": "Bethenny Frankel Splits from Her Husband Jason Hoppy",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

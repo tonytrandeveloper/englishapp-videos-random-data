@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4e9S32QNpGQ",
-            "title": "Bipartisan Senate Group Moves Forward With Own Infrastructure Plan",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "XndM-bARLno",
             "title": "President Obama: We Should Respect One Another To Honor Veterans | NBC News",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "The Right Way To Do A Lunge | Better | NBC News",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "RkQtnmDJHaM",
+            "title": "College Students Blast Administrators Over COVID19 Outbreaks On Campus | NBC Nightly News",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

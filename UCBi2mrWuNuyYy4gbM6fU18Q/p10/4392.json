@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HYEDlgICKCE",
-            "title": "LeBron James: Return of the King",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "eS9amuvsFVA",
             "title": "Bad Time for Obama's Break?",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Authorities investigating mysterious deaths at VA hospital",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "F7ZniglNrUQ",
+            "title": "Nigerian dwarf goat gets zoomies while playing on shed",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

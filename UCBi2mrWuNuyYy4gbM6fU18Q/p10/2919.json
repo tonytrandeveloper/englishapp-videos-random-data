@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NN99Yz65MAo",
-            "title": "Insomniac Theater: 'Amy' and 'Magic Mike XXL' Hit Theaters",
-            "secondDuration": 162,
-            "group": "group_7"
-        },
-        {
             "videoId": "m02M2lWhFSk",
             "title": "Man swims to safety after falling into frigid water in Canada | ABC News",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Exclusive: Juror No. 3 Speaks Out",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "yGEaYaUg1T8",
+            "title": "CDC director testifies on delay of coronavirus test kits as concerns grow | Nightline",
+            "secondDuration": 505,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

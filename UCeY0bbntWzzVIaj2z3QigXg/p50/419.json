@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "8IwAxImlrGE",
-            "title": "Hawaii’s Kilauea Lava Destroys More Homes | NBC Nightly News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "CtT5r6VIeB4",
             "title": "TikTok Users React To Trump’s Pledge To Ban The App In The U.S. | NBC Nightly News",
             "secondDuration": 126,
@@ -301,8 +295,14 @@
             "title": "Jury Selection Begins In Ahmaud Arbery Murder Trial",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "gcxvUQnOzAc",
+            "title": "Matt Damon: 'The Great Wall' Is 'Bigger Than Anything I've Ever Been Part Of' | NBC News",
+            "secondDuration": 218,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

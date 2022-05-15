@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9PokW0QOZGA",
-            "title": "What It's Like Reporting On The War In Ukraine",
-            "secondDuration": 504,
-            "group": "group_7"
-        },
-        {
             "videoId": "IXPSSXjZALo",
             "title": "Unexploded Munitions Removed From Bucha By Ukraine's Emergency Service",
             "secondDuration": 77,
@@ -61,8 +55,14 @@
             "title": "Ukraine Continues To Resist 24 Days Into Invasion",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "c2ItKRYqBLw",
+            "title": "Hurricane Michael To Make Landfall Bringing Catastrophic Storm Surge | NBC News",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

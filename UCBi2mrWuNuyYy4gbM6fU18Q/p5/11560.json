@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xsNkE-nyJCE",
-            "title": "Goodbye Summer, It’s Time to Go Back to School",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "OT5U8CNVtIM",
             "title": "Toys for Long Trips | ABC News",
             "secondDuration": 267,
@@ -31,8 +25,14 @@
             "title": "Virginia Tech Finds Riddell's New Flex Helmet Design Better Than Any Other",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "al10XvSRyIs",
+            "title": "Trump Reacts to FBI Reopening Clinton Email Investigation",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

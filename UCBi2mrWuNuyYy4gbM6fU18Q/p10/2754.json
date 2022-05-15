@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "66Png873F6Y",
-            "title": "'This Week': Powerhouse Roundtable",
-            "secondDuration": 540,
-            "group": "group_7"
-        },
-        {
             "videoId": "XsYaoDKSvSc",
             "title": "Driver Mistakenly Reverses Car Into River",
             "secondDuration": 41,
@@ -61,8 +55,14 @@
             "title": "Dallas Police Chief: Superheroes 'Are Like Cops'",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "e98W7vP3Ib8",
+            "title": "Oscar Nominations 2017 Live (FULL LIST) | ABC News",
+            "secondDuration": 1071,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

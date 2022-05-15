@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SlOtxz96s8s",
-            "title": "Live: California Gov. Newsom Gives Update On Coronavirus Response | NBC News",
-            "secondDuration": 4145,
-            "group": "group_7"
-        },
-        {
             "videoId": "bB_DyriD_6A",
             "title": "Pressure Mounting On Joe Biden To Choose Running Mate | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "The Vice-Presidential Debate: Tim Kaine And Mike Pence (Full Debate) | NBC News",
             "secondDuration": 5573,
             "group": "group_7"
+        },
+        {
+            "videoId": "kV90vvVmAfY",
+            "title": "What Is The Background To Conflict Between Russia And Ukraine?",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DGCC5Mlp9c8",
-            "title": "Tropical Storm Bill",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "fXwNLEsmwMM",
             "title": "Made in America: Company makes treats for man’s best friend | WNT",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "50M users' personal data exposed in 'complex' hack: Facebook",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "0898z8SgzT8",
+            "title": "Movie Theater Shooting Video Revealed in Court Hearing",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

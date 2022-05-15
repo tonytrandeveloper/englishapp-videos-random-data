@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-PXrAC6_Hu8",
-            "title": "Former Vice President Joe Biden addresses trailing in Iowa l ABC News",
-            "secondDuration": 333,
-            "group": "group_7"
-        },
-        {
             "videoId": "dFGaVTC3Em4",
             "title": "Top Line: DNC Chair Kaine: Steele 'Needs to Clean House'",
             "secondDuration": 682,
@@ -31,8 +25,14 @@
             "title": "Children of Witness Protection Struggle to Reclaim Identities",
             "secondDuration": 582,
             "group": "group_7"
+        },
+        {
+            "videoId": "kYcHiIk5dZ0",
+            "title": "A Fishing Trip to Remember",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

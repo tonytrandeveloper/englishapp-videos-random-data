@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LJcQPUoL-g4",
-            "title": "American Academy of Pediatrics recommends everyone wear masks in school",
-            "secondDuration": 481,
-            "group": "group_7"
-        },
-        {
             "videoId": "NGhr8YlxFgA",
             "title": "Olympic Games 2012: USA Gymnastics Teams' Tribute Song",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "Paralympic Runner Oscar Pistorius Out on Bail",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "1ZC54EvrrxQ",
+            "title": "Florida gearing up for recounts in key governor and Senate races",
+            "secondDuration": 367,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

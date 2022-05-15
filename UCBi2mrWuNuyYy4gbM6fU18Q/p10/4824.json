@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "R86a_ZkPV04",
-            "title": "CDC director testifies on COVID-19 response",
-            "secondDuration": 333,
-            "group": "group_7"
-        },
-        {
             "videoId": "k-oDMPnZXZs",
             "title": "Ohio woman accused of planning mass murder at bar",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Russia accuses Ukraine of attack on oil depot I ABCNL",
             "secondDuration": 262,
             "group": "group_7"
+        },
+        {
+            "videoId": "mjM4mYjpfU4",
+            "title": "Senate Minority Leader: GOP health care plan is 'rotten to the core'",
+            "secondDuration": 468,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

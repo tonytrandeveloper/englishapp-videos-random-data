@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "g8rsvLKSkFc",
-            "title": "President Donald Trump's Latest Executive Order Targets Trade Cheats | NBC News",
-            "secondDuration": 299,
-            "group": "group_7"
-        },
-        {
             "videoId": "7yUko1YCuxY",
             "title": "French Government Posts Video Of Ivanka Trump At G-20 Summit | NBC News",
             "secondDuration": 39,
@@ -301,8 +295,14 @@
             "title": "It’s Time To Delete All Of Your Social Media Apps | Think | NBC News",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "3s7hndkXfDI",
+            "title": "New Images Of Violence In Separatist Regions Of Ukraine",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

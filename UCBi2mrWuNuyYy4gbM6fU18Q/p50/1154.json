@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "J54jyx37dSc",
-            "title": "Breonna Taylor grand jury tapes released",
-            "secondDuration": 350,
-            "group": "group_7"
-        },
-        {
             "videoId": "DoBZiUBK8FY",
             "title": "GOP working to gather support for Senate health care bill",
             "secondDuration": 346,
@@ -301,8 +295,14 @@
             "title": "Annie Le: A Break in the Case",
             "secondDuration": 321,
             "group": "group_7"
+        },
+        {
+            "videoId": "S4LpQIvZ59I",
+            "title": "Your Three Words: Shout Out Louds",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

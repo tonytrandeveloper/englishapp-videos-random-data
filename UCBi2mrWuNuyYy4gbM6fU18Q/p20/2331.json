@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Nrdmarb7M_c",
-            "title": "John McAfee: Belize Police Searching for Antivirus Pioneer",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "kv-bOth9W8I",
             "title": "'Pussycat Dolls' Lead Singer Nicole Scherzinger's Battle With Bulimia, Solo Album",
             "secondDuration": 134,
@@ -121,8 +115,14 @@
             "title": "Surviving the Inferno: Escaping Grenfell Tower",
             "secondDuration": 1635,
             "group": "group_7"
+        },
+        {
+            "videoId": "vygxwCtuX0c",
+            "title": "President Trump: 'I need 11,000 votes'",
+            "secondDuration": 483,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

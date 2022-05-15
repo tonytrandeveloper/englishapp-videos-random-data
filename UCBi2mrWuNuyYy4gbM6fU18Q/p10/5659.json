@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Iuqkt0cn1hc",
-            "title": "ATT Wireless Bids to Acquire T Mobile",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "rRY4Pl88Ovs",
             "title": "Escaped Inmate Wanted in Stabbing of Police Officer",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "20-year-old woman shot and killed by border patrol agent in Texas",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "vYBNCeiLr94",
+            "title": "Isaias moving fast up the east coast",
+            "secondDuration": 327,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nf6Pa20AuKE",
-            "title": "'This Week': Powerhouse Roundtable II",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "LL3JjZw1UMg",
             "title": "Ginger Visits the Florida Keys, Barrier Reef",
             "secondDuration": 214,
@@ -121,8 +115,14 @@
             "title": "Happy New Year from Thailand",
             "secondDuration": 280,
             "group": "group_7"
+        },
+        {
+            "videoId": "7xwZCRs3Sqc",
+            "title": "Details of new emergency order from the Department of Homeland Security",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

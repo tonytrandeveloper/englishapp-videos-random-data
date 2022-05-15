@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gssg7HBB99U",
-            "title": "Was the Head of the CIA Hacked By a High School Student?",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "hjKz0Pp63Ac",
             "title": "Oregon State Police called to bring Republican senators back for climate vote",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Hurricane Florence approaching brings flood fears",
             "secondDuration": 252,
             "group": "group_7"
+        },
+        {
+            "videoId": "sCmnA0meBMU",
+            "title": "Missouri governor tests positive for COVID-19",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

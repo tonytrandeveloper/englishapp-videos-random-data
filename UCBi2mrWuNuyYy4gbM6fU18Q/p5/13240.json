@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PGACSQdY45Q",
-            "title": "'Amazing Grace': Exclusive look at never-aired footage of Aretha Franklin",
-            "secondDuration": 406,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ecw_ZA89PtA",
             "title": "ABC News Prime: Biden's COVID-19 plan; DC on lockdown; Israel vaccine success, Palestinian misery",
             "secondDuration": 3241,
@@ -31,8 +25,14 @@
             "title": "Hot Songs Of The Summer",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "KcCz3D_Y68I",
+            "title": "Jacob Wetterling's Murderer Apologizes for 'Evil Acts'",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

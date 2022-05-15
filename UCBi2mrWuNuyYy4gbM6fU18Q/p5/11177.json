@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "N1ISZq0R1-I",
-            "title": "GPS Astray: Lost in Death Valley",
-            "secondDuration": 919,
-            "group": "group_7"
-        },
-        {
             "videoId": "XyVyEHECCtE",
             "title": "What Does a Recession Look Like?",
             "secondDuration": 168,
@@ -31,8 +25,14 @@
             "title": "New Roller Coaster Debuts at Kings Island",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ge2YiCJkdhA",
+            "title": "North Korea reacts to canceled US summit",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

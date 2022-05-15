@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ka80r1al5kc",
-            "title": "President Obama's Defining Moment on Syria",
-            "secondDuration": 426,
-            "group": "group_7"
-        },
-        {
             "videoId": "h0AKP0rjzP4",
             "title": "Hole Rips in Roof of Plane",
             "secondDuration": 369,
@@ -61,8 +55,14 @@
             "title": "Facebook CEO and Wife Mark Daughter's Birth With Pledge",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "I2MJuNxjZao",
+            "title": "'Loud Music' Murder Trial: Michael Dunn Testifies",
+            "secondDuration": 448,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6SCMoihvWic",
-            "title": "US troops land in Poland",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "8o3jOBpIjS8",
             "title": "Final 2020 Presidential Debate: WATCH LIVE Pres. Trump, Joe Biden go head-to-head | ABC News",
             "secondDuration": 15196,
@@ -31,8 +25,14 @@
             "title": "Tower In Nevada Tumbles Down",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "P3T1BWKlXgo",
+            "title": "Bottom Line on Afghan Strategy",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

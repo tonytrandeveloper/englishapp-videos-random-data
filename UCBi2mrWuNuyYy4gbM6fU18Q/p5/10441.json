@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zeiN_A-OSt8",
-            "title": "Lifesaving demonstration to safely escape a house fire l ABC News",
-            "secondDuration": 529,
-            "group": "group_7"
-        },
-        {
             "videoId": "wQqYHnU03Uw",
             "title": "Exonerated Death Row Inmate Meets Prosecutors Who Put Him There",
             "secondDuration": 525,
@@ -31,8 +25,14 @@
             "title": "Last Night's Presidential Debate Was a War of Words",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "6h9-chH_qL0",
+            "title": "Hard Landing",
+            "secondDuration": 304,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

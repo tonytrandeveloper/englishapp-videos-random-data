@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9k7rVZpO-9Y",
-            "title": "This Morning’s Top Headlines – Jan. 5 | Morning News NOW",
-            "secondDuration": 1451,
-            "group": "group_7"
-        },
-        {
             "videoId": "V6PJ1xjUdPs",
             "title": "Record-Breaking Temperatures Are Rapidly Melting Alaska’s Glaciers | NBC Nightly News",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "Matt Lauer Responds Publicly To Misconduct Allegations | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "dgkiRQ22zLs",
+            "title": "A Race Against Time To Evacuate Bay City, Texas | NBC Nightly News",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

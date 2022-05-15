@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nlt8dIN-AS8",
-            "title": "Ember-filled trees, World Series, Boeing’s chief testifies: World in Photos, Oct. 30",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "1N6Hf9sEUpM",
             "title": "Yvette Prieto to Wed Michael Jordan; Joseph Gordon-Levitt and Zoey Deschanel's Web Song",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton Tax Returns Released",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "maG9saNud1A",
+            "title": "San Francisco mayor on keeping protests on message",
+            "secondDuration": 544,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UXRXi_MwRcc",
-            "title": "7.1-Magnitude Earthquake Rattles Mexico City | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "7gfi7XQpi5g",
             "title": "Chicago Mayor Lori Lightfoot Gives Update on Coronavirus Response | NBC News (Live Stream Recording)",
             "secondDuration": 1511,
@@ -31,8 +25,14 @@
             "title": "At Least 36 Dead In Oakland Warehouse Fire, Toll Expected To Rise | NBC Nightly News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "hAGYJCM-5dA",
+            "title": "Trump Speaks To Reporters While Meeting With Colombian President | NBC News (Live Stream Recording)",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

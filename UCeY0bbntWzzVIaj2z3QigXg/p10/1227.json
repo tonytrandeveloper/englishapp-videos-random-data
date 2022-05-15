@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4akFLFq3b-g",
-            "title": "President Donald Trump Holds Press Conference After Summit With Kim Jong Un | NBC News",
-            "secondDuration": 5028,
-            "group": "group_7"
-        },
-        {
             "videoId": "quhgEVYHCLQ",
             "title": "Full Panel: Over 66,000 Deaths Reported In The U.S. | Meet The Press | NBC News",
             "secondDuration": 500,
@@ -61,8 +55,14 @@
             "title": "Florida Girl Survives Gator Attack: ‘I Knew What To Do’ | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "IGHlRuECBe0",
+            "title": "Former President George W. Bush Says Public Discourse In US 'Degraded By Casual Cruelty' | NBC News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

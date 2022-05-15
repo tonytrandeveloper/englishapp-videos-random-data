@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uv4HM3irNQY",
-            "title": "Dow Rebounds After Worst Day For The Market In Four Months | NBC Nightly News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "mZQ2IuwuzqA",
             "title": "Recording: Ronald Reagan Called African U.N. Delegates 'Monkeys' | NBC News",
             "secondDuration": 71,
@@ -31,8 +25,14 @@
             "title": "Albert Einstein Note Sells For $1.3 Million At An Auction In Jerusalem | NBC News",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "fXFBBtJuFGM",
+            "title": "Etan Patz Case: Man Found Guilty Of Murder, Kidnapping | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

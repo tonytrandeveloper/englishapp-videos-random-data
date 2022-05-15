@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rC2rblUXDUg",
-            "title": "Missouri hospital official discusses low vaccination rates, rising cases",
-            "secondDuration": 347,
-            "group": "group_7"
-        },
-        {
             "videoId": "jYuUVrGI3aQ",
             "title": "Fantasy Wedding Gown Fashion Show",
             "secondDuration": 313,
@@ -61,8 +55,14 @@
             "title": "Florida 'Stand Your Ground' Law Cases: Michael Dunn on Trial Accused of Killing Unarmed Teen",
             "secondDuration": 219,
             "group": "group_7"
+        },
+        {
+            "videoId": "ht7hESAjujI",
+            "title": "America’s growing hunger crisis",
+            "secondDuration": 436,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

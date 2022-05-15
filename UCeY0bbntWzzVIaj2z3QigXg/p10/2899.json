@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IZ3VIXyvRH4",
-            "title": "‘Shawshank Redemption’ Director Talks Film’s Enduring Appeal: Extended Interview | NBC Nightly News",
-            "secondDuration": 591,
-            "group": "group_7"
-        },
-        {
             "videoId": "9POqSlGXnAQ",
             "title": "Donald Trump Says Troops Will Use 'Lethal Force' At The Border 'If They Have To' | NBC Nightly News",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Let’s Be Honest: President Trump’s Executive Order Solves Almost Nothing | Think | NBC News",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "Lj5Vk7trCaw",
+            "title": "Sebastian Maniscalco Is Comedy’s New Superstar | NBC Nightly News",
+            "secondDuration": 253,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

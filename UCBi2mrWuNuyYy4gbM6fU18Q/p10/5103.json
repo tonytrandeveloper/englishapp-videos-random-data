@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PMGAgjxdV7k",
-            "title": "Trump Officials Admit 'Missed Opportunities' at First Debate Against Hillary Clinton",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "jQK1SIrc-Ds",
             "title": "Florida officials give update on Surfside tragedy | ABC News",
             "secondDuration": 2569,
@@ -61,8 +55,14 @@
             "title": "ABC News Prime: Georgia's sweeping election overhaul; Severe weather; GOP leaders' border tour",
             "secondDuration": 3615,
             "group": "group_7"
+        },
+        {
+            "videoId": "shh-uw2i60I",
+            "title": "Miss America 2018 leads the call for Gretchen Carlson to resign",
+            "secondDuration": 343,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

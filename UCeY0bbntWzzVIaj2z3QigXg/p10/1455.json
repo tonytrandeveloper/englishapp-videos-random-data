@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HQUGNEUEKUE",
-            "title": "DOJ Announces Charges Against RU Military Officers For Alleged Malware Operations | NBC News NOW",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "f8t1TOK63Z8",
             "title": "Top Story with Tom Llamas Full Broadcast - October 6th | NBC News NOW",
             "secondDuration": 3093,
@@ -61,8 +55,14 @@
             "title": "Hurricane Matthew Will Pound Florida Coastline For More Than 24 Hours | NBC Nightly News",
             "secondDuration": 50,
             "group": "group_7"
+        },
+        {
+            "videoId": "RxIKeg7eE-g",
+            "title": "Phil Bredesen Says Blackburn Sees Her Job As 'Emblematic' Of President Trump Priorities | NBC News",
+            "secondDuration": 162,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

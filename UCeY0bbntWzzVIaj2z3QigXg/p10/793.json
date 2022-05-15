@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aL5ImOlVNok",
-            "title": "Students Rally For Gun Reform On Columbine Anniversary | NBC News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZfOW7KYwyis",
             "title": "Jay Sekulow: You Are Being Asked To Remove Trump 'In An Election Year' | NBC News",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Nightly News Full Broadcast - October 4th",
             "secondDuration": 1259,
             "group": "group_7"
+        },
+        {
+            "videoId": "ahwd64hW8i8",
+            "title": "Dow Rallies After Strong Jobs Report, Comments By Federal Reserve Chairman | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

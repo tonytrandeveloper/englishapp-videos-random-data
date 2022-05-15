@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "si4w00y12oU",
-            "title": "Top Story with Tom Llamas - Feb. 25 | NBC News NOW",
-            "secondDuration": 3044,
-            "group": "group_7"
-        },
-        {
             "videoId": "QuLDGqpnD2k",
             "title": "Colorado Planned Parenthood Shooting Suspect Appears in Court | NBC Nightly News",
             "secondDuration": 174,
@@ -121,8 +115,14 @@
             "title": "Top Story with Tom Llamas – Jan. 11 | NBC News NOW",
             "secondDuration": 3086,
             "group": "group_7"
+        },
+        {
+            "videoId": "BGeqS-rqg3s",
+            "title": "Pipeline Restarting Operations Amid Frenzy At Gas Stations | NBC News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

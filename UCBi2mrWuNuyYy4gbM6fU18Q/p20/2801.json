@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oQmoll2yPz8",
-            "title": "Liver Donation By Neighbors",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "EU9eV1fGLKs",
             "title": "How PewDiePie, YouTube Star, Made Millions Playing Video Games | ABC News",
             "secondDuration": 401,
@@ -121,8 +115,14 @@
             "title": "White House press briefing on shutdown, DACA immigration negotiations| ABC News",
             "secondDuration": 3832,
             "group": "group_7"
+        },
+        {
+            "videoId": "EFpgoI64648",
+            "title": "White House climate adviser: Electric vehicles are the future",
+            "secondDuration": 556,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

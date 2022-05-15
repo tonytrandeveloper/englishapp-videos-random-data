@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZLkwlko4oMQ",
-            "title": "Snipers Fire at Police at Dallas Protest | 5 Officers Killed, 12 Shot",
-            "secondDuration": 291,
-            "group": "group_7"
-        },
-        {
             "videoId": "jyPSeybJZa8",
             "title": "Parents keep memory of murdered student alive by promoting rideshare safety",
             "secondDuration": 561,
@@ -31,8 +25,14 @@
             "title": "Paris Attack: Man Enters Paris Police Station With Knife And Vest",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "T3DVGDEmqwM",
+            "title": "ABC News Prime: Coronavirus concerns, Stock Market, Weather forecast",
+            "secondDuration": 3552,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

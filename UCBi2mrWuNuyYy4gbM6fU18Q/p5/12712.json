@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q-s7UmEPpSA",
-            "title": "Kellyanne Conway Interview on Trump Inauguration, Confirmation Battles",
-            "secondDuration": 305,
-            "group": "group_7"
-        },
-        {
             "videoId": "4VHKiu7Z8BU",
             "title": "'This Week' Web Extra: Rep. Debbie Wasserman Schultz Answers Viewer Questions From Facebook, Twitter",
             "secondDuration": 196,
@@ -31,8 +25,14 @@
             "title": "ABC News Live: Michael Cohen speaks out, Supreme Court picks, daring prison escape | ABC News",
             "secondDuration": 1595,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z2BkZ1cEhBU",
+            "title": "Students Protest White Nationalist's Speech at Texas A&M",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

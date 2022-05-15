@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GZnOBt8FzXE",
-            "title": "ISIS Beheads Aid Worker Peter Kassig | NBC News",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "s4NOUSb6X54",
             "title": "Stephon Clark's Funeral In Sacramento | NBC News",
             "secondDuration": 5846,
@@ -121,8 +115,14 @@
             "title": "Biden Calls Trump’s Actions Since Covid-19 Diagnosis ‘Reckless’ | NBC News NOW",
             "secondDuration": 365,
             "group": "group_7"
+        },
+        {
+            "videoId": "5veOrEQP1Qg",
+            "title": "Senator Jeff Merkley Holds Overnight Talk-A-Thon Protesting Neil Gorsuch Nomination | NBC News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

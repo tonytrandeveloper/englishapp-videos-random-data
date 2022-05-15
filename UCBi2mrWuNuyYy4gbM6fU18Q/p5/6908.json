@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "N8xMTC5vveE",
-            "title": "Steve Bannon Becomes Major Force in Trump Administration | ABC News",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "w9fHaH0eMOA",
             "title": "Sen. Roy Blunt on the inauguration",
             "secondDuration": 400,
@@ -31,8 +25,14 @@
             "title": "Top intel officials won't say if Trump asked them to intervene",
             "secondDuration": 254,
             "group": "group_7"
+        },
+        {
+            "videoId": "hkcc5sGGxXo",
+            "title": "Can Obama Rally His Base?",
+            "secondDuration": 209,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

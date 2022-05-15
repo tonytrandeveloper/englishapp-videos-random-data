@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ooo_a4HkYNU",
-            "title": "Iowa Democratic Party Chair Says Delay In Results Was 'Categorically Unacceptable' | NBC News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "9K8H8p7hLrU",
             "title": "Ukrainians Clear Russian Wreckage Outside Kyiv As Front Line Moves East",
             "secondDuration": 171,
@@ -31,8 +25,14 @@
             "title": "Massive Protests Across The U.S. Over Death of George Floyd | NBC Nightly News",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "f41f3iV4mPw",
+            "title": "Meet the Press - National Security vs. Freedom of the Press - June 2, 2013",
+            "secondDuration": 23,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

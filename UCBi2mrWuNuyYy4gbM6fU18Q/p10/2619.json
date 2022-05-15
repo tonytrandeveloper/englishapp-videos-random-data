@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HccRVQHrt7g",
-            "title": "D-Day squadron: Historic airplanes' journey from US to Normandy",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "-aqRsuKUzDU",
             "title": "Tik Talk: Hair artist embraces Black beauty, self-love",
             "secondDuration": 358,
@@ -61,8 +55,14 @@
             "title": "'Brooklyn Nine-Nine' star Terry Crews on 'Popcorn With Peter Travers' | ABC News",
             "secondDuration": 1649,
             "group": "group_7"
+        },
+        {
+            "videoId": "R_vTFZUY300",
+            "title": "The Briefing Room: Bill Shine resigns, Trump visits Alabama, ethics reform bill, Manafort sentence",
+            "secondDuration": 1095,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

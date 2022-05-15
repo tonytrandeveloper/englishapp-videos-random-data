@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2yAAiM4Jzzs",
-            "title": "4-Year-Old Talks to Deceased Dad",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "3DQNxk9s6mY",
             "title": "'This Week': Terror Raids in Africa",
             "secondDuration": 359,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton Gets Boost After 11 Hours of Testimony on Benghazi",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "KAI_W6hw_rA",
+            "title": "Kim Kardashian Robbed at Gunpoint | Kanye Stops Show",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

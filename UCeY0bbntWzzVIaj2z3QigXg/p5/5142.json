@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xtW5hGZEulc",
-            "title": "White House Press Briefing - November 16, 2017 | NBC News",
-            "secondDuration": 1223,
-            "group": "group_7"
-        },
-        {
             "videoId": "cPl68l2hN3w",
             "title": "Dozens Of Families Homeless After Fire Rips Through Dallas Apartment Complex | NBC Nightly News",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "NYC Little League Honoring Fallen Police Officer By Helping Community | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ph0e-V2YPXA",
+            "title": "Fauci 'Cautiously Optimistic' U.S. Will Have Safe And Effective Vaccine | NBC News NOW",
+            "secondDuration": 326,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

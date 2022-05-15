@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "40AOpqdsOng",
-            "title": "Russia Claims Video Shows British Warship Forced Away From Crimea",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "B1SkvgoAUn0",
             "title": "Mother Of 16-Year-Old Fatally Shot By Columbus Police: ‘She Didn’t Deserve What Happened To Her’",
             "secondDuration": 297,
@@ -31,8 +25,14 @@
             "title": "Full Haslam: ‘I Don’t Think Any Race Is Entirely On The President’ | Meet The Press | NBC News",
             "secondDuration": 425,
             "group": "group_7"
+        },
+        {
+            "videoId": "zRdQZ03QIaE",
+            "title": "Biden Heads To Capitol Hill After Infrastructure Vote Delay",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

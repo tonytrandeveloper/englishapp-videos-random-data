@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0CM2F1mfQMU",
-            "title": "Extreme Western Weather: 15 Million Brave Punishing Temperatures | NBC Nightly News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sk_VPy2CfCM",
             "title": "Trump, White House Coronavirus Task Force Hold Briefing | NBC News",
             "secondDuration": 8110,
@@ -31,8 +25,14 @@
             "title": "Embattled EPA Chief Scott Pruitt Resigns Amid Scandals | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "_RodRIZEXj8",
+            "title": "Full Fauci Interview: 'A Virus Will Not Mutate Unless You Allow It To Replicate'",
+            "secondDuration": 1012,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

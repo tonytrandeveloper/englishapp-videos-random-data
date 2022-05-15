@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I_YesXNPTvw",
-            "title": "Giants Fans Celebrate World Series Win | NBC News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "t5SlgULv30Y",
             "title": "Jeff Bezos Unveils Blue Origin's New 'Blue Moon' Lunar Lander | Mach | NBC News",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Trump: ‘We Love Our Hispanics’ | NBC News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "wAvRykIuyAI",
+            "title": "13 Officers Injured, More Than 100 Arrested In Chicago After Police-Involved Shooting | NBC News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

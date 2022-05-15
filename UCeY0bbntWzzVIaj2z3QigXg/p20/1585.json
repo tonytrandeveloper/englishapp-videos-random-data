@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xjM8sW8LoXU",
-            "title": "South Carolina Flooding: Dam Breach Triggers Full Scale Evacuation | NBC Nightly News",
-            "secondDuration": 241,
-            "group": "group_7"
-        },
-        {
             "videoId": "xfSL7N8n7cE",
             "title": "Tech Executives Grilled On Russian Election Meddling | NBC Nightly News",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "Jerusalem Clashes Puts Damper On Christmas In Bethlehem | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "9D0zyNyvzaE",
+            "title": "Tension Between Trump And Macron As Leaders Gather In Paris For WWI Anniversary | NBC Nightly News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

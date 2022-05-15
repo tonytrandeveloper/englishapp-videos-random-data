@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_5IC8zqcq_I",
-            "title": "15 Dead After Iranian Cargo Plane Crashes On Mistaken Airfield | NBC News",
-            "secondDuration": 57,
-            "group": "group_7"
-        },
-        {
             "videoId": "1YCWHRhWoPE",
             "title": "Police Identify Person Of Interest In Case Of Missing Utah Student | NBC Nightly News",
             "secondDuration": 94,
@@ -121,8 +115,14 @@
             "title": "Morning News NOW Full Broadcast - June 15 | NBC News NOW",
             "secondDuration": 2990,
             "group": "group_7"
+        },
+        {
+            "videoId": "qVjKAh5K2eY",
+            "title": "MTP Compressed: Cohen Testimony Gives Dems New Leads, GOP Says ‘No Collusion’ | Meet The Press",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QYfr_MjpFFU",
-            "title": "Massive jailbreak in Alabama",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "dA3ZspYllC8",
             "title": "\"Top Line\": Obama's Big Speech and Kennedy's Memoir",
             "secondDuration": 206,
@@ -121,8 +115,14 @@
             "title": "U.S. intelligence differs with Trump on global threats",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "WnCfs4wXOJQ",
+            "title": "Ferguson Shooting: Search Underway for Suspect",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

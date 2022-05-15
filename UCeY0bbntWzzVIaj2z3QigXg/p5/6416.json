@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E88sMNVsrL4",
-            "title": "Body Camera Footage Shows Moments Following Florida Tiger Attack",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "uhh1Bw24XI8",
             "title": "NBC News Exclusive: Jacob Soboroff Interviews Homeland Security Sec. Alejandro Mayorkas | NBC News",
             "secondDuration": 1166,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Goes All In With Politics Of Distraction | NBC Nightly News",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "YM9M_6Txlq8",
+            "title": "U.K. Company Rolling Out Digital ‘Vaccine Passports’ As Covid Immunization Spreads | NBC News NOW",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

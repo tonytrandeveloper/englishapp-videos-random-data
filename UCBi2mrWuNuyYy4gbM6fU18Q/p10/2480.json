@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tIb_1sXJOSM",
-            "title": "Day One of Barack Obama's Second Term",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "dJuEWfEf9wo",
             "title": "Thousands pay tribute in George Floyd’s hometown | WNT",
             "secondDuration": 203,
@@ -61,8 +55,14 @@
             "title": "Could Cleveland Kidnap Suspect Be Sentenced to Death?",
             "secondDuration": 412,
             "group": "group_7"
+        },
+        {
+            "videoId": "khK27TDEoTM",
+            "title": "Robot allows 6-year-old with cancer to attend kindergarten",
+            "secondDuration": 53,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

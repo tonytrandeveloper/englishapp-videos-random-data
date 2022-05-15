@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "R47s7uhDUQI",
-            "title": "Out-of-control Chinese rocket set to crash on Earth this weekend l GMA",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "I_R7nXclNsw",
             "title": "1 in 5 new US COVID-19 infections in Florida | WNT",
             "secondDuration": 256,
@@ -61,8 +55,14 @@
             "title": "9-Year-Old Killed in 'Targeted Assassination' by Chicago Gang",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "AqyIWCT7_fM",
+            "title": "WH blasts Democrats' 'disgraceful' investigation",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

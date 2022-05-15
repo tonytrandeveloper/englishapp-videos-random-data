@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ReOE8sWNJZM",
-            "title": "Morning News NOW Full Broadcast - April 1",
-            "secondDuration": 2445,
-            "group": "group_7"
-        },
-        {
             "videoId": "-so1y6Q7Ml4",
             "title": "Russian Invasion A Historic Test For World Leaders",
             "secondDuration": 278,
@@ -61,8 +55,14 @@
             "title": "College Students Share Analysis On The Democratic Presidential Debates | NBC News Now",
             "secondDuration": 278,
             "group": "group_7"
+        },
+        {
+            "videoId": "gB2bvJWpbMg",
+            "title": "Dear Mr. President: Letters From The American People | NBC News",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

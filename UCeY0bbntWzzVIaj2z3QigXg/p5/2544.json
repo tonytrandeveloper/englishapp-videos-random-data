@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PRoy3EaT130",
-            "title": "Michelle Obama: I Was Raised In A Place Donald Trump Likens To ‘Hell’ | NBC News",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "gF76MCNVm4E",
             "title": "Voter Turnout Surges In U.S. Midterm Elections | NBC Nightly News",
             "secondDuration": 58,
@@ -31,8 +25,14 @@
             "title": "Live: Trump Participates In Presentation Of The U.S. Space Force Flag | NBC News",
             "secondDuration": 554,
             "group": "group_7"
+        },
+        {
+            "videoId": "XttLYiycu6A",
+            "title": "Remembering The Americans Lost To Covid-19 | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

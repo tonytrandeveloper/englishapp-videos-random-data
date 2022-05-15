@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tbSNRigVcAU",
-            "title": "Full Blunt: 'I have no idea what they did' in Trump inaugural committee | Meet The Press | NBC News",
-            "secondDuration": 542,
-            "group": "group_7"
-        },
-        {
             "videoId": "SI3pYfvCv6Y",
             "title": "Trump Pushed Ukraine To Investigate Joe Biden During Call, White House Notes Show | NBC Nightly News",
             "secondDuration": 240,
@@ -61,8 +55,14 @@
             "title": "Russia Is Jamming U.S.-Provided GPS Signals In Ukraine, U.S. General Says",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "kGEM-qa8lxU",
+            "title": "President Donald Trump Announces Precision Strikes In Syria | NBC News",
+            "secondDuration": 476,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

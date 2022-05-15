@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "APvOfUZ7eW0",
-            "title": "Rain, Rain Not Going Away",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "wevRmQJF-Jo",
             "title": "Burke Ramsey Sues CBS for $750M in Damages",
             "secondDuration": 287,
@@ -301,8 +295,14 @@
             "title": "Fatigued Truckers: Deadly Consequences",
             "secondDuration": 514,
             "group": "group_7"
+        },
+        {
+            "videoId": "9LSrlLOPtXo",
+            "title": "Top Tweets in 2011",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

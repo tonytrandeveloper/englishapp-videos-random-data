@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "F-hPhiFJt4o",
-            "title": "New York City Artist Crafts Campaign Against Anti-Asian Hate | NBC News NOW",
-            "secondDuration": 238,
-            "group": "group_7"
-        },
-        {
             "videoId": "I3E8QyA12bk",
             "title": "What Voters Want From 2020 Candidates | NBC News Now",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Colleges Grapple With Whether To Mandate Covid Vaccines For Students",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "g4HUwqMsh1c",
+            "title": "George Floyd's Brother Philonise Testifies In Chauvin Trial | NBC Nightly News",
+            "secondDuration": 162,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CZyhj8WFpf8",
-            "title": "School principal donates kidney to father of 3",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "wdcbLCULMvk",
             "title": "Thanksgiving Travel Delays 2012: LAX Airport Worker Strike: Workers Protest on Busiest Travel Day",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Paul Ryan Blasts John Roberts On Supreme Court Health Care Decision",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gdm4zhpBWak",
+            "title": "Mississippi hits record single-day spike in coronavirus cases",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

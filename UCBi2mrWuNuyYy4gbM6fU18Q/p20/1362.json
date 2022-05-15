@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Hmm0a8pnKlE",
-            "title": "Latest developments in Elizabeth Holmes’ criminal fraud trial | 20/20 ‘The Dropout’ Preview",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "DuOd7kFv0fw",
             "title": "Man Raises Nearly $250,000 for Teen",
             "secondDuration": 109,
@@ -121,8 +115,14 @@
             "title": "Dog Comforted by Worker",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "lH9Ta_kwgLQ",
+            "title": "Donald Trump Appears With Paul Ryan on 'Thank You' Tour",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

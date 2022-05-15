@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hZgUh-htnyA",
-            "title": "Newtown Families Return to Capitol Hill for 6-Month Anniversary",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "J3xL5vc22ro",
             "title": "The Tonight Show to Move to New York",
             "secondDuration": 64,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Powerful Storm Slams California",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "YjLy_eHNTEU",
+            "title": "New Rules for Cell Phone Use on Planes Set for Takeoff",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

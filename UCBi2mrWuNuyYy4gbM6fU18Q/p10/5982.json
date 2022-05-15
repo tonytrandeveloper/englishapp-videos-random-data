@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CDOfdGdFcyw",
-            "title": "Extreme Weather: Flash Floods Cause Devastating Mudslides in California",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "MXeSZGEbnoY",
             "title": "Sen. Tim Scott says it is time for Roy Moore to 'move on'",
             "secondDuration": 700,
@@ -61,8 +55,14 @@
             "title": "Horrible Bosses Movie Review",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "-7-DDlpAMko",
+            "title": "Worst Advice: Tamera Mowry",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

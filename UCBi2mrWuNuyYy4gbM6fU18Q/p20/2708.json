@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lFyeF9d1Stc",
-            "title": "Weekend Window: North Cascades National Park",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "gGPyggHQKmQ",
             "title": "New details about Las Vegas gunman's final hours",
             "secondDuration": 259,
@@ -121,8 +115,14 @@
             "title": "Trump Named Time's 'Person of The Year'",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q1AzTts1_-o",
+            "title": "Valentine's Day Cancelled: Georgia Sheriff Shuts Down Holiday",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

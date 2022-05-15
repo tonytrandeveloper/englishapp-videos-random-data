@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9Y0oNDtkBJo",
-            "title": "Clinton, Trump Will Support Election Outcome",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "xN_-Xy91bMw",
             "title": "Trump announces Sudan and Israel have agreed to normalize relations",
             "secondDuration": 84,
@@ -121,8 +115,14 @@
             "title": "Ebola: 'Heroic' Nurse 1st to Contract the Virus in US",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "_s6PygG-k0A",
+            "title": "WEBCAST: Prom 70 Years Later!",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tYDni4ooOnI",
-            "title": "Trump Pardons Former National Security Adviser Michael Flynn | NBC Nightly News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "y5yeADXbXKc",
             "title": "NRA Sues Florida Over Newly Approved Gun Bill | NBC Nightly News",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "New Details About Why Prince Harry & Meghan Markle May Have Rushed Announcement | NBC Nightly News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "IhHtc3WgdkQ",
+            "title": "How The Capitol Riot Upended The Life Of A Man Who Wasn’t Even There",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

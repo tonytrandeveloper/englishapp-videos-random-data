@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jjJHE343nxQ",
-            "title": "The Briefing Room: House investigations, Kushner's clearances, Trump's wall emergency declaration",
-            "secondDuration": 1189,
-            "group": "group_7"
-        },
-        {
             "videoId": "B0TEMbSK3_I",
             "title": "President Obama to Push for More Action in Libya",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "Inauguration 2013: President Obama's Second Term, Issues His Administration Faces",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "51xkyFAf8fw",
+            "title": "SPECIAL REPORT: Roger Stone indicted by special counsel",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

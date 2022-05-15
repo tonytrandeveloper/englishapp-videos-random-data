@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p5DUa2l0YNM",
-            "title": "Dog Rescued From Inside Home 6 Days After Seattle Landslide",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "lBR6ocCvML8",
             "title": "NASA and SpaceX’s Historic Mission | NBC Nightly News",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "Hallie Jackson NOW - Feb. 4 | NBC News NOW",
             "secondDuration": 3219,
             "group": "group_7"
+        },
+        {
+            "videoId": "y4SKPLBV1ks",
+            "title": "New York Police Officers Prompt Cheers As They Take The Knee With Protesters | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

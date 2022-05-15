@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QnBZkQjXZJs",
-            "title": "Barneys Department Store Accused of Racially Profiling Customers",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "ppaOQt6lHtc",
             "title": "Federal judge releases video statement on son’s killing",
             "secondDuration": 271,
@@ -61,8 +55,14 @@
             "title": "Tuesday marks Equal Pay Day for Black women",
             "secondDuration": 527,
             "group": "group_7"
+        },
+        {
+            "videoId": "uyEMu5uDUjQ",
+            "title": "Former FBI agent discusses Capitol siege investigation",
+            "secondDuration": 430,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

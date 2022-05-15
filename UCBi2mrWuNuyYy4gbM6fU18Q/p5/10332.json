@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LzVE0a6xTqg",
-            "title": "National Waffle Day 2016",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "9auNrKhcT5o",
             "title": "Full: White House Press Breifing with Sean Spicer (2/1/2017) | ABC News",
             "secondDuration": 2882,
@@ -31,8 +25,14 @@
             "title": "Britney Spears Launches Lingerie Collection",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "QDyhcV623ag",
+            "title": "South Carolina primary coverage from ABC News Live",
+            "secondDuration": 12660,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Gdm4zhpBWak",
-            "title": "Mississippi hits record single-day spike in coronavirus cases",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "qKqtEupAnWg",
             "title": "Obama Announces 'Record High' High School Graduation Rate",
             "secondDuration": 52,
@@ -61,8 +55,14 @@
             "title": "'Parts Unknown' host Anthony Bourdain's death ruled a suicide: Officials",
             "secondDuration": 241,
             "group": "group_7"
+        },
+        {
+            "videoId": "CfgdzvBc6rI",
+            "title": "Trump and Biden address the difference they see on how the economy is working",
+            "secondDuration": 334,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

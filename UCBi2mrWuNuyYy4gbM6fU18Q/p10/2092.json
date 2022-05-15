@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m0Ay91oCuRY",
-            "title": "'He's coming home for now': Secretary of State Mike Pompeo on US Taliban negotiator",
-            "secondDuration": 710,
-            "group": "group_7"
-        },
-        {
             "videoId": "L_1rTNy7DjU",
             "title": "War veteran lawmakers debate how Congress should respond to Las Vegas shooting",
             "secondDuration": 850,
@@ -61,8 +55,14 @@
             "title": "Missing Alabama woman trapped in car for five days",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "mpB1VhSfWoE",
+            "title": "Oscar Pistorius Returns to Court for Reeva Steenkamp Murder Trial",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

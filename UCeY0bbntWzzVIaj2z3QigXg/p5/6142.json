@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rP7GG8jHZt8",
-            "title": "China Ultramarathon Turns deadly After Freezing Rain Descends",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "j4mBX7YpHFY",
             "title": "NYC Mayor Bill de Blasio Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4148,
@@ -31,8 +25,14 @@
             "title": "See Firefighters Rescue Boy From Collapsed Condo Building Near Miami Beach",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "AR3NMyQhVZI",
+            "title": "President Donald Trump Hosts Campaign Rally In Iowa | NBC News",
+            "secondDuration": 4847,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

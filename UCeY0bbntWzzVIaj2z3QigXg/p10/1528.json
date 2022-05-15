@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "k0t4PvW7DMs",
-            "title": "What The Trump’s Attacks Mean For Democratic Party | NBC News Now",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "rfF48VseMQs",
             "title": "WWII: Returns To Warship That Survived One Of The Worst Attacks In History | NBC Nightly News",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Live: Trump Holds Campaign Rally In Wisconsin | NBC News",
             "secondDuration": 3520,
             "group": "group_7"
+        },
+        {
+            "videoId": "cqJqpuoV8DM",
+            "title": "Where Do 2020 Candidates Stand On Guns? | NBC News Now",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

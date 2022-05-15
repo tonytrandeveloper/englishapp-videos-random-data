@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rYHPcKd3iRc",
-            "title": "Obama's Inaugural Speech: 'Our Time' for Changing Nation",
-            "secondDuration": 415,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q9Zxgkds6N8",
             "title": "Hunt for Airbnb guests accused of stealing family heirlooms | ABC News",
             "secondDuration": 174,
@@ -121,8 +115,14 @@
             "title": "Married in the Mall",
             "secondDuration": 263,
             "group": "group_7"
+        },
+        {
+            "videoId": "DtytvSx7b5s",
+            "title": "$110,000 reward offered in death of 16-year-old Tioni Theus",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

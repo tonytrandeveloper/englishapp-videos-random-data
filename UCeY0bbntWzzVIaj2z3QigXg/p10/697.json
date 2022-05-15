@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kaT_YySmSNY",
-            "title": "Hurricane Irma: Long Lines For Thousands Fleeing To Overcrowded Shelters | NBC Nightly News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "gybmzhmF6wg",
             "title": "N.J. Gov. Murphy Expands Testing For Inmates, Transit Staff | NBC News NOW",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Spokesman For Russian President Putin Hospitalized With Coronavirus | NBC Nightly News",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "pycm8akvfUs",
+            "title": "Omicron Vaccine To Be Ready In March, Pfizer CEO Says",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

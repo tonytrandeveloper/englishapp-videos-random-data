@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L5PE9B9b_wI",
-            "title": "In Case You Missed It: 10-31-2014",
-            "secondDuration": 253,
-            "group": "group_7"
-        },
-        {
             "videoId": "cXxJe-fjNHg",
             "title": "Man found guilty on all counts in New York City subway bomb attack",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "HollyWed: Inside Celebrity Marriages",
             "secondDuration": 503,
             "group": "group_7"
+        },
+        {
+            "videoId": "TB45bNRbdww",
+            "title": "Former GOP Congresswoman: ‘So much whitewashing’ of Jan. 6 attack",
+            "secondDuration": 470,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

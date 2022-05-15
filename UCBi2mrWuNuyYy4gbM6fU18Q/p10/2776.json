@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UCVILY5EfLI",
-            "title": "Charlie Sheen's Children Taken (03.02.11)",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "LhZR6cr0uIk",
             "title": "The Conversation: Diane Sawyer Talks With Jon Karl",
             "secondDuration": 231,
@@ -61,8 +55,14 @@
             "title": "Spotlight on voter turnout this election",
             "secondDuration": 350,
             "group": "group_7"
+        },
+        {
+            "videoId": "1WtNvu9rEa4",
+            "title": "ABC News Live: Manafort guilty, Cohen plea deal and Mollie Tibbitts' body found",
+            "secondDuration": 1423,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "p7-0rPvduug",
-            "title": "Third Presidential Debate Highlights | Clinton, Trump on 2nd Amendment, Guns",
-            "secondDuration": 295,
-            "group": "group_7"
-        },
-        {
             "videoId": "o5ndhKeU7c4",
             "title": "Chauvin trial continues, cherry blossoms and ballet returns: World in Photos, April 1",
             "secondDuration": 115,
@@ -121,8 +115,14 @@
             "title": "Nick Carter and Jordan Knight Discuss Their New Music Project",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sh32-AZwA58",
+            "title": "Mueller testifies on Capitol Hill about Russia, Trump",
+            "secondDuration": 515,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mdCXJmH_Z9c",
-            "title": "David Beckham | As \"Outlaw\" Actor",
-            "secondDuration": 248,
-            "group": "group_7"
-        },
-        {
             "videoId": "tjAP2iq3I8E",
             "title": "$600 stimulus checks begin to roll out via direct deposit or mail",
             "secondDuration": 286,
@@ -121,8 +115,14 @@
             "title": "Manitoba manhunt: Canadian officials give update on search for murder suspects  | ABC News",
             "secondDuration": 1231,
             "group": "group_7"
+        },
+        {
+            "videoId": "hDgY3w-nIFc",
+            "title": "Derek Chauvin addresses court with cryptic message",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

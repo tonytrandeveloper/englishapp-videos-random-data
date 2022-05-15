@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pKiDLT5vt5E",
-            "title": "Lightning Round: What Foreign Relationship Would You Reset? | NBC News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "ueyrM4QSxsU",
             "title": "Matthew McConaughey Shows How To Make A Face Mask Using A Coffee Filter | NBC News",
             "secondDuration": 79,
@@ -121,8 +115,14 @@
             "title": "Hillary Clinton: 'Donald Thinks Belittling Women Makes Him Bigger' | NBC News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "CLsvJC7j-iA",
+            "title": "Six Million Americans In Danger Of Eviction",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

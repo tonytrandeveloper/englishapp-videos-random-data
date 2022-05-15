@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-41StQ679WA",
-            "title": "Trump and senate Republicans predict tax bill will pass",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "5hc-RrVXeco",
             "title": "Johnny Lewis Dead: 'Sons of Anarchy' Actor Suspected of Murder: Did Synthetic Drug Make Him Crazy?",
             "secondDuration": 159,
@@ -61,8 +55,14 @@
             "title": "Aziz Ansari Interview 2013: Comedian on 'Epic,' First Celebrity Crush",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "tVjZL1fUDvw",
+            "title": "Biden to sign $1.2T infrastructure bill | On Location",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

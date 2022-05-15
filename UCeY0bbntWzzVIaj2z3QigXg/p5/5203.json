@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "f9qLIEWsjbE",
-            "title": "U.S. Military Denies Killing Mosul Civilians with ‘Imprecise Bombing’ | NBC News",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "ShcXGWUaSMk",
             "title": "President Trump Selects Neil Gorsuch For Supreme Court | NBC News",
             "secondDuration": 1017,
@@ -31,8 +25,14 @@
             "title": "Push For Clemency As Julius Jones Execution Nears In Oklahoma",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "-U2Iaxkvn_E",
+            "title": "#BringBackOurGirls Victim Found 2 Years After Boko Haram Kidnapping | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

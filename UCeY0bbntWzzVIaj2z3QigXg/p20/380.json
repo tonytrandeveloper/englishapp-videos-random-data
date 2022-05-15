@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Jv5pGTG_Kjc",
-            "title": "J.D Vance, Best-Selling Author Opens Up About His Painful Childhood And The Future Ahead | NBC News",
-            "secondDuration": 805,
-            "group": "group_7"
-        },
-        {
             "videoId": "_GLK_YSapRA",
             "title": "White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 1630,
@@ -121,8 +115,14 @@
             "title": "Donald Trump Talks China, North Korea In Impromptu Interview | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "LuLYIiGHwyI",
+            "title": "Families Hold On To Hope In Search For Unaccounted Loved Ones In Florida",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

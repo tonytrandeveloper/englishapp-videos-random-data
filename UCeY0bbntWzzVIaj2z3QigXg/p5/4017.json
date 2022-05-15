@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HFAsyCAGwPM",
-            "title": "Chaos, Confusion At Manila Airport After COVID-19 Policy Changes | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "YNa8pcXudCQ",
             "title": "Andrew Cuomo Gives Update On New York Coronavirus Cases | NBC News (Live Stream Recording)",
             "secondDuration": 1945,
@@ -31,8 +25,14 @@
             "title": "Trump: Democrats 'Want To Weaken Our Police' After Blocking Republican Reform Plan | NBC News NOW",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "qPvLaoAfjGw",
+            "title": "Everything We Learned From The Public Impeachment Testimonies | NBC News NOW",
+            "secondDuration": 401,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-Y8fBVYBt3Q",
-            "title": "Violent Weekend Across U.S. | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ae6-p9MF--E",
             "title": "Prostitution Ring In Coffee Shops Shut Down | Archives | NBC News",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Why Twitter Banned On Political Ads | NBC News NOW",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "qzqaQ81t42M",
+            "title": "White House: Russia ‘On An Island’ With Its Support Of Bashar al-Assad | NBC News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

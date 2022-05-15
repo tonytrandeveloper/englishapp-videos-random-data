@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "k3yGeFDVXH0",
-            "title": "Dow Loses 352 Points After Federal Reserve Raises Interest Rates 4th Time In 2018 | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "wZYyxGa_21Y",
             "title": "Scientists: President Donald Trump Advancing ‘Doomsday Clock’ | NBC News",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "After the Truce: Gaza Conflict 101 | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "6gQ-3qHVhH0",
+            "title": "Vladimir Putin: Russian Limits On U.S. Diplomats 'Will Be Felt Significantly' | NBC News",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

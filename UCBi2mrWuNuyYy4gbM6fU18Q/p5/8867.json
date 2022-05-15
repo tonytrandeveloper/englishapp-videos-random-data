@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PRshw-V8wFk",
-            "title": "Arsenic in Apple Juice: Dr. Oz's Fears Revisited by New Study (11.30.2011)",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZHXf7fcQpNE",
             "title": "World Bank President Warns Washington Default Would Be 'Disastrous'",
             "secondDuration": 217,
@@ -31,8 +25,14 @@
             "title": "Hurricane Sandy's Aftermath: Dangers of Invisible, Flammable Gas",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "F2RQPVO-ibU",
+            "title": "ISIS names new leader, issues threat to US l ABC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

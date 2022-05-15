@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rUJI2bd7oRM",
-            "title": "Students Accused of Beheading a Llama, Shooting Another",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "eELwRqVQr2o",
             "title": "Driver lucky to be alive after out-of-control car goes airborne",
             "secondDuration": 53,
@@ -31,8 +25,14 @@
             "title": "Tornadoes Tear Apart the Heartland",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "CMpeVOmCiRc",
+            "title": "Colorado wildfires force evacuations ahead of the new year | On Location",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

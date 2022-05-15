@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wPn5n-05LdU",
-            "title": "War in Ukraine: March 5, 2022",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "gz5PvtSso6M",
             "title": "Fixation: Hyper-Sexual Apes",
             "secondDuration": 160,
@@ -121,8 +115,14 @@
             "title": "Brian Carrick Disappears From Illinois Grocery Store",
             "secondDuration": 533,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zz0tykFOSTI",
+            "title": "5 dead after Denver-area shooting spree",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

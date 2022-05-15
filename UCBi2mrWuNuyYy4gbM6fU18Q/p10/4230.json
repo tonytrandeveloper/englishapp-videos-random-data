@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Gvaowb65Xls",
-            "title": "Star Wars: Rogue One | New Trailer Premieres on Good Morning America",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "kgdrg17EVfQ",
             "title": "Dr. Dre Apologizes Following the Release of 'Straight Outta Compton'",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Best Cyber Monday Deals a Gift for the U.S. Economy?",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "pFUGZro4dGY",
+            "title": "ISIS Urging 'Lone Wolves' to Launch Attacks",
+            "secondDuration": 413,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

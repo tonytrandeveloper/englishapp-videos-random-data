@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aULYGUMXiOA",
-            "title": "After James Comey Hearing, Russia Investigation  | NBC Nightly News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "bswdumoC2VA",
             "title": "Stock Trading Halted After Markets Plunge At Market Open | NBC News",
             "secondDuration": 315,
@@ -31,8 +25,14 @@
             "title": "Cracker Barrel Ordered To Pay $9 Million After Serving Guest Cleaning Solution",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "mUE8RjfifQA",
+            "title": "Video Shows Scene Of Deadly Southern California Crash Between Vehicle And Semitruck | NBC News NOW",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

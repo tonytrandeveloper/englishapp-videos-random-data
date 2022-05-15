@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UvvNl63gZlQ",
-            "title": "After fighting deadly disease, Torin Yater-Wallace goes for Olympic gold",
-            "secondDuration": 448,
-            "group": "group_7"
-        },
-        {
             "videoId": "iahxtUJvBgQ",
             "title": "Noah's Ark Comes to Life in Kentucky",
             "secondDuration": 409,
@@ -61,8 +55,14 @@
             "title": "Coronavirus cases double in New York | WNT",
             "secondDuration": 274,
             "group": "group_7"
+        },
+        {
+            "videoId": "MflNCcdnPI8",
+            "title": "President Trump delivers remarks on new trade deal with Mexico, Canada  | ABC News",
+            "secondDuration": 4803,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

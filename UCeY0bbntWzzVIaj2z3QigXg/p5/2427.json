@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PUxRhw2TPAE",
-            "title": "Death Toll In Florida Building Collapse Grows To 36",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "kSXu4ysMc5M",
             "title": "President Donald Trump Signs Major NASA Initiative (Full) | NBC News",
             "secondDuration": 480,
@@ -31,8 +25,14 @@
             "title": "Confronting Russian President Vladimir Putin, Part 6 | Megyn Kelly | NBC News",
             "secondDuration": 362,
             "group": "group_7"
+        },
+        {
+            "videoId": "pJp2z9sYkIk",
+            "title": "‘I Saw People With Whole Legs Burned:’ London Subway Fire Witness | NBC News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "5e4RrfK49fY",
-            "title": "Southern California fire prompts mandatory evacuations",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "KGgSNmRgonI",
             "title": "Washington D.C. man wins groundbreaking election from behind bars | Nightline",
             "secondDuration": 353,
@@ -301,8 +295,14 @@
             "title": "Caravan carrying dozens of migrants seeking asylum from Central America",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sk-73Rv1Wko",
+            "title": "More than 300 killed after mosque terror attack in Egypt",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XZSRJq9Fr-Q",
-            "title": "ABC News Prime: NATO, US tensions with Russia; Surging gun violence; Bitcoin mining sparks debate",
-            "secondDuration": 5280,
-            "group": "group_7"
-        },
-        {
             "videoId": "gH9bBRYV9ro",
             "title": "Quentin Tarantino responds to Uma Thurman's allegations",
             "secondDuration": 209,
@@ -31,8 +25,14 @@
             "title": "Pelosi calls for vote on war powers resolution l ABC News",
             "secondDuration": 413,
             "group": "group_7"
+        },
+        {
+            "videoId": "XDb8nsBJ32A",
+            "title": "President Obama's Niece Potentially Threatened by Gunman",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

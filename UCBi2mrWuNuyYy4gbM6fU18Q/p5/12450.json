@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yjdH--viGTM",
-            "title": "November noreaster drops 6 inches of snow, ice on New York City",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "cZeM0KjkkCc",
             "title": "3 Washington police officers face criminal charges",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Presidential transition of power: Examined l ABC News",
             "secondDuration": 451,
             "group": "group_7"
+        },
+        {
+            "videoId": "nibILRsHGQ0",
+            "title": "Russia’s COVID-19 crisis deepens",
+            "secondDuration": 303,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

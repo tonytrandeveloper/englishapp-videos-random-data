@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CHUugTf9bLs",
-            "title": "CDC panel to decide on Johnson & Johnson vaccine | WNT",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ldl7OZHL6FU",
             "title": "Prisoner Swap Underway in Middle East",
             "secondDuration": 125,
@@ -121,8 +115,14 @@
             "title": "Cleveland Women Freed: John Walsh Responds",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "xJhZza-Sv_M",
+            "title": "Felicity Huffman to plead guilty in college admissions cheating scandal",
+            "secondDuration": 330,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

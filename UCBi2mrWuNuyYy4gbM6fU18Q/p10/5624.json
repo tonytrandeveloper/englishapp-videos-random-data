@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "d0IWzPq7UyE",
-            "title": "The Undecideds: Presidential Election Up for Grabs",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "OtEzdc4DajI",
             "title": "4 Boston College students attacked with acid in France",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Texas Love Triangle | 20/20 PART 2",
             "secondDuration": 455,
             "group": "group_7"
+        },
+        {
+            "videoId": "vqo9jUvRroY",
+            "title": "3 Black Students Face Charges After Alleged Racial Bus Fight",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

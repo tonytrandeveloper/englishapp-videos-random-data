@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ePvUvxPQGKI",
-            "title": "New storm forms in the Atlantic l GMA",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "8LSt11ORKPw",
             "title": "Guantanamo Bay’s role in war on terror 20 years after Sept. 11",
             "secondDuration": 562,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Police Helicopter Pulls Two People From River",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "0Vby6jtbAxE",
+            "title": "Trump's physician gives update from Walter Reed | ABC News",
+            "secondDuration": 1317,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

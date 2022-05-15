@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "71ZYxpmSyls",
-            "title": "Watch Sen. Elizabeth Warren's Full Speech At The 2020 DNC | NBC News",
-            "secondDuration": 335,
-            "group": "group_7"
-        },
-        {
             "videoId": "rfnH7LCFQL4",
             "title": "Watch: Swarms Of Locusts Fill The Skies Of Central And Northern India | NBC News",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "Ivanka Trump Shutters Her Fashion Line | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "pWi0KbuBe94",
+            "title": "Senator Ron Johnson: 'We Should Not Be Voting' on Healthcare This Week | Meet The Press | MSNBC",
+            "secondDuration": 473,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

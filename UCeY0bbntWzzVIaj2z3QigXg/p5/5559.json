@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MAUnitL6hw4",
-            "title": "AstraZeneca Says Its Covid-19 Vaccine Is Highly Effective | NBC Nightly News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "6FsMFkBnxs0",
             "title": "Milwaukee 3-Year-Old Missing After Mother Found Dead In Backyard",
             "secondDuration": 42,
@@ -31,8 +25,14 @@
             "title": "What You Need To Know About Rapid Antigen Tests And The Omicron Variant",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "aUUl-raIaAw",
+            "title": "Outrage After One Black Juror Selected In Trial For Ahmaud Arbery’s Killing",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5CzIDvoR39w",
-            "title": "DOJ Launches Gun Trafficking Strike Forces In Five Cities",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qs23hD8QkIE",
             "title": "Federal Trade Commission Reportedly Probing Facebook | NBC Nightly News",
             "secondDuration": 148,
@@ -121,8 +115,14 @@
             "title": "DNC Chair On 'Obscene' Amount Of Money In Politics | Meet The Press | NBC News",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "uBmLQqjmvN8",
+            "title": "Bill Cosby Sentenced To 3 To 10 Years In Prison For Sexual Assault | NBC News",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

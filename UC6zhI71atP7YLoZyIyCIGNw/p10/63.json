@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qIoe65FExPs",
-            "title": "🍎  Apples and Bananas 2 | Kids Songs | Nursery Rhymes and Songs for Kids from Dave and Ava 🍎",
-            "secondDuration": 4758,
-            "group": "group_5"
-        },
-        {
             "videoId": "YSrKVEm1by8",
             "title": "☃️ SANTA | The Twelve Days of Christmas | Christmas Songs by Dave and Ava ☃️",
             "secondDuration": 1798,
@@ -61,8 +55,14 @@
             "title": "👾  If You're A Monster and You Know It | Halloween Songs & Nursery Rhymes | Dave and Ava 👾",
             "secondDuration": 1812,
             "group": "group_5"
+        },
+        {
+            "videoId": "eGaNvkZCVQE",
+            "title": "👻 Halloween Songs | Baby Songs and Nursery Rhymes from Dave and Ava  👻",
+            "secondDuration": 1310,
+            "group": "group_5"
         }
     ],
     "nbPages": 69,
-    "nbResults": 688
+    "nbResults": 687
 }

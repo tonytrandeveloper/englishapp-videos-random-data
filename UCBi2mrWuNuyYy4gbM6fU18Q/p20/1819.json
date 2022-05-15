@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pfyP7jyKJBo",
-            "title": "Utah Lt. Gov. Apologizes to LGBT Community",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uk0Bdzk2fmo",
             "title": "Russian forces regroup, gear up for renewed assault on Ukraine",
             "secondDuration": 375,
@@ -121,8 +115,14 @@
             "title": "COVID-19 and mental health",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "6LCY_qyiPMU",
+            "title": "For Julia Roberts, Family Comes First",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

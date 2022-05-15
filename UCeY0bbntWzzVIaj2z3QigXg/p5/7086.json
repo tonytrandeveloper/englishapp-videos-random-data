@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3EbAQ9nJR80",
-            "title": "White House Holds Press Briefing | NBC News",
-            "secondDuration": 2825,
-            "group": "group_7"
-        },
-        {
             "videoId": "fm9h1UTpl5k",
             "title": "Senator Roy Blunt On Trump & McConnell: 'They're Both Tough Men' | Meet The Press | NBC News",
             "secondDuration": 224,
@@ -31,8 +25,14 @@
             "title": "Love Story Starts With A CPR Kiss | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "8_c1mSYfiHk",
+            "title": "DHS Secretary Nielsen On S***hole Comment 'I Did Not Hear That Word Used' | NBC News",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

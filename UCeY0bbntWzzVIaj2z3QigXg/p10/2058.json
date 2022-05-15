@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z-LNdB3cPzs",
-            "title": "Boeing Starliner Spaceship Fails Critical Flight Test After Malfunction | NBC Nightly News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zrbvk4BB0So",
             "title": "Nightly News Full Broadcast (December 26th)",
             "secondDuration": 1289,
@@ -61,8 +55,14 @@
             "title": "What The Constitution Says About A President’s Illness | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "CDrNcFedgUM",
+            "title": "Dozens Injured When Floor Collapses At South Carolina Party | NBC Nightly News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ym7fZUwu8Kw",
-            "title": "This Morning’s Top Headlines – October 20 | Morning News NOW",
-            "secondDuration": 1430,
-            "group": "group_7"
-        },
-        {
             "videoId": "0So0-tSPrXY",
             "title": "Chileans Celebrate Overwhelming Vote To Scrap Pinochet-Era Constitution | NBC News NOW",
             "secondDuration": 54,
@@ -31,8 +25,14 @@
             "title": "New Details From Rescue Of Hiker Missing For 17 Days In Hawaii Forest | NBC Nightly News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "SwJzTNIbMJk",
+            "title": "Obama To UN On Climate Change: 'We Have to Lead' | NBC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

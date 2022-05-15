@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8reZS8jrWEY",
-            "title": "World in Photos, June 27: WorldPride kickoff, European heatwave, Democrats debate",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pti8b-Oufg8",
             "title": "COVID-19 hospitalizations pass 100K mark in US l GMA",
             "secondDuration": 223,
@@ -61,8 +55,14 @@
             "title": "The Bible and the belt: Inside a camp for gay youth | ABC News",
             "secondDuration": 495,
             "group": "group_7"
+        },
+        {
+            "videoId": "iceLEHGMCko",
+            "title": "Can we maintain a ‘shred of national unity’?: McConnell",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

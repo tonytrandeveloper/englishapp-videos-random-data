@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KqX5BEvakpo",
-            "title": "Final Presidential Debate 2012 Obama Vs. Romney:  Romney Camp Prepares for Debate",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "cOAEKEKq7tI",
             "title": "Woman apparently killed by alligator while walking her dogs",
             "secondDuration": 165,
@@ -121,8 +115,14 @@
             "title": "Man pulled from rubble after massive home explosion in Minnesota",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "kYwiVn0wh1U",
+            "title": "James Holmes' Notebook Discovered?",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

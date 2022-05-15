@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9Bsjle6kVc8",
-            "title": "The Debrief: Florida recount, California wildfires, cruise ship mystery | ABC News",
-            "secondDuration": 1567,
-            "group": "group_7"
-        },
-        {
             "videoId": "uZEAjHsWYrU",
             "title": "Gadgets For The Outdoors | ABC News",
             "secondDuration": 258,
@@ -61,8 +55,14 @@
             "title": "Cruise ship passengers quarantined after novel coronavirus death",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "4Evj2ecqDi0",
+            "title": "Injured Runner Crawls to Finish to Honor Coach",
+            "secondDuration": 384,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

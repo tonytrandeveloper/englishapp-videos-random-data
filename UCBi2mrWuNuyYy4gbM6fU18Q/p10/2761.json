@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6vtJociC_QA",
-            "title": "Some of Your Favorite Foods are Really Bad",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "LI-uQ-SYUAc",
             "title": "Presidential Debate 2012 on Partisanship: Mitt Romney Cites Working With Massachusetts Democrats",
             "secondDuration": 217,
@@ -61,8 +55,14 @@
             "title": "Los Angeles Authorities' Counterfeit Crusade",
             "secondDuration": 504,
             "group": "group_7"
+        },
+        {
+            "videoId": "tVb5MJVpF8k",
+            "title": "Meghan McCain: 'Vilification of Paul Ryan... led to the rise of President Trump'",
+            "secondDuration": 952,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

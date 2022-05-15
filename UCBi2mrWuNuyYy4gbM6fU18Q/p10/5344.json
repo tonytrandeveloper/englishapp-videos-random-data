@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2zZnjPHrH2M",
-            "title": "15 million Johnson & Johnson vaccine doses compromised",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "-UdQmcpd1L8",
             "title": "John Saunders Dies at 61 | Remembering the Longtime ESPN Host",
             "secondDuration": 38,
@@ -61,8 +55,14 @@
             "title": "Santa Barbara's State of Emergency",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "_v4nGqLmsvs",
+            "title": "Gabby Giffords' Recovery: An Exclusive Look",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

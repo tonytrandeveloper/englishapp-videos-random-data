@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "P4wwoVxp9ZI",
-            "title": "Teen describes surviving great white shark bite",
-            "secondDuration": 383,
-            "group": "group_7"
-        },
-        {
             "videoId": "XXctrUOV0TA",
             "title": "Interview with Gen. Peter Chiarelli",
             "secondDuration": 673,
@@ -61,8 +55,14 @@
             "title": "Rep. Adam Schiff: 'Our democracy is not ensured'",
             "secondDuration": 421,
             "group": "group_7"
+        },
+        {
+            "videoId": "MGHyqu62Ebk",
+            "title": "Morning Mix: Leaked Docs, Chelsea's Wedding, Snookie",
+            "secondDuration": 382,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

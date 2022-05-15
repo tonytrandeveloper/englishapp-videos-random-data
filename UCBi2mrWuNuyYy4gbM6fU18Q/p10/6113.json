@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wH1bWTKC80Q",
-            "title": "Fall Movie Blockbusters and Busts",
-            "secondDuration": 632,
-            "group": "group_7"
-        },
-        {
             "videoId": "NWybEUvTtYw",
             "title": "Will upcoming Democratic debate be canceled because of strike? | ABC News",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "New bodycam video shows dramatic moments of  Las Vegas shooting",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "YAY1nhR8x3Q",
+            "title": "Concerns grow as states ease COVID-19 restrictions",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

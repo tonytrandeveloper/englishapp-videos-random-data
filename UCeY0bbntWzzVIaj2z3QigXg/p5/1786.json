@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aTZsJNj3sIE",
-            "title": "Inside Los Angeles’ Homeless Crisis",
-            "secondDuration": 296,
-            "group": "group_7"
-        },
-        {
             "videoId": "iJ6MPWVrB3s",
             "title": "Meet the Press - Washington Dysfunction; Women in the Workplace; Jeb Bush - March 10, 2013",
             "secondDuration": 33,
@@ -31,8 +25,14 @@
             "title": "Daunte Wright’s Mother: ‘There Is Never Going To Be Justice For Us’ | NBC News NOW",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "VRYX-SlsS3w",
+            "title": "Nightly News Full Broadcast - Jan. 31",
+            "secondDuration": 1031,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

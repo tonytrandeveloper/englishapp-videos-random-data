@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TW4Y80tU9cg",
-            "title": "Tropical Storm Elsa drenches Northeast on its way to New England",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "F076CdztHbY",
             "title": "Republicans Retain Majorities in US House, Senate",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "Late Night Comics Poke Fun at the Latest News Headlines",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "FHvka98QKaw",
+            "title": "Latest updates on COVID-19: July 14, 2020",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

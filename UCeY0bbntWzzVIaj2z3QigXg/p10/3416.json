@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FK4wBewvoZk",
-            "title": "California Gov. Newsom Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 4235,
-            "group": "group_7"
-        },
-        {
             "videoId": "QwHaK1lX1qU",
             "title": "Former President Bill Clinton Hospitalized With Infection",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Fact Checking President Donald Trump's Biggest Falsehoods And Lies of 2017 | NBC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "uJAT3B-NWD4",
+            "title": "Biden Teases 2020 Run: 'Mean Pettiness Has Overtaken Our Politics' | NBC News",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

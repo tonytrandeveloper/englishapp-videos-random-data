@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EVl1VxNp_4Y",
-            "title": "About 1,000 people involved in search and rescue efforts",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "_FPpjFwYJ6o",
             "title": "Election day in Russia proves triumphant for Putin",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Russian Fighter Jet Buzzes U.S. Air Force Reconnaissance Plane",
             "secondDuration": 18,
             "group": "group_7"
+        },
+        {
+            "videoId": "BjCes2hqZrc",
+            "title": "Giganomics: Why Settle for One Employer?",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

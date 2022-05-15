@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "a37dnFtnSqM",
-            "title": "The Conversation: World Cup, Digital Edition",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "zuoXqF-Lyj4",
             "title": "Urgent manhunt for two inmates after a jail break in Missouri",
             "secondDuration": 107,
@@ -121,8 +115,14 @@
             "title": "Wicked Weather",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "zI8ZY7PouNk",
+            "title": "James Holmes Offers Guilty Plea",
+            "secondDuration": 29,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

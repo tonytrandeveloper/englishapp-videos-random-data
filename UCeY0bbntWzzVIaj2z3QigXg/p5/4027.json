@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YaouAdmXgHs",
-            "title": "Inside The First Black-Owned Autonomous Grocery Store",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "REjoYL7jm2Q",
             "title": "Southern Wildfires: 5,000 Firefighters Battling Blazes | NBC Nightly News",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "General Joseph Dunford On North Korea: We Can Protect The American People Today | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "lGQiViqUruE",
+            "title": "Biden Facing Dual Crises Of Covid Surge And Stalled Domestic Agenda",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

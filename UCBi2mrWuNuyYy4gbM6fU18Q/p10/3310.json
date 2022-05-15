@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QPnWCfqlRNw",
-            "title": "'Queer Eye' star shares stories of love and loss | Nightline",
-            "secondDuration": 357,
-            "group": "group_7"
-        },
-        {
             "videoId": "eFNC8Iyd_D0",
             "title": "ABC News Prime: COVID-19 crisis enters darkest phase; Vaccine misinformation; Trump's final acts;",
             "secondDuration": 3611,
@@ -61,8 +55,14 @@
             "title": "More with Sen. Harry Reid and Rep. Paul Ryan 1/27/2011",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "JEeSpMyoCts",
+            "title": "Wicked Weather Whips Millions",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

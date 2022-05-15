@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4NGOvMg3zCk",
-            "title": "Rod Blagojevich Found Guilty",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "tgmMFrsq884",
             "title": "Cohen now cooperating with Mueller",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "Patients' Bill of Rights",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "xr2zNC7dc_Y",
+            "title": "Diana Nyad Explains Her Record-Breaking Swim",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h7M74BSU0CQ",
-            "title": "The latest on Jussie Smollet attack",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "YLc850sHgxI",
             "title": "EPA chief Scott Pruitt has resigned",
             "secondDuration": 242,
@@ -31,8 +25,14 @@
             "title": "Leah Wright Rigueur discusses how to unite our country",
             "secondDuration": 325,
             "group": "group_7"
+        },
+        {
+            "videoId": "rf5PiZpQIqw",
+            "title": "Several cities in Northern Italy on lockdown l ABC News",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

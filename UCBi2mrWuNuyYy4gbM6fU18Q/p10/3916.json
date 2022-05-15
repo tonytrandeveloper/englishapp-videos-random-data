@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jrqheSUs6wI",
-            "title": "Spy Nation",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "ghD4oV4t0vY",
             "title": "Government Shutdown Fears Have Stock Markets Falling",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Will senators vote to acquit President Trump?",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "Pduc3sZO5Lo",
+            "title": "Jackie Evancho on Trump Inauguration Performance Backlash",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

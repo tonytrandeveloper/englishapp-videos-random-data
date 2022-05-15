@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3_nhQ0XPsqg",
-            "title": "Inside 'Terminator Genisys' with Arnold Schwarzenegger",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZsQll8A59GE",
             "title": "Amplified: Matt & Kim",
             "secondDuration": 360,
@@ -31,8 +25,14 @@
             "title": "Diving Into Pregnancy & Parenthood",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "SQ0r0I5ksKc",
+            "title": "Provigil Drug Keeps You Awake, Focused for 24 Hours",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wAuJ5cJsGgA",
-            "title": "ABC News Investigates Controversial Diet Shake Company Herbalife",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "yxQWPw0GNhI",
             "title": "Holocaust survivors in Ukraine whisked away to safety",
             "secondDuration": 665,
@@ -61,8 +55,14 @@
             "title": "Day of Mourning for Ted Kennedy",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "TTn6Cr8CHCM",
+            "title": "Chadwick Boseman's private struggle with colon cancer:  'A Tribute for a King' Part 3",
+            "secondDuration": 358,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7Y-hlzruH30",
-            "title": "Kyle Rittenhouse testifies, SpaceX launches, CMA surprise: World in Photos, Nov. 11",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "KgCkw41icPg",
             "title": "Jake Tapper On Jimmy Kimmel Live",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Clinton Foundation To Stop Foreign Donations if Hillary Becomes President",
             "secondDuration": 29,
             "group": "group_7"
+        },
+        {
+            "videoId": "4fbRyczMCwA",
+            "title": "Senate report on Jan. 6 Capitol assault finds intelligence failures and more",
+            "secondDuration": 377,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "XZgkkI5kSzU",
-            "title": "What's at Stake on Primary Day?",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "4SZwwc9mlQA",
             "title": "Jim Clyburn takes the stage at the 2020 DNC",
             "secondDuration": 194,
@@ -301,8 +295,14 @@
             "title": "Manhunt for teacher who allegedly abducted student",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "u0Xb6Mtc1AY",
+            "title": "Harry Reid 'This Week' Interview: Immigration Reform, Gun Control and the Budget Battle",
+            "secondDuration": 896,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

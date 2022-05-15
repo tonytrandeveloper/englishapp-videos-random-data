@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KAoU_TQehRU",
-            "title": "Looks Matter In The First Televised Presidential Debate | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "9K8idpWlAK4",
             "title": "Hallie Jackson NOW - Jan. 24 | NBC News NOW",
             "secondDuration": 3032,
@@ -31,8 +25,14 @@
             "title": "Watch: Astronauts Spacewalk Outside ISS | NBC News",
             "secondDuration": 8140,
             "group": "group_7"
+        },
+        {
+            "videoId": "GcM44DCxNX4",
+            "title": "Marco Rubio Reaffirms Pro-Life Stance | Meet The Press | NBC News",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

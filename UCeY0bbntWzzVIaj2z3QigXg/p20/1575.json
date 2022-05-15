@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nUGhn06ij0o",
-            "title": "Catalonia Wants Independence From Spain | Long Story Short | NBC News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sj1AU5hpyKY",
             "title": "USA Olympic Gold Medalist Aly Raisman To Larry Nassar: ‘You Are Nothing’ | NBC News",
             "secondDuration": 738,
@@ -121,8 +115,14 @@
             "title": "Bernie Sanders: I Don't Take Money From Big Banks | Democratic Debate | NBC News-YouTube",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "lidEav7MXuw",
+            "title": "Pentagon Confirms Explosion Outside Kabul Airport",
+            "secondDuration": 371,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

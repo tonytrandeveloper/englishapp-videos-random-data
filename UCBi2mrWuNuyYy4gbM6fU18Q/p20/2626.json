@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HDDgJPKuSf0",
-            "title": "Beluga Whale Sounds Like a Human",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "kUw5rbzxnTw",
             "title": "Trump Cabinet Confirmation Hearings Begin",
             "secondDuration": 113,
@@ -121,8 +115,14 @@
             "title": "Hillary Clinton Gets Boost After 11 Hours of Testimony on Benghazi",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "KAI_W6hw_rA",
+            "title": "Kim Kardashian Robbed at Gunpoint | Kanye Stops Show",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

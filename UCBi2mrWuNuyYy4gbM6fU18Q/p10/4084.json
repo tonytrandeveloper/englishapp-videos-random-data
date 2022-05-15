@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SOSUYQAMXTk",
-            "title": "Oklahoma Tornado Video 2013: Two Schools Hit By Tornado, Only One Miracle Ending",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "jJxezJ6asVU",
             "title": "Train derails near Seattle, Washington: KOMO-TV Coverage | ABC News",
             "secondDuration": 19548,
@@ -61,8 +55,14 @@
             "title": "Roundtable II: Overseas Challenges",
             "secondDuration": 805,
             "group": "group_7"
+        },
+        {
+            "videoId": "KF46SFlAloM",
+            "title": "The House of Windsor Welcomes a New Royal",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

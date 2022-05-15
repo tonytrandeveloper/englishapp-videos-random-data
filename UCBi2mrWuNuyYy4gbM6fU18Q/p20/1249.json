@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NBDxGzBVkAU",
-            "title": "Boston’s rising COVID-19 fears as colleges begin to open",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "zDZYjnqNsEM",
             "title": "Video shows teen suspects in Canada walking around store",
             "secondDuration": 143,
@@ -121,8 +115,14 @@
             "title": "Tropical Storm Headed Towards Gulf",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "SJlIAE0_Qbw",
+            "title": "Malaysia Flight 17: Families Mourn Victims at Amsterdam, Kuala Lumpur Airports",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

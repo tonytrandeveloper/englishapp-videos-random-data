@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "d_cQEToX60w",
-            "title": "Jury Deliberations Begin In Trial Over Death Of Ahmaud Arbery",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "2lIMzuP1ibI",
             "title": "Hurricane Irma Survivor: ‘I Don’t Know How To Get Back On My Feet’ | NBC News Now",
             "secondDuration": 276,
@@ -31,8 +25,14 @@
             "title": "Live: Trump Meets With Arizona Governor Doug Ducey | NBC News",
             "secondDuration": 245,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gn1DS6DfACs",
+            "title": "‘God Bless Trump’: Israeli Residents Welcome Golan Heights Announcement | NBC News",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

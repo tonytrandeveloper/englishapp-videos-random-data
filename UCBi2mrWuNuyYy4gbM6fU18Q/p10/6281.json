@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z8ZAxE-BIVk",
-            "title": "WEBCAST: Snuggling With Complete Strangers In Bed",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "-g3yLSR0kUo",
             "title": "Wally Funk overcame decades of sexism to become oldest astronaut",
             "secondDuration": 204,
@@ -61,8 +55,14 @@
             "title": "Giant Panda Mei Xiang's Babies Doing Well During 'Critical' Period",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "mlsVYyPtiUM",
+            "title": "Tesla CEO Elon Musk offers to buy Twitter for $43B l WNT",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

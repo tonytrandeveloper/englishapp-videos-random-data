@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VTHjqCYDLDE",
-            "title": "‘Watching your businesses disappear so quickly is horrifying’: NC business owner | ABC News",
-            "secondDuration": 284,
-            "group": "group_7"
-        },
-        {
             "videoId": "WLz_Y5_J90U",
             "title": "Bernie Sanders Pushes Hard for New York Upset",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "Deadly Storm Strikes Chicago",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "JUiCXbjcV8c",
+            "title": "State department issues presidential permit for Keystone pipeline",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

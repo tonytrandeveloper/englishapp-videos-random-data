@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Gzd8Oxtj4xU",
-            "title": "A Whole City Turns Out to See the Pope",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "cVWmwhGWlT8",
             "title": "New California Wildfires Displace Hundreds",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Hero Among the Injured in Oregon College Shooting",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "8xjshlH5YxY",
+            "title": "Elton John Boycotts Top Designer Dolce and Gabbana",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GZnOBt8FzXE",
-            "title": "ISIS Beheads Aid Worker Peter Kassig | NBC News",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "s4NOUSb6X54",
             "title": "Stephon Clark's Funeral In Sacramento | NBC News",
             "secondDuration": 5846,
@@ -61,8 +55,14 @@
             "title": "The Great Resignation: Why So Many Folks Are Leaving Their Jobs",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "eA9eazyhUy0",
+            "title": "DOJ Slams China In Hacking Scheme For ‘Stealing Intellectual Property, Stifling Freedom’ | NBC News",
+            "secondDuration": 287,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

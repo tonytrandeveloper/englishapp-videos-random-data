@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fOkVr8jfjyA",
-            "title": "White House Holds Press Briefing: August 5 | NBC News",
-            "secondDuration": 3505,
-            "group": "group_7"
-        },
-        {
             "videoId": "wDtTegLHV-Q",
             "title": "Airlines Push For Criminal Prosecution Of Unruly Passengers",
             "secondDuration": 218,
@@ -121,8 +115,14 @@
             "title": "Donald Trump Fires Back At Hillary Clinton's Critical Speech | NBC News",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "3EYE49K0U4k",
+            "title": "FBI: 160 Case Files Opened Into Capitol Riot Probe | NBC News NOW",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

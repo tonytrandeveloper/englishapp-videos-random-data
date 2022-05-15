@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "opE7FJfdYZc",
-            "title": "Soccer Star Cristiano Ronaldo Sidelined After Rape Allegation | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "BL5KSRbq1Ts",
             "title": "The 5G Battle Between Tech And Travel Explained",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "Nightly News Full Broadcast - January 30th",
             "secondDuration": 1197,
             "group": "group_7"
+        },
+        {
+            "videoId": "s5X3OzJvp6A",
+            "title": "Thousands of Rape Kits Gone Untested Across the U.S. | NBC Nightly News",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DBnNALlGxA8",
-            "title": "Rep. Ilhan Omar prevails in contentious Minnesota primary race",
-            "secondDuration": 29,
-            "group": "group_7"
-        },
-        {
             "videoId": "FcdpYK5xCk8",
             "title": "New concerns over tainted alcohol at popular Mexican resorts",
             "secondDuration": 112,
@@ -121,8 +115,14 @@
             "title": "State of emergency declared in 4 states as gas pumps run dry after cyberattack l GMA",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "RyM9Z2HHfog",
+            "title": "Eric Garner, NYPD Grand Jury Decision Sparks Demonstrations",
+            "secondDuration": 446,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

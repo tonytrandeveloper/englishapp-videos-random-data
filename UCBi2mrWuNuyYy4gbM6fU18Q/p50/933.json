@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Nrdmarb7M_c",
-            "title": "John McAfee: Belize Police Searching for Antivirus Pioneer",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "kv-bOth9W8I",
             "title": "'Pussycat Dolls' Lead Singer Nicole Scherzinger's Battle With Bulimia, Solo Album",
             "secondDuration": 134,
@@ -301,8 +295,14 @@
             "title": "Ukrainian President Zelenskyy's full virtual address to United States Congress I ABC News",
             "secondDuration": 4725,
             "group": "group_7"
+        },
+        {
+            "videoId": "1A3nmQ3bFtk",
+            "title": "'Shark Tank' sharks reveal their biggest deals made in the tank: Part 1",
+            "secondDuration": 382,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

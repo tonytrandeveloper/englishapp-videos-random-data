@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X8PKOCBW4KI",
-            "title": "See How This 7-Year-Old Is Moving Others With His Dance Moves | Nightly News: Kids Edition",
-            "secondDuration": 813,
-            "group": "group_7"
-        },
-        {
             "videoId": "q2vSD8joLsk",
             "title": "NYC Mayor Bill de Blasio Briefing On Coronavirus, George Floyd Protests | NBC News",
             "secondDuration": 3669,
@@ -31,8 +25,14 @@
             "title": "Images Show St. Vincent’s La Soufriere Volcano Smoldering, Later Erupting | NBC News",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z1Pd3DBtwxs",
+            "title": "Data Download: What The ‘Roseanne’ Reboot Tells Us About Politics | Meet The Press | NBC News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

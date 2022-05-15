@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AG5SueiQ0eM",
-            "title": "Pope Francis Makes Surprise Appearance At TED Talk | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "KU2P4REtnd4",
             "title": "Syria Unrest: What Comes After The Cease-Fire | NBC News Now",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Closing Arguments Underway In Trial Over Ahmaud Arbery's Killing",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "DpKHAC_0FqA",
+            "title": "Police Cracking Down On Paintball Gun Activity | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

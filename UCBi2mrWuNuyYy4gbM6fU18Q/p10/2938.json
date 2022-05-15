@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4CoR6XVall8",
-            "title": "Lambert on Wild Rolling Stone Shoot",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "AttesX7X7zM",
             "title": "New York attorney general releases Andrew Cuomo's video testimony l GMA",
             "secondDuration": 203,
@@ -61,8 +55,14 @@
             "title": "McGahn reportedly asked by WH to say Trump didn't obstruct justice",
             "secondDuration": 274,
             "group": "group_7"
+        },
+        {
+            "videoId": "GUmlEH16Khw",
+            "title": "Vice Presidential Debate 2012: Biden on Afghanistan: Withdrawal 'Does Not Depend on Conditions'",
+            "secondDuration": 639,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

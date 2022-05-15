@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nsGkwFBByuQ",
-            "title": "Moammar Gadhafi Dead: Revisiting Libyan Leader's Final Moments in Sirte",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "kolGYU_dxOQ",
             "title": "More than 54% of US adults have been vaccinated for COVID-19",
             "secondDuration": 457,
@@ -31,8 +25,14 @@
             "title": "Former President George H.W. Bush to lie in state: Ceremony at Capitol building | ABC News",
             "secondDuration": 9561,
             "group": "group_7"
+        },
+        {
+            "videoId": "0SJBOGbZpTY",
+            "title": "Donald Trump Addresses Not Releasing Tax Returns",
+            "secondDuration": 415,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

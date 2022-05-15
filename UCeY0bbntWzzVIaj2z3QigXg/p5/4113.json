@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FBOcJyvTQqg",
-            "title": "Intelligence Chief Briefs On Cyber Security For Political Candidates | NBC News",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "I1pghPEhx50",
             "title": "Texas Tribune Festival: One-on-One with Gary Cohn | NBC News",
             "secondDuration": 2016,
@@ -31,8 +25,14 @@
             "title": "In-Depth Look At Texas Community At Center Of Critical Race Theory Debate",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "oDBuJKs1aaY",
+            "title": "President Obama Details Executive Action Plan on Gun Control | NBC News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

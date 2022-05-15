@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H3t2Gju6sUY",
-            "title": "Spotlight On Georgia, Nevada And Arizona With Vote Count Ongoing | NBC Nightly News",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "zx4j2WEjCrw",
             "title": "Summer Travel Season Kicks Off With Infrastructure Woes | NBC Nightly News",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "Secretary Rex Tillerson Dispels Resignation Reports: ‘I Have Never Considered Leaving’ | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "B1dqQmULTtE",
+            "title": "Pfizer Begins Their Covid Vaccine Trial In Children Under 12 | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

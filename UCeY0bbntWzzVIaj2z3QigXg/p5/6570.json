@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yxsodxkc9fc",
-            "title": "Nightly News Full Broadcast - Jan. 7",
-            "secondDuration": 1023,
-            "group": "group_7"
-        },
-        {
             "videoId": "SQoPwxAqg_Y",
             "title": "In Battle Against Country’s Heroin Epidemic, Feds Launch New Push | NBC Nightly News",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Reagan Shooter John Hinckley Granted Release From Court Supervision",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "h1E9Qc5hqzo",
+            "title": "Examining The State Of The Presidential Race Ahead Of The Vice Presidential Debate | NBC News NOW",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

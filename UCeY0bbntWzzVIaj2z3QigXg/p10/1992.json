@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5IDr1hWsgdc",
-            "title": "Full Stacey Abrams: ‘We Have Seen Unprecedented Turnout In This Race’ | Meet The Press | NBC News",
-            "secondDuration": 476,
-            "group": "group_7"
-        },
-        {
             "videoId": "XoaGcsCP5vA",
             "title": "NC Teen Pinned Underneath Car Saved By Family Using ‘Find My Friends’ App | NBC Nightly News",
             "secondDuration": 83,
@@ -61,8 +55,14 @@
             "title": "Chuck Schumer: It's 'Imperative' Mueller Report Be Made Public | NBC News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "1FoeX4yuXc8",
+            "title": "After 2020 Census, Electoral Map May Tilt GOP | Meet The Press | NBC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "C6Ycdhwp65Y",
-            "title": "Middle East on the Brink:  Egypt's Role in Cease-Fire Talks",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "FNoQegskdTA",
             "title": "Cost of Care: Hospital CEOs Rake in Bonuses",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Sentencing day for 3 men convicted of murdering Ahmaud Arbery",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "sp7MwAQpzTQ",
+            "title": "Police officers recount moment they saved man from burning car",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "De7rn4LHiJQ",
-            "title": "Vicky Kennedy Breaks Her Silence",
-            "secondDuration": 267,
-            "group": "group_7"
-        },
-        {
             "videoId": "oslMpVAxgXo",
             "title": "ABC News Live: Biden announces end of normal trade relations with Russia I ABCNL",
             "secondDuration": 1428,
@@ -61,8 +55,14 @@
             "title": "Pamela Smart remembers husband’s murder investigation l Nightline",
             "secondDuration": 681,
             "group": "group_7"
+        },
+        {
+            "videoId": "8reZS8jrWEY",
+            "title": "World in Photos, June 27: WorldPride kickoff, European heatwave, Democrats debate",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

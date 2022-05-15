@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-RzDMGZ3kPA",
-            "title": "Defense expected to rest in case against Derek Chauvin",
-            "secondDuration": 366,
-            "group": "group_7"
-        },
-        {
             "videoId": "8lKyD8V3E3M",
             "title": "Does God Have a Future?",
             "secondDuration": 331,
@@ -61,8 +55,14 @@
             "title": "Suspected serial killer may have taken a 4th life in Tampa neighborhood",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "puF1WBx_7tI",
+            "title": "Volunteers answer the call in Texas | WNT",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

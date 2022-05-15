@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TNRwTj8mI9U",
-            "title": "Nancy Pelosi: President Donald Trump ‘Outing’ Afghanistan Trip Is Very Dangerous | NBC News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "FO9dg_NjNc4",
             "title": "What To Expect From President Donald Trump’s Summit With Kim Jong Un Tonight | NBC Nightly News",
             "secondDuration": 196,
@@ -121,8 +115,14 @@
             "title": "Police Detail Texas Shooting That Left Multiple Injured, At Least One Person Dead | NBC News NOW",
             "secondDuration": 335,
             "group": "group_7"
+        },
+        {
+            "videoId": "leA8IucKwfQ",
+            "title": "Schools Re-Open as Covid Surges",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

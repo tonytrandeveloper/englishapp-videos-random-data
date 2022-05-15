@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mhzSYIxXoFU",
-            "title": "Morning News NOW Full Broadcast - Feb. 23",
-            "secondDuration": 2975,
-            "group": "group_7"
-        },
-        {
             "videoId": "OQmC9nD6pPk",
             "title": "Possible Piece of MH370 Airliner Found off Mozambique | NBC Nightly News",
             "secondDuration": 167,
@@ -31,8 +25,14 @@
             "title": "Parkland Officer Speaking Out Following Scrutiny For Never Entering The Building | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "ESUhvhzpvdo",
+            "title": "Buttigieg: 'We Knew South Carolina Was Going To Be A Challenging State' | Meet The Press",
+            "secondDuration": 438,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

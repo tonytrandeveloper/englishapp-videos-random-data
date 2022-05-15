@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DL_dmN2Ck10",
-            "title": "Juju Juggles Halloween",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "2dZiX8PCxWQ",
             "title": "Teen pilot lands plane safely after losing wheel just after takeoff",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "10-year-old prodigy shares his gift with young audience",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "7hZarUANWws",
+            "title": "If you want to be ‘optimally protected,’ get a booster: Fauci",
+            "secondDuration": 442,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

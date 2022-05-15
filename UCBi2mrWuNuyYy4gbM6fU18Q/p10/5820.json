@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "y2FEggs2m-s",
-            "title": "Dionne Warwick on her catalog of hits: ‘They’re all my favorites’",
-            "secondDuration": 608,
-            "group": "group_7"
-        },
-        {
             "videoId": "vXuOuRVABzI",
             "title": "Obama Gets Emotional",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "Final Mile: Thousands Remain Boston Strong and Finish Marathon",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "FmdF7m23BQY",
+            "title": "US special envoy to Haiti resigns over ‘inhumane’ deportations from southern border",
+            "secondDuration": 753,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

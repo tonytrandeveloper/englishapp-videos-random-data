@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "WsdrbWGQbAw",
-            "title": "Jobs Report: Is Anyone Hiring?",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "kQVzG7INflI",
             "title": "Mueller recommends no prison time for Michael Flynn",
             "secondDuration": 133,
@@ -301,8 +295,14 @@
             "title": "BREAKING NEWS - 7.1 magnitude earthquake reported near Los Angeles | KABC News Coverage",
             "secondDuration": 13399,
             "group": "group_7"
+        },
+        {
+            "videoId": "0nB9yUAd31s",
+            "title": "Ferguson Shooting: Two Police Shot, Suspect on the Run",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

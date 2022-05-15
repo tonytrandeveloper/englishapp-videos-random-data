@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8zebT5WRF5s",
-            "title": "New Blood Test Could Change The Way Cancer Is Detected",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "OrHbRc9SOh8",
             "title": "Ferguson Cop Shot Amid Renewed Protests | NBC News",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "LA Fire Station Shooting Leaves Firefighter Dead And Captain Injured",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "E_xzxp3iCdI",
+            "title": "Cold Lava Pews Out Of Volcano Mount Agung As Bali Braces For Eruption | NBC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

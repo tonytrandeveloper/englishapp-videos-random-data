@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Xt9SAMdJcU0",
-            "title": "Rockettes Celebrate Diversity At This Year’s Christmas Spectacular | NBC Nightly News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "BW9T9EI60aQ",
             "title": "Police Search For Shooter After Four Killed At Tennessee Waffle House | NBC Nightly News",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Elon Musk Says His First Tunnel Will Open In December | NBC Nightly News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "IOo_E3PnAyo",
+            "title": "California Firefighters Battling Explosive Alisal Fire",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

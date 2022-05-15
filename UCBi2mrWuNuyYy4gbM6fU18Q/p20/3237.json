@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Aj7dJEAZxKg",
-            "title": "Family Fitness Challenge",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "w629aHj_7Us",
             "title": "2nd major retailer announces action on gun control",
             "secondDuration": 188,
@@ -121,8 +115,14 @@
             "title": "New Cholesterol Drug Study: Niacin Side Effects Could Outweigh Benefits",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "V80FG9K8L0M",
+            "title": "Hurricane Harvey raises concerns over toxic water",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

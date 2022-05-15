@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HP1wH9rpNHQ",
-            "title": "Black Americans Explore African Roots In Ghana | NBC Nightly News",
-            "secondDuration": 865,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q7_nmK1EqJQ",
             "title": "Boston Police Department’s Secret Weapon: Ice Cream | NBC News",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "U.S. Faces Recycling Crisis After China Rejects American Recyclables | NBC Nightly News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "wKukXP6UFVo",
+            "title": "Gabby Petito Case: Federal Arrest Warrant Issued For Brian Laundrie",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

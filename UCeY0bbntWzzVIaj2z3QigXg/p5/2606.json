@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KyM8bESwOJ0",
-            "title": "How To Check If Your Pool Is Safe | Better | NBC News",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "qC8Sh7njYco",
             "title": "ISIS Claims It Intercepted U.S. Weapons Drop | NBC News",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "With 155 MPH Winds, Hurricane Irma Is Among The Strongest Category 5 Storms | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "wAHrpBrmq3E",
+            "title": "Toyota Concert Series on TODAY: Train",
+            "secondDuration": 18,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

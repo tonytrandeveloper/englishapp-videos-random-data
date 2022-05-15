@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4Hl0OlDmpiw",
-            "title": "Multiple Students Injured In Colorado School Shooting | NBC Nightly News",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "LqSljRMO9h0",
             "title": "President Donald Trump Slams AG Jeff Sessions Over GOP Indictments | NBC Nightly News",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Full Panel: Senate Weighs 'Red Flag' Laws After Dual Mass Shootings | Meet The Press | NBC News",
             "secondDuration": 509,
             "group": "group_7"
+        },
+        {
+            "videoId": "IEve1EpNwO4",
+            "title": "President Donald Trump Hits Back After DNI Hearing, Whistleblower Complaint | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

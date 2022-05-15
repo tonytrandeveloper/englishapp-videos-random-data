@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p_Iev3MPUms",
-            "title": "Virginia Governor Addresses Kidnapping Plot, Says 'No Imminent Threat' | NBC News NOW",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "p7NC9XHMyGs",
             "title": "HHS Secretary Azar: 'The Window Is Closing' To Stop Virus Spread | Meet The Press | NBC News",
             "secondDuration": 473,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Calls For Unity, Chides Media For ‘Endless Hostility At Wisconsin Rally | NBC News",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "-ovzhw5q8wA",
+            "title": "Biden, Harris Deliver Remarks On The Economy | NBC News",
+            "secondDuration": 1965,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

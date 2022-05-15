@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rxdfRZptSwk",
-            "title": "Michelle Obama Welcomes Melania Trump to White House",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "JiQYVm0kGKs",
             "title": "Supermodel Bar Refaeli Arrested for Tax Evasion",
             "secondDuration": 146,
@@ -121,8 +115,14 @@
             "title": "What happened when former federal officials sounded the alarm on COVID-19: Nightline",
             "secondDuration": 634,
             "group": "group_7"
+        },
+        {
+            "videoId": "c26d1sFhsFM",
+            "title": "Rep. Matt Gaetz requested pardon",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

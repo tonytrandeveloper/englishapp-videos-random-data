@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s_qdd5JGbn8",
-            "title": "NYC Mayor De Blasio: 'Justice Is Being Served' In Bloomberg's Losses | NBC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "UY9-lwdRd2Y",
             "title": "Watch NBC News NOW Live - July 1",
             "secondDuration": 42901,
@@ -61,8 +55,14 @@
             "title": "Morning News NOW Full Broadcast - May 13 | NBC News NOW",
             "secondDuration": 3112,
             "group": "group_7"
+        },
+        {
+            "videoId": "v48K9qj2zRc",
+            "title": "FAA Issues Safety Bulletin Over ‘Angle Of Attack’ Sensors On After Lion Air Crash | NBC Nightly News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dPJUhWwHbeU",
-            "title": "Best of 2010: John Berman's 90 Seconds of News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rdd3WTGxSag",
             "title": "Pastor Suspected of Killing His Wife Caught Fleeing Country",
             "secondDuration": 128,
@@ -121,8 +115,14 @@
             "title": "Secret Service Director on Protecting the President",
             "secondDuration": 267,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yn8j4XRxSck",
+            "title": "Adorable moment of father and toddler having conversation | ABC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

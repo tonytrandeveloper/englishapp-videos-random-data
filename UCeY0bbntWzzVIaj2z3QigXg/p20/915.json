@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Z3VAh6NEbqE",
-            "title": "Chris Paul: \"For student success, it takes...\"",
-            "secondDuration": 6,
-            "group": "group_7"
-        },
-        {
             "videoId": "tF7BviIuBJ0",
             "title": "Boston Marathon Bombing Trial Goes To The Jury | NBC Nightly News",
             "secondDuration": 68,
@@ -121,8 +115,14 @@
             "title": "Watch NBC News NOW Live - June 2",
             "secondDuration": 42903,
             "group": "group_7"
+        },
+        {
+            "videoId": "kxl_Ca5thHY",
+            "title": "Thousands Of Covid Vaccine Appointments Canceled As Supplies Run Low | NBC News NOW",
+            "secondDuration": 235,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

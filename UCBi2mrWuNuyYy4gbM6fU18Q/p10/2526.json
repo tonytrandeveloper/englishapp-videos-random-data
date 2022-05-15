@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Brru8ADSPGI",
-            "title": "Behind the Scenes at MAD Magazine",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "uXIWXaX4T3E",
             "title": "Trump Inauguration Protesters Clash with Police",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Leaves Republican Party in Turmoil",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "enJ6M2aTwxY",
+            "title": "American Music Awards 2012: Full Recap of Justin Bieber's Win; Psy, MC Hammer's 'Gangnam Style'",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

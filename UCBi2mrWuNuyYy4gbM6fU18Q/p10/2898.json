@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8LhTusg7XFY",
-            "title": "The world opens up for a 4-year-old who lost his hearing as a toddler",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "J0fOZaiH2a4",
             "title": "Trump: 'I had nothing to do with Russia helping me to get elected'",
             "secondDuration": 201,
@@ -61,8 +55,14 @@
             "title": "Unvaccinated COVID patient: ‘It’s real and only getting stronger and faster’",
             "secondDuration": 426,
             "group": "group_7"
+        },
+        {
+            "videoId": "f55hE0BHHio",
+            "title": "Obama Lays Wreath at Tomb of the Unknown Soldier",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

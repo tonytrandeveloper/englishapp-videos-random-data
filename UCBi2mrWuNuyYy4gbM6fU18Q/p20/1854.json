@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tFRpUpqrUtM",
-            "title": "Is the 'Pill' an Enemy to Macho Men?",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "DHznGGnl5Hk",
             "title": "The Rundown: Top headlines today: March 10, 2022",
             "secondDuration": 243,
@@ -121,8 +115,14 @@
             "title": "Opening of World's Tallest Water Slide Delayed",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "99MpQg2GVqM",
+            "title": "MIX: The Donut Selfie",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

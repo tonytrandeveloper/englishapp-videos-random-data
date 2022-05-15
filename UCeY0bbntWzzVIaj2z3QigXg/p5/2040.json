@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "140lYz1UGeY",
-            "title": "Biden Touts Infrastructure Law In New Hampshire",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "rdELrNvI9m4",
             "title": "Donald Trump’s Birther Claims Through The Years | NBC News",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Stephen William Hawking Dead At 76 | NBC Nightly News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "VeAUlumaoeY",
+            "title": "Police Clash Violently With Protesters At Hong Kong University Blockade | NBC News",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

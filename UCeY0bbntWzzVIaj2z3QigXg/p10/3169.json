@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xjM8sW8LoXU",
-            "title": "South Carolina Flooding: Dam Breach Triggers Full Scale Evacuation | NBC Nightly News",
-            "secondDuration": 241,
-            "group": "group_7"
-        },
-        {
             "videoId": "xfSL7N8n7cE",
             "title": "Tech Executives Grilled On Russian Election Meddling | NBC Nightly News",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Meet DREAMer Activist and DNC Speaker Astrid Silva | NBC Nightly News",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "TYYcWbQc5Ig",
+            "title": "LIVE: White House Holds Press Briefing | NBC News",
+            "secondDuration": 2693,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

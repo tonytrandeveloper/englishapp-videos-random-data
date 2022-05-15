@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IR8ftNJrkuM",
-            "title": "Top ISIS Leader Killed in US Raid in Syria",
-            "secondDuration": 309,
-            "group": "group_7"
-        },
-        {
             "videoId": "WGyD9NG47Rw",
             "title": "Pensacola mayor discusses Hurricane Sally aftermath",
             "secondDuration": 240,
@@ -31,8 +25,14 @@
             "title": "Police Shoot Student Wielding Knife",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "JJoaKERFQ-0",
+            "title": "San Diego Zoo Performs C-Section on Gorilla",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

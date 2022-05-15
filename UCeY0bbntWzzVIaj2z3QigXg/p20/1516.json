@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OO39lbgJrB4",
-            "title": "Jeff Sessions Announces New Department Of Justice Unit to Combat Opioid Fraud | NBC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "W-PjVYvMq8o",
             "title": "North Korea Nuclear Summit Will Be A Big Win For Kim Jong Un | NBC News",
             "secondDuration": 169,
@@ -121,8 +115,14 @@
             "title": "U.S. Defense Official Says Russia Retains 95 Percent Of Its Combat Power",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kj1jyiYz6b4",
+            "title": "Full Clyburn: 'It May Look Bleak Now, But We Are Going To Keep Pressing' On Voting Rights",
+            "secondDuration": 480,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

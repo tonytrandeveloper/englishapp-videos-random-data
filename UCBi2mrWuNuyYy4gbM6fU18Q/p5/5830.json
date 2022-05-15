@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "irkWtfQHD1o",
-            "title": "Sgt. Jody Stiger continues his testimony at Derek Chauvin trial",
-            "secondDuration": 789,
-            "group": "group_7"
-        },
-        {
             "videoId": "QJaeAZ-UyVk",
             "title": "Pres. Donald Trump,  Norwegian Prime Minister Erna Solberg hold joint news conference  | ABC News",
             "secondDuration": 1850,
@@ -31,8 +25,14 @@
             "title": "Trump wiretap allegation source remains unclear | ABC News",
             "secondDuration": 385,
             "group": "group_7"
+        },
+        {
+            "videoId": "k_ze-rOGBDI",
+            "title": "Violent clashes erupt at Trump Hotel in Panama amid management dispute | ABC News report",
+            "secondDuration": 679,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

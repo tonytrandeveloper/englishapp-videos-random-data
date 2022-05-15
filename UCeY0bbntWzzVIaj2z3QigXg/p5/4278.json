@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0Snk2C4U1gE",
-            "title": "Community Mourns Texas Deputy Killed In Ambush During Traffic Stop | NBC Nightly News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "07NxPc7QxrQ",
             "title": "People Celebrate In Streets Of Los Angeles After Dodgers Win World Series | NBC News NOW",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "Top Story With Tom Llamas – Dec. 22 | NBC News NOW",
             "secondDuration": 3060,
             "group": "group_7"
+        },
+        {
+            "videoId": "07IbrJ7Ejbo",
+            "title": "Blinken: Russian Forces In Place For 'Major Aggression Against Ukraine'",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

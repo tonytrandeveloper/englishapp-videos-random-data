@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fAEbzIrvTIU",
-            "title": "Algorithmic System Keeps Your Credit Cards Safe | Mach | NBC News",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "SQi1AXjfa4g",
             "title": "Morning News NOW Full Broadcast - July 26",
             "secondDuration": 1984,
@@ -61,8 +55,14 @@
             "title": "Fatalities Reported In Florida Pedestrian Bridge Collapse | NBC News",
             "secondDuration": 346,
             "group": "group_7"
+        },
+        {
+            "videoId": "RJS8UsRvXak",
+            "title": "Iran Attacks Iraqi Air Base Where U.S. Troops Are Based | NBC News",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

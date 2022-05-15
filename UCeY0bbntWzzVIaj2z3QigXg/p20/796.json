@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bsRqWPru5sc",
-            "title": "President Biden Attends G-20 Summit",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "uqhyuc9akzE",
             "title": "Ukrainian College Students Speak Out About The Future",
             "secondDuration": 246,
@@ -121,8 +115,14 @@
             "title": "Peta Protesters Invade Dog Show Awards Ceremony | NBC News",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "NWluoaiZJKw",
+            "title": "Paris Attack Survivors Describe ‘Bloodbath’: 30 Minutes of Terror | NBC Nightly News",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

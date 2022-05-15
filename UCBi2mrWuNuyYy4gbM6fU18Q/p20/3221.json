@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "X9Hf0ZiibNg",
-            "title": "Juror Describes Tension in Blagojevich Case",
-            "secondDuration": 162,
-            "group": "group_7"
-        },
-        {
             "videoId": "r_UvIC5PZZg",
             "title": "Greg Kelly Accused of Rape, Son of New York Police Commissioner",
             "secondDuration": 36,
@@ -121,8 +115,14 @@
             "title": "Presidential election, Veterans Day, coronavirus pandemic: The Week in Pictures",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "j2kldNlvv9U",
+            "title": "'The Briefing Rom': Migrant caravan, Texas senate race, Khashoggi investigation | ABC News",
+            "secondDuration": 1685,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

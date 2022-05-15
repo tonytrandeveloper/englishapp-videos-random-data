@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U8M5akhSxsg",
-            "title": "Donald Trump Confronted With Sexual Assault Allegations | ABC News",
-            "secondDuration": 563,
-            "group": "group_7"
-        },
-        {
             "videoId": "_T0sMOfKS2I",
             "title": "A Very Full House",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "Total solar eclipse visible in remote parts of the world",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "nuRywf5kp9g",
+            "title": "California governor declares state of emergency after earthquakes",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6fg3P3VZVTQ",
-            "title": "Watch Live: Steve Kornacki Previews Tomorrow’s Must-Watch House Races | NBC News",
-            "secondDuration": 1496,
-            "group": "group_7"
-        },
-        {
             "videoId": "O7CcagzAV_s",
             "title": "Biden Delivers Remarks On Bipartisan Infrastructure Plan | NBC News",
             "secondDuration": 2710,
@@ -31,8 +25,14 @@
             "title": "Pentagon On Hero Dog: ‘We’re Protecting His Identity’ | NBC News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kt-XscUkG7Y",
+            "title": "Equifax, Software Company Blame Each Other For Security Breach | NBC Nightly News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

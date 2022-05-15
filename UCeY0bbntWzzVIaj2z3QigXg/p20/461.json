@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TX3mxorjlls",
-            "title": "Tim Kaine On Mike Pence: 'Donald Trump’s Entitled To Make His Pick' | NBC News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "qihoW9JgOdg",
             "title": "Raw: Tornado Touch Down | Archives | NBC News",
             "secondDuration": 128,
@@ -121,8 +115,14 @@
             "title": "Romans Dive Into River Tiber To Mark New Year",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "ocrwoYZJTq4",
+            "title": "Study Examines Far-Right Group ‘Oath Keepers’ Alleged Role In January 6 Riot",
+            "secondDuration": 476,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

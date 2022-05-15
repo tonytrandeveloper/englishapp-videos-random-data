@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8-lwxneQ2Ws",
-            "title": "An Aquaponic Vertical Farm Grows In Brooklyn | Mach | NBC News",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "U9TqVN-O_uA",
             "title": "Scientists Just Discovered That An Antarctic Ice Shelf Is “Singing” | Mach | NBC News",
             "secondDuration": 81,
@@ -61,8 +55,14 @@
             "title": "Live: California Gov. Newsom Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2915,
             "group": "group_7"
+        },
+        {
+            "videoId": "z11F3CdJ8tA",
+            "title": "OU Fraternity House Mom Repeats Racial Slur In New Video | NBC Nightly News",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

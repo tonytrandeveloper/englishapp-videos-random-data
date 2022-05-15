@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2WDrehC5A2Y",
-            "title": "FDA approves new treatment for Alzheimer’s disease | WNT",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "R53k2MtuFnU",
             "title": "Dolly Parton sends heartfelt message to tornado victims | WNT",
             "secondDuration": 80,
@@ -61,8 +55,14 @@
             "title": "Florida Teen Accused of Posing as a Doctor Denies Diagnosing Patients",
             "secondDuration": 464,
             "group": "group_7"
+        },
+        {
+            "videoId": "sUIiJllTMpI",
+            "title": "Anderson Cooper Giggles on Live TV",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

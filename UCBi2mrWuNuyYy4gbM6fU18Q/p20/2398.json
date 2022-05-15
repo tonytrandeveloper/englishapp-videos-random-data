@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tJPcPd5s8vA",
-            "title": "Apple’s major environmental announcement | GMA3",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y3k5YwVSpLQ",
             "title": "Baby Koala Welcomed at Sydney's Taronga Zoo",
             "secondDuration": 44,
@@ -121,8 +115,14 @@
             "title": "Police search for gun-wielding drivers in multiple road rage incidents",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "IJTazXVr9K8",
+            "title": "Honoring Cokie Roberts",
+            "secondDuration": 264,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

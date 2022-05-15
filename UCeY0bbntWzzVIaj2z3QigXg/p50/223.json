@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "iIiw_WBfmPI",
-            "title": "Nightly News Full Broadcast - October 20th",
-            "secondDuration": 1286,
-            "group": "group_7"
-        },
-        {
             "videoId": "_uBZetRxygY",
             "title": "Inside The Rise Of Qanon-Affiliated Candidates For Congress | NBC News NOW",
             "secondDuration": 397,
@@ -301,8 +295,14 @@
             "title": "Leeann Tweeden On Senator Al Franken: 'He Mashed His Lips Against My Face' | NBC News",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "hpcmHQWhkmY",
+            "title": "New Questions Over Trump’s Fiery Rhetoric After Suspicious Package Scares | NBC Nightly News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

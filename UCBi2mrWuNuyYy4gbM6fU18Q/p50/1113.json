@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "K_UP2XlqdvY",
-            "title": "American Airlines jet makes emergency landing",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "QB45wxR2XzI",
             "title": "The Jubilee Queen: When She Became Queen",
             "secondDuration": 373,
@@ -301,8 +295,14 @@
             "title": "Kid Suspended For Lord Of The Rings Threat",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zgrf5rshiI8",
+            "title": "What a new administration means for the intelligence community",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

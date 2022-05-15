@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "waa81wJI8iI",
-            "title": "Canine Houdini Pulls Off Remarkable Escape",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "NwSajIDSLQY",
             "title": "'Men in Black 3' Star Josh Brolin Interview: Actor on Career in the late '90s",
             "secondDuration": 408,
@@ -61,8 +55,14 @@
             "title": "New York honors essential workers with ‘Hometown Heroes’ ticker-tape parade",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "GubHe57MH_A",
+            "title": "Jenner's Daughter Drops Last Name",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

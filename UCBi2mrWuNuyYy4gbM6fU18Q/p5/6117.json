@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C7gnie4T6Vs",
-            "title": "UN accuses Saudi Arabia of Amazon CEO phone hack l ABC News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qpsmx3jM_ZM",
             "title": "Nurse Under Ebola Quarantine Alleges Poor Treatment",
             "secondDuration": 263,
@@ -31,8 +25,14 @@
             "title": "Second Presidential Debate 2012: Mitt Romney: Obama 'Took Detroit Bankrupt'",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "lH8qirYxuXY",
+            "title": "Women Given a Second Chance",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

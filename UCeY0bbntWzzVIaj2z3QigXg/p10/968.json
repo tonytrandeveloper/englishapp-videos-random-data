@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IyCUb7bWnBw",
-            "title": "Aerials Show Heavy Flooding In North Carolina's Outer Banks | NBC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "XCbCC4xrMlg",
             "title": "What The Proposed Sinclair Merger Could Mean For Local News | Think | NBC News",
             "secondDuration": 166,
@@ -61,8 +55,14 @@
             "title": "Data: Americans Want Government To ‘Do More’ | Meet The Press | NBC News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vwqx98wrCZY",
+            "title": "President Donald Trump: ‘I Appreciate Kim Jung Un’ Releasing Three U.S. Detainees | NBC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

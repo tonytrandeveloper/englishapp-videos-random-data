@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "I3qGQc_T3lg",
-            "title": "The Daily Caller's Matt Lewis: Bachmann Can Win",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wp43rahc2dw",
             "title": "President Biden delivers remarks on 1-year anniversary of COVID-19 pandemic",
             "secondDuration": 1696,
@@ -301,8 +295,14 @@
             "title": "Trump says he was being 'sarcastic' when he suggested injecting disinfectant",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "nBxaUvGypF0",
+            "title": "Woman found guilty in texting suicide trial",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tWHlQHEMij4",
-            "title": "Watch NBC News NOW Live - September 9",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "eFk4JrIMkkk",
             "title": "‘Arlington Ladies’ Attend Every Funeral At The National Cemetery | NBC Nightly News",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Video Of Bucks Player Sterling Brown Being Tased Released By Milwaukee Police | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "rHs6133GH-w",
+            "title": "One-Time Epicenter NYC Enters Phase 2 Of Reopening | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

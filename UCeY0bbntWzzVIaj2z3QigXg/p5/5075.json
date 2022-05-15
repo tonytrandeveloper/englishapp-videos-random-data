@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9LjBaKBro5w",
-            "title": "Brutally Cold Weather Spreads Across The Country |  NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "VEJWCvnAMlc",
             "title": "Elizabeth Warren Announces She Is Suspending Her Presidential Campaign | NBC News",
             "secondDuration": 527,
@@ -31,8 +25,14 @@
             "title": "Trump Impeachment Hearings: Day 7 LIVE | NBC News (Live Stream Recording)",
             "secondDuration": 9540,
             "group": "group_7"
+        },
+        {
+            "videoId": "0kUnJv5rBEs",
+            "title": "Several Major Websites Go Down In Widespread Internet Outage",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

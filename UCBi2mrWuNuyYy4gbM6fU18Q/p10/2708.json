@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "94MNr0OOyQ4",
-            "title": "Harvey Weinstein asks judge to dismiss remaining criminal sexual assault charges",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "UYmv7kWo2zI",
             "title": "Comedian Steve Rannazzisi Admits to Lying About 9/11 | ABC News",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "Croatian earthquake, Rohingya refugees, New Year’s wishes: World in Photos, Dec. 29",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "xRMjxxkPnGY",
+            "title": "WEBCAST: Military Jet Crash",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

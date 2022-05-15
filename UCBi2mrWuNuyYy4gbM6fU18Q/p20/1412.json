@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Yqp-i_pthBg",
-            "title": "Freddie Gray Case | Police Officer Edward Nero Found Not Guilty",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "BOXb1V0d3NQ",
             "title": "Kerry Heads to Kiev after Russia's 'Declaration of War'",
             "secondDuration": 256,
@@ -121,8 +115,14 @@
             "title": "Winter Wonderland",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "larGwthg_Wc",
+            "title": "Oscars 2016 | Joe Biden Introduces Lady Gaga's Performance",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

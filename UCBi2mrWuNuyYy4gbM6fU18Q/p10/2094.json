@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "e-I_A8ovL0w",
-            "title": "Not in My Backyard! Gaddafi's Tent Trouble",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "nZ9I0Bx5ODk",
             "title": "Eagles stun Patriots to win 1st Super Bowl title",
             "secondDuration": 281,
@@ -61,8 +55,14 @@
             "title": "Orlando Nightclub Massacre: Who Was the Shooter?",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ds9tsJRupaw",
+            "title": "Chicago celebrates St. Patrick's Day by dyeing river green",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

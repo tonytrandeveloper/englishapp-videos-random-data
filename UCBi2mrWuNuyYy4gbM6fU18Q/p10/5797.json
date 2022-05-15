@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TME9NoTIA3Q",
-            "title": "Bachelorette Season 12 Episode 8 Recap | ABC News",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "8699fsiJco8",
             "title": "Rare severe weather threat in South",
             "secondDuration": 254,
@@ -61,8 +55,14 @@
             "title": "Manti Te'o Sits Down With Katie Couric",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "kuxTpm6_8zM",
+            "title": "1 year into the pandemic, working moms are still trying juggle it all",
+            "secondDuration": 284,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

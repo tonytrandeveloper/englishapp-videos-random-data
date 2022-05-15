@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OJjLAaawkkE",
-            "title": "RAW: Malaysian Jet Wreckage In Ukraine | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "DwElpeJGA8Q",
             "title": "President Donald Trump Hits At James Comey In Sunday Tweets | NBC Nightly News",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "‘They Don’t Believe In Science’: Harris, Pence Questioned On Climate Change | NBC News",
             "secondDuration": 348,
             "group": "group_7"
+        },
+        {
+            "videoId": "hU9DLdpmEtI",
+            "title": "President Donald Trump: Iran's Aggression Increased After Nuclear Deal | NBC News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

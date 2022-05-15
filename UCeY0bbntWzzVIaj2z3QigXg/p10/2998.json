@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2vxY5Rm9C28",
-            "title": "Biden Delivers Remarks On Covid Response | NBC News",
-            "secondDuration": 910,
-            "group": "group_7"
-        },
-        {
             "videoId": "W6yL59rvXOI",
             "title": "Oprah Stumps For Abrams In Georgia, Says She'll 'Serve The Underserved' | NBC News",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "Chuck Schumer On James Comey's Firing: 'Why Now?' | NBC News",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "DK2xBGi8Gqc",
+            "title": "Bay Area Wildfire Destroys More Than 8,000 Homes, At Least Five Dead | NBC News NOW",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

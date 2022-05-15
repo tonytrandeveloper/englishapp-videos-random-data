@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "QZ3LKRHs2u8",
-            "title": "Is college worth it?",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "PyUaYwuHyaM",
             "title": "Biden Calls On Cuomo To Resign Following NY AG Report",
             "secondDuration": 142,
@@ -301,8 +295,14 @@
             "title": "Biden Begins Inaugural Address: 'Democracy Has Prevailed' | NBC News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "As_xFQnYADA",
+            "title": "The Challenges Of Studying Endangered Species | Mach | NBC News",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

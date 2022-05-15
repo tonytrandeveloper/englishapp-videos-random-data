@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rHs6133GH-w",
-            "title": "One-Time Epicenter NYC Enters Phase 2 Of Reopening | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "OZfYIssHdEo",
             "title": "Nation Reacts To Chauvin Guilty Verdict | NBC Nightly News",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "Saudi-Led Airstrike Kills Dozens, Including Children, In Yemen | NBC News",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "uLQHCuLG41M",
+            "title": "Nightly News Full Broadcast - Jan. 10",
+            "secondDuration": 1056,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

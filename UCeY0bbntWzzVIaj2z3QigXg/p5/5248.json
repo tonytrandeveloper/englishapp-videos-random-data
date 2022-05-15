@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Hb2yDoIKmFs",
-            "title": "FDA Expected To Give Pfizer Vaccine Full Approval",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "r2pi-Owa43I",
             "title": "WHO: ‘COVID-19 Can Be Characterized As A Pandemic’ | NBC News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Florida Judge Rules Gov. DeSantis' School Mask Mandate Ban Is Unlawful",
             "secondDuration": 262,
             "group": "group_7"
+        },
+        {
+            "videoId": "1mqQx6-8zCI",
+            "title": "Graham: Mueller Investigation ‘Not A Ground For Recusal’ From SCOTUS | Meet The Press | NBC News",
+            "secondDuration": 1077,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

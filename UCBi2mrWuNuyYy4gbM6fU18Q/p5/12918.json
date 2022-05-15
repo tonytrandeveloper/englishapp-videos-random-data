@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YuVYCuTtiXA",
-            "title": "Juror says deposition helped jury convict Bill Cosby",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "EBS7ygUToJk",
             "title": "Kurt Volker on Biden: ‘I know he respects his duties of higher office’ | ABC News",
             "secondDuration": 27,
@@ -31,8 +25,14 @@
             "title": "Criss Angel Dangles Above Hungry Alligators",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "VDue2PImkIQ",
+            "title": "US surgeon general details spread of coronavirus and debate over masks l ABC News",
+            "secondDuration": 280,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

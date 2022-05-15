@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WaEXScN_EpU",
-            "title": "GOP Health Care Bill Delayed After Sen. John McCain’s Surgery | NBC Nightly News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "W-V9xfdf9qc",
             "title": "U.K. Prime Minster Orders Country To 'Stay At Home' | NBC News",
             "secondDuration": 63,
@@ -121,8 +115,14 @@
             "title": "Biden Announces New Deal To Reduce Europe's Reliance On Russian Energy",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "9E5Njs1pWq8",
+            "title": "With Hurricanes Harvey and Irma, 'This is Going to Stretch FEMA' | Meet The Press | NBC News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

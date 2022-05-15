@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bx1ZSuaSWbE",
-            "title": "Shane Doan: \"I have a dream that...\"",
-            "secondDuration": 5,
-            "group": "group_7"
-        },
-        {
             "videoId": "ckaW72kFmzo",
             "title": "Yes, There Is A Better Way To Eat A Popsicle: Suck It Up | Better | NBC News",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "Antisemitism On The Rise In The U.S.",
             "secondDuration": 545,
             "group": "group_7"
+        },
+        {
+            "videoId": "7pDP4zlEW24",
+            "title": "Senator Lindsey Graham Faces Angry Constituents About Neil Gorsuch, GOP Health Care Bill | NBC News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

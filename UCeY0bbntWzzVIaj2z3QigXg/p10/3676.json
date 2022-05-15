@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2x1LRu5YGyU",
-            "title": "Nancy Snyderman: \"I have a dream that...\"",
-            "secondDuration": 7,
-            "group": "group_7"
-        },
-        {
             "videoId": "RydUgoNHnWU",
             "title": "North Korea State Media Release Video Of Kim Jung Un At ICBM Launch",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "Poroshenko : ‘Please, Get Out From Ukraine, Mr. Putin’ | NBC News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "M0zkX5KO6Fs",
+            "title": "Ukrainian Family Reunites With Relatives In U.S.",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

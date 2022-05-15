@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EU7Z9FuSzaY",
-            "title": "Donald Trump Picks Exxon CEO Rex Tillerson to Be Secretary of State",
-            "secondDuration": 274,
-            "group": "group_7"
-        },
-        {
             "videoId": "pHwyGesWzB0",
             "title": "Where Did Gadhafi Sleep?",
             "secondDuration": 174,
@@ -61,8 +55,14 @@
             "title": "Mark Wahlberg Responds to Boston Marathon Explosions",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "espFmkk65v0",
+            "title": "Biden and Trump address national security threat of foreign influence during election",
+            "secondDuration": 1236,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

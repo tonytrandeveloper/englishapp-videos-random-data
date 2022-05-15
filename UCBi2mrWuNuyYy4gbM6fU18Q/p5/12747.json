@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OcLZf52b-mw",
-            "title": "Driver survives after car plunges 7 floors in parking garage",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "egoVH7TYdKs",
             "title": "Charlottesville suspect denied bail",
             "secondDuration": 161,
@@ -31,8 +25,14 @@
             "title": "Texas Bus Crash Leaves 8 Dead, Dozens Injured",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "FjWVgVhM9lU",
+            "title": "A bee hovers, children play, fireworks explode: World in Photos, June 25",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

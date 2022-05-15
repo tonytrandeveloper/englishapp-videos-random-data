@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mxLGU4E93HI",
-            "title": "Morning News NOW Full Broadcast - Nov. 8",
-            "secondDuration": 2343,
-            "group": "group_7"
-        },
-        {
             "videoId": "sXLki4hVbqw",
             "title": "Steam Pipe Explodes In New York City | NBC Nightly News",
             "secondDuration": 90,
@@ -121,8 +115,14 @@
             "title": "Harris Faces Diplomatic Test In Poland Amid Fallout Over Planes For Ukraine",
             "secondDuration": 214,
             "group": "group_7"
+        },
+        {
+            "videoId": "OdfLMk6k2S4",
+            "title": "Nike Unveils New Commercial Featuring Colin Kaepernick Despite Controversy | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

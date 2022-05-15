@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2vxY5Rm9C28",
-            "title": "Biden Delivers Remarks On Covid Response | NBC News",
-            "secondDuration": 910,
-            "group": "group_7"
-        },
-        {
             "videoId": "W6yL59rvXOI",
             "title": "Oprah Stumps For Abrams In Georgia, Says She'll 'Serve The Underserved' | NBC News",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "Alvin Bragg, The First Black Nominee For Manhattan DA, Speaks Out About Fighting For Change",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "wj7YWJtp6CI",
+            "title": "Live: L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
+            "secondDuration": 3226,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

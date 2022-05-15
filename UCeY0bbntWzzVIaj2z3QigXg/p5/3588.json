@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sF1GcpxkSeg",
-            "title": "Sukhey Khela: \"For student success, it takes...\"",
-            "secondDuration": 24,
-            "group": "group_7"
-        },
-        {
             "videoId": "0H7oF2w2TZ0",
             "title": "President Donald Trump Speaks At Nevada GOP Convention | NBC News",
             "secondDuration": 2590,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - April 7",
             "secondDuration": 1077,
             "group": "group_7"
+        },
+        {
+            "videoId": "1y13mGYYXuw",
+            "title": "Climate Change Awareness Takes Hold At The State Level | Meet The Press | NBC News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

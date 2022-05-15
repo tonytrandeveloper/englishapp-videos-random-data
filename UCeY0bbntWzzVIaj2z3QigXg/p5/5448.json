@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eK05I73_qA8",
-            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
-            "secondDuration": 1889,
-            "group": "group_7"
-        },
-        {
             "videoId": "XOpgEdFj-uw",
             "title": "Worldwide Coronavirus Death Toll Surpasses 1 Million | NBC Nightly News",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "College Football Rolls On As Concerns Over Covid 'Super Spreader' Events Fade",
             "secondDuration": 445,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qagy107wf7g",
+            "title": "C-17 Crew Speaks Out After Afghanistan Evacuation",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

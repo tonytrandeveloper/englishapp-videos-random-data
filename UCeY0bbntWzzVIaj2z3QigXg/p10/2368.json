@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9VyXinvpd_8",
-            "title": "Hurricane Irma: Major Flooding Along Florida’s East Coast | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "bEKLfpRAPHE",
             "title": "U.S. Air Force Helicopter Crashes Near Iraq Border, Killing Seven On Board | NBC Nightly News",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Aerial Video Shows Eerie, Empty Scenes At Disney World, Universal Amid Lockdown | NBC News NOW",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "BgwrvrIKfB0",
+            "title": "How Biden’s Comment On Putin’s Presidency Could Impact The War In Ukraine",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

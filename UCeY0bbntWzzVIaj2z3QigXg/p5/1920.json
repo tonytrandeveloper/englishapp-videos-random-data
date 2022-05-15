@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DYkpa3UBOoA",
-            "title": "Watch: Newsroom in Japan Experiences 7.3-Magnitude Earthquake",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "FRiXY6NsKYk",
             "title": "Future Of Summer Camps Uncertain Amid Pandemic | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Reputed Mafia Boss Gunned Down Outside New York City Home | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "ldnj2btHqFI",
+            "title": "National Intelligence Chief Dan Coats Testifies At Senate Hearing | NBC News",
+            "secondDuration": 7355,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

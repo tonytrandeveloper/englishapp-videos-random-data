@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qhG3VYaUAI4",
-            "title": "Going Inside a Man's Mind With Steve Harvey",
-            "secondDuration": 490,
-            "group": "group_7"
-        },
-        {
             "videoId": "TUlqtgW_03k",
             "title": "China, UK experience rise in COVID-19 cases",
             "secondDuration": 263,
@@ -121,8 +115,14 @@
             "title": "Keystone State scramble",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "nCjljBmIU34",
+            "title": "Students struggle to catch up from learning loss as classrooms reopen",
+            "secondDuration": 303,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

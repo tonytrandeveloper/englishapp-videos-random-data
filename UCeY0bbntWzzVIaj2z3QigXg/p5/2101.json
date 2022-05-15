@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UH-urZZA_fE",
-            "title": "NBC News' Jo Kent: A Day On The Campaign Trail",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "t45FVv9Z8jo",
             "title": "Thousands Forced To Evacuate Fort Lauderdale Airport Due To Bomb Threat",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Democrats Focus On Health Care During Barrett’s Confirmation Hearing | NBC News NOW",
             "secondDuration": 315,
             "group": "group_7"
+        },
+        {
+            "videoId": "ElGbM5t8IRg",
+            "title": "Dear Mr. President: Letters From American Women | NBC News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

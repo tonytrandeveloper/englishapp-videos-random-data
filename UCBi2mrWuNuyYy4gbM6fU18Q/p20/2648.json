@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HWq7hCf_aPo",
-            "title": "White House protest, Queen Elizabeth, Columbus protest: World in Photos, Oct. 12",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "7iEJ75z13Ao",
             "title": "Tea Party Response to 2013 State of the Union Address: Rand Paul Argues for Less Government",
             "secondDuration": 805,
@@ -121,8 +115,14 @@
             "title": "Gen. Scott Miller on US troop withdrawal",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "PdszHXn_fHY",
+            "title": "Paris Attacks: Dozens Dead, Hostage Situation Reported",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

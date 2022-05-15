@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1I0oXXc-6UM",
-            "title": "Snow piles up in Massachusetts amid nor'easter",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "jXBuapGRMQw",
             "title": "LA Transit System Terror Threat Warning",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "John Kasich's South Carolina Primary Speech",
             "secondDuration": 444,
             "group": "group_7"
+        },
+        {
+            "videoId": "1aRBhbbxafs",
+            "title": "Minnesota projected to be won by Joe Biden",
+            "secondDuration": 539,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

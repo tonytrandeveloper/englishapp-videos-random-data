@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KieB_Zi5TKI",
-            "title": "Race to evacuate Americans from China as virus spreads l ABC News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "JPfT_CEIOIk",
             "title": "Naomi Judd Opens Up About Long Struggle With Severe Depression",
             "secondDuration": 452,
@@ -61,8 +55,14 @@
             "title": "Philippine President to Obama: 'Go to Hell'",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "99_QT0k2pPo",
+            "title": "Team USA Soccer Stops by 'GMA'",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

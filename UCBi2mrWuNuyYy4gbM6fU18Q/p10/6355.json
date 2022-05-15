@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NSC9QDJoivE",
-            "title": "The Conversation: 'Ground Zero Mosque' Debate",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "SZYyLYWNyvE",
             "title": "Carolina Panthers' Cam Newton Receives High Praise",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Obama to Take Executive Action on Gun Control",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "Edmsnr-4YNA",
+            "title": "Arizona Wallow Wildfire 2011",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

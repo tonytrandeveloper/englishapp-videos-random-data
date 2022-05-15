@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4f3J_6fTshU",
-            "title": "Police-involved shooting on busy San Francisco street",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "OkrCNHvRyJk",
             "title": "State of the Union 2016: Benefits and Protections for American Citizens",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "The Pope Next Door",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "6V6oLRAZREs",
+            "title": "Timelapse shows snowstorm engulfing Turkish coast",
+            "secondDuration": 19,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

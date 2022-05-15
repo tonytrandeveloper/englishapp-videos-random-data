@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Yxw1OQYZ1QM",
-            "title": "'Thousands' more children will be hospitalized: Former acting CDC director | ABC News",
-            "secondDuration": 307,
-            "group": "group_7"
-        },
-        {
             "videoId": "lCYdHfv0fCE",
             "title": "Marco Rubio Suspends 2016 Presidential Campaign (FULL SPEECH)| ABC News",
             "secondDuration": 885,
@@ -61,8 +55,14 @@
             "title": "Bill Cosby Addresses Controversy: Exclusive",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "ib9H5SFNCjQ",
+            "title": "President Biden’s immigration agenda",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

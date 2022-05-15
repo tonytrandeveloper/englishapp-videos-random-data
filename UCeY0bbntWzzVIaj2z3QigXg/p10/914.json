@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WZcr2jQ8D7c",
-            "title": "NBC News NOW Full Broadcast – September 7, 2021",
-            "secondDuration": 3020,
-            "group": "group_7"
-        },
-        {
             "videoId": "AIlq6FKn-3A",
             "title": "How Climate Change Is Endangering Norway's Global Seed Vault | NBC News Now",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "ISIS Stronghold In Syria Growing Smaller And Smaller | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "SSMmZLud3I4",
+            "title": "'Nobody Pushed Me': President Of Ukraine Denies Being Pressured By President Donald Trump | NBC News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

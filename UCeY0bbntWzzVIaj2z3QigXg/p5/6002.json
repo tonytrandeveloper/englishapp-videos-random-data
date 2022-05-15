@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4xg3aIdW_wA",
-            "title": "Nightly News Full Broadcast (April 11th)",
-            "secondDuration": 1306,
-            "group": "group_7"
-        },
-        {
             "videoId": "kQDPY9WN8_A",
             "title": "Mailman Returns To Route After CA Wildfires | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Outrage After Pittsburgh Officer Found Not Guilty In Antwon Rose Killing | NBC Nightly News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "5t17QkizIxM",
+            "title": "LIVE: Biden Awards Medal of Honor to Three Soldiers | NBC News",
+            "secondDuration": 1765,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

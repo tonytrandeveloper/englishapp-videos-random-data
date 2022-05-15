@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "E0L0G3eh1DU",
-            "title": "Twin Babies Born on Utah Highway",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "XNKdZATBIbo",
             "title": "'Briefing Room': Kavanaugh allegations, Hurricane Florence latest, 50 days to midterms | ABC News",
             "secondDuration": 864,
@@ -121,8 +115,14 @@
             "title": "Latino voters address their priorities ahead of Election Day",
             "secondDuration": 437,
             "group": "group_7"
+        },
+        {
+            "videoId": "zhEmDlOiVWs",
+            "title": "The Year 2019: What were they thinking? l ABC News",
+            "secondDuration": 364,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

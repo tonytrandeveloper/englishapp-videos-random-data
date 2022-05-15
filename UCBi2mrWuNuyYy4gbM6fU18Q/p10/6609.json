@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Fo9AlK9sv6w",
-            "title": "Senate debates DACA, immigration: Your questions answered | ABC News",
-            "secondDuration": 7355,
-            "group": "group_7"
-        },
-        {
             "videoId": "MUMJMn2qSWI",
             "title": "Donald Trump Meets With Japanese Prime Minister",
             "secondDuration": 213,
@@ -61,8 +55,14 @@
             "title": "Paralympic Snowboarder Joins 'DWTS' Cast",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "QWUTjvNoOw4",
+            "title": "Queen voices her support for Prince Harry and Meghan",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

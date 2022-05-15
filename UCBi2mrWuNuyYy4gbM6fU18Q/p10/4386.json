@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eVOCSeytUxM",
-            "title": "Aurora, Colorado Gunman Kills Three in Hostage Standoff",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "ECBDNUW8rWE",
             "title": "Arctic Blast Spreads South to Alabama",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Arizona rescue agencies airlift stranded hikers",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "JsRG2mFjuS0",
+            "title": "'GMA' Hot List:  Marco Rubio 'Not Going to Hyperventilate About Polls'",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-4dkR-hNBIo",
-            "title": "This Week: 'On the Trail' in Delaware",
-            "secondDuration": 430,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xjzg8mmC0HI",
             "title": "Another violent collision involving a Navy destroyer",
             "secondDuration": 164,
@@ -301,8 +295,14 @@
             "title": "Trump warns another shutdown could happen",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "B5F094yu380",
+            "title": "Trump cancels press conference at G20 as Michael Cohen asks for leniency",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

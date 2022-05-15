@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZVK3nEoJSJ8",
-            "title": "Nightly News Full Broadcast - March 30",
-            "secondDuration": 1052,
-            "group": "group_7"
-        },
-        {
             "videoId": "SU1QEXZbEOg",
             "title": "Not Sure How To Teach Your Kids About Money? Go Back To The Basics | NBC News Now",
             "secondDuration": 187,
@@ -31,8 +25,14 @@
             "title": "Suicide Bombers Target Peace Rally in Turkish Capital: 95 Dead | NBC Nightly News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "zn7vKBtqR7A",
+            "title": "Can't Find Your Vaccine Card? Here's What To Do",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

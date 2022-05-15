@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NSC9QDJoivE",
-            "title": "The Conversation: 'Ground Zero Mosque' Debate",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "SZYyLYWNyvE",
             "title": "Carolina Panthers' Cam Newton Receives High Praise",
             "secondDuration": 157,
@@ -121,8 +115,14 @@
             "title": "ABC News Live: Michael Cohen speaks out, Supreme Court picks, daring prison escape | ABC News",
             "secondDuration": 1595,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z2BkZ1cEhBU",
+            "title": "Students Protest White Nationalist's Speech at Texas A&M",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

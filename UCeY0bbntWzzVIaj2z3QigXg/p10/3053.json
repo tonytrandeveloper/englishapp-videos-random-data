@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G-FrX80hTEc",
-            "title": "Israeli Ambassador Defends Use Of Force | Short Take | NBC News",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZETpCefN784",
             "title": "Confronting Russian President Vladimir Putin, Part 4 | Megyn Kelly | NBC News",
             "secondDuration": 435,
@@ -61,8 +55,14 @@
             "title": "Dow Drops 650 Points Lower As Covid-19 Cases Reach Record Highs | NBC News NOW",
             "secondDuration": 349,
             "group": "group_7"
+        },
+        {
+            "videoId": "nAWgOnC3acA",
+            "title": "Lawmakers Reach $17 Billion Veterans Affairs Deal | NBC News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

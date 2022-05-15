@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N4e86FnXXNU",
-            "title": "Fatal shooting of Andrew Brown Jr.",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "G5TYZBlqG6c",
             "title": "Trump does about-face, defending supporters' chants at reelection rally",
             "secondDuration": 173,
@@ -61,8 +55,14 @@
             "title": "'Baby Dragons' Hatch in Ancient Cave",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZPrdz7qCK_w",
+            "title": "Grosse Pointe Murder:  Bob Bashara Arrested for Hiring Second Hitman",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

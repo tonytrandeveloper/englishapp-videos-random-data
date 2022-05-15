@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "67i73RHnGP8",
-            "title": "Bernie Sanders is back home in Vermont",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "cV4_KgAd1lA",
             "title": "How to protect yourself from the hidden dangers of a faulty furnace",
             "secondDuration": 238,
@@ -121,8 +115,14 @@
             "title": "UPS executive shares latest on COVID-19 vaccine distribution plan l GMA",
             "secondDuration": 214,
             "group": "group_7"
+        },
+        {
+            "videoId": "J-DdxDnQzd0",
+            "title": "Sick children visit the 'North Pole' with United Airlines",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

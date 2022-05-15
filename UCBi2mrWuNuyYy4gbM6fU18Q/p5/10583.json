@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fAItPKtilMs",
-            "title": "California's High Court Upholds Prop 8",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "XqaIRFUmH3E",
             "title": "Webcast: Clearing the Hurdle",
             "secondDuration": 163,
@@ -31,8 +25,14 @@
             "title": "Obama Addresses the Nation HealthCare.gov Glitches",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "E-Svg-fvdUM",
+            "title": "Seniors find creative ways to ask their dates to prom",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

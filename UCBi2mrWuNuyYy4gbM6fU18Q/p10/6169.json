@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Gh4oFZgvVts",
-            "title": "'If it's released I want it all released': Rep. Jim Jordan on Mueller report",
-            "secondDuration": 505,
-            "group": "group_7"
-        },
-        {
             "videoId": "kg-EAwifCG4",
             "title": "Pope Francis Calls Los Angeles Mother a 'Brave Woman': Part 2 | Moderated by David Muir",
             "secondDuration": 503,
@@ -61,8 +55,14 @@
             "title": "Obituary for alleged Dayton shooter from Ohio funeral home sparks outrage",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "7AzZlafH20g",
+            "title": "Houston is slowly fighting to recover from Hurricane Harvey",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

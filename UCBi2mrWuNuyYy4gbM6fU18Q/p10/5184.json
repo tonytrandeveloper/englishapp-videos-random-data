@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EAetbKFjI_g",
-            "title": "Severe weather hit the Midwest after a week of unprecedented storms across the U.S.  | ABC News",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "h8W3mRHspZs",
             "title": "NASCAR noose investigation",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "WATCH LIVE: Senate votes on articles of impeachment | ABC News",
             "secondDuration": 7431,
             "group": "group_7"
+        },
+        {
+            "videoId": "n-Z2q4srvLo",
+            "title": "Hidden Talents Save U.S. Jobs",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

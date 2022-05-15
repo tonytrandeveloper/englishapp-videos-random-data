@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NlEbWM9L5Fk",
-            "title": "President Donald Trump on Confidence in Steve Bannon: ‘We’ll See What Happens’ | NBC News",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "_DcbNJLEj4c",
             "title": "How ‘Black Panther’ Became A Worldwide Phenomenon | NBC Nightly News",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Airline Industry Struggles As New Coronavirus Surge In Cases Stalls Recovery | NBC News NOW",
             "secondDuration": 999,
             "group": "group_7"
+        },
+        {
+            "videoId": "CQcso7LnC3M",
+            "title": "Paris Widower Antoine Leiris Delivers Powerful Message to Terrorists | NBC Nightly News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LCVdgWEZH8g",
-            "title": "The battle over abortion l ABC News",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "LZ09ge2eXVg",
             "title": "President Trump addresses government shutdown and Democratic Response",
             "secondDuration": 2583,
@@ -61,8 +55,14 @@
             "title": "Casey Anthony's Car Had Smell of Death",
             "secondDuration": 279,
             "group": "group_7"
+        },
+        {
+            "videoId": "EMaGBolWymY",
+            "title": "5.8 earthquake, more than 13 aftershocks hit Puerto Rico l ABC News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

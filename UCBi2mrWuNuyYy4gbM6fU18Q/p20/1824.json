@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bRDn92wOJPE",
-            "title": "Nigella Lawson's Legal Nightmares",
-            "secondDuration": 435,
-            "group": "group_7"
-        },
-        {
             "videoId": "cN3zDln_ldw",
             "title": "Steve Harvey Talks Golf, Inner Cities With Donald Trump",
             "secondDuration": 89,
@@ -121,8 +115,14 @@
             "title": "City to pay $12 million to Breonna Taylor’s family | WNT",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "BT8SlPhhbbU",
+            "title": "World in Photos, June 7: Liverpool fans celebrate, D-Day Anniversary, Trump in Europe",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

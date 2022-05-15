@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pHzPqv6uXGI",
-            "title": "Historic Flooding in Southern U.S., People Rescued From Rooftops and Trees | NBC Nightly News",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yt5d9LZ8AHk",
             "title": "Chuck Todd On Iowa Caucus Day: A Waiting Game | Meet The Press | NBC News",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Watch: Day 3 Of Derek Chauvin's Trial | NBC News",
             "secondDuration": 28111,
             "group": "group_7"
+        },
+        {
+            "videoId": "s55-5pDRpWU",
+            "title": "Fatalities After Train Derails Over Highway Near Tacoma, Washington | NBC Nightly News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

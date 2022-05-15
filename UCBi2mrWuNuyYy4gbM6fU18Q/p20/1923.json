@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zHaOe0RfatI",
-            "title": "Stimulus Status Report",
-            "secondDuration": 305,
-            "group": "group_7"
-        },
-        {
             "videoId": "sbS08C22Mi0",
             "title": "Biden addresses nation on omicron variant | ABC News",
             "secondDuration": 1354,
@@ -121,8 +115,14 @@
             "title": "FDA panel set to meet Tuesday to vote on Pfizer vaccine for kids 5 to 11",
             "secondDuration": 420,
             "group": "group_7"
+        },
+        {
+            "videoId": "GvySD6z8-wI",
+            "title": "Chris Dorner Manhunt: Fugitive Ex-Cop in Shootout With Police",
+            "secondDuration": 352,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

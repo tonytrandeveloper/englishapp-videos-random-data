@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jdjP15CHWqk",
-            "title": "Protests, COVID-19 upend the 2020 race",
-            "secondDuration": 277,
-            "group": "group_7"
-        },
-        {
             "videoId": "SJiUVvTShFo",
             "title": "Mental health and the pandemic",
             "secondDuration": 458,
@@ -61,8 +55,14 @@
             "title": "Lyle Menendez Speaks Out From Behind Bars",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "15NFBH4rYTk",
+            "title": "Spending 10 days inside Putin's Russia: Part 1",
+            "secondDuration": 637,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

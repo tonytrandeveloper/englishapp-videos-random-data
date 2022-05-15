@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7Qvik6ORvEw",
-            "title": "Chile Set To Elect New President",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "cn_GvktjuDQ",
             "title": "Morning News NOW Full Broadcast - April 11",
             "secondDuration": 3010,
@@ -61,8 +55,14 @@
             "title": "Biden Approves Deployment of Additional U.S. Troops to Eastern Europe",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "XcgK2kT3l_c",
+            "title": "Will The U.S. See Another Covid Surge? | NBC News NOW",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

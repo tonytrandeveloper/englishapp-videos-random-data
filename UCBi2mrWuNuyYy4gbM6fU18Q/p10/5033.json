@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "p7-0rPvduug",
-            "title": "Third Presidential Debate Highlights | Clinton, Trump on 2nd Amendment, Guns",
-            "secondDuration": 295,
-            "group": "group_7"
-        },
-        {
             "videoId": "o5ndhKeU7c4",
             "title": "Chauvin trial continues, cherry blossoms and ballet returns: World in Photos, April 1",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "New York Times reports that Trump said firing Comey relieved 'great pressure' from him",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "FijutZQTy5M",
+            "title": "Vice President Mike Pence visits Las Vegas",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

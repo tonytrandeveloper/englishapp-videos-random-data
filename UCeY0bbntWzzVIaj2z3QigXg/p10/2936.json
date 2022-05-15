@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RRTqyzJGjx0",
-            "title": "U.S. And NATO Officials Say They Can’t Confirm Russian Troop Pullback",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "lEjkrW79Fcg",
             "title": "Boston Dynamics' 4-Legged Robot Spot Could Be Coming To An Office Near You | Mach | NBC News",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Tornado Strikes Arkansas As Swath Of U.S. Hit By Severe Spring Storms | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "ydVVXp40oSk",
+            "title": "Graham On If Trump Should Testify: 'If I Were Him, I Wouldn't' | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

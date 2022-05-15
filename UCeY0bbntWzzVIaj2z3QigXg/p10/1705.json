@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZFefTM1VAow",
-            "title": "Testimony From Ghislaine Maxwell, Jeffrey Epstein’s Alleged Accomplice, Unsealed | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "KmTLRSl28SU",
             "title": "Nightly News Full Broadcast - April 6",
             "secondDuration": 1165,
@@ -61,8 +55,14 @@
             "title": "Live: Body Of Rep. John Lewis Arrives In D.C. For Ceremony At U.S. Capitol | NBC News",
             "secondDuration": 10855,
             "group": "group_7"
+        },
+        {
+            "videoId": "LZ-9R1ElhLo",
+            "title": "NBC News Fact Checks Trump's False Election Fraud Claims As Battleground Vote Counts Continue",
+            "secondDuration": 674,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

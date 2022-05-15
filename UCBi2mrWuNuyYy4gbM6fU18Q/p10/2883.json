@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KFKpcyDKLX4",
-            "title": "Malala Yousafzai Returns to School",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "lwLqShF8YAs",
             "title": "The World Mourns Nelson Mandela",
             "secondDuration": 281,
@@ -61,8 +55,14 @@
             "title": "Instant Index: Halloween Surprise for Harry Potter",
             "secondDuration": 19,
             "group": "group_7"
+        },
+        {
+            "videoId": "ViNFhj2Gegk",
+            "title": "'Occupy' Protests: Cities Fight Back",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QEyv4IApPws",
-            "title": "Secret Service Agent Competing In Boston Marathon With A Powerful Mission | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "YLkU7oeb4C0",
             "title": "Reflecting On Afghanistan 20 Years After 9/11",
             "secondDuration": 190,
@@ -121,8 +115,14 @@
             "title": "ISIS Claims Attack On Afghan Save The Children Offices | NBC News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "usPHIQq2vA4",
+            "title": "Trump Says Sotomayor, Ginsburg Must ‘Recuse Themselves’ From Cases Related To Him | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

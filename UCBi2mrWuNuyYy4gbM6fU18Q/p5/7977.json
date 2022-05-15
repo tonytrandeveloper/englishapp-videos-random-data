@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ByBuRucmMB8",
-            "title": "Dean Smith's Surprising Gift to University of North Carolina’s Players",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "UTZN-lt-mtQ",
             "title": "'Touch DNA' Links Men to Car of Murdered College Student: Part 2",
             "secondDuration": 551,
@@ -31,8 +25,14 @@
             "title": "Monster storms across the US on Thanksgiving",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "MU01bLY60UY",
+            "title": "Historic Texas voter turnout",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

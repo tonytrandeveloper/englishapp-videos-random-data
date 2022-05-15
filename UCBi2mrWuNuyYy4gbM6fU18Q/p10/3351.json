@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YBgVVXE-3mc",
-            "title": "Clinton Foundation Under Fire for Receiving Foreign Donations",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "hyNstK_MajY",
             "title": "Matthew Broderick on Broadway, Son's Aspirations",
             "secondDuration": 309,
@@ -61,8 +55,14 @@
             "title": "Woman Killed in San Antonio Truck Explosion",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "Khi_Tzoithg",
+            "title": "Everything Pumpkin For Fall",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qlD-plgXEK8",
-            "title": "Plane Bursts Into Fire on Chicago Runway",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "9UZ4pwIkZSM",
             "title": "ABC News Prime: COVID-19 vaccine backlog; Big mess in Texas; Climate change and extreme cold",
             "secondDuration": 3641,
@@ -121,8 +115,14 @@
             "title": "Powerful Winter Storm to Hit the Nation",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "1vHAWEnh8Lg",
+            "title": "Aaron Hernandez's family questions suicide reports",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

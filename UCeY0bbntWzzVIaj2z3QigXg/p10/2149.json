@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K-xf5ofGEA4",
-            "title": "Meet the Press This Sunday: Rick Santorum, Governor's Brewer and Brown, plus Roundtable",
-            "secondDuration": 29,
-            "group": "group_7"
-        },
-        {
             "videoId": "OrFftV9Y3qY",
             "title": "Health Care Workers On Coronavirus Front Lines Join Protests Against Injustice  | NBC Nightly News",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Fentanyl Warnings Return As Spring Break Heads To Florida",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "GzrJfKyb1Cc",
+            "title": "Morning News NOW Full Broadcast - August 12",
+            "secondDuration": 2861,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

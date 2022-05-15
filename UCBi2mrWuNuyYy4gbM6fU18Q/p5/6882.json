@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0_kZyIONn2o",
-            "title": "Some personnel ordered out of US embassy in Baghdad",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "SAOV576UeJw",
             "title": "Mayor Rahm Emanuel Discusses Mitt Romeny's Tax Returns and Bain Capital History",
             "secondDuration": 676,
@@ -31,8 +25,14 @@
             "title": "Dow plunged 1,800 points over concerns of a second wave of coronavirus l ABC News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "gf_MDx40xWI",
+            "title": "Holiday gift ideas",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

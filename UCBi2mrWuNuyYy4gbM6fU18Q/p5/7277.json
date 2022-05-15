@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6LCY_qyiPMU",
-            "title": "For Julia Roberts, Family Comes First",
-            "secondDuration": 288,
-            "group": "group_7"
-        },
-        {
             "videoId": "wKyC2ejA18I",
             "title": "James Gandolfini, Known for Playing Tony Soprano, Dead at 51",
             "secondDuration": 381,
@@ -31,8 +25,14 @@
             "title": "Jon Gosselin Seeks Help From Higher Power",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "BEvRacAUmeM",
+            "title": "Yelle Interview: Julie Budet on 'Safari Disco Club's' French Pop Invasion",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FDpD7CuEznU",
-            "title": "This $500 Mechanical Arm Could Bring Precision Surgery to the Masses",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "_AmlkfoIo6w",
             "title": "Full Osterholm: ‘The Surge Could Sustain Itself For Another 4 to 6 Weeks’",
             "secondDuration": 430,
@@ -31,8 +25,14 @@
             "title": "Major Airlines Cancel Holiday Flights As Omicron Spreads",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "tvbsEw79aCI",
+            "title": "New York DOH Investigating 100 Cases Of Possible COVID-Related Children's Illness | NBC News NOW",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

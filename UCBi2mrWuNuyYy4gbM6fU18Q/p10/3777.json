@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Pe9geSU68i0",
-            "title": "Team USA Olympians: Terror Won't Deter Us",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ve6I92hEozo",
             "title": "Trump v. Rubio | Trump Defends Size of His Manhood, 'Little Hands'",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Trump administration seeks to repeal Obamacare",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "KzlJrvs1Tz0",
+            "title": "Timelapse captures dense fog in San Francisco",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

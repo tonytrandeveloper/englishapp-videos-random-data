@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "XMFo-ICqv2E",
-            "title": "Massive crowds march against Trump administration's immigration policy",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "1hS_jC9hWug",
             "title": "Faces of Orlando Shooting Victims",
             "secondDuration": 97,
@@ -301,8 +295,14 @@
             "title": "Rep. John Lewis memorial LIVE: Civil Rights leader makes his final crossing of Edmund Pettus Bridge",
             "secondDuration": 3391,
             "group": "group_7"
+        },
+        {
+            "videoId": "9LASnELQ1Cw",
+            "title": "Protester arrested after climbing base of Statue of Liberty",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

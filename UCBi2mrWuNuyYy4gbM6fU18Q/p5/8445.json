@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tlXfGgAXQpE",
-            "title": "Oscar Pistorius Murder Case: Bail Granted",
-            "secondDuration": 259,
-            "group": "group_7"
-        },
-        {
             "videoId": "r25gzimzFVM",
             "title": "Carter Page told Trump campaign officials about Moscow trip",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Family claims doorbell app saved their lives",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "aWG1jtXlEeM",
+            "title": "Texas sees steady rise in COVID-19 cases since reopening 2 weeks ago",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

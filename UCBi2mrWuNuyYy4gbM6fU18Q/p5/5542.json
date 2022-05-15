@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sVbLpTu_egg",
-            "title": "Hurricane Irene Leaves Path Of Destruction",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "tNV3P4sEwXU",
             "title": "Australian PM gets confronted by local l ABC News",
             "secondDuration": 82,
@@ -31,8 +25,14 @@
             "title": "The Conversation: Twitter's Satirical BP Star",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "RFvRAGs9sSU",
+            "title": "Primetime Family Secrets: Teen Pregnancy",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

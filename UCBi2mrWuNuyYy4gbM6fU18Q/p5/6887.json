@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kVNqpOaUgsU",
-            "title": "War in Ukraine: March 10, 2022",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "INP2J4MEQy0",
             "title": "Biking while blind: “I couldn’t believe it”",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Citizens from divisive election states respond to Trump presidency",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hwy-x2bREz0",
+            "title": "Train Derails in Brooklyn Causing Injuries, Delays",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

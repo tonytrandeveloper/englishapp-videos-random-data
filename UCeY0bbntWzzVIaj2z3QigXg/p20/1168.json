@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "y43SiJtAWNE",
-            "title": "Trump Holds Campaign Rally In Nevada  | NBC News",
-            "secondDuration": 5674,
-            "group": "group_7"
-        },
-        {
             "videoId": "GG1LrhVnrZM",
             "title": "The Hunt For ISIS: In The Desert With Iraq's Fighter Pilots | NBC News",
             "secondDuration": 193,
@@ -121,8 +115,14 @@
             "title": "Parents Sound Skeptical About China's New Three-Child Policy",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "_5IC8zqcq_I",
+            "title": "15 Dead After Iranian Cargo Plane Crashes On Mistaken Airfield | NBC News",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

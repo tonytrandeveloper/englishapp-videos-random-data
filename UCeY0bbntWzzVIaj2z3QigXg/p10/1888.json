@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jJDgELibM3A",
-            "title": "Inside The Push To End Mass Incarceration, Overturn Wrongful Convictions",
-            "secondDuration": 260,
-            "group": "group_7"
-        },
-        {
             "videoId": "bXA0upnAgpo",
             "title": "99-Year-Old Veteran Raises Millions For Health Care Workers With Laps In His Garden | NBC News",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "Leahy Grills Brett Kavanaugh On Whether He Is The Person Referenced In Friend's Book | NBC News",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "bt7narl-Q08",
+            "title": "Nevada Marijuana Shortage: State Officials Scramble To Stock Up | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

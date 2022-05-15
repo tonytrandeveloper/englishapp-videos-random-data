@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lsaSDsPQQbA",
-            "title": "Thailand Cave Rescue: Four More Boys Brought To Safety | NBC Nightly News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "apt1jVlBsKw",
             "title": "Live: California Gov. Newsom Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2916,
@@ -61,8 +55,14 @@
             "title": "Over 100 People Unaccounted For In Kentucky After Tornado Disaster",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "RAETwCmaV2o",
+            "title": "15-Year-Old Suspected Shooter In Custody After Killing Three At Michigan High School",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

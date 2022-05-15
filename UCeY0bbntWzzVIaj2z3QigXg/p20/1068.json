@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "l51dl5fFyx8",
-            "title": "U.S.-Venezuela Standoff Escalates As Maduro Calls Diplomats Back Home | NBC Nightly News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "soA3PcTnXgg",
             "title": "Pittsburgh Mayor: Infrastructure Funding Is 'Critical' After Bridge Collapse",
             "secondDuration": 105,
@@ -121,8 +115,14 @@
             "title": "Border Patrol’s Use Of Amazon-Owned ‘Wickr’ Messaging App Drawing Scrutiny",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "zfbPbIhAhQ0",
+            "title": "Hillary Clinton Addresses State Department Emails | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

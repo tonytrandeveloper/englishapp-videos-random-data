@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "J-dr_KiUNBw",
-            "title": "Deadly Wildfire Rages In Hills North Of Los Angeles | NBC News",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "jbCH4UVuONI",
             "title": "Donald Trump Escalates War of Words With Lindsey Graham | NBC Nightly News",
             "secondDuration": 173,
@@ -61,8 +55,14 @@
             "title": "Digital Therapy Aims To Help Teens Fight Depression Through Smartphones",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "2BTZQ1sNanI",
+            "title": "Martin Shkreli Found Guilty Of Securities Fraud | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

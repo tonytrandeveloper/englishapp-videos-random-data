@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "mWNLdxFrEMw",
-            "title": "Fires in Australia, penguins in China, floating Santas: World in Photos, Jan. 7",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "hcZ_IRKzJzE",
             "title": "Oct. 10, 2002: Sniper Terrorizes D.C.",
             "secondDuration": 150,
@@ -301,8 +295,14 @@
             "title": "Donald Trump Discusses Plan for China",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "mHEVaKMRhak",
+            "title": "Dems focus on health care in Barrett hearing, families share opposing views on ACA",
+            "secondDuration": 648,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pKX6x-M804I",
-            "title": "104-Year-Old Woman Beats Covid Twice | NBC News NOW",
-            "secondDuration": 49,
-            "group": "group_7"
-        },
-        {
             "videoId": "iqtMBLLZBws",
             "title": "How A 2013 SCOTUS Ruling Cleared A Path For Restrictive Voting Laws",
             "secondDuration": 352,
@@ -31,8 +25,14 @@
             "title": "Olympic Torch Relay Begins For The 2018 Pyeongchang Winter Games | NBC News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "bWn1_DTFCxI",
+            "title": "Runner Set To Make History On 50th Anniversary of New York City Marathon",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_8u-48lbQU0",
-            "title": "NYC Mayor Bill De Blasio Holds Press Conference Amid George Floyd Protests | NBC News",
-            "secondDuration": 1946,
-            "group": "group_7"
-        },
-        {
             "videoId": "aYEWfopS0OQ",
             "title": "Joe Biden Says He Would 'Of Course' Consider Kamala Harris As Running Mate | NBC News",
             "secondDuration": 59,
@@ -31,8 +25,14 @@
             "title": "Why Are a Record Number of Sharks Swimming Off the West Coast? | NBC Nightly News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "wtDM18SdjME",
+            "title": "‘Encanto’ Sparks Conversation About Diversity On Screen",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

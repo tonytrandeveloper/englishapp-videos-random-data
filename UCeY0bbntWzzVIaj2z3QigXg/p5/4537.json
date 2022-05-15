@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nrbmUOeMn-4",
-            "title": "Marco Rubio On 9/11: 'Don't Blame Bush' | Meet The Press | NBC News",
-            "secondDuration": 360,
-            "group": "group_7"
-        },
-        {
             "videoId": "wzAFo_8poLU",
             "title": "NOW Tonight with Joshua Johnson Full Episode – Dec. 9 | NBC News NOW",
             "secondDuration": 3126,
@@ -31,8 +25,14 @@
             "title": "Senate Intel Hearing: ‘Ample Examples’ Of Russian Interference In European Elections | NBC News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "UYZ7RSiH7Lg",
+            "title": "Explosive New Report Claims Trump Personally Instructed Cohen To Lie To Congress | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

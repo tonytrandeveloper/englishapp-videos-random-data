@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t0fI-rSJTis",
-            "title": "Carnival Cruise Ship Stranded off Yucatan Peninsula",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "wnTIVBXZO0E",
             "title": "Puerto Ricans still facing a humanitarian crisis after Hurricane Maria",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Pacific Northwest slammed by major winter storm",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "iS34ch_qv-g",
+            "title": "The Jubilee Queen: Elizabeth, The Early Years",
+            "secondDuration": 366,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cQ4YZqxRzsY",
-            "title": "This Morning’s Top Headlines – Jan. 14 | Morning News NOW",
-            "secondDuration": 1349,
-            "group": "group_7"
-        },
-        {
             "videoId": "mP73upHD6OY",
             "title": "Hillary Clinton: We Must Repudiate 'Bigotry' Of Donald Trump, Ted Cruz | NBC News",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "How Voting By Mail Works | NBC News NOW",
             "secondDuration": 776,
             "group": "group_7"
+        },
+        {
+            "videoId": "PnLUEr9agzo",
+            "title": "Biden On Trump’s 'Treasonous' Remark: I Can’t Think Of A President That Talked That Way | NBC News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

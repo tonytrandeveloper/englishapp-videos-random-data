@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LNHlTLvRhJ0",
-            "title": "Upcoming American Music Awards",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "TOh4Zdr6mnU",
             "title": "Reince Priebus: Donald Trump has 'Rewritten the Playbook'",
             "secondDuration": 487,
@@ -121,8 +115,14 @@
             "title": "Families of 13 slain US service members express grief, anger | Nightline",
             "secondDuration": 603,
             "group": "group_7"
+        },
+        {
+            "videoId": "gnmX_55Y4vY",
+            "title": "Trump faces 1st terror attack during time in office",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

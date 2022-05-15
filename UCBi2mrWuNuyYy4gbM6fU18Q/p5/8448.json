@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "70tbu4eprfI",
-            "title": "Derek Jeter Interview on Life After the Yankees",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qy7jTiiyQfo",
             "title": "Otto Warmbier's parents attend State of the Union",
             "secondDuration": 234,
@@ -31,8 +25,14 @@
             "title": "Biden and Trump speak on climate change, fracking",
             "secondDuration": 725,
             "group": "group_7"
+        },
+        {
+            "videoId": "V0wwC6I1CEA",
+            "title": "Berlin, Germany Celebrates the Start of 2018",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

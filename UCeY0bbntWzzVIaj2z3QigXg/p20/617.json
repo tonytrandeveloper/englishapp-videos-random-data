@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QexKL3eWegk",
-            "title": "President Donald Trump Denies Being Interviewed by Michael Wolff | NBC News",
-            "secondDuration": 303,
-            "group": "group_7"
-        },
-        {
             "videoId": "Czek-esh91M",
             "title": "John Kelly: President Donald Trump Believes Puerto Ricans Are American Citizens| NBC News",
             "secondDuration": 83,
@@ -121,8 +115,14 @@
             "title": "Displaced Syrian Refugee: ‘America Betrayed’ Them | NBC News Now",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "VlTmW-Y4Wxg",
+            "title": "Makeshift Hospitals Pop Up Around The Country To Combat COVID-19 | NBC News NOW",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

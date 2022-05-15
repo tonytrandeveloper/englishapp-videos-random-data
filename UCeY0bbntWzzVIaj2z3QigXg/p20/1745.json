@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "F3Wp76XBCdk",
-            "title": "Virginia Teacher Refuses To Comply With Proposed Pronoun Policy",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "CFVqZmzF3s4",
             "title": "Girl Scouts File Lawsuit Against Boy Scouts Over Name Change | NBC Nightly News",
             "secondDuration": 74,
@@ -121,8 +115,14 @@
             "title": "Copyright Should Protect Creativity, Not Ownership | Think | NBC News",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "6dXFUctMxts",
+            "title": "American Killed While Fighting ISIS In Syria | NBC News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

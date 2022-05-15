@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TQM_gBR5h5Q",
-            "title": "Inside The Battle To Win The Latino Vote In Nevada | NBC Nightly News",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "zSU6wr4Hu38",
             "title": "Deadly Storms, Tornadoes Plow Through The Midwest | NBC Nightly News",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Trump Hits The Golf Course For First Time During Pandemic | NBC Nightly News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "slOVEOl1sW0",
+            "title": "Ukraine Conflict Reignites U.S. Considers Sending Arms | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

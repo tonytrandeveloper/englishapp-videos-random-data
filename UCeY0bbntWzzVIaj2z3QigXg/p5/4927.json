@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Kt-XscUkG7Y",
-            "title": "Equifax, Software Company Blame Each Other For Security Breach | NBC Nightly News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "nVX3pRNq5Nw",
             "title": "NBC News NOW Full Broadcast - June 18th, 2021",
             "secondDuration": 3050,
@@ -31,8 +25,14 @@
             "title": "Benton Harbor, Michigan Faces Water Crisis Amid Unsafe Lead Levels",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "RIPJXuBYAxg",
+            "title": "Eyewitness Video Captures Deadly Tornado Over New Orleans",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

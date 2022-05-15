@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "a4vZJgpitJI",
-            "title": "Michelle Obama Speaks At Voter Registration Rally | NBC News",
-            "secondDuration": 1471,
-            "group": "group_7"
-        },
-        {
             "videoId": "8_XyE8ZRtHw",
             "title": "Watch Live: Soyuz Launch to International Space Station",
             "secondDuration": 5295,
@@ -31,8 +25,14 @@
             "title": "Michigan Man Dead After Teens Throw Six Pound Rock Through His Windshield | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vvnu5Z_LZJM",
+            "title": "Tropical Storm Erika Slams The Caribbean: 12 Dead, Dozens Missing | NBC Nightly News",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rxjLbjFZxZY",
-            "title": "ESPYs 2015: Behind the Scenes Highlights of Award Show",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "SvVlqiUnxhY",
             "title": "ISIS Threat: Is It Growing?",
             "secondDuration": 310,
@@ -61,8 +55,14 @@
             "title": "House releases impeachment report released",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "qXtvRwTgZGU",
+            "title": "Fires Continue to Wreak Havoc on West Coast",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

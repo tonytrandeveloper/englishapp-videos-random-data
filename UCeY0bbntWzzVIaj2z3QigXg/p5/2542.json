@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PNrbXN6F-mc",
-            "title": "Dr. Fauci: ‘Please Get vaccinated, It Will Protect You’ Against Delta Variant",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "MUKR52yboMQ",
             "title": "Authorities Report 'Almost Uneventful' End To Brooklyn Center Protest Over Daunte Wright's Death",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Watch: SpaceX Launches Resupply Mission to International Space Station",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "YaHNHfRO2GY",
+            "title": "Meet Peeqo, The Adorable, Sassy Robot That Speaks In GIFs | Mach | NBC News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

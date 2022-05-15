@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "69WRtICbA50",
-            "title": "Oscars 2012: Mysteries Solved",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "UbG4J7Fy9tg",
             "title": "Sexual Misconduct in U.S. Swimming",
             "secondDuration": 539,
@@ -31,8 +25,14 @@
             "title": "Joe Biden on Impact of Failed Turkish Coup",
             "secondDuration": 25,
             "group": "group_7"
+        },
+        {
+            "videoId": "8nPqeW9voH8",
+            "title": "Romer on Jobs: Recovery in Sight?",
+            "secondDuration": 629,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

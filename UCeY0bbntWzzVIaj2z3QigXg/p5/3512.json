@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ua3LWv4ZsmQ",
-            "title": "Inside Shell’s $7 Billion Gamble for Oil in Remote Arctic Seas | NBC Nightly News",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZLx6r0p-LRQ",
             "title": "Live: White House Holds Press Briefing | NBC News",
             "secondDuration": 1716,
@@ -31,8 +25,14 @@
             "title": "North Korean Olympic Official: Unified Team Will Work Fine Together | NBC News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "v8b75GwP_Hc",
+            "title": "Long Lines And Overwhelming Demand For Covid Vaccine | NBC Nightly News",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

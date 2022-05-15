@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lH9Ta_kwgLQ",
-            "title": "Donald Trump Appears With Paul Ryan on 'Thank You' Tour",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "kGNrKnCQm1I",
             "title": "Law and Order: 'This Week' Panel",
             "secondDuration": 345,
@@ -61,8 +55,14 @@
             "title": "Mitt Romney Faces Tough Questions in Univision Interview, Promises 'Permanent' Fix to Immigration",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "voDCp6-j1FI",
+            "title": "Jacqueline Kennedy Tapes, Recorded After JFK Assassination, Reveal Intimate Secrets",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

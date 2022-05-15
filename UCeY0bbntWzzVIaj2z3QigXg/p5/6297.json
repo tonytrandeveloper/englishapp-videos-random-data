@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nUGhn06ij0o",
-            "title": "Catalonia Wants Independence From Spain | Long Story Short | NBC News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sj1AU5hpyKY",
             "title": "USA Olympic Gold Medalist Aly Raisman To Larry Nassar: ‘You Are Nothing’ | NBC News",
             "secondDuration": 738,
@@ -31,8 +25,14 @@
             "title": "Space Capsule To Splashdown In Ocean",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "V5iKfT-W69M",
+            "title": "The Biggest Winner At The Olympics Is The IOC | Think | NBC News",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

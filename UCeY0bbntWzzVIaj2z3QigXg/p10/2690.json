@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Knd74WicEiM",
-            "title": "Police Investigating Whether 16-Year-Old Staged Own Kidnapping | NBC Nightly News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "e5LOtvAeW1Q",
             "title": "German Streets Deserted As New Covid Lockdown Comes Into Effect | NBC News NOW",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "2017 Solar Eclipse (Full) | NBC News",
             "secondDuration": 6416,
             "group": "group_7"
+        },
+        {
+            "videoId": "iMc9KUwROzQ",
+            "title": "FBI: Suspect Who Streamed Execution On Facebook Could Be Anywhere | NBC News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QlPPBt85a7g",
-            "title": "Ring device in family’s bedroom hacked by stranger",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "XSeSr7VjHwM",
             "title": "Trump announces new sanctions against Iran, its supreme leader",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "George Zimmerman Found Not Guilty",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "PSsZfH1XSGg",
+            "title": "Rep. Adam Kinzinger delivers emotional plea before House Select Committee",
+            "secondDuration": 701,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

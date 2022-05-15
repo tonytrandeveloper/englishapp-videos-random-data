@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vlYNwOcm3B8",
-            "title": "Inside the White House",
-            "secondDuration": 273,
-            "group": "group_7"
-        },
-        {
             "videoId": "EhWXw_XVdY8",
             "title": "Dakota Pipeline Protest | Army Corps Denies Easement",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Israel Pauses on Holocaust Memorial Day",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "RcM8EnwZsEE",
+            "title": "Ahmaud Arbery's mom accuses Georgia police department of cover-up l GMA",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

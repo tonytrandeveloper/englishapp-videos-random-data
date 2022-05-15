@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Gzvmgx1OoDg",
-            "title": "Are new COVID-19 testing solutions enough?",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "pC0sifavWJ0",
             "title": "California braces for new storm after record floods",
             "secondDuration": 181,
@@ -121,8 +115,14 @@
             "title": "Bachelorette: Dramatic Season Premiere",
             "secondDuration": 340,
             "group": "group_7"
+        },
+        {
+            "videoId": "rxdfRZptSwk",
+            "title": "Michelle Obama Welcomes Melania Trump to White House",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "atpKvM4VxLQ",
-            "title": "U.S. Navy hospital ship Comfort departs from New York City | ABC News",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "qoxwMMor7WI",
             "title": "'Straight Outta Compton' Rakes in $56 Million in its Opening Weekend",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "ABC News Prime: Hope in race for COVID-19 vaccine; Cases rise after Canadian Thanksgiving",
             "secondDuration": 3605,
             "group": "group_7"
+        },
+        {
+            "videoId": "2-LGAe8cjYw",
+            "title": "The Miners: After the Darkness",
+            "secondDuration": 364,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

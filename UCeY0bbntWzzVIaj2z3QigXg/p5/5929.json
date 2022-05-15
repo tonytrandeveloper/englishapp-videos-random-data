@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5CzIDvoR39w",
-            "title": "DOJ Launches Gun Trafficking Strike Forces In Five Cities",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qs23hD8QkIE",
             "title": "Federal Trade Commission Reportedly Probing Facebook | NBC Nightly News",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "U.S., Iran To Restart Nuclear Deal Talks In Vienna",
             "secondDuration": 219,
             "group": "group_7"
+        },
+        {
+            "videoId": "KoBP74TWGSc",
+            "title": "Boston Bomber Tsarnaev's Obscene Gesture Shocks Court | NBC Nightly News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

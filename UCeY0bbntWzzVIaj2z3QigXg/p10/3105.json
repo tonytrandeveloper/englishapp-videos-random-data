@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0_GFGt7sswY",
-            "title": "New York City Council Bills Aim To Ban Flavored E-Cigarettes | NBC News Now",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "aBSgg7wjjmo",
             "title": "Watch Otto Warmbier’s High School Graduation Speech From 2013 | NBC News",
             "secondDuration": 260,
@@ -61,8 +55,14 @@
             "title": "Amid Race To Develop A Coronavirus Vaccine, Growing Concerns Of Who Gets It First | NBC Nightly News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "CM9fD2aDJKQ",
+            "title": "Morning News NOW Full Broadcast - June 14",
+            "secondDuration": 2889,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

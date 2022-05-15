@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "11VaRm23-io",
-            "title": "Concertgoers breach airport fence fleeing Las Vegas shooting",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "MuRq23oWwkw",
             "title": "Joss Stone | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 654,
@@ -121,8 +115,14 @@
             "title": "Rainn Wilson's Musical Side",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "0hlt_Em18Lg",
+            "title": "Investigation into sudden death of 27-year-old star MLB pitcher",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vhuoinEjyF0",
-            "title": "ABC News Live: Heavy snow, freezing rain cause travel nightmare in the South",
-            "secondDuration": 1475,
-            "group": "group_7"
-        },
-        {
             "videoId": "xNned1RG63s",
             "title": "US averaging more than 110,000 new daily COVID-19 cases",
             "secondDuration": 431,
@@ -121,8 +115,14 @@
             "title": "Super Bowl Behind the Scenes: How Much of the Big Game Is Made in America? | David Muir",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "lJFgR3Fhsfk",
+            "title": "MIX: 100 Catcalls In One Day",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

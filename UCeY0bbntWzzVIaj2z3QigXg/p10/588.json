@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "14fENjTChe8",
-            "title": "President Donald Trump Offers To 'Destroy' Texas State Senator's Career | NBC News",
-            "secondDuration": 57,
-            "group": "group_7"
-        },
-        {
             "videoId": "IlUMxsATjMA",
             "title": "Biden Signs Executive Order On Economy | NBC News",
             "secondDuration": 617,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Says Saudi King Denies Involvement In Killing Of Missing Journalist | NBC News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "qgqBReVfoOw",
+            "title": "Biden Delivers Remarks On Gun Crime Prevention Strategy | NBC News",
+            "secondDuration": 1246,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

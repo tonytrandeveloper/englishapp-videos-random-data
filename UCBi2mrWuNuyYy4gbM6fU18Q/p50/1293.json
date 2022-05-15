@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "qmTjKIwNsF4",
-            "title": "Obama Weighs in on Donald Trump Meeting",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "07LS8-St61c",
             "title": "ABC News Prime: Supply chain nightmare; Deadly bow and arrow attack; Conversation with David Grohl",
             "secondDuration": 5384,
@@ -301,8 +295,14 @@
             "title": "Morning Mix: Juan Williams to Ginni Thomas",
             "secondDuration": 428,
             "group": "group_7"
+        },
+        {
+            "videoId": "R6MO0QDrpZg",
+            "title": "Tom Davis: 'No Good News' for Voters in a Decade",
+            "secondDuration": 590,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

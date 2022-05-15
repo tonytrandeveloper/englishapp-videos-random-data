@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "o9bR9tmPzjQ",
-            "title": "WEBCAST: ABC News Exclusive: Zimmerman Juror B-29",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "nHw296joqkE",
             "title": "Judge Directs Outrage Towards Convicted Killer's Courtroom Actions",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "Private Eye Hunts for Clues in Murder",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "GLOYdbqD33g",
+            "title": "Mexico Travel Warning",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6uHPrnRiX_A",
-            "title": "'The Dropout' Part 4: Theranos wins huge backing, rises in value to $9 billion by 2014",
-            "secondDuration": 560,
-            "group": "group_7"
-        },
-        {
             "videoId": "-IA1-ugRO5o",
             "title": "SCOTUS won't stop Texas abortion ban l ABC News",
             "secondDuration": 450,
@@ -61,8 +55,14 @@
             "title": "Teen pushed off bridge almost 60 feet in the air: 'I might've fainted midair'",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "MdSKAdOSj-4",
+            "title": "How Jackie Evancho, her sister's lives changed after inauguration performance",
+            "secondDuration": 479,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

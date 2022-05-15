@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SHqTQWTtMgY",
-            "title": "Special prosecutor to investigate Michigan State",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "U_snbmcsoec",
             "title": "Tom Brady is back",
             "secondDuration": 178,
@@ -61,8 +55,14 @@
             "title": "Get to Know the Silent Stars of \"The Artist\"",
             "secondDuration": 465,
             "group": "group_7"
+        },
+        {
+            "videoId": "RW02r7gy8eM",
+            "title": "Fire causes portion of Atlanta highway to collapse",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

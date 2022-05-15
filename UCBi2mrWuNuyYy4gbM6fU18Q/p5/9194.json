@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GDjgWUYz7Z4",
-            "title": "Leisure Years Lost",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wpx2iQaO-8U",
             "title": "Chris Rock's Take on 'Death at a Funeral'",
             "secondDuration": 353,
@@ -31,8 +25,14 @@
             "title": "Firefighters rescue dog from frozen pond",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "iH4I8PuFTaQ",
+            "title": "Millions of Americans affected by 'medical gaslighting' every year",
+            "secondDuration": 358,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

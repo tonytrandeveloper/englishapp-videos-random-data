@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fHCgbrfjBas",
-            "title": "Community comes together to honor UPS driver | WNT",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "6GECTPZgtfM",
             "title": "Chad Bettis returns to the mound",
             "secondDuration": 71,
@@ -31,8 +25,14 @@
             "title": "'This Week' Sunday Spotlight: Rep. Tulsi Gabbard",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "hnwHUmWbmfM",
+            "title": "Nation braces for verdict in trial of Derek Chauvin",
+            "secondDuration": 309,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ze87DomSSnw",
-            "title": "Morning News NOW Full Broadcast - April 5 | NBC News NOW",
-            "secondDuration": 2870,
-            "group": "group_7"
-        },
-        {
             "videoId": "YYKHXZoyOlU",
             "title": "UCLA Players Discuss Their Arrest In China And Apologize For Their Actions | NBC News",
             "secondDuration": 111,
@@ -121,8 +115,14 @@
             "title": "Turkey’s President Recep Erdogan Says Jamal Khashoggi Was Victim Of ‘Political Murder’ | NBC News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "7Jz2T6HL-Eo",
+            "title": "Jeff Bezos Accuses National Enquirer Owner Of ‘Blackmail And Extortion’ | NBC Nightly News",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

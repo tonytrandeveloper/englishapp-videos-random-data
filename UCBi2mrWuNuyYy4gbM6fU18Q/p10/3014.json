@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sp7MwAQpzTQ",
-            "title": "Police officers recount moment they saved man from burning car",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "5UZ2cLtfH8s",
             "title": "President Trump fires Defense Secretary Mark Esper",
             "secondDuration": 521,
@@ -61,8 +55,14 @@
             "title": "Texas Fertilizer Explosion: Fatalities Confirmed",
             "secondDuration": 794,
             "group": "group_7"
+        },
+        {
+            "videoId": "sVDI_WcrZBw",
+            "title": "Biden will work to 'try to turn the page' in inaugural address: Kate Bedingfield | ABC News",
+            "secondDuration": 546,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

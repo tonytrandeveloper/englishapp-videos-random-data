@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BD-n4LyDDKA",
-            "title": "Feed Frenzy: Aaron Hernandez Charged with Murder",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "En4yE_PRzE4",
             "title": "Chris Christie Reacts to New Bridge Scandal Accusations",
             "secondDuration": 268,
@@ -31,8 +25,14 @@
             "title": "Missouri reopening begins amid pandemic",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "n_ucE3zZbow",
+            "title": "Deadly Takedown on a City Bus in Oklahoma",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

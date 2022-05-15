@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yXXPbNLsoak",
-            "title": "White House Holds Press Briefing: Nov. 9 | NBC News",
-            "secondDuration": 3525,
-            "group": "group_7"
-        },
-        {
             "videoId": "OCD42Zy6djA",
             "title": "How Does Zika Work? | NBC News",
             "secondDuration": 53,
@@ -61,8 +55,14 @@
             "title": "Daughter Speaks Out After Mom’s Death: Vaping ‘Took My Mom Away From Me’ | NBC Nightly News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "-Hy4yxClhF4",
+            "title": "Watch: Bodycam Captures Phoenix Police Officers Ambushed By Suspect",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

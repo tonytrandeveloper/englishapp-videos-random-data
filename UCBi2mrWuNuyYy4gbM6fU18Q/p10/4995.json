@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yOsMiDHdwpY",
-            "title": "The Rundown: Top headlines today: June 2, 2021",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "huJtr14tDcs",
             "title": "Planes Collide at Boston's Logan Airport",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "Bulldozers Battle It Out on Streets of China",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "2qrSasGPEVM",
+            "title": "Dwyane Wade Interview on Gun Violence in Chicago",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

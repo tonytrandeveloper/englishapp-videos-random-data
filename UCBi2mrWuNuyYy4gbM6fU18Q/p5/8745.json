@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ajxSk_Y8768",
-            "title": "Storm threat sweeps across Midwest  GMA",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "bjfgI3-pvS8",
             "title": "Is the surge in prices temporary or here to stay?",
             "secondDuration": 408,
@@ -31,8 +25,14 @@
             "title": "Bill Bratton Retires as NYPD Commissioner",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "w6XvIMs03Vg",
+            "title": "The officer who was first on the scene",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

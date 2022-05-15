@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z8MUM5Vjx7w",
-            "title": "Key Mueller probe evidence to go to Congress",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "h1RC0KLk_fM",
             "title": "Biden vs. Ryan: A Recap of the VP Debate",
             "secondDuration": 356,
@@ -61,8 +55,14 @@
             "title": "Snow, fire and Prince William: World in Photos, Nov. 30",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "AP-BEXZSRiA",
+            "title": "At least 11 injured in shooting at California bar",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

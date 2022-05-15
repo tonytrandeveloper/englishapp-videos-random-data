@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gawu24t2Lco",
-            "title": "Uber Says It’s Relaunching Self-Driving Cars With Major Safety Upgrades | NBC Nightly News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "NAkazdbDsGM",
             "title": "Biden Speaks Directly To Russian People: 'You Are Not Our Enemy'",
             "secondDuration": 160,
@@ -121,8 +115,14 @@
             "title": "Morning News NOW Full Broadcast - Dec. 8",
             "secondDuration": 3100,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZVRifzURzbo",
+            "title": "New Details In The Case Of Missing Connecticut Mother Of Five | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

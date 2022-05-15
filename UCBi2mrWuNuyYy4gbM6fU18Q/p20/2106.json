@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "T5RmkXutZuY",
-            "title": "Undercover Mother l 20/20 l PART 1",
-            "secondDuration": 479,
-            "group": "group_7"
-        },
-        {
             "videoId": "qLxCM2vU34s",
             "title": "Man Who Plotted Attack on US Capitol Pleads Guilty",
             "secondDuration": 24,
@@ -121,8 +115,14 @@
             "title": "Cyberattack on fuel pipeline causes gas shortages in multiple states | ABC News",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "nsGkwFBByuQ",
+            "title": "Moammar Gadhafi Dead: Revisiting Libyan Leader's Final Moments in Sirte",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

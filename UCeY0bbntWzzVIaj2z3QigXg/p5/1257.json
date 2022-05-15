@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tB-ASe-c7Vs",
-            "title": "Biden Conveys NATO Unity After Summit In Belgium",
-            "secondDuration": 439,
-            "group": "group_7"
-        },
-        {
             "videoId": "XBiM-rQzDKY",
             "title": "Russian Lawyer At Trump Tower Meeting Charged With Obstruction Of Justice | NBC Nightly News",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Nancy Pelosi: Beto O'Rourke Is 'A Welcome Addition' To Democratic Field | NBC News",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "Cl3PtsQaGdY",
+            "title": "Donald Trump Vows Push For Congressional Term Limits If Elected | NBC News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

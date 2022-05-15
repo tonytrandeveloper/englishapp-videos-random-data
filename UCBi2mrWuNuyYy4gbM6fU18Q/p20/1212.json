@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uMX8vvoEdXM",
-            "title": "Paul Ryan Reviews Mitt Romney's Failed Bid For President in 2012 Election",
-            "secondDuration": 257,
-            "group": "group_7"
-        },
-        {
             "videoId": "xMRj1D1OTiQ",
             "title": "By the Numbers: US economy and the State of the Union",
             "secondDuration": 80,
@@ -121,8 +115,14 @@
             "title": "Sears Slated to Close 78 Stores This Summer",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "dK5IUrIMqG0",
+            "title": "Thousands of Afghan Delegates to Vote on US Military Deal",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

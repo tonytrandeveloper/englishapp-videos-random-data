@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "P0LnHtiuL2c",
-            "title": "Afghans Facing Hunger Crisis After Taliban Takeover",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "jr4_JmksFhU",
             "title": "Senator Orrin Hatch Against Bill To Protect Robert Mueller But Warns Of Impeachment Risk | NBC News",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "Florida Judge Rules Gov. DeSantis' School Mask Mandate Ban Is Unlawful",
             "secondDuration": 262,
             "group": "group_7"
+        },
+        {
+            "videoId": "1mqQx6-8zCI",
+            "title": "Graham: Mueller Investigation ‘Not A Ground For Recusal’ From SCOTUS | Meet The Press | NBC News",
+            "secondDuration": 1077,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6znm7-jnWEc",
-            "title": "Virgin Galactic G-Force Training | NBC News",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "sHHDCluQxwY",
             "title": "Mike Pence Publicly Receives Covid Vaccine I NBC News",
             "secondDuration": 1494,
@@ -61,8 +55,14 @@
             "title": "Feeling Stuck:  Why College Educated Women Are Underemployed",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "g9iSHqeLaUY",
+            "title": "Brett Kavanaugh Hearing Begins As Democrats Seek To Delay Over Documents | NBC News",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

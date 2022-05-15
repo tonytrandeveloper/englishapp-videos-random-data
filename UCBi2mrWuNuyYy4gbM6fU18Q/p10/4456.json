@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9CT3p6SE7bY",
-            "title": "Kentucky lawmaker describes heartbreak caused by tornadoes",
-            "secondDuration": 389,
-            "group": "group_7"
-        },
-        {
             "videoId": "J-ZeTiiIp2I",
             "title": "More Frustration in Washington Over the Botched Health Care Website",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Questions remain on release of police bodycam video of Andrew Brown Jr. shooting",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "F1ycbg5BxVw",
+            "title": "Trump tempers fears of trade war with surprise announcement",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G9xc2kLOyuU",
-            "title": "Hillary Clinton Cheered For ‘Alternative Reality’ Kellyanne Conway Jab | NBC news",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "NfwzO8Aax8U",
             "title": "Powerful California Storm Triggers Mudslides, Flash Flooding, River Rescues | NBC Nightly News",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "Full Liz Cheney: 'What The President Has Put Forward Is Not Amnesty' | Meet The Press| NBC News",
             "secondDuration": 444,
             "group": "group_7"
+        },
+        {
+            "videoId": "kiBr8G8OeEw",
+            "title": "Sen. Jeff Flake On Donald Trump, SCOTUS Confirmation (Full Interview) | Meet The Press | NBC News",
+            "secondDuration": 312,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

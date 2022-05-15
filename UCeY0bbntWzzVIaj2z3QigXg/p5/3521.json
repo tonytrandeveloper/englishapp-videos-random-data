@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GD81Vdf8pPE",
-            "title": "Remembering The National Guard Members Killed In Georgia Plane Crash | NBC Nightly News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "p3eQ_JmHB0c",
             "title": "Meet The Press Broadcast (Full) - May 17th, 2020 | Meet The Press | NBC News",
             "secondDuration": 2856,
@@ -31,8 +25,14 @@
             "title": "Mueller Report Reveals Links Between Russian Government, Trump Campaign | Meet The Press | NBC News",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vy53qSQGc74",
+            "title": "Former Coronavirus Skeptics Describe How Contracting COVID-19 Changed Their Perspective | NBC News",
+            "secondDuration": 1703,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

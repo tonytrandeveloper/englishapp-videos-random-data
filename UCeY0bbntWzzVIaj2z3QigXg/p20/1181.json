@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "--YgSGYlTNs",
-            "title": "Los Angeles County Gives Coronavirus Update | NBC News",
-            "secondDuration": 620,
-            "group": "group_7"
-        },
-        {
             "videoId": "aVr7fY54NwE",
             "title": "Online Deliveries Creating Traffic Jams Nationwide",
             "secondDuration": 162,
@@ -121,8 +115,14 @@
             "title": "This Is The Guy: Episode 6 | Conviction | Dateline NBC",
             "secondDuration": 480,
             "group": "group_7"
+        },
+        {
+            "videoId": "51Q9k9W8jd0",
+            "title": "'We're Close To The Edge': EPA Head Warns Of Ongoing Climate Crisis",
+            "secondDuration": 310,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

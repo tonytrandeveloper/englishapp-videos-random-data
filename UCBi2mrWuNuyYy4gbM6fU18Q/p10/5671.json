@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hOF_YJrz0jM",
-            "title": "Famed Editor's Revealing New Video",
-            "secondDuration": 319,
-            "group": "group_7"
-        },
-        {
             "videoId": "V_wxsJiBsAg",
             "title": "War in Ukraine: March 13, 2022",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "Remembering the Troops on Christmas",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "1OQbUZeYAik",
+            "title": "EDNOS: Most Dangerous, Unheard of Eating Disorder | Nightline | ABC News",
+            "secondDuration": 482,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

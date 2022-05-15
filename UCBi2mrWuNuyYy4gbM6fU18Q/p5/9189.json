@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1aNjEkvKF3M",
-            "title": "Protests, Presidential campaign and festive lights: The World in Photos, Oct. 29",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "u79PNGWG9Mo",
             "title": "Clinton Leads Trump by 12 in New Poll",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Sinkhole at College Football Field in Tennessee",
             "secondDuration": 31,
             "group": "group_7"
+        },
+        {
+            "videoId": "mA9zuN_pfG8",
+            "title": "Tesla Autopilot Fatal Crash Raises Safety Questions",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

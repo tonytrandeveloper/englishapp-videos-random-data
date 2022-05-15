@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kY7IsjOizmk",
-            "title": "Teen illnesses ‘deeply’ concerning",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "q-m3mDV38A0",
             "title": "Legislation on voting rights should be a ‘priority’: NAACP president",
             "secondDuration": 401,
@@ -31,8 +25,14 @@
             "title": "John Brennan Interview on ABC's 'This Week': White House's Top Counterterrorism Official",
             "secondDuration": 624,
             "group": "group_7"
+        },
+        {
+            "videoId": "TZ6hcV6lbos",
+            "title": "UN climate report warns of ‘code red for humanity’",
+            "secondDuration": 634,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2euR1PZcSGY",
-            "title": "America's Backbone",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "2qTEn-hVfFM",
             "title": "Italian Man Arrested for the Murder of American Student Beau Solomon",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "'This Week': Crisis in Iraq",
             "secondDuration": 370,
             "group": "group_7"
+        },
+        {
+            "videoId": "Lu2vRl0FzZY",
+            "title": "Pentagon investigating Texas church shooter's past",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

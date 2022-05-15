@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dfS9X-Br5IY",
-            "title": "California Residents Getting Deliveries, Drilling Deeper Wells To Get Water",
-            "secondDuration": 259,
-            "group": "group_7"
-        },
-        {
             "videoId": "nePdhOELl_U",
             "title": "White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 1515,
@@ -121,8 +115,14 @@
             "title": "Senate Group Working On Health Care Has No Women | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "XInKfVKHXU0",
+            "title": "Live: Trump Holds News Conference With President Of Poland | NBC News",
+            "secondDuration": 2250,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

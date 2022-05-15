@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PVQHKvAUS3E",
-            "title": "Former alt-right member wants to prevent others from joining these hate groups | Nightline",
-            "secondDuration": 544,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qt97zzgOVnY",
             "title": "How did Michael Bloomberg do in his 2nd debate?",
             "secondDuration": 210,
@@ -31,8 +25,14 @@
             "title": "Inside the Fight to Drive ISIS from Iraq",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "opy5CP4qv2I",
+            "title": "FDA grants full approval to Pfizer COVID-19 vaccine",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

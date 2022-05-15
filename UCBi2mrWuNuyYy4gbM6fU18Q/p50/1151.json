@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "70sF3O7pRvU",
-            "title": "Katy Perry Channels Justin Bieber in Her Own 'Call Me Maybe' Video of Carly Rae Jepsin Hit",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "vpzUmLS7RVw",
             "title": "FBI and Justice Department investigate Jeffrey Epstein's death l ABC News",
             "secondDuration": 365,
@@ -301,8 +295,14 @@
             "title": "President Trump to sign $1.3 trillion spending bill | ABC News Special Report",
             "secondDuration": 2159,
             "group": "group_7"
+        },
+        {
+            "videoId": "JnfuL7uimr8",
+            "title": "ABC News Live: White House recommends COVID-19 vaccine booster shots",
+            "secondDuration": 3730,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

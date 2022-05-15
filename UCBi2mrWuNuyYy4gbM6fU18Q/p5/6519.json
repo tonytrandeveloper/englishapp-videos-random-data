@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "19JNzca68OM",
-            "title": "Ukrainians leave country as fighting breaks out with Russian forces l GMA",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "2kq-K0Cz65c",
             "title": "World Central Kitchen comes to the aid of Ukrainian refugees",
             "secondDuration": 296,
@@ -31,8 +25,14 @@
             "title": "Extreme Weather: Tornadoes Strike in Midwest, Southern States",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ml0Reug8Mng",
+            "title": "Miss America 2013 - Pageant Confidential: The Road to Miss America",
+            "secondDuration": 474,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

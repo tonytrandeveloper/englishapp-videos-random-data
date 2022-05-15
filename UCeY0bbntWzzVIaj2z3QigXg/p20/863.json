@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KQes8Pl0euQ",
-            "title": "Raw: Snow Covered Buffalo Captured By Drone Video | NBC News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "APncDLVJNR0",
             "title": "CDC Extends Mask Mandate On Public Transportation As Covid Cases Climb",
             "secondDuration": 109,
@@ -121,8 +115,14 @@
             "title": "Record Number Of Children Killed By Flu This Season | NBC Nightly News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "DNRNjMLeoLM",
+            "title": "Los Angeles Bomb Threat Closes All Public Schools | NBC News",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

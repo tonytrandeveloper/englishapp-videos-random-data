@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "peMSVpAMtQk",
-            "title": "From Backyard To Concrete Jungle: Journey Of The 30 Rock Christmas Tree | NBC News",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "yK1kIlTdcwU",
             "title": "Dar-e-Mehr Zoroastrian Temple: A Focal Point For Zoroastrians | NBC news",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Trump Berates Peter Alexander Over Coronavirus Question: ‘You’re A Terrible Reporter’ | NBC News",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "PVrSpPXwdZ4",
+            "title": "Inside Hospitals During COVID-19 Spikes | NBC News",
+            "secondDuration": 494,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

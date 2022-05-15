@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "A95y_WozdOM",
-            "title": "Michelle Obama on Helping Military Families",
-            "secondDuration": 275,
-            "group": "group_7"
-        },
-        {
             "videoId": "d9PX2s0sc9s",
             "title": "The Conversation: Who is Captain Awesome",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "Troopers Lip Sync “Summer Nights”",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "xvql2kUQn9w",
+            "title": "Russian Jets Brazenly Buzz US Navy Destroyer",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

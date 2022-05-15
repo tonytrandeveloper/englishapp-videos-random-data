@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AzBkGy5aEmU",
-            "title": "Watch live: Fed Chair Jerome Powell announces interest rate cut I NBC News",
-            "secondDuration": 3464,
-            "group": "group_7"
-        },
-        {
             "videoId": "jAPLveyOk4A",
             "title": "Mother Of Officer Sicknick Urges GOP To Back Jan. 6 Commission",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Watch First Responders Rescue North Carolina Residents From Flooding | NBC News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "x59CuRZa5IA",
+            "title": "Trump Rails Against Democrats At Louisiana Rally | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

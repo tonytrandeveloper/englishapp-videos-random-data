@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FGgSuhKL02E",
-            "title": "What Is A “Leap Second”? | 30STK | NBC News",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "W0XIbrYpfZg",
             "title": "Trump Speaks At North Carolina Urban Development Summit | NBC News (Live Stream Recording)",
             "secondDuration": 4024,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - January 30th",
             "secondDuration": 1197,
             "group": "group_7"
+        },
+        {
+            "videoId": "s5X3OzJvp6A",
+            "title": "Thousands of Rape Kits Gone Untested Across the U.S. | NBC Nightly News",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

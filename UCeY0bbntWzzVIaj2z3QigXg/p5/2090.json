@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3ajcN54tIqI",
-            "title": "Melbourne Curfew Begins As Coronavirus Cases Rise | NBC News NOW",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "UeXP0vf0WBA",
             "title": "Supreme Court's Obamacare Decision: What's At Stake? | NBC Nightly News",
             "secondDuration": 151,
@@ -31,8 +25,14 @@
             "title": "Michigan Governor Cites Report That Rate Of Case Increase Slowing In Key Counties | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "ebT8C8OTmRU",
+            "title": "Inside The Guatemalan Communities Many Migrant Children Leave Behind",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

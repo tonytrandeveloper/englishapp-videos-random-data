@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V234WwfNvSs",
-            "title": "'Dancing With the Stars' Winners and Runner-Ups Dance on 'GMA'",
-            "secondDuration": 331,
-            "group": "group_7"
-        },
-        {
             "videoId": "yu798tsYxbs",
             "title": "Difficult day for Tiger Woods at the Master’s l GMA",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "How Was Kim Kardashian Robbed at Gunpoint?",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "F_sS28TZL90",
+            "title": "Addiction in a time of coronavirus",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

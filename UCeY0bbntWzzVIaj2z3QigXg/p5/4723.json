@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1bjU8hvYSFE",
-            "title": "What It’s Like Inside A Modern, Growing U.S. Manufacturing Company | NBC Nightly News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "3fuy10RRPYI",
             "title": "Kenosha Braces For Rittenhouse Trial Verdict",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "The Myth Of Trump's ‘Suburban Housewife’ | Think | NBC News",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "QMoGh4iXxq4",
+            "title": "Robot 'Shimon' Can Compose Its Own Music | Mach | NBC News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

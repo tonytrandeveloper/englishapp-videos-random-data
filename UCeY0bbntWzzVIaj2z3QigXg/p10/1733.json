@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uqAxhETywCo",
-            "title": "This Morning’s Top Headlines – July 5 | Morning News NOW",
-            "secondDuration": 1085,
-            "group": "group_7"
-        },
-        {
             "videoId": "-xgaKhDHnes",
             "title": "U.S. Strikes A Blow Against ISIS | Meet The Press | NBC News",
             "secondDuration": 280,
@@ -61,8 +55,14 @@
             "title": "Dangers Of High Potency Cannabis For Teens",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "jp9n2HIX2pI",
+            "title": "Biden Delivers Remarks In Ohio | NBC News",
+            "secondDuration": 2091,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

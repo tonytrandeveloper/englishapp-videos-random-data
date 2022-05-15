@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gq0kYfdTqfQ",
-            "title": "Inspiring America: Couple Turns Cancer Diagnosis Into Love Story | NBC Nightly News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "JqOQ59FfEBA",
             "title": "SpaceX Launches Last First-Generation Dragon Capsule To ISS | NBC News",
             "secondDuration": 176,
@@ -61,8 +55,14 @@
             "title": "Doctor Delivers Baby On Overnight Flight To Uganda",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "YmdDoGNoldI",
+            "title": "Warren Attacks Sanders Over Culture Of His Online Community | NBC News NOW",
+            "secondDuration": 311,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

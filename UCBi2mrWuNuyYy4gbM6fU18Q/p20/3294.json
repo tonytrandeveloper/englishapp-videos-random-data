@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bhSa38NzYnA",
-            "title": "Danger in the Backyard: Propane Grill Explosion",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "GPqe10RrE6Q",
             "title": "FBI investigating death aboard Princess cruise ship in Alaska",
             "secondDuration": 153,
@@ -121,8 +115,14 @@
             "title": "Daunte Wright's mother gives statement in Kim Potter sentencing",
             "secondDuration": 608,
             "group": "group_7"
+        },
+        {
+            "videoId": "WZwwzP6ANQo",
+            "title": "Remembering the Victims That Died In Sandy Hook Elementary Shooting | Nightline | ABC News",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

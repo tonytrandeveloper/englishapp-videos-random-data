@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VIzg19ERbaw",
-            "title": "Senator Mark Warner Explains How Current Russia Threat Differs From Cold War | NBC News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "QFBQnYFDI-8",
             "title": "President Donald Trump Shames Republicans Who Did Not 'Embrace' His Support | NBC News",
             "secondDuration": 179,
@@ -31,8 +25,14 @@
             "title": "Man Who Chased Texas Church Shooting Suspect: 'I Just Did What I Thought Was Right' | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "QH02tIwEfMw",
+            "title": "Plan To Rename Denali Draws Critics From Ohio | Short Take | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

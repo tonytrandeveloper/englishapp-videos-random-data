@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "M0HXadCqHr8",
-            "title": "Federal Jury finds R. Kelly guilty on all counts of racketeering and sex trafficking",
-            "secondDuration": 556,
-            "group": "group_7"
-        },
-        {
             "videoId": "eTYPdM4kzKI",
             "title": "Mt. Everest Avalanche Kills 12",
             "secondDuration": 107,
@@ -121,8 +115,14 @@
             "title": "Wendy Williams slams audience member for using phone | ABC News",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "CYwD-iQkgGM",
+            "title": "New threats from Iran as U.S. troops arrive in the Middle East l ABC News",
+            "secondDuration": 1435,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

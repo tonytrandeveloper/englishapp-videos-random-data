@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1fQeNxYAWw0",
-            "title": "SCOTUS confirmation hearings: Day 2 highlights",
-            "secondDuration": 331,
-            "group": "group_7"
-        },
-        {
             "videoId": "Oqq54CKNBKQ",
             "title": "Third Shark Attack in Four Days This Time a 10 Year Old Boy Off the Coast of Daytona Beach, Florida",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Melissa McCarthy, Kristen Wiig Join All-Female Cast for ‘Ghostbusters’ Remake",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "hEl_7Q2tW2s",
+            "title": "O.J. and Nicole Brown Simpson's Relationship Before Tragic Murder",
+            "secondDuration": 561,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

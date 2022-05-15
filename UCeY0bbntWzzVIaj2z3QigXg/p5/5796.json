@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_hwD2cu40y8",
-            "title": "Nightly News Full Broadcast - Nov. 20",
-            "secondDuration": 1143,
-            "group": "group_7"
-        },
-        {
             "videoId": "8ZAbpqAVVSU",
             "title": "Toyota Concert Series on TODAY: Journey",
             "secondDuration": 11,
@@ -31,8 +25,14 @@
             "title": "Behind The Accidental Discovery Helping Coral Grow In Record Time | NBC Nightly News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "IZ3VIXyvRH4",
+            "title": "‘Shawshank Redemption’ Director Talks Film’s Enduring Appeal: Extended Interview | NBC Nightly News",
+            "secondDuration": 591,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

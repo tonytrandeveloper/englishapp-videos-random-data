@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7PtOAC69C3Y",
-            "title": "New COVID-19 variant spreading rapidly in New York City | WNT",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "B5bgf8MNsjs",
             "title": "Hillary Clinton, Donald Trump Projected to Win NY Primaries",
             "secondDuration": 449,
@@ -31,8 +25,14 @@
             "title": "ER Doctor Dr. Kristin Howard's Car Goes Airborne, Hits Another Car: Caught on Tape",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "CcA3FSI8IAM",
+            "title": "Tom Brady faces backlash for cliff jump with daughter",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

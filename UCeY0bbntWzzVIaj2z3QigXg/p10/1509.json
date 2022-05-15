@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "69N20wn7lkI",
-            "title": "FDA Panel Recommends Emergency Use Authorization For Johnson & Johnson Vaccine | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "c5sVOxkott0",
             "title": "Remembering Britain's Prince Philip | NBC Nightly News",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "Watch Full Coronavirus Coverage - April 15 | NBC News Now (Live Stream)",
             "secondDuration": 42901,
             "group": "group_7"
+        },
+        {
+            "videoId": "DUBULU51gcA",
+            "title": "Donald Trump Labels Hillary Clinton ‘World Class Liar’ During Speech | NBC News",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

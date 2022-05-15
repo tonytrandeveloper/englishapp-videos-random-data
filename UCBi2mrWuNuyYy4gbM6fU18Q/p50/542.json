@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "HTgmUBgr0mw",
-            "title": "2017 SAG Awards | Stars Get Political",
-            "secondDuration": 292,
-            "group": "group_7"
-        },
-        {
             "videoId": "zWorNyVC5Ds",
             "title": "Julian Assange Interview 2013 On Edward Snowden on 'This Week': \"Asylum is a Right We All Have\"",
             "secondDuration": 911,
@@ -301,8 +295,14 @@
             "title": "Home-security camera captures alleged attack, kidnapping",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "2vz5-X7l6aQ",
+            "title": "The Debrief: Alabama abortion ban, US Iraq warning, Boeing controversy | ABC News",
+            "secondDuration": 1944,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

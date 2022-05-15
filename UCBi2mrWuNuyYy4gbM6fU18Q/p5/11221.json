@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "W7NNOfkcKRg",
-            "title": "White House press briefing 7/17/17: Breaking down the latest on 'The Briefing Room'",
-            "secondDuration": 3184,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kvo436qSGco",
             "title": "Jake Tapper on the Politics of Fear",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Coast Guard lieutenant's mass attack plan thwarted",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "OdGRF6A8uQE",
+            "title": "Second Presidential Debate 2012: Mitt Romney's 'Binders Full of Women'",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

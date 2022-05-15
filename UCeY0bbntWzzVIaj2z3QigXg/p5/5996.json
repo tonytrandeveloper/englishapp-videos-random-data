@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wj7YWJtp6CI",
-            "title": "Live: L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
-            "secondDuration": 3226,
-            "group": "group_7"
-        },
-        {
             "videoId": "rq8_8myG55A",
             "title": "Inside Georgia One Month After Easing Coronavirus Restrictions | NBC Nightly News",
             "secondDuration": 169,
@@ -31,8 +25,14 @@
             "title": "Chuck Schumer On James Comey's Firing: 'Why Now?' | NBC News",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "DK2xBGi8Gqc",
+            "title": "Bay Area Wildfire Destroys More Than 8,000 Homes, At Least Five Dead | NBC News NOW",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

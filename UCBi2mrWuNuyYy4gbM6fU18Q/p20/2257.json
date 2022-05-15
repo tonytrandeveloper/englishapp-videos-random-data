@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QlPPBt85a7g",
-            "title": "Ring device in family’s bedroom hacked by stranger",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "XSeSr7VjHwM",
             "title": "Trump announces new sanctions against Iran, its supreme leader",
             "secondDuration": 151,
@@ -121,8 +115,14 @@
             "title": "Medics try to revive man shot by officer in his own home: Video",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z9QgSqt6pfo",
+            "title": "NFL Draft 2015: Trent Steelman’s 2nd Chance",
+            "secondDuration": 204,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jrYyOZPE7dI",
-            "title": "Vindman Tells Himes: 'I'd Call Myself Never Partisan' | NBC News",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "ssVibfUSIS4",
             "title": "LIVE: Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
             "secondDuration": 1951,
@@ -31,8 +25,14 @@
             "title": "Trump Signs Executive Order For Regulation Of Social Media’s ‘Unchecked Power’ | NBC News NOW",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "_MT6RiLub1E",
+            "title": "Conviction on Dateline",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "d2tHm6aB6io",
-            "title": "Boeing 737 Max Returns To Commercial Passenger Flying | NBC News NOW",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "kbrZb2XxF3I",
             "title": "Iowa Democratic Chair Defends Integrity Of Caucus Data: 'This Is Personal To Me' | NBC News",
             "secondDuration": 387,
@@ -31,8 +25,14 @@
             "title": "GOP Registration Drops Nationwide After Capitol Attack | Meet The Press | NBC News",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "do1FcfGigYc",
+            "title": "This Principal Is Helping Syrian Refugee Girls, One Chair at a Time | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

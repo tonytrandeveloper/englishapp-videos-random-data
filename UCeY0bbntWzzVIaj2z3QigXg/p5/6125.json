@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gziktjtlH0Y",
-            "title": "Halloween on TODAY",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "40boBrhgVyY",
             "title": "Senator Bob Menendez Briefly Breaks Down Following Mistrial | NBC News",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Notre Dame Moves Classes Online After Coronavirus Outbreak | NBC Nightly News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "E1SnFT5ENp0",
+            "title": "Mexico Supreme Court Decriminalizes Abortion",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

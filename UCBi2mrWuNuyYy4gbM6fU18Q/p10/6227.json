@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "unTjv4aE4x8",
-            "title": "The Rundown: Top headlines today: March 17, 2022",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "VGUkHKdFGt8",
             "title": "Bobbi Kristina Brown: Life and Death",
             "secondDuration": 262,
@@ -61,8 +55,14 @@
             "title": "Prostate Cancer Screening Under Fire",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "7R9fXVq_YPo",
+            "title": "West Virginia police seek escaped inmate",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

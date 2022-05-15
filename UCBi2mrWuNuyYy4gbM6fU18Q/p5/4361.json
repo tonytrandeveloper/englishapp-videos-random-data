@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dBMn_smgEOg",
-            "title": "Mean Moms: A New Kind of Bully",
-            "secondDuration": 363,
-            "group": "group_7"
-        },
-        {
             "videoId": "qgxge2Bc2Wc",
             "title": "Mystery Virus Kills Little Boy in New Jersey",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Dayton, Ohio Shooting: Officials give update after overnight mass shooting | ABC News",
             "secondDuration": 1729,
             "group": "group_7"
+        },
+        {
+            "videoId": "JBfy2X0zQ4o",
+            "title": "Video of LAPD officers fatally shooting suspect, victim raises questions",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

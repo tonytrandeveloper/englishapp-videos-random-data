@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KKcN74j3p90",
-            "title": "ABC News Exclusive:  Chris Christie Responds to the Bridge Scandal",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "6dofUUCwhvI",
             "title": "What are the telltale signs of heart disease?",
             "secondDuration": 315,
@@ -61,8 +55,14 @@
             "title": "World's Ugliest Dog Contest Heats Up",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "qXd80u6RcHo",
+            "title": "Turkey pardoned, panda diners and holiday travel: World in Photos, Nov. 25",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

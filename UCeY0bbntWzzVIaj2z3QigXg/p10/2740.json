@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3-4BOm9IjUM",
-            "title": "Live: New York Gov. Andrew Cuomo Holds Briefing On Coronavirus, George Floyd Protests | NBC News",
-            "secondDuration": 2688,
-            "group": "group_7"
-        },
-        {
             "videoId": "9I7Qc4jac8Y",
             "title": "Are Electric Cars Taking Over The Roads? | Mach | NBC News",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "'We Have Never Been Closer': House Holds Hearing On Bill For D.C. Statehood | NBC News NOW",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "d417ZnlPsTY",
+            "title": "Tampa Bay Lightning Celebrates Stanley Cup Win With Boat Parade",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

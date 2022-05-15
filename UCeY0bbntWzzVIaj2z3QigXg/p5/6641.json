@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D86pa0T6joY",
-            "title": "Utah Mayor Killed In Apparent ‘Insider Attack’ In Afghanistan | NBC Nightly News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pug8tAjQ5sk",
             "title": "Watch Highlights From 2020 Candidates And Lawmakers At The Texas Tribune Festival  | NBC News",
             "secondDuration": 354,
@@ -31,8 +25,14 @@
             "title": "Watch Live: President Trump speaks at campaign rally in Minnesota",
             "secondDuration": 4270,
             "group": "group_7"
+        },
+        {
+            "videoId": "QwCpKORI6tM",
+            "title": "Data Show Killings Of Officers, Especially Ambush Killings, Spiked In 2016 | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

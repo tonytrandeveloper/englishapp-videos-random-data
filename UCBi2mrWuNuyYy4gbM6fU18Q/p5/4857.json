@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4z9dwB8tKbA",
-            "title": "The newest trend for Mother’s Day",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "9HDB6US35cM",
             "title": "'Sister Wives' Daughter on Coming Out as Gay to Her Family",
             "secondDuration": 439,
@@ -31,8 +25,14 @@
             "title": "ABC News Prime: Labor Day, mail-in ballots, latest on COVID-19",
             "secondDuration": 3591,
             "group": "group_7"
+        },
+        {
+            "videoId": "GyLxIGIH5Sk",
+            "title": "White House press secretary Sean Spicer holds daily briefing",
+            "secondDuration": 3058,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

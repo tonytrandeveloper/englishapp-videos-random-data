@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ieaS3jvZS9Q",
-            "title": "President Zelenskyy's exclusive interview with David Muir: ABC News",
-            "secondDuration": 1391,
-            "group": "group_7"
-        },
-        {
             "videoId": "GltvzmeHwiM",
             "title": "Janet Mock on protests, LGBTQ+ equality and being black and trans in America | PRIDE",
             "secondDuration": 484,
@@ -121,8 +115,14 @@
             "title": "A ‘ride along’ in Oakland shows crime surge on the ground",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wjitk-wvHiU",
+            "title": "3rd drug maker announces 'highly effective' vaccine l GMA",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

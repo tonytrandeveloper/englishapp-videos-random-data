@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PwdqhPsYqf0",
-            "title": "ABC News Prime: Pfizer vaccine approved kids; Afghanistan neighbors fallout; NHL scandal fallout",
-            "secondDuration": 5230,
-            "group": "group_7"
-        },
-        {
             "videoId": "ek2SW_MuAuA",
             "title": "Fallen service members killed in Afghanistan arrive back in US | ABC News",
             "secondDuration": 1228,
@@ -121,8 +115,14 @@
             "title": "Egypt in Crisis 1/28/2011",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "KizjwhHb30g",
+            "title": "Mueller team zeroing in on political consulting firm with Trump ties: Sources",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

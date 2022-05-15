@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AYJzzWKxPvA",
-            "title": "Robots Installed At Hotels Used To Treat Coronavirus Patients | NBC News",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "ll-MlEMK_Xo",
             "title": "NASA's 60th Anniversary: Some Of The Space Agency's Greatest Achievements | Mach | NBC News",
             "secondDuration": 184,
@@ -61,8 +55,14 @@
             "title": "Judge Weighs Trump Administration’s Call To Halt Bolton’s Book Release | NBC Nightly News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "PMEeLHil2kw",
+            "title": "Julius Emerson: We're still talking about possibly hundreds of millions of dollars",
+            "secondDuration": 47,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

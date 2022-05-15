@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ISovw7GMfZg",
-            "title": "Prosecutors claim R. Kelly used his title to run ‘criminal enterprise’",
-            "secondDuration": 381,
-            "group": "group_7"
-        },
-        {
             "videoId": "D1GELHLuT4Q",
             "title": "Kansas Shootings | 4 Dead, 14 Wounded",
             "secondDuration": 86,
@@ -31,8 +25,14 @@
             "title": "House set for historic impeachment decision l ABC News",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "GbbK27-AErU",
+            "title": "Interview With Secretary Gates (Part 1)",
+            "secondDuration": 436,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

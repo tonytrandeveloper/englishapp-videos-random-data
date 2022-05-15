@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GoykiCSrtBU",
-            "title": "Sen. Cruz 'Headed Back To Texas' After Traveling With Family To Mexico | NBC News NOW",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "LOkAZHeGD2c",
             "title": "President Donald Trump: House Democrats 'Want To Focus On Nonsense' With Subpoenas | NBC News",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "Will Senators Be Able To Remain Impartial During The Impeachment Trial? | NBC News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "tVL9SP3cu8k",
+            "title": "Live: President Donald Trump Speaks At Texas Oil Rig On Restoring Energy Dominance | NBC News",
+            "secondDuration": 1719,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

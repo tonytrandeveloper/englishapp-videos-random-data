@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "a76qN3drKjs",
-            "title": "What To Know About the N.Y.-N.J. Bombings Suspect | 101 | NBC News",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "TgBMkI8pCXI",
             "title": "Daughter Of Ex-Russian Spy Gives First Statement After Nerve Agent Poisoning | NBC Nightly News",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Palestinian Activist Says Group Feels ‘Humiliated’ And Under ‘Oppression’ | NBC News NOW",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "KCRgZ-0keYg",
+            "title": "New Jersey Senator Cory Booker Makes Presidential Bid Official | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

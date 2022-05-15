@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "F9_ZtoyVYD0",
-            "title": "Paul Ryan: Russia ‘Did Interfere In Our Elections… No Doubt’ | NBC News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZKhrEgQGVzI",
             "title": "John Kasich On GOP Primary, Brussels Attack (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 642,
@@ -301,8 +295,14 @@
             "title": "Hillary Clinton: 'Donald Thinks Belittling Women Makes Him Bigger' | NBC News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "CLsvJC7j-iA",
+            "title": "Six Million Americans In Danger Of Eviction",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

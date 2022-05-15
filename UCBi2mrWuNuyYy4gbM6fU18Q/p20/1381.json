@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6vtJociC_QA",
-            "title": "Some of Your Favorite Foods are Really Bad",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "LI-uQ-SYUAc",
             "title": "Presidential Debate 2012 on Partisanship: Mitt Romney Cites Working With Massachusetts Democrats",
             "secondDuration": 217,
@@ -121,8 +115,14 @@
             "title": "Top Israeli Official: Syria in Control of Chemical Weapons",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "4S7SRtZDe-U",
+            "title": "Bernie Sanders Celebrates 'Virtual Tie' with Clinton in Race Too Close to Project",
+            "secondDuration": 952,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8tj2Z3w_7b8",
-            "title": "Orlando Shooter's Father | 'Didn't See Anything Irregular'",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "c5r7F9jWTTo",
             "title": "President meets UK prime minister amid Brexit tension",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "Cash, Coke and Credit: Money Secrets Revealed",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "l2PK3mQM-jE",
+            "title": "Donald Trump, Ted Cruz Double Down on Personal Attacks",
+            "secondDuration": 261,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

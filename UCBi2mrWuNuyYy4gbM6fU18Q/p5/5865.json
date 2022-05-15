@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vs-XjTAdBRM",
-            "title": "\"High Tea\" with Christoph Waltz and Quentin Tarantino",
-            "secondDuration": 461,
-            "group": "group_7"
-        },
-        {
             "videoId": "HB4IGvt_FXg",
             "title": "ABC News Prime: Pres Trump resists reality, SCOTUS on ACA, U.S.-Russia relations, Virgin's Hyperloop",
             "secondDuration": 3630,
@@ -31,8 +25,14 @@
             "title": "Former first lady Barbara Bush, in her own words",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "tCqZE5nuJp4",
+            "title": "Fox News Car Chase Ends in Suicide: Anchor Shepard Smith Apologizes After Suspect's Death",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

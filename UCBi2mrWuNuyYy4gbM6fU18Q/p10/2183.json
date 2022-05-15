@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5mrRFAW_aGc",
-            "title": "Trump Gets Paul Ryan's Vote Despite Differences",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "tyQxrIUpSRc",
             "title": "Biden, Eric Adams team up to take on gun violence | Nightline",
             "secondDuration": 441,
@@ -61,8 +55,14 @@
             "title": "Photo appears to show high school students giving Nazi salute",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "3N41QU92aek",
+            "title": "'Django Unchained': Quentin Tarantino, Leonardo DiCaprio, Jamie Foxx Discuss Movie",
+            "secondDuration": 335,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

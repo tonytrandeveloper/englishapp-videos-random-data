@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m43U6TNfE5k",
-            "title": "Biden Delivers Remarks Promoting Bipartisan Infrastructure Deal | NBC News",
-            "secondDuration": 3515,
-            "group": "group_7"
-        },
-        {
             "videoId": "DxCFCbGOkTU",
             "title": "President Trump: If I Were Embattled VA Nominee Ronny Jackson, I’d Withdraw | NBC Nightly News",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "First Coronavirus Antibody Test Without Doctor’s Visit Now Available | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "3WHtS2hZnRU",
+            "title": "ISIS Arrests Made In Brooklyn, New York | NBC Nightly News",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

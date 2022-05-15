@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dirAPI6IvwA",
-            "title": "Fired Nanny Seen Sleeping in Car",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "p6HbUihwGFs",
             "title": "COVID-19 memorial, frosty vineyards and lava flows: World in Photos, April 7",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "Gas Prices Soar",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "iIVvcxiYFOs",
+            "title": "How doctors are fighting the growing coronavirus pandemic",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KNE0gMwem8g",
-            "title": "10-foot great white shark detected off New Jersey",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "sGuLV1rV2bA",
             "title": "Winter Olympics 2014 in Sochi: Team USA Ski Jumpers Talk Sochi Security Worries",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Residents in Southern Plains brace for potential twisters, baseball-sized hail",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "3FjZoImMWU0",
+            "title": "Vaccine offers hope for coronavirus crisis",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

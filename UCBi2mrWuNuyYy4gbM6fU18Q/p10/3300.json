@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GR1GpYE2GBc",
-            "title": "Why Return to the Moon?",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "rmNJM64hnYg",
             "title": "NTSB investigating duck boat accident",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Tense standoff as Virginia citizens call for governor's resignation",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "cnpH78-ZLyY",
+            "title": "Young Girl's Special Bond With Her Service Dog George",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

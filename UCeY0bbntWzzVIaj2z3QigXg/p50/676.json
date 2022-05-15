@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "CmDl2rMrRKQ",
-            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
-            "secondDuration": 1525,
-            "group": "group_7"
-        },
-        {
             "videoId": "5n1GMZiLKmg",
             "title": "Fallen U.S. Soldiers Finally Return From North Korea | NBC News",
             "secondDuration": 97,
@@ -301,8 +295,14 @@
             "title": "WH Coordinator Johnson Says Administration Will Spend $1.6 Billion To Support Covid Testing",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "WVdbMRgtv-g",
+            "title": "Morning News NOW Full Broadcast - October 20",
+            "secondDuration": 3163,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

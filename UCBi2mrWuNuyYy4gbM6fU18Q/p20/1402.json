@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EwsxQzjRVpk",
-            "title": "Officer Darren Wilson Says He Wouldn't Have Acted Differently in Michael Brown Situation",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "351qEYNz3RQ",
             "title": "Live look at volcano lava lake in Nicaragua l ABC News",
             "secondDuration": 420,
@@ -121,8 +115,14 @@
             "title": "What Every State is Thankful For | ABC News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "7iHH2LxOfoE",
+            "title": "White House Calls Yemen Raid a 'Huge Success'",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

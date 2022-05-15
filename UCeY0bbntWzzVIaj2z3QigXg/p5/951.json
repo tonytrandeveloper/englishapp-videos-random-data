@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7ouKamSAdtk",
-            "title": "Louisiana Residents Brace For Hurricane Delta | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "jsVjKnU5QOc",
             "title": "Midterm Elections: Can You Tell Democrats From Republicans? | NBC News",
             "secondDuration": 149,
@@ -31,8 +25,14 @@
             "title": "These Chicago Teens Are Fighting The City's Gunfire With Fire | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "YVAvR_TBjJs",
+            "title": "This Couple Is Working To Preserve Homes That Come In A Box | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CNAn4WQn6JY",
-            "title": "Hillary and Meryl",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "HW02OGMPQdg",
             "title": "California begins to ease restrictions as cases continue to rise | ABC News",
             "secondDuration": 148,
@@ -121,8 +115,14 @@
             "title": "Kerry Washington on the 'Scandal' series finale and the show's legacy",
             "secondDuration": 428,
             "group": "group_7"
+        },
+        {
+            "videoId": "cgC_pWKn5RY",
+            "title": "Impeachment testimony, a robot dog, Queen fans: World in Photos, Nov. 7, 2019",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

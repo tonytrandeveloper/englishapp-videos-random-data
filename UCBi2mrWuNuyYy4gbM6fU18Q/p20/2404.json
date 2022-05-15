@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LmW8cCGaYhc",
-            "title": "Amy Winehouse's Last Days",
-            "secondDuration": 299,
-            "group": "group_7"
-        },
-        {
             "videoId": "1p523R7cW4k",
             "title": "Virginia College Student Returns to School With a New Prosthetic Leg",
             "secondDuration": 76,
@@ -121,8 +115,14 @@
             "title": "A breakdown of President Joe Biden's first year in office",
             "secondDuration": 741,
             "group": "group_7"
+        },
+        {
+            "videoId": "nJJc8ODT9to",
+            "title": "Teachers in Los Angeles strike for the first time in 30 years",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

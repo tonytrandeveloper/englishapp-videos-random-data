@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0o2itl1rARs",
-            "title": "New York Deaths Top 10,000, But Curve Flattening | NBC Nightly News",
-            "secondDuration": 470,
-            "group": "group_7"
-        },
-        {
             "videoId": "1_6gWV0p0no",
             "title": "Senate Passes Resolution To Repeal Biden's Private Sector Vaccine Mandate",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "White House Holds Press Briefing: March 11 | NBC News",
             "secondDuration": 3756,
             "group": "group_7"
+        },
+        {
+            "videoId": "zKGAqPY-fvM",
+            "title": "NATO Secretary General Stoltenberg On Support For Ukraine",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

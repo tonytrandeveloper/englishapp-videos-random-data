@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sa6gS_JvFjM",
-            "title": "Some Companies Starting 'Black Friday' the Day After Halloween",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "SZ7UsWds4gM",
             "title": "California Town Sinking: Residents Blame Everything From Faulty Fire Hydrant to Dormant Volcano",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "The Debrief: Pittsburgh shooting, 'Whitey' Bulger killed, Indiana bus tragedy | ABC News",
             "secondDuration": 1065,
             "group": "group_7"
+        },
+        {
+            "videoId": "PRvOmB62YVM",
+            "title": "Trump Rally Postponed Amid Security Concerns",
+            "secondDuration": 35,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

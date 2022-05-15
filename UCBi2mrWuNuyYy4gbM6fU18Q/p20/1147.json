@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "me_vpddqDPE",
-            "title": "Brian Ross Investigates: Exclusive: Video Shows Drunk US Defense Contractors",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "gqGlLZQl50o",
             "title": "Demi Lovato breaks her silence after suspected overdose",
             "secondDuration": 172,
@@ -121,8 +115,14 @@
             "title": "What the 'Roseanne' spinoff 'The Conners' could look like without Roseanne Barr",
             "secondDuration": 383,
             "group": "group_7"
+        },
+        {
+            "videoId": "wUsa3yh7UUw",
+            "title": "ABC News Prime: Pediatric COVID-19 surge; Biden visits NJ, NY after Ida; Wait for justice after 9/11",
+            "secondDuration": 5266,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

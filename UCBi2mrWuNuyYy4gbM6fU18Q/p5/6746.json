@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yuiRZJIrqGM",
-            "title": "What’s President Trump’s second-term agenda?",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y1rpzUD3vgE",
             "title": "Libya's Leader Speaks Out",
             "secondDuration": 408,
@@ -31,8 +25,14 @@
             "title": "'Semper Fi: Always Faithful' - A New Documentary",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "O7Z4TecKPPA",
+            "title": "Donald Sterling Scandal: The Tale of the Tape",
+            "secondDuration": 423,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

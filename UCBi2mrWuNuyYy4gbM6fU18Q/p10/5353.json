@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z_BFL3msVY8",
-            "title": "9-year-old shot in the head in apparent road rage incident",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "4HnjDE5Baa0",
             "title": "San Bernardino Shooting: News Helicopter Captures Dramatic Play-by-Play",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Orphaned Gorilla Gets Help From Human Touch",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "5eVerjWxtAw",
+            "title": "Russian President on Nukes, Obama and Iran",
+            "secondDuration": 430,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GiCtCkfeOuc",
-            "title": "Pentagon investigates Michael Flynn's 24 days as national security adviser",
-            "secondDuration": 223,
-            "group": "group_7"
-        },
-        {
             "videoId": "8hOk9aUvvsM",
             "title": "Concerns Over Ebola Case in New York",
             "secondDuration": 167,
@@ -61,8 +55,14 @@
             "title": "Announcer Down on \"The Price is Right\"",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "sK8OyvOSM6I",
+            "title": "Remnants of Ida produce multiple tornado warnings in Northeast l WNT",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

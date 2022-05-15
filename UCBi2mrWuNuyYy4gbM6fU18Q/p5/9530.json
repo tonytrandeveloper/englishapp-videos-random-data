@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DFNrYOti3Hs",
-            "title": "John McCain RNC Speech: Arizona Senator Seeks Return to Global Leadership for U.S.",
-            "secondDuration": 331,
-            "group": "group_7"
-        },
-        {
             "videoId": "s_QVq9G8QKA",
             "title": "New York, 2 states hire COVID-19 'contact tracers' | WNT",
             "secondDuration": 387,
@@ -31,8 +25,14 @@
             "title": "Oldest national park ranger in America celebrates retirement",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "4Biw19-lo74",
+            "title": "Extreme weather on both U.S. coasts l On Location",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

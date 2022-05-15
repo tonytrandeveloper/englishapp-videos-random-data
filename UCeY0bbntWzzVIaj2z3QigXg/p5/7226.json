@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FEDCHb49ei4",
-            "title": "Test Reveals Toxic Content Found In Vapor From Illicit THC Cartridges | NBC Nightly News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "w4caKZhOnWk",
             "title": "John McCain: President Trump's Dispute With Australia ‘Unnecessary And Frankly Harmful’ | NBC News",
             "secondDuration": 54,
@@ -31,8 +25,14 @@
             "title": "Jussie Smollett Indicted By Special Prosecutor In Chicago | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "TTC2i8X2ftA",
+            "title": "Full Fauci Interview: 'We Really Need To Be Prepared' For Omicron Covid Transmission",
+            "secondDuration": 767,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

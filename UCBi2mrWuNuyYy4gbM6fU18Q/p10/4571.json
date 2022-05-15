@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wanfNUSz1Fg",
-            "title": "Finding Kelsie l 20/20 l PART 4",
-            "secondDuration": 502,
-            "group": "group_7"
-        },
-        {
             "videoId": "vyUITOX26g4",
             "title": "President Donald Trump welcomes World Series champion Houston Astros to White House | ABC News",
             "secondDuration": 1332,
@@ -61,8 +55,14 @@
             "title": "Gretchen Carlson on Dealing with Sexual Harassment on the Job",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "yhb_Jqz2lZA",
+            "title": "Record-breaking heat invades the Northeast",
+            "secondDuration": 215,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

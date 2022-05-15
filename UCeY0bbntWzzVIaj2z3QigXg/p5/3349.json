@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Rn7192K7_XU",
-            "title": "Donald Trump's Convention Manager Paul Manafort (Full Interview) | Meet The Press | NBC News",
-            "secondDuration": 400,
-            "group": "group_7"
-        },
-        {
             "videoId": "IVNVz0oE9ns",
             "title": "Nor’easter Hits New England Leaving 200,000 Without Power | NBC News",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "Voicemail Captures Resident’s Escape As Surfside Condo Collapses",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "W6lN0rYHUig",
+            "title": "Consumer Alert: Mortgage Phishing Robbing Home Buyers Of Life Savings | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

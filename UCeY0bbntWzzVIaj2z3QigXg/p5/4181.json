@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8IwAxImlrGE",
-            "title": "Hawaii’s Kilauea Lava Destroys More Homes | NBC Nightly News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "CtT5r6VIeB4",
             "title": "TikTok Users React To Trump’s Pledge To Ban The App In The U.S. | NBC Nightly News",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "Royals Host President Trump And First Lady For Tea In London | NBC News (Live Stream Recording)",
             "secondDuration": 7502,
             "group": "group_7"
+        },
+        {
+            "videoId": "-MSvop-Krrs",
+            "title": "Greg Abbott, Beto O’Rourke Win In Texas Governor Primary Races",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

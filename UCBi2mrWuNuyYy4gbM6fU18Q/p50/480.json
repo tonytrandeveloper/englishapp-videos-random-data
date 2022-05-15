@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "8HE3oyNhKH0",
-            "title": "Nevada Democratic Convention Chaos Raises Security Concerns",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "DttOQhE0ksg",
             "title": "Facebook CEO Mark Zuckerberg answers questions, addresses possibility of regulation",
             "secondDuration": 547,
@@ -301,8 +295,14 @@
             "title": "2 police officers injured at US Capitol",
             "secondDuration": 943,
             "group": "group_7"
+        },
+        {
+            "videoId": "xFa2h8yk9kw",
+            "title": "White House press briefing 7/19/17 with break down from 'The Briefing Room'",
+            "secondDuration": 2860,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

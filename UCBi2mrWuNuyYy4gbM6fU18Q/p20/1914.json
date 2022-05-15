@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Gn-J7E8cs_0",
-            "title": "Boeing 737 Max takes flight for first time in US after deadly crashes | WNT",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "0LGIDd9Y1mw",
             "title": "Bears, Packers players lock arms during national anthem",
             "secondDuration": 195,
@@ -121,8 +115,14 @@
             "title": "Vaccine rollouts begin for kids age 5 to 11 after CDC gives Pfizer greenlight",
             "secondDuration": 426,
             "group": "group_7"
+        },
+        {
+            "videoId": "dPJUhWwHbeU",
+            "title": "Best of 2010: John Berman's 90 Seconds of News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sCk15b40o8A",
-            "title": "Rhode Island projected to be won by Joe Biden",
-            "secondDuration": 27,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ktwgm1U2ero",
             "title": "Hero Dad Saves Son's Head From Flying Baseball Bat",
             "secondDuration": 168,
@@ -31,8 +25,14 @@
             "title": "Adele Recovers, Will Sing at Grammys",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "x7tyenuJQnk",
+            "title": "American Who Survived Brussels, Paris, & Boston Terror Attacks Speaks Out",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "43A3eQT4OGM",
-            "title": "Who Fired The Surface-to-Air Missile At MH17? | NBC News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "enL2h9mgzXU",
             "title": "Deadly Tornado Outbreak Hits South, More Storms On The Way | NBC Nightly News",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "Dangers Of High Potency Cannabis For Teens",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "jp9n2HIX2pI",
+            "title": "Biden Delivers Remarks In Ohio | NBC News",
+            "secondDuration": 2091,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

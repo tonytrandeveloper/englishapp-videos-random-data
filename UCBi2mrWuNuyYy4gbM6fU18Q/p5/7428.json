@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FCA0OUjgZ2k",
-            "title": "Chair Lift Malfunction Injures Seven at Maine Ski Resort",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "XYJJEEeWVw4",
             "title": "Family heartbroken after concrete crashes through car, killing driver",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Harrisburg, Illinois, Devastated by Tornadoes",
             "secondDuration": 265,
             "group": "group_7"
+        },
+        {
+            "videoId": "t_u2Zy3Nvec",
+            "title": "Community Paints Over Racial Slurs Before Family Returns Home",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

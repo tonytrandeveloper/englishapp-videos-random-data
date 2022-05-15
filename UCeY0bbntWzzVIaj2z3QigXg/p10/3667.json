@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "e6edhT7Frc0",
-            "title": "White House Covid-19 Response Team Briefing | NBC News",
-            "secondDuration": 1881,
-            "group": "group_7"
-        },
-        {
             "videoId": "MiIsufgbHbg",
             "title": "Donald Trump Administration Changed The Rules To Get Rid Of Nuclear Waste Easier | NBC News Now",
             "secondDuration": 343,
@@ -61,8 +55,14 @@
             "title": "Secretary Kevin McAleenan: 'No Intent' To Hold Detained Migrant Families Indefinitely | NBC News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "oOgEQpqg1mk",
+            "title": "Facebook Bans QAnon Accounts Across Platforms | NBC News NOW",
+            "secondDuration": 577,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

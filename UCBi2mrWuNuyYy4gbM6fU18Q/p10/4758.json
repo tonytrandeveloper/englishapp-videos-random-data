@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JpYSdrWwKwE",
-            "title": "Ukrainian mayor: 'Thousands of people will protect our city'",
-            "secondDuration": 435,
-            "group": "group_7"
-        },
-        {
             "videoId": "x7NGY4MtpfY",
             "title": "Bushfires in Australia threaten koalas with extinction",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "NYPD officer attacked inside subway station",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "DjNiKvbfEMw",
+            "title": "Orcas cruise alongside jet ski in New Zealand",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

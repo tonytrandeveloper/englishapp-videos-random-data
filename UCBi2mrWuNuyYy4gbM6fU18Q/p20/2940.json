@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UG_6WOIGa30",
-            "title": "Katy Perry Takes on Hollywood",
-            "secondDuration": 243,
-            "group": "group_7"
-        },
-        {
             "videoId": "W0VVJ4yg-oI",
             "title": "Road Rage Incident Caught on Video in South Florida",
             "secondDuration": 64,
@@ -121,8 +115,14 @@
             "title": "Dershowitz: If Trump does Mueller interview, 'he may be walking into a perjury trap'",
             "secondDuration": 333,
             "group": "group_7"
+        },
+        {
+            "videoId": "cIiSHuv3NGE",
+            "title": "Breaking down Ahmaud Arbery murder trial as the jury deliberates",
+            "secondDuration": 766,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

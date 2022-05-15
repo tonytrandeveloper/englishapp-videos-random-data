@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mlsVYyPtiUM",
-            "title": "Tesla CEO Elon Musk offers to buy Twitter for $43B l WNT",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "otS4N-1cO68",
             "title": "Barack Obama 'GMA' Interview: Parenting Advice to D-Wade, Drew Brees (06.16.11)",
             "secondDuration": 511,
@@ -61,8 +55,14 @@
             "title": "Miner dies after roof collapse at Pennsylvania mine",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "EKN3TKh6Q4I",
+            "title": "Florida zoo worker sent to hospital with tiger bite l GMA",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

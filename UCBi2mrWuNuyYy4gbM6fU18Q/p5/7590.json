@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LIGr5fJEvEI",
-            "title": "Sen. Amy Klobuchar opens up about her 2020 campaign",
-            "secondDuration": 364,
-            "group": "group_7"
-        },
-        {
             "videoId": "mF-TkGLC1oM",
             "title": "Faces of Heroism, Generosity in Wake of Hurricane Sandy",
             "secondDuration": 144,
@@ -31,8 +25,14 @@
             "title": "Father of abducted Tennessee teen speaks out",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "jU7HAlp-XqI",
+            "title": "Putin's spokesman denies hacking allegations",
+            "secondDuration": 462,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

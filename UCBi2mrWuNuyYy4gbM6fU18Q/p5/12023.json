@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "M3g1gbvnmc8",
-            "title": "Gulf Islands National Seashore",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "JHxOdTkWlSE",
             "title": "Donald Trump Jr. releases emails about  meeting with Russian Lawyer",
             "secondDuration": 293,
@@ -31,8 +25,14 @@
             "title": "Trader Joe's worker killed by police gunfire after chase: Authorities",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "iha53-09Pfg",
+            "title": "ISIS Looking to Recruit, Attack Overseas Military Officials Warn",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

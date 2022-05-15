@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XDtRPe2zF1s",
-            "title": "Drug Companies Start 2019 With Price Hikes | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "jUQlft-vR70",
             "title": "House Speaker Nancy Pelosi Says President Donald Trump Is ‘Engaged In A Cover-Up’ | NBC News",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "Reports Of ‘3 Separate Barrages Of Incoming’ Fire At Iraqi Air Base | NBC News",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "TfkD2cs6k3o",
+            "title": "Blizzard Blankets The Nation's Capital: Time Lapse | NBC News",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

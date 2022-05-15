@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ya8Ze94Ikxw",
-            "title": "Conrad Murray Receives Conflicting Advice",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pqm4jfU0STA",
             "title": "73-Year-Old Man Shot by Police in California",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "GOP, Democrats score wins in high-stakes primaries",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "Mmr0RRlQcRE",
+            "title": "WEBCAST: Train Disaster in Canada",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

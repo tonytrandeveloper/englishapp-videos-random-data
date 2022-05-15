@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vkWsf1RELDM",
-            "title": "University Of Washington Hosts ‘Tent City 3’ | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "w6-HVb6RzEo",
             "title": "What Does It Take To Be A White House Press Secretary? | NBC News",
             "secondDuration": 241,
@@ -31,8 +25,14 @@
             "title": "CDC Director Says No Downside To Second Covid Booster",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "m4gMw0rGA5Q",
+            "title": "'No' Kasich Rules Out Presidential Bid With Colorado Gov. Hickenlooper | Meet The Press NBC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

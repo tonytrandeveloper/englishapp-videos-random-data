@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-stlUcWInVQ",
-            "title": "Monica Lewinsky Back in the Spotlight",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "TMxrdaOJH30",
             "title": "Aromasin: New Drug May Help Prevent Breast Cancer",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "WNN Webcast for Monday, June 4, 2012",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "5P85Bd0mwZg",
+            "title": "'This Week': Powerhouse Roundtable",
+            "secondDuration": 480,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

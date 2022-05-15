@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_-lnOQrf3V0",
-            "title": "Biden Delivers Remarks On Raising The Debt Ceiling | NBC News",
-            "secondDuration": 1045,
-            "group": "group_7"
-        },
-        {
             "videoId": "LDtl70qOmdU",
             "title": "Joe Biden Delivers Remarks On Economy, Coronavirus | NBC News",
             "secondDuration": 2638,
@@ -61,8 +55,14 @@
             "title": "NBC News Signal - November 1st, 2018",
             "secondDuration": 1587,
             "group": "group_7"
+        },
+        {
+            "videoId": "gawu24t2Lco",
+            "title": "Uber Says It’s Relaunching Self-Driving Cars With Major Safety Upgrades | NBC Nightly News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

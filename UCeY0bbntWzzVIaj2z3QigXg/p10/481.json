@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3EYE49K0U4k",
-            "title": "FBI: 160 Case Files Opened Into Capitol Riot Probe | NBC News NOW",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "qDmcoNUvVpQ",
             "title": "How to Grow the Perfect Cranberry | NBC Nightly News",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "How “Sock Queen” Of Alabama Transformed And Saved Family Business | NBC Nightly News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "9WhoS34qfII",
+            "title": "PyeongChang Braces For Frigid Weather Ahead Of The Olympics | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

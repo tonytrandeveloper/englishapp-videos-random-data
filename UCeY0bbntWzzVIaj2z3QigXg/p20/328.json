@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XzWEmZdbAmU",
-            "title": "This Organization Is Turning Drawings Into A Social Pastime | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "YmcQx1e0DoI",
             "title": "Seven-Year-Old Bana Alabed Tweets From War-Torn Aleppo | NBC News",
             "secondDuration": 75,
@@ -121,8 +115,14 @@
             "title": "Remembrance Ceremony for 16th Anniversary of 9/11 (Full) | NBC News",
             "secondDuration": 15444,
             "group": "group_7"
+        },
+        {
+            "videoId": "SnQ2JQlUW_4",
+            "title": "President Donald Trump Signs Executive Order That Could Upend Obamacare | NBC Nightly News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

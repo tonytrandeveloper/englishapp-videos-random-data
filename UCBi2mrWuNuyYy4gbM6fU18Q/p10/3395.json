@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PSI_0pUBOtM",
-            "title": "Impeachment proceedings against New York governor gain momentum l GMA",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "2i8DzPt3HRY",
             "title": "ESPN's Nate Silver on 'This Week': 2014 Election Picture",
             "secondDuration": 642,
@@ -61,8 +55,14 @@
             "title": "New Year's Eve celebration kicks off in Australia",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "AwpXLhLUY3A",
+            "title": "Russians claims suspected Syrian chemical attack was staged by aid group",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

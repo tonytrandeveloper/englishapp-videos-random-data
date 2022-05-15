@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QePj3RCz7sU",
-            "title": "Freddie Gray Protests Turn Violent in Baltimore",
-            "secondDuration": 394,
-            "group": "group_7"
-        },
-        {
             "videoId": "o5YJ2QdZkik",
             "title": "Bernie Sanders joins the 2020 presidential race",
             "secondDuration": 185,
@@ -61,8 +55,14 @@
             "title": "Americans Throw Out $190-Worth of Food Each Year",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "zLhOJ0KYRhE",
+            "title": "Katie Ledecky Makes Bryce Harper Hold Olympic Medals Before First Pitch",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

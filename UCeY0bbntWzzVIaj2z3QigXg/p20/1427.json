@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "T-5okZ0MjYs",
-            "title": "'Hashtag Lunchbag' Feeds The Homeless | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sc_CHRfy3rw",
             "title": "Johnson & Johnson Vaccine Pause Forces Vaccine Centers To Adapt | NBC News NOW",
             "secondDuration": 245,
@@ -121,8 +115,14 @@
             "title": "David Petraeus Will Plead Guilty Over Leaks | NBC Nightly News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "h8TQ75dRalE",
+            "title": "What The Internet Looked Like In The 1990s | Flashback | NBC News",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "eQgP9fq96vo",
-            "title": "Auschwitz Anniversary: Survivors Gather In Remembrance",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "GNPc8MX-1II",
             "title": "CDC launches COVID-19 wastewater surveillance dashboard",
             "secondDuration": 97,
@@ -301,8 +295,14 @@
             "title": "Uninsured Scramble as Obamacare Deadline Draws Near",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "-4UL5BCKBNc",
+            "title": "American climber dies rappelling in Mexico l ABC News",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

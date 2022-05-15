@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zUfJxT3l-Q4",
-            "title": "The Next Breakthrough In Medicine Could Come From A Neighborhood’s Sewage | Mach | NBC News",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "QL04HvWuveU",
             "title": "Jet Blue Plane Surrounded By Police After Pilot Accidentally Signals Hijacking | NBC Nightly News",
             "secondDuration": 96,
@@ -121,8 +115,14 @@
             "title": "Coronavirus: CDC Updates Summer Camp Guidance | NBC Nightly News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "hccyNI97ev4",
+            "title": "Cinema-Inspired ‘Field of Dreams’ Baseball Game Has a Hollywood Ending",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

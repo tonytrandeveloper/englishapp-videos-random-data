@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tOIOgKbon6Q",
-            "title": "Sen. Warren Grills Health Secy. Azar Over President Trump’s Promise To Lower Drug Prices | NBC News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "7LZIMT1FvY0",
             "title": "Trump Abruptly Withdraws U.S. Troops From Northern Syria | NBC Nightly News",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Scientists Discover Hidden Coral Reef Off The Coast Of South Carolina | Mach | NBC News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "L94ZAxSqyBA",
+            "title": "This Couple Is Bidding To Own Their Very Own Lighthouse | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

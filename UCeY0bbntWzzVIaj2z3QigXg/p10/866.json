@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Re510yGVQtM",
-            "title": "Nelson Mandela Released From Prison | Flashback | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q0IWlAq8UHQ",
             "title": "Ex-Minneapolis Cops Plead Not Guilty To Violating George Floyd's Civil Rights",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Democratic Lawmakers Tour Migrant Facility In Tornillo, Texas | NBC Nightly News",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "r5e6fP6zq4s",
+            "title": "Coronavirus: HHS National Disaster Medical Team Assisting Overwhelmed New Mexico Hospital",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

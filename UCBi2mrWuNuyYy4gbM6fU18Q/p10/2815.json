@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "U9vlTgSH5JE",
-            "title": "US 'ceasefire' with Turkey appears to fall apart l ABC News",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "c5cBNm3xF2c",
             "title": "Conrad Murray Trial 2011: Michael Jackson's Drug Addition Setback for Doctor",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Trump Wiretap Claim: 'No question that something happened' Spicer says",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ag4QvMtXK8w",
+            "title": "Updates on the growing humanitarian crisis in Puerto Rico",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NPX3FY2_nVw",
-            "title": "California Wildfires: \"It Takes Your Life Away\" Residents Return To Nothing | NBC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "DOmcUyPg9Uo",
             "title": "Protests In London After Murder Of Sarah Everard | NBC Nightly News",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "NBC News Projects Donald Trump Will Win Mississippi And Wyoming | NBC News",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "7LR4SssyZzk",
+            "title": "Trump Makes Final Visit As President To Border Wall | NBC News NOW",
+            "secondDuration": 425,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

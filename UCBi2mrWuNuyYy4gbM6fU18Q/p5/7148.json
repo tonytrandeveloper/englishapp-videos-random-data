@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QvocZL6XUDo",
-            "title": "Virginia’s Liberty University welcomes students back l ABC News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "1-cqjDL1esU",
             "title": "Orlando Nightclub Survivor Shot Twice, Speaks Out",
             "secondDuration": 489,
@@ -31,8 +25,14 @@
             "title": "Yale Student Missing Without a Trace",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "qGKpwzeReZw",
+            "title": "The One and Only Whitney Houston",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

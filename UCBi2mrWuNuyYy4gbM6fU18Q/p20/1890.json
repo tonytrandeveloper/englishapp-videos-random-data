@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8kBcPUAAq-k",
-            "title": "Trump blasts Democrats as shutdown heads into Day 7",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "b7CYxwvta8U",
             "title": "Bloomberg barnstorming Super Tuesday states before voters head to polls | ABC News Live Prime",
             "secondDuration": 380,
@@ -121,8 +115,14 @@
             "title": "\"Top Gun 2\" Moves Forward",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "lARbgKY9BNY",
+            "title": "Boy reunites with Army reservist mother after 6 weeks | WNT",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

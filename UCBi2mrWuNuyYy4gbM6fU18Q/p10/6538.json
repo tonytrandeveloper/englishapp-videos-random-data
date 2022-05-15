@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qyYWvJVExzg",
-            "title": "Marco Rubio Defends Himself Against Attacks Over Personal Finances",
-            "secondDuration": 307,
-            "group": "group_7"
-        },
-        {
             "videoId": "xJsucKNh5zM",
             "title": "4 more bodies found in Surfside building collapse",
             "secondDuration": 308,
@@ -61,8 +55,14 @@
             "title": "The All-New 20/20 Event airs Friday at 9|8c on ABC",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "xWqYTKsr43I",
+            "title": "'Fight Tonight': Rare look at US defense against North Korea",
+            "secondDuration": 379,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

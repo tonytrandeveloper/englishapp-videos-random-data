@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0OFGoP_X4i4",
-            "title": "Extreme weather from coast to coast",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "nS8NAeA1Dt4",
             "title": "More answers to your COVID-19 questions",
             "secondDuration": 436,
@@ -31,8 +25,14 @@
             "title": "Partying in Madoff Victims' House",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "V6MMCUof138",
+            "title": "Executive Producers of 'Lost' Chat About Finale",
+            "secondDuration": 258,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

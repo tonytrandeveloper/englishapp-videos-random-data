@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BMKClcsUIvE",
-            "title": "WD-40 60 Years Old and Going Strong",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "qM_27Bx8IpQ",
             "title": "Sen. Sgt at Arms: 'Blessedly, It's Relatively Rare'",
             "secondDuration": 599,
@@ -61,8 +55,14 @@
             "title": "Situation worsens at US-Mexico border",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "hSt4K6NV_LY",
+            "title": "Violent attacks against Asian-Americans on rise in US",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

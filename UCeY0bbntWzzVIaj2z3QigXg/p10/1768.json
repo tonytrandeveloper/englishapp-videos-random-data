@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pcQhi5-irNg",
-            "title": "Donald Trump: North Korea ‘Will Truly Regret’ Any Attack On Guam | NBC News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "vNqun8afKcY",
             "title": "Kamala Harris To Pennsylvania Voters: ‘We Will Not Be Silenced, We Know Our Power’ | NBC News NOW",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "Navy Engineer Attempted To Sell Submarine Secrets, FBI Says",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "6cIv-ZpWl9Q",
+            "title": "Rudy Giuliani's Republican National Convention Speech (Full) | NBC News",
+            "secondDuration": 963,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

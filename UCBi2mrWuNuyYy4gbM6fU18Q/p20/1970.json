@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PHjZURoJImY",
-            "title": "By the Numbers: Possible economic fallout from a Russian invasion of Ukraine",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "mabNYXP_rtI",
             "title": "10 people under arrest in suspected hazing death of Louisana college student",
             "secondDuration": 111,
@@ -121,8 +115,14 @@
             "title": "Miranda Lambert Attacks Chris Brown Over Twitter, At Concert, Tells Him to 'Take Notes'",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "H4_4hv_BNSE",
+            "title": "ABC News Prime: 11/17/2021",
+            "secondDuration": 5266,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

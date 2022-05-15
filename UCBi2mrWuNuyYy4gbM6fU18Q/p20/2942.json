@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PzgQOraChEk",
-            "title": "Remembering Golden Girl Farrah Fawcett",
-            "secondDuration": 620,
-            "group": "group_7"
-        },
-        {
             "videoId": "E-8AvtlIkx8",
             "title": "Teen Goes Missing After Meeting With Girlfriend's Ex",
             "secondDuration": 583,
@@ -121,8 +115,14 @@
             "title": "US reports more than 234,000 COVID-19 deaths | WNT",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "sXsOVAa8FAU",
+            "title": "Captain Surprises Son With Flight Back From Deployment",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

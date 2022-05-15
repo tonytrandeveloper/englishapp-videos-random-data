@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ynT2IBEsEJs",
-            "title": "Hong Kong Police Arrest Protesters After New Security Law Comes Into Effect | NBC News NOW",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "NYm7WJCsu2Q",
             "title": "Rex Tillerson on Russia, James Comey, And Relationship With Trump (Full) | Meet The Press | NBC News",
             "secondDuration": 895,
@@ -61,8 +55,14 @@
             "title": "Misinformation's Role In The Psychology Of Vaccine Hesitancy",
             "secondDuration": 365,
             "group": "group_7"
+        },
+        {
+            "videoId": "VqQVpIEBNZI",
+            "title": "Artist Hopes Viral Song Will Reinvigorate Calls For Justice For Breonna Taylor & McClain | NBC News",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

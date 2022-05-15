@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WXb5xZL3zeQ",
-            "title": "India's Child Miners: Growing Up, Underground",
-            "secondDuration": 493,
-            "group": "group_7"
-        },
-        {
             "videoId": "cptiordLJio",
             "title": "Houston's 911 system is overwhelmed with calls for help",
             "secondDuration": 297,
@@ -31,8 +25,14 @@
             "title": "Philando Castile death: Police dashcam video released",
             "secondDuration": 511,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y6sspyltJUU",
+            "title": "New York Times buys viral word game Wordle",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

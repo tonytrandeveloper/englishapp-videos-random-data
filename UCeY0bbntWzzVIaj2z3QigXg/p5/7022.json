@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q7mRXS24Yxs",
-            "title": "Jihadist Networks' History In Australia | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "pyhcAoFLfb0",
             "title": "Sen. Sinema Censured By Arizona Democrats After Pro-Filibuster Vote",
             "secondDuration": 249,
@@ -31,8 +25,14 @@
             "title": "Andrea Jenkins: The First Black Trans Woman To Hold Public Office In The U.S. | Think | NBC News",
             "secondDuration": 878,
             "group": "group_7"
+        },
+        {
+            "videoId": "F_JDOriwsQU",
+            "title": "AT&T Makes $43 Billion Deal To Merge Warnermedia With Discovery",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

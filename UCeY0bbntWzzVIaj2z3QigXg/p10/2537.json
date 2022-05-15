@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5j9o2N-qNNs",
-            "title": "Most School Shootings Are Preventable According To New U.S. Secret Service Report | NBC Nightly News",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "O4lFyezK4yU",
             "title": "Wisconsin Grapples With Surge In Coronavirus Cases | NBC Nightly News",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "Full Pompeo: 'We have our eyes wide open' with Kim Jong Un | Meet The Press | NBC News",
             "secondDuration": 546,
             "group": "group_7"
+        },
+        {
+            "videoId": "9LjBaKBro5w",
+            "title": "Brutally Cold Weather Spreads Across The Country |  NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

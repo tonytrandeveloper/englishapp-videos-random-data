@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XgGSlRGYacw",
-            "title": "Live: New York Governor Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3448,
-            "group": "group_7"
-        },
-        {
             "videoId": "vW469jl2O2w",
             "title": "New Medical School Graduates Dive Into Work On Coronavirus Front Lines | NBC Nightly News",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "Mexico Earthquake: Citizens Become Heroes Searching For Survivors Among Rubble | NBC News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "JBB__kVgDB0",
+            "title": "President Barack Obama To Troops: Honored To Have Been Your Commander-In-Chief | NBC News",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

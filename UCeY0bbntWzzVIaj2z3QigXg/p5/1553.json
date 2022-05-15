@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sctBLAnNMU4",
-            "title": "American ISIS Fighter Reportedly Detained by Kurdish Forces in Iraq | NBC Nightly News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "8gwDT7RNEG0",
             "title": "Meet the Press - LaPierre; Schumer & Graham; Roundtable - 12.23.12",
             "secondDuration": 24,
@@ -31,8 +25,14 @@
             "title": "This Humanoid Robot Can Mimic Human Movement In Real Time | Mach | NBC News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "te3ZTuYIj80",
+            "title": "Coming Up on MTP: SOTU, Spying & Football",
+            "secondDuration": 16,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

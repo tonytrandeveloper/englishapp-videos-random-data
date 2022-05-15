@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gVaJj5KW6Cc",
-            "title": "Cleveland Browns End Grueling 635-Day Losing Streak | NBC Nightly News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "G0kAh4MN9zM",
             "title": "Nightly News Full Broadcast - April 12",
             "secondDuration": 1170,
@@ -61,8 +55,14 @@
             "title": "Amy Klobuchar Talks Why Women Of Color Should Vote For Her At ‘She The People’ Forum | NBC News",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "zLhMGdBHGX8",
+            "title": "Kevin McCarthy Calls Impeachment 'An Exercise In Raw Partisan Politics' | NBC News",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

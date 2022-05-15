@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rNiaRKhl6kU",
-            "title": "Jerry Nadler Recovering After Almost Fainting During Press Conference | NBC News",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "2EIlTA_HT48",
             "title": "Coronavirus: Summer Camps Reveal Possible Challenges For Reopening Schools | NBC Nightly News",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton: Gun Control Needs to be a Voting Issue | NBC News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "5USKfuMuql0",
+            "title": "'Nuclear Option' On Table As Dems Try To Block Donald Trump SCOTUS Nominee | NBC Nightly News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

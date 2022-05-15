@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Pslpz1k5MTQ",
-            "title": "UFC fight spills out of the octagon",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "hZmGDWY_C-A",
             "title": "FBI ignored testimony in Kavanaugh investigation: Report",
             "secondDuration": 185,
@@ -61,8 +55,14 @@
             "title": "The Effect of Soda on Your Body",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "B0Ag3A5PKoY",
+            "title": "Biden, advocates renew calls for gun reform after Colorado shooting that killed 10 | Nightline",
+            "secondDuration": 593,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cQ4YZqxRzsY",
-            "title": "This Morning’s Top Headlines – Jan. 14 | Morning News NOW",
-            "secondDuration": 1349,
-            "group": "group_7"
-        },
-        {
             "videoId": "mP73upHD6OY",
             "title": "Hillary Clinton: We Must Repudiate 'Bigotry' Of Donald Trump, Ted Cruz | NBC News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Full Schiff: U.S. response to Russia hacking 'has been influenced by something' | Meet The Press",
             "secondDuration": 451,
             "group": "group_7"
+        },
+        {
+            "videoId": "5PC-rLxNpaA",
+            "title": "Fiorina: Voters Don't Care About Written Down Policy Plans | Meet The Press | NBC News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

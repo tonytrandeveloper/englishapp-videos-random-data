@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "63zAPut3pLE",
-            "title": "The Science of Santa",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "i_FdEi1m0i0",
             "title": "Pfizer says COVID-19 vaccine is safe for children ages 5 to 11",
             "secondDuration": 453,
@@ -61,8 +55,14 @@
             "title": "Grocer Gives Business to Hundreds of His Employees",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "B-kwD1d34xY",
+            "title": "Local Christmas tree farms see record sales numbers | WNT",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "h4edEda3124",
-            "title": "Tense showdown during traffic stop along a California highway",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "b2ybpLEs0vQ",
             "title": "ABC News Prime: US shatters daily COVID-19 cases record; Maxwell found guilty, Harry Reid tributes",
             "secondDuration": 3580,
@@ -61,8 +55,14 @@
             "title": "'Don't Ask, Don't Tell' Repealed, But Not Gone",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "YCFpI1sg1n8",
+            "title": "Man who acted erratically on Honolulu flight went through screening twice",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

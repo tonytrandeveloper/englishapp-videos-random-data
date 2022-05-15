@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "b9CZWmQyEPg",
-            "title": "Where to find ‘America’s Best Caviar?’ Try Kentucky. | NBC Nightly News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "LGahRJwzV8s",
             "title": "Hurricane Michael Brings Flooding & Destruction As It Moves Through FL Panhandle | NBC Nightly News",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "Estimated One Million Uighur Muslims Vanish Into Chinese ‘Re-Education’ Camps | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "SEboWYXRqbE",
+            "title": "Residents In Mississippi Without Water For More Than Two Weeks After Storm | NBC News NOW",
+            "secondDuration": 466,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

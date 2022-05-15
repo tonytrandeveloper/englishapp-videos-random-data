@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WKu10kBYdv0",
-            "title": "High school drama club gets high marks for 'Alien' musical",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "OANW5llg-cY",
             "title": "Officer Found Not Guilty in 2012 Shooting Deaths",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "Anthony Weiner's Comeback: On the Trail With the Mayoral Candidate",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "t_EwralH0oc",
+            "title": "MIX: Who Ya Gonna Call?",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

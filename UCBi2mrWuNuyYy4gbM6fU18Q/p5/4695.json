@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_NaaT3KFjac",
-            "title": "Why Sisters 'Diamond and Silk' Stump for Trump | ABC News",
-            "secondDuration": 550,
-            "group": "group_7"
-        },
-        {
             "videoId": "V0jPyKlLb30",
             "title": "Maryland Shooting Spree | Former Police Officer Allegedly Behind Attacks",
             "secondDuration": 201,
@@ -31,8 +25,14 @@
             "title": "Record-setting astronaut Mark Vande Hei returns to Earth",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "h4cTRToxhU4",
+            "title": "US troops complete withdrawal from Afghanistan l GMA",
+            "secondDuration": 299,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

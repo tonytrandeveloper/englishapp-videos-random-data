@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aKKxQTA6c7U",
-            "title": "Protesters and police clash in Minneapolis",
-            "secondDuration": 213,
-            "group": "group_7"
-        },
-        {
             "videoId": "HkGkE3zmzNY",
             "title": "Voice of King",
             "secondDuration": 410,
@@ -121,8 +115,14 @@
             "title": "Trump reacts to Cohen's explosive Hill testimony",
             "secondDuration": 408,
             "group": "group_7"
+        },
+        {
+            "videoId": "QvwcQbVqQCQ",
+            "title": "How to discuss the Jan. 6 attack on the Capitol",
+            "secondDuration": 444,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

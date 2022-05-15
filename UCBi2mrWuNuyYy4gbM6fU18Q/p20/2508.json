@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9oLaC1VYoTM",
-            "title": "NASA Mars Rover Landing: Curiosity Lands, Beams Back Pictures of Mars Surface",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "ua8ZHBLpI0Y",
             "title": "Federal judge issues a new order against Trump administration's 'zero tolerance' immigration policy",
             "secondDuration": 148,
@@ -121,8 +115,14 @@
             "title": "Christine Blasey Ford, Brett Kavanaugh: Most memorable moments from their testimonies",
             "secondDuration": 315,
             "group": "group_7"
+        },
+        {
+            "videoId": "ob7yZb0CdsQ",
+            "title": "Adam Lambert Dishes on New Album 'Trespassing' in 'Good Morning America' Intervew",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

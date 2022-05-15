@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "5Z31XqGWKFU",
-            "title": "New Warnings About Sleep Aid Side Effects | NBC Nightly News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "4su19B_jWLE",
             "title": "Gender-Bending Halloween Dos & Don'ts | Queer 2.0 | NBC Out",
             "secondDuration": 128,
@@ -301,8 +295,14 @@
             "title": "Sturgis Biker Rally Underway Despite Coronavirus | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "FPtrJOoZ-wg",
+            "title": "Does Bernie Sanders Have A Shot? | NBC News Signal",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

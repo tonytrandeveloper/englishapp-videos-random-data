@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g4whTReasvs",
-            "title": "'This Week': Powerhouse Roundtable I",
-            "secondDuration": 532,
-            "group": "group_7"
-        },
-        {
             "videoId": "QvxYiBXYdho",
             "title": "89 Year Old Johann Breyer May Be Prosecuted as a Nazi War Criminal",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "Amplified: David Cross Defends 'Chipmunks'",
             "secondDuration": 519,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZoruwCS3zLk",
+            "title": "'Pharma bro' jury selection enters 3rd day",
+            "secondDuration": 235,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "G_RVCvIMTsQ",
-            "title": "Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3068,
-            "group": "group_7"
-        },
-        {
             "videoId": "3uvSlON04qc",
             "title": "President Donald Trump Speaks To U.S. Troops In Japan (Full) | NBC News",
             "secondDuration": 1245,
@@ -31,8 +25,14 @@
             "title": "Moderna Announces Covid Vaccine Can Be Stored For Up To Three Months | NBC News NOW",
             "secondDuration": 275,
             "group": "group_7"
+        },
+        {
+            "videoId": "sbpWpVeBbZo",
+            "title": "Watch: Biden Signs PPP Extension Act | NBC News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

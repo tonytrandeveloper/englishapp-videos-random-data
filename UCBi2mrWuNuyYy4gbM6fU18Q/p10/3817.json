@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TEE0CZORZAg",
-            "title": "Whitney Houston to Diane Sawyer:  \"The Biggest Devil is Me\"",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "IqCdi44bwXQ",
             "title": "WEBCAST: Vice Presidential Debate 2012",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "What the Trump Organization indictments mean for former President Trump",
             "secondDuration": 546,
             "group": "group_7"
+        },
+        {
+            "videoId": "yhX1Jmv_7zo",
+            "title": "ABC News Prime: Stacey Abrams on voting amid COVID-19, struggles in NYC, homeschooling tips",
+            "secondDuration": 3624,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

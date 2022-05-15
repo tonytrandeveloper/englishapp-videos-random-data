@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OUvppkBQLHg",
-            "title": "A man who worked as a crossing guard for a school for nearly 7 decades retires",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "pNhp5GcNqGg",
             "title": "Congress reaches deal to prevent government shutdown",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Melania's Gift to Michelle Obama",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "KmZh89lWKJM",
+            "title": "Divided We Fail: Can Split Congress Work Together?",
+            "secondDuration": 319,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

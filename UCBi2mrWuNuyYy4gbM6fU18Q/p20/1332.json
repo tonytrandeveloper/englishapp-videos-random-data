@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "O_dUAwXGK4E",
-            "title": "ABC News Prime: Johnson & Johnson vaccine hope; Will Tiger Woods golf again?; Anti-vaxxers in the EU",
-            "secondDuration": 3626,
-            "group": "group_7"
-        },
-        {
             "videoId": "I2ssGoIGqFw",
             "title": "New Fuel Standards: Clean and Green",
             "secondDuration": 160,
@@ -121,8 +115,14 @@
             "title": "Taylor Swift Expresses Love for Her Fans, Discusses Being Billboard's Woman of the Year",
             "secondDuration": 320,
             "group": "group_7"
+        },
+        {
+            "videoId": "dIiFNxtvNIk",
+            "title": "Costa Concordia Being Lifted from Shallow Gravein Tuscan Reef",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

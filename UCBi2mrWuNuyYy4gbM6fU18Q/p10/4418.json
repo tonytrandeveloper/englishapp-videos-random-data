@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5IeuDq5UKXM",
-            "title": "Projected election results: New Mexico and Idaho",
-            "secondDuration": 33,
-            "group": "group_7"
-        },
-        {
             "videoId": "GsY7z5VyR4w",
             "title": "'This Week': Ben Affleck's Spotlight on Congo",
             "secondDuration": 236,
@@ -61,8 +55,14 @@
             "title": "Lightning illuminates the night sky in Pamplona",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "7KhgM0JykcQ",
+            "title": "Sports Illustrated Ad Features Plus- Size Models | ABC News",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pecyXWyzN_s",
-            "title": "‘The Shawshank Redemption’ Celebrated On 25th Anniversary | NBC Nightly News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "v2ZaEzGNBNo",
             "title": "Deadly Indonesia Tsunami Puts Spotlight On Warning Systems | NBC Nightly News",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Copyright Should Protect Creativity, Not Ownership | Think | NBC News",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "6dXFUctMxts",
+            "title": "American Killed While Fighting ISIS In Syria | NBC News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

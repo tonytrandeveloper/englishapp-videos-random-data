@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ktpCe0UXW6Y",
-            "title": "This Morning’s Top Headlines – Feb. 18 | Morning News NOW",
-            "secondDuration": 999,
-            "group": "group_7"
-        },
-        {
             "videoId": "_6XukTILTM8",
             "title": "Tom Brady Leads The New England Patriots To Historic Victory | NBC News",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "Video Captures Pro Surfer Rescuing Woman Caught In Rough Waves | NBC Nightly News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "omVEdGyIoug",
+            "title": "CDC Relaxes Covid Guidance Allowing Most People To Remove Masks Indoors",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

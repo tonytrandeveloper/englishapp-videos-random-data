@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S4gDBxnfLLA",
-            "title": "Elizabeth Vargas Part 1: Grappling with Anxiety",
-            "secondDuration": 479,
-            "group": "group_7"
-        },
-        {
             "videoId": "QCis4qYQ1H4",
             "title": "Explosions near Kabul airport kill dozens | Nightline",
             "secondDuration": 703,
@@ -31,8 +25,14 @@
             "title": "'Fresh Off the Boat':  Fresh Take On American Dream",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "1LBkuSC4vOg",
+            "title": "Donald Trump arrives in Paris at the invitation of France's president, Emmanuel Macron",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

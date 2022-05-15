@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5BSPThGonWY",
-            "title": "Taylor Swift's New Sound",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "yvoR2z2WFeg",
             "title": "How Dua Lipa became one of pop music's biggest breakout stars",
             "secondDuration": 324,
@@ -31,8 +25,14 @@
             "title": "Pro soccer player on coming out: 'I just wanted to be happy'",
             "secondDuration": 314,
             "group": "group_7"
+        },
+        {
+            "videoId": "9INILBAxm44",
+            "title": "Trump fires 2 men who testified in the House impeachment hearings | ABC News",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

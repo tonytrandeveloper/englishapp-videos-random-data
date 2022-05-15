@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s_cBNsvg0FE",
-            "title": "Apple Says Trade War With China Is Slowing Sales, Sends Markets Tumbling | NBC Nightly News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "h0paiFBB7E8",
             "title": "What’s Behind Empty Shelves At Stores Across The U.S.",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Uber Unveils New 911 Button | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "ni9NZN2e_Jo",
+            "title": "President Donald Trump Still Mum On Roy Moore | NBC Nightly News",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tUNaL7xkmas",
-            "title": "Ukrainian family reunites in Poland",
-            "secondDuration": 275,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pk3ZWoSMgZQ",
             "title": "Olympic Medalist Killed in Sail Boat Training Run - Andrew 'Bart' Simpson Dead at 36",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "ABC News Live: Russian forces appear to close in on key port city | ABCNL",
             "secondDuration": 1445,
             "group": "group_7"
+        },
+        {
+            "videoId": "bOh-u2Xf4S0",
+            "title": "Dancing With the Stars: Maria Menounos, Dereck Hough Discuss 'DWTS' Exit on 'GMA'",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

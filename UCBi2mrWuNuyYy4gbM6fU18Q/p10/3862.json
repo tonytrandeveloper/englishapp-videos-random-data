@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XgwHgPw42xc",
-            "title": "This Week in Politics: 'This Week' Roundtable",
-            "secondDuration": 682,
-            "group": "group_7"
-        },
-        {
             "videoId": "LC03govl2vE",
             "title": "President Biden delivers remarks on high gas prices",
             "secondDuration": 474,
@@ -61,8 +55,14 @@
             "title": "At least 2 dead after California school shooting",
             "secondDuration": 282,
             "group": "group_7"
+        },
+        {
+            "videoId": "rM01oSUBurs",
+            "title": "When Will the Real Fiscal Cliff Negotiations Begin?: 'This Week' Roundtable Discussion",
+            "secondDuration": 707,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wETU8PwhnZo",
-            "title": "More than 20 dead, 100 injured after Las Vegas shooting: police | ABC News",
-            "secondDuration": 282,
-            "group": "group_7"
-        },
-        {
             "videoId": "sleX2UxrPgo",
             "title": "Demi Moore Reportedly Leaving Hospital, Heading to Rehab",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "Parkland students react to Trump’s comments to the NRA",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "GfUfCTfkA3g",
+            "title": "Ferguson Police Chief Releases Name of Officer Who Shot Teen",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hjgQ3xhDY5o",
-            "title": "I expect omicron to peak in 'next couple of weeks': Dr. Jha | ABC News",
-            "secondDuration": 306,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZYkxVbYxy-c",
             "title": "Trump, Obama Meet at The White House: Full Press Conference",
             "secondDuration": 192,
@@ -31,8 +25,14 @@
             "title": "Colorado man clawed by bear inside his own home",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZzInScX3MrU",
+            "title": "New Star Wars: The Force Awakens Teaser",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

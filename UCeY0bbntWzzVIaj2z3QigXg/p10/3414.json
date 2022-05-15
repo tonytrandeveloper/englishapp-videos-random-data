@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bLSmdQzPMN8",
-            "title": "Six Flags Fiesta Texas: Multiple People Rescued From Rollercoaster",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "473znYMcorc",
             "title": "President Trump Will Meet Philippines President Amid Human Rights Groups Concerns | NBC Nightly News",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "DC, Maryland Sue President Donald Trump Over Constitution’s ‘Emoluments Clause’ | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "l09ypOiOZVk",
+            "title": "Special Report: Roger Stone Arraigned On Charges In Russia Investigation | NBC News",
+            "secondDuration": 3766,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

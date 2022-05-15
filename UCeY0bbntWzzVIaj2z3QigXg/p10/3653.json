@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fp6ZanNuUek",
-            "title": "The History Of The U.S. National Emergency | NBC News Signal",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "4DLFl1DZEeM",
             "title": "Coronavirus Concerns May Lead To New Travel Restrictions | NBC Nightly News",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "FBI Sounds Alarm On Smart TVs | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "tbSNRigVcAU",
+            "title": "Full Blunt: 'I have no idea what they did' in Trump inaugural committee | Meet The Press | NBC News",
+            "secondDuration": 542,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

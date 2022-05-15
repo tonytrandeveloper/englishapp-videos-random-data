@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QLYwG4xvAkQ",
-            "title": "Top Story with Tom Llamas - March 31 | NBC News NOW",
-            "secondDuration": 3028,
-            "group": "group_7"
-        },
-        {
             "videoId": "C7Bs5m_2W7o",
             "title": "Jury Selection Delayed In Derek Chauvin Trial | NBC Nightly News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Sony’s New KOOV Kit Brings Coding To Kids | Mach | NBC News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "AepI5pQJbnw",
+            "title": "'This Is Our Moment, This Is Our Mission': Biden Calls For Unity In His DNC Speech | NBC News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

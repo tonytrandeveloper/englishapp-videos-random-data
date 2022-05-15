@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MCmdNi46qtg",
-            "title": "Norovirus Wreaking Havoc Across The Country | NBC Nightly News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "3NveS9aeaY0",
             "title": "Asian American Woman Brutally Attacked In New York City | NBC Nightly News",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "Erin Brockovich: To Solve Water Crisis, 'Stand Up And Show Up' | Meet The Press Reports",
             "secondDuration": 451,
             "group": "group_7"
+        },
+        {
+            "videoId": "hccWDuk555o",
+            "title": "Fact-Checking Trump’s State Of The Union Address | NBC News NOW",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GZ9phhRRlQc",
-            "title": "Zelenskyy: Peace Talks Between Ukraine And Russia ‘Sound More Realistic’",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "ze2F-O8_1x4",
             "title": "More Than 5,000 Migrants Still Waiting Beneath Del Rio Bridge",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Severe Weather Causes Rush Hour Chaos Along The East Coast | NBC Nightly News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "JsOqPS98sXA",
+            "title": "John Kasich On Foreign Policy, Supreme Court | Meet The Press | NBC News",
+            "secondDuration": 333,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

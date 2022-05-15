@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mfA5WJdIhHQ",
-            "title": "The Terror Threat: 'This Week' Panel",
-            "secondDuration": 388,
-            "group": "group_7"
-        },
-        {
             "videoId": "HvSQHFq3t_Y",
             "title": "Secret Service Hotel Scandal: Agents Under Fire for Misconduct",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "White House Officials Keep an Eye on Ferguson",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "AuRlNGo9SM0",
+            "title": "NAACP president: Northam's had 'ample opportunity' to 'disclose that he has changed'",
+            "secondDuration": 349,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

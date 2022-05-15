@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vBBsKIrPqHQ",
-            "title": "45 Million People Under Winter Weather Advisories | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "9NqPrKu_FKE",
             "title": "State Of Emergency As Storm Alberto Hits North Carolina | NBC Nightly News",
             "secondDuration": 111,
@@ -121,8 +115,14 @@
             "title": "How One High School Student Has Changed The Way Students Go To Class",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "41hl5RwfOVc",
+            "title": "‘I Am Mad As Hell’: San Juan Mayor Carmen Yulin Cruz Criticizes Maria Response | NBC Nightly News",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

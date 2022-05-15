@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EZ4-Q1coyQE",
-            "title": "Rick Perry Responds To Charges | NBC News",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "gnDiuUVKDAw",
             "title": "As Unemployment Grows, Americans Struggle To Get Food On The Table | NBC Nightly News",
             "secondDuration": 162,
@@ -61,8 +55,14 @@
             "title": "One-On-One With Labor Secretary On Shipping Backlog And Jobs",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "rGJl9rB-1eY",
+            "title": "Watch Inmate Peel Away Prison Disguise Made To Look Like Daughter | NBC News",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

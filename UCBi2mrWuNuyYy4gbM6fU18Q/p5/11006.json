@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tD5wxx_kmso",
-            "title": "Chuck E Cheese: Why Do Some Family Parties Turn Violent?",
-            "secondDuration": 400,
-            "group": "group_7"
-        },
-        {
             "videoId": "iDQkGlVkJSY",
             "title": "High winds cause destruction in Kansas",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Massive Blizzard Shuts Down Northeast",
             "secondDuration": 415,
             "group": "group_7"
+        },
+        {
+            "videoId": "72UC3ubJICw",
+            "title": "Top Secret Military Blimp Breaks Free",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

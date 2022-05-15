@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NnLoNyYG4gU",
-            "title": "Government shutdown begins",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "59_wdXFDozM",
             "title": "New study shows mosquitoes are learning how to avoid pesticides used to kill them",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton on the Iran Deal",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "GdceZ0-Uqd4",
+            "title": "130315_2020_bridges_1054",
+            "secondDuration": 302,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j2uXPe9SRQE",
-            "title": "Watch live: Mexican foreign minister speaks from El Paso",
-            "secondDuration": 756,
-            "group": "group_7"
-        },
-        {
             "videoId": "PTV5AC3mC7s",
             "title": "Whitehouse Slams GOP, Says 'The Present Court Is The Court That Dark Money Built'",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Inspiring Kids: Guide Dog Helps One Teenage Girl Fulfill Her Dream | Nightly News: Kids Edition",
             "secondDuration": 560,
             "group": "group_7"
+        },
+        {
+            "videoId": "HMBHuU8SInU",
+            "title": "Trump Falsely Claims Fraud In Vote Counting | NBC Nightly News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

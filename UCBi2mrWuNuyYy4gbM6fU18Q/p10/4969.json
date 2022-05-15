@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VgQFdKeFSDE",
-            "title": "Weather emergencies are in effect as a powerful Nor'easter stalls over the East region | ABC News",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "UAItoLvGim0",
             "title": "EU could start welcoming vaccinated tourists, but hurdles remain",
             "secondDuration": 182,
@@ -61,8 +55,14 @@
             "title": "Movie Buffs Still Feeling the Need for Speed 30 Years Later",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "pKPQp6hMUZA",
+            "title": "Victims Succumb to Automaker Bankruptcies",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

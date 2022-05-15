@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7NTr4jy3dIo",
-            "title": "White House Holds Press Briefing: August 26 | NBC News",
-            "secondDuration": 2303,
-            "group": "group_7"
-        },
-        {
             "videoId": "q9XfEvCNyIg",
             "title": "Taliban Flaunt Military Gains In Afghanistan",
             "secondDuration": 218,
@@ -61,8 +55,14 @@
             "title": "Artist Highlights Undocumented Essential Workers Taken By The Pandemic | NBC News NOW",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "afmDPkj6-f0",
+            "title": "Vintage Appeal: Etsy's $3 Billion Open | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

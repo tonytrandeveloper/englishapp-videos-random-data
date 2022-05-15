@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q2tMkBHcJqw",
-            "title": "Russia vs. Ukraine",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "ECRz4LUAe-E",
             "title": "Vermont Sen. Bernie Sanders suspends presidential bid",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "Outside the Courtroom... Inside Judge Judy's Fridge",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "6GvWUoH_3IY",
+            "title": "WEBCAST: California Limo Catches on Fire",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

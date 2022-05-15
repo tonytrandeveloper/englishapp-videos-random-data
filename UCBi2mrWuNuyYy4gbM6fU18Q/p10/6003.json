@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8bU31q4J7Tk",
-            "title": "Trump speaks following Mueller’s testimony | ABC News",
-            "secondDuration": 955,
-            "group": "group_7"
-        },
-        {
             "videoId": "egE-ayAS5bw",
             "title": "Thousands without power after outage in Puerto Rico",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "Angry Customer iPhone Smasing Spree in Apple Store",
             "secondDuration": 28,
             "group": "group_7"
+        },
+        {
+            "videoId": "0JSAo9uk11k",
+            "title": "4 dead in helicopter crash at US Navy facility in Hawaii l WNT",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

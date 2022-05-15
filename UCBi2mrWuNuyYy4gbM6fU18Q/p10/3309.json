@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KqDhM2nfC4o",
-            "title": "Remembering Princess Charlotte's Grandmother Diana",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "s_Yi--8Ehl4",
             "title": "ABC News Prime: Officers shove 75 year-old man in Buffalo; Interview with Rep. Maxine Waters",
             "secondDuration": 3543,
@@ -61,8 +55,14 @@
             "title": "Ballot Watch: Ballot drop box use grows in 2020 race",
             "secondDuration": 413,
             "group": "group_7"
+        },
+        {
+            "videoId": "QPnWCfqlRNw",
+            "title": "'Queer Eye' star shares stories of love and loss | Nightline",
+            "secondDuration": 357,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

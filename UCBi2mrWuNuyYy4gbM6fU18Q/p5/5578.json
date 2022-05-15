@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3NEt8S86RMA",
-            "title": "Connecticut Shooting: A History of Sandy Hook Elementary - ABC News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "5scoLQxn7RE",
             "title": "Global vaccine supply not impacted by booster distribution: Pfizer CEO | ABC News",
             "secondDuration": 436,
@@ -31,8 +25,14 @@
             "title": "Iraqi Forces Assault Mosul District",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "sBxNVgRE4-Y",
+            "title": "House Speaker Pelosi holds weekly news briefing",
+            "secondDuration": 1108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

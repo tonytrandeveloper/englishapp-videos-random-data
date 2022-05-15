@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mPuSFmRAL9I",
-            "title": "'This Week' Remembers George McGovern: Former Senator Passes Away at Age 90",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "YtCWOkadGTY",
             "title": "NYC Police Officer's Chivalrous Act Towards Homeless Man",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "UCLA gymnast's entertaining floor routine",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "z8OWaPvnBRk",
+            "title": "White Out",
+            "secondDuration": 306,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

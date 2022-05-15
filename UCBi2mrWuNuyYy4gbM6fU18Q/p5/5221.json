@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dnviB3mWGos",
-            "title": "Trump: Election is 'Rigged'",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "QDIX6BNljWQ",
             "title": "US recognizes Indigenous Peoples' Day",
             "secondDuration": 342,
@@ -31,8 +25,14 @@
             "title": "ISIS Suicide Attack Thwarted in Germany",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "6GGYdWKk8Eg",
+            "title": "Plane Skids Off Runway During Landing at Buffalo Niagara Int'l Airport",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

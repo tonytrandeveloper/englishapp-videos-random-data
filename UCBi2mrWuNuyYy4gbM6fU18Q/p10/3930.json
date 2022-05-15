@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "khrHs98DBd0",
-            "title": "US reports highest single-day of COVID-19 deaths | UPDATE",
-            "secondDuration": 365,
-            "group": "group_7"
-        },
-        {
             "videoId": "SrbNS9_jjeU",
             "title": "FRIDAY FUNNIES",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Remembering Dick Clark",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "0ZKCC-vMNAw",
+            "title": "Desperation in Haiti as tropical storm disrupts earthquake rescue efforts | Nightline",
+            "secondDuration": 523,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

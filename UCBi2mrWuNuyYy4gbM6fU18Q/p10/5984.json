@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KLFhZyVUGBM",
-            "title": "Attacks against civilian areas in Kyiv escalate I ABCNL",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "s1tx6uesizY",
             "title": "Former Marine held in Russia on criminal charges",
             "secondDuration": 344,
@@ -61,8 +55,14 @@
             "title": "‘Jeopardy!’ champ logs 19th straight win",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "vnJCDXvj_2w",
+            "title": "Coyotes Coming Out of the Wild and Into Neighborhoods",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

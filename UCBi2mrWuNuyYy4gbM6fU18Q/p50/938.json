@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "yCy34HmIYkY",
-            "title": "Dominique Strauss-Kahn Case in Trouble, Will Rape Charges be Dropped?",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "KeXMXadUpGM",
             "title": "Apple Refuses FBI's Request to Hack San Bernardino Shooter's iPhone",
             "secondDuration": 113,
@@ -301,8 +295,14 @@
             "title": "Minnesota Mall Attacker Likely a 'Lone Attacker'",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "LKjKqYqiFII",
+            "title": "Trial for officer accused of killing George Floyd set to begin",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

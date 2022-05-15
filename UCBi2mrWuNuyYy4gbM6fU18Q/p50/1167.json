@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ELe51zHVcV8",
-            "title": "WEBCAST: First Family Holiday",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "eIrHT7X-dfU",
             "title": "Olympic Dream Realized: Ryan Murphy's Letter About Being an Olympic Gold Medal Winner",
             "secondDuration": 74,
@@ -301,8 +295,14 @@
             "title": "Chasing a Ghost: A son's search for his lost father through America East basketball | ABC News",
             "secondDuration": 1154,
             "group": "group_7"
+        },
+        {
+            "videoId": "rGWJhd_OC04",
+            "title": "Trump announces a new round of sanctions against North Korea",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

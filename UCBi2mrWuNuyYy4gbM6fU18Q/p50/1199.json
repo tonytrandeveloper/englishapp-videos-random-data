@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "dOZq2RriOQ0",
-            "title": "World News Now Says Farewell to Paula Faris",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZXJEOdHJyBI",
             "title": "NYC Ebola: Officials Try to Calm Public Fears After Ebola Diagnosis",
             "secondDuration": 284,
@@ -301,8 +295,14 @@
             "title": "Ferguson Reacts to Darren Wilson's Resignation",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "mlxe9B1tf_M",
+            "title": "Webcast: Most Amazing Stunt Ever",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

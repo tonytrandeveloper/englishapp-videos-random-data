@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q7CI4U3AhlE",
-            "title": "John Travolta Gives Scarlet Johansson Awkward OSCARS Kiss",
-            "secondDuration": 417,
-            "group": "group_7"
-        },
-        {
             "videoId": "X7KgLiaM-mc",
             "title": "How mental health issues contribute to rising crime",
             "secondDuration": 589,
@@ -31,8 +25,14 @@
             "title": "George Zimmerman Punched in Restaurant, Allegedly",
             "secondDuration": 47,
             "group": "group_7"
+        },
+        {
+            "videoId": "BLTsZ8ZN7Ms",
+            "title": "William Taylor delivers opening statement | ABC News",
+            "secondDuration": 2453,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

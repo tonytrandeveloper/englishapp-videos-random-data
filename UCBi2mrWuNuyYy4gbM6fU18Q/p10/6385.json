@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Al8Vz3NzCgU",
-            "title": "Streaking Meteor Sighted Along East Coast",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "QiDS5WRvzls",
             "title": "Cash for Clunkers Running on Empty",
             "secondDuration": 195,
@@ -61,8 +55,14 @@
             "title": "A Kardashian on 'Dancing With the Stars Season 13?'; NASCAR Affects Viewers' Actual Driving",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "l4LAzsu3agE",
+            "title": "Man dies trying to eat doughnut in shop's eating challenge",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

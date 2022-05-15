@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mBDKOU2jl1U",
-            "title": "New Orleans Braces for Isaac 7 Years After Katrina",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "NAD2fZ85StY",
             "title": "Top health official: It’s a ‘critical time. We’re close'",
             "secondDuration": 303,
@@ -31,8 +25,14 @@
             "title": "Toxic Florida Sinkhole Concerns Grow",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "04Q1J3E1bQE",
+            "title": "Trial Continues for the Father Whose Child Died in a Hot Car in Georgia",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

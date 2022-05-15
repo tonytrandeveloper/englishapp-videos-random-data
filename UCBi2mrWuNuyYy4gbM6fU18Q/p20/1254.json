@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3C5jY84j7BY",
-            "title": "Inside the battle for Mosul",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "4l4gCdhRXjY",
             "title": "The Debrief: Democratic debate preps, Gilroy shooting developments | ABC News",
             "secondDuration": 2322,
@@ -121,8 +115,14 @@
             "title": "US student's death after North Korea release raises questions",
             "secondDuration": 486,
             "group": "group_7"
+        },
+        {
+            "videoId": "3GZvt82OSlc",
+            "title": "Rain Drops Keep Falling on the Course",
+            "secondDuration": 204,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

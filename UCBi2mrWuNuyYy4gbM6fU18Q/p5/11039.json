@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zzGdDCom3pQ",
-            "title": "SpaceX Launch Successful, 1st Commercial Rocket Heads to International Space Station",
-            "secondDuration": 27,
-            "group": "group_7"
-        },
-        {
             "videoId": "1y7MXdfmN5w",
             "title": "Rep. Linda Sanchez on new immigration reform bill presented by Democrats",
             "secondDuration": 355,
@@ -31,8 +25,14 @@
             "title": "Senate Majority Whip John Cornyn 'confident' tax bill will pass this week",
             "secondDuration": 591,
             "group": "group_7"
+        },
+        {
+            "videoId": "TcrwNbyHmyg",
+            "title": "ABC News Prime: Taliban takeover continues; Jamie Spears steps down from conservatorship",
+            "secondDuration": 5448,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

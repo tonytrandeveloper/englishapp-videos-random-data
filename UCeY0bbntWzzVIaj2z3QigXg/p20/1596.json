@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "i43nGCJBK6s",
-            "title": "Bernie Sanders, Mike Bloomberg Spar Over Who Has A Better Chance To Beat Trump | NBC News",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "Im2nMkaPfG0",
             "title": "11-Year-Olds Compose Music For The New York Philharmonic | NBC Nightly News",
             "secondDuration": 114,
@@ -121,8 +115,14 @@
             "title": "Senate Republicans Still Working To Jam Through A Health Care Bill | NBC Nightly News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "7ZuucJIpaSs",
+            "title": "Winner Of $768 Million Powerball Jackpot Comes Forward | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

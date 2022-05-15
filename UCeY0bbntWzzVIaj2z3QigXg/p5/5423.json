@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X8AJpqp6kks",
-            "title": "Alex Jones Confronts Senator Marco Rubio At Senate Hearing | NBC News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "x7P5w_h9U1o",
             "title": "NBC News Signal - January 3rd, 2019 | NBC News Signal",
             "secondDuration": 1630,
@@ -31,8 +25,14 @@
             "title": "Asylum Seekers Face Standoff At Border Between Ciudad Juarez And El Paso: 'At Capacity' | NBC News",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "RyfRVwXJu9Y",
+            "title": "Police Encountered YouTube Shooter Asleep In Her Car Hours Before Attack | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

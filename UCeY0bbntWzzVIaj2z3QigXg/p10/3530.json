@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zC1e9Zrb7cI",
-            "title": "How The AIDS Crisis Changed The LGBT Movement | NBC News Now",
-            "secondDuration": 552,
-            "group": "group_7"
-        },
-        {
             "videoId": "avOpSbVL-uM",
             "title": "President Donald Trump Talks Defense Spending Increases In New Budget | NBC News",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Growing Up Transgender: Malisa's Story | NBC Nightly News",
             "secondDuration": 278,
             "group": "group_7"
+        },
+        {
+            "videoId": "wFve9vdP0IQ",
+            "title": "American Group Helps Guide Ukrainian Orphans To Safety",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

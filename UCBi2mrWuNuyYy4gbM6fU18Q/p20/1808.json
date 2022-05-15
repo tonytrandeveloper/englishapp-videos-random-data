@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4XrhLtF0204",
-            "title": "Trump meets D-Day vets on last day of UK visit",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "aNMf7m4zWSU",
             "title": "Reaction grows to Trump comments on Mueller, finances",
             "secondDuration": 312,
@@ -121,8 +115,14 @@
             "title": "White House Tries to Distance Itself Over Steve Bannon's Past Comments",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "5G0ZpbO1gm4",
+            "title": "Terrorist Plot",
+            "secondDuration": 489,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

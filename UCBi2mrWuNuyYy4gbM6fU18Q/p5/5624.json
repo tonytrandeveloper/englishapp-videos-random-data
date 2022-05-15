@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kiAtfMkMy1k",
-            "title": "The rush to get away",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "QCoNkZPZWJI",
             "title": "Military Officials Examine Embarrassing Mix-Up Involving Terror Raid in Yemen",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Waterpark co-owner pleads not guilty in boy's death",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "N06NVR9jj90",
+            "title": "ABC News Prime: Pandemic ravages rural America; CDC travel warning; Future of movies",
+            "secondDuration": 3611,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

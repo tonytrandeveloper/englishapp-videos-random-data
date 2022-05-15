@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "dtjX-VUrZnA",
-            "title": "'Carmageddon' Impedes Marriage Ceremony",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "PcgbbtStu_8",
             "title": "President Donald Trump delivers remarks at the Latino Coalition Legislative Summit | ABC News",
             "secondDuration": 1215,
@@ -301,8 +295,14 @@
             "title": "Speculation surrounds Matthew McConaughey possibly running for Texas governor",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "WsdrbWGQbAw",
+            "title": "Jobs Report: Is Anyone Hiring?",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

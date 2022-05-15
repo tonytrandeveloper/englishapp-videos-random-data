@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ELiVQlgJBnw",
-            "title": "The Conversation: Lady Gaga and Cyndi Lauper",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "UFm5TMF4dHQ",
             "title": "Trump Blasts Romney, Bush; Says GOP Has 'Nobody Like Trump'",
             "secondDuration": 195,
@@ -61,8 +55,14 @@
             "title": "Al Ferri Celebrates 50 Years at ABC News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "K_OQFah6Gog",
+            "title": "Scott Walker Survives Wisconsin Recall Election",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

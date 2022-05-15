@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ivb579uIIDI",
-            "title": "Severe winter weather",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ek_L12mU-Vo",
             "title": "Joe Biden discusses President Donald Trump's foreign policy l ABC News Town Hall",
             "secondDuration": 228,
@@ -61,8 +55,14 @@
             "title": "Tropical Storm Florence continues to flood roads and neighborhoods",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "jnADDjf1zlQ",
+            "title": "Freddie Gray's Family Calls for End to Baltimore Chaos",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

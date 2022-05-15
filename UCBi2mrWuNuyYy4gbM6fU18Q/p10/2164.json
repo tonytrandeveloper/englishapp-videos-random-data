@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DiVkx9WXsic",
-            "title": "Amazon Under Fire For Alleged Difficult Working Environment",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "1NqoVZ-iOSI",
             "title": "Kellyanne Conway responds to Trump's video",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "Chicago Killings on the Decline",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "o7D4RCSpo3w",
+            "title": "Fried Kool-Aid Recipe Takes Over Web",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

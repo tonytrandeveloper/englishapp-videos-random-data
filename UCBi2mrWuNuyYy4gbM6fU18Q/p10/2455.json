@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wR5YECD9pyk",
-            "title": "New vaccine recommendations for adults over 65 or with pre-existing conditions | WNT",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "wfBXlM7_fbg",
             "title": "Laura expected to make landfall as a Category 4 hurricane",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Bernie Sanders: Don't Play Games with Debt Limit",
             "secondDuration": 384,
             "group": "group_7"
+        },
+        {
+            "videoId": "hemOsZKqBsY",
+            "title": "Trump speaks at medical supplies distributor in Pennsylvania",
+            "secondDuration": 608,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

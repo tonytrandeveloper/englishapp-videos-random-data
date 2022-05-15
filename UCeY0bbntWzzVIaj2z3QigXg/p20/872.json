@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AjHQ5TgyPuc",
-            "title": "Simone Biles Speaks Out On Championing Mental Health",
-            "secondDuration": 629,
-            "group": "group_7"
-        },
-        {
             "videoId": "A-UMRU1rkC8",
             "title": "Investigation Launched After Georgia Primary Plagued By Voting Machine Errors | NBC Nightly News",
             "secondDuration": 95,
@@ -121,8 +115,14 @@
             "title": "Huntsman: ‘You Don’t Know What’s Going To Come Out Of’ Russia Meeting | Meet The Press | NBC News",
             "secondDuration": 522,
             "group": "group_7"
+        },
+        {
+            "videoId": "9FXE6kkUQTw",
+            "title": "The Fight For Kurdish Independence: ‘We Need A Country’ | Think | NBC News",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

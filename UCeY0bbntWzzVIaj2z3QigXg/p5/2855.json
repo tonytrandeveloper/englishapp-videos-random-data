@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7exGY_PhiU4",
-            "title": "No Doubt: Episode 4 | Conviction | Dateline NBC",
-            "secondDuration": 523,
-            "group": "group_7"
-        },
-        {
             "videoId": "bbMmW_Fqm6c",
             "title": "Klobuchar On Whistleblower Complaint: That Document Is A 'Smoking Gun' | NBC News",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "John Kasich: 'I'm Not For A Divider' (Full) | Meet The Press | NBC News",
             "secondDuration": 657,
             "group": "group_7"
+        },
+        {
+            "videoId": "gGR6RlHVRIE",
+            "title": "Gas Prices Hit Three Year High Nationwide | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

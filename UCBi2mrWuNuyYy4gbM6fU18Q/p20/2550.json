@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "s74rVehsO1c",
-            "title": "Residents trapped as Hurricane Florence roars ashore",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "NIxva6putvM",
             "title": "Shanghai Disney: Ride the Tron Lightcycle Power Run",
             "secondDuration": 95,
@@ -121,8 +115,14 @@
             "title": "Europe's highest volcano becomes active",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "5k4aP_ebigQ",
+            "title": "Cenk Uygur: 'Recount Will Show the Same Thing'",
+            "secondDuration": 496,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cCks5mtjHp0",
-            "title": "Texas Tornado Video 2013: At Least 6 Dead After Devastating Twisters Strike",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "X-T4ZNhFGsI",
             "title": "GOP Pollster: Dems Are 'Trying to Find Something That Sticks'",
             "secondDuration": 469,
@@ -31,8 +25,14 @@
             "title": "Major police emergency at the London Bridge",
             "secondDuration": 302,
             "group": "group_7"
+        },
+        {
+            "videoId": "I9CwPzHTfXQ",
+            "title": "EgyptAir Mystery: No Claims of Responsibility",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

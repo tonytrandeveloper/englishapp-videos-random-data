@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XmaapLefIZI",
-            "title": "NBC News Wins Four Edward R. Murrow Awards",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "VimiCkytU-o",
             "title": "Will Mitt Romney’s Potential Senate Run Reignite Donald Trump Feud? | NBC News",
             "secondDuration": 107,
@@ -121,8 +115,14 @@
             "title": "Jury Selection Underway In Rittenhouse Trial",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qu9YrSgaIS8",
+            "title": "O’Rourke Talks Health Care And Climate Change At Campaign Kick-Off | NBC News",
+            "secondDuration": 209,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

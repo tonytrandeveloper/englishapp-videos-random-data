@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "52-0JQcixp4",
-            "title": "Check the Carfax",
-            "secondDuration": 449,
-            "group": "group_7"
-        },
-        {
             "videoId": "gLorpoB3apA",
             "title": "LAPD: Tiger Woods’ car crash caused by high speed, hit tree",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "NY attorney general files lawsuit against National Rifle Association",
             "secondDuration": 881,
             "group": "group_7"
+        },
+        {
+            "videoId": "9QZoIBTanUg",
+            "title": "Outrage after National Guard troops unexpectedly forced out of the Capitol | WNT",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

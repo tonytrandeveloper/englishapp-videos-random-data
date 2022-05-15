@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KBaE0mIJsLc",
-            "title": "The fallout from Jim Mattis' resignation",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "_MGSjdU9x98",
             "title": "ABC News Live Update: Press Secretary Kayleigh McEnany tests positive for COVID-19",
             "secondDuration": 434,
@@ -31,8 +25,14 @@
             "title": "Concerns raised at the Pentagon after workout app's data published online",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "-X18e5BmhgE",
+            "title": "Omicron variant driving a national surge in COVID-19",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

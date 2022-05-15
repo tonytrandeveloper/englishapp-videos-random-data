@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ShMt_jiwo0w",
-            "title": "Fauci on low child vaccine rates: ‘We've got to do better than that’",
-            "secondDuration": 652,
-            "group": "group_7"
-        },
-        {
             "videoId": "FT-z5o4L2rw",
             "title": "Pence defends use of private email account as governor",
             "secondDuration": 64,
@@ -31,8 +25,14 @@
             "title": "Catching illegal loggers deep in the Amazon with ‘Guardians of the Forest’ | Nightline",
             "secondDuration": 608,
             "group": "group_7"
+        },
+        {
+            "videoId": "QiRbI_IoNVs",
+            "title": "New Trump recording revealed",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

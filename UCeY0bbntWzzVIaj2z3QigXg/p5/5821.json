@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OJjLAaawkkE",
-            "title": "RAW: Malaysian Jet Wreckage In Ukraine | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "DwElpeJGA8Q",
             "title": "President Donald Trump Hits At James Comey In Sunday Tweets | NBC Nightly News",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Zelenskyy Receives Standing Ovation After Address To U.K. Parliament",
             "secondDuration": 310,
             "group": "group_7"
+        },
+        {
+            "videoId": "ti-6ay3x0wM",
+            "title": "Russia TV Report Shows 'Luhansk People's Republic Troops Advance'",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

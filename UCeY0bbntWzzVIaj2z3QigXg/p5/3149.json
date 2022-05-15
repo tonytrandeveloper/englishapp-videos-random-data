@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bLFc65WeZXI",
-            "title": "Morning News NOW Full Broadcast - Oct. 8th",
-            "secondDuration": 3011,
-            "group": "group_7"
-        },
-        {
             "videoId": "JAE0eS8n3Ik",
             "title": "Breonna Taylor’s Family Calls For Release Of Grand Jury Documents | NBC News NOW",
             "secondDuration": 255,
@@ -31,8 +25,14 @@
             "title": "Census Worker Worries U.S. At Risk For ‘Massive Undercount’ | NBC News NOW",
             "secondDuration": 438,
             "group": "group_7"
+        },
+        {
+            "videoId": "vUllRCq9W5M",
+            "title": "9/11 Firefighter's Daughter Joins FDNY | NBC News",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

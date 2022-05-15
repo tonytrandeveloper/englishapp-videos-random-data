@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4Biw19-lo74",
-            "title": "Extreme weather on both U.S. coasts l On Location",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wbylb3rrmxI",
             "title": "FDA panel votes to recommend Moderna booster shot | WNT",
             "secondDuration": 277,
@@ -61,8 +55,14 @@
             "title": "The Long Debate Over Arizona's Immigration Law",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "okYrUwdNpos",
+            "title": "President Obama Confidant 'Assad's Days are Numbered'",
+            "secondDuration": 459,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

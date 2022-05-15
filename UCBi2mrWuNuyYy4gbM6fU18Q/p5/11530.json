@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "A_l2ZrKh6G0",
-            "title": "Sequestration Deadline: How Budget Cuts Cost You",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "0SweS4JJ2_I",
             "title": "Off-Duty Cop Kills Black Man Joshua Beal in Chicago",
             "secondDuration": 36,
@@ -31,8 +25,14 @@
             "title": "Town Hall Debate: Setting Up the Debate",
             "secondDuration": 385,
             "group": "group_7"
+        },
+        {
+            "videoId": "J54jyx37dSc",
+            "title": "Breonna Taylor grand jury tapes released",
+            "secondDuration": 350,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

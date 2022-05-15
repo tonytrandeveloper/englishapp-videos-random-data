@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZUJwB1RiI4w",
-            "title": "Pierce Brosnan on Being Booted from Bond",
-            "secondDuration": 425,
-            "group": "group_7"
-        },
-        {
             "videoId": "IqTq7jtPXvU",
             "title": "Top US Navy admiral found dead at Middle East home",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "Senate votes to confirm Judge Jackson to Supreme Court",
             "secondDuration": 676,
             "group": "group_7"
+        },
+        {
+            "videoId": "zrAgQN6Trz4",
+            "title": "Papal Conclave: Father John Wauck Gives a Must-Watch List",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

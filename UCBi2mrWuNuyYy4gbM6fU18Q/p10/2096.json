@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8DdN8NS840k",
-            "title": "Destruction of a Hospital In Afghanistan Leaves 22 Dead",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "TOYdGPvsjb8",
             "title": "Sarah Paulson Talks 'American Crime Story'",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Sarah Jessica Parker in \"I Don't Know How She Does It\" Reflects on Carrie Bradshaw, Motherhood",
             "secondDuration": 360,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZkIraF8x5P8",
+            "title": "The Debrief: West Coast weather, Kushner's security clearance, Amazon HQ2, Bryce Harper's contract",
+            "secondDuration": 1378,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

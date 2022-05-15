@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AwSB52yJrO8",
-            "title": "Discovering You: Zaida Hernandez-Irisson | NBC Learn",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "25vsRFNzEW8",
             "title": "Parents Of ISIS Hostage Kayla Mueller Share Her Story At 2020 RNC | NBC News",
             "secondDuration": 369,
@@ -31,8 +25,14 @@
             "title": "GOP Senator Tom Cotton Confronted At Town Hall About President Trump's Election | NBC News",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "j7_CkQ4SBps",
+            "title": "What Life’s Like 19 Years After A School Shooting | NBC News",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

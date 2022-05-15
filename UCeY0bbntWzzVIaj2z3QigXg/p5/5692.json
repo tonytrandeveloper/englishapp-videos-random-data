@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rF3CLelB0M4",
-            "title": "Barr Suggests Mueller Report May Not Be Made Public | NBC News",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "_a6PtD0zjLY",
             "title": "Chuck Todd: ‘There Is A Bug’ In Our Electoral College System | NBC News",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - September 13",
             "secondDuration": 2631,
             "group": "group_7"
+        },
+        {
+            "videoId": "R39Vpuz6jQU",
+            "title": "Florida Man Charged With Killing Wife At Community Pool",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

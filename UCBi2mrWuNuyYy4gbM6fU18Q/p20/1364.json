@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "b7DSaZJHVaY",
-            "title": "Exclusive Interview: Melania Trump to speak out to ABC News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "4dJNtyDziYg",
             "title": "House Speaker Nancy Pelosi calls chamber back from recess",
             "secondDuration": 161,
@@ -121,8 +115,14 @@
             "title": "Trump: US Robbed By 'Elite' He 'Used to Be' Part Of",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "YItOtHrYA-U",
+            "title": "Trump Reacts to Meryl Streep's Golden Globes Speech",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

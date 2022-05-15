@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nQulYCo3iTo",
-            "title": "Texas School Shooting suspect in custody, second person detained, questioned | Special Report",
-            "secondDuration": 580,
-            "group": "group_7"
-        },
-        {
             "videoId": "nZFiLYN9k_4",
             "title": "Ukrainians flee west as Russian forces invade",
             "secondDuration": 419,
@@ -121,8 +115,14 @@
             "title": "Donald Trump, Ted Cruz Bring Wives Into the Presidential Fight",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "UXmGtSyc704",
+            "title": "Father of shooting victim reacts to Parkland shooter guilty plea",
+            "secondDuration": 642,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

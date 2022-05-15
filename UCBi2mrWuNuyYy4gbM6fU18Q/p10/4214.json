@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gJxH06MwhfI",
-            "title": "Military Base Toxic Water Investigation",
-            "secondDuration": 449,
-            "group": "group_7"
-        },
-        {
             "videoId": "-jFalC8gCU0",
             "title": "President Obama's 2nd Inauguration Countdown",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "Two White House Replicas Go on Sale | ABC News",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "WkLuPUN3YFY",
+            "title": "Family of American killed in Spain terror attack speaks out",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gawu24t2Lco",
-            "title": "Uber Says It’s Relaunching Self-Driving Cars With Major Safety Upgrades | NBC Nightly News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "NAkazdbDsGM",
             "title": "Biden Speaks Directly To Russian People: 'You Are Not Our Enemy'",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Voters In Key Nevada County Speak Out",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "uv4xCnUWO2M",
+            "title": "Pope Francis Uses The Word ‘Rohingya’ While Meeting Refugees | NBC News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

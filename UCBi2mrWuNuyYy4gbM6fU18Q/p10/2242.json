@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pkNCYtA7imk",
-            "title": "Health officials warn this is the worst year for ticks",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "AtqPuyW6C-E",
             "title": "Americans speak out about Trump's first 100 days in office",
             "secondDuration": 325,
@@ -61,8 +55,14 @@
             "title": "Diana Nyad's Daring Ocean Swim",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "-o9WrWBtlf8",
+            "title": "Sen. Chuck Grassley Discusses Controversial EB-5 Program",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

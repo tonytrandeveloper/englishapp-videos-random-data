@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i3rrc3gkzGM",
-            "title": "Brenda Martin: \"For student success, it takes...\"",
-            "secondDuration": 22,
-            "group": "group_7"
-        },
-        {
             "videoId": "nkYb1cxlVTY",
             "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3730,
@@ -31,8 +25,14 @@
             "title": "Fauci Disputes Trump’s Claim That U.S. Is ‘Rounding The Corner’ | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "CzrGamjgoaE",
+            "title": "In Memoriam: The Sutherland Springs Shooting Victims | NBC News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "p7nunB8AK6U",
-            "title": "Liev Schreiber on 'Popcorn With Peter Travers'",
-            "secondDuration": 1353,
-            "group": "group_7"
-        },
-        {
             "videoId": "leCqKhnnmcQ",
             "title": "Texas residents rescued as Harvey dumps more rain | ABC News",
             "secondDuration": 171,
@@ -121,8 +115,14 @@
             "title": "Simone Biles helps open the door to a new culture in sports",
             "secondDuration": 541,
             "group": "group_7"
+        },
+        {
+            "videoId": "k_kg73Wkin8",
+            "title": "White House task force issues new guidelines to stop virus spread",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

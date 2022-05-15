@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i8FYX4Bs4Os",
-            "title": "Trump Campaigns With Potential Running Mate, Gov. Mike Pence",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "KhiWhyWyGiE",
             "title": "DIY Brain-Shock Devices Jump Start Users' Day",
             "secondDuration": 447,
@@ -31,8 +25,14 @@
             "title": "Food banks see record turnout on Thanksgiving amid growing food insecurity",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "39ANV78erOc",
+            "title": "Emergency room doctor on reopening and the new CDC guidelines for vaccinated people",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

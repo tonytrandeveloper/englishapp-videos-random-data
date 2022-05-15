@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "knmTAqJ-0w8",
-            "title": "Behind Trump's Plan to Move the US Embassy to Jerusalem",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "NwONY_1M6Fk",
             "title": "Trump doesn't want to listen to recording of Khashoggi's murder",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Democratic Presidential Candidates Remark on Calls for Muslim Ban",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "GuHduuMVMlQ",
+            "title": "Inside the break-up boot camp retreat designed to heal broken hearts",
+            "secondDuration": 465,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

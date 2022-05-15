@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "84nSXGVUYsU",
-            "title": "Breaking down COVID rules at the 2022 Beijing Winter Olympics I ABC News",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "DU3xokQcuvo",
             "title": "Elon Musk Invests Money to Speed Up Highway Construction",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Ex-Penn State Coach in Abuse Scandal",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "7ezmjZevXnk",
+            "title": "'Back to the Beginning' Christiane Amanpour Part 5: Moses on Mount Sinai: The Ten Commandments",
+            "secondDuration": 516,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

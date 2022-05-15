@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-MHyGYrJsVE",
-            "title": "War in Ukraine: March 18, 2022",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "wYBehDBuF0o",
             "title": "Amazon: New headquarters to bring 25k jobs to each location",
             "secondDuration": 79,
@@ -121,8 +115,14 @@
             "title": "Boy found alive after falling through drainage pipe",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "NYie5TCu1eE",
+            "title": "By the Numbers: One-third of waking hours spent on mobile devices",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

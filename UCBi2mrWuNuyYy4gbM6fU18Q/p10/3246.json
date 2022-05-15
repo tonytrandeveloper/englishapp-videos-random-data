@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "We4RK6-rDdM",
-            "title": "WEBCAST:Economic Boost",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "lEJA9Ecfeq8",
             "title": "Family of man convicted of killing Queens jogger insists he's been framed",
             "secondDuration": 505,
@@ -61,8 +55,14 @@
             "title": "Donald Trump's Straight Talk About His 2016 Presidential Bid | ABC News Exclusive | ABC News",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "YDom6wNYb9w",
+            "title": "Trump says he doesn't particularly believe in UFOs",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

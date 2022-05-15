@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "scFntygqgQA",
-            "title": "Trebek’s Diagnosis Highlights Struggle Of Catching And Treating Pancreatic Cancer | NBC Nightly News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "3W6csHgSF5I",
             "title": "Watch Amy Coney Barrett's Full Opening Remarks At Her Confirmation Hearing | NBC News",
             "secondDuration": 739,
@@ -61,8 +55,14 @@
             "title": "White House: President Trump Used ‘Wiretap’ To Mean ‘Surveillance Overall’ | NBC News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "yd-q8m8eI8U",
+            "title": "Belarusian Athlete Makes Dash For Freedom In Tokyo Airport",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

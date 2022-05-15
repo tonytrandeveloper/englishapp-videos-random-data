@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-8BSz1khOx8",
-            "title": "World awaits name of Britain's new royal baby",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "2XF7giitj4A",
             "title": "Kanye West Season 4 Fashion Show",
             "secondDuration": 322,
@@ -61,8 +55,14 @@
             "title": "Late-Night Comedians Slam Government Shutdown",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "U2zjsh5noOw",
+            "title": "First GOP Debate: Donald Trump, and Other Memorable Moments",
+            "secondDuration": 444,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

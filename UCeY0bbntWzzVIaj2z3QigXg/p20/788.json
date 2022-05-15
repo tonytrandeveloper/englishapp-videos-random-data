@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bLFc65WeZXI",
-            "title": "Morning News NOW Full Broadcast - Oct. 8th",
-            "secondDuration": 3011,
-            "group": "group_7"
-        },
-        {
             "videoId": "JAE0eS8n3Ik",
             "title": "Breonna Taylor’s Family Calls For Release Of Grand Jury Documents | NBC News NOW",
             "secondDuration": 255,
@@ -121,8 +115,14 @@
             "title": "Watch Total Solar Eclipse Over South America In 1 Minute | Mach | NBC News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "2ddyXRJ_N6I",
+            "title": "Dow Falls Nearly 800 Points Amid China Trade Uncertainty | NBC Nightly News",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

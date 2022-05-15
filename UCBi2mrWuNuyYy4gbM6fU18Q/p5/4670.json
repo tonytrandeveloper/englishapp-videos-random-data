@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V0G_1GN0ruQ",
-            "title": "Rep. Berkley: Americans 'Disenchanted' With Afghan War",
-            "secondDuration": 768,
-            "group": "group_7"
-        },
-        {
             "videoId": "L-EKEye86mI",
             "title": "Biden to nominate Judge Ketanji Brown Jackson to the Supreme Court",
             "secondDuration": 204,
@@ -31,8 +25,14 @@
             "title": "Treating addiction by understanding your mind",
             "secondDuration": 800,
             "group": "group_7"
+        },
+        {
+            "videoId": "mZWOwBWj58o",
+            "title": "'The Iron Nun'",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

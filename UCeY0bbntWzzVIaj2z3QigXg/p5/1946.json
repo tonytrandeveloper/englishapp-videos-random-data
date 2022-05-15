@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8tONvzvggd8",
-            "title": "Nightly News Full Broadcast - October 7th",
-            "secondDuration": 1283,
-            "group": "group_7"
-        },
-        {
             "videoId": "8b7KMwnfgaU",
             "title": "Full Dick Durbin Interview: 'We Hear The Silence Of The Lambs' From GOP | Meet The Press | NBC News",
             "secondDuration": 441,
@@ -31,8 +25,14 @@
             "title": "Takata Was Manipulating Data to Hide Airbag Problems, Lawmakers Say | NBC Nightly News",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "3e6DAig06fo",
+            "title": "Rep. Dan Crenshaw On How GOP Can’t 'Ex-Communicate’ Trump",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

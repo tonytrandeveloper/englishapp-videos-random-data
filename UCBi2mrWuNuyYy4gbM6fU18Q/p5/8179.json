@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2DAiPFmWU4w",
-            "title": "Standoff Ends in Oklahoma",
-            "secondDuration": 28,
-            "group": "group_7"
-        },
-        {
             "videoId": "0o4kBx1p9mU",
             "title": "The Conversation: What Did You Think of 'Avatar'?",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Jake Tapper on Obama's Education Speech",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "gUEdSR7AR44",
+            "title": "North Korea Claims It Detonated a Hydrogen Bomb",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

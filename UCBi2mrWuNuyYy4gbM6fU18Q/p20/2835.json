@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PY0B6nI4nu4",
-            "title": "Unrest Plagues Iran After Election",
-            "secondDuration": 459,
-            "group": "group_7"
-        },
-        {
             "videoId": "iU_eNYooGIM",
             "title": "Baltimore Curfew Continues Amid Protests",
             "secondDuration": 105,
@@ -121,8 +115,14 @@
             "title": "NBA coach accused of sexual assault",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "hOF_YJrz0jM",
+            "title": "Famed Editor's Revealing New Video",
+            "secondDuration": 319,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

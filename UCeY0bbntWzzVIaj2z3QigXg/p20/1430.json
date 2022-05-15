@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4vCk_YsAzc4",
-            "title": "Academy Changing Rules to Make Oscars 'Significantly More Diverse' | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "mxGAyutKGB8",
             "title": "NFL Commissioner Roger Goodell: We Believe Everyone Should Stand During Anthem | NBC News",
             "secondDuration": 141,
@@ -121,8 +115,14 @@
             "title": "Medical Workers Frustrated With Public’s Lack Of Face Mask Use, Social Distancing | NBC News NOW",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "4NecKhUOUAo",
+            "title": "Chicken Plant Closed For Cleaning After 8 COVID Deaths, Hundreds Of New Cases | NBC News NOW",
+            "secondDuration": 328,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Nosl-CiDqGo",
-            "title": "WEBCAST: British Royals Wrap Up NYC Visit",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "9C_OHU6zgAY",
             "title": "Authorities seek public’s help as mom of missing Idaho kids faces judge l ABC News",
             "secondDuration": 105,
@@ -121,8 +115,14 @@
             "title": "President Trump hosts German Chancellor Angela Merkel",
             "secondDuration": 265,
             "group": "group_7"
+        },
+        {
+            "videoId": "_O6rpyeVwjg",
+            "title": "New warning on gift card scams amid holiday rush",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

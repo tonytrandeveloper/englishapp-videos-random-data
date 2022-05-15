@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uI8kB3XGjbk",
-            "title": "Boston Bomber Breaks His Silence and Apologizes",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "87-0SLza8Ts",
             "title": "Woman Likely Killed in Shark Attack Off Maui",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "The war's impact on the children of Ukraine | ABCNL",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "ADhdEeSwMGg",
+            "title": "Sequester Deadline - Republicans Want Focus on Spending Cut Debate: 'This Week' Roundtable",
+            "secondDuration": 1249,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

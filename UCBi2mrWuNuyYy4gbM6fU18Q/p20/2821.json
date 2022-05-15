@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "k_qFYJKxSJU",
-            "title": "GOP Roll Call: Mitt Romney Wins Nomination",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "a6_8afcwmlY",
             "title": "Donald Trump Jr. talks anonymous op-ed, Russia investigation and midterms",
             "secondDuration": 336,
@@ -121,8 +115,14 @@
             "title": "Protests Spread Over Lack of Indictment in Eric Garner Death",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "p53b0OaMBOQ",
+            "title": "Easter Celebration:  The people's Pope Signals to the Crowd",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

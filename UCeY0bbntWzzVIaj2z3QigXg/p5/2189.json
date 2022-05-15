@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7pDP4zlEW24",
-            "title": "Senator Lindsey Graham Faces Angry Constituents About Neil Gorsuch, GOP Health Care Bill | NBC News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "WCTxQ4Z3D5M",
             "title": "Haunting Image Seen Worldwide Becomes Heart-Wrenching Symbol Of Border Crisis | NBC Nightly News",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "Ukrainian-Americans Protest The Russian Invasion Across The U.S",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "J5UZulKdr_8",
+            "title": "Georgia GOP Moves Toward Possible Takeover of Fulton County Elections",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

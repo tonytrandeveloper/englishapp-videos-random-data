@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jI7ACvHFk1I",
-            "title": "Deadly Midair Crash Raises Safety Questions",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "vmtsB8Cfbjc",
             "title": "Pelosi announces agreement on ‘framework’ for reconciliation package",
             "secondDuration": 261,
@@ -31,8 +25,14 @@
             "title": "US ambassador to EU to testify in impeachment inquiry l ABC News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "4SltC3aoE8Q",
+            "title": "Sessions' replacement a critic of Mueller investigation",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

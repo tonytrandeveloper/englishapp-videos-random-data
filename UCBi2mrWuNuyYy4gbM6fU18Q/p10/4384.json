@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LqVPDtiEbN4",
-            "title": "A teenager moves to the beat after lifesaving heart surgery",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "bMPDlKssP0o",
             "title": "The Art of Going Blonde",
             "secondDuration": 198,
@@ -61,8 +55,14 @@
             "title": "Saying Goodbye to Michael Jackson",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "6vEwFbR86hY",
+            "title": "Watch SpaceX Live: Second Launch America - Mission To Space from the Kennedy Space Center",
+            "secondDuration": 3597,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

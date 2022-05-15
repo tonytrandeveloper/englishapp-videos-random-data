@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OrLC4izPBIg",
-            "title": "Russia Launches New Attack On Capital City",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "MDBGPF46bXo",
             "title": "President Obama: U.S. Is Not ‘Cured’ Of Racism | NBC Nightly News",
             "secondDuration": 235,
@@ -31,8 +25,14 @@
             "title": "Tornado Devastates Arkansas City, Including Home Of Doctor Treating Patients | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hf_gicumWic",
+            "title": "Looking Back At The Most Memorable Moments Of The Republican National Convention | NBC News NOW",
+            "secondDuration": 305,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MfHfQLmRgEw",
-            "title": "Amazon Defeats Effort To Form Union In Alabama | NBC News NOW",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "z4DrlRzu4Tw",
             "title": "Boeing On 737 MAX Crashes: 'We Own It.... All Of Us At Boeing Are Deeply Sorry' | NBC News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Bernie Sanders: I Don't Take Money From Big Banks | Democratic Debate | NBC News-YouTube",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "lidEav7MXuw",
+            "title": "Pentagon Confirms Explosion Outside Kabul Airport",
+            "secondDuration": 371,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

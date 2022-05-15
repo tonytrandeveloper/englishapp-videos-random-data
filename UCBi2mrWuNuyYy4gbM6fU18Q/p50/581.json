@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "HJy1LaUAEVA",
-            "title": "Before the US Border, Migrants Face Harrowing Journey in Mexico",
-            "secondDuration": 483,
-            "group": "group_7"
-        },
-        {
             "videoId": "A6XodNxXHsE",
             "title": "Oklahoma Teen August Reiger Disappears Hiking in Ecuador, Was He Kidnapped?",
             "secondDuration": 109,
@@ -301,8 +295,14 @@
             "title": "Bill Nye the Science Guy Takes Final Dance on 'DWTS'",
             "secondDuration": 274,
             "group": "group_7"
+        },
+        {
+            "videoId": "kVg_8mwcDEo",
+            "title": "ABC News’ Powerhouse Politics roundtable breaks down 1st presidential debate",
+            "secondDuration": 545,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

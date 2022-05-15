@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7lABh7eWgN8",
-            "title": "LIVE: Biden Delivers Remarks on October Jobs Report | NBC News",
-            "secondDuration": 715,
-            "group": "group_7"
-        },
-        {
             "videoId": "kprhcFVm5bc",
             "title": "Louisiana Flooding Disaster Grows, Millions in Texas Under Flood Watch | NBC Nightly News",
             "secondDuration": 99,
@@ -121,8 +115,14 @@
             "title": "Amish Community Makes Face Masks For Ohio Clinic In Need | NBC News NOW",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZH4JTu9qhXM",
+            "title": "Judge Rules New York Lawsuit Seeking NRA's Dissolution Can Go Forward | NBC News NOW",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

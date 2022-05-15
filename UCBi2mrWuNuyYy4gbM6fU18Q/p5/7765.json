@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PuH8COugcmA",
-            "title": "Parkland school shooter suspect to plead guilty | WNT",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "vEbZZd55UK4",
             "title": "Gas Prices: Blumenauer Says No Change Soon",
             "secondDuration": 431,
@@ -31,8 +25,14 @@
             "title": "Sen. Tammy Baldwin speaks at 2020 DNC",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "8PBGgggomP0",
+            "title": "GM Says Goodbye to Saturn",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

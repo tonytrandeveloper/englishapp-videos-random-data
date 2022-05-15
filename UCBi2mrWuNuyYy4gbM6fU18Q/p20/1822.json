@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Y5eNMbkxEm4",
-            "title": "UN security council pressures Russia amid rising tensions in Ukraine",
-            "secondDuration": 462,
-            "group": "group_7"
-        },
-        {
             "videoId": "fEHT8gwgaJA",
             "title": "The legacy of Julia Child told in a mouth-watering documentary ‘Julia’ | Nightline",
             "secondDuration": 404,
@@ -121,8 +115,14 @@
             "title": "President Obama and Control of the Senate on the Line",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "KKcN74j3p90",
+            "title": "ABC News Exclusive:  Chris Christie Responds to the Bridge Scandal",
+            "secondDuration": 252,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

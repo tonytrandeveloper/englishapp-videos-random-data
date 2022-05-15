@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WSdjpkoKhfY",
-            "title": "Welcome, Archie Harrison Mountbatten-Windsor!",
-            "secondDuration": 396,
-            "group": "group_7"
-        },
-        {
             "videoId": "ysUtZexaZTI",
             "title": "Gypsy Rose Part 3: Gypsy Blanchard on what happened the night mom was stabbed to death",
             "secondDuration": 451,
@@ -61,8 +55,14 @@
             "title": "Spicer continues to defend Trump's wiretapping claims",
             "secondDuration": 232,
             "group": "group_7"
+        },
+        {
+            "videoId": "ra_SmNWJB2Q",
+            "title": "Mother Lovers",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

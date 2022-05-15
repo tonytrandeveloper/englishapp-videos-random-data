@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "A3msFRaCqT0",
-            "title": "Texas Teen Raises $30,000 For Hospital That Treated Her Cancer",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "RO2CT-fPufE",
             "title": "Into a New Voting Rights Act | Into America Podcast – Ep. 49 | NBC News and MSNBC",
             "secondDuration": 1751,
@@ -61,8 +55,14 @@
             "title": "HHS Alex Azar Explains How Admin. Plans To Lower Cost Of Prescription Drugs | NBC Nightly News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "yzu7W0P1Nmc",
+            "title": "El Chapo On Trial: Paranoia, Plastic Surgery And The Media | NBC News Signal",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

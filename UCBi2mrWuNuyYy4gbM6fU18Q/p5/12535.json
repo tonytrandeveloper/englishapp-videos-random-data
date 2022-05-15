@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Lfo0zDto624",
-            "title": "Dog Trick Videos: Arbor the Dog Paints; Jasmine Runs Errands: Funny Dogs Caught on Tape",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "4DNFXwV_s-8",
             "title": "Pilot Sentenced to 120 Days in Prison for Landing at Capitol",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "Istanbul Terror Attack Suspects",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "QMAW_rw0w_U",
+            "title": "Stimulus checks heading out to most Americans",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

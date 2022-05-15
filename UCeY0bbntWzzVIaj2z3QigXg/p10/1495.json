@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sLB1acRogsk",
-            "title": "Morning News NOW Full Broadcast - Dec. 14",
-            "secondDuration": 2778,
-            "group": "group_7"
-        },
-        {
             "videoId": "AeR_UKlNAe0",
             "title": "Women Of Color Celebrate Ancestors Who Fought In Revolutionary War | NBC Nightly News",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Rapper Rick Ross Talks New Memoir And Childhood Lessons | NBC News Now",
             "secondDuration": 367,
             "group": "group_7"
+        },
+        {
+            "videoId": "mUshnizODL8",
+            "title": "President Donald Trump Awards Medal Of Honor | NBC News",
+            "secondDuration": 1328,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

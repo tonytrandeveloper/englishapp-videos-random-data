@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AfELT9gVmPo",
-            "title": "F-35 Fighter Jet: The Future of Flight",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "3JdgVGU31G0",
             "title": "A senior citizen who bags groceries at a New Jersey supermarket has an interesting past",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "Authorities searching for missing woman, 2-week-old baby in Texas",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "ebQq_JPf_GI",
+            "title": "Astrophysicist Dr. Hakeem Oluseyi pulled himself up through 'hope and hussle'",
+            "secondDuration": 462,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

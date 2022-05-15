@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rGWJhd_OC04",
-            "title": "Trump announces a new round of sanctions against North Korea",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "0xv10moHU3w",
             "title": "Two Children Killed by Fresh Water Parasites",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "British prime minister responds to London Underground terror attack",
             "secondDuration": 219,
             "group": "group_7"
+        },
+        {
+            "videoId": "oWsVRJaxFmc",
+            "title": "Super Bowl Sunday: Countdown to the Big Game",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

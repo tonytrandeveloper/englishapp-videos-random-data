@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "uirah9JRweI",
-            "title": "UPS Cargo Jet Crashes Near Birmingham International Airport",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "4m-s4XUVljc",
             "title": "Trump launches political attacks in El Paso, Dayton visits l ABCNews",
             "secondDuration": 200,
@@ -301,8 +295,14 @@
             "title": "Sanctions ‘with teeth’ needed on China cyber threat: Rep. John Katko",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "8YElmtznDEU",
+            "title": "New security precautions in effect for holiday season",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

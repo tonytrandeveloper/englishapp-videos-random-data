@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AWSzTDENQ6I",
-            "title": "Watch Live: Police Respond To Shooter At Illinois Manufacturing Plant | NBC News",
-            "secondDuration": 1104,
-            "group": "group_7"
-        },
-        {
             "videoId": "8ynhz2nA1Zk",
             "title": "Alexei Navalny Sends ‘Heart’ Messages As Court Sentences Him To Jail | NBC News NOW",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "Delta COVID-19 Variant Makes Up 20 Percent Of New U.S. Covid Cases",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "bAYkRxh35hE",
+            "title": "New York City Parents React To Schools’ Plans To Hold Outdoor Classes | NBC News NOW",
+            "secondDuration": 746,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

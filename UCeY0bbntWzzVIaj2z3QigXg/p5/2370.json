@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8iNVNVeWLeE",
-            "title": "Chronicling The War",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "W2xHffsjnBk",
             "title": "Utah Law Requires Biological Fathers To Pay Half Of Pregnancy Costs | NBC News NOW",
             "secondDuration": 212,
@@ -31,8 +25,14 @@
             "title": "‘Entire Roof Is Collapsed In’: Witness Described Notre Dame Damage | NBC News",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "VNiUXkSlR0U",
+            "title": "Inaugural Poet Amanda Gorman Discusses Her Powerful Message | NBC Nightly News",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

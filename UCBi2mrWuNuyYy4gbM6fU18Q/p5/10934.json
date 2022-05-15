@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PU_2uu5rNBs",
-            "title": "Key moments from final presidential debate",
-            "secondDuration": 576,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zu0gix9J-Fg",
             "title": "Jury deliberates on the Kyle Rittenhouse trial",
             "secondDuration": 225,
@@ -31,8 +25,14 @@
             "title": "Israel Strikes Syrian Trucks Heading for Lebanon",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "HxI7vpHPs-I",
+            "title": "Biden speaks after meeting with Senate Democrats on voting rights",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

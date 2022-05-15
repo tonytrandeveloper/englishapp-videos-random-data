@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MrjIIj_qR3M",
-            "title": "Deadly shooting at an arts festival in New Jersey",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "WkSqV51RNCo",
             "title": "Haley leaves as Palestinian ambassador begins to speak at the UN",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "Will and Kate Welcome Olympic Torch to Buckingham Palace",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "I7dh6Ao-bSY",
+            "title": "How mail bombing suspect was tracked down",
+            "secondDuration": 539,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

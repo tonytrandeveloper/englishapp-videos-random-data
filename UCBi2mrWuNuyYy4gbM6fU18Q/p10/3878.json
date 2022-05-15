@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iIVvcxiYFOs",
-            "title": "How doctors are fighting the growing coronavirus pandemic",
-            "secondDuration": 298,
-            "group": "group_7"
-        },
-        {
             "videoId": "oRIM6K0wfy4",
             "title": "Severe weather runs rampant as a tropical storm targets the Gulf",
             "secondDuration": 174,
@@ -61,8 +55,14 @@
             "title": "Top US diplomat to testify in impeachment inquiry l ABC News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "uMm43J5Yj1U",
+            "title": "Signs of hope in the hard-hit Navajo Nation where COVID-19 cases are on the decline",
+            "secondDuration": 385,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

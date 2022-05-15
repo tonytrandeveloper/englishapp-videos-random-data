@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2BTZQ1sNanI",
-            "title": "Martin Shkreli Found Guilty Of Securities Fraud | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "QBsvo0-ARzY",
             "title": "President Donald Trump Defends Brett Kavanaugh During Campaign Rally | NBC News",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Flight Attendants Struggle With Covid, Layoffs And Anti-Maskers | NBC News NOW‌‌",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "of_Z5tSP-PQ",
+            "title": "How Airports Are Keeping Up With The Increase In Travelers This Holiday Season",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

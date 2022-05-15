@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FBOcJyvTQqg",
-            "title": "Intelligence Chief Briefs On Cyber Security For Political Candidates | NBC News",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "I1pghPEhx50",
             "title": "Texas Tribune Festival: One-on-One with Gary Cohn | NBC News",
             "secondDuration": 2016,
@@ -61,8 +55,14 @@
             "title": "Mackenzie Scott Donates 2.7 Billion To Charity, Citing Wealth Gap",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z-LNdB3cPzs",
+            "title": "Boeing Starliner Spaceship Fails Critical Flight Test After Malfunction | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6MVoHFbBrP8",
-            "title": "Chick-fil-A: Thousands Show Support",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "AKAQ3g-fF60",
             "title": "'Secrets of Happy Families': One Man's Mission",
             "secondDuration": 387,
@@ -61,8 +55,14 @@
             "title": "98-Year-Old Man Helps Clean Up After Hurricane Matthew",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZHyeGCewmj4",
+            "title": "Donald Trump Eyes General Election After New York Win",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

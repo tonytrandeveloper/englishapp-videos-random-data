@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "27b6jJL0e0M",
-            "title": "ABC News Update: CDC urges masks indoors even for vaccinated Americans",
-            "secondDuration": 1512,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hx0pSpTnqOI",
             "title": "Alligator Attacks Woman, Chomps off Hand",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Jennifer Garner Heartbroken By Ben Affleck’s “Ultimate Betrayal” | ABC News",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "EzM1Roz68xE",
+            "title": "White House press briefing  on James Comey book, Scooter Libby pardon | ABC News",
+            "secondDuration": 5132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

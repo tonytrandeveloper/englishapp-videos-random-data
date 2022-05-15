@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EEag4mVvij0",
-            "title": "Karine Jean-Pierre Speaks On 'Historic Nature' of Leading WH Briefing",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "t8Z4eAXs4dQ",
             "title": "Watch Live: White House Press Briefing - December 5, 2017",
             "secondDuration": 1232,
@@ -61,8 +55,14 @@
             "title": "Search Shifts From Rescue To Recovery in Surfside Building Collapse",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "DhWlPo3qxak",
+            "title": "From 2003: Colin Powell Addresses United Nations Security Council On Iraq",
+            "secondDuration": 391,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

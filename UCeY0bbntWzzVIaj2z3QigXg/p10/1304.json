@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wAHrpBrmq3E",
-            "title": "Toyota Concert Series on TODAY: Train",
-            "secondDuration": 18,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wd6PblOj4fc",
             "title": "Susan Lucci Warns Women About Heart Health | NBC Nightly News",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump On ‘Spygate’: ‘I Hope It’s Not True’ That FBI Used Informant | NBC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "yI6it13xOGI",
+            "title": "Coronavirus Livestream Coverage: News On The COVID-19 Outbreak | NBC News (Live Stream Recording)",
+            "secondDuration": 7732,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

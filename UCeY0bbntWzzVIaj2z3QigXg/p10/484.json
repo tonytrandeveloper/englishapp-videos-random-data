@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L2G_mcYaa3w",
-            "title": "Police Give Turkeys, Not Tickets | NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z4I404VpO-Y",
             "title": "Pocket Avatars: A Medical Breakthrough? | Nerdwatch | NBC News",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "Watch live: Trump delivers remarks to Faith and Freedom Coalition",
             "secondDuration": 5608,
             "group": "group_7"
+        },
+        {
+            "videoId": "rSwPehen2H8",
+            "title": "Obama's Message To Asian-Americans: Get Out And Vote | NBC News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

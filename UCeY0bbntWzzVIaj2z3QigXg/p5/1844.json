@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ie4N79Xe-R8",
-            "title": "Live: Michigan Gov. Whitmer Gives Coronavirus Update | NBC News",
-            "secondDuration": 2876,
-            "group": "group_7"
-        },
-        {
             "videoId": "LcuoK9Q1JbY",
             "title": "Yo Yo Ma on the Importance of Arts Education",
             "secondDuration": 13,
@@ -31,8 +25,14 @@
             "title": "Romans Dive Into River Tiber To Mark New Year",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "ocrwoYZJTq4",
+            "title": "Study Examines Far-Right Group ‘Oath Keepers’ Alleged Role In January 6 Riot",
+            "secondDuration": 476,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

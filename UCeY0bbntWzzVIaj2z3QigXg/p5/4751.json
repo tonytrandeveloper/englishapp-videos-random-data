@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "a1HSHpl0ilk",
-            "title": "Watch Live: Donald Trump Meets With North Dakota State University Bison Football Team | NBC News",
-            "secondDuration": 5384,
-            "group": "group_7"
-        },
-        {
             "videoId": "i_tyK4c2WWI",
             "title": "‘Grinch-Bots’ Buy Holiday Toys, Resell With Huge Markups | NBC Nightly News",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Should Americans Wear Masks As Protection During Pandemic? | NBC Nightly News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "BJvbuEl5r3w",
+            "title": "CBO: Health Care Bill Would Increase Uninsured By 22M In 2026; Reduce by $321B | NBC Nightly News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

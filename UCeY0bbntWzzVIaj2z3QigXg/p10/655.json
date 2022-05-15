@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XzWEmZdbAmU",
-            "title": "This Organization Is Turning Drawings Into A Social Pastime | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "YmcQx1e0DoI",
             "title": "Seven-Year-Old Bana Alabed Tweets From War-Torn Aleppo | NBC News",
             "secondDuration": 75,
@@ -61,8 +55,14 @@
             "title": "Emergency U.N. Meeting Held After North Korea Missile Launch | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "7cQYR0AF2qA",
+            "title": "Intermittent Fasting Could Help You Live Longer, Experts Say | NBC Nightly News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }
